@@ -22,6 +22,8 @@ jobs:
       run: npm i
 
     - name: Run Node.js script
+      env:  # Pass the secret as an environment variable
+        ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
       run: node .
 
     - name: Commit and push JSON files
