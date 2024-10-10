@@ -38,5 +38,10 @@ if (!res.ok) {
 }
 airingLists.value = await json
 
-await writeFile('dub-schedule.json', JSON.stringify(airingLists.value))
-await writeFile('dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
+if (await airingLists.value) {
+	await writeFile('dub-schedule.json', JSON.stringify(airingLists.value))
+	await writeFile('dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
+} else {
+	console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!');
+	process.exit(1);
+}
