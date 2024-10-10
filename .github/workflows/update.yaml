@@ -30,16 +30,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        # Check if the specified files exist
-        if [[ -f "dub-schedule-readable.json" || -f "dub-schedule.json" ]]; then
-          # Check for changes in the specified files
-          if [[ $(git diff --name-only) ]]; then
-            git add dub-schedule-readable.json dub-schedule.json
-            git commit -m "Dubbed airing schedule has changed" || exit 0
-            git push
-          else
-            echo "No changes detected, skipping commit."
-          fi
-        else
-          echo "Files do not exist, skipping commit."
-        fi
+        git add dub-schedule-readable.json dub-schedule.json
+        git commit -m "Dubbed airing schedule has changed" || exit 0
+        git push
