@@ -1,0 +1,38 @@
+name: Hourly Script Run and JSON Upload
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run every hour
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  run-script-and-upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install dependencies
+      run: npm i
+
+    - name: Run Node.js script
+      run: node .
+
+    - name: Commit and push JSON files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        # Check for changes in the specified files
+        if [[ $(git diff --name-only) ]]; then
+          git add dub-schedule-readable.json dub-schedule.json
+          git commit -m "Dubbed airing schedule has changed" || exit 0
+          git push
+        else
+          echo "No changes detected, skipping commit."
+        fi
