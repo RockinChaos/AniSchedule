@@ -39,6 +39,7 @@ if (!res.ok) {
 airingLists.value = await json
 
 if (await airingLists.value) {
+    airingLists.value.sort((a, b) => a.title.localeCompare(b.title));
 	await writeFile('dub-schedule.json', JSON.stringify(airingLists.value))
 	await writeFile('dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
 } else {
