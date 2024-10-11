@@ -162,34 +162,6 @@
     "airingStatus": "aired"
   },
   {
-    "title": "Lv1 Maou to One Room Yuusha",
-    "route": "lv-1-maou-to-one-room-yuusha",
-    "romaji": "Lv1 Maou to One Room Yuusha",
-    "english": "Lv1 Demon Lord and One Room Hero",
-    "native": "Lv1魔王とワンルーム勇者",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-08T17:00:00Z",
-    "episodeNumber": 8,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/lv-1-maou-to-one-room-yuusha-0cb28d664a.jpg",
-    "streams": {
-      "hidive": "www.hidive.com/tv/level-1-demon-lord-one-room-hero",
-      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JjdAWvKx5mOLsOQBUOcsKsw"
-    },
-    "airingStatus": "aired"
-  },
-  {
     "title": "Yoru no Kurage wa Oyogenai",
     "route": "yoru-no-kurage-wa-oyogenai",
     "romaji": "Yoru no Kurage wa Oyogenai",
@@ -214,6 +186,34 @@
     "streams": {
       "hidive": "www.hidive.com/season/22309",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2z_raZP-3EdZOrEzjrGXco"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Lv1 Maou to One Room Yuusha",
+    "route": "lv-1-maou-to-one-room-yuusha",
+    "romaji": "Lv1 Maou to One Room Yuusha",
+    "english": "Lv1 Demon Lord and One Room Hero",
+    "native": "Lv1魔王とワンルーム勇者",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-10-08T17:00:00Z",
+    "episodeNumber": 8,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/lv-1-maou-to-one-room-yuusha-0cb28d664a.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/tv/level-1-demon-lord-one-room-hero",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JjdAWvKx5mOLsOQBUOcsKsw"
     },
     "airingStatus": "aired"
   },
