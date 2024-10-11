@@ -162,34 +162,6 @@
     "airingStatus": "aired"
   },
   {
-    "title": "Yoru no Kurage wa Oyogenai",
-    "route": "yoru-no-kurage-wa-oyogenai",
-    "romaji": "Yoru no Kurage wa Oyogenai",
-    "english": "Jellyfish Can't Swim in the Night",
-    "native": "夜のクラゲは泳げない",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-08T17:00:00Z",
-    "episodeNumber": 4,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/yoru-no-kurage-wa-oyogenai-6f551d3485.jpg",
-    "streams": {
-      "hidive": "www.hidive.com/season/22309",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2z_raZP-3EdZOrEzjrGXco"
-    },
-    "airingStatus": "aired"
-  },
-  {
     "title": "Lv1 Maou to One Room Yuusha",
     "route": "lv-1-maou-to-one-room-yuusha",
     "romaji": "Lv1 Maou to One Room Yuusha",
@@ -214,6 +186,34 @@
     "streams": {
       "hidive": "www.hidive.com/tv/level-1-demon-lord-one-room-hero",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JjdAWvKx5mOLsOQBUOcsKsw"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Yoru no Kurage wa Oyogenai",
+    "route": "yoru-no-kurage-wa-oyogenai",
+    "romaji": "Yoru no Kurage wa Oyogenai",
+    "english": "Jellyfish Can't Swim in the Night",
+    "native": "夜のクラゲは泳げない",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-10-08T17:00:00Z",
+    "episodeNumber": 4,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/yoru-no-kurage-wa-oyogenai-6f551d3485.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/22309",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2z_raZP-3EdZOrEzjrGXco"
     },
     "airingStatus": "aired"
   },
@@ -438,31 +438,6 @@
     "airingStatus": "aired"
   },
   {
-    "title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "route": "boku-no-hero-academia-the-movie-4",
-    "romaji": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "english": "My Hero Academia the Movie 4",
-    "native": "僕のヒーローアカデミア THE MOVIE 4",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-11T17:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 110,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/boku-no-hero-academia-the-movie-4-93b3970bf7.jpg",
-    "streams": {},
-    "airingStatus": "unaired"
-  },
-  {
     "title": "[Oshi no Ko] 2nd Season",
     "route": "oshi-no-ko-season-2",
     "native": "【推しの子】第2期",
@@ -486,6 +461,31 @@
       "hidive": "www.hidive.com/season/24567",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JjnfDK89UJui3A9wj9Ib6yF"
     },
+    "airingStatus": "unaired"
+  },
+  {
+    "title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
+    "route": "boku-no-hero-academia-the-movie-4",
+    "romaji": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
+    "english": "My Hero Academia the Movie 4",
+    "native": "僕のヒーローアカデミア THE MOVIE 4",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-10-11T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 110,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/boku-no-hero-academia-the-movie-4-93b3970bf7.jpg",
+    "streams": {},
     "airingStatus": "unaired"
   },
   {
