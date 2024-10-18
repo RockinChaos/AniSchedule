@@ -398,7 +398,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GNVHKNPW1/nierautomata-ver11a"
     },
-    "airingStatus": "unaired"
+    "airingStatus": "airing"
   },
   {
     "title": "Nige Jouzu no Wakagimi",
@@ -568,8 +568,9 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-18T00:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2024-10-17T21:30:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
     "episodes": 26,
     "lengthMin": 24,
     "donghua": false,
