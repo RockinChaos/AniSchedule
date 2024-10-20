@@ -53,6 +53,31 @@
     "airingStatus": "aired"
   },
   {
+    "title": "Blue Lock VS. U-20 JAPAN",
+    "route": "blue-lock-2nd-season",
+    "native": "ブルーロック VS. U-20 JAPAN",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-19T20:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 14,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/blue-lock-2nd-season-614472fd53.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock"
+    },
+    "airingStatus": "aired"
+  },
+  {
     "title": "Boku no Hero Academia 7",
     "route": "boku-no-hero-academia-7",
     "romaji": "Boku no Hero Academia 7",
@@ -289,6 +314,34 @@
     "imageVersionRoute": "anime/jpg/default/kidou-senshi-gundam-fukushuu-no-requiem-151e343f98.jpg",
     "streams": {
       "netflix": "www.netflix.com/title/81276500"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Kimi wa Meido-sama.",
+    "route": "kimi-wa-meido-sama",
+    "romaji": "Kimi wa Meido-sama.",
+    "english": "You Are Ms. Servant",
+    "native": "君は冥土様。",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-19T22:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kimi-wa-meido-sama-ccca1ef3f2.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
     "airingStatus": "aired"
   },
