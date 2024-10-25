@@ -73,7 +73,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/blue-lock-2nd-season-614472fd53.jpg",
     "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock"
+      "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
+      "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
     "airingStatus": "unaired"
   },
@@ -136,11 +137,12 @@
     "title": "Delico's Nursery",
     "route": "delicos-nursery",
     "native": "デリコズ・ナーサリー",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-10-02T00:00:00Z",
-    "delayedUntil": "2024-10-16T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-10-23T21:00:00Z",
-    "episodeNumber": 8,
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 25,
     "donghua": false,
@@ -155,7 +157,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G04K/delicos-nursery"
     },
-    "airingStatus": "aired"
+    "airingStatus": "delayed-air"
   },
   {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
@@ -540,7 +542,7 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-25T00:00:00Z",
+    "episodeDate": "2024-10-24T22:00:00Z",
     "episodeNumber": 1,
     "episodes": 23,
     "lengthMin": 24,
