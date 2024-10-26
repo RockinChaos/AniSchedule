@@ -53,6 +53,34 @@
     "airingStatus": "aired"
   },
   {
+    "title": "Arifureta Shokugyou de Sekai Saikyou 3",
+    "route": "arifureta-from-commonplace-to-worlds-strongest-3",
+    "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
+    "english": "Arifureta: From Commonplace to World's Strongest 3",
+    "native": "ありふれた職業で世界最強 3",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-27T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 16,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/arifureta-from-commonplace-to-worlds-strongest-3-ca5fc0943c.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
+      "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
+    },
+    "airingStatus": "unaired"
+  },
+  {
     "title": "Blue Lock VS. U-20 JAPAN",
     "route": "blue-lock-2nd-season",
     "native": "ブルーロック VS. U-20 JAPAN",
@@ -103,7 +131,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6NQ5DWZ6/my-hero-academia"
     },
-    "airingStatus": "unaired"
+    "airingStatus": "airing"
   },
   {
     "title": "Dandadan",
@@ -291,6 +319,33 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JjdAWvKx5mOLsOQBUOcsKsw"
     },
     "airingStatus": "aired"
+  },
+  {
+    "title": "Maou 2099",
+    "route": "maou-2099",
+    "romaji": "Maou 2099",
+    "english": "Demon Lord 2099",
+    "native": "魔王2099",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-27T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/maou-2099-cd3610de0a.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
+    },
+    "airingStatus": "unaired"
   },
   {
     "title": "Maou-sama, Retry! R",
