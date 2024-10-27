@@ -6,8 +6,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-10-11T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2024-10-25T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -26,17 +26,17 @@
     "airingStatus": "aired"
   },
   {
-    "title": "Bartender: Kami no Glass",
-    "route": "bartender-kami-no-glass",
-    "romaji": "Bartender: Kami no Glass",
-    "english": "Bartender: Glass of God",
-    "native": "バーテンダー 神のグラス",
+    "title": "Amagami-san Chi no Enmusubi",
+    "route": "amagami-san-chi-no-enmusubi",
+    "romaji": "Amagami-san Chi no Enmusubi",
+    "english": "Tying the Knot with an Amagami Sister",
+    "native": "甘神さんちの縁結び",
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-10T21:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
+    "status": "Ongoing",
+    "episodeDate": "2024-10-22T20:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 24,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -46,9 +46,63 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/bartender-kami-no-glass-9c5e4163b6.jpg",
+    "imageVersionRoute": "anime/jpg/default/amagami-san-chi-no-enmusubi-72d6512308.jpg",
     "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GVDHX85DV/bartender-glass-of-god"
+      "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Arifureta Shokugyou de Sekai Saikyou 3",
+    "route": "arifureta-from-commonplace-to-worlds-strongest-3",
+    "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
+    "english": "Arifureta: From Commonplace to World's Strongest 3",
+    "native": "ありふれた職業で世界最強 3",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-27T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 16,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/arifureta-from-commonplace-to-worlds-strongest-3-ca5fc0943c.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
+      "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Blue Lock VS. U-20 JAPAN",
+    "route": "blue-lock-2nd-season",
+    "native": "ブルーロック VS. U-20 JAPAN",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-26T20:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 14,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/blue-lock-2nd-season-614472fd53.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
+      "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
     "airingStatus": "aired"
   },
@@ -60,9 +114,9 @@
     "native": "僕のヒーローアカデミア 7",
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-10-12T19:00:00Z",
-    "episodeNumber": 19,
+    "status": "Finished",
+    "episodeDate": "2024-10-26T19:00:00Z",
+    "episodeNumber": 21,
     "episodes": 21,
     "lengthMin": 24,
     "donghua": false,
@@ -77,59 +131,6 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6NQ5DWZ6/my-hero-academia"
     },
-    "airingStatus": "unaired"
-  },
-  {
-    "title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "route": "boku-no-hero-academia-the-movie-4",
-    "romaji": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "english": "My Hero Academia the Movie 4",
-    "native": "僕のヒーローアカデミア THE MOVIE 4",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-11T17:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 110,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/boku-no-hero-academia-the-movie-4-93b3970bf7.jpg",
-    "streams": {},
-    "airingStatus": "aired"
-  },
-  {
-    "title": "Boushoku no Berserk",
-    "route": "boushoku-no-berserk",
-    "romaji": "Boushoku no Berserk",
-    "english": "Berserk of Gluttony",
-    "native": "暴食のベルセルク",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-09T23:15:00Z",
-    "episodeNumber": 11,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/boushoku-no-berserk-8ae3bf096d.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/G1XHJV05V/berserk-of-gluttony",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl16aN3dffy3DzuC9JLH3gDg"
-    },
     "airingStatus": "aired"
   },
   {
@@ -139,8 +140,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-10T16:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2024-10-24T16:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -166,10 +167,10 @@
     "native": "デリコズ・ナーサリー",
     "delayedText": "Delayed",
     "delayedFrom": "2024-10-02T00:00:00Z",
-    "delayedUntil": "2024-10-16T00:00:00Z",
-    "status": "Delayed",
-    "episodeDate": "2024-10-09T21:00:00Z",
-    "episodeNumber": 7,
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-23T21:00:00Z",
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 25,
     "donghua": false,
@@ -192,8 +193,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-13T21:00:00Z",
-    "episodeNumber": 13,
+    "episodeDate": "2024-10-27T21:00:00Z",
+    "episodeNumber": 15,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -219,8 +220,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-07T14:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2024-10-21T14:30:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -231,36 +232,9 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/hoshifuru-oukoku-no-nina-42c7a247c7.jpg",
+    "imageVersionRoute": "anime/jpg/default/hoshifuru-oukoku-no-nina-28ef7ab3b1.jpg",
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G0QK/nina-the-starry-bride"
-    },
-    "airingStatus": "aired"
-  },
-  {
-    "title": "Isekai Shikkaku",
-    "route": "isekai-shikkaku",
-    "romaji": "Isekai Shikkaku",
-    "english": "No Longer Allowed in Another World",
-    "native": "異世界失格",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-08T19:30:00Z",
-    "episodeNumber": 11,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/isekai-shikkaku-ea404898bd.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GXJHM3G7X/no-longer-allowed-in-another-world"
     },
     "airingStatus": "aired"
   },
@@ -273,8 +247,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-13T20:00:00Z",
-    "episodeNumber": 13,
+    "episodeDate": "2024-10-27T20:00:00Z",
+    "episodeNumber": 15,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -291,6 +265,34 @@
     "airingStatus": "unaired"
   },
   {
+    "title": "Kimi wa Meido-sama.",
+    "route": "kimi-wa-meido-sama",
+    "romaji": "Kimi wa Meido-sama.",
+    "english": "You Are Ms. Servant",
+    "native": "君は冥土様。",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-26T22:30:00Z",
+    "episodeNumber": 2,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kimi-wa-meido-sama-ccca1ef3f2.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
+    },
+    "airingStatus": "aired"
+  },
+  {
     "title": "Lv1 Maou to One Room Yuusha",
     "route": "lv-1-maou-to-one-room-yuusha",
     "romaji": "Lv1 Maou to One Room Yuusha",
@@ -299,8 +301,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-10-08T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2024-10-22T17:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -319,43 +321,16 @@
     "airingStatus": "aired"
   },
   {
-    "title": "Make Heroine ga Oosugiru!",
-    "route": "make-heroine-ga-oosugiru",
-    "romaji": "Make Heroine ga Oosugiru!",
-    "english": "Makeine: Too Many Losing Heroines!",
-    "native": "負けヒロインが多すぎる！",
-    "delayedFrom": "2024-09-14T00:00:00Z",
-    "delayedUntil": "2024-09-21T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-12T20:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/make-heroine-ga-oosugiru-b9b8e967c3.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGXE/makeine-too-many-losing-heroines"
-    },
-    "airingStatus": "unaired"
-  },
-  {
-    "title": "Mato Seihei no Slave",
-    "route": "mato-seihei-no-slave",
-    "romaji": "Mato Seihei no Slave",
-    "english": "Chained Soldier",
-    "native": "魔都精兵のスレイブ",
+    "title": "Maou 2099",
+    "route": "maou-2099",
+    "romaji": "Maou 2099",
+    "english": "Demon Lord 2099",
+    "native": "魔王2099",
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-07T17:00:00Z",
-    "episodeNumber": 11,
+    "status": "Ongoing",
+    "episodeDate": "2024-10-27T00:00:00Z",
+    "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -366,25 +341,23 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/mato-seihei-no-slave-4e7495e634.jpg",
+    "imageVersionRoute": "anime/jpg/default/maou-2099-cd3610de0a.jpg",
     "streams": {
-      "hidive": "www.hidive.com/tv/chained-soldier",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl3ICvMY_c9VTL6yduj59Osl"
+      "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
     "airingStatus": "aired"
   },
   {
-    "title": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-    "route": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
-    "romaji": "Naze Boku no Sekai wo Daremo Oboeteinai no ka?",
-    "english": "Why Does Nobody Remember Me in This World?",
-    "native": "なぜ僕の世界を誰も覚えていないのか？",
+    "title": "Maou-sama, Retry! R",
+    "route": "maou-sama-retry-r",
+    "romaji": "Maou-sama, Retry! R",
+    "english": "Demon Lord, Retry! R",
+    "native": "魔王様、リトライ! R",
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-12T21:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
+    "status": "Ongoing",
+    "episodeDate": "2024-10-26T20:30:00Z",
+    "episodeNumber": 3,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -394,22 +367,22 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka-3d3cdf4f0f.jpg",
+    "imageVersionRoute": "anime/jpg/default/maou-sama-retry-r-68102522eb.jpg",
     "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGJE/why-does-nobody-remember-me-in-this-world",
-      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhFO-Cgv7IsqBrOGmPpI-2G&si=jS_WdqAL85Zge23b"
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
+      "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
     },
-    "airingStatus": "unaired"
+    "airingStatus": "aired"
   },
   {
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "route": "nier-automata-ver1-1a-part-2",
-    "native": "NieR:Automata Ver1.1a 第2クール",
+    "title": "MF Ghost 2nd Season",
+    "route": "mf-ghost-second-season",
+    "native": "MFゴースト 2nd Season",
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-11T20:00:00Z",
-    "episodeNumber": 11,
+    "status": "Ongoing",
+    "episodeDate": "2024-10-21T01:00:00Z",
+    "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -420,9 +393,36 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/nier-automata-ver1-1a-part-2-384f802b6d.jpg",
+    "imageVersionRoute": "anime/jpg/default/mf-ghost-second-season-e627979b5a.jpg",
     "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GNVHKNPW1/nierautomata-ver11a"
+      "crunchyroll": "www.crunchyroll.com/series/GEXH3W2W7/mf-ghost"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Natsume Yuujinchou Shichi",
+    "route": "natsume-yuujinchou-shichi",
+    "romaji": "Natsume Yuujinchou Shichi",
+    "english": "Natsume's Book of Friends Season 7",
+    "native": "夏目友人帳 漆",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-21T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/natsume-yuujinchou-shichi-9f35b2cd74.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
     "airingStatus": "aired"
   },
@@ -435,8 +435,8 @@
     "delayedFrom": "2024-10-05T00:00:00Z",
     "delayedUntil": "2024-10-12T00:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-10-12T19:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2024-10-26T19:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -452,49 +452,19 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M19X/the-elusive-samurai",
       "netflix": "www.netflix.com/title/81907835"
     },
-    "airingStatus": "unaired"
-  },
-  {
-    "title": "Nozomanu Fushi no Boukensha",
-    "route": "nozomanu-fushi-no-boukensha",
-    "romaji": "Nozomanu Fushi no Boukensha",
-    "english": "The Unwanted Undead Adventurer",
-    "native": "望まぬ不死の冒険者",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-09T22:30:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/nozomanu-fushi-no-boukensha-4bf62a8e64.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GW4HM7WZQ/the-unwanted-undead-adventurer",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl3tJE53C10vT7BjOzXaG5q5",
-      "netflix": "netflix.com/title/81746882"
-    },
     "airingStatus": "aired"
   },
   {
-    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "route": "ookami-to-koushinryou-shinsaku-anime",
-    "romaji": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "english": "Spice and Wolf: Merchant Meets the Wise Wolf",
-    "native": "狼と香辛料 merchant meets the wise wolf",
-    "delayedFrom": "2024-09-23T00:00:00Z",
-    "delayedUntil": "2024-10-07T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-07T20:30:00Z",
-    "episodeNumber": 25,
-    "episodes": 25,
+    "title": "Ooi! Tonbo 2nd Season",
+    "route": "ooi-tonbo-2nd-season",
+    "romaji": "Ooi! Tonbo 2nd Season",
+    "english": "Hey! Tonbo 2nd Season",
+    "native": "オーイ! とんぼ 第2期",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-26T01:30:00Z",
+    "episodeNumber": 4,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -504,10 +474,9 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/ookami-to-koushinryou-shinsaku-anime-1c7f0e7cca.jpg",
+    "imageVersionRoute": "anime/jpg/default/ooi-tonbo-2nd-season-c15726c602.jpg",
     "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/G1XHJV08M/spice-and-wolf-merchant-meets-the-wise-wolf",
-      "netflix": "www.netflix.com/to/title/81768918"
+      "amazon": "www.amazon.com/dp/B0DH8D89GR"
     },
     "airingStatus": "aired"
   },
@@ -520,8 +489,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-10-10T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2024-10-24T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -547,8 +516,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-12T17:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2024-10-26T17:00:00Z",
+    "episodeNumber": 4,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -562,7 +531,89 @@
     "streams": {
       "netflix": "www.netflix.com/title/81171925"
     },
-    "airingStatus": "unaired"
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+    "route": "re-zero-kara-hajimeru-isekai-seikatsu-3",
+    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
+    "english": "Re:Zero - Starting Life in Another World 3",
+    "native": "Native Re:ゼロから始める異世界生活3",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-23T21:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 16,
+    "lengthMin": 25,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/re-zero-kara-hajimeru-isekai-seikatsu-3-4ff0e54be2.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "route": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "romaji": "Rekishi ni Nokoru Akujo ni Naruzo",
+    "english": "I'll Become a Villainess Who Goes Down in History",
+    "native": "歴史に残る悪女になるぞ",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-22T21:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/rekishi-ni-nokoru-akujo-ni-naru-zo-9745ead287.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
+    },
+    "airingStatus": "aired"
+  },
+  {
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    "route": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
+    "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+    "english": "Rurouni Kenshin -Kyoto Disturbance-",
+    "native": "るろうに剣心 -明治剣客浪漫譚- 京都動乱",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-10-24T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 23,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran-ed6d5ba111.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
+    },
+    "airingStatus": "aired"
   },
   {
     "title": "Seirei Gensouki 2",
@@ -573,8 +624,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-07T18:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2024-10-21T18:00:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -592,99 +643,16 @@
     "airingStatus": "aired"
   },
   {
-    "title": "SHY 2nd Season",
-    "route": "shy-2nd-season",
-    "native": "SHY 東京奪還編",
-    "delayedFrom": "2024-08-19T00:00:00Z",
-    "delayedUntil": "2024-08-26T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-07T20:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/shy-2nd-season-1df88257c7.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GKEH2G0W9/shy"
-    },
-    "airingStatus": "aired"
-  },
-  {
-    "title": "Tensei shitara Slime Datta Ken 3",
-    "route": "tensei-shitara-slime-datta-ken-3rd-season",
-    "romaji": "Tensei shitara Slime Datta Ken 3",
-    "english": "That Time I Got Reincarnated as a Slime Season 3",
-    "native": "転生したらスライムだった件 第3期",
-    "delayedFrom": "2024-09-13T00:00:00Z",
-    "delayedUntil": "2024-09-20T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-11T21:30:00Z",
-    "episodeNumber": 24,
-    "episodes": 24,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/tensei-shitara-slime-datta-ken-3rd-season-307c003f5d.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GYZJ43JMR/that-time-i-got-reincarnated-as-a-slime",
-      "youtube": "www.youtube.com/watch?v=MEDyQiOB7xk&list=PLwLSw1_eDZl0TccWcuNXEUCq0R6KBWYFW"
-    },
-    "airingStatus": "aired"
-  },
-  {
-    "title": "Tsue to Tsurugi no Wistoria",
-    "route": "tsue-to-tsurugi-no-wistoria",
-    "romaji": "Tsue to Tsurugi no Wistoria",
-    "english": "Wistoria: Wand and Sword",
-    "native": "杖と剣のウィストリア",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2024-10-13T21:30:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/tsue-to-tsurugi-no-wistoria-0ecc7f703c.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GW4HM7WK9/wistoria-wand-and-sword",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl3fj-ljtzKxYaTBgrqtcqoY",
-      "netflix": "www.netflix.com/title/81900358"
-    },
-    "airingStatus": "unaired"
-  },
-  {
-    "title": "Uzumaki",
-    "route": "uzumaki",
-    "english": "Uzumaki: Spiral into Horror",
-    "native": "うずまき",
+    "title": "Trillion Game",
+    "route": "trillion-game",
+    "native": "トリリオンゲーム",
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-13T04:31:00Z",
+    "episodeDate": "2024-10-24T21:30:00Z",
     "episodeNumber": 3,
-    "episodes": 4,
-    "lengthMin": 25,
+    "episodes": 26,
+    "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
     "mediaTypes": [
@@ -693,9 +661,12 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/uzumaki-d044719062.jpg",
-    "streams": {},
-    "airingStatus": "unaired"
+    "imageVersionRoute": "anime/jpg/default/trillion-game-6cd3a9723c.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
+    },
+    "airingStatus": "aired"
   },
   {
     "title": "Yeosin Gangnim",
@@ -706,8 +677,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-10-09T22:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2024-10-23T22:00:00Z",
+    "episodeNumber": 10,
     "lengthMin": 19,
     "donghua": false,
     "airType": "dub",
@@ -732,8 +703,8 @@
     "delayedFrom": "0001-01-01T00:00:00Z",
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-10-08T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2024-10-22T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -760,8 +731,8 @@
     "delayedFrom": "2024-09-16T00:00:00Z",
     "delayedUntil": "2024-09-23T00:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-10-07T08:30:00Z",
-    "episodeNumber": 16,
+    "episodeDate": "2024-10-21T08:30:00Z",
+    "episodeNumber": 18,
     "episodes": 27,
     "lengthMin": 24,
     "donghua": false,
