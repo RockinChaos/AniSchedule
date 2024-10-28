@@ -1,7 +1,7 @@
 import lavenshtein from 'js-levenshtein'
 import Bottleneck from 'bottleneck'
 
-const     queryObjects = /* js */`
+const queryObjects = /* js */`
 id,
 idMal,
 title {

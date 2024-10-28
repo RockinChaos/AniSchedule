@@ -1,4 +1,5 @@
 // noinspection JSUnresolvedReference
+
 import { writeFile } from 'node:fs/promises'
 import { writable } from 'simple-store-svelte'
 import AnimeResolver from './utils/animeresolver.js'
@@ -13,7 +14,7 @@ if (!BEARER_TOKEN) {
 
 let airingLists = writable()
 
-console.log(`Getting dub airing schedule` )
+console.log(`Getting dub airing schedule`)
 let res = {}
 try {
     res = await fetch('https://animeschedule.net/api/v3/timetables/dub', {
@@ -132,11 +133,14 @@ for (const entry of order) { // remap dub airingSchedule to results airingSchedu
 }
 
 if (results) {
+    console.log(`Successfully resolved ${results.length} airing, saving...`)
     await writeFile('dub-schedule-resolved.json', JSON.stringify(results))
     await writeFile('dub-schedule-resolved-readable.json', JSON.stringify(results, null, 2))
 } else {
     console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
     process.exit(1)
 }
+
+console.log(`Finished fetching dub airing schedule.`)
 
 // end of resolve airing lists //
