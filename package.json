@@ -1,6 +1,7 @@
 {
   "name": "dub-schedule",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "main": "index.js",
   "type": "module",
   "description": "",
   "scripts": {
@@ -10,6 +11,7 @@
   "author": "RockinChaos",
   "license": "GPL-3.0-only",
   "dependencies": {
+    "anitomyscript": "github:ThaUnknown/anitomyscript#42290c4b3f256893be08a4e89051f448ff5e9d00",
     "bottleneck": "^2.19.5",
     "cheerio": "^1.0.0",
     "js-levenshtein": "^1.1.6",
