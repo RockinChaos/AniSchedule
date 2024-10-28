@@ -2,6 +2,32 @@ import { writeFile } from 'node:fs/promises'
 import { writable } from 'simple-store-svelte'
 import AnimeResolver from './utils/animeresolver.js'
 
+// because anitomyscript depresion //
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const path = await import('path');
+const fs = await import('fs');
+
+globalThis.__filename = __filename;
+globalThis.__dirname = __dirname;
+
+globalThis.require = (module) => {
+    if (module === 'path') {
+        return {
+            ...path,
+            normalize: (p) => {
+                const parts = p.split('file://');
+                return parts.length > 1 ? parts[1].replace(/^\/[A-Z]:/, '') : p;
+            }
+        };
+    }
+    if (module === 'fs') return fs;
+    throw new Error(`Module ${module} not found`);
+};
+// end of anitomyscript depression //
+
 const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN;
 if (!BEARER_TOKEN) {
     console.error('Error: ANIMESCHEDULE_TOKEN environment variable is not defined.');
@@ -123,6 +149,7 @@ for (const entry of order) { // remap dub airingSchedule to results airingSchedu
 
 if (results) {
     await writeFile('dub-schedule-resolved.json', JSON.stringify(results))
+    await writeFile('dub-schedule-resolved-readable.json', JSON.stringify(results, null, 2))
 } else {
     console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!');
     process.exit(1);
