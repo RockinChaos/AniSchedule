@@ -10,30 +10,37 @@ title {
   native,
   userPreferred
 },
-description(asHtml: false),
-season,
-seasonYear,
 format,
-status,
-episodes,
-duration,
-averageScore,
-genres,
-tags {
-  name,
-  rank
-},
-isFavourite,
 coverImage {
   extraLarge,
   medium,
   color
 },
-source,
-countryOfOrigin,
 isAdult,
 bannerImage,
+airingSchedule(page: 1, perPage: 1, notYetAired: true) {
+  nodes {
+    episode,
+    airingAt
+  }
+}`
+
+const queryComplexObjects = /* js */`
+description(asHtml: false),
+season,
+seasonYear,
+status,
+episodes,
+duration,
+averageScore,
+source,
+countryOfOrigin,
 synonyms,
+genres,
+tags {
+  name,
+  rank
+},
 studios(sort: NAME, isMain: true) {
   nodes {
     name
@@ -56,12 +63,6 @@ trailer {
 streamingEpisodes {
   title,
   thumbnail
-},
-airingSchedule(page: 1, perPage: 1, notYetAired: true) {
-  nodes {
-    episode,
-    airingAt
-  }
 },
 relations {
   edges {
