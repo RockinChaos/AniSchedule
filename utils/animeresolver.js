@@ -1,21 +1,12 @@
-import Anilist from './anilist.js'
-import { anitomyscript } from "./anime.js";
+import { anilistClient } from './anilist.js'
+import { anitomyscript } from './anime.js'
+import { chunks } from './util.js'
 
 const postfix = {
   1: 'st', 2: 'nd', 3: 'rd'
 }
 
-/**
- * @template T
- * @param {T[]} arr
- * @param {number} n
- */
-export function * chunks (arr, n) {
-  for (let i = 0; i < arr.length; i += n) {
-    yield arr.slice(i, i + n)
-  }
-}
-
+// noinspection JSUnresolvedReference
 export default new class AnimeResolver {
   // name: media cache from title resolving
   animeNameCache = {}
@@ -78,16 +69,23 @@ export default new class AnimeResolver {
     if (!parseObjects.length) return
     const titleObjects = parseObjects.map(obj => {
       const key = this.getCacheKeyForTitle(obj)
-      const titleObjects = this.alternativeTitles(obj.anime_title).map(title => ({ title, year: obj.anime_year, key, isAdult: false }))
+      const titles = this.alternativeTitles(obj.anime_title)
+      const titleObjects = titles.flatMap(title => {
+        const titleObject = { title, key, isAdult: false }
+        const titleVariants = [{ ...titleObject }]
+        if (obj.anime_year) {
+          titleVariants.push({ ...titleObject, year: obj.anime_year })
+        }
+        return titleVariants
+      })
       titleObjects.push({ ...titleObjects.at(-1), isAdult: true })
       return titleObjects
     }).flat()
 
     console.log(`Finding ${titleObjects?.length} titles: ${titleObjects?.map(obj => obj.title).join(', ')}`)
-
     for (const chunk of chunks(titleObjects, 60)) {
-      // single title has a complexity of 8.1, al limits complexity to 500, so this can be at most 62, undercut it to 60, al pagination is 50, but at most we'll do 30 titles since isAduld duplicates each title
-      for (const [key, media] of await Anilist.alSearchCompound(chunk)) {
+      // single title has a complexity of 8.1, al limits complexity to 500, so this can be at most 62, undercut it to 60, al pagination is 50, but at most we'll do 30 titles since isAdult duplicates each title
+      for (const [key, media] of await anilistClient.alSearchCompound(chunk)) {
         console.log(`Found ${key} as ${media?.id}: ${media?.title?.userPreferred}`)
         this.animeNameCache[key] = media
       }
@@ -98,7 +96,7 @@ export default new class AnimeResolver {
    * @param {number} id
    */
   async getAnimeById (id) {
-    const res = await Anilist.searchIDSingle({ id })
+    const res = await anilistClient.searchIDSingle({ id })
 
     return res.data.Media
   }

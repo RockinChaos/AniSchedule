@@ -1,39 +1,18 @@
+// noinspection JSUnresolvedReference
 import { writeFile } from 'node:fs/promises'
 import { writable } from 'simple-store-svelte'
 import AnimeResolver from './utils/animeresolver.js'
 
-// because anitomyscript depresion //
-import { fileURLToPath } from 'url';
-import { dirname } from 'path';
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-const path = await import('path');
-const fs = await import('fs');
-
-globalThis.__filename = __filename;
-globalThis.__dirname = __dirname;
-
-globalThis.require = (module) => {
-    if (module === 'path') {
-        return {
-            ...path,
-            normalize: (p) => {
-                const parts = p.split('file://');
-                return parts.length > 1 ? parts[1].replace(/^\/[A-Z]:/, '') : p;
-            }
-        };
-    }
-    if (module === 'fs') return fs;
-    throw new Error(`Module ${module} not found`);
-};
-// end of anitomyscript depression //
-
-const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN;
+const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
 if (!BEARER_TOKEN) {
-    console.error('Error: ANIMESCHEDULE_TOKEN environment variable is not defined.');
-    process.exit(1);
+    console.error('Error: ANIMESCHEDULE_TOKEN environment variable is not defined.')
+    process.exit(1)
 }
+
+// Fetch airing lists //
+
 let airingLists = writable()
+
 console.log(`Getting dub airing schedule` )
 let res = {}
 try {
@@ -67,13 +46,18 @@ if (!res.ok) {
 airingLists.value = await json
 
 if (await airingLists.value) {
-    airingLists.value.sort((a, b) => a.title.localeCompare(b.title));
+    console.log(`Successfully retrieved ${airingLists.value.length} airing, saving...`)
+    airingLists.value.sort((a, b) => a.title.localeCompare(b.title))
     await writeFile('dub-schedule.json', JSON.stringify(airingLists.value))
     await writeFile('dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
 } else {
-    console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!');
-    process.exit(1);
+    console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!')
+    process.exit(1)
 }
+
+// end of airing lists //
+
+// resolve airing lists //
 
 const airing = await airingLists.value
 const titles = []
@@ -135,7 +119,7 @@ for (const entry of order) { // remap dub airingSchedule to results airingSchedu
                 nodes: [
                     {
                         episode: airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) ? 1 : 0),
-                        airingAt: Math.floor(past(new Date(airingItem.episodeDate), 1).getTime() / 1000),
+                        airingAt: Math.floor(past(new Date(airingItem.episodeDate), 1, false).getTime() / 1000),
                         episodeNumber: airingItem.episodeNumber,
                         episodeDate: airingItem.episodeDate,
                         delayedUntil: airingItem.delayedUntil,
@@ -151,6 +135,8 @@ if (results) {
     await writeFile('dub-schedule-resolved.json', JSON.stringify(results))
     await writeFile('dub-schedule-resolved-readable.json', JSON.stringify(results, null, 2))
 } else {
-    console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!');
-    process.exit(1);
+    console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
+    process.exit(1)
 }
+
+// end of resolve airing lists //

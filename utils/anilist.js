@@ -91,7 +91,7 @@ recommendations {
 }`
 
 /**
- * @param {import('./al.d.ts').Media & {lavenshtein?: number}} media
+ * @param {import('./types/al.d.ts').Media & {lavenshtein?: number}} media
  * @param {string} name
  */
 function getDistanceFromTitle (media, name) {
@@ -106,7 +106,7 @@ function getDistanceFromTitle (media, name) {
 
 export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.())
 
-export default new class Anilist {
+class AnilistClient {
 
     limiter = new Bottleneck({
         reservoir: 90,
@@ -120,7 +120,7 @@ export default new class Anilist {
 
     constructor () {
         console.log('Initializing Anilist Client')
-        this.limiter.on('failed', async (error, jobInfo) => {
+        this.limiter.on('failed', async (error) => {
             console.error(error)
 
             if (error.status === 500) return 1
@@ -139,6 +139,11 @@ export default new class Anilist {
         })
     }
 
+    /**
+     * Searches for a single media item by ID.
+     * @param {Object} variables - The search parameters.
+     * @returns {Promise<Query<{media: Media[]}>>} - The result of the search, containing a single media item.
+     */
     async searchIDSingle (variables) {
         console.log(`Searching for ID: ${variables?.id}`)
         const query = /* js */` 
@@ -150,7 +155,11 @@ export default new class Anilist {
         return await this.alRequest(query, variables)
     }
 
-    /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
+    /**
+     * Searches for media by IDs.
+     * @param {Object} variables - The search parameters.
+     * @returns {Promise<PagedQuery<{media: Media[]}>>} - The result of the search, containing media data.
+     */
     async searchIDS (variables) {
         console.log(`Searching for IDs ${JSON.stringify(variables)}`)
         const query = /* js */` 
@@ -209,8 +218,8 @@ export default new class Anilist {
     }`
 
         /**
-         * @type {import('./al.d.ts').Query<Record<string, {media: import('./al.d.ts').Media[]}>>}
-         * @returns {Promise<[string, import('./al.d.ts').Media][]>}
+         * @type {import('./types/al.d.ts').Query<Record<string, {media: import('./types/al.d.ts').Media[]}>>}
+         * @returns {Promise<[string, import('./types/al.d.ts').Media][]>}
          * */
         const res = await this.alRequest(query, requestVariables)
 
@@ -277,3 +286,5 @@ export default new class Anilist {
         return json
     })
 }
+
+export const anilistClient = new AnilistClient()
