@@ -1,13 +1,12 @@
-// noinspection JSUnresolvedReference
-
-import { writeFile } from 'node:fs/promises'
-import { writable } from 'simple-store-svelte'
+// noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
 import fs from 'fs'
 import path from 'path'
 
 if (!process.argv.includes('update-feeds')) {
 
+    const { writeFile } = await import('node:fs/promises')
+    const { writable } =  await import('simple-store-svelte')
     const { default: AnimeResolver } = await import('./utils/animeresolver.js')
 
     const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
