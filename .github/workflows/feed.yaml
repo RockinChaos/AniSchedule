@@ -18,9 +18,6 @@ jobs:
       with:
         node-version: '18'
 
-    - name: Install dependencies
-      run: npm i
-
     - name: Run Node.js script
       run: node index.js update-feeds
 
