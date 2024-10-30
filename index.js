@@ -170,26 +170,56 @@ function updateFeeds() {
     const schedule = loadJSON(scheduleFilePath)
     const existingFeed = loadJSON(feedFilePath)
 
-    const newEpisodes = schedule.map(entry => {
+    const newEpisodes = schedule.flatMap(entry => {
+        let newEpisodes = []
         const airing = entry.media.airingSchedule.nodes[0]
-        return {
+
+        // handle double-header (multi-header) releases
+        const latestEpisode = airing.episodeNumber
+        const existingEpisodes = existingFeed.filter(media => media.id === entry.media.id)
+        const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
+
+        for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
+            const baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
+            if (!baseEpisode) break
+
+            const batchEpisode = {
+                id: entry.media.id,
+                idMal: entry.media.idMal,
+                episode: {
+                    aired: episodeNum,
+                    airedAt: baseEpisode.episode.airedAt,
+                    airedUTC: baseEpisode.episode.airedUTC
+                }
+            }
+
+            newEpisodes.push(batchEpisode)
+        }
+
+        // handle single new episodes
+        const newEpisode = {
             id: entry.media.id,
             idMal: entry.media.idMal,
             episode: {
-                ...(airing.unaired && {unaired: airing.unaired}),
-                aired: airing.episodeNumber,
+                aired: latestEpisode,
                 airedAt: (new Date(airing.episodeDate).getTime() / 1000),
-                airedUTC: airing.episodeDate,
+                airedUTC: airing.episodeDate
             }
         }
-    }).filter(({id, episode}) => {
-        return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired) && !episode.unaired && episode.airedAt <= Math.floor(Date.now() / 1000)
+
+        if (!airing.unaired && newEpisode.episode.airedAt <= Math.floor(Date.now() / 1000)) {
+            newEpisodes.push(newEpisode)
+        }
+
+        return newEpisodes
+    }).filter(({ id, episode }) => {
+        return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)
     }).sort((a, b) => b.episode.airedAt - a.episode.airedAt)
 
     saveJSON(feedFilePath, [...newEpisodes, ...existingFeed])
 
-    console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
     console.log(`Added ${newEpisodes.length} new episodes to the Dubbed Episodes Feed.`)
+    console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
 }
 
 updateFeeds()
