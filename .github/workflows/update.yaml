@@ -32,4 +32,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add './*.json'
         git commit -m "Dubbed airing schedule has changed" || exit 0
+        git pull --rebase
         git push
