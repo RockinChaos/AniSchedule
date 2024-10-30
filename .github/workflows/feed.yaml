@@ -1,12 +1,12 @@
-name: Update Schedules
+name: Update Feeds
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '*/5 * * * *'  # Run every 5 minutes
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  resolve-schedule-and-upload:
+  update-feeds-and-upload:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,14 +22,12 @@ jobs:
       run: npm i
 
     - name: Run Node.js script
-      env:  # Pass the secret as an environment variable
-        ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
-      run: node index.js
+      run: node index.js update-feeds
 
     - name: Commit and push JSON files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add './*.json'
-        git commit -m "Dubbed airing schedule has changed" || exit 0
+        git commit -m "Dubbed episode feed has changed" || exit 0
         git push
