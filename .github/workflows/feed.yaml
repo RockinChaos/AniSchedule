@@ -2,7 +2,7 @@ name: Update Feeds
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Run every 5 minutes
+    - cron: '0 0 * * *'  # Run once a day to start the 24-hour loop
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -10,21 +10,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-    - name: Run Node.js script
-      run: node index.js update-feeds
-
-    - name: Commit and push JSON files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add './*.json'
-        git commit -m "Dubbed episode feed has changed" || exit 0
-        git push
+      - name: Start 24-hour loop
+        run: |
+          end_time=$(( $(date +%s) + 86400 ))  # Set end time to 24 hours from start
+          while [ $(date +%s) -lt $end_time ]; do
+            echo "Running feed update"
+          
+            # Pull latest changes
+            git pull
+          
+            # Run the feed update script
+            node index.js update-feeds
+          
+            # Stage, commit, and push any JSON changes
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add './*.json'
+            git commit -m "Dubbed episode feed has changed" || true  # Prevent exit on no changes
+            git push || true  # Prevent exit if nothing to push
+          
+            # Wait 30 seconds before the next iteration
+            echo "Sleeping for 30 seconds..."
+            sleep 30
+          done
+        shell: bash
