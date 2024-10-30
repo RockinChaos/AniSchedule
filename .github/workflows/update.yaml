@@ -1,4 +1,4 @@
-name: Hourly Script Run and JSON Upload
+name: Update Schedules
 
 on:
   schedule:
