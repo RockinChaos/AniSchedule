@@ -4,11 +4,16 @@ import { writeFile } from 'node:fs/promises'
 import { writable } from 'simple-store-svelte'
 import AnimeResolver from './utils/animeresolver.js'
 
+import fs from 'fs'
+import path from 'path'
+
 const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
 if (!BEARER_TOKEN) {
     console.error('Error: ANIMESCHEDULE_TOKEN environment variable is not defined.')
     process.exit(1)
 }
+
+const currentTime = Math.floor(Date.now() / 1000)
 
 // Fetch airing lists //
 
@@ -124,7 +129,7 @@ for (const entry of order) { // remap dub airingSchedule to results airingSchedu
                         episodeNumber: airingItem.episodeNumber,
                         episodeDate: airingItem.episodeDate,
                         delayedUntil: airingItem.delayedUntil,
-                        unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime() / 1000) > Math.floor(Date.now() / 1000))
+                        unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime() / 1000) > currentTime)
                     },
                 ],
             }
@@ -144,3 +149,42 @@ if (results) {
 console.log(`Finished fetching dub airing schedule.`)
 
 // end of resolve airing lists //
+
+// update dub schedule feed //
+
+const scheduleFilePath = path.join(__dirname, 'dub-schedule-resolved.json')
+const feedFilePath = path.join(__dirname, 'dub-episode-feed.json')
+
+function loadJSON(filePath) {
+    if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, JSON.stringify([]))
+    return JSON.parse(fs.readFileSync(filePath))
+}
+
+function saveJSON(filePath, data) {
+    fs.writeFileSync(filePath, JSON.stringify(data))
+}
+
+const schedule = loadJSON(scheduleFilePath)
+const existingFeed = loadJSON(feedFilePath)
+
+const newEpisodes = schedule.map(entry =>
+    {
+        const airing = entry.media.airingSchedule.nodes[0]
+        return {
+            id: entry.media.id,
+            idMal: entry.media.idMal,
+            episode: {
+                ...(airing.unaired && { unaired: airing.unaired }),
+                aired: airing.episodeNumber,
+                airedAt: (new Date(airing.episodeDate).getTime() / 1000),
+                airedUTC: airing.episodeDate,
+            }
+        }
+    }).filter(({ id, episode}) => { return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired) && !episode.unaired && episode.airedAt <= currentTime }).sort((a, b) => b.episode.airedAt - a.episode.airedAt)
+
+saveJSON(feedFilePath, [...newEpisodes, ...existingFeed])
+
+console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
+console.log(`Added ${newEpisodes.length} new episodes to the Dubbed Episodes Feed.`)
+
+// end update dub schedule feed //
