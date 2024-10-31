@@ -7,7 +7,7 @@ on:
 
 jobs:
   resolve-schedule-and-upload:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted-primary
 
     steps:
     - name: Checkout repository
