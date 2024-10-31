@@ -18,8 +18,18 @@ jobs:
       with:
         node-version: '18'
 
+    - name: Cache Node.js modules
+      uses: actions/cache@v3
+      with:
+        path: |
+          node_modules
+          ~/.npm
+        key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          ${{ runner.os }}-node-
+
     - name: Install dependencies
-      run: npm i
+      run: npm ci
 
     - name: Run Node.js script
       env:  # Pass the secret as an environment variable
