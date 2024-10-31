@@ -21,9 +21,9 @@ jobs:
 
       - name: Start 24-hour loop
         run: |
-          end_time=$(( $(date +%s) + 86400 ))  # Set end time to 24 hours from start
+          end_time=$(( $(date +%s) + 86400 ))
           while [ $(date +%s) -lt $end_time ]; do
-            echo "Running feed update"
+            echo "Checking for newly released episodes"
           
             # Pull latest changes
             git pull
@@ -35,10 +35,9 @@ jobs:
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add './*.json'
-            git commit -m "Dubbed episode feed has changed" || true  # Prevent exit on no changes
-            git push || true  # Prevent exit if nothing to push
+            git commit -m "Dubbed episode feed has changed" || true
+            git push || true
           
-            # Wait 30 seconds before the next iteration
             echo "Sleeping for 30 seconds..."
             sleep 30
           done

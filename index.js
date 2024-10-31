@@ -107,9 +107,7 @@ if (!process.argv.includes('update-feeds')) {
      * @returns {Date}
      */
     function past(episodeDate, weeks = 0, skip) {
-        if (episodeDate < new Date() || skip) {
-            episodeDate.setDate(episodeDate.getDate() + (7 * weeks))
-        }
+        if (episodeDate < new Date() || skip) return new Date(episodeDate.getTime() + ((7 * 24 * 60 * 60 * 1000) * weeks))
         return episodeDate
     }
 
@@ -125,7 +123,7 @@ if (!process.argv.includes('update-feeds')) {
                     nodes: [
                         {
                             episode: airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) ? 1 : 0),
-                            airingAt: Math.floor(past(new Date(airingItem.episodeDate), 1, false).getTime() / 1000),
+                            airingAt: past(new Date(airingItem.episodeDate), 1, false).toISOString().slice(0, -5) + 'Z',
                             episodeNumber: airingItem.episodeNumber,
                             episodeDate: airingItem.episodeDate,
                             delayedUntil: airingItem.delayedUntil,
@@ -188,8 +186,7 @@ function updateFeeds() {
                 idMal: entry.media.idMal,
                 episode: {
                     aired: episodeNum,
-                    airedAt: baseEpisode.episode.airedAt,
-                    airedUTC: baseEpisode.episode.airedUTC
+                    airedAt: baseEpisode.episode.airedAt
                 }
             }
 
@@ -202,8 +199,7 @@ function updateFeeds() {
             idMal: entry.media.idMal,
             episode: {
                 aired: latestEpisode,
-                airedAt: (new Date(airing.episodeDate).getTime() / 1000),
-                airedUTC: airing.episodeDate
+                airedAt: airing.episodeDate
             }
         }
 
