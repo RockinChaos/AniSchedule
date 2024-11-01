@@ -2,6 +2,7 @@
 
 import fs from 'fs'
 import path from 'path'
+import { past } from './utils/util.js'
 
 if (!process.argv.includes('update-feeds')) {
 
@@ -100,17 +101,6 @@ if (!process.argv.includes('update-feeds')) {
         }
     }
 
-    /**
-     * @param {Date} episodeDate
-     * @param {number} weeks - the number of weeks past the episodeDate
-     * @param {boolean} skip - Add the specified number of weeks regardless of the episodeDate having past.
-     * @returns {Date}
-     */
-    function past(episodeDate, weeks = 0, skip) {
-        if (episodeDate < new Date() || skip) return new Date(episodeDate.getTime() + ((7 * 24 * 60 * 60 * 1000) * weeks))
-        return episodeDate
-    }
-
     // Resolve found titles
     const results = await AnimeResolver.resolveFileAnime(titles)
     for (const entry of order) { // remap dub airingSchedule to results airingSchedule
@@ -123,11 +113,11 @@ if (!process.argv.includes('update-feeds')) {
                     nodes: [
                         {
                             episode: airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) ? 1 : 0),
-                            airingAt: past(new Date(airingItem.episodeDate), 1, false).toISOString().slice(0, -5) + 'Z',
+                            airingAt: past(new Date(airingItem.episodeDate), 1, false),
                             episodeNumber: airingItem.episodeNumber,
                             episodeDate: airingItem.episodeDate,
                             delayedUntil: airingItem.delayedUntil,
-                            unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime() / 1000) > Math.floor(Date.now() / 1000))
+                            unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime()) > Math.floor(Date.now()))
                         },
                     ],
                 }
@@ -178,9 +168,23 @@ function updateFeeds() {
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
 
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
-            const baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
-            if (!baseEpisode) break
+            let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
+            if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
+                let weeksAgo = -1
+                let pastDate = past(new Date(airing.episodeDate), weeksAgo, true)
+                while (new Date(pastDate) >= new Date()) {
+                    weeksAgo--
+                    pastDate = past(new Date(airing.episodeDate), weeksAgo, true)
+                }
+                baseEpisode = {
+                    episode: {
+                        aired: episodeNum,
+                        airedAt: pastDate
+                    }
+                }
+            }
 
+            // fix missing episodes (multi-header) releases
             const batchEpisode = {
                 id: entry.media.id,
                 idMal: entry.media.idMal,
@@ -203,16 +207,16 @@ function updateFeeds() {
             }
         }
 
-        if (!airing.unaired && newEpisode.episode.airedAt <= Math.floor(Date.now() / 1000)) {
+        if (!airing.unaired && new Date(newEpisode.episode.airedAt).getTime() <= Math.floor(Date.now())) {
             newEpisodes.push(newEpisode)
         }
 
         return newEpisodes
     }).filter(({ id, episode }) => {
         return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)
-    }).sort((a, b) => b.episode.airedAt - a.episode.airedAt)
+    }).sort((a, b) => b.episode.aired - a.episode.aired)
 
-    saveJSON(feedFilePath, [...newEpisodes, ...existingFeed])
+    saveJSON(feedFilePath, [...newEpisodes, ...existingFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime()))
 
     console.log(`Added ${newEpisodes.length} new episodes to the Dubbed Episodes Feed.`)
     console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
