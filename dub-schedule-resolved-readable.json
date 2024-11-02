@@ -98,12 +98,12 @@
       "airingSchedule": {
         "nodes": [
           {
-            "episode": 1,
-            "airingAt": "2024-11-02T22:00:00Z",
+            "episode": 2,
+            "airingAt": "2024-11-09T22:00:00Z",
             "episodeNumber": 1,
             "episodeDate": "2024-11-02T22:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": true
+            "unaired": false
           }
         ]
       }
@@ -731,6 +731,43 @@
             "airingAt": "2024-11-09T17:00:00Z",
             "episodeNumber": 5,
             "episodeDate": "2024-11-02T17:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
+      "anime_title": "re-zero-kara-hajimeru-isekai-seikatsu-3",
+      "file_name": "re-zero-kara-hajimeru-isekai-seikatsu-3"
+    },
+    "media": {
+      "id": 163134,
+      "idMal": 54857,
+      "title": {
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
+        "english": "Re:ZERO -Starting Life in Another World- Season 3",
+        "native": "Re:ゼロから始める異世界生活 3rd season",
+        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-Y0r8AGBeVlCi.jpg",
+        "color": "#bbd6f1"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163134-CqaXjXVivwJ5.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 4,
+            "airingAt": "2024-11-06T21:00:00Z",
+            "episodeNumber": 3,
+            "episodeDate": "2024-10-30T21:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
