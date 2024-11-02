@@ -86,8 +86,12 @@ export default new class AnimeResolver {
     for (const chunk of chunks(titleObjects, 60)) {
       // single title has a complexity of 8.1, al limits complexity to 500, so this can be at most 62, undercut it to 60, al pagination is 50, but at most we'll do 30 titles since isAdult duplicates each title
       for (const [key, media] of await anilistClient.alSearchCompound(chunk)) {
-        console.log(`Found ${key} as ${media?.id}: ${media?.title?.userPreferred}`)
-        this.animeNameCache[key] = media
+        if (!this.animeNameCache[key]) {
+          console.log(`Found ${key} as ${media?.id}: ${media?.title?.userPreferred}`)
+          this.animeNameCache[key] = media
+        } else {
+          console.log(`Duplicate key found ${key} as ${this.animeNameCache[key]?.id}: ${this.animeNameCache[key]?.title?.userPreferred}, skipping new value [${media?.id}: ${media?.title?.userPreferred}]`)
+        }
       }
     }
   }
