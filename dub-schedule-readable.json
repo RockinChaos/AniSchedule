@@ -53,6 +53,33 @@
     "airingStatus": "aired"
   },
   {
+    "title": "Ao no Exorcist: Yuki no Hate-hen",
+    "route": "ao-no-exorcist-yuki-no-hate-hen",
+    "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+    "english": "Blue Exorcist -Beyond the Snow Saga-",
+    "native": "青の祓魔師 雪ノ果篇",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-11-02T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/ao-no-exorcist-yuki-no-hate-hen-9cff15676e.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
+    },
+    "airingStatus": "unaired"
+  },
+  {
     "title": "Arifureta Shokugyou de Sekai Saikyou 3",
     "route": "arifureta-from-commonplace-to-worlds-strongest-3",
     "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
@@ -163,12 +190,11 @@
     "title": "Delico's Nursery",
     "route": "delicos-nursery",
     "native": "デリコズ・ナーサリー",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-10-02T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
+    "delayedUntil": "2024-10-23T00:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-10-30T21:00:00Z",
-    "episodeNumber": 6,
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 25,
     "donghua": false,
@@ -183,7 +209,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G04K/delicos-nursery"
     },
-    "airingStatus": "delayed-air"
+    "airingStatus": "aired"
   },
   {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
@@ -513,7 +539,8 @@
     "delayedUntil": "0001-01-01T00:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-10-30T21:00:00Z",
-    "episodeNumber": 2,
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 16,
     "lengthMin": 25,
     "donghua": false,
@@ -639,6 +666,31 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
     "airingStatus": "unaired"
+  },
+  {
+    "title": "Sword Art Online Alternative: Gun Gale Online 2",
+    "route": "sword-art-online-alternative-gun-gale-online-2",
+    "native": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-11-01T21:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/sword-art-online-alternative-gun-gale-online-2-19b7d12a1b.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
+    },
+    "airingStatus": "aired"
   },
   {
     "title": "Trillion Game",

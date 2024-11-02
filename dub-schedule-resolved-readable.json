@@ -75,6 +75,43 @@
   },
   {
     "parseObject": {
+      "anime_title": "ao-no-exorcist-yuki-no-hate-hen",
+      "file_name": "ao-no-exorcist-yuki-no-hate-hen"
+    },
+    "media": {
+      "id": 176311,
+      "idMal": 58516,
+      "title": {
+        "romaji": "Ao no Exorcist: Yuki no Hate-hen",
+        "english": "Blue Exorcist -Beyond the Snow Saga-",
+        "native": "青の祓魔師 雪ノ果篇",
+        "userPreferred": "Ao no Exorcist: Yuki no Hate-hen"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-OZudERHrpJJ0.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176311-OZudERHrpJJ0.jpg",
+        "color": "#28aefe"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176311-faAPK9m0QCjP.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 1,
+            "airingAt": "2024-11-02T22:00:00Z",
+            "episodeNumber": 1,
+            "episodeDate": "2024-11-02T22:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": true
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
       "anime_title": "arifureta-from-commonplace-to-worlds-strongest-3",
       "file_name": "arifureta-from-commonplace-to-worlds-strongest-3"
     },
@@ -246,11 +283,11 @@
       "airingSchedule": {
         "nodes": [
           {
-            "episode": 7,
+            "episode": 8,
             "airingAt": "2024-11-06T21:00:00Z",
-            "episodeNumber": 6,
+            "episodeNumber": 7,
             "episodeDate": "2024-10-30T21:00:00Z",
-            "delayedUntil": "0001-01-01T00:00:00Z",
+            "delayedUntil": "2024-10-23T00:00:00Z",
             "unaired": false
           }
         ]
@@ -708,28 +745,28 @@
       "file_name": "re-zero-kara-hajimeru-isekai-seikatsu-3"
     },
     "media": {
-      "id": 163134,
-      "idMal": 54857,
+      "id": 100049,
+      "idMal": 36286,
       "title": {
-        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-        "english": "Re:ZERO -Starting Life in Another World- Season 3",
-        "native": "Re:ゼロから始める異世界生活 3rd season",
-        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season"
+        "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs",
+        "english": "Re:ZERO -Starting Life in Another World- OVAs",
+        "native": "Re:ゼロから始める異世界生活 OVAs",
+        "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu OVAs"
       },
-      "format": "TV",
+      "format": "OVA",
       "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-Y0r8AGBeVlCi.jpg",
-        "color": "#bbd6f1"
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx100049-mgvPLctBJprp.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx100049-mgvPLctBJprp.jpg",
+        "color": "#50aee4"
       },
       "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163134-CqaXjXVivwJ5.jpg",
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100049-jlQ24bwYluey.jpg",
       "airingSchedule": {
         "nodes": [
           {
-            "episode": 3,
+            "episode": 4,
             "airingAt": "2024-11-06T21:00:00Z",
-            "episodeNumber": 2,
+            "episodeNumber": 3,
             "episodeDate": "2024-10-30T21:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -879,6 +916,43 @@
             "airingAt": "2024-11-03T19:00:00Z",
             "episodeNumber": 2,
             "episodeDate": "2024-11-03T19:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
+      "anime_title": "sword-art-online-alternative-gun-gale-online-2",
+      "file_name": "sword-art-online-alternative-gun-gale-online-2"
+    },
+    "media": {
+      "id": 167141,
+      "idMal": 55994,
+      "title": {
+        "romaji": "Sword Art Online Alternative: Gun Gale Online II",
+        "english": "Sword Art Online Alternative: Gun Gale Online II",
+        "native": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+        "userPreferred": "Sword Art Online Alternative: Gun Gale Online II"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167141-m8eOYiDpeN4R.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167141-m8eOYiDpeN4R.jpg",
+        "color": "#e4435d"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167141-gYmUyJvujN15.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 2,
+            "airingAt": "2024-11-08T21:00:00Z",
+            "episodeNumber": 1,
+            "episodeDate": "2024-11-01T21:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
