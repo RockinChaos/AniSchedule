@@ -35,7 +35,7 @@ jobs:
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add './*.json'
-            git commit -m "Dubbed episode feed has changed" || true
+            git commit -m "(Dub) Added New Episode(s)" || true
             git push || true
           
             echo "Sleeping for 30 seconds..."
