@@ -101,6 +101,22 @@ if (!process.argv.includes('update-feeds')) {
         }
     }
 
+    // Only adjust delayedUntil time if the date is the same or later than the episode date
+    function fixDelayed(delayedDate, episodeDate) {
+        const delayedUntil = new Date(delayedDate);
+        const episodeAt = new Date(episodeDate);
+        delayedUntil.setUTCHours(0, 0, 0, 0);
+        episodeAt.setUTCHours(0, 0, 0, 0);
+
+        if (delayedUntil >= episodeAt) {
+            const episodeAtDate = new Date(episodeDate)
+            delayedUntil.setUTCHours(episodeAtDate.getUTCHours());
+            delayedUntil.setUTCMinutes(episodeAtDate.getUTCMinutes());
+            delayedUntil.setUTCSeconds(episodeAtDate.getUTCSeconds());
+        }
+        return past(new Date(delayedUntil), 0, false);
+    }
+
     // Resolve found titles
     const results = await AnimeResolver.resolveFileAnime(titles)
     for (const entry of order) { // remap dub airingSchedule to results airingSchedule
@@ -112,11 +128,11 @@ if (!process.argv.includes('update-feeds')) {
                 mediaMatch.media.airingSchedule = {
                     nodes: [
                         {
-                            episode: airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) ? 1 : 0),
+                            episode: airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) && (new Date(fixDelayed(airingItem.delayedUntil, airingItem.episodeDate)) < new Date()) ? 1 : 0),
                             airingAt: past(new Date(airingItem.episodeDate), 1, false),
                             episodeNumber: airingItem.episodeNumber,
                             episodeDate: airingItem.episodeDate,
-                            delayedUntil: airingItem.delayedUntil,
+                            delayedUntil: fixDelayed(airingItem.delayedUntil, airingItem.episodeDate),
                             unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime()) > Math.floor(Date.now()))
                         },
                     ],
@@ -156,7 +172,23 @@ function updateFeeds() {
     }
 
     const schedule = loadJSON(scheduleFilePath)
-    const existingFeed = loadJSON(feedFilePath)
+    let existingFeed = loadJSON(feedFilePath)
+    const removedEpisodes = []
+
+    // Filter out any existing episode feed entries that matches any delayed episodes
+    schedule.filter(entry => {
+        const airing = entry.media.airingSchedule.nodes[0]
+        return new Date(airing.delayedUntil) >= new Date(airing.episodeDate)
+    }).forEach(delayedEntry => {
+        existingFeed = existingFeed.filter(episode => {
+            const foundEpisode = (episode.id === delayedEntry.media.id && episode.episode.aired === delayedEntry.media.airingSchedule.nodes[0].episodeNumber)
+            if (foundEpisode) {
+                console.log(`Removing ${delayedEntry.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
+                removedEpisodes.push(delayedEntry.media)
+            }
+            return !foundEpisode
+        })
+    })
 
     const newEpisodes = schedule.flatMap(entry => {
         let newEpisodes = []
@@ -207,7 +239,7 @@ function updateFeeds() {
             }
         }
 
-        if (!airing.unaired && new Date(newEpisode.episode.airedAt).getTime() <= Math.floor(Date.now())) {
+        if (!airing.unaired && new Date(newEpisode.episode.airedAt) <= new Date()) {
             newEpisodes.push(newEpisode)
         }
 
@@ -218,8 +250,12 @@ function updateFeeds() {
 
     saveJSON(feedFilePath, [...newEpisodes, ...existingFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime()))
 
-    console.log(`Added ${newEpisodes.length} new episodes to the Dubbed Episodes Feed.`)
-    console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
+    if (newEpisodes.length > 0 || removedEpisodes.length > 0) {
+        console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}` : ``}${removedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ` and` : ``}Removed ${removedEpisodes.length}` : ``} episode(s) ${removedEpisodes.length > 0 ? `from` : `to`} the Dubbed Episodes Feed.`)
+        console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
+    } else {
+        console.log(`No changes detected for the Dubbed Episodes Feed.`)
+    }
 }
 
 updateFeeds()
