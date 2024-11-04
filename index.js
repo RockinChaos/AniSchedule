@@ -2,7 +2,8 @@
 
 import fs from 'fs'
 import path from 'path'
-import { past } from './utils/util.js'
+import { past, dayTimeMatch } from './utils/util.js'
+await fs.mkdir('./readable', { recursive: true }, () => {})
 
 if (!process.argv.includes('update-feeds')) {
 
@@ -53,10 +54,10 @@ if (!process.argv.includes('update-feeds')) {
     airingLists.value = await json
 
     if (await airingLists.value) {
-        console.log(`Successfully retrieved ${airingLists.value.length} airing, saving...`)
+        console.log(`Successfully retrieved ${airingLists.value.length} airing series, saving...`)
         airingLists.value.sort((a, b) => a.title.localeCompare(b.title))
         await writeFile('dub-schedule.json', JSON.stringify(airingLists.value))
-        await writeFile('dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
+        await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
     } else {
         console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!')
         process.exit(1)
@@ -103,18 +104,18 @@ if (!process.argv.includes('update-feeds')) {
 
     // Only adjust delayedUntil time if the date is the same or later than the episode date
     function fixDelayed(delayedDate, episodeDate) {
-        const delayedUntil = new Date(delayedDate);
-        const episodeAt = new Date(episodeDate);
-        delayedUntil.setUTCHours(0, 0, 0, 0);
-        episodeAt.setUTCHours(0, 0, 0, 0);
+        const delayedUntil = new Date(delayedDate)
+        const episodeAt = new Date(episodeDate)
+        delayedUntil.setUTCHours(0, 0, 0, 0)
+        episodeAt.setUTCHours(0, 0, 0, 0)
 
         if (delayedUntil >= episodeAt) {
             const episodeAtDate = new Date(episodeDate)
-            delayedUntil.setUTCHours(episodeAtDate.getUTCHours());
-            delayedUntil.setUTCMinutes(episodeAtDate.getUTCMinutes());
-            delayedUntil.setUTCSeconds(episodeAtDate.getUTCSeconds());
+            delayedUntil.setUTCHours(episodeAtDate.getUTCHours())
+            delayedUntil.setUTCMinutes(episodeAtDate.getUTCMinutes())
+            delayedUntil.setUTCSeconds(episodeAtDate.getUTCSeconds())
         }
-        return past(new Date(delayedUntil), 0, false);
+        return past(new Date(delayedUntil), 0, false)
     }
 
     // Resolve found titles
@@ -144,13 +145,11 @@ if (!process.argv.includes('update-feeds')) {
     if (results) {
         console.log(`Successfully resolved ${results.length} airing, saving...`)
         await writeFile('dub-schedule-resolved.json', JSON.stringify(results))
-        await writeFile('dub-schedule-resolved-readable.json', JSON.stringify(results, null, 2))
+        await writeFile('./readable/dub-schedule-resolved-readable.json', JSON.stringify(results, null, 2))
     } else {
         console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
         process.exit(1)
     }
-
-    console.log(`Finished fetching dub airing schedule.`)
 
     // end of resolve airing lists //
 }
@@ -167,27 +166,68 @@ function updateFeeds() {
         return JSON.parse(fs.readFileSync(filePath))
     }
 
-    function saveJSON(filePath, data) {
-        fs.writeFileSync(filePath, JSON.stringify(data))
+    function ensureDirectoryExists(filePath) {
+        const dir = path.dirname(filePath);
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir, { recursive: true });
+        }
+    }
+
+    function saveJSON(filePath, data, prettyPrint = false) {
+        ensureDirectoryExists(filePath)
+        fs.writeFileSync(filePath, JSON.stringify(data, null, prettyPrint ? 2 : 0))
     }
 
     const schedule = loadJSON(scheduleFilePath)
     let existingFeed = loadJSON(feedFilePath)
     const removedEpisodes = []
+    const modifiedEpisodes = []
 
     // Filter out any existing episode feed entries that matches any delayed episodes
     schedule.filter(entry => {
         const airing = entry.media.airingSchedule.nodes[0]
         return new Date(airing.delayedUntil) >= new Date(airing.episodeDate)
-    }).forEach(delayedEntry => {
+    }).forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === delayedEntry.media.id && episode.episode.aired === delayedEntry.media.airingSchedule.nodes[0].episodeNumber)
+            const foundEpisode = (episode.id === entry.media.id && episode.episode.aired === entry.media.airingSchedule.nodes[0].episodeNumber)
             if (foundEpisode) {
-                console.log(`Removing ${delayedEntry.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
-                removedEpisodes.push(delayedEntry.media)
+                console.log(`Removing ${entry.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
+                removedEpisodes.push(entry.media)
             }
             return !foundEpisode
         })
+    })
+
+    // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
+    schedule.forEach(entry => {
+        const airing = entry.media.airingSchedule.nodes[0]
+        existingFeed = existingFeed.filter(episode => {
+            const foundEpisode = (episode.id === entry.media.id) && (episode.episode.aired === airing.episodeNumber) && (new Date(episode.episode.airedAt) < new Date(airing.episodeDate))
+            if (foundEpisode) {
+                console.log(`Removing episode ${airing.episodeNumber} of ${entry.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
+                removedEpisodes.push(episode)
+            }
+            return !foundEpisode
+        })
+    })
+
+    // Filter out incorrect episodes and correct dates if necessary
+    schedule.forEach(entry => {
+        const airing = entry.media.airingSchedule.nodes[0]
+        const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
+        if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(airing.episodeDate))) {
+            let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.id)
+            mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
+            console.log(`Modifying existing episodes of ${entry.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
+            let correctedDate = -1
+            mediaEpisodes.forEach(episode => {
+                const prevDate = episode.episode.airedAt
+                episode.episode.airedAt = past(new Date(airing.episodeDate), correctedDate, true)
+                console.log(`Modified episode ${episode.episode.aired} of ${entry.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
+                modifiedEpisodes.push(episode)
+                correctedDate--
+            })
+        }
     })
 
     const newEpisodes = schedule.flatMap(entry => {
@@ -248,10 +288,12 @@ function updateFeeds() {
         return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)
     }).sort((a, b) => b.episode.aired - a.episode.aired)
 
-    saveJSON(feedFilePath, [...newEpisodes, ...existingFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime()))
+    const newFeed = [...newEpisodes, ...existingFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+    saveJSON(feedFilePath, newFeed)
+    saveJSON(path.join('./readable/dub-episode-feed-readable.json'), newFeed, true)
 
-    if (newEpisodes.length > 0 || removedEpisodes.length > 0) {
-        console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}` : ``}${removedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ` and` : ``}Removed ${removedEpisodes.length}` : ``} episode(s) ${removedEpisodes.length > 0 ? `from` : `to`} the Dubbed Episodes Feed.`)
+    if (newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
+        console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}` : ``}${modifiedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ` and ` : ``}Modified ${modifiedEpisodes.length}` : ``}${removedEpisodes.length > 0 ? `${(newEpisodes.length > 0) || (modifiedEpisodes.length > 0) ? ` and ` : ``}Removed ${removedEpisodes.length}` : ``} episode(s) ${(modifiedEpisodes.length > 0) || (removedEpisodes.length > 0) ? `from` : `to`} the Dubbed Episodes Feed.`)
         console.log(`Logged a total of ${newEpisodes.length + existingFeed.length} Dubbed Episodes to date.`)
     } else {
         console.log(`No changes detected for the Dubbed Episodes Feed.`)
