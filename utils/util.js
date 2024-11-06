@@ -28,3 +28,12 @@ export function past(episodeDate, weeks = 0, skip) {
 export function dayTimeMatch(date1, date2) {
     return date1.getUTCDay() === date2.getUTCDay() && date1.getUTCHours() === date2.getUTCHours() && date1.getUTCMinutes() === date2.getUTCMinutes()
 }
+
+/**
+ * @param {Date} date1 The first date to compare
+ * @param {Date} date2 The second date to compare
+ * @returns {number} The number of weeks difference between the two dates rounded to the nearest integer.
+ */
+export function weeksDifference(date1, date2) {
+    return Math.round((new Date(date2) - new Date(date1)) / (1000 * 60 * 60 * 24 * 7))
+}

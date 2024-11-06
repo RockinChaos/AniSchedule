@@ -2,7 +2,7 @@
 
 import fs from 'fs'
 import path from 'path'
-import { past, dayTimeMatch } from './utils/util.js'
+import { past, dayTimeMatch, weeksDifference } from './utils/util.js'
 await fs.mkdir('./readable', { recursive: true }, () => {})
 
 if (!process.argv.includes('update-feeds')) {
@@ -167,9 +167,9 @@ function updateFeeds() {
     }
 
     function ensureDirectoryExists(filePath) {
-        const dir = path.dirname(filePath);
+        const dir = path.dirname(filePath)
         if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir, { recursive: true });
+            fs.mkdirSync(dir, { recursive: true })
         }
     }
 
@@ -219,13 +219,14 @@ function updateFeeds() {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.id)
             mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
             console.log(`Modifying existing episodes of ${entry.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
+            const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
             let correctedDate = -1
-            mediaEpisodes.forEach(episode => {
+            mediaEpisodes.forEach((episode, index) => {
                 const prevDate = episode.episode.airedAt
+                if (index !== 0) correctedDate = correctedDate - weeksDifference(episode.episode.airedAt, originalAiredAt[index - 1])
                 episode.episode.airedAt = past(new Date(airing.episodeDate), correctedDate, true)
                 console.log(`Modified episode ${episode.episode.aired} of ${entry.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
                 modifiedEpisodes.push(episode)
-                correctedDate--
             })
         }
     })
