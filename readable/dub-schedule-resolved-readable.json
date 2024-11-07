@@ -62,9 +62,9 @@
         "nodes": [
           {
             "episode": 5,
-            "airingAt": "2024-11-12T20:00:00Z",
+            "airingAt": "2024-11-12T21:00:00Z",
             "episodeNumber": 4,
-            "episodeDate": "2024-11-05T20:00:00Z",
+            "episodeDate": "2024-11-05T21:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -112,6 +112,43 @@
   },
   {
     "parseObject": {
+      "anime_title": "ao-no-hako",
+      "file_name": "ao-no-hako"
+    },
+    "media": {
+      "id": 170942,
+      "idMal": 57181,
+      "title": {
+        "romaji": "Ao no Hako",
+        "english": "Blue Box",
+        "native": "アオのハコ",
+        "userPreferred": "Ao no Hako"
+      },
+      "format": "ONA",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170942-B77wUSM1jQTu.jpg",
+        "color": "#5daee4"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 8,
+            "airingAt": "2024-11-14T15:56:00Z",
+            "episodeNumber": 7,
+            "episodeDate": "2024-11-07T15:56:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
       "anime_title": "arifureta-from-commonplace-to-worlds-strongest-3",
       "file_name": "arifureta-from-commonplace-to-worlds-strongest-3"
     },
@@ -136,9 +173,9 @@
         "nodes": [
           {
             "episode": 3,
-            "airingAt": "2024-11-11T21:30:00Z",
+            "airingAt": "2024-11-11T22:30:00Z",
             "episodeNumber": 2,
-            "episodeDate": "2024-11-04T21:30:00Z",
+            "episodeDate": "2024-11-04T22:30:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -247,9 +284,9 @@
         "nodes": [
           {
             "episode": 6,
-            "airingAt": "2024-11-07T16:00:00Z",
+            "airingAt": "2024-11-07T18:00:00Z",
             "episodeNumber": 6,
-            "episodeDate": "2024-11-07T16:00:00Z",
+            "episodeDate": "2024-11-07T18:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -358,9 +395,9 @@
         "nodes": [
           {
             "episode": 6,
-            "airingAt": "2024-11-11T14:30:00Z",
+            "airingAt": "2024-11-11T15:30:00Z",
             "episodeNumber": 5,
-            "episodeDate": "2024-11-04T14:30:00Z",
+            "episodeDate": "2024-11-04T15:30:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -469,9 +506,9 @@
         "nodes": [
           {
             "episode": 13,
-            "airingAt": "2024-11-12T17:00:00Z",
+            "airingAt": "2024-11-12T18:00:00Z",
             "episodeNumber": 12,
-            "episodeDate": "2024-11-05T17:00:00Z",
+            "episodeDate": "2024-11-05T18:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -617,9 +654,9 @@
         "nodes": [
           {
             "episode": 4,
-            "airingAt": "2024-11-11T22:00:00Z",
+            "airingAt": "2024-11-11T23:00:00Z",
             "episodeNumber": 3,
-            "episodeDate": "2024-11-04T22:00:00Z",
+            "episodeDate": "2024-11-04T23:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -802,9 +839,9 @@
         "nodes": [
           {
             "episode": 5,
-            "airingAt": "2024-11-12T21:00:00Z",
+            "airingAt": "2024-11-12T22:00:00Z",
             "episodeNumber": 4,
-            "episodeDate": "2024-11-05T21:00:00Z",
+            "episodeDate": "2024-11-05T22:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -876,9 +913,9 @@
         "nodes": [
           {
             "episode": 6,
-            "airingAt": "2024-11-11T18:00:00Z",
+            "airingAt": "2024-11-11T19:00:00Z",
             "episodeNumber": 5,
-            "episodeDate": "2024-11-04T18:00:00Z",
+            "episodeDate": "2024-11-04T19:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -1024,9 +1061,9 @@
         "nodes": [
           {
             "episode": 13,
-            "airingAt": "2024-11-13T22:00:00Z",
+            "airingAt": "2024-11-13T00:00:00Z",
             "episodeNumber": 12,
-            "episodeDate": "2024-11-06T22:00:00Z",
+            "episodeDate": "2024-11-06T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
@@ -1061,9 +1098,9 @@
         "nodes": [
           {
             "episode": 9,
-            "airingAt": "2024-11-12T17:00:00Z",
+            "airingAt": "2024-11-12T18:00:00Z",
             "episodeNumber": 8,
-            "episodeDate": "2024-11-05T17:00:00Z",
+            "episodeDate": "2024-11-05T18:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
           }
