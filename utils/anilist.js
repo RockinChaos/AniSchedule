@@ -109,6 +109,8 @@ export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.(
 
 class AnilistClient {
 
+    ACCESS_TOKEN = process.env.ANILIST_TOKEN
+
     limiter = new Bottleneck({
         reservoir: 90,
         reservoirRefreshAmount: 90,
@@ -238,7 +240,6 @@ class AnilistClient {
         return Object.entries(searchResults).map(([filename, id]) => [filename, search.data.Page.media.find(media => media.id === id)])
     }
 
-
     /**
      * @param {string} query
      * @param {Record<string, any>} variables
@@ -257,12 +258,11 @@ class AnilistClient {
                 variables: {
                     page: 1,
                     perPage: 50,
-                    status_in: '[CURRENT,PLANNING,COMPLETED,DROPPED,PAUSED,REPEATING]',
                     ...variables
                 }
             })
         }
-
+        if (this.ACCESS_TOKEN) options.headers.Authorization = this.ACCESS_TOKEN
         return this.handleRequest(options)
     }
 
@@ -282,7 +282,16 @@ class AnilistClient {
         try {
             json = await res.json()
         } catch (error) {
-            throw error
+            if (res.ok) console.log(`(AniList) Failed getting json from query: ${error.status || 429} - ${error?.message}`)
+        }
+        if (!res.ok && res.status !== 404) {
+            if (json) {
+                for (const error of json?.errors || []) {
+                    console.log(`(AniList) Error occurred with json: ${error.status || 429} - ${error?.message}`)
+                }
+            } else {
+                console.log(`(AniList) Unknown error occurred query: ${res.status || 429} - ${res?.message}`)
+            }
         }
         return json
     })
