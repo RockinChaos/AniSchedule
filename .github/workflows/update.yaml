@@ -35,6 +35,7 @@ jobs:
     - name: Run Node.js script
       env:  # Pass the secret as an environment variable
         ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
+        ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
       run: node index.js
 
     - name: Commit and push JSON files
