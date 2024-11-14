@@ -281,7 +281,7 @@ function updateFeeds() {
             }
         }
 
-        if (!airing.unaired && new Date(newEpisode.episode.airedAt) <= new Date()) {
+        if (!airing.unaired && airing.episodeNumber !== lastFeedEpisode && new Date(newEpisode.episode.airedAt) <= new Date()) {
             newEpisodes.push(newEpisode)
             console.log(`Adding Episode ${newEpisode.episode.aired} for ${entry.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
