@@ -8,7 +8,7 @@ on:
 jobs:
   update-feeds-and-upload:
     runs-on: self-hosted-secondary
-    timeout-minutes: 1440
+    timeout-minutes: 1470
 
     steps:
       - name: Checkout repository
