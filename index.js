@@ -268,6 +268,7 @@ function updateFeeds() {
             }
 
             newEpisodes.push(batchEpisode)
+            console.log(`Adding missing (multi-header) release Episode ${batchEpisode.episode.aired} for ${entry.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
 
         // handle single new episodes
@@ -282,6 +283,7 @@ function updateFeeds() {
 
         if (!airing.unaired && new Date(newEpisode.episode.airedAt) <= new Date()) {
             newEpisodes.push(newEpisode)
+            console.log(`Adding Episode ${newEpisode.episode.aired} for ${entry.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
 
         return newEpisodes
