@@ -108,6 +108,32 @@
     "airingStatus": "aired"
   },
   {
+    "title": "Bananya: Around the World",
+    "route": "bananya-around-the-world",
+    "native": "ばなにゃ あらうんど ざ わーるど",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-11-18T00:00:00Z",
+    "episodeNumber": 5,
+    "episodes": 13,
+    "lengthMin": 3,
+    "donghua": false,
+    "airType": "raw",
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/bananya-around-the-world-579d102ba4.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GY2PW4EMY",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jjvn-QSq2pOOwltUAUJx7pT"
+    },
+    "airingStatus": "aired"
+  },
+  {
     "title": "Blue Lock VS. U-20 JAPAN",
     "route": "blue-lock-2nd-season",
     "native": "ブルーロック VS. U-20 JAPAN",
@@ -212,6 +238,34 @@
     "airingStatus": "aired"
   },
   {
+    "title": "Elf-san wa Yaserarenai. Specials",
+    "route": "elf-san-wa-yaserarenai-specials",
+    "romaji": "Elf-san wa Yaserarenai. Specials",
+    "english": "Plus-Sized Elf Specials",
+    "native": "エルフさんは痩せられない。",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-21T00:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 2,
+    "lengthMin": 11,
+    "donghua": false,
+    "airType": "raw",
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/elf-san-wa-yaserarenai-specials-5e01cb6671.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/24582"
+    },
+    "airingStatus": "aired"
+  },
+  {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
     "route": "fairy-tail-100-years-quest",
     "delayedFrom": "0001-01-01T00:00:00Z",
@@ -236,7 +290,7 @@
     "airingStatus": "unaired"
   },
   {
-    "title": "Hoshifuru Oukoku no Nina",
+    "title": "Hoshi Furu Oukoku no Nina",
     "route": "hoshifuru-oukoku-no-nina",
     "romaji": "Hoshi Furu Oukoku no Nina",
     "english": "Nina the Starry Bride",
@@ -557,7 +611,7 @@
     "airingStatus": "delayed-air"
   },
   {
-    "title": "Rekishi ni Nokoru Akujo ni Naru zo",
+    "title": "Rekishi ni Nokoru Akujo ni Naruzo",
     "route": "rekishi-ni-nokoru-akujo-ni-naru-zo",
     "romaji": "Rekishi ni Nokoru Akujo ni Naruzo",
     "english": "I'll Become a Villainess Who Goes Down in History",
@@ -713,6 +767,34 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
+    },
+    "airingStatus": "unaired"
+  },
+  {
+    "title": "Yamato yo, Towa ni: Rebel 3199",
+    "route": "yamato-yo-towa-ni-rebel-3199",
+    "romaji": "Yamato yo Towa ni: REBEL3199",
+    "english": "Star Blazers: Space Battleship Yamato 3199",
+    "native": "ヤマトよ永遠に REBEL3199",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-11-22T00:00:00Z",
+    "episodeNumber": 6,
+    "subtractedEpisodeNumber": 3,
+    "episodes": 26,
+    "lengthMin": 26,
+    "donghua": false,
+    "airType": "raw",
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/yamato-yo-towa-ni-rebel-3199-68478a6a07.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G65V4P4K6/star-blazers-space-battleship-yamato"
     },
     "airingStatus": "unaired"
   },
