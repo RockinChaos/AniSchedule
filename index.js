@@ -55,7 +55,8 @@ if (!process.argv.includes('update-feeds')) {
 
     if (await airingLists.value) {
         console.log(`Successfully retrieved ${airingLists.value.length} airing series, saving...`)
-        airingLists.value.sort((a, b) => a.title.localeCompare(b.title))
+        // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
+        airingLists.value = airingLists.value.filter(item => item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title))
         await writeFile('dub-schedule.json', JSON.stringify(airingLists.value))
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(airingLists.value, null, 2))
     } else {
