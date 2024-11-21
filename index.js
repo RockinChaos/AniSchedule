@@ -102,20 +102,20 @@ if (!process.argv.includes('update-feeds')) {
         }
     }
 
-    // Only adjust delayedUntil time if the date is the same or later than the episode date
+    // Only adjust delayedUntil/delayedFrom time if the date is the same or later than the episode date
     function fixDelayed(delayedDate, episodeDate) {
-        const delayedUntil = new Date(delayedDate)
+        const delayed = new Date(delayedDate)
         const episodeAt = new Date(episodeDate)
-        delayedUntil.setUTCHours(0, 0, 0, 0)
+        delayed.setUTCHours(0, 0, 0, 0)
         episodeAt.setUTCHours(0, 0, 0, 0)
 
-        if (delayedUntil >= episodeAt) {
+        if (delayed >= episodeAt) {
             const episodeAtDate = new Date(episodeDate)
-            delayedUntil.setUTCHours(episodeAtDate.getUTCHours())
-            delayedUntil.setUTCMinutes(episodeAtDate.getUTCMinutes())
-            delayedUntil.setUTCSeconds(episodeAtDate.getUTCSeconds())
+            delayed.setUTCHours(episodeAtDate.getUTCHours())
+            delayed.setUTCMinutes(episodeAtDate.getUTCMinutes())
+            delayed.setUTCSeconds(episodeAtDate.getUTCSeconds())
         }
-        return past(new Date(delayedUntil), 0, false)
+        return past(new Date(delayed), 0, false)
     }
 
     // Resolve found titles
@@ -133,6 +133,7 @@ if (!process.argv.includes('update-feeds')) {
                             airingAt: past(new Date(airingItem.episodeDate), 1, false),
                             episodeNumber: airingItem.episodeNumber,
                             episodeDate: airingItem.episodeDate,
+                            delayedFrom: fixDelayed(airingItem.delayedFrom, airingItem.episodeDate),
                             delayedUntil: fixDelayed(airingItem.delayedUntil, airingItem.episodeDate),
                             unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime()) > Math.floor(Date.now()))
                         },
