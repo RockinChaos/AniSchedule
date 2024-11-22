@@ -108,6 +108,34 @@
     "airingStatus": "aired"
   },
   {
+    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
+    "route": "bleach-sennen-kessen-hen-soukoku-tan",
+    "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+    "english": "BLEACH: Thousand-Year Blood War - The Conflict",
+    "native": "BLEACH 千年血戦篇-相剋譚-",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-11-23T14:30:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/bleach-sennen-kessen-hen-soukoku-tan-f6d71ca038.jpg",
+    "streams": {
+      "hulu": "www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgOSk5QmPX6aolSUsXgCMc-"
+    },
+    "airingStatus": "unaired"
+  },
+  {
     "title": "Blue Lock VS. U-20 JAPAN",
     "route": "blue-lock-2nd-season",
     "native": "ブルーロック VS. U-20 JAPAN",
@@ -502,6 +530,31 @@
       "amazon": "www.amazon.com/dp/B0DH8D89GR"
     },
     "airingStatus": "unaired"
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-11-22T07:00:00Z",
+    "episodeNumber": 45,
+    "subtractedEpisodeNumber": 35,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/pokemon-2023-273f1b2226.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81696980"
+    },
+    "airingStatus": "aired"
   },
   {
     "title": "Ranma ½ (2024)",

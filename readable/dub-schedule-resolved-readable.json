@@ -153,6 +153,44 @@
   },
   {
     "parseObject": {
+      "anime_title": "bleach-sennen-kessen-hen-soukoku-tan",
+      "file_name": "bleach-sennen-kessen-hen-soukoku-tan"
+    },
+    "media": {
+      "id": 169755,
+      "idMal": 56784,
+      "title": {
+        "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
+        "english": "BLEACH: Thousand-Year Blood War - The Conflict",
+        "native": "BLEACH 千年血戦篇-相剋譚-",
+        "userPreferred": "BLEACH: Thousand-Year Blood War - The Conflict"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169755-Rqb7MjnzdTc6.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169755-Rqb7MjnzdTc6.jpg",
+        "color": null
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169755-hCWjp9ajjMYV.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 3,
+            "airingAt": "2024-11-23T14:30:00Z",
+            "episodeNumber": 3,
+            "episodeDate": "2024-11-23T14:30:00Z",
+            "delayedFrom": "0001-01-01T00:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
       "anime_title": "blue-lock-2nd-season",
       "file_name": "blue-lock-2nd-season"
     },
@@ -712,6 +750,44 @@
             "airingAt": "2024-11-23T01:30:00Z",
             "episodeNumber": 8,
             "episodeDate": "2024-11-23T01:30:00Z",
+            "delayedFrom": "0001-01-01T00:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
+      "anime_title": "pokemon-2023",
+      "file_name": "pokemon-2023"
+    },
+    "media": {
+      "id": 158871,
+      "idMal": 53876,
+      "title": {
+        "romaji": "Pocket Monsters (2023)",
+        "english": "Pokémon Horizons: The Series",
+        "native": "ポケットモンスター (2023)",
+        "userPreferred": "Pokémon Horizons: The Series"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
+        "color": "#e4bb28"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 46,
+            "airingAt": "2024-11-29T07:00:00Z",
+            "episodeNumber": 45,
+            "episodeDate": "2024-11-22T07:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
