@@ -1,44 +1,6 @@
 [
   {
     "parseObject": {
-      "anime_title": "oshi-no-ko-season-2",
-      "file_name": "oshi-no-ko-season-2"
-    },
-    "media": {
-      "id": 166531,
-      "idMal": 55791,
-      "title": {
-        "romaji": "[Oshi no Ko] 2nd Season",
-        "english": "Oshi no Ko Season 2",
-        "native": "【推しの子】第2期",
-        "userPreferred": "Oshi no Ko Season 2"
-      },
-      "format": "TV",
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166531-dAL5MsqDHUkj.jpg",
-        "color": "#e44343"
-      },
-      "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166531-vUu7iDwUkC67.jpg",
-      "airingSchedule": {
-        "nodes": [
-          {
-            "episode": 12,
-            "airingAt": "2024-11-29T17:00:00Z",
-            "episodeNumber": 11,
-            "episodeDate": "2024-11-22T17:00:00Z",
-            "delayedFrom": "0001-01-01T00:00:00Z",
-            "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": false
-          }
-        ]
-      }
-    },
-    "failed": false
-  },
-  {
-    "parseObject": {
       "anime_title": "amagami-san-chi-no-enmusubi",
       "file_name": "amagami-san-chi-no-enmusubi"
     },
@@ -64,8 +26,8 @@
           {
             "episode": 7,
             "airingAt": "2024-11-26T21:00:00Z",
-            "episodeNumber": 6,
-            "episodeDate": "2024-11-19T21:00:00Z",
+            "episodeNumber": 7,
+            "episodeDate": "2024-11-26T21:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -102,8 +64,8 @@
           {
             "episode": 5,
             "airingAt": "2024-11-30T22:00:00Z",
-            "episodeNumber": 4,
-            "episodeDate": "2024-11-23T22:00:00Z",
+            "episodeNumber": 5,
+            "episodeDate": "2024-11-30T22:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -140,8 +102,8 @@
           {
             "episode": 5,
             "airingAt": "2024-11-25T22:30:00Z",
-            "episodeNumber": 4,
-            "episodeDate": "2024-11-18T22:30:00Z",
+            "episodeNumber": 5,
+            "episodeDate": "2024-11-25T22:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -178,8 +140,8 @@
           {
             "episode": 5,
             "airingAt": "2024-11-30T14:30:00Z",
-            "episodeNumber": 4,
-            "episodeDate": "2024-11-23T14:30:00Z",
+            "episodeNumber": 5,
+            "episodeDate": "2024-11-30T14:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -216,46 +178,8 @@
           {
             "episode": 7,
             "airingAt": "2024-11-30T20:00:00Z",
-            "episodeNumber": 6,
-            "episodeDate": "2024-11-23T20:00:00Z",
-            "delayedFrom": "0001-01-01T00:00:00Z",
-            "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": false
-          }
-        ]
-      }
-    },
-    "failed": false
-  },
-  {
-    "parseObject": {
-      "anime_title": "cardfight-vanguard-overdress-season-7",
-      "file_name": "cardfight-vanguard-overdress-season-7"
-    },
-    "media": {
-      "id": 128827,
-      "idMal": 48862,
-      "title": {
-        "romaji": "Cardfight!! Vanguard: overDress Season 2",
-        "english": "Cardfight!! Vanguard overDress Season 2",
-        "native": "カードファイト!! ヴァンガード overDress Season2",
-        "userPreferred": "Cardfight!! Vanguard overDress Season 2"
-      },
-      "format": "TV",
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128827-bUkrxvxollxg.jpg",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128827-bUkrxvxollxg.jpg",
-        "color": null
-      },
-      "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128827-UZYCEglqs84L.jpg",
-      "airingSchedule": {
-        "nodes": [
-          {
-            "episode": 6,
-            "airingAt": "2024-11-29T23:01:00Z",
-            "episodeNumber": 5,
-            "episodeDate": "2024-11-22T23:01:00Z",
+            "episodeNumber": 7,
+            "episodeDate": "2024-11-30T20:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -292,8 +216,8 @@
           {
             "episode": 9,
             "airingAt": "2024-11-28T16:00:00Z",
-            "episodeNumber": 8,
-            "episodeDate": "2024-11-21T16:00:00Z",
+            "episodeNumber": 9,
+            "episodeDate": "2024-11-28T16:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -330,8 +254,8 @@
           {
             "episode": 11,
             "airingAt": "2024-11-27T21:30:00Z",
-            "episodeNumber": 10,
-            "episodeDate": "2024-11-20T21:30:00Z",
+            "episodeNumber": 11,
+            "episodeDate": "2024-11-27T21:30:00Z",
             "delayedFrom": "2024-10-02T00:00:00Z",
             "delayedUntil": "2024-10-23T00:00:00Z",
             "unaired": false
@@ -368,8 +292,8 @@
           {
             "episode": 20,
             "airingAt": "2024-12-01T21:00:00Z",
-            "episodeNumber": 19,
-            "episodeDate": "2024-11-24T21:00:00Z",
+            "episodeNumber": 20,
+            "episodeDate": "2024-12-01T21:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -406,8 +330,8 @@
           {
             "episode": 8,
             "airingAt": "2024-11-25T15:00:00Z",
-            "episodeNumber": 7,
-            "episodeDate": "2024-11-18T15:00:00Z",
+            "episodeNumber": 8,
+            "episodeDate": "2024-11-25T15:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -444,8 +368,8 @@
           {
             "episode": 3,
             "airingAt": "2024-11-27T17:00:00Z",
-            "episodeNumber": 2,
-            "episodeDate": "2024-11-20T17:00:00Z",
+            "episodeNumber": 3,
+            "episodeDate": "2024-11-27T17:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -482,46 +406,8 @@
           {
             "episode": 20,
             "airingAt": "2024-12-01T20:00:00Z",
-            "episodeNumber": 19,
-            "episodeDate": "2024-11-24T20:00:00Z",
-            "delayedFrom": "0001-01-01T00:00:00Z",
-            "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": false
-          }
-        ]
-      }
-    },
-    "failed": false
-  },
-  {
-    "parseObject": {
-      "anime_title": "kimi-wa-houkago-insomnia",
-      "file_name": "kimi-wa-houkago-insomnia"
-    },
-    "media": {
-      "id": 143653,
-      "idMal": 50796,
-      "title": {
-        "romaji": "Kimi wa Houkago Insomnia",
-        "english": "Insomniacs after school",
-        "native": "君は放課後インソムニア",
-        "userPreferred": "Insomniacs after school"
-      },
-      "format": "TV",
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143653-h6NEdWxKIRza.png",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143653-h6NEdWxKIRza.png",
-        "color": "#1a4386"
-      },
-      "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143653-cvWrYzJPgDkV.jpg",
-      "airingSchedule": {
-        "nodes": [
-          {
-            "episode": 3,
-            "airingAt": "2024-11-27T17:00:00Z",
-            "episodeNumber": 2,
-            "episodeDate": "2024-11-20T17:00:00Z",
+            "episodeNumber": 20,
+            "episodeDate": "2024-12-01T20:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -558,8 +444,8 @@
           {
             "episode": 7,
             "airingAt": "2024-11-30T22:30:00Z",
-            "episodeNumber": 6,
-            "episodeDate": "2024-11-23T22:30:00Z",
+            "episodeNumber": 7,
+            "episodeDate": "2024-11-30T22:30:00Z",
             "delayedFrom": "2024-11-02T00:00:00Z",
             "delayedUntil": "2024-11-09T00:00:00Z",
             "unaired": false
@@ -596,8 +482,8 @@
           {
             "episode": 6,
             "airingAt": "2024-11-30T23:00:00Z",
-            "episodeNumber": 5,
-            "episodeDate": "2024-11-23T23:00:00Z",
+            "episodeNumber": 6,
+            "episodeDate": "2024-11-30T23:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -634,8 +520,8 @@
           {
             "episode": 8,
             "airingAt": "2024-11-30T20:30:00Z",
-            "episodeNumber": 7,
-            "episodeDate": "2024-11-23T20:30:00Z",
+            "episodeNumber": 8,
+            "episodeDate": "2024-11-30T20:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -672,8 +558,8 @@
           {
             "episode": 7,
             "airingAt": "2024-12-01T20:30:00Z",
-            "episodeNumber": 6,
-            "episodeDate": "2024-11-24T20:30:00Z",
+            "episodeNumber": 7,
+            "episodeDate": "2024-12-01T20:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -710,8 +596,8 @@
           {
             "episode": 6,
             "airingAt": "2024-11-25T23:00:00Z",
-            "episodeNumber": 5,
-            "episodeDate": "2024-11-18T23:00:00Z",
+            "episodeNumber": 6,
+            "episodeDate": "2024-11-25T23:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -748,46 +634,8 @@
           {
             "episode": 9,
             "airingAt": "2024-11-30T01:30:00Z",
-            "episodeNumber": 8,
-            "episodeDate": "2024-11-23T01:30:00Z",
-            "delayedFrom": "0001-01-01T00:00:00Z",
-            "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": false
-          }
-        ]
-      }
-    },
-    "failed": false
-  },
-  {
-    "parseObject": {
-      "anime_title": "pokemon-2023",
-      "file_name": "pokemon-2023"
-    },
-    "media": {
-      "id": 158871,
-      "idMal": 53876,
-      "title": {
-        "romaji": "Pocket Monsters (2023)",
-        "english": "Pokémon Horizons: The Series",
-        "native": "ポケットモンスター (2023)",
-        "userPreferred": "Pokémon Horizons: The Series"
-      },
-      "format": "TV",
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
-        "color": "#e4bb28"
-      },
-      "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
-      "airingSchedule": {
-        "nodes": [
-          {
-            "episode": 46,
-            "airingAt": "2024-11-29T07:00:00Z",
-            "episodeNumber": 45,
-            "episodeDate": "2024-11-22T07:00:00Z",
+            "episodeNumber": 9,
+            "episodeDate": "2024-11-30T01:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -824,8 +672,8 @@
           {
             "episode": 9,
             "airingAt": "2024-11-30T17:00:00Z",
-            "episodeNumber": 8,
-            "episodeDate": "2024-11-23T17:00:00Z",
+            "episodeNumber": 9,
+            "episodeDate": "2024-11-30T17:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -863,8 +711,8 @@
             "episode": 6,
             "airingAt": "2024-11-27T21:00:00Z",
             "episodeNumber": 6,
-            "episodeDate": "2024-11-20T21:00:00Z",
-            "delayedFrom": "2024-11-20T21:00:00Z",
+            "episodeDate": "2024-11-27T21:00:00Z",
+            "delayedFrom": "2024-11-20T00:00:00Z",
             "delayedUntil": "2024-11-27T21:00:00Z",
             "unaired": false
           }
@@ -900,8 +748,8 @@
           {
             "episode": 7,
             "airingAt": "2024-11-26T22:00:00Z",
-            "episodeNumber": 6,
-            "episodeDate": "2024-11-19T22:00:00Z",
+            "episodeNumber": 7,
+            "episodeDate": "2024-11-26T22:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -938,8 +786,8 @@
           {
             "episode": 6,
             "airingAt": "2024-11-28T22:00:00Z",
-            "episodeNumber": 5,
-            "episodeDate": "2024-11-21T22:00:00Z",
+            "episodeNumber": 6,
+            "episodeDate": "2024-11-28T22:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -976,8 +824,8 @@
           {
             "episode": 8,
             "airingAt": "2024-11-25T18:30:00Z",
-            "episodeNumber": 7,
-            "episodeDate": "2024-11-18T18:30:00Z",
+            "episodeNumber": 8,
+            "episodeDate": "2024-11-25T18:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -1014,8 +862,8 @@
           {
             "episode": 6,
             "airingAt": "2024-12-01T19:00:00Z",
-            "episodeNumber": 5,
-            "episodeDate": "2024-11-24T19:00:00Z",
+            "episodeNumber": 6,
+            "episodeDate": "2024-12-01T19:00:00Z",
             "delayedFrom": "2024-11-10T00:00:00Z",
             "delayedUntil": "2024-11-17T00:00:00Z",
             "unaired": false
@@ -1052,8 +900,8 @@
           {
             "episode": 5,
             "airingAt": "2024-11-29T21:00:00Z",
-            "episodeNumber": 4,
-            "episodeDate": "2024-11-22T21:00:00Z",
+            "episodeNumber": 5,
+            "episodeDate": "2024-11-29T21:00:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
             "unaired": false
@@ -1090,86 +938,10 @@
           {
             "episode": 8,
             "airingAt": "2024-11-28T22:30:00Z",
-            "episodeNumber": 7,
-            "episodeDate": "2024-11-21T22:30:00Z",
+            "episodeNumber": 8,
+            "episodeDate": "2024-11-28T22:30:00Z",
             "delayedFrom": "0001-01-01T00:00:00Z",
             "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": false
-          }
-        ]
-      }
-    },
-    "failed": false
-  },
-  {
-    "parseObject": {
-      "anime_title": "yoru-no-kurage-wa-oyogenai",
-      "file_name": "yoru-no-kurage-wa-oyogenai"
-    },
-    "media": {
-      "id": 163078,
-      "idMal": 54839,
-      "title": {
-        "romaji": "Yoru no Kurage wa Oyogenai",
-        "english": "Jellyfish Can’t Swim in the Night",
-        "native": "夜のクラゲは泳げない",
-        "userPreferred": "Jellyfish Can’t Swim in the Night"
-      },
-      "format": "TV",
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163078-kIhCmQARcoOD.jpg",
-        "color": "#e4c95d"
-      },
-      "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163078-T9ckx5LFHfbL.jpg",
-      "airingSchedule": {
-        "nodes": [
-          {
-            "episode": 11,
-            "airingAt": "2024-11-26T17:00:00Z",
-            "episodeNumber": 10,
-            "episodeDate": "2024-11-19T17:00:00Z",
-            "delayedFrom": "0001-01-01T00:00:00Z",
-            "delayedUntil": "0001-01-01T00:00:00Z",
-            "unaired": false
-          }
-        ]
-      }
-    },
-    "failed": false
-  },
-  {
-    "parseObject": {
-      "anime_title": "yozakura-san-chi-no-daisakusen",
-      "file_name": "yozakura-san-chi-no-daisakusen"
-    },
-    "media": {
-      "id": 158898,
-      "idMal": 53865,
-      "title": {
-        "romaji": "Yozakura-san Chi no Daisakusen",
-        "english": "Mission: Yozakura Family",
-        "native": "夜桜さんちの大作戦",
-        "userPreferred": "Mission: Yozakura Family"
-      },
-      "format": "TV",
-      "coverImage": {
-        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
-        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158898-O3egiBNkxLQO.png",
-        "color": "#3593e4"
-      },
-      "isAdult": false,
-      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158898-5yUfRg9D8Fs5.jpg",
-      "airingSchedule": {
-        "nodes": [
-          {
-            "episode": 23,
-            "airingAt": "2024-11-25T08:30:00Z",
-            "episodeNumber": 22,
-            "episodeDate": "2024-11-18T08:30:00Z",
-            "delayedFrom": "2024-09-16T00:00:00Z",
-            "delayedUntil": "2024-09-23T00:00:00Z",
             "unaired": false
           }
         ]
