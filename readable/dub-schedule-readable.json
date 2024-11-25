@@ -135,6 +135,31 @@
     "airingStatus": "unaired"
   },
   {
+    "title": "Cardfight!! Vanguard: Divinez Season 2",
+    "route": "cardfight-vanguard-overdress-season-7",
+    "native": "カードファイト!! ヴァンガード Divinez Season2",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-29T23:01:00Z",
+    "episodeNumber": 6,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/cardfight-vanguard-overdress-season-7-622e7522fd.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
+    },
+    "airingStatus": "unaired"
+  },
+  {
     "title": "Dandadan",
     "route": "dandadan",
     "native": "ダンダダン",

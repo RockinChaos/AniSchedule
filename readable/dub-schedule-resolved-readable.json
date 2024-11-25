@@ -191,6 +191,44 @@
   },
   {
     "parseObject": {
+      "anime_title": "cardfight-vanguard-overdress-season-7",
+      "file_name": "cardfight-vanguard-overdress-season-7"
+    },
+    "media": {
+      "id": 128827,
+      "idMal": 48862,
+      "title": {
+        "romaji": "Cardfight!! Vanguard: overDress Season 2",
+        "english": "Cardfight!! Vanguard overDress Season 2",
+        "native": "カードファイト!! ヴァンガード overDress Season2",
+        "userPreferred": "Cardfight!! Vanguard overDress Season 2"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128827-bUkrxvxollxg.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128827-bUkrxvxollxg.jpg",
+        "color": null
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128827-UZYCEglqs84L.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 6,
+            "airingAt": "2024-11-29T23:01:00Z",
+            "episodeNumber": 6,
+            "episodeDate": "2024-11-29T23:01:00Z",
+            "delayedFrom": "0001-01-01T00:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
       "anime_title": "dandadan",
       "file_name": "dandadan"
     },
