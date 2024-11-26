@@ -986,5 +986,43 @@
       }
     },
     "failed": false
+  },
+  {
+    "parseObject": {
+      "anime_title": "yozakura-san-chi-no-daisakusen",
+      "file_name": "yozakura-san-chi-no-daisakusen"
+    },
+    "media": {
+      "id": 158898,
+      "idMal": 53865,
+      "title": {
+        "romaji": "Yozakura-san Chi no Daisakusen",
+        "english": "Mission: Yozakura Family",
+        "native": "夜桜さんちの大作戦",
+        "userPreferred": "Mission: Yozakura Family"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158898-O3egiBNkxLQO.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158898-O3egiBNkxLQO.png",
+        "color": "#3593e4"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158898-5yUfRg9D8Fs5.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 24,
+            "airingAt": "2024-12-02T08:30:00Z",
+            "episodeNumber": 23,
+            "episodeDate": "2024-11-25T08:30:00Z",
+            "delayedFrom": "2024-09-16T00:00:00Z",
+            "delayedUntil": "2024-09-23T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
   }
 ]

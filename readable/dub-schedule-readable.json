@@ -687,5 +687,32 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
     "airingStatus": "unaired"
+  },
+  {
+    "title": "Yozakura-san Chi no Daisakusen",
+    "route": "yozakura-san-chi-no-daisakusen",
+    "romaji": "Yozakura-san Chi no Daisakusen",
+    "english": "Mission: Yozakura Family",
+    "native": "夜桜さんちの大作戦",
+    "delayedFrom": "2024-09-16T00:00:00Z",
+    "delayedUntil": "2024-09-23T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-25T08:30:00Z",
+    "episodeNumber": 23,
+    "episodes": 27,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/yozakura-san-chi-no-daisakusen-e2c4b66f1a.jpg",
+    "streams": {
+      "hulu": "www.hulu.com/series/mission-yozakura-family-ac689bea-f955-4d95-8693-7b87b5a309cb"
+    },
+    "airingStatus": "aired"
   }
 ]
