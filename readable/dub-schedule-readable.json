@@ -424,6 +424,33 @@
     "airingStatus": "unaired"
   },
   {
+    "title": "Mononoke: Karakasa",
+    "route": "mononoke-movie",
+    "romaji": "Mononoke: Karakasa",
+    "english": "Mononoke: The Phantom in the Rain",
+    "native": "劇場版モノノ怪",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-28T08:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 87,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/mononoke-movie-24db909430.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81580574"
+    },
+    "airingStatus": "unaired"
+  },
+  {
     "title": "Natsume Yuujinchou Shichi",
     "route": "natsume-yuujinchou-shichi",
     "romaji": "Natsume Yuujinchou Shichi",

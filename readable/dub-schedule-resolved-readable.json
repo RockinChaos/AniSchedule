@@ -609,6 +609,44 @@
   },
   {
     "parseObject": {
+      "anime_title": "mononoke-movie",
+      "file_name": "mononoke-movie"
+    },
+    "media": {
+      "id": 151117,
+      "idMal": 52107,
+      "title": {
+        "romaji": "Mononoke: Karakasa",
+        "english": "Mononoke the Movie: Phantom in the Rain",
+        "native": "モノノ怪 唐傘",
+        "userPreferred": "Mononoke the Movie: Phantom in the Rain"
+      },
+      "format": "MOVIE",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151117-AOcwR3mXCDx7.jpg",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151117-AOcwR3mXCDx7.jpg",
+        "color": "#f1bb35"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151117-6rtgumwWfoju.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 1,
+            "airingAt": "2024-11-28T08:00:00Z",
+            "episodeNumber": 1,
+            "episodeDate": "2024-11-28T08:00:00Z",
+            "delayedFrom": "0001-01-01T00:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": true
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
       "anime_title": "natsume-yuujinchou-shichi",
       "file_name": "natsume-yuujinchou-shichi"
     },
