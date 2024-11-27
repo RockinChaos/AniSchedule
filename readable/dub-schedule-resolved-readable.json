@@ -457,6 +457,44 @@
   },
   {
     "parseObject": {
+      "anime_title": "kimi-wa-houkago-insomnia",
+      "file_name": "kimi-wa-houkago-insomnia"
+    },
+    "media": {
+      "id": 143653,
+      "idMal": 50796,
+      "title": {
+        "romaji": "Kimi wa Houkago Insomnia",
+        "english": "Insomniacs after school",
+        "native": "君は放課後インソムニア",
+        "userPreferred": "Insomniacs after school"
+      },
+      "format": "TV",
+      "coverImage": {
+        "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143653-h6NEdWxKIRza.png",
+        "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143653-h6NEdWxKIRza.png",
+        "color": "#1a4386"
+      },
+      "isAdult": false,
+      "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143653-cvWrYzJPgDkV.jpg",
+      "airingSchedule": {
+        "nodes": [
+          {
+            "episode": 4,
+            "airingAt": "2024-12-04T17:00:00Z",
+            "episodeNumber": 3,
+            "episodeDate": "2024-11-27T17:00:00Z",
+            "delayedFrom": "0001-01-01T00:00:00Z",
+            "delayedUntil": "0001-01-01T00:00:00Z",
+            "unaired": false
+          }
+        ]
+      }
+    },
+    "failed": false
+  },
+  {
+    "parseObject": {
       "anime_title": "kimi-wa-meido-sama",
       "file_name": "kimi-wa-meido-sama"
     },

@@ -317,6 +317,34 @@
     "airingStatus": "unaired"
   },
   {
+    "title": "Kimi wa Houkago Insomnia",
+    "route": "kimi-wa-houkago-insomnia",
+    "romaji": "Kimi wa Houkago Insomnia",
+    "english": "Insomniacs After School",
+    "native": "君は放課後インソムニア",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-27T17:00:00Z",
+    "episodeNumber": 3,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kimi-wa-houkago-insomnia-ed7050464f.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/tv/insomniacs-after-school",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
+    },
+    "airingStatus": "aired"
+  },
+  {
     "title": "Kimi wa Meido-sama.",
     "route": "kimi-wa-meido-sama",
     "romaji": "Kimi wa Meido-sama.",
