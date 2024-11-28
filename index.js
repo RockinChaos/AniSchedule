@@ -214,7 +214,7 @@ function updateFeeds() {
         existingFeed = existingFeed.filter(episode => {
             const foundEpisode = (episode.id === entry.media.media.id && episode.episode.aired === entry.episodeNumber)
             if (foundEpisode) {
-                console.log(`Removing ${entry.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
+                console.log(`Removing ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
                 removedEpisodes.push(entry.media.media)
             }
             return !foundEpisode
@@ -259,7 +259,7 @@ function updateFeeds() {
         const latestEpisode = entry.episodeNumber
         const existingEpisodes = existingFeed.filter(media => media.id === entry.media.media.id)
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
-        if (entry.unaired) return newEpisodes
+        if (entry.unaired && new Date(entry.episodeDate) > new Date()) return newEpisodes
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
