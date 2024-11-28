@@ -121,28 +121,51 @@ if (!process.argv.includes('update-feeds')) {
 
     // Resolve found titles
     const results = await AnimeResolver.resolveFileAnime(titles)
-    for (const entry of order) { // remap dub airingSchedule to results airingSchedule
-        const mediaMatch = results.find(result => result.media?.title?.userPreferred === entry.title)
-        if (mediaMatch) {
-            const airingItem = airing.find(i => i.route === entry.route)
-            if (airingItem) {
-                console.log(`Mapping dubbed airing schedule for ${airingItem.route} ${mediaMatch.media?.title?.userPreferred}`)
-                mediaMatch.media.airingSchedule = {
-                    nodes: [
-                        {
-                            episode: airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) && (new Date(fixDelayed(airingItem.delayedUntil, airingItem.episodeDate)) < new Date()) ? 1 : 0),
-                            airingAt: past(new Date(airingItem.episodeDate), 1, false),
-                            episodeNumber: airingItem.episodeNumber,
-                            episodeDate: airingItem.episodeDate,
-                            delayedFrom: fixDelayed(airingItem.delayedFrom, airingItem.episodeDate),
-                            delayedUntil: fixDelayed(airingItem.delayedUntil, airingItem.episodeDate),
-                            unaired: (airingItem.episodeNumber <= 1 && Math.floor(new Date(airingItem.episodeDate).getTime()) > Math.floor(Date.now()))
-                        },
-                    ],
+
+    // Create combined results by mapping the resolved data to airingItems
+    const combinedResults = airing.map((airingItem) => {
+        // Find the resolved media match for the current airing item
+        const entry = order.find(o => o.route === airingItem.route)
+        const mediaMatch = results?.find(result => result.media?.title?.userPreferred === entry?.title)
+        const predictedEpisode = airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil, airingItem.episodeDate) < new Date()) ? 1 : 0)
+        const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i)
+
+        return {
+            ...airingItem, // Include all original airing list data
+            ...(mediaMatch && {
+                media: {
+                    ...mediaMatch,
+                    media: {
+                        ...mediaMatch.media,
+                        airingSchedule: {
+                            nodes: range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode).map((ep) => ({
+                                episode: ep,
+                                airingAt: past(new Date(airingItem.episodeDate), 1, false)
+                            }))
+                        }
+                    }
                 }
-            }
+            })
         }
-    }
+    })
+
+    // Iterate over combinedResults to verify against the schedule
+    combinedResults.forEach((entry) => {
+        const scheduleMatch = currentSchedule?.find(scheduledItem => scheduledItem.route === entry.route)
+
+        if (scheduleMatch) {
+            entry.verified = scheduleMatch.verified || false
+            entry.addedAt = scheduleMatch.addedAt || past(new Date(), 0, false)
+            if (!entry.verified && (new Date(new Date(entry.addedAt).getTime() + 14 * 24 * 60 * 60 * 1000) <= new Date())) {
+                entry.verified = true
+                entry.addedAt = scheduleMatch.addedAt
+                console.log(`Verified ${entry.media.media.title.userPreferred} as it has been on the timetables for a full two weeks, if it is removed before the final episode then its a bug or an indefinite delay.`)
+            }
+        } else {
+            entry.addedAt = past(new Date(), 0, false)
+            entry.verified = false
+        }
+    })
 
 
     if (combinedResults) {
