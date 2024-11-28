@@ -64,7 +64,21 @@ if (!process.argv.includes('update-feeds')) {
         }
     }
 
-    if (await airingLists.value) {
+    const timetables = await airingLists.value
+    if (timetables) {
+        // need to re-add indefinitely delayed series to timetables.
+        currentSchedule.forEach((entry) => {
+            const existingInAiring = timetables.find((airingItem) => airingItem.route === entry.route)
+            if (!existingInAiring && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is a indefinitely delayed series.
+                console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
+                const newEntry = {
+                    ...entry,
+                    delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
+                    delayedIndefinitely: true
+                }
+                timetables.push(newEntry)
+            }
+        })
         // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
         airingLists.value = timetables.filter(item => item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title))
         console.log(`Successfully retrieved ${airingLists.value.length} airing series...`)
