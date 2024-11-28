@@ -1,3 +1,6 @@
+import fs from 'fs'
+import path from 'path'
+
 /**
  * @template T
  * @param {T[]} arr
@@ -36,4 +39,69 @@ export function dayTimeMatch(date1, date2) {
  */
 export function weeksDifference(date1, date2) {
     return Math.round((new Date(date2) - new Date(date1)) / (1000 * 60 * 60 * 24 * 7))
+}
+
+export function delay(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+export function getCurrentYearAndWeek() {
+    const now = new Date()
+    const year = now.getFullYear()
+    const oneJan = new Date(year, 0, 1)
+    const week = Math.ceil((Math.floor((now - oneJan) / (24 * 60 * 60 * 1000)) + oneJan.getDay() + 1) / 7)
+    const year_weeks = (new Date(year, 0, 1).getDay() === 4 || new Date(year, 11, 31).getDay() === 4) ? 53 : 52
+    return { year, week, year_weeks }
+}
+
+export function getWeeksInYear(year) {
+    const lastDayOfYear = new Date(year, 11, 31)
+    return Math.ceil((Math.floor((lastDayOfYear - new Date(year, 0, 1)) / (24 * 60 * 60 * 1000)) + lastDayOfYear.getDay() + 1) / 7)
+}
+
+export function calculateWeeksToFetch() {
+    const { year, week, year_weeks } = getCurrentYearAndWeek()
+    const weeksInCurrentYear = getWeeksInYear(year)
+    const remainingWeeksThisYear = weeksInCurrentYear - week
+
+    if (remainingWeeksThisYear >= 26) {
+        return { startYear: year, startWeek: week, endYear: year, endWeek: weeksInCurrentYear }
+    } else {
+        const extraWeeks = 26 - remainingWeeksThisYear
+        const nextYear = year + 1
+        const weeksInNextYear = getWeeksInYear(nextYear)
+
+        return {
+            startYear: year,
+            startWeek: week,
+            endYear: nextYear,
+            endWeek: Math.min(extraWeeks, weeksInNextYear),
+        }
+    }
+}
+
+export function fixTime(delayedDate, episodeDate) {
+    const delayed = new Date(delayedDate)
+    const episodeAt = new Date(episodeDate)
+    delayed.setUTCHours(episodeAt.getUTCHours())
+    delayed.setUTCMinutes(episodeAt.getUTCMinutes())
+    delayed.setUTCSeconds(episodeAt.getUTCSeconds())
+    return past(delayed, 0, false)
+}
+
+export function loadJSON(filePath) {
+    if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, JSON.stringify([]))
+    return JSON.parse(fs.readFileSync(filePath))
+}
+
+function ensureDirectoryExists(filePath) {
+    const dir = path.dirname(filePath)
+    if (!fs.existsSync(dir)) {
+        fs.mkdirSync(dir, { recursive: true })
+    }
+}
+
+export function saveJSON(filePath, data, prettyPrint = false) {
+    ensureDirectoryExists(filePath)
+    fs.writeFileSync(filePath, JSON.stringify(data, null, prettyPrint ? 2 : 0))
 }
