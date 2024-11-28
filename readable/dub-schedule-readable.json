@@ -1403,8 +1403,8 @@
     "streams": {
       "netflix": "www.netflix.com/title/81580574"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "mononoke-movie",
@@ -1431,7 +1431,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-11-28T08:00:00Z"
+              "airingAt": "2024-12-05T08:00:00Z"
             }
           ]
         }
