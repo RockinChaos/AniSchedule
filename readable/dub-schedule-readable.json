@@ -1,5 +1,67 @@
 [
   {
+    "title": "[Oshi no Ko] 2nd Season",
+    "route": "oshi-no-ko-season-2",
+    "native": "【推しの子】第2期",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-29T17:00:00Z",
+    "episodeNumber": 12,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/oshi-no-ko-season-2-a58d6c74e0.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/24567",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JjnfDK89UJui3A9wj9Ib6yF"
+    },
+    "airingStatus": "unaired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "oshi-no-ko-season-2",
+        "file_name": "oshi-no-ko-season-2"
+      },
+      "media": {
+        "id": 166531,
+        "idMal": 55791,
+        "title": {
+          "romaji": "[Oshi no Ko] 2nd Season",
+          "english": "Oshi no Ko Season 2",
+          "native": "【推しの子】第2期",
+          "userPreferred": "Oshi no Ko Season 2"
+        },
+        "format": "TV",
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166531-dAL5MsqDHUkj.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166531-dAL5MsqDHUkj.jpg",
+          "color": "#e44343"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166531-vUu7iDwUkC67.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2024-11-29T17:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "addedAt": "2024-11-28T19:14:14Z",
+    "verified": false
+  },
+  {
     "title": "Amagami-san Chi no Enmusubi",
     "route": "amagami-san-chi-no-enmusubi",
     "romaji": "Amagami-san Chi no Enmusubi",
@@ -376,70 +438,6 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
-    "title": "Dandadan",
-    "route": "dandadan",
-    "native": "ダンダダン",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-11-28T16:00:00Z",
-    "episodeNumber": 9,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/dandadan-74284c55e4.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GG5H5XQ0D/dan-da-dan",
-      "hulu": "www.hulu.com/series/bad0bb31-0fa5-4a69-b9a5-5e5ed5032a48",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD",
-      "netflix": "www.netflix.com/title/81736884"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "dandadan",
-        "file_name": "dandadan"
-      },
-      "media": {
-        "id": 171018,
-        "idMal": 57334,
-        "title": {
-          "romaji": "Dandadan",
-          "english": "DAN DA DAN",
-          "native": "ダンダダン",
-          "userPreferred": "DAN DA DAN"
-        },
-        "format": "TV",
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171018-2ldCj6QywuOa.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171018-2ldCj6QywuOa.jpg",
-          "color": "#e47850"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171018-SpwPNAduszXl.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2024-12-05T16:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
     "title": "Delico's Nursery",
     "route": "delicos-nursery",
     "native": "デリコズ・ナーサリー",
@@ -726,69 +724,6 @@
             {
               "episode": 13,
               "airingAt": "2024-12-17T00:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Hoshi Furu Oukoku no Nina",
-    "route": "hoshifuru-oukoku-no-nina",
-    "romaji": "Hoshi Furu Oukoku no Nina",
-    "english": "Nina the Starry Bride",
-    "native": "星降る王国のニナ",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-11-25T15:00:00Z",
-    "episodeNumber": 8,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/hoshifuru-oukoku-no-nina-28ef7ab3b1.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GKEH2G0QK/nina-the-starry-bride"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "hoshifuru-oukoku-no-nina",
-        "file_name": "hoshifuru-oukoku-no-nina"
-      },
-      "media": {
-        "id": 171038,
-        "idMal": 57362,
-        "title": {
-          "romaji": "Hoshi Furu Oukoku no Nina",
-          "english": "Nina the Starry Bride",
-          "native": "星降る王国のニナ",
-          "userPreferred": "Nina the Starry Bride"
-        },
-        "format": "TV",
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171038-lSjQqiSk1mQC.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171038-lSjQqiSk1mQC.jpg",
-          "color": "#e4d628"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2024-12-02T15:00:00Z"
             }
           ]
         }
@@ -1505,128 +1440,6 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
-    "title": "Ooi! Tonbo 2nd Season",
-    "route": "ooi-tonbo-2nd-season",
-    "romaji": "Ooi! Tonbo 2nd Season",
-    "english": "Hey! Tonbo 2nd Season",
-    "native": "オーイ! とんぼ 第2期",
-    "delayedFrom": "0001-01-01T01:30:00Z",
-    "delayedUntil": "0001-01-01T01:30:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-11-30T01:30:00Z",
-    "episodeNumber": 9,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/ooi-tonbo-2nd-season-c15726c602.jpg",
-    "streams": {
-      "amazon": "www.amazon.com/dp/B0DH8D89GR"
-    },
-    "airingStatus": "unaired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "ooi-tonbo-2nd-season",
-        "file_name": "ooi-tonbo-2nd-season"
-      },
-      "media": {
-        "id": 178729,
-        "idMal": 59175,
-        "title": {
-          "romaji": "Ooi! Tonbo 2nd Season",
-          "english": "Tonbo! Season 2",
-          "native": "オーイ! とんぼ 第2期",
-          "userPreferred": "Tonbo! Season 2"
-        },
-        "format": "TV",
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178729-SkLnIC30dvLB.jpg",
-          "color": "#f1860d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2024-11-30T01:30:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Ranma ½ (2024)",
-    "route": "ranma-2024",
-    "native": "らんま1/2 (新作アニメ)",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-11-30T17:00:00Z",
-    "episodeNumber": 9,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/ranma-2024-ff1651527e.jpg",
-    "streams": {
-      "netflix": "www.netflix.com/title/81171925"
-    },
-    "airingStatus": "unaired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "ranma-2024",
-        "file_name": "ranma-2024"
-      },
-      "media": {
-        "id": 178533,
-        "idMal": 59145,
-        "title": {
-          "romaji": "Ranma 1/2 (2024)",
-          "english": "Ranma1/2 (2024)",
-          "native": "らんま1/2 (2024)",
-          "userPreferred": "Ranma1/2 (2024)"
-        },
-        "format": "TV",
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178533-md2BV8esGezM.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178533-md2BV8esGezM.jpg",
-          "color": "#e4bb28"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178533-LrfKdOUWOLyS.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2024-11-30T17:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
     "route": "re-zero-kara-hajimeru-isekai-seikatsu-3",
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
@@ -1807,69 +1620,6 @@
             {
               "episode": 6,
               "airingAt": "2024-11-28T22:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Seirei Gensouki 2",
-    "route": "seirei-gensouki-2",
-    "romaji": "Seirei Gensouki 2",
-    "english": "Spirit Chronicles 2",
-    "native": "精霊幻想記２",
-    "delayedFrom": "0001-01-01T18:30:00Z",
-    "delayedUntil": "0001-01-01T18:30:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-11-25T18:30:00Z",
-    "episodeNumber": 8,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/seirei-gensouki-2-4cd2251449.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/G0XHWM380/seirei-gensouki-spirit-chronicles"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "seirei-gensouki-2",
-        "file_name": "seirei-gensouki-2"
-      },
-      "media": {
-        "id": 141182,
-        "idMal": 50306,
-        "title": {
-          "romaji": "Seirei Gensouki 2",
-          "english": "Seirei Gensouki: Spirit Chronicles Season 2",
-          "native": "精霊幻想記2",
-          "userPreferred": "Seirei Gensouki: Spirit Chronicles Season 2"
-        },
-        "format": "TV",
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141182-xNtdR0PenhRR.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141182-xNtdR0PenhRR.jpg",
-          "color": "#1a4393"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141182-ZHCTx8JhKujK.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2024-12-02T18:30:00Z"
             }
           ]
         }
@@ -2126,6 +1876,70 @@
     },
     "verified": false,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Yoru no Kurage wa Oyogenai",
+    "route": "yoru-no-kurage-wa-oyogenai",
+    "romaji": "Yoru no Kurage wa Oyogenai",
+    "english": "Jellyfish Can't Swim in the Night",
+    "native": "夜のクラゲは泳げない",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-11-26T17:00:00Z",
+    "episodeNumber": 11,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/yoru-no-kurage-wa-oyogenai-6f551d3485.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/22309",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2z_raZP-3EdZOrEzjrGXco"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "yoru-no-kurage-wa-oyogenai",
+        "file_name": "yoru-no-kurage-wa-oyogenai"
+      },
+      "media": {
+        "id": 163078,
+        "idMal": 54839,
+        "title": {
+          "romaji": "Yoru no Kurage wa Oyogenai",
+          "english": "Jellyfish Can’t Swim in the Night",
+          "native": "夜のクラゲは泳げない",
+          "userPreferred": "Jellyfish Can’t Swim in the Night"
+        },
+        "format": "TV",
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163078-kIhCmQARcoOD.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163078-kIhCmQARcoOD.jpg",
+          "color": "#e4c95d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163078-T9ckx5LFHfbL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 11,
+              "airingAt": "2024-12-03T17:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "addedAt": "2024-11-28T19:14:14Z",
+    "verified": false
   },
   {
     "title": "Yozakura-san Chi no Daisakusen",
