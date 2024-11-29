@@ -8,7 +8,7 @@ on:
 jobs:
   update-feeds-and-upload:
     runs-on: self-hosted
-    timeout-minutes: 1470
+    timeout-minutes: 1440
 
     steps:
       - name: Checkout repository
@@ -21,7 +21,7 @@ jobs:
 
       - name: Start 24-hour loop
         run: |
-          end_time=$(( $(date +%s) + 86400 ))
+          end_time=$(( $(date +%s) + 84600 )) # 23 hours * 3600 + 30 minutes * 60
           while [ $(date +%s) -lt $end_time ]; do
             echo "Checking for newly released episodes"
           
@@ -38,13 +38,11 @@ jobs:
           
             title="Added New Episode(s)"
             if [ -f changes.txt ]; then
-            description=$(cat changes.txt)
-            commit_message="$title\n\n$description"
+            git commit -m "$title" -m "$(cat changes.txt)" || true
             else
-            commit_message="$title"
+            git commit -m "$title" || true
             fi
-            
-            git commit -m "$commit_message" || true
+          
             git push || true
           
             echo "Sleeping for 30 seconds..."

@@ -46,12 +46,10 @@ jobs:
         
         title="(Dub) Updated Airing Schedule"
         if [ -f changes.txt ]; then
-        description=$(cat changes.txt)
-        commit_message="$title\n\n$description"
+        git commit -m "$title" -m "$(cat changes.txt)" || exit 0
         else
-        commit_message="$title"
+        git commit -m "$title" || exit 0
         fi
         
-        git commit -m "$commit_message" || exit 0
         git pull --rebase
         git push
