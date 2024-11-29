@@ -36,13 +36,22 @@ jobs:
       env:  # Pass the secret as an environment variable
         ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
         ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
-      run: node index.js
+      run: node index.js update-dubs
 
     - name: Commit and push JSON files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add './*.json'
-        git commit -m "(Dub) Updated Airing Schedule" || exit 0
+        
+        title="(Dub) Updated Airing Schedule"
+        if [ -f changes.txt ]; then
+        description=$(cat changes.txt)
+        commit_message="$title\n\n$description"
+        else
+        commit_message="$title"
+        fi
+        
+        git commit -m "$commit_message" || exit 0
         git pull --rebase
         git push
