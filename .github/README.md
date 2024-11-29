@@ -2,7 +2,7 @@
 
 **AniSchedule** is a fully automated tool that fetches and organizes schedules and episode feeds for current airing anime, including dubs, subs, and hentai. The generated files are updated regularly and published directly to this repository using GitHub Actions.
 
-> [!TIP]
+> [!NOTE]
 > **Fast Updates:** Stay on top of airing schedules and episode feeds without any hassle or nasty rate limits when resolving media!
 
 ## Features
@@ -50,7 +50,7 @@ Contributions, feature requests, and issue reports are welcome! Feel free to ope
 
 ## License
 
-This project is licensed under the GPL-3.0 License. See [LICENSE](LICENSE) for details.
+This project is licensed under the GPL-3.0 License. See [LICENSE](https://github.com/RockinChaos/AniSchedule/blob/master/LICENSE) for details.
 
 ---
 
