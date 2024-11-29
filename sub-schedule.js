@@ -33,7 +33,7 @@ export async function fetchSubSchedule() {
     const media = results?.data?.Page?.media
     if (media?.length > 0) {
         console.log(`Successfully resolved ${media.length} airing, saving...`)
-        await writeFile('sub-schedule.json', JSON.stringify(media))
+        await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
         await writeFile('./readable/sub-schedule-readable.json', JSON.stringify(media, null, 2))
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')
@@ -45,9 +45,9 @@ export async function fetchSubSchedule() {
 // update sub schedule episode feed //
 export async function updateSubFeed() {
     const changes = []
-    const schedule = loadJSON(path.join('sub-schedule.json'))
-    let existingSubbedFeed = loadJSON(path.join('sub-episode-feed.json'))
-    let existingHentaiFeed = loadJSON(path.join('hentai-episode-feed.json'))
+    const schedule = loadJSON(path.join('./raw/sub-schedule.json'))
+    let existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
+    let existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
 
     const newEpisodes = []
     const newHentaiEpisodes = []
@@ -84,8 +84,8 @@ export async function updateSubFeed() {
     const newFeed = [...(newEpisodes.filter(({ id, episode }) => !existingSubbedFeed.some(media => media.id === id && media.episode.aired === episode.aired)).sort((a, b) => b.episode.aired - a.episode.aired)), ...existingSubbedFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
     const hentaiFeed = [...(newHentaiEpisodes.filter(({ id, episode }) => !existingHentaiFeed.some(media => media.id === id && media.episode.aired === episode.aired)).sort((a, b) => b.episode.aired - a.episode.aired)), ...existingHentaiFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
 
-    saveJSON(path.join('sub-episode-feed.json'), newFeed)
-    saveJSON(path.join('hentai-episode-feed.json'), hentaiFeed)
+    saveJSON(path.join('./raw/sub-episode-feed.json'), newFeed)
+    saveJSON(path.join('./raw/hentai-episode-feed.json'), hentaiFeed)
     saveJSON(path.join('./readable/sub-episode-feed-readable.json'), newFeed, true)
     saveJSON(path.join('./readable/hentai-episode-feed-readable.json'), hentaiFeed, true)
 

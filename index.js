@@ -5,6 +5,7 @@ import { fetchDubSchedule, updateDubFeed } from './dub-schedule.js'
 import { fetchSubSchedule, updateSubFeed } from './sub-schedule.js'
 
 await fs.mkdir('./readable', { recursive: true }, () => {})
+await fs.mkdir('./raw', { recursive: true }, () => {})
 
 // changes to show in the commit description
 const changes = []

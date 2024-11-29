@@ -41,7 +41,7 @@ export async function fetchDubSchedule() {
     // Fetch airing lists //
 
     let airingLists = writable([])
-    const currentSchedule = loadJSON(path.join('dub-schedule.json'))
+    const currentSchedule = loadJSON(path.join('./raw/dub-schedule.json'))
 
     console.log(`Getting dub airing schedule`)
 
@@ -189,7 +189,7 @@ export async function fetchDubSchedule() {
     if (combinedResults) {
         if (combinedResults.length !== airingLists.value.length) console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
         console.log(`Successfully resolved ${combinedResults.length} airing, saving...`)
-        await writeFile('dub-schedule.json', JSON.stringify(combinedResults))
+        await writeFile('./raw/dub-schedule.json', JSON.stringify(combinedResults))
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(combinedResults, null, 2))
     } else {
         console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
@@ -203,12 +203,8 @@ export async function fetchDubSchedule() {
 // update dub schedule episode feed //
 export async function updateDubFeed() {
     const changes = []
-
-    const scheduleFilePath = path.join('dub-schedule.json')
-    const feedFilePath = path.join('dub-episode-feed.json')
-
-    const schedule = loadJSON(scheduleFilePath)
-    let existingFeed = loadJSON(feedFilePath)
+    const schedule = loadJSON(path.join('./raw/dub-schedule.json'))
+    let existingFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
     const removedEpisodes = []
     const modifiedEpisodes = []
 
@@ -324,7 +320,7 @@ export async function updateDubFeed() {
     }).sort((a, b) => b.episode.aired - a.episode.aired)
 
     const newFeed = [...newEpisodes, ...existingFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
-    saveJSON(feedFilePath, newFeed)
+    saveJSON(path.join('./raw/dub-episode-feed.json'), newFeed)
     saveJSON(path.join('./readable/dub-episode-feed-readable.json'), newFeed, true)
 
     if (newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
