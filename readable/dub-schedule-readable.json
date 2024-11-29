@@ -916,7 +916,7 @@
           "color": "#e4d628"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171038-7KAZ6U4nTM8i.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -2266,7 +2266,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2298,7 +2298,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2024-11-29T21:00:00Z"
+              "airingAt": "2024-12-06T21:00:00Z"
             }
           ]
         }
