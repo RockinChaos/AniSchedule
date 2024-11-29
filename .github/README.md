@@ -17,20 +17,20 @@
 ### 📝 Readable Paths
 For easy viewing of the schedules and feeds:
 
-- **[Dub Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/dub-episode-feed-readable.json)**
-- **[Dub Schedule (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/dub-schedule-readable.json)**
-- **[Hentai Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/hentai-episode-feed-readable.json)**
-- **[Sub Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/sub-episode-feed-readable.json)**
-- **[Sub Schedule (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/sub-schedule-readable.json)**
+- **[Dub Schedule (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/dub-schedule-readable.json)**
+- **[Sub Schedule (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/sub-schedule-readable.json)**
+- **[Dub Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/dub-episode-feed-readable.json)**
+- **[Sub Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/sub-episode-feed-readable.json)**
+- **[Hentai Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/hentai-episode-feed-readable.json)**
 
 ### 📡 Raw JSON Paths
 For programmatic use and integration:
 
-- **[Dub Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/dub-episode-feed.json)**
-- **[Dub Schedule (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/dub-schedule.json)**
-- **[Hentai Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/hentai-episode-feed.json)**
-- **[Sub Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/sub-episode-feed.json)**
-- **[Sub Schedule (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/sub-schedule.json)**
+- **[Dub Schedule (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/dub-schedule.json)**
+- **[Sub Schedule (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/sub-schedule.json)**
+- **[Dub Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/dub-episode-feed.json)**
+- **[Sub Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/sub-episode-feed.json)**
+- **[Hentai Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/hentai-episode-feed.json)**
 
 ## Update Frequency
 
