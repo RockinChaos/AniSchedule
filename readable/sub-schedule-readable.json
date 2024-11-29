@@ -1,65 +1,5 @@
 [
   {
-    "id": 165159,
-    "idMal": 56566,
-    "title": {
-      "romaji": "BEYBLADE X",
-      "english": "BEYBLADE X",
-      "native": "BEYBLADE X",
-      "userPreferred": "BEYBLADE X"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
-      "color": "#28aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 58,
-          "airingAt": 1732872300
-        }
-      ]
-    }
-  },
-  {
-    "id": 175473,
-    "idMal": 58275,
-    "title": {
-      "romaji": "Duel Masters LOST:  Tsuioku no Suishou",
-      "english": null,
-      "native": "Duel Masters LOST ～追憶の水晶～",
-      "userPreferred": "Duel Masters LOST:  Tsuioku no Suishou"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175473-GZVodFQ3gqJb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175473-GZVodFQ3gqJb.jpg",
-      "color": "#fe28f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1732878000
-        }
-      ]
-    }
-  },
-  {
     "id": 171689,
     "idMal": 57562,
     "title": {
@@ -2628,6 +2568,37 @@
         {
           "episode": 10,
           "airingAt": 1733418000
+        }
+      ]
+    }
+  },
+  {
+    "id": 165159,
+    "idMal": 56566,
+    "title": {
+      "romaji": "BEYBLADE X",
+      "english": "BEYBLADE X",
+      "native": "BEYBLADE X",
+      "userPreferred": "BEYBLADE X"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 59,
+          "airingAt": 1733477100
         }
       ]
     }
