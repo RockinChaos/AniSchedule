@@ -91,7 +91,11 @@ export function fixTime(delayedDate, episodeDate) {
 
 export function loadJSON(filePath) {
     if (!fs.existsSync(filePath)) fs.writeFileSync(filePath, JSON.stringify([]))
-    return JSON.parse(fs.readFileSync(filePath))
+    try {
+        return JSON.parse(fs.readFileSync(filePath))
+    } catch (error) {
+        return []
+    }
 }
 
 function ensureDirectoryExists(filePath) {
