@@ -1,4 +1,4 @@
-name: Update Schedules
+name: Update Dub Schedules
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
-  resolve-schedule-and-upload:
-    runs-on: self-hosted-primary
+  resolve-dub-schedules-and-upload:
+    runs-on: self-hosted
     timeout-minutes: 10
 
     steps:
@@ -25,9 +25,9 @@ jobs:
         path: |
           node_modules
           ~/.npm
-        key: schedules-${{ hashFiles('**/package-lock.json') }}
+        key: dub-schedules-${{ hashFiles('**/package-lock.json') }}
         restore-keys: |
-          schedules-
+          dub-schedules-
 
     - name: Install dependencies
       run: npm ci

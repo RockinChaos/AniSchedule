@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-feeds-and-upload:
-    runs-on: self-hosted-secondary
+    runs-on: self-hosted
     timeout-minutes: 1470
 
     steps:
@@ -29,13 +29,22 @@ jobs:
             git pull
           
             # Run the feed update script
-            node index.js update-feeds
+            node index.js update-all-feeds
           
             # Stage, commit, and push any JSON changes
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add './*.json'
-            git commit -m "(Dub) Added New Episode(s)" || true
+          
+            title="Added New Episode(s)"
+            if [ -f changes.txt ]; then
+            description=$(cat changes.txt)
+            commit_message="$title\n\n$description"
+            else
+            commit_message="$title"
+            fi
+            
+            git commit -m "$commit_message" || true
             git push || true
           
             echo "Sleeping for 30 seconds..."

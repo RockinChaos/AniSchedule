@@ -1,0 +1,56 @@
+name: Update Sub Schedules
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Run every 6 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  resolve-sub-schedules-and-upload:
+    runs-on: self-hosted
+    timeout-minutes: 10
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Cache Node.js modules
+      uses: actions/cache@v3
+      with:
+        path: |
+          node_modules
+          ~/.npm
+        key: sub-schedules-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          sub-schedules-
+
+    - name: Install dependencies
+      run: npm ci
+
+    - name: Run Node.js script
+      env:  # Pass the secret as an environment variable
+        ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
+      run: node index.js update-subs
+
+    - name: Commit and push JSON files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add './*.json'
+        
+        title="(Sub) Updated Airing Schedule"
+        if [ -f changes.txt ]; then
+        description=$(cat changes.txt)
+        commit_message="$title\n\n$description"
+        else
+        commit_message="$title"
+        fi
+        
+        git commit -m "$commit_message" || exit 0
+        git pull --rebase
+        git push

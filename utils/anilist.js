@@ -11,6 +11,7 @@ title {
   userPreferred
 },
 format,
+genres,
 coverImage {
   extraLarge,
   medium,
@@ -36,7 +37,6 @@ averageScore,
 source,
 countryOfOrigin,
 synonyms,
-genres,
 tags {
   name,
   rank
@@ -140,6 +140,27 @@ class AnilistClient {
             })
             return time
         })
+    }
+
+    /**
+     * Searches for all media matching the query variables.
+     * @param {Object} variables - The search parameters.
+     * @returns {Promise<PagedQuery<{media: Media[]}>>} - The result of the search, containing media data.
+     */
+    async search (variables = {}) {
+        console.log(`Searching ${JSON.stringify(variables)}`)
+        const query = /* js */` 
+        query($page: Int, $perPage: Int, $sort: [MediaSort], $search: String, $onList: Boolean, $status: MediaStatus, $status_not: MediaStatus, $season: MediaSeason, $year: Int, $genre: [String], $tag: [String], $format: MediaFormat, $id_not: [Int], $idMal_not: [Int], $idMal: [Int]) {
+          Page(page: $page, perPage: $perPage) {
+            pageInfo {
+              hasNextPage
+            },
+            media(id_not_in: $id_not, idMal_not_in: $idMal_not, idMal_in: $idMal, type: ANIME, search: $search, sort: $sort, onList: $onList, status: $status, status_not: $status_not, season: $season, seasonYear: $year, genre_in: $genre, tag_in: $tag, format: $format, format_not: MUSIC) {
+              ${queryObjects}
+            }
+          }
+        }`
+        return await this.alRequest(query, variables)
     }
 
     /**
