@@ -432,7 +432,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -930,6 +930,74 @@
     },
     "verified": false,
     "addedAt": "2024-11-28T21:16:32Z"
+  },
+  {
+    "title": "Houkago Shounen Hanako-kun 2",
+    "route": "houkago-shounen-hanako-kun-2",
+    "romaji": "Houkago Shounen Hanako-kun 2",
+    "english": "After-school Hanako-kun 2nd Season",
+    "native": " 放課後少年花子くん 2",
+    "delayedFrom": "0001-01-01T18:00:00Z",
+    "delayedUntil": "0001-01-01T18:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-02T18:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 4,
+    "lengthMin": 10,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/houkago-shounen-hanako-kun-2-02e687738d.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GVDHX85GV/after-school-hanako-kun"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "houkago-shounen-hanako-kun-2",
+        "file_name": "houkago-shounen-hanako-kun-2"
+      },
+      "media": {
+        "id": 170893,
+        "idMal": 57102,
+        "title": {
+          "romaji": "Houkago Shounen Hanako-kun 2",
+          "english": "After-school Hanako-kun Season 2",
+          "native": "放課後少年花子くん 2",
+          "userPreferred": "After-school Hanako-kun Season 2"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170893-zqmpX7iYUumi.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170893-zqmpX7iYUumi.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-02T18:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-11-30T02:27:49Z"
   },
   {
     "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V: Goddess of Fertility Arc",
@@ -1719,7 +1787,7 @@
     "streams": {
       "amazon": "www.amazon.com/dp/B0DH8D89GR"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1751,7 +1819,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2024-11-30T01:30:00Z"
+              "airingAt": "2024-12-07T01:30:00Z"
             }
           ]
         }
@@ -2247,8 +2315,9 @@
     "title": "Sword Art Online Alternative: Gun Gale Online 2",
     "route": "sword-art-online-alternative-gun-gale-online-2",
     "native": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-11-29T21:00:00Z",
+    "delayedUntil": "2024-12-06T21:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-11-29T21:00:00Z",
     "episodeNumber": 5,
@@ -2266,7 +2335,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
