@@ -161,7 +161,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1377,7 +1377,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1410,7 +1410,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2024-11-30T22:30:00Z"
+              "airingAt": "2024-12-07T22:30:00Z"
             }
           ]
         }
@@ -1445,7 +1445,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1480,7 +1480,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2024-11-30T23:00:00Z"
+              "airingAt": "2024-12-07T23:00:00Z"
             }
           ]
         }
