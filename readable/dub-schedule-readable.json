@@ -1851,7 +1851,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81171925"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1884,7 +1884,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2024-11-30T17:00:00Z"
+              "airingAt": "2024-12-07T17:00:00Z"
             }
           ]
         }
