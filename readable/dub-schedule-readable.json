@@ -366,7 +366,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1515,7 +1515,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
       "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1549,7 +1549,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2024-11-30T20:30:00Z"
+              "airingAt": "2024-12-07T20:30:00Z"
             }
           ]
         }
