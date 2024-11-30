@@ -103,7 +103,7 @@ export async function updateSubFeed() {
             console.log(`No changes detected for the Subbed Episodes Feed.`)
         }
     } else {
-        console.log(`No changes detected for the Hentai or Subbed Episodes Feed.`)
+        console.log(`No changes detected for the Subbed or Hentai Episodes Feed.`)
     }
 
     return changes

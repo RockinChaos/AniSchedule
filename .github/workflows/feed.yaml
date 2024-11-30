@@ -7,7 +7,7 @@ on:
 
 jobs:
   update-feeds-and-upload:
-    runs-on: self-hosted
+    runs-on: self-hosted-primary
     timeout-minutes: 1440
 
     steps:
@@ -38,6 +38,26 @@ jobs:
           
             title="Added New Episode(s)"
             if [ -f changes.txt ]; then
+            contains_dub=$(grep -q "(Dub)" changes.txt && echo true || echo false)
+            contains_sub=$(grep -q "(Sub)" changes.txt && echo true || echo false)
+            contains_hentai=$(grep -q "(Hentai)" changes.txt && echo true || echo false)
+          
+            if [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+            title="(Dub/Sub/Hentai) Added New Episode(s)"
+            elif [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ]; then
+            title="(Dub/Sub) Added New Episode(s)"
+            elif [ "$contains_dub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+            title="(Dub/Hentai) Added New Episode(s)"
+            elif [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+            title="(Sub/Hentai) Added New Episode(s)"
+            elif [ "$contains_dub" == "true" ]; then
+            title="(Dub) Added New Episode(s)"
+            elif [ "$contains_sub" == "true" ]; then
+            title="(Sub) Added New Episode(s)"
+            elif [ "$contains_hentai" == "true" ]; then
+            title="(Hentai) Added New Episode(s)"
+            fi
+          
             git commit -m "$title" -m "$(cat changes.txt)" || true
             else
             git commit -m "$title" || true
