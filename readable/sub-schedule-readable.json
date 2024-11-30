@@ -1,152 +1,5 @@
 [
   {
-    "id": 178395,
-    "idMal": 59123,
-    "title": {
-      "romaji": "Kumarba Season 2",
-      "english": null,
-      "native": "クマーバシーズン2",
-      "userPreferred": "Kumarba Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178395-KrTKL6GTPgjd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178395-KrTKL6GTPgjd.png",
-      "color": "#fed628"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1732917600
-        }
-      ]
-    }
-  },
-  {
-    "id": 181835,
-    "idMal": 59485,
-    "title": {
-      "romaji": "Shibuya♡Hachi Part 2",
-      "english": null,
-      "native": "SHIBUYA♡HACHI 第2クール",
-      "userPreferred": "Shibuya♡Hachi Part 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181835-OVS3M8qJ4Pkd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181835-OVS3M8qJ4Pkd.png",
-      "color": "#f1bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1732917600
-        }
-      ]
-    }
-  },
-  {
-    "id": 173216,
-    "idMal": 57538,
-    "title": {
-      "romaji": "Sai-Kyo-Oh! Zukan: The Ultimate Battles",
-      "english": null,
-      "native": "最強王図鑑 ～The Ultimate Battles～",
-      "userPreferred": "Sai-Kyo-Oh! Zukan: The Ultimate Battles"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Action"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173216-gtERsAl4GB2j.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173216-gtERsAl4GB2j.png",
-      "color": "#d6a15d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173216-etkg3heFAESy.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 48,
-          "airingAt": 1732917600
-        }
-      ]
-    }
-  },
-  {
-    "id": 179408,
-    "idMal": 58944,
-    "title": {
-      "romaji": "JOCHUM",
-      "english": null,
-      "native": "JOCHUM",
-      "userPreferred": "JOCHUM"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179408-Xr7bnqL2aGfw.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179408-Xr7bnqL2aGfw.png",
-      "color": "#e4bb50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1732919700
-        }
-      ]
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "title": {
-      "romaji": "Ooi! Tonbo 2nd Season",
-      "english": "Tonbo! Season 2",
-      "native": "オーイ! とんぼ 第2期",
-      "userPreferred": "Tonbo! Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178729-SkLnIC30dvLB.jpg",
-      "color": "#f1860d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1732928400
-        }
-      ]
-    }
-  },
-  {
     "id": 183473,
     "idMal": 60080,
     "title": {
@@ -1089,7 +942,7 @@
       "color": "#e4d628"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171038-7KAZ6U4nTM8i.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2599,6 +2452,153 @@
         {
           "episode": 4,
           "airingAt": 1733508000
+        }
+      ]
+    }
+  },
+  {
+    "id": 178395,
+    "idMal": 59123,
+    "title": {
+      "romaji": "Kumarba Season 2",
+      "english": null,
+      "native": "クマーバシーズン2",
+      "userPreferred": "Kumarba Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178395-KrTKL6GTPgjd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178395-KrTKL6GTPgjd.png",
+      "color": "#fed628"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1733522400
+        }
+      ]
+    }
+  },
+  {
+    "id": 181835,
+    "idMal": 59485,
+    "title": {
+      "romaji": "Shibuya♡Hachi Part 2",
+      "english": null,
+      "native": "SHIBUYA♡HACHI 第2クール",
+      "userPreferred": "Shibuya♡Hachi Part 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181835-OVS3M8qJ4Pkd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181835-OVS3M8qJ4Pkd.png",
+      "color": "#f1bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1733522400
+        }
+      ]
+    }
+  },
+  {
+    "id": 173216,
+    "idMal": 57538,
+    "title": {
+      "romaji": "Sai-Kyo-Oh! Zukan: The Ultimate Battles",
+      "english": null,
+      "native": "最強王図鑑 ～The Ultimate Battles～",
+      "userPreferred": "Sai-Kyo-Oh! Zukan: The Ultimate Battles"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173216-gtERsAl4GB2j.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173216-gtERsAl4GB2j.png",
+      "color": "#d6a15d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173216-etkg3heFAESy.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 49,
+          "airingAt": 1733522400
+        }
+      ]
+    }
+  },
+  {
+    "id": 179408,
+    "idMal": 58944,
+    "title": {
+      "romaji": "JOCHUM",
+      "english": null,
+      "native": "JOCHUM",
+      "userPreferred": "JOCHUM"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179408-Xr7bnqL2aGfw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179408-Xr7bnqL2aGfw.png",
+      "color": "#e4bb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 22,
+          "airingAt": 1733524500
+        }
+      ]
+    }
+  },
+  {
+    "id": 178729,
+    "idMal": 59175,
+    "title": {
+      "romaji": "Ooi! Tonbo 2nd Season",
+      "english": "Tonbo! Season 2",
+      "native": "オーイ! とんぼ 第2期",
+      "userPreferred": "Tonbo! Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178729-SkLnIC30dvLB.jpg",
+      "color": "#f1860d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1733533200
         }
       ]
     }
