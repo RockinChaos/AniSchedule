@@ -47,7 +47,6 @@ jobs:
 
             if [ "$contains_added" == "true" ] && [ "$contains_removed" == "true" ]; then
             title="(Added/Removed) New Episode(s)"
-            fi
             elif [ "$contains_removed" == "true" ] && [ "$contains_delayed" == "true" ] && [ "$contains_added" != "true" ]; then
             title="Removed Episode(s) (Delayed)"
             fi
