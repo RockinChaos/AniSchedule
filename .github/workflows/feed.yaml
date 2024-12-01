@@ -41,21 +41,31 @@ jobs:
             contains_dub=$(grep -q "(Dub)" changes.txt && echo true || echo false)
             contains_sub=$(grep -q "(Sub)" changes.txt && echo true || echo false)
             contains_hentai=$(grep -q "(Hentai)" changes.txt && echo true || echo false)
+            contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
+            contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
+            contains_delayed=$(grep -q "Delayed" changes.txt && echo true || echo false)
+
+            if [ "$contains_added" == "true" ] && [ "$contains_removed" == "true" ]; then
+            title="(Added/Removed) New Episode(s)"
+            fi
+            elif [ "$contains_removed" == "true" ] && [ "$contains_delayed" == "true" ] && [ "$contains_added" != "true" ]; then
+            title="Removed Episode(s) (Delayed)"
+            fi
           
             if [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            title="(Dub/Sub/Hentai) Added New Episode(s)"
+            title="(Dub/Sub/Hentai) $title"
             elif [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ]; then
-            title="(Dub/Sub) Added New Episode(s)"
+            title="(Dub/Sub) $title"
             elif [ "$contains_dub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            title="(Dub/Hentai) Added New Episode(s)"
+            title="(Dub/Hentai) $title"
             elif [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            title="(Sub/Hentai) Added New Episode(s)"
+            title="(Sub/Hentai) $title"
             elif [ "$contains_dub" == "true" ]; then
-            title="(Dub) Added New Episode(s)"
+            title="(Dub) $title"
             elif [ "$contains_sub" == "true" ]; then
-            title="(Sub) Added New Episode(s)"
+            title="(Sub) $title"
             elif [ "$contains_hentai" == "true" ]; then
-            title="(Hentai) Added New Episode(s)"
+            title="(Hentai) $title"
             fi
           
             git commit -m "$title" -m "$(cat changes.txt)" || true
