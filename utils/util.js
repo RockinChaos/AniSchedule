@@ -42,15 +42,19 @@ export function weeksDifference(date1, date2) {
 }
 
 export function delay(ms) {
-    return new Promise((resolve) => setTimeout(resolve, ms));
+    return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
 export function getCurrentYearAndWeek() {
     const now = new Date()
-    const year = now.getFullYear()
-    const oneJan = new Date(year, 0, 1)
-    const week = Math.ceil((Math.floor((now - oneJan) / (24 * 60 * 60 * 1000)) + oneJan.getDay() + 1) / 7)
-    const year_weeks = (new Date(year, 0, 1).getDay() === 4 || new Date(year, 11, 31).getDay() === 4) ? 53 : 52
+    const target = new Date(now.valueOf())
+    const dayNumber = (now.getDay() + 6) % 7
+    target.setDate(target.getDate() - dayNumber + 3)
+    const year = target.getFullYear()
+
+    const firstThursday = new Date(year, 0, 4)
+    const week = Math.ceil((target - (firstThursday.getTime() - ((firstThursday.getDay() + 6) % 7) * 24 * 60 * 60 * 1000)) / (7 * 24 * 60 * 60 * 1000))
+    const year_weeks = (new Date(year, 11, 31).getDay() === 4 || new Date(year, 0, 1).getDay() === 4) ? 53 : 52
     return { year, week, year_weeks }
 }
 
@@ -60,7 +64,7 @@ export function getWeeksInYear(year) {
 }
 
 export function calculateWeeksToFetch() {
-    const { year, week, year_weeks } = getCurrentYearAndWeek()
+    const { year, week} = getCurrentYearAndWeek()
     const weeksInCurrentYear = getWeeksInYear(year)
     const remainingWeeksThisYear = weeksInCurrentYear - week
 
