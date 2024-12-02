@@ -956,8 +956,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GVDHX85GV/after-school-hanako-kun"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "houkago-shounen-hanako-kun-2",
@@ -988,8 +988,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2024-12-02T18:00:00Z"
+              "episode": 2,
+              "airingAt": "2024-12-09T18:00:00Z"
             }
           ]
         }
@@ -2059,7 +2059,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM380/seirei-gensouki-spirit-chronicles"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2092,8 +2092,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2024-12-02T18:30:00Z"
+              "episode": 10,
+              "airingAt": "2024-12-09T18:30:00Z"
             }
           ]
         }
