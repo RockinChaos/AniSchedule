@@ -20,6 +20,8 @@ jobs:
           node-version: '18'
 
       - name: Start 24-hour loop
+        env:  # Pass the secret as an environment variable
+          ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
         run: |
           end_time=$(( $(date +%s) + 84600 )) # 23 hours * 3600 + 30 minutes * 60
           while [ $(date +%s) -lt $end_time ]; do
@@ -44,11 +46,20 @@ jobs:
             contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
             contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
             contains_delayed=$(grep -q "Delayed" changes.txt && echo true || echo false)
+            contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
 
             if [ "$contains_added" == "true" ] && [ "$contains_removed" == "true" ]; then
-            title="(Added/Removed) New Episode(s)"
+              if [ "contains_missing" == "true" ]; then
+              title="(Added/Removed) Missing Episode(s)"
+              else
+              title="(Added/Removed) Episode(s)"
+              fi
             elif [ "$contains_removed" == "true" ] && [ "$contains_delayed" == "true" ] && [ "$contains_added" != "true" ]; then
             title="Removed Episode(s) (Delayed)"
+            fi
+          
+            if [ "contains_missing" == "true" ]; then
+            title="Added Missing Episode(s)"
             fi
           
             if [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then

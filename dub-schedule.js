@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, delay, fixTime, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, delay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -22,6 +22,29 @@ async function fetchAiringSchedule(year, week, token) {
         console.error(`Error fetching dub timetables for Week ${week}:`, error)
         process.exit(1)
     }
+}
+
+let previousWeekTimetables = null
+let fetchInProgress = null
+async function fetchPreviousWeek() {
+    if (fetchInProgress) return await fetchInProgress
+    if (previousWeekTimetables) return previousWeekTimetables
+
+    const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
+    if (!BEARER_TOKEN) {
+        console.error('Error: ANIMESCHEDULE_TOKEN environment variable is not defined.')
+        process.exit(1)
+    }
+
+    const { year, week } = getCurrentYearAndWeek()
+    console.log(`Fetching dub timetables for the previous week: Year ${year}, Week ${week - 1}...`)
+    fetchInProgress = fetchAiringSchedule(year, week - 1, BEARER_TOKEN).then((data) => {
+        previousWeekTimetables = data
+        fetchInProgress = null
+        return data
+    }).catch(() => process.exit(1))
+
+    return await fetchInProgress
 }
 
 // update dub schedule //
@@ -256,7 +279,7 @@ export async function updateDubFeed() {
         }
     })
 
-    const newEpisodes = schedule.flatMap(entry => {
+    const newEpisodes = (await Promise.all(schedule.map(async (entry) => {
         let newEpisodes = []
 
         // handle double-header (multi-header) releases
@@ -266,7 +289,9 @@ export async function updateDubFeed() {
         if (entry.unaired && new Date(entry.episodeDate) > new Date()) return newEpisodes
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
-            if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
+            const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
+            const multiHeader =  !previousWeek || (previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2))
+            if (multiHeader && !baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
                 let weeksAgo = -1
                 let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
                 while (new Date(pastDate) >= new Date()) {
@@ -288,13 +313,13 @@ export async function updateDubFeed() {
                 format: entry.media.media.format,
                 episode: {
                     aired: episodeNum,
-                    airedAt: baseEpisode.episode.airedAt
+                    airedAt: (multiHeader ? baseEpisode.episode.airedAt : past(new Date(entry.episodeDate), -1, true))
                 }
             }
 
             newEpisodes.push(batchEpisode)
-            changes.push(`(Dub) Added missing (multi-header) release Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
-            console.log(`Adding missing (multi-header) release Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
+            changes.push(`(Dub) Added Missing${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
+            console.log(`Adding Missing${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
 
         // handle single new episodes
@@ -315,7 +340,7 @@ export async function updateDubFeed() {
         }
 
         return newEpisodes
-    }).filter(({ id, episode }) => {
+    }))).flat().filter(({ id, episode }) => {
         return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)
     }).sort((a, b) => b.episode.aired - a.episode.aired)
 
