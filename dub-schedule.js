@@ -168,7 +168,7 @@ export async function fetchDubSchedule() {
         // Find the resolved media match for the current airing item
         const entry = order.find(o => o.route === airingItem.route)
         const mediaMatch = results?.find(result => result.media?.title?.userPreferred === entry?.title)
-        const predictedEpisode = airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil, airingItem.episodeDate) < new Date()) ? 1 : 0)
+        const predictedEpisode = airingItem.episodeNumber + ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) ? 1 : 0)
         const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i)
 
         return {
