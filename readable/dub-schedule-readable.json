@@ -684,8 +684,9 @@
   {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
     "route": "fairy-tail-100-years-quest",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-11-24T21:00:00Z",
+    "delayedUntil": "2024-12-08T21:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-01T21:00:00Z",
     "episodeNumber": 20,
@@ -736,7 +737,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 21,
+              "episode": 20,
               "airingAt": "2024-12-08T21:00:00Z"
             }
           ]
@@ -1076,8 +1077,9 @@
     "romaji": "Kami no Tou 2",
     "english": "Tower of God 2",
     "native": "神之塔 -Tower of God- 2",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-01T20:00:00Z",
+    "delayedUntil": "2024-12-08T20:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-01T20:00:00Z",
     "episodeNumber": 20,
@@ -1128,7 +1130,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 21,
+              "episode": 20,
               "airingAt": "2024-12-08T20:00:00Z"
             }
           ]
@@ -1567,8 +1569,9 @@
     "title": "MF Ghost 2nd Season",
     "route": "mf-ghost-second-season",
     "native": "MFゴースト 2nd Season",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-01T20:30:00Z",
+    "delayedUntil": "2024-12-08T20:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-01T20:30:00Z",
     "episodeNumber": 7,
@@ -1617,7 +1620,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2024-12-08T20:30:00Z"
             }
           ]
@@ -2250,8 +2253,9 @@
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "english": "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game 2nd Season",
     "native": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
-    "delayedFrom": "2024-11-10T19:00:00Z",
-    "delayedUntil": "2024-11-17T19:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-01T19:00:00Z",
+    "delayedUntil": "2024-12-08T19:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-01T19:00:00Z",
     "episodeNumber": 6,
@@ -2304,7 +2308,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2024-12-08T19:00:00Z"
             }
           ]
