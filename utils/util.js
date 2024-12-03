@@ -113,3 +113,37 @@ export function saveJSON(filePath, data, prettyPrint = false) {
     ensureDirectoryExists(filePath)
     fs.writeFileSync(filePath, JSON.stringify(data, null, prettyPrint ? 2 : 0))
 }
+
+/**
+ * Used to fill in missing/needed info for the episode feed, helping fix issues that can occur when updating the script.
+ * @param {String} type The type (key) to fetch and set, e.g. 'format'
+ * @param {String} feed The episode feed to modify, either sub, dub, or hentai.
+ */
+export async function updateEpisodeFeed(type, feed) {
+    const { anilistClient } = await import('./anilist.js')
+    const episodeFeed = loadJSON(path.join(`./raw/${feed}-episode-feed.json`))
+    const missingTypeIDs = Array.from(new Set(episodeFeed.filter(entry => !entry[type]).map(entry => entry.id)))
+
+    if (missingTypeIDs.length === 0) {
+        console.log(`No missing ${type}(s) detected for ${feed.includes('dub') ? 'Dubbed' : feed.includes('hentai') ? 'Hentai' : 'Subbed'} Episodes.`)
+        return episodeFeed
+    }
+
+    console.log(`Fetching ${type}(s) for IDs: ${missingTypeIDs}`)
+
+    const searchResponse = await anilistClient.searchAllIDS({ id: missingTypeIDs })
+    const updatedFeed = episodeFeed.map(entry => {
+        if (!entry[type]) {
+            const matchedMedia = searchResponse.data.Page.media.find(media => media.id === entry.id)
+            if (matchedMedia) {
+                const { episode, ...rest } = entry
+                return { ...rest, [type]: matchedMedia[type], episode }
+            }
+        }
+        return entry
+    }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+
+    saveJSON(path.join(`./raw/${feed}-episode-feed.json`), updatedFeed)
+    saveJSON(path.join(`./readable/${feed}-episode-feed-readable.json`), updatedFeed, true)
+    console.log(`${feed.includes('dub') ? 'Dubbed' : feed.includes('hentai') ? 'Hentai' : 'Subbed'} Episode feed successfully updated with missing ${type}(s).`)
+}

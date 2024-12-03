@@ -200,6 +200,33 @@ class AnilistClient {
         return await this.alRequest(query, variables)
     }
 
+    /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
+    async searchAllIDS (variables) {
+        console.log(`Searching for (ALL) IDs ${JSON.stringify(variables)}`)
+        let fetchedIDS = []
+        let currentPage = 1
+
+        // cycle until all paged ids are resolved.
+        let failedRes
+        while (true) {
+            const res = await this.searchIDS({ page: currentPage, perPage: 50, id: variables.id })
+            if (!res?.data && res?.errors) { failedRes = res }
+            if (res?.data?.Page.media) fetchedIDS = fetchedIDS.concat(res?.data?.Page.media)
+            if (!res?.data?.Page.pageInfo.hasNextPage) break
+            currentPage++
+        }
+        const data = new Promise((resolve) => {
+            resolve({
+                data: {
+                    Page: {
+                        media: fetchedIDS
+                    }
+                }
+            })
+        })
+        return await data
+    }
+
     /**
      * @param {{key: string, title: string, year?: string, isAdult: boolean}[]} flattenedTitles
      **/
