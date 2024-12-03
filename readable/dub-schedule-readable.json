@@ -210,8 +210,9 @@
     "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
     "english": "Arifureta: From Commonplace to World's Strongest 3",
     "native": "ありふれた職業で世界最強 3",
-    "delayedFrom": "0001-01-01T22:30:00Z",
-    "delayedUntil": "0001-01-01T22:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-02T22:30:00Z",
+    "delayedUntil": "2024-12-09T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-02T22:30:00Z",
     "episodeNumber": 6,
@@ -230,7 +231,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -263,7 +264,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2024-12-09T22:30:00Z"
             }
           ]
@@ -937,10 +938,10 @@
     "romaji": "Houkago Shounen Hanako-kun 2",
     "english": "After-school Hanako-kun 2nd Season",
     "native": " 放課後少年花子くん 2",
-    "delayedFrom": "0001-01-01T18:00:00Z",
-    "delayedUntil": "0001-01-01T18:00:00Z",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-02T18:00:00Z",
+    "episodeDate": "2024-12-02T21:30:00Z",
     "episodeNumber": 1,
     "episodes": 4,
     "lengthMin": 10,
@@ -989,7 +990,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2024-12-09T18:00:00Z"
+              "airingAt": "2024-12-09T21:30:00Z"
             }
           ]
         }
@@ -1630,8 +1631,9 @@
     "romaji": "Natsume Yuujinchou Shichi",
     "english": "Natsume's Book of Friends Season 7",
     "native": "夏目友人帳 漆",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-02T23:00:00Z",
+    "delayedUntil": "2024-12-09T23:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-02T23:00:00Z",
     "episodeNumber": 7,
@@ -1649,7 +1651,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "airing",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1682,7 +1684,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2024-12-09T23:00:00Z"
             }
           ]
@@ -2102,6 +2104,80 @@
     },
     "verified": false,
     "addedAt": "2024-11-28T21:16:32Z"
+  },
+  {
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "route": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+    "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+    "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+    "native": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-03T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai-1a0e9a760b.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/rascal-does-not-dream-of-bunny-girl-senpai",
+      "funimation": "www.funimation.com/shows/rascal-does-not-dream-of-bunny-girl-senpai",
+      "wakanim": "www.wakanim.tv/sc/v2/catalogue/show/413/rascal-does-not-dream-of-bunny-girl-senpai",
+      "hulu": "www.hulu.com/series/rascal-does-not-dream-of-bunny-girl-senpai-e4c45f43-dc4b-44ce-a9b8-14139ac1af69"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
+        "file_name": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai"
+      },
+      "media": {
+        "id": 101291,
+        "idMal": 37450,
+        "title": {
+          "romaji": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+          "english": "Rascal Does Not Dream of Bunny Girl Senpai",
+          "native": "青春ブタ野郎はバニーガール先輩の夢を見ない",
+          "userPreferred": "Rascal Does Not Dream of Bunny Girl Senpai"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Psychological",
+          "Romance",
+          "Supernatural"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101291-L71WpAkZPtgm.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx101291-L71WpAkZPtgm.jpg",
+          "color": "#5078e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/n101291-fqIUvQ6apEtD.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-03T23:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-03T01:36:48Z"
   },
   {
     "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
