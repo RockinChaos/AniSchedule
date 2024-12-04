@@ -28,9 +28,19 @@ export async function fetchSubSchedule() {
         results.data.Page.media = results.data.Page.media.concat(res.data.Page.media).filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index)
     }
 
+    if (currentSeason === 'FALL') {
+        for (let page = 1, hasNextPage = true; hasNextPage && page < 5; ++page) {
+            const res = await anilistClient.search({ season: 'WINTER', year: currentYear + 1, page, perPage: 50 })
+            if (!res?.data && res?.errors) throw res.errors[0]
+            hasNextPage = res.data.Page.pageInfo.hasNextPage
+            results.data.Page.media = results.data.Page.media.concat(res.data.Page.media)
+        }
+    }
+
     results.data.Page.media = results.data.Page.media.sort((a, b) => a.airingSchedule?.nodes?.[0]?.airingAt - b.airingSchedule?.nodes?.[0]?.airingAt)
 
     const media = results?.data?.Page?.media
+    media.forEach((a) => { if ((!a?.airingSchedule?.nodes?.[0]?.airingAt || new Date(a?.airingSchedule?.nodes?.[0].airingAt).getTime() > (new Date().getTime() / 1000)) && !(a?.airingSchedule?.nodes?.[0]?.episode > 1)) a.unaired = true })
     if (media?.length > 0) {
         console.log(`Successfully resolved ${media.length} airing, saving...`)
         await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
