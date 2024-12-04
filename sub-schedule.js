@@ -37,10 +37,10 @@ export async function fetchSubSchedule() {
         }
     }
 
-    results.data.Page.media = results.data.Page.media.sort((a, b) => a.airingSchedule?.nodes?.[0]?.airingAt - b.airingSchedule?.nodes?.[0]?.airingAt)
+    results.data.Page.media = results.data.Page.media.filter(media => media.airingSchedule?.nodes?.[0]?.airingAt).sort((a, b) => a.airingSchedule.nodes[0].airingAt - b.airingSchedule.nodes[0].airingAt)
 
     const media = results?.data?.Page?.media
-    media.forEach((a) => { if ((!a?.airingSchedule?.nodes?.[0]?.airingAt || new Date(a?.airingSchedule?.nodes?.[0].airingAt).getTime() > (new Date().getTime() / 1000)) && !(a?.airingSchedule?.nodes?.[0]?.episode > 1)) a.unaired = true })
+    media.forEach((a) => { if (new Date(a.airingSchedule.nodes[0].airingAt).getTime() > (new Date().getTime() / 1000) && !(a.airingSchedule.nodes[0].episode > 1)) a.unaired = true })
     if (media?.length > 0) {
         console.log(`Successfully resolved ${media.length} airing, saving...`)
         await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
