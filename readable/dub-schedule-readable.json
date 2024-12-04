@@ -639,8 +639,8 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "dungeon-no-naka-no-hito",
@@ -671,8 +671,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2024-12-04T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2024-12-11T17:00:00Z"
             }
           ]
         }
@@ -1026,7 +1026,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/26756"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1060,8 +1060,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2024-12-04T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2024-12-11T17:00:00Z"
             }
           ]
         }
@@ -1311,7 +1311,7 @@
       "hidive": "www.hidive.com/tv/insomniacs-after-school",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1342,8 +1342,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2024-12-04T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2024-12-11T17:00:00Z"
             }
           ]
         }
