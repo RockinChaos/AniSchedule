@@ -571,7 +571,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G04K/delicos-nursery"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -603,8 +603,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2024-12-04T21:30:00Z"
+              "episode": 13,
+              "airingAt": "2024-12-11T21:30:00Z"
             }
           ]
         }
@@ -1853,7 +1853,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
