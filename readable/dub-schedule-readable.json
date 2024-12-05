@@ -277,6 +277,117 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "BEASTARS FINAL SEASON Part 1",
+    "route": "beastars-final-season",
+    "delayedFrom": "0001-01-01T08:05:00Z",
+    "delayedUntil": "0001-01-01T08:05:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-05T08:05:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/beastars-final-season-3da7b75331.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81054847"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "beastars-final-season",
+        "file_name": "beastars-final-season"
+      },
+      "media": {
+        "id": 136880,
+        "idMal": 49469,
+        "title": {
+          "romaji": "BEASTARS FINAL SEASON Part 1",
+          "english": "BEASTARS Final Season Part 1",
+          "native": "BEASTARS FINAL SEASON Part 1",
+          "userPreferred": "BEASTARS Final Season Part 1"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Psychological",
+          "Slice of Life"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136880-9rhDUCsDfcJ1.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx136880-9rhDUCsDfcJ1.jpg",
+          "color": "#0d5d86"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/136880-9GNZFWe1LszL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2024-12-05T08:05:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2024-12-05T08:05:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-05T19:05:32Z"
+  },
+  {
     "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
     "route": "bleach-sennen-kessen-hen-soukoku-tan",
     "romaji": "BLEACH: Sennen Kessen-hen - Soukoku-tan",
