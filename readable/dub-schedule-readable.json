@@ -1702,11 +1702,11 @@
     "romaji": "Ooi! Tonbo 2nd Season",
     "english": "Hey! Tonbo 2nd Season",
     "native": "オーイ! とんぼ 第2期",
-    "delayedFrom": "0001-01-01T01:30:00Z",
-    "delayedUntil": "0001-01-01T01:30:00Z",
+    "delayedFrom": "0001-01-01T18:30:00Z",
+    "delayedUntil": "0001-01-01T18:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-07T01:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2024-12-07T18:30:00Z",
+    "episodeNumber": 9,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -1751,8 +1751,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2024-12-07T01:30:00Z"
+              "episode": 9,
+              "airingAt": "2024-12-07T18:30:00Z"
             }
           ]
         }
@@ -2367,6 +2367,74 @@
     },
     "verified": false,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
+    "route": "shin-tennis-no-oujisama-u-17-world-cup-semifinal",
+    "romaji": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
+    "english": "The Prince of Tennis: U-17 World Cup Semifinal",
+    "native": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
+    "delayedFrom": "2024-11-06T22:00:00Z",
+    "delayedUntil": "2024-11-13T22:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2024-12-04T22:00:00Z",
+    "episodeNumber": 7,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/shin-tennis-no-oujisama-u-17-world-cup-semifinal-45fc0af812.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
+        "file_name": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal"
+      },
+      "media": {
+        "id": 165810,
+        "idMal": 55570,
+        "title": {
+          "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL",
+          "english": "The Prince of Tennis II U-17 World Cup Semifinal",
+          "native": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
+          "userPreferred": "The Prince of Tennis II U-17 World Cup Semifinal"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Sports"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165810-xEt3MeCRRRev.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165810-xEt3MeCRRRev.jpg",
+          "color": "#fff1a1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165810-7MQnbmoxaY3p.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 8,
+              "airingAt": "2024-12-11T22:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-05T00:28:10Z"
   },
   {
     "title": "Sword Art Online Alternative: Gun Gale Online 2",
