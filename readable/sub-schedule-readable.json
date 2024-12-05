@@ -1,217 +1,5 @@
 [
   {
-    "id": 169966,
-    "idMal": 56853,
-    "title": {
-      "romaji": "I.CINNAMOROLL Animation",
-      "english": "I.CINNAMOROLL Animation",
-      "native": "I.CINNAMOROLL Animation",
-      "userPreferred": "I.CINNAMOROLL Animation"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169966-elyLBCoBAJxx.jpg",
-      "color": "#1a6b50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169966-dysUtZi16eNg.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 59,
-          "airingAt": 1733385600
-        }
-      ]
-    }
-  },
-  {
-    "id": 183471,
-    "idMal": 60185,
-    "title": {
-      "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
-      "english": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!",
-      "native": "KUROMI'S PRETTY JOURNEY 〜はちゃめちゃ！マルチバース大脱出！〜",
-      "userPreferred": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183471-JsXh7SKt5P7C.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183471-JsXh7SKt5P7C.png",
-      "color": "#ae5df1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1733389200
-        }
-      ]
-    }
-  },
-  {
-    "id": 184288,
-    "idMal": 60295,
-    "title": {
-      "romaji": "Kazuhiho to Marie no Youkoso Kitchen.",
-      "english": null,
-      "native": "カズヒホとマリーのようこそキッチン。",
-      "userPreferred": "Kazuhiho to Marie no Youkoso Kitchen."
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184288-QIMsLkNX7MWq.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184288-QIMsLkNX7MWq.png",
-      "color": "#fec928"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1733392800
-        }
-      ]
-    }
-  },
-  {
-    "id": 177581,
-    "idMal": 58854,
-    "title": {
-      "romaji": "Kinokoinu",
-      "english": "Kinokoinu Mushroom Pup",
-      "native": "きのこいぬ",
-      "userPreferred": "Kinokoinu Mushroom Pup"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177581-IiMPlgRFwktk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177581-IiMPlgRFwktk.jpg",
-      "color": "#5d43f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1733400000
-        }
-      ]
-    }
-  },
-  {
-    "id": 174390,
-    "idMal": 57924,
-    "title": {
-      "romaji": "Tono to Inu",
-      "english": null,
-      "native": "殿と犬",
-      "userPreferred": "Tono to Inu"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174390-SWbzfNExA59t.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174390-SWbzfNExA59t.jpg",
-      "color": "#e4bb93"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1733403240
-        }
-      ]
-    }
-  },
-  {
-    "id": 170732,
-    "idMal": 57066,
-    "title": {
-      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-      "english": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V",
-      "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
-      "userPreferred": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170732-PwCMhnnOKdBu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170732-PwCMhnnOKdBu.jpg",
-      "color": "#1a86d6"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1733403600
-        }
-      ]
-    }
-  },
-  {
-    "id": 179919,
-    "idMal": 59425,
-    "title": {
-      "romaji": "NegaPosi Angler",
-      "english": "Negative Positive Angler",
-      "native": "ネガポジアングラー",
-      "userPreferred": "Negative Positive Angler"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179919-KLuGsnqnhkPb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179919-KLuGsnqnhkPb.jpg",
-      "color": "#e4505d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1733403600
-        }
-      ]
-    }
-  },
-  {
     "id": 165790,
     "idMal": 55887,
     "title": {
@@ -2573,6 +2361,189 @@
     }
   },
   {
+    "id": 183471,
+    "idMal": 60185,
+    "title": {
+      "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
+      "english": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!",
+      "native": "KUROMI'S PRETTY JOURNEY 〜はちゃめちゃ！マルチバース大脱出！〜",
+      "userPreferred": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183471-JsXh7SKt5P7C.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183471-JsXh7SKt5P7C.png",
+      "color": "#ae5df1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 17,
+          "airingAt": 1733994000
+        }
+      ]
+    }
+  },
+  {
+    "id": 184288,
+    "idMal": 60295,
+    "title": {
+      "romaji": "Kazuhiho to Marie no Youkoso Kitchen.",
+      "english": null,
+      "native": "カズヒホとマリーのようこそキッチン。",
+      "userPreferred": "Kazuhiho to Marie no Youkoso Kitchen."
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184288-QIMsLkNX7MWq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184288-QIMsLkNX7MWq.png",
+      "color": "#fec928"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1733997600
+        }
+      ]
+    }
+  },
+  {
+    "id": 177581,
+    "idMal": 58854,
+    "title": {
+      "romaji": "Kinokoinu",
+      "english": "Kinokoinu Mushroom Pup",
+      "native": "きのこいぬ",
+      "userPreferred": "Kinokoinu Mushroom Pup"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177581-IiMPlgRFwktk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177581-IiMPlgRFwktk.jpg",
+      "color": "#5d43f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1734004800
+        }
+      ]
+    }
+  },
+  {
+    "id": 174390,
+    "idMal": 57924,
+    "title": {
+      "romaji": "Tono to Inu",
+      "english": null,
+      "native": "殿と犬",
+      "userPreferred": "Tono to Inu"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174390-SWbzfNExA59t.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174390-SWbzfNExA59t.jpg",
+      "color": "#e4bb93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1734008040
+        }
+      ]
+    }
+  },
+  {
+    "id": 170732,
+    "idMal": 57066,
+    "title": {
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+      "english": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V",
+      "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
+      "userPreferred": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170732-PwCMhnnOKdBu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170732-PwCMhnnOKdBu.jpg",
+      "color": "#1a86d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1734008400
+        }
+      ]
+    }
+  },
+  {
+    "id": 179919,
+    "idMal": 59425,
+    "title": {
+      "romaji": "NegaPosi Angler",
+      "english": "Negative Positive Angler",
+      "native": "ネガポジアングラー",
+      "userPreferred": "Negative Positive Angler"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179919-KLuGsnqnhkPb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179919-KLuGsnqnhkPb.jpg",
+      "color": "#e4505d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1734008400
+        }
+      ]
+    }
+  },
+  {
     "id": 176470,
     "idMal": 58549,
     "title": {
@@ -3148,6 +3119,37 @@
         {
           "episode": 1,
           "airingAt": 1736013000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185261,
+    "idMal": null,
+    "title": {
+      "romaji": "Neko ni Naritai Tamagawa-kun",
+      "english": null,
+      "native": "猫になりたい田万川くん",
+      "userPreferred": "Neko ni Naritai Tamagawa-kun"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185261-hJehR0xUg9cf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185261-hJehR0xUg9cf.jpg",
+      "color": "#f19335"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736089020
         }
       ]
     },
