@@ -290,7 +290,7 @@ export async function updateDubFeed() {
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
-            const multiHeader =  !previousWeek || (previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2))
+            const multiHeader =  !previousWeek && entry.subtractedEpisodeNumber || (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2))))
             if (multiHeader && !baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
                 let weeksAgo = -1
                 let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
@@ -313,7 +313,7 @@ export async function updateDubFeed() {
                 format: entry.media.media.format,
                 episode: {
                     aired: episodeNum,
-                    airedAt: (multiHeader ? baseEpisode.episode.airedAt : past(new Date(entry.episodeDate), -1, true))
+                    airedAt: (multiHeader ? baseEpisode.episode.airedAt : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true))
                 }
             }
 
