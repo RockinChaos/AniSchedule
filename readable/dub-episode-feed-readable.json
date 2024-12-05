@@ -1,5 +1,14 @@
 [
   {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 7,
+      "airedAt": "2024-12-04T22:00:00Z"
+    }
+  },
+  {
     "id": 167991,
     "idMal": 56179,
     "format": "TV",
@@ -216,6 +225,15 @@
     }
   },
   {
+    "id": 178729,
+    "idMal": 59175,
+    "format": "TV",
+    "episode": {
+      "aired": 8,
+      "airedAt": "2024-11-30T18:30:00Z"
+    }
+  },
+  {
     "id": 178533,
     "idMal": 59145,
     "format": "TV",
@@ -231,15 +249,6 @@
     "episode": {
       "aired": 5,
       "airedAt": "2024-11-30T14:30:00Z"
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "format": "TV",
-    "episode": {
-      "aired": 9,
-      "airedAt": "2024-11-30T01:30:00Z"
     }
   },
   {
@@ -294,6 +303,60 @@
     "episode": {
       "aired": 1,
       "airedAt": "2024-11-28T08:00:00Z"
+    }
+  },
+  {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 6,
+      "airedAt": "2024-11-27T22:00:00Z"
+    }
+  },
+  {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 5,
+      "airedAt": "2024-11-27T22:00:00Z"
+    }
+  },
+  {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 4,
+      "airedAt": "2024-11-27T22:00:00Z"
+    }
+  },
+  {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 3,
+      "airedAt": "2024-11-27T22:00:00Z"
+    }
+  },
+  {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 2,
+      "airedAt": "2024-11-27T22:00:00Z"
+    }
+  },
+  {
+    "id": 165810,
+    "idMal": 55570,
+    "format": "TV",
+    "episode": {
+      "aired": 1,
+      "airedAt": "2024-11-27T22:00:00Z"
     }
   },
   {
@@ -477,6 +540,15 @@
     }
   },
   {
+    "id": 178729,
+    "idMal": 59175,
+    "format": "TV",
+    "episode": {
+      "aired": 7,
+      "airedAt": "2024-11-23T18:30:00Z"
+    }
+  },
+  {
     "id": 178533,
     "idMal": 59145,
     "format": "TV",
@@ -501,15 +573,6 @@
     "episode": {
       "aired": 3,
       "airedAt": "2024-11-23T14:30:00Z"
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "format": "TV",
-    "episode": {
-      "aired": 8,
-      "airedAt": "2024-11-23T01:30:00Z"
     }
   },
   {
@@ -855,6 +918,15 @@
     }
   },
   {
+    "id": 178729,
+    "idMal": 59175,
+    "format": "TV",
+    "episode": {
+      "aired": 6,
+      "airedAt": "2024-11-16T18:30:00Z"
+    }
+  },
+  {
     "id": 178533,
     "idMal": 59145,
     "format": "TV",
@@ -879,15 +951,6 @@
     "episode": {
       "aired": 1,
       "airedAt": "2024-11-16T14:30:00Z"
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "format": "TV",
-    "episode": {
-      "aired": 7,
-      "airedAt": "2024-11-16T01:30:00Z"
     }
   },
   {
@@ -1152,21 +1215,21 @@
     }
   },
   {
+    "id": 178729,
+    "idMal": 59175,
+    "format": "TV",
+    "episode": {
+      "aired": 5,
+      "airedAt": "2024-11-09T18:30:00Z"
+    }
+  },
+  {
     "id": 178533,
     "idMal": 59145,
     "format": "TV",
     "episode": {
       "aired": 6,
       "airedAt": "2024-11-09T17:00:00Z"
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "format": "TV",
-    "episode": {
-      "aired": 6,
-      "airedAt": "2024-11-09T01:30:00Z"
     }
   },
   {
@@ -1413,21 +1476,21 @@
     }
   },
   {
+    "id": 178729,
+    "idMal": 59175,
+    "format": "TV",
+    "episode": {
+      "aired": 4,
+      "airedAt": "2024-11-02T18:30:00Z"
+    }
+  },
+  {
     "id": 178533,
     "idMal": 59145,
     "format": "TV",
     "episode": {
       "aired": 5,
       "airedAt": "2024-11-02T17:00:00Z"
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "format": "TV",
-    "episode": {
-      "aired": 5,
-      "airedAt": "2024-11-02T01:30:00Z"
     }
   },
   {
@@ -1653,15 +1716,6 @@
     "episode": {
       "aired": 4,
       "airedAt": "2024-10-26T17:00:00Z"
-    }
-  },
-  {
-    "id": 178729,
-    "idMal": 59175,
-    "format": "TV",
-    "episode": {
-      "aired": 4,
-      "airedAt": "2024-10-26T01:30:00Z"
     }
   },
   {
