@@ -1,35 +1,5 @@
 [
   {
-    "id": 182157,
-    "idMal": 60052,
-    "title": {
-      "romaji": "Sylvanian Families: Freya no Piece of Secret",
-      "english": null,
-      "native": "シルバニアファミリー　フレアのピース・オブ・シークレット",
-      "userPreferred": "Sylvanian Families: Freya no Piece of Secret"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182157-p4NxtoGFIxlO.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182157-p4NxtoGFIxlO.png",
-      "color": "#f1d65d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1733350920
-        }
-      ]
-    }
-  },
-  {
     "id": 169966,
     "idMal": 56853,
     "title": {
@@ -2573,6 +2543,36 @@
     }
   },
   {
+    "id": 182157,
+    "idMal": 60052,
+    "title": {
+      "romaji": "Sylvanian Families: Freya no Piece of Secret",
+      "english": null,
+      "native": "シルバニアファミリー　フレアのピース・オブ・シークレット",
+      "userPreferred": "Sylvanian Families: Freya no Piece of Secret"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182157-p4NxtoGFIxlO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182157-p4NxtoGFIxlO.png",
+      "color": "#f1d65d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1733955720
+        }
+      ]
+    }
+  },
+  {
     "id": 176470,
     "idMal": 58549,
     "title": {
@@ -3242,6 +3242,37 @@
         {
           "episode": 1,
           "airingAt": 1736260200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 178022,
+    "idMal": 59055,
+    "title": {
+      "romaji": "Hana wa Saku, Shura no Gotoku",
+      "english": null,
+      "native": "花は咲く、修羅の如く",
+      "userPreferred": "Hana wa Saku, Shura no Gotoku"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178022-gB3zAfazGBJ6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178022-gB3zAfazGBJ6.jpg",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178022-bxiuw2sgcTsS.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736267700
         }
       ]
     },
