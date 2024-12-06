@@ -286,12 +286,14 @@ export async function updateDubFeed() {
         const latestEpisode = entry.episodeNumber
         const existingEpisodes = existingFeed.filter(media => media.id === entry.media.media.id)
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
+        let episodeType = 0
         if (entry.unaired && new Date(entry.episodeDate) > new Date()) return newEpisodes
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
             const multiHeader =  !previousWeek && entry.subtractedEpisodeNumber || (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2))))
-            if (multiHeader && !baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
+            episodeType = multiHeader && baseEpisode ? 2 : multiHeader ? 1 : 0
+            if (!multiHeader && !baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
                 let weeksAgo = -1
                 let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
                 while (new Date(pastDate) >= new Date()) {
@@ -313,13 +315,13 @@ export async function updateDubFeed() {
                 format: entry.media.media.format,
                 episode: {
                     aired: episodeNum,
-                    airedAt: (multiHeader ? baseEpisode.episode.airedAt : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true))
+                    airedAt: (multiHeader && baseEpisode ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true))
                 }
             }
 
             newEpisodes.push(batchEpisode)
-            changes.push(`(Dub) Added Missing${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
-            console.log(`Adding Missing${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
+            changes.push(`(Dub) Added${multiHeader && baseEpisode ? ' Missing' : ''}${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
+            console.log(`Adding${multiHeader && baseEpisode ? ' Missing' : ''}${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
 
         // handle single new episodes
@@ -335,8 +337,8 @@ export async function updateDubFeed() {
 
         if (entry.episodeNumber !== lastFeedEpisode && new Date(newEpisode.episode.airedAt) <= new Date() && new Date(entry.delayedUntil) <= new Date(newEpisode.episode.airedAt)) {
             newEpisodes.push(newEpisode)
-            changes.push(`(Dub) Added Episode ${newEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
-            console.log(`Adding Episode ${newEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
+            changes.push(`(Dub) Added${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${newEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
+            console.log(`Adding${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${newEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
 
         return newEpisodes
