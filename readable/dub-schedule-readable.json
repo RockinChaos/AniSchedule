@@ -663,8 +663,9 @@
     "title": "Delico's Nursery",
     "route": "delicos-nursery",
     "native": "デリコズ・ナーサリー",
-    "delayedFrom": "2024-10-02T21:30:00Z",
-    "delayedUntil": "2024-10-23T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-04T21:30:00Z",
+    "delayedUntil": "2024-12-11T21:30:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-04T21:30:00Z",
     "episodeNumber": 12,
@@ -682,7 +683,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G04K/delicos-nursery"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -714,7 +715,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2024-12-11T21:30:00Z"
             }
           ]
