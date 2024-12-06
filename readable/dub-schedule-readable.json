@@ -545,7 +545,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -576,8 +576,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2024-12-06T23:01:00Z"
+              "episode": 8,
+              "airingAt": "2024-12-13T23:01:00Z"
             }
           ]
         }
