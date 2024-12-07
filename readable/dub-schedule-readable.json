@@ -545,7 +545,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2617,8 +2617,9 @@
     "title": "Trillion Game",
     "route": "trillion-game",
     "native": "トリリオンゲーム",
-    "delayedFrom": "0001-01-01T22:30:00Z",
-    "delayedUntil": "0001-01-01T22:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-05T22:30:00Z",
+    "delayedUntil": "2024-12-12T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-05T22:30:00Z",
     "episodeNumber": 9,
@@ -2637,7 +2638,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2670,7 +2671,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 9,
               "airingAt": "2024-12-12T22:30:00Z"
             }
           ]
