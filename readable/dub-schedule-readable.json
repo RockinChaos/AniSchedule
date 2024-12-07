@@ -143,10 +143,10 @@
     "romaji": "Ao no Exorcist: Yuki no Hate-hen",
     "english": "Blue Exorcist -Beyond the Snow Saga-",
     "native": "青の祓魔師 雪ノ果篇",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-07T22:00:00Z",
+    "episodeDate": "2024-12-07T23:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
@@ -195,7 +195,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2024-12-14T22:00:00Z"
+              "airingAt": "2024-12-14T23:00:00Z"
             }
           ]
         }
@@ -1471,10 +1471,10 @@
     "romaji": "Kimi wa Meido-sama.",
     "english": "You Are Ms. Servant",
     "native": "君は冥土様。",
-    "delayedFrom": "2024-11-30T22:30:00Z",
-    "delayedUntil": "2024-12-07T22:30:00Z",
+    "delayedFrom": "2024-11-30T23:30:00Z",
+    "delayedUntil": "2024-12-07T23:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-07T22:30:00Z",
+    "episodeDate": "2024-12-07T23:30:00Z",
     "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
@@ -1524,7 +1524,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2024-12-07T22:30:00Z"
+              "airingAt": "2024-12-07T23:30:00Z"
             }
           ]
         }
@@ -1540,10 +1540,10 @@
     "romaji": "Maou 2099",
     "english": "Demon Lord 2099",
     "native": "魔王2099",
-    "delayedFrom": "2024-11-30T23:00:00Z",
-    "delayedUntil": "2024-12-07T23:00:00Z",
+    "delayedFrom": "2024-11-30T22:30:00Z",
+    "delayedUntil": "2024-12-07T22:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-07T23:00:00Z",
+    "episodeDate": "2024-12-07T22:30:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
@@ -1559,7 +1559,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1593,8 +1593,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2024-12-07T23:00:00Z"
+              "episode": 7,
+              "airingAt": "2024-12-14T22:30:00Z"
             }
           ]
         }
@@ -1610,10 +1610,10 @@
     "romaji": "Maou-sama, Retry! R",
     "english": "Demon Lord, Retry! R",
     "native": "魔王様、リトライ! R",
-    "delayedFrom": "2024-11-30T20:30:00Z",
-    "delayedUntil": "2024-12-07T20:30:00Z",
+    "delayedFrom": "2024-11-30T21:30:00Z",
+    "delayedUntil": "2024-12-07T21:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-07T20:30:00Z",
+    "episodeDate": "2024-12-07T21:30:00Z",
     "episodeNumber": 8,
     "lengthMin": 24,
     "donghua": false,
@@ -1663,7 +1663,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2024-12-14T20:30:00Z"
+              "airingAt": "2024-12-14T21:30:00Z"
             }
           ]
         }
