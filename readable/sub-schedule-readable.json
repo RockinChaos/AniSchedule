@@ -1,61 +1,5 @@
 [
   {
-    "id": 169258,
-    "idMal": 56647,
-    "title": {
-      "romaji": "Ao no Miburo",
-      "english": "Blue Miburo",
-      "native": "青のミブロ",
-      "userPreferred": "Blue Miburo"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg",
-      "color": "#50aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1733560200
-        }
-      ]
-    }
-  },
-  {
-    "id": 174913,
-    "idMal": 58137,
-    "title": {
-      "romaji": "Kagaku×Bouken Survival!",
-      "english": null,
-      "native": "科学×冒険サバイバル！",
-      "userPreferred": "Kagaku×Bouken Survival!"
-    },
-    "format": "TV",
-    "genres": [],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
-      "color": "#1aa1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1733563560
-        }
-      ]
-    }
-  },
-  {
     "id": 168500,
     "idMal": 56400,
     "title": {
@@ -2630,6 +2574,62 @@
         {
           "episode": 9,
           "airingAt": 1734145200
+        }
+      ]
+    }
+  },
+  {
+    "id": 169258,
+    "idMal": 56647,
+    "title": {
+      "romaji": "Ao no Miburo",
+      "english": "Blue Miburo",
+      "native": "青のミブロ",
+      "userPreferred": "Blue Miburo"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg",
+      "color": "#50aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 9,
+          "airingAt": 1734165000
+        }
+      ]
+    }
+  },
+  {
+    "id": 174913,
+    "idMal": 58137,
+    "title": {
+      "romaji": "Kagaku×Bouken Survival!",
+      "english": null,
+      "native": "科学×冒険サバイバル！",
+      "userPreferred": "Kagaku×Bouken Survival!"
+    },
+    "format": "TV",
+    "genres": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
+      "color": "#1aa1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1734168360
         }
       ]
     }
