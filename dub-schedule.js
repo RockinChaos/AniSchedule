@@ -275,7 +275,7 @@ export async function updateDubFeed() {
                 const predictDate = new Date(prevDate).setHours(new Date(entry.episodeDate).getHours())
                 if (index !== 0) correctedDate = correctedDate - weeksDifference(prevDate, originalAiredAt[index - 1]) + (usePredict && index === 1 ? 1 : 0)
                 else {
-                    zeroIndexDate = episode.episode.episode === entry.episodeNumber ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
+                    zeroIndexDate = episode.episode.aired === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber))  ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
                     usePredict = past(new Date(predictDate), 0, true) === past(new Date(zeroIndexDate), 0, true)
                 }
                 episode.episode.airedAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
@@ -300,7 +300,7 @@ export async function updateDubFeed() {
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
             const multiHeader =  !previousWeek && entry.subtractedEpisodeNumber || (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2))))
             episodeType = multiHeader && baseEpisode ? 2 : multiHeader ? 1 : 0
-            if (!multiHeader && !baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
+            if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
                 let weeksAgo = -1
                 let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
                 while (new Date(pastDate) >= new Date()) {
@@ -322,7 +322,7 @@ export async function updateDubFeed() {
                 format: entry.media.media.format,
                 episode: {
                     aired: episodeNum,
-                    airedAt: (multiHeader && baseEpisode ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true))
+                    airedAt: (multiHeader && (episodeNum === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episodeNum >= entry.subtractedEpisodeNumber))) ? entry.episodeDate : (multiHeader && baseEpisode) ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true))
                 }
             }
 
