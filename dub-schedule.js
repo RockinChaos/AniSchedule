@@ -268,10 +268,17 @@ export async function updateDubFeed() {
             console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
             const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
             let correctedDate = -1
+            let usePredict = false
+            let zeroIndexDate
             mediaEpisodes.forEach((episode, index) => {
                 const prevDate = episode.episode.airedAt
-                if (index !== 0) correctedDate = correctedDate - weeksDifference(episode.episode.airedAt, originalAiredAt[index - 1])
-                episode.episode.airedAt = past(new Date(entry.episodeDate), correctedDate, true)
+                const predictDate = new Date(prevDate).setHours(new Date(entry.episodeDate).getHours())
+                if (index !== 0) correctedDate = correctedDate - weeksDifference(prevDate, originalAiredAt[index - 1]) + (usePredict && index === 1 ? 1 : 0)
+                else {
+                    zeroIndexDate = episode.episode.episode === entry.episodeNumber ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
+                    usePredict = past(new Date(predictDate), 0, true) === past(new Date(zeroIndexDate), 0, true)
+                }
+                episode.episode.airedAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
                 changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt}`)
                 console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
                 modifiedEpisodes.push(episode)

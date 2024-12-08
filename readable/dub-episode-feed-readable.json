@@ -9,15 +9,6 @@
     }
   },
   {
-    "id": 172190,
-    "idMal": 57611,
-    "format": "TV",
-    "episode": {
-      "aired": 7,
-      "airedAt": "2024-12-07T23:30:00Z"
-    }
-  },
-  {
     "id": 176311,
     "idMal": 58516,
     "format": "TV",
@@ -32,15 +23,6 @@
     "format": "TV",
     "episode": {
       "aired": 7,
-      "airedAt": "2024-12-07T22:30:00Z"
-    }
-  },
-  {
-    "id": 163135,
-    "idMal": 54853,
-    "format": "TV",
-    "episode": {
-      "aired": 6,
       "airedAt": "2024-12-07T22:30:00Z"
     }
   },
@@ -576,39 +558,12 @@
     }
   },
   {
-    "id": 172190,
-    "idMal": 57611,
-    "format": "TV",
-    "episode": {
-      "aired": 6,
-      "airedAt": "2024-11-30T23:30:00Z"
-    }
-  },
-  {
     "id": 176311,
     "idMal": 58516,
     "format": "TV",
     "episode": {
       "aired": 5,
       "airedAt": "2024-11-30T23:00:00Z"
-    }
-  },
-  {
-    "id": 168500,
-    "idMal": 56400,
-    "format": "TV",
-    "episode": {
-      "aired": 7,
-      "airedAt": "2024-11-30T21:30:00Z"
-    }
-  },
-  {
-    "id": 163146,
-    "idMal": 54865,
-    "format": "TV",
-    "episode": {
-      "aired": 6,
-      "airedAt": "2024-11-30T21:00:00Z"
     }
   },
   {
@@ -841,7 +796,16 @@
     "idMal": 57611,
     "format": "TV",
     "episode": {
-      "aired": 5,
+      "aired": 7,
+      "airedAt": "2024-11-23T23:30:00Z"
+    }
+  },
+  {
+    "id": 172190,
+    "idMal": 57611,
+    "format": "TV",
+    "episode": {
+      "aired": 6,
       "airedAt": "2024-11-23T23:30:00Z"
     }
   },
@@ -855,11 +819,29 @@
     }
   },
   {
+    "id": 163135,
+    "idMal": 54853,
+    "format": "TV",
+    "episode": {
+      "aired": 6,
+      "airedAt": "2024-11-23T22:30:00Z"
+    }
+  },
+  {
+    "id": 163135,
+    "idMal": 54853,
+    "format": "TV",
+    "episode": {
+      "aired": 5,
+      "airedAt": "2024-11-23T22:30:00Z"
+    }
+  },
+  {
     "id": 168500,
     "idMal": 56400,
     "format": "TV",
     "episode": {
-      "aired": 6,
+      "aired": 7,
       "airedAt": "2024-11-23T21:30:00Z"
     }
   },
@@ -868,7 +850,7 @@
     "idMal": 54865,
     "format": "TV",
     "episode": {
-      "aired": 5,
+      "aired": 6,
       "airedAt": "2024-11-23T21:00:00Z"
     }
   },
@@ -1219,16 +1201,7 @@
     "idMal": 57611,
     "format": "TV",
     "episode": {
-      "aired": 4,
-      "airedAt": "2024-11-16T23:30:00Z"
-    }
-  },
-  {
-    "id": 172190,
-    "idMal": 57611,
-    "format": "TV",
-    "episode": {
-      "aired": 3,
+      "aired": 5,
       "airedAt": "2024-11-16T23:30:00Z"
     }
   },
@@ -1246,7 +1219,7 @@
     "idMal": 54853,
     "format": "TV",
     "episode": {
-      "aired": 5,
+      "aired": 4,
       "airedAt": "2024-11-16T22:30:00Z"
     }
   },
@@ -1255,7 +1228,7 @@
     "idMal": 56400,
     "format": "TV",
     "episode": {
-      "aired": 5,
+      "aired": 6,
       "airedAt": "2024-11-16T21:30:00Z"
     }
   },
@@ -1264,7 +1237,7 @@
     "idMal": 54865,
     "format": "TV",
     "episode": {
-      "aired": 4,
+      "aired": 5,
       "airedAt": "2024-11-16T21:00:00Z"
     }
   },
@@ -1521,6 +1494,24 @@
     }
   },
   {
+    "id": 172190,
+    "idMal": 57611,
+    "format": "TV",
+    "episode": {
+      "aired": 4,
+      "airedAt": "2024-11-09T23:30:00Z"
+    }
+  },
+  {
+    "id": 172190,
+    "idMal": 57611,
+    "format": "TV",
+    "episode": {
+      "aired": 3,
+      "airedAt": "2024-11-09T23:30:00Z"
+    }
+  },
+  {
     "id": 176311,
     "idMal": 58516,
     "format": "TV",
@@ -1534,7 +1525,7 @@
     "idMal": 54853,
     "format": "TV",
     "episode": {
-      "aired": 4,
+      "aired": 3,
       "airedAt": "2024-11-09T22:30:00Z"
     }
   },
@@ -1543,7 +1534,7 @@
     "idMal": 56400,
     "format": "TV",
     "episode": {
-      "aired": 4,
+      "aired": 5,
       "airedAt": "2024-11-09T21:30:00Z"
     }
   },
@@ -1552,7 +1543,7 @@
     "idMal": 54865,
     "format": "TV",
     "episode": {
-      "aired": 3,
+      "aired": 4,
       "airedAt": "2024-11-09T21:00:00Z"
     }
   },
@@ -1791,15 +1782,6 @@
     }
   },
   {
-    "id": 172190,
-    "idMal": 57611,
-    "format": "TV",
-    "episode": {
-      "aired": 2,
-      "airedAt": "2024-11-02T23:30:00Z"
-    }
-  },
-  {
     "id": 176311,
     "idMal": 58516,
     "format": "TV",
@@ -1813,7 +1795,7 @@
     "idMal": 54853,
     "format": "TV",
     "episode": {
-      "aired": 3,
+      "aired": 2,
       "airedAt": "2024-11-02T22:30:00Z"
     }
   },
@@ -1822,7 +1804,7 @@
     "idMal": 56400,
     "format": "TV",
     "episode": {
-      "aired": 3,
+      "aired": 4,
       "airedAt": "2024-11-02T21:30:00Z"
     }
   },
@@ -1831,7 +1813,7 @@
     "idMal": 54865,
     "format": "TV",
     "episode": {
-      "aired": 2,
+      "aired": 3,
       "airedAt": "2024-11-02T21:00:00Z"
     }
   },
@@ -2043,12 +2025,39 @@
     }
   },
   {
+    "id": 172190,
+    "idMal": 57611,
+    "format": "TV",
+    "episode": {
+      "aired": 2,
+      "airedAt": "2024-10-26T23:30:00Z"
+    }
+  },
+  {
     "id": 163135,
     "idMal": 54853,
     "format": "TV",
     "episode": {
-      "aired": 2,
+      "aired": 1,
       "airedAt": "2024-10-26T22:30:00Z"
+    }
+  },
+  {
+    "id": 168500,
+    "idMal": 56400,
+    "format": "TV",
+    "episode": {
+      "aired": 3,
+      "airedAt": "2024-10-26T21:30:00Z"
+    }
+  },
+  {
+    "id": 163146,
+    "idMal": 54865,
+    "format": "TV",
+    "episode": {
+      "aired": 2,
+      "airedAt": "2024-10-26T21:00:00Z"
     }
   },
   {
@@ -2130,15 +2139,6 @@
     "episode": {
       "aired": 4,
       "airedAt": "2024-10-21T15:00:00Z"
-    }
-  },
-  {
-    "id": 163135,
-    "idMal": 54853,
-    "format": "TV",
-    "episode": {
-      "aired": 1,
-      "airedAt": "2024-10-19T22:30:00Z"
     }
   },
   {

@@ -33,8 +33,8 @@ export function dayTimeMatch(date1, date2) {
 }
 
 /**
- * @param {Date} date1 The first date to compare
- * @param {Date} date2 The second date to compare
+ * @param {String} date1 The first date to compare
+ * @param {String} date2 The second date to compare
  * @returns {number} The number of weeks difference between the two dates rounded to the nearest integer.
  */
 export function weeksDifference(date1, date2) {
