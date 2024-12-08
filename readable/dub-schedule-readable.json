@@ -1475,7 +1475,8 @@
     "delayedUntil": "2024-12-07T23:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-07T23:30:00Z",
-    "episodeNumber": 7,
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1523,7 +1524,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 7,
+              "airingAt": "2024-12-07T23:30:00Z"
+            },
+            {
               "episode": 8,
+              "airingAt": "2024-12-07T23:30:00Z"
+            },
+            {
+              "episode": 9,
               "airingAt": "2024-12-14T23:30:00Z"
             }
           ]
@@ -1544,7 +1553,8 @@
     "delayedUntil": "2024-12-07T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-07T22:30:00Z",
-    "episodeNumber": 6,
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1593,7 +1603,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 6,
+              "airingAt": "2024-12-07T22:30:00Z"
+            },
+            {
               "episode": 7,
+              "airingAt": "2024-12-07T22:30:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2024-12-14T22:30:00Z"
             }
           ]
