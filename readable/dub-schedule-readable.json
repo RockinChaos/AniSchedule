@@ -1207,7 +1207,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6J0G49DR/tower-of-god"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1241,8 +1241,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 20,
-              "airingAt": "2024-12-08T20:00:00Z"
+              "episode": 21,
+              "airingAt": "2024-12-15T20:00:00Z"
             }
           ]
         }
@@ -2453,7 +2453,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
