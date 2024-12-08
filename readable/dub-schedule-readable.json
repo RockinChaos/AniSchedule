@@ -162,7 +162,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -459,10 +459,10 @@
     "title": "Blue Lock VS. U-20 JAPAN",
     "route": "blue-lock-2nd-season",
     "native": "ブルーロック VS. U-20 JAPAN",
-    "delayedFrom": "2024-11-30T20:00:00Z",
-    "delayedUntil": "2024-12-07T20:00:00Z",
+    "delayedFrom": "2024-11-30T21:00:00Z",
+    "delayedUntil": "2024-12-07T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-07T20:00:00Z",
+    "episodeDate": "2024-12-07T21:00:00Z",
     "episodeNumber": 7,
     "episodes": 14,
     "lengthMin": 24,
@@ -512,7 +512,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2024-12-14T20:00:00Z"
+              "airingAt": "2024-12-14T21:00:00Z"
             }
           ]
         }
@@ -1491,7 +1491,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1523,8 +1523,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2024-12-07T23:30:00Z"
+              "episode": 8,
+              "airingAt": "2024-12-14T23:30:00Z"
             }
           ]
         }
