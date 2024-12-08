@@ -90,7 +90,7 @@ export async function fetchDubSchedule() {
 
     const timetables = await airingLists.value
     if (timetables) {
-        currentSchedule.forEach((entry) => { // need to re-add indefinitely delayed series to timetables.
+        for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove unverified episodes.
             const existingInAiring = timetables.find((airingItem) => airingItem.route === entry.route)
             if (!existingInAiring && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
                 let newEntry = entry
@@ -104,8 +104,24 @@ export async function fetchDubSchedule() {
                     }
                 }
                 timetables.push(newEntry)
+            } else if (!existingInAiring && !entry.verified && !(entry.episodeNumber < 2)) { // highly likely someone fucked up and realized their fuck-up.
+                const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
+                if (!previousWeek || previousWeek.episodeNumber !== entry.episodes || !(previousWeek.subtractedEpisodeNumber <= 1)) {
+                    changes.push(`(Dub) The un-verified series ${entry.media?.media?.title?.userPreferred} was removed from the timetables.`)
+                    console.log(`The un-verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this was likely added by mistake...`)
+                    const episodeFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))?.filter(episode => {
+                        if (episode.id === entry.media?.media?.id) {
+                            changes.push(`(Dub) Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} (Timetables Correction).`)
+                            console.log(`Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} as the unverified series has been removed from the timetables.`)
+                            return false
+                        }
+                        return true
+                    }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+                    saveJSON(path.join('./raw/dub-episode-feed.json'), episodeFeed)
+                    saveJSON(path.join('./readable/dub-episode-feed-readable.json'), episodeFeed, true)
+                }
             }
-        })
+        }
         airingLists.value = timetables.filter(item => item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title)) // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
         console.log(`Successfully retrieved ${airingLists.value.length} airing series...`)
     } else {
