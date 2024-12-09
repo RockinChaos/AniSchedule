@@ -3661,6 +3661,38 @@
     "unaired": true
   },
   {
+    "id": 175422,
+    "idMal": 58265,
+    "title": {
+      "romaji": "Baban Baban Ban Vampire",
+      "english": null,
+      "native": "ババンババンバンバンパイア",
+      "userPreferred": "Baban Baban Ban Vampire"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175422-4I9gEsW7px6C.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175422-4I9gEsW7px6C.png",
+      "color": "#ae5de4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736605800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 170892,
     "idMal": 53924,
     "title": {
