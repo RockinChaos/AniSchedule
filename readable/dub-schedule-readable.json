@@ -1991,7 +1991,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM380/seirei-gensouki-spirit-chronicles"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2024,8 +2024,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2024-12-09T18:30:00Z"
+              "episode": 11,
+              "airingAt": "2024-12-16T18:30:00Z"
             }
           ]
         }
