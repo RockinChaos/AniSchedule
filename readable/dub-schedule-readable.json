@@ -820,7 +820,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G0QK/nina-the-starry-bride"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -852,8 +852,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2024-12-09T15:00:00Z"
+              "episode": 11,
+              "airingAt": "2024-12-16T15:00:00Z"
             }
           ]
         }
