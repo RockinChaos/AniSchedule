@@ -326,7 +326,8 @@ export async function updateDubFeed() {
                 baseEpisode = {
                     episode: {
                         aired: episodeNum,
-                        airedAt: pastDate
+                        airedAt: pastDate,
+                        addedAt: past(new Date(), 0, true)
                     }
                 }
             }
@@ -338,7 +339,8 @@ export async function updateDubFeed() {
                 format: entry.media.media.format,
                 episode: {
                     aired: episodeNum,
-                    airedAt: (multiHeader && (episodeNum === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episodeNum >= entry.subtractedEpisodeNumber))) ? entry.episodeDate : (multiHeader && baseEpisode) ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true))
+                    airedAt: (multiHeader && (episodeNum === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episodeNum >= entry.subtractedEpisodeNumber))) ? entry.episodeDate : (multiHeader && baseEpisode) ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true)),
+                    addedAt: past(new Date(), 0, true)
                 }
             }
 
@@ -354,7 +356,8 @@ export async function updateDubFeed() {
             format: entry.media.media.format,
             episode: {
                 aired: latestEpisode,
-                airedAt: entry.episodeDate
+                airedAt: entry.episodeDate,
+                addedAt: past(new Date(), 0, true)
             }
         }
 

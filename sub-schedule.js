@@ -73,7 +73,8 @@ export async function updateSubFeed() {
                 format: entry.format,
                 episode: {
                     aired: node.episode,
-                    airedAt: past(airingAt, 0, false)
+                    airedAt: past(airingAt, 0, false),
+                    addedAt: past(new Date(), 0, true)
                 }
             }
 
