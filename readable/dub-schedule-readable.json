@@ -693,10 +693,10 @@
     "romaji": "Hibike! Euphonium",
     "english": "Sound! Euphonium",
     "native": "響け！ユーフォニアム",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-17T00:00:00Z",
+    "episodeDate": "2024-12-17T20:00:00Z",
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
@@ -746,55 +746,55 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 2,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 3,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 4,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 5,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 6,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 9,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 10,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 11,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 12,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             },
             {
               "episode": 13,
-              "airingAt": "2024-12-17T00:00:00Z"
+              "airingAt": "2024-12-17T20:00:00Z"
             }
           ]
         }
@@ -803,6 +803,75 @@
     },
     "verified": false,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Hibike! Euphonium: Kakedasu Monaka",
+    "route": "hibike-euphonium-kakedasu-monaka",
+    "romaji": "Hibike! Euphonium: Kakedasu Monaka",
+    "english": "Sound! Euphonium: Ready, Set, Monaka",
+    "native": "響け！ユーフォニアム 番外編 かけだすモナカ",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-17T20:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/hibike-euphonium-kakedasu-monaka-44aae5abb1.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/sound-euphonium",
+      "youtube": "www.youtube.com/user/KyoaniChannel"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "hibike-euphonium-kakedasu-monaka",
+        "file_name": "hibike-euphonium-kakedasu-monaka"
+      },
+      "media": {
+        "id": 21376,
+        "idMal": 31665,
+        "title": {
+          "romaji": "Hibike! Euphonium: Kakedasu Monaka",
+          "english": "Sound! Euphonium: Ready, Set, Monaka",
+          "native": "響け！ユーフォニアム 番外編 かけだすモナカ",
+          "userPreferred": "Sound! Euphonium: Ready, Set, Monaka"
+        },
+        "format": "OVA",
+        "genres": [
+          "Drama",
+          "Music",
+          "Slice of Life"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21376-MwAfybEhcdZf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21376-MwAfybEhcdZf.jpg",
+          "color": "#d6bb6b"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21376-XTaG3JNylo4J.png",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-17T20:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-10T08:33:10Z"
   },
   {
     "title": "Hoshi Furu Oukoku no Nina",
