@@ -9,7 +9,8 @@
     "delayedUntil": "2024-12-10T21:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-10T21:00:00Z",
-    "episodeNumber": 8,
+    "episodeNumber": 9,
+    "subtractedEpisodeNumber": 8,
     "episodes": 24,
     "lengthMin": 24,
     "donghua": false,
@@ -24,7 +25,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -57,7 +58,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 8,
+              "airingAt": "2024-12-10T21:00:00Z"
+            },
+            {
               "episode": 9,
+              "airingAt": "2024-12-10T21:00:00Z"
+            },
+            {
+              "episode": 10,
               "airingAt": "2024-12-17T21:00:00Z"
             }
           ]
@@ -1932,7 +1941,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1964,8 +1973,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2024-12-10T22:00:00Z"
+              "episode": 9,
+              "airingAt": "2024-12-17T22:00:00Z"
             }
           ]
         }
