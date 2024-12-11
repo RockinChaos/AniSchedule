@@ -1,35 +1,5 @@
 [
   {
-    "id": 175869,
-    "idMal": 58351,
-    "title": {
-      "romaji": "Chibi Godzilla no Gyakushuu 2",
-      "english": "Chibi Godzilla Raids Again Season 2",
-      "native": "ちびゴジラの逆襲２",
-      "userPreferred": "Chibi Godzilla Raids Again Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175869-SpbuxMwNGGZc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175869-SpbuxMwNGGZc.jpg",
-      "color": "#f1c90d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175869-PZpl930JZQD7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1733868420
-        }
-      ]
-    }
-  },
-  {
     "id": 175137,
     "idMal": 58199,
     "title": {
@@ -2604,6 +2574,36 @@
     }
   },
   {
+    "id": 175869,
+    "idMal": 58351,
+    "title": {
+      "romaji": "Chibi Godzilla no Gyakushuu 2",
+      "english": "Chibi Godzilla Raids Again Season 2",
+      "native": "ちびゴジラの逆襲２",
+      "userPreferred": "Chibi Godzilla Raids Again Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175869-SpbuxMwNGGZc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175869-SpbuxMwNGGZc.jpg",
+      "color": "#f1c90d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175869-PZpl930JZQD7.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 38,
+          "airingAt": 1734473220
+        }
+      ]
+    }
+  },
+  {
     "id": 175138,
     "idMal": 58201,
     "title": {
@@ -2873,6 +2873,69 @@
     }
   },
   {
+    "id": 177506,
+    "idMal": 58822,
+    "title": {
+      "romaji": "Izure Saikyou no Renkinjutsushi?",
+      "english": null,
+      "native": "いずれ最強の錬金術師？",
+      "userPreferred": "Izure Saikyou no Renkinjutsushi?"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177506-in4J0GNzjOZL.jpg",
+      "color": "#50bbfe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1735738200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 179689,
+    "idMal": 59349,
+    "title": {
+      "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "english": "Headhunted to Another World: From Salaryman to Big Four!",
+      "native": "サラリーマンが異世界に行ったら四天王になった話",
+      "userPreferred": "Headhunted to Another World: From Salaryman to Big Four!"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-N1uaTOfOR8oc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179689-N1uaTOfOR8oc.jpg",
+      "color": "#e45d50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179689-pmEg73tCaoMP.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1735738200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 176642,
     "idMal": 58600,
     "title": {
@@ -2898,6 +2961,36 @@
         {
           "episode": 1,
           "airingAt": 1735743600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 145740,
+    "idMal": 51119,
+    "title": {
+      "romaji": "Grisaia: Phantom Trigger THE ANIMATION (TV)",
+      "english": "Grisaia: Phantom Trigger",
+      "native": "グリザイア：ファントムトリガー THE ANIMATION (TV)",
+      "userPreferred": "Grisaia: Phantom Trigger"
+    },
+    "format": "TV",
+    "genres": [
+      "Action"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-yblQOQLAKk6M.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145740-yblQOQLAKk6M.jpg",
+      "color": "#5d93e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1735747200
         }
       ]
     },
@@ -2930,6 +3023,36 @@
         {
           "episode": 1,
           "airingAt": 1735826400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 177159,
+    "idMal": 58739,
+    "title": {
+      "romaji": "Momentary Lily",
+      "english": null,
+      "native": "もめんたりー・リリィ",
+      "userPreferred": "Momentary Lily"
+    },
+    "format": "TV",
+    "genres": [
+      "Action"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177159-A9tFQ1oqxIM7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177159-A9tFQ1oqxIM7.jpg",
+      "color": "#1aaeff"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1735828200
         }
       ]
     },
@@ -3093,6 +3216,68 @@
     "unaired": true
   },
   {
+    "id": 185462,
+    "idMal": 60425,
+    "title": {
+      "romaji": "0-saiji Start Dash Monogatari Season 2",
+      "english": null,
+      "native": "0歳児スタートダッシュ物語 シーズン2",
+      "userPreferred": "0-saiji Start Dash Monogatari Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185462-63GUMNU2RGUd.jpg",
+      "color": "#e45d6b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736067300
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 170650,
+    "idMal": 57050,
+    "title": {
+      "romaji": "Kisaki Kyouiku kara Nigetai Watashi",
+      "english": null,
+      "native": "妃教育から逃げたい私",
+      "userPreferred": "Kisaki Kyouiku kara Nigetai Watashi"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-PR1FaOzP140x.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170650-PR1FaOzP140x.jpg",
+      "color": "#f1781a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736082000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185261,
     "idMal": null,
     "title": {
@@ -3137,9 +3322,9 @@
       "Fantasy"
     ],
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170916-85RVyXmH7I8T.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170916-85RVyXmH7I8T.jpg",
-      "color": "#bbd6f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170916-WNdKmGcOQhuO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170916-WNdKmGcOQhuO.jpg",
+      "color": "#e4a150"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -3186,6 +3371,38 @@
     "unaired": true
   },
   {
+    "id": 179696,
+    "idMal": 59361,
+    "title": {
+      "romaji": "Kono Kaisha ni Suki na Hito ga Imasu",
+      "english": null,
+      "native": "この会社に好きな人がいます",
+      "userPreferred": "Kono Kaisha ni Suki na Hito ga Imasu"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179696-uhJwNnfpiR8d.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179696-uhJwNnfpiR8d.jpg",
+      "color": "#e4c9ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736172000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177552,
     "idMal": 58853,
     "title": {
@@ -3212,6 +3429,37 @@
         {
           "episode": 1,
           "airingAt": 1736175600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 176063,
+    "idMal": 58437,
+    "title": {
+      "romaji": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita",
+      "english": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+      "native": "没落予定の貴族だけど、暇だったから魔法を極めてみた",
+      "userPreferred": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176063-p4iH4VETPHjC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176063-p4iH4VETPHjC.jpg",
+      "color": "#78aef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736181000
         }
       ]
     },
@@ -3281,6 +3529,37 @@
     "unaired": true
   },
   {
+    "id": 178495,
+    "idMal": 59136,
+    "title": {
+      "romaji": "Tasokare Hotel",
+      "english": null,
+      "native": "誰ソ彼ホテル",
+      "userPreferred": "Tasokare Hotel"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178495-RJCGa2YRdKBU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178495-RJCGa2YRdKBU.jpg",
+      "color": "#e4865d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736343000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179297,
     "idMal": 59265,
     "title": {
@@ -3344,6 +3623,37 @@
     "unaired": true
   },
   {
+    "id": 180292,
+    "idMal": 59561,
+    "title": {
+      "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+      "english": null,
+      "native": "アラフォー男の異世界通販生活",
+      "userPreferred": "Arafou Otoko no Isekai Tsuuhan Seikatsu"
+    },
+    "format": "TV",
+    "genres": [
+      "Ecchi",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180292-GG0nwYZ5HeN7.jpg",
+      "color": "#f1bb43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736424000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 172453,
     "idMal": 57719,
     "title": {
@@ -3369,6 +3679,37 @@
         {
           "episode": 1,
           "airingAt": 1736436360
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 162921,
+    "idMal": 54769,
+    "title": {
+      "romaji": "Sousei no Aquarion: Myth of Emotions",
+      "english": "AQUARION: Myth of Emotions",
+      "native": "想星のアクエリオン Myth of Emotions",
+      "userPreferred": "AQUARION: Myth of Emotions"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Mecha"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162921-wsbg3E2li0oB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162921-wsbg3E2li0oB.png",
+      "color": "#4393f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162921-2OyrSo97wZnX.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736436600
         }
       ]
     },
@@ -3600,6 +3941,37 @@
     "unaired": true
   },
   {
+    "id": 182920,
+    "idMal": 54144,
+    "title": {
+      "romaji": "Cardfight!! Vanguard DivineZ Deluxe-hen",
+      "english": null,
+      "native": "ヴァンガード Divinez デラックス編",
+      "userPreferred": "Cardfight!! Vanguard DivineZ Deluxe-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-XFVqHOgzX0lt.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-XFVqHOgzX0lt.png",
+      "color": "#e46b5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736550000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177709,
     "idMal": 58939,
     "title": {
@@ -3687,6 +4059,39 @@
         {
           "episode": 1,
           "airingAt": 1736605800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 180812,
+    "idMal": 59730,
+    "title": {
+      "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+      "english": "I Left My A-Rank Party to Help My Students Reach the Dungeon Depths",
+      "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+      "userPreferred": "I Left My A-Rank Party to Help My Students Reach the Dungeon Depths"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-DrnO7zfWvXam.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180812-DrnO7zfWvXam.jpg",
+      "color": "#50e428"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736607600
         }
       ]
     },
