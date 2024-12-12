@@ -450,7 +450,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2OF_CmbcBOUk_216rwS1wD",
       "netflix": "www.netflix.com/title/81736884"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -485,8 +485,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2024-12-12T16:00:00Z"
+              "episode": 12,
+              "airingAt": "2024-12-19T16:00:00Z"
             }
           ]
         }
