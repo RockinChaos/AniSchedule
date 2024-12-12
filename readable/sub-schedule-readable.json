@@ -1,96 +1,5 @@
 [
   {
-    "id": 183471,
-    "idMal": 60185,
-    "title": {
-      "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
-      "english": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!",
-      "native": "KUROMI'S PRETTY JOURNEY 〜はちゃめちゃ！マルチバース大脱出！〜",
-      "userPreferred": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183471-JsXh7SKt5P7C.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183471-JsXh7SKt5P7C.png",
-      "color": "#ae5df1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1733994000
-        }
-      ]
-    }
-  },
-  {
-    "id": 184288,
-    "idMal": 60295,
-    "title": {
-      "romaji": "Kazuhiho to Marie no Youkoso Kitchen.",
-      "english": null,
-      "native": "カズヒホとマリーのようこそキッチン。",
-      "userPreferred": "Kazuhiho to Marie no Youkoso Kitchen."
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184288-QIMsLkNX7MWq.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184288-QIMsLkNX7MWq.png",
-      "color": "#fec928"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1733997600
-        }
-      ]
-    }
-  },
-  {
-    "id": 177581,
-    "idMal": 58854,
-    "title": {
-      "romaji": "Kinokoinu",
-      "english": "Kinokoinu Mushroom Pup",
-      "native": "きのこいぬ",
-      "userPreferred": "Kinokoinu Mushroom Pup"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177581-IiMPlgRFwktk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177581-IiMPlgRFwktk.jpg",
-      "color": "#5d43f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1734004800
-        }
-      ]
-    }
-  },
-  {
     "id": 174390,
     "idMal": 57924,
     "title": {
@@ -2573,6 +2482,67 @@
     }
   },
   {
+    "id": 184288,
+    "idMal": 60295,
+    "title": {
+      "romaji": "Kazuhiho to Marie no Youkoso Kitchen.",
+      "english": null,
+      "native": "カズヒホとマリーのようこそキッチン。",
+      "userPreferred": "Kazuhiho to Marie no Youkoso Kitchen."
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184288-QIMsLkNX7MWq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184288-QIMsLkNX7MWq.png",
+      "color": "#fec928"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1734602400
+        }
+      ]
+    }
+  },
+  {
+    "id": 177581,
+    "idMal": 58854,
+    "title": {
+      "romaji": "Kinokoinu",
+      "english": "Kinokoinu Mushroom Pup",
+      "native": "きのこいぬ",
+      "userPreferred": "Kinokoinu Mushroom Pup"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177581-IiMPlgRFwktk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177581-IiMPlgRFwktk.jpg",
+      "color": "#5d43f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1734609600
+        }
+      ]
+    }
+  },
+  {
     "id": 175138,
     "idMal": 58201,
     "title": {
@@ -4640,6 +4610,35 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 166461,
+    "idMal": 56800,
+    "title": {
+      "romaji": "Kozukuri Ninkatsu-bu!",
+      "english": null,
+      "native": "子作り妊活部！",
+      "userPreferred": "Kozukuri Ninkatsu-bu!"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166461-1RCN93WTfXyN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166461-1RCN93WTfXyN.jpg",
+      "color": "#e4bb50"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1740063600
+        }
+      ]
+    }
   },
   {
     "id": 183741,
