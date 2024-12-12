@@ -705,7 +705,7 @@
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-17T20:00:00Z",
+    "episodeDate": "2024-12-10T20:00:00Z",
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 1,
     "episodes": 13,
@@ -722,8 +722,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/sound-euphonium"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "hibike-euphonium",
@@ -755,55 +755,55 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 2,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 3,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 4,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 5,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 6,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 9,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 10,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 11,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 12,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             },
             {
               "episode": 13,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             }
           ]
         }
@@ -822,7 +822,7 @@
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-17T20:00:00Z",
+    "episodeDate": "2024-12-10T20:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 24,
@@ -839,8 +839,8 @@
       "crunchyroll": "www.crunchyroll.com/sound-euphonium",
       "youtube": "www.youtube.com/user/KyoaniChannel"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "hibike-euphonium-kakedasu-monaka",
@@ -872,7 +872,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-12-17T20:00:00Z"
+              "airingAt": "2024-12-10T20:00:00Z"
             }
           ]
         }
