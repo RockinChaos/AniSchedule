@@ -382,7 +382,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -695,6 +695,143 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Golden Kamuy 2nd Season OVA",
+    "route": "golden-kamuy-2nd-season-ova",
+    "native": "ゴールデンカムイ 第二期 OVA",
+    "delayedText": "Delayed - Partial Dub",
+    "delayedFrom": "2024-12-19T23:30:00Z",
+    "delayedUntil": "0001-01-01T23:30:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-12T23:30:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 3,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/golden-kamuy-2nd-season-ova-248aedf1d8.jpg",
+    "streams": {},
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "golden-kamuy-2nd-season-ova",
+        "file_name": "golden-kamuy-2nd-season-ova"
+      },
+      "media": {
+        "id": 124756,
+        "idMal": 38710,
+        "title": {
+          "romaji": "Golden Kamuy 2nd Season OVA",
+          "english": null,
+          "native": "ゴールデンカムイ 第二期 OVA",
+          "userPreferred": "Golden Kamuy 2nd Season OVA"
+        },
+        "format": "OVA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124756-4DBO8VSFaJ6Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx124756-4DBO8VSFaJ6Y.jpg",
+          "color": "#d6d678"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-12T23:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2024-12-12T23:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2024-12-19T23:30:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-14T01:54:11Z"
+  },
+  {
+    "title": "Golden Kamuy OVA",
+    "route": "golden-kamuy-ova",
+    "native": "ゴールデンカムイOVA",
+    "delayedFrom": "0001-01-01T23:30:00Z",
+    "delayedUntil": "0001-01-01T23:30:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-12T23:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/golden-kamuy-ova-f3fbe0bf95.jpg",
+    "streams": {},
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "golden-kamuy-ova",
+        "file_name": "golden-kamuy-ova"
+      },
+      "media": {
+        "id": 101830,
+        "idMal": 37884,
+        "title": {
+          "romaji": "Golden Kamuy OVA",
+          "english": "Golden Kamuy OVA",
+          "native": "ゴールデンカムイOVA",
+          "userPreferred": "Golden Kamuy OVA"
+        },
+        "format": "OVA",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101830-9KeLagRcnSzM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/nx101830-9KeLagRcnSzM.jpg",
+          "color": "#f1865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/101830-Gj0fVRkzG14o.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-12T23:30:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-14T01:54:11Z"
   },
   {
     "title": "Hibike! Euphonium",
