@@ -102,7 +102,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -134,8 +134,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2024-12-14T23:00:00Z"
+              "episode": 8,
+              "airingAt": "2024-12-21T23:00:00Z"
             }
           ]
         }
@@ -1602,7 +1602,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1636,8 +1636,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2024-12-14T22:30:00Z"
+              "episode": 9,
+              "airingAt": "2024-12-21T22:30:00Z"
             }
           ]
         }
