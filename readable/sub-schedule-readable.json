@@ -1,223 +1,5 @@
 [
   {
-    "id": 162785,
-    "idMal": 54726,
-    "title": {
-      "romaji": "Tsuma, Shougakusei ni Naru.",
-      "english": "TsumaSho",
-      "native": "妻、小学生になる。",
-      "userPreferred": "TsumaSho"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162785-kqAuHBdvX283.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162785-kqAuHBdvX283.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1734267600
-        }
-      ]
-    }
-  },
-  {
-    "id": 153406,
-    "idMal": 52635,
-    "title": {
-      "romaji": "Kami no Tou: Tower of God 2nd Season",
-      "english": "Tower of God Season 2",
-      "native": "神之塔 -Tower of God- 第2期",
-      "userPreferred": "Tower of God Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153406-dU2RLKgMUF2U.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153406-wP0TEqBVxY0V.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1734271200
-        }
-      ]
-    }
-  },
-  {
-    "id": 175019,
-    "idMal": 58172,
-    "title": {
-      "romaji": "Nageki no Bourei wa Intai Shitai",
-      "english": "Let This Grieving Soul Retire",
-      "native": "嘆きの亡霊は引退したい ",
-      "userPreferred": "Let This Grieving Soul Retire"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175019-8lLRmHID5fMd.jpg",
-      "color": "#4393e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1734273000
-        }
-      ]
-    }
-  },
-  {
-    "id": 178434,
-    "idMal": 59131,
-    "title": {
-      "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
-      "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
-      "native": "転生貴族、鑑定スキルで成り上がる 第2期",
-      "userPreferred": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178434-UtRCL4WqNcgv.png",
-      "color": "#e4c986"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1734273000
-        }
-      ]
-    }
-  },
-  {
-    "id": 171400,
-    "idMal": 57517,
-    "title": {
-      "romaji": "Puniru wa Kawaii Slime",
-      "english": "Puniru is a Kawaii Slime",
-      "native": "ぷにるはかわいいスライム",
-      "userPreferred": "Puniru is a Kawaii Slime"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171400-fbiXZGItjJtP.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171400-fbiXZGItjJtP.png",
-      "color": "#5dc9f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171400-M29fUJhy5pNX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1734273960
-        }
-      ]
-    }
-  },
-  {
-    "id": 171642,
-    "idMal": 57559,
-    "title": {
-      "romaji": "MF Ghost 2nd Season",
-      "english": "MF GHOST Season 2",
-      "native": "MFゴースト 2nd Season",
-      "userPreferred": "MF GHOST Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Sci-Fi",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171642-RyL10RY9uysQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171642-RyL10RY9uysQ.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1734274800
-        }
-      ]
-    }
-  },
-  {
-    "id": 169931,
-    "idMal": 56843,
-    "title": {
-      "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi",
-      "english": "How I Attended an All-Guy's Mixer",
-      "native": "合コンに行ったら女がいなかった話",
-      "userPreferred": "How I Attended an All-Guy's Mixer"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169931-tPgDEKaHNkFr.jpg",
-      "color": "#50c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1734280200
-        }
-      ]
-    }
-  },
-  {
     "id": 185538,
     "idMal": null,
     "title": {
@@ -2102,6 +1884,35 @@
     }
   },
   {
+    "id": 185541,
+    "idMal": 59499,
+    "title": {
+      "romaji": "Asatir 2: Mirai no Mukashibanashi",
+      "english": "Future Folktales Season 2",
+      "native": "アサティール2 未来の昔ばなし",
+      "userPreferred": "Future Folktales Season 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185541-XaTttukXApVj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185541-XaTttukXApVj.jpg",
+      "color": "#5093fe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 8,
+          "airingAt": 1734793200
+        }
+      ]
+    }
+  },
+  {
     "id": 176311,
     "idMal": 58516,
     "title": {
@@ -2504,6 +2315,162 @@
     }
   },
   {
+    "id": 153406,
+    "idMal": 52635,
+    "title": {
+      "romaji": "Kami no Tou: Tower of God 2nd Season",
+      "english": "Tower of God Season 2",
+      "native": "神之塔 -Tower of God- 第2期",
+      "userPreferred": "Tower of God Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153406-dU2RLKgMUF2U.jpg",
+      "color": "#f1d6bb"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153406-wP0TEqBVxY0V.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 25,
+          "airingAt": 1734876000
+        }
+      ]
+    }
+  },
+  {
+    "id": 175019,
+    "idMal": 58172,
+    "title": {
+      "romaji": "Nageki no Bourei wa Intai Shitai",
+      "english": "Let This Grieving Soul Retire",
+      "native": "嘆きの亡霊は引退したい ",
+      "userPreferred": "Let This Grieving Soul Retire"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175019-8lLRmHID5fMd.jpg",
+      "color": "#4393e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1734877800
+        }
+      ]
+    }
+  },
+  {
+    "id": 178434,
+    "idMal": 59131,
+    "title": {
+      "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
+      "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
+      "native": "転生貴族、鑑定スキルで成り上がる 第2期",
+      "userPreferred": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178434-UtRCL4WqNcgv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178434-UtRCL4WqNcgv.png",
+      "color": "#e4c986"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1734877800
+        }
+      ]
+    }
+  },
+  {
+    "id": 171400,
+    "idMal": 57517,
+    "title": {
+      "romaji": "Puniru wa Kawaii Slime",
+      "english": "Puniru is a Kawaii Slime",
+      "native": "ぷにるはかわいいスライム",
+      "userPreferred": "Puniru is a Kawaii Slime"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171400-fbiXZGItjJtP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171400-fbiXZGItjJtP.png",
+      "color": "#5dc9f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171400-M29fUJhy5pNX.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1734878760
+        }
+      ]
+    }
+  },
+  {
+    "id": 171642,
+    "idMal": 57559,
+    "title": {
+      "romaji": "MF Ghost 2nd Season",
+      "english": "MF GHOST Season 2",
+      "native": "MFゴースト 2nd Season",
+      "userPreferred": "MF GHOST Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Sci-Fi",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171642-RyL10RY9uysQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171642-RyL10RY9uysQ.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1734879600
+        }
+      ]
+    }
+  },
+  {
     "id": 180804,
     "idMal": null,
     "title": {
@@ -2748,6 +2715,38 @@
     }
   },
   {
+    "id": 178100,
+    "idMal": 59002,
+    "title": {
+      "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
+      "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+      "native": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~",
+      "userPreferred": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178100-GF4dKSrkdByJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178100-GF4dKSrkdByJ.jpg",
+      "color": "#50c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1735657200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177506,
     "idMal": 58822,
     "title": {
@@ -2959,6 +2958,37 @@
         {
           "episode": 1,
           "airingAt": 1735914600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 174596,
+    "idMal": 58066,
+    "title": {
+      "romaji": "Sorairo Utility (TV)",
+      "english": null,
+      "native": "空色ユーティリティ (TV)",
+      "userPreferred": "Sorairo Utility (TV)"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174596-GbgKrUtBBuIg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174596-GbgKrUtBBuIg.jpg",
+      "color": "#f1e40d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1735920000
         }
       ]
     },
@@ -3335,38 +3365,6 @@
         {
           "episode": 1,
           "airingAt": 1736181000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 178100,
-    "idMal": 59002,
-    "title": {
-      "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
-      "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
-      "native": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~",
-      "userPreferred": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178100-GF4dKSrkdByJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178100-GF4dKSrkdByJ.jpg",
-      "color": "#50c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736260200
         }
       ]
     },
