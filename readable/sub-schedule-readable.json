@@ -1,131 +1,5 @@
 [
   {
-    "id": 176292,
-    "idMal": 58511,
-    "title": {
-      "romaji": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
-      "english": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
-      "native": "七つの大罪 黙示録の四騎士 第2期",
-      "userPreferred": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-meJTWM8zQjjp.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176292-meJTWM8zQjjp.jpg",
-      "color": "#f18635"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176292-esCzjSi7cgHj.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1734247800
-        }
-      ]
-    }
-  },
-  {
-    "id": 155502,
-    "idMal": 53287,
-    "title": {
-      "romaji": "Love Live! Superstar!! 3rd Season",
-      "english": "Love Live! Superstar!! Season 3",
-      "native": "ラブライブ!スーパースター!! 3期",
-      "userPreferred": "Love Live! Superstar!! Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Music",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-8Dyh2np8o5GC.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155502-8Dyh2np8o5GC.jpg",
-      "color": "#e4a143"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155502-SKgryap6DivC.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1734249600
-        }
-      ]
-    }
-  },
-  {
-    "id": 176508,
-    "idMal": 58572,
-    "title": {
-      "romaji": "Shangri-La Frontier 2nd Season",
-      "english": "Shangri-La Frontier Season 2",
-      "native": "シャングリラ・フロンティア 2nd season",
-      "userPreferred": "Shangri-La Frontier Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
-      "color": "#78aed6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1734249600
-        }
-      ]
-    }
-  },
-  {
-    "id": 139095,
-    "idMal": 49785,
-    "title": {
-      "romaji": "FAIRY TAIL: 100 YEARS QUEST",
-      "english": "FAIRY TAIL 100 YEARS QUEST",
-      "native": "FAIRY TAIL 100 YEARS QUEST",
-      "userPreferred": "FAIRY TAIL 100 YEARS QUEST"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139095-xXcToL6L4vuv.jpg",
-      "color": "#f16b00"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139095-Y5aSDeQfZkZF.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1734251400
-        }
-      ]
-    }
-  },
-  {
     "id": 162785,
     "idMal": 54726,
     "title": {
@@ -342,6 +216,37 @@
         }
       ]
     }
+  },
+  {
+    "id": 185538,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao",
+      "english": null,
+      "native": "どこでもマキバオー",
+      "userPreferred": "Dokodemo Makibao"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1734300000
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 176191,
@@ -746,6 +651,36 @@
         }
       ]
     }
+  },
+  {
+    "id": 185539,
+    "idMal": null,
+    "title": {
+      "romaji": "Alps no Roujin Heidi no Ojii-san",
+      "english": null,
+      "native": "アルプスの老人ハイジのおじいさん",
+      "userPreferred": "Alps no Roujin Heidi no Ojii-san"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185539-57P8xM9whe1b.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185539-57P8xM9whe1b.png",
+      "color": "#e4bb28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1734472800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 175869,
@@ -2443,6 +2378,132 @@
     }
   },
   {
+    "id": 176292,
+    "idMal": 58511,
+    "title": {
+      "romaji": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+      "english": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
+      "native": "七つの大罪 黙示録の四騎士 第2期",
+      "userPreferred": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-meJTWM8zQjjp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176292-meJTWM8zQjjp.jpg",
+      "color": "#f18635"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176292-esCzjSi7cgHj.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1734852600
+        }
+      ]
+    }
+  },
+  {
+    "id": 155502,
+    "idMal": 53287,
+    "title": {
+      "romaji": "Love Live! Superstar!! 3rd Season",
+      "english": "Love Live! Superstar!! Season 3",
+      "native": "ラブライブ!スーパースター!! 3期",
+      "userPreferred": "Love Live! Superstar!! Season 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155502-8Dyh2np8o5GC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155502-8Dyh2np8o5GC.jpg",
+      "color": "#e4a143"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/155502-SKgryap6DivC.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1734854400
+        }
+      ]
+    }
+  },
+  {
+    "id": 176508,
+    "idMal": 58572,
+    "title": {
+      "romaji": "Shangri-La Frontier 2nd Season",
+      "english": "Shangri-La Frontier Season 2",
+      "native": "シャングリラ・フロンティア 2nd season",
+      "userPreferred": "Shangri-La Frontier Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
+      "color": "#78aed6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1734854400
+        }
+      ]
+    }
+  },
+  {
+    "id": 139095,
+    "idMal": 49785,
+    "title": {
+      "romaji": "FAIRY TAIL: 100 YEARS QUEST",
+      "english": "FAIRY TAIL 100 YEARS QUEST",
+      "native": "FAIRY TAIL 100 YEARS QUEST",
+      "userPreferred": "FAIRY TAIL 100 YEARS QUEST"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139095-xXcToL6L4vuv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139095-xXcToL6L4vuv.jpg",
+      "color": "#f16b00"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139095-Y5aSDeQfZkZF.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 24,
+          "airingAt": 1734856200
+        }
+      ]
+    }
+  },
+  {
     "id": 180804,
     "idMal": null,
     "title": {
@@ -2588,6 +2649,35 @@
         {
           "episode": 3,
           "airingAt": 1735225200
+        }
+      ]
+    }
+  },
+  {
+    "id": 182434,
+    "idMal": 60029,
+    "title": {
+      "romaji": "5-Oku-nen Button Part 2",
+      "english": null,
+      "native": "5億年ボタン Part 2",
+      "userPreferred": "5-Oku-nen Button Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Psychological"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182434-RFfa8KtGbu3G.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182434-RFfa8KtGbu3G.jpg",
+      "color": "#f10d00"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1735390800
         }
       ]
     }
@@ -3741,9 +3831,9 @@
       "Fantasy"
     ],
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175198-dLrKpVqz93m9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175198-dLrKpVqz93m9.jpg",
-      "color": "#f19328"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175198-AtWwEQPTjQ6N.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175198-AtWwEQPTjQ6N.jpg",
+      "color": "#1a6bd6"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175198-xWH6PKjANEhw.jpg",
