@@ -661,7 +661,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GG5H5XQED/fairy-tail-100-years-quest",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl23uIjbwVKoUA3dbo6FiGoX"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1244,7 +1244,8 @@
     "delayedUntil": "2024-12-08T21:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-15T21:00:00Z",
-    "episodeNumber": 21,
+    "episodeNumber": 22,
+    "subtractedEpisodeNumber": 21,
     "episodes": 26,
     "lengthMin": 24,
     "donghua": false,
@@ -1293,7 +1294,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 21,
+              "airingAt": "2024-12-15T21:00:00Z"
+            },
+            {
               "episode": 22,
+              "airingAt": "2024-12-15T21:00:00Z"
+            },
+            {
+              "episode": 23,
               "airingAt": "2024-12-22T21:00:00Z"
             }
           ]
@@ -1734,7 +1743,8 @@
     "delayedUntil": "2024-12-08T21:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-15T21:30:00Z",
-    "episodeNumber": 8,
+    "episodeNumber": 9,
+    "subtractedEpisodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1780,7 +1790,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 8,
+              "airingAt": "2024-12-15T21:30:00Z"
+            },
+            {
               "episode": 9,
+              "airingAt": "2024-12-15T21:30:00Z"
+            },
+            {
+              "episode": 10,
               "airingAt": "2024-12-22T21:30:00Z"
             }
           ]
