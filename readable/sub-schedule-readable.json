@@ -1,36 +1,5 @@
 [
   {
-    "id": 185538,
-    "idMal": null,
-    "title": {
-      "romaji": "Dokodemo Makibao",
-      "english": null,
-      "native": "どこでもマキバオー",
-      "userPreferred": "Dokodemo Makibao"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
-      "color": "#fec90d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1734300000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 176191,
     "idMal": 58395,
     "title": {
@@ -702,6 +671,36 @@
         {
           "episode": 6,
           "airingAt": 1734537600
+        }
+      ]
+    }
+  },
+  {
+    "id": 185538,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao",
+      "english": null,
+      "native": "どこでもマキバオー",
+      "userPreferred": "Dokodemo Makibao"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1734559200
         }
       ]
     }
@@ -3073,9 +3072,9 @@
       "Sports"
     ],
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-iWK27bUjBwjZ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165171-iWK27bUjBwjZ.jpg",
-      "color": "#43d6e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165171-nTOHsbh3pThN.jpg",
+      "color": "#f1bb5d"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -3975,9 +3974,9 @@
     "idMal": 58265,
     "title": {
       "romaji": "Baban Baban Ban Vampire",
-      "english": null,
+      "english": "Babanba Banban Vampire",
       "native": "ババンババンバンバンパイア",
-      "userPreferred": "Baban Baban Ban Vampire"
+      "userPreferred": "Babanba Banban Vampire"
     },
     "format": "TV",
     "genres": [
