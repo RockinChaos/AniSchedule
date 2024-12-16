@@ -162,7 +162,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -195,8 +195,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2024-12-16T22:30:00Z"
+              "episode": 9,
+              "airingAt": "2024-12-23T22:30:00Z"
             }
           ]
         }
@@ -1597,7 +1597,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1630,8 +1630,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2024-12-16T23:00:00Z"
+              "episode": 9,
+              "airingAt": "2024-12-23T23:00:00Z"
             }
           ]
         }
