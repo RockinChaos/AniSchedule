@@ -572,6 +572,72 @@
     "addedAt": "2024-11-07T00:24:47Z"
   },
   {
+    "title": "Dragon Ball DAIMA",
+    "route": "dragon-ball-daima",
+    "native": "ドラゴンボールDAIMA",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-10T21:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/dragon-ball-daima-bc212f7cd2.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GG5H5XQ35/dragon-ball-daima",
+      "hulu": "www.hulu.com/series/7c2e04e4-3f77-4dfe-9a62-167b7065d6b3",
+      "netflix": "www.netflix.com/title/81943491"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "dragon-ball-daima",
+        "file_name": "dragon-ball-daima"
+      },
+      "media": {
+        "id": 170083,
+        "idMal": 56894,
+        "title": {
+          "romaji": "Dragon Ball DAIMA",
+          "english": "Dragon Ball DAIMA",
+          "native": "ドラゴンボールDAIMA",
+          "userPreferred": "Dragon Ball DAIMA"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170083-gDNBp0B4VHsG.jpg",
+          "color": "#f1431a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170083-SYCCWWlq3hqF.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-10T21:30:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-16T02:01:26Z"
+  },
+  {
     "title": "Dungeon no Naka no Hito",
     "route": "dungeon-no-naka-no-hito",
     "romaji": "Dungeon no Naka no Hito",
@@ -728,7 +794,7 @@
     ],
     "imageVersionRoute": "anime/jpg/default/golden-kamuy-2nd-season-ova-248aedf1d8.jpg",
     "streams": {},
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
