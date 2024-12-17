@@ -1,158 +1,5 @@
 [
   {
-    "id": 171545,
-    "idMal": 57533,
-    "title": {
-      "romaji": "Youkai Gakkou no Sensei Hajimemashita!",
-      "english": "A Terrified Teacher at Ghoul School!",
-      "native": "妖怪学校の先生はじめました！",
-      "userPreferred": "A Terrified Teacher at Ghoul School!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171545-j9foxkHeXec7.jpg",
-      "color": "#f1c993"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1734444000
-        }
-      ]
-    }
-  },
-  {
-    "id": 168139,
-    "idMal": 56228,
-    "title": {
-      "romaji": "Rekishi ni Nokoru Akujo ni Naruzo",
-      "english": "I’ll Become a Villainess Who Goes Down in History",
-      "native": "歴史に残る悪女になるぞ",
-      "userPreferred": "I’ll Become a Villainess Who Goes Down in History"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168139-nGLXIdSksKCI.jpg",
-      "color": "#f1d643"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1734445800
-        }
-      ]
-    }
-  },
-  {
-    "id": 164172,
-    "idMal": 55071,
-    "title": {
-      "romaji": "Amagami-san Chi no Enmusubi",
-      "english": "Tying the Knot with an Amagami Sister",
-      "native": "甘神さんちの縁結び",
-      "userPreferred": "Tying the Knot with an Amagami Sister"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Ecchi",
-      "Romance"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164172-GY2aqItIuqtR.jpg",
-      "color": "#e47850"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164172-ceuofxXerReI.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1734447600
-        }
-      ]
-    }
-  },
-  {
-    "id": 182772,
-    "idMal": 59732,
-    "title": {
-      "romaji": "Pochars",
-      "english": null,
-      "native": "ぽちゃーズ",
-      "userPreferred": "Pochars"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182772-eTZgs36WyIfF.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182772-eTZgs36WyIfF.png",
-      "color": "#ffc935"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1734452700
-        }
-      ]
-    }
-  },
-  {
-    "id": 174070,
-    "idMal": 57945,
-    "title": {
-      "romaji": "Tasuuketsu",
-      "english": "Tasuketsu -Fate of the Majority-",
-      "native": "多数欠",
-      "userPreferred": "Tasuketsu -Fate of the Majority-"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Mystery",
-      "Thriller"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174070-mrec0spMuATz.jpg",
-      "color": "#1a5086"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1734454740
-        }
-      ]
-    }
-  },
-  {
     "id": 185539,
     "idMal": null,
     "title": {
@@ -2433,6 +2280,159 @@
         {
           "episode": 12,
           "airingAt": 1734971400
+        }
+      ]
+    }
+  },
+  {
+    "id": 171545,
+    "idMal": 57533,
+    "title": {
+      "romaji": "Youkai Gakkou no Sensei Hajimemashita!",
+      "english": "A Terrified Teacher at Ghoul School!",
+      "native": "妖怪学校の先生はじめました！",
+      "userPreferred": "A Terrified Teacher at Ghoul School!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171545-j9foxkHeXec7.jpg",
+      "color": "#f1c993"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1735048800
+        }
+      ]
+    }
+  },
+  {
+    "id": 168139,
+    "idMal": 56228,
+    "title": {
+      "romaji": "Rekishi ni Nokoru Akujo ni Naruzo",
+      "english": "I’ll Become a Villainess Who Goes Down in History",
+      "native": "歴史に残る悪女になるぞ",
+      "userPreferred": "I’ll Become a Villainess Who Goes Down in History"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168139-nGLXIdSksKCI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168139-nGLXIdSksKCI.jpg",
+      "color": "#f1d643"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1735050600
+        }
+      ]
+    }
+  },
+  {
+    "id": 164172,
+    "idMal": 55071,
+    "title": {
+      "romaji": "Amagami-san Chi no Enmusubi",
+      "english": "Tying the Knot with an Amagami Sister",
+      "native": "甘神さんちの縁結び",
+      "userPreferred": "Tying the Knot with an Amagami Sister"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164172-GY2aqItIuqtR.jpg",
+      "color": "#e47850"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164172-ceuofxXerReI.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1735052400
+        }
+      ]
+    }
+  },
+  {
+    "id": 182772,
+    "idMal": 59732,
+    "title": {
+      "romaji": "Pochars",
+      "english": null,
+      "native": "ぽちゃーズ",
+      "userPreferred": "Pochars"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182772-eTZgs36WyIfF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182772-eTZgs36WyIfF.png",
+      "color": "#ffc935"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1735057500
+        }
+      ]
+    }
+  },
+  {
+    "id": 174070,
+    "idMal": 57945,
+    "title": {
+      "romaji": "Tasuuketsu",
+      "english": "Tasuketsu -Fate of the Majority-",
+      "native": "多数欠",
+      "userPreferred": "Tasuketsu -Fate of the Majority-"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Thriller"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174070-mrec0spMuATz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174070-mrec0spMuATz.jpg",
+      "color": "#1a5086"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 24,
+          "airingAt": 1735059540
         }
       ]
     }
