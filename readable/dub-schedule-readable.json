@@ -1582,7 +1582,8 @@
     "delayedUntil": "2024-12-09T23:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-16T23:00:00Z",
-    "episodeNumber": 8,
+    "episodeNumber": 9,
+    "subtractedEpisodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -1630,7 +1631,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 8,
+              "airingAt": "2024-12-16T23:00:00Z"
+            },
+            {
               "episode": 9,
+              "airingAt": "2024-12-16T23:00:00Z"
+            },
+            {
+              "episode": 10,
               "airingAt": "2024-12-23T23:00:00Z"
             }
           ]
