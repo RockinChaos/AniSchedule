@@ -1825,6 +1825,7 @@
     },
     "format": "TV",
     "genres": [
+      "Action",
       "Mecha",
       "Sci-Fi"
     ],
@@ -2335,7 +2336,7 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1734962400
         }
       ]
@@ -3599,6 +3600,7 @@
     },
     "format": "TV",
     "genres": [
+      "Action",
       "Fantasy",
       "Mecha"
     ],
