@@ -635,7 +635,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -667,8 +667,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2024-12-18T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2024-12-25T17:00:00Z"
             }
           ]
         }
@@ -686,6 +686,7 @@
     "status": "Ongoing",
     "episodeDate": "2024-12-22T22:00:00Z",
     "episodeNumber": 22,
+    "episodes": 25,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -970,7 +971,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/26756"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1004,8 +1005,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2024-12-18T17:00:00Z"
+              "episode": 7,
+              "airingAt": "2024-12-25T17:00:00Z"
             }
           ]
         }
@@ -1256,7 +1257,7 @@
       "hidive": "www.hidive.com/tv/insomniacs-after-school",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1287,8 +1288,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2024-12-18T17:00:00Z"
+              "episode": 7,
+              "airingAt": "2024-12-25T17:00:00Z"
             }
           ]
         }
