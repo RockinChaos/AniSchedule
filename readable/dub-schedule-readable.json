@@ -502,7 +502,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G04K/delicos-nursery"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2161,7 +2161,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2193,8 +2193,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2024-12-18T22:00:00Z"
+              "episode": 10,
+              "airingAt": "2024-12-25T22:00:00Z"
             }
           ]
         }
