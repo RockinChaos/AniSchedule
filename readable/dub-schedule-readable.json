@@ -217,6 +217,7 @@
     "status": "Ongoing",
     "episodeDate": "2024-12-21T14:30:00Z",
     "episodeNumber": 8,
+    "episodes": 14,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -635,7 +636,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -766,7 +767,9 @@
       }
     ],
     "imageVersionRoute": "anime/jpg/default/golden-kamuy-2nd-season-ova-248aedf1d8.jpg",
-    "streams": {},
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/watch/GJWUQ77Z3/love-made-me-escape-from-prison--the-terrifying-battle-of-deadly-poison-a-massive-snake-deep-in-the-hokkaido-wilderness"
+    },
     "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
@@ -971,7 +974,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/26756"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1257,7 +1260,7 @@
       "hidive": "www.hidive.com/tv/insomniacs-after-school",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
