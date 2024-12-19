@@ -1,65 +1,5 @@
 [
   {
-    "id": 185538,
-    "idMal": null,
-    "title": {
-      "romaji": "Dokodemo Makibao",
-      "english": null,
-      "native": "どこでもマキバオー",
-      "userPreferred": "Dokodemo Makibao"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
-      "color": "#fec90d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1734559200
-        }
-      ]
-    }
-  },
-  {
-    "id": 182157,
-    "idMal": 60052,
-    "title": {
-      "romaji": "Sylvanian Families: Freya no Piece of Secret",
-      "english": null,
-      "native": "シルバニアファミリー　フレアのピース・オブ・シークレット",
-      "userPreferred": "Sylvanian Families: Freya no Piece of Secret"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182157-p4NxtoGFIxlO.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182157-p4NxtoGFIxlO.png",
-      "color": "#f1d65d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1734560520
-        }
-      ]
-    }
-  },
-  {
     "id": 184288,
     "idMal": 60295,
     "title": {
@@ -1795,6 +1735,36 @@
     }
   },
   {
+    "id": 185538,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao",
+      "english": null,
+      "native": "どこでもマキバオー",
+      "userPreferred": "Dokodemo Makibao"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1734904800
+        }
+      ]
+    }
+  },
+  {
     "id": 176191,
     "idMal": 58395,
     "title": {
@@ -2400,6 +2370,36 @@
         {
           "episode": 7,
           "airingAt": 1735142400
+        }
+      ]
+    }
+  },
+  {
+    "id": 182157,
+    "idMal": 60052,
+    "title": {
+      "romaji": "Sylvanian Families: Freya no Piece of Secret",
+      "english": null,
+      "native": "シルバニアファミリー　フレアのピース・オブ・シークレット",
+      "userPreferred": "Sylvanian Families: Freya no Piece of Secret"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182157-p4NxtoGFIxlO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182157-p4NxtoGFIxlO.png",
+      "color": "#f1d65d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1735165320
         }
       ]
     }
@@ -4659,7 +4659,7 @@
   },
   {
     "id": 185001,
-    "idMal": null,
+    "idMal": 60390,
     "title": {
       "romaji": "Shiranai Koto Shiritai no? The Animation",
       "english": null,
