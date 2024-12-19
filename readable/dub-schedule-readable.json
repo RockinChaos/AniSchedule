@@ -752,7 +752,7 @@
     "native": "ゴールデンカムイ 第二期 OVA",
     "delayedText": "Delayed - Partial Dub",
     "delayedFrom": "2024-12-19T23:30:00Z",
-    "delayedUntil": "0001-01-01T23:30:00Z",
+    "delayedUntil": "2030-01-01T23:30:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-19T23:30:00Z",
     "episodeNumber": 3,
@@ -771,6 +771,7 @@
       "crunchyroll": "www.crunchyroll.com/watch/GJWUQ77Z3/love-made-me-escape-from-prison--the-terrifying-battle-of-deadly-poison-a-massive-snake-deep-in-the-hokkaido-wilderness"
     },
     "airingStatus": "delayed-air",
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "parseObject": {
@@ -803,14 +804,14 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2024-12-19T23:30:00Z"
+              "airingAt": "2030-01-01T23:30:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2024-12-14T01:54:11Z"
   },
   {
@@ -1191,8 +1192,6 @@
       "anidb": "anidb.net/anime/16828",
       "crunchyroll": "www.crunchyroll.com/series/GVDHX8ZD0/our-last-crusade-or-the-rise-of-a-new-world"
     },
-    "verified": true,
-    "addedAt": "2024-07-01T00:24:47Z",
     "delayedIndefinitely": true,
     "unaired": false,
     "media": {
@@ -1232,7 +1231,9 @@
         }
       },
       "failed": false
-    }
+    },
+    "verified": true,
+    "addedAt": "2024-07-01T00:24:47Z"
   },
   {
     "title": "Kimi wa Houkago Insomnia",
