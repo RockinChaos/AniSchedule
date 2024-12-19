@@ -215,16 +215,16 @@ class AnilistClient {
             if (!res?.data?.Page.pageInfo.hasNextPage) break
             currentPage++
         }
-        const data = new Promise((resolve) => {
-            resolve({
-                data: {
-                    Page: {
-                        media: fetchedIDS
-                    }
+        return {
+            data: {
+                Page: {
+                    pageInfo: {
+                        hasNextPage: false
+                    },
+                    media: fetchedIDS
                 }
-            })
-        })
-        return await data
+            }
+        };
     }
 
     /**
