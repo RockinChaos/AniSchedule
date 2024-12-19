@@ -1953,7 +1953,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2278,7 +2278,8 @@
     "delayedUntil": "2024-12-12T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-19T22:30:00Z",
-    "episodeNumber": 10,
+    "episodeNumber": 11,
+    "subtractedEpisodeNumber": 10,
     "episodes": 26,
     "lengthMin": 24,
     "donghua": false,
@@ -2294,7 +2295,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2329,6 +2330,14 @@
             {
               "episode": 10,
               "airingAt": "2024-12-19T22:30:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2024-12-19T22:30:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2024-12-26T22:30:00Z"
             }
           ]
         }
