@@ -207,20 +207,29 @@ export async function fetchDubSchedule() {
     })
 
     // Iterate over combinedResults to verify against the schedule
-    combinedResults.forEach((entry) => {
-        const scheduleMatch = currentSchedule?.find(scheduledItem => scheduledItem.route === entry.route)
-
+    combinedResults.forEach((entry, index) => {
+        const scheduleMatch = currentSchedule?.find(scheduledItem => scheduledItem.route === combinedResults[index].route)
+        const { verified, addedAt, ...details } = combinedResults[index]
         if (scheduleMatch) {
-            entry.verified = scheduleMatch.verified || false
-            entry.addedAt = scheduleMatch.addedAt || past(new Date(), 0, false)
-            if (!entry.verified && (new Date(new Date(entry.addedAt).getTime() + 14 * 24 * 60 * 60 * 1000) <= new Date())) {
-                entry.verified = true
-                entry.addedAt = scheduleMatch.addedAt
-                console.log(`Verified ${entry.media.media.title.userPreferred} as it has been on the timetables for a full two weeks, if it is removed before the final episode then its a bug or an indefinite delay.`)
+            combinedResults[index] = {
+                ...details,
+                verified: combinedResults[index].verified || scheduleMatch.verified || false,
+                addedAt: scheduleMatch.addedAt || (combinedResults[index].unaired ? past(new Date(combinedResults[index].episodeDate), 0, false) : past(new Date(), 0, false))
+            }
+            if (!combinedResults[index].verified && (new Date(new Date(combinedResults[index].addedAt).getTime() + 14 * 24 * 60 * 60 * 1000) <= new Date())) {
+                combinedResults[index] = {
+                    ...details,
+                    verified: true,
+                    addedAt: scheduleMatch.addedAt
+                }
+                console.log(`Verified ${combinedResults[index].media.media.title.userPreferred} as it has been on the timetables for a full two weeks, if it is removed before the final episode then its a bug or an indefinite delay.`)
             }
         } else {
-            entry.verified = false
-            entry.addedAt = past(new Date(), 0, false)
+            combinedResults[index] = {
+                ...details,
+                verified: !!verified,
+                addedAt: combinedResults[index].unaired ? past(new Date(combinedResults[index].episodeDate), 0, false) : past(new Date(), 0, false)
+            }
         }
     })
 
