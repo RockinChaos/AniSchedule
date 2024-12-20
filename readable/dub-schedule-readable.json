@@ -365,7 +365,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -396,8 +396,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2024-12-20T23:01:00Z"
+              "episode": 10,
+              "airingAt": "2024-12-27T23:01:00Z"
             }
           ]
         }
@@ -750,10 +750,10 @@
     "title": "Fate/stay night [Heaven's Feel] II. lost butterfly",
     "route": "fate-stay-night-heaven-s-feel-ii-lost-butterfly",
     "native": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
-    "delayedFrom": "0001-01-01T01:00:00Z",
-    "delayedUntil": "0001-01-01T01:00:00Z",
+    "delayedFrom": "0001-01-01T01:02:00Z",
+    "delayedUntil": "0001-01-01T01:02:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-20T01:00:00Z",
+    "episodeDate": "2024-12-20T01:02:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 120,
@@ -805,7 +805,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-12-20T01:00:00Z"
+              "airingAt": "2024-12-20T01:02:00Z"
             }
           ]
         }
@@ -820,10 +820,10 @@
     "route": "fate-stay-night-movie-heavens-feel-i-presage-flower",
     "english": "Fate/stay night: Heaven's Feel - I. Presage Flower",
     "native": "劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」",
-    "delayedFrom": "0001-01-01T01:00:00Z",
-    "delayedUntil": "0001-01-01T01:00:00Z",
+    "delayedFrom": "0001-01-01T01:01:00Z",
+    "delayedUntil": "0001-01-01T01:01:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-20T01:00:00Z",
+    "episodeDate": "2024-12-20T01:01:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 120,
@@ -872,7 +872,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-12-20T01:00:00Z"
+              "airingAt": "2024-12-20T01:01:00Z"
             }
           ]
         }
@@ -886,10 +886,10 @@
     "title": "Fate/Stay Night: Heaven's Feel III. Spring Song",
     "route": "fate-stay-night-heavens-feel-3-spring-song",
     "native": "劇場版 Fate/stay night [Heaven`s Feel]",
-    "delayedFrom": "0001-01-01T01:00:00Z",
-    "delayedUntil": "0001-01-01T01:00:00Z",
+    "delayedFrom": "0001-01-01T01:03:00Z",
+    "delayedUntil": "0001-01-01T01:03:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-20T01:00:00Z",
+    "episodeDate": "2024-12-20T01:03:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 122,
@@ -939,7 +939,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2024-12-20T01:00:00Z"
+              "airingAt": "2024-12-20T01:03:00Z"
             }
           ]
         }
@@ -2432,7 +2432,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
