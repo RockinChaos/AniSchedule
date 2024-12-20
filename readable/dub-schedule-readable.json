@@ -747,6 +747,209 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+    "route": "fate-stay-night-heaven-s-feel-ii-lost-butterfly",
+    "native": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-20T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 120,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/fate-stay-night-heaven-s-feel-ii-lost-butterfly-21737599d2.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81169358"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "Fate/stay night[Heaven's Feel] ⅠⅠ lost butterfly",
+        "file_name": "Fate/stay night[Heaven's Feel] ⅠⅠ lost butterfly"
+      },
+      "media": {
+        "id": 21718,
+        "idMal": 33049,
+        "title": {
+          "romaji": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+          "english": "Fate/stay night [Heaven's Feel] II. lost butterfly",
+          "native": "Fate/stay night[Heaven's Feel] ⅠⅠ.lost butterfly",
+          "userPreferred": "Fate/stay night [Heaven's Feel] II. lost butterfly"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Psychological",
+          "Romance",
+          "Supernatural",
+          "Thriller"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21718-Hjj26Sapx1bd.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21718-Hjj26Sapx1bd.jpg",
+          "color": "#f15093"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21718-7NXra2yezc9T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-20T01:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-20T22:22:06Z"
+  },
+  {
+    "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+    "route": "fate-stay-night-movie-heavens-feel-i-presage-flower",
+    "english": "Fate/stay night: Heaven's Feel - I. Presage Flower",
+    "native": "劇場版「Fate/stay night [Heaven's Feel] Ⅰ.presage flower」",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-20T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 120,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/fate-stay-night-movie-heavens-feel-i-presage-flower-7fb2f63b0b.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81021838"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "劇場版",
+        "file_name": "劇場版"
+      },
+      "media": {
+        "id": 1723,
+        "idMal": 1723,
+        "title": {
+          "romaji": "Clannad Movie",
+          "english": "Clannad: The Motion Picture",
+          "native": "劇場版 クラナド",
+          "userPreferred": "Clannad: The Motion Picture"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1723-PzMdQPvfcxxA.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1723-PzMdQPvfcxxA.png",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1723-elyPZO1iWjgS.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-20T01:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-20T22:22:06Z"
+  },
+  {
+    "title": "Fate/Stay Night: Heaven's Feel III. Spring Song",
+    "route": "fate-stay-night-heavens-feel-3-spring-song",
+    "native": "劇場版 Fate/stay night [Heaven`s Feel]",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-20T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 122,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/fate-stay-night-heavens-feel-3-spring-song-5f68c9f74f.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81399559"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "劇場版 Fate/stay night",
+        "file_name": "劇場版 Fate/stay night"
+      },
+      "media": {
+        "id": 6922,
+        "idMal": 6922,
+        "title": {
+          "romaji": "Fate/stay night Movie: UNLIMITED BLADE WORKS",
+          "english": "Fate/stay night: Unlimited Blade Works (Movie)",
+          "native": "劇場版 Fate/stay night UNLIMITED BLADE WORKS",
+          "userPreferred": "Fate/stay night: Unlimited Blade Works (Movie)"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6922-g3hsIYOWGXL8.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6922-g3hsIYOWGXL8.jpg",
+          "color": "#e47835"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/6922-md365Zwl4Y06.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2024-12-20T01:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-20T22:22:06Z"
+  },
+  {
     "title": "Golden Kamuy 2nd Season OVA",
     "route": "golden-kamuy-2nd-season-ova",
     "native": "ゴールデンカムイ 第二期 OVA",
@@ -2209,10 +2412,11 @@
     "title": "Sword Art Online Alternative: Gun Gale Online 2",
     "route": "sword-art-online-alternative-gun-gale-online-2",
     "native": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-20T21:00:00Z",
+    "episodeDate": "2024-12-20T22:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
@@ -2260,7 +2464,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2024-12-27T21:00:00Z"
+              "airingAt": "2024-12-27T22:00:00Z"
             }
           ]
         }
