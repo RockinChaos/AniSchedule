@@ -1,36 +1,5 @@
 [
   {
-    "id": 165159,
-    "idMal": 56566,
-    "title": {
-      "romaji": "BEYBLADE X",
-      "english": "BEYBLADE X",
-      "native": "BEYBLADE X",
-      "userPreferred": "BEYBLADE X"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
-      "color": "#28aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 61,
-          "airingAt": 1734686700
-        }
-      ]
-    }
-  },
-  {
     "id": 171689,
     "idMal": 57562,
     "title": {
@@ -2097,6 +2066,37 @@
         {
           "episode": 13,
           "airingAt": 1735228560
+        }
+      ]
+    }
+  },
+  {
+    "id": 165159,
+    "idMal": 56566,
+    "title": {
+      "romaji": "BEYBLADE X",
+      "english": "BEYBLADE X",
+      "native": "BEYBLADE X",
+      "userPreferred": "BEYBLADE X"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 62,
+          "airingAt": 1735291500
         }
       ]
     }
