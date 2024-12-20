@@ -1920,37 +1920,6 @@
     }
   },
   {
-    "id": 170942,
-    "idMal": 57181,
-    "title": {
-      "romaji": "Ao no Hako",
-      "english": "Blue Box",
-      "native": "アオのハコ",
-      "userPreferred": "Blue Box"
-    },
-    "format": "ONA",
-    "genres": [
-      "Romance",
-      "Slice of Life",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170942-B77wUSM1jQTu.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1735224960
-        }
-      ]
-    }
-  },
-  {
     "id": 180804,
     "idMal": null,
     "title": {
@@ -2443,6 +2412,37 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 170942,
+    "idMal": 57181,
+    "title": {
+      "romaji": "Ao no Hako",
+      "english": "Blue Box",
+      "native": "アオのハコ",
+      "userPreferred": "Blue Box"
+    },
+    "format": "ONA",
+    "genres": [
+      "Romance",
+      "Slice of Life",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170942-B77wUSM1jQTu.jpg",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1735829760
+        }
+      ]
+    }
   },
   {
     "id": 178462,
