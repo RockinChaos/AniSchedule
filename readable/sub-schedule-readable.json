@@ -1,34 +1,5 @@
 [
   {
-    "id": 183473,
-    "idMal": 60080,
-    "title": {
-      "romaji": "Nui Story 2",
-      "english": null,
-      "native": "ぬいストーリー2",
-      "userPreferred": "Nui Story 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183473-jZR2gEFZQhVe.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183473-jZR2gEFZQhVe.png",
-      "color": "#43aef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1734750000
-        }
-      ]
-    }
-  },
-  {
     "id": 169258,
     "idMal": 56647,
     "title": {
@@ -1804,6 +1775,35 @@
     }
   },
   {
+    "id": 183473,
+    "idMal": 60080,
+    "title": {
+      "romaji": "Nui Story 2",
+      "english": null,
+      "native": "ぬいストーリー2",
+      "userPreferred": "Nui Story 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183473-jZR2gEFZQhVe.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183473-jZR2gEFZQhVe.png",
+      "color": "#43aef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1735354800
+        }
+      ]
+    }
+  },
+  {
     "id": 182434,
     "idMal": 60029,
     "title": {
@@ -3201,7 +3201,7 @@
       "native": "SAKAMOTO DAYS",
       "userPreferred": "SAKAMOTO DAYS"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Comedy"
