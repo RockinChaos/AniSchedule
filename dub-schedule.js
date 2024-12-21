@@ -163,9 +163,9 @@ export async function fetchDubSchedule() {
         let item
 
         if (!media) { // Resolve failed routes
-            console.log(`Failed to resolve, trying alternative title ${parseObj?.anime_title}`)
+            console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
             item = airing.find(i => i.route === parseObj.anime_title)
-            const fallbackTitles = await AnimeResolver.findAndCacheTitle([item.romaji, item.native, item.english, item.title].filter(Boolean))
+            const fallbackTitles = await AnimeResolver.findAndCacheTitle([item.romaji, item.english, item.title, item.native].filter(Boolean))
             for (const parseObjAlt of fallbackTitles) {
                 const mediaAlt = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObjAlt)]
                 if (mediaAlt) {
