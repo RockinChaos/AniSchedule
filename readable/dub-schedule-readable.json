@@ -767,6 +767,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/fate-stay-night-heaven-s-feel-ii-lost-butterfly-21737599d2.jpg",
     "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM39V0/fatestay-night-heavens-feel",
+      "hulu": "www.hulu.com/movie/d231b733-3672-4cf6-8ed5-958b413b2a29",
       "netflix": "www.netflix.com/title/81169358"
     },
     "airingStatus": "aired",
@@ -837,6 +839,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/fate-stay-night-movie-heavens-feel-i-presage-flower-7fb2f63b0b.jpg",
     "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM39V0/fatestay-night-heavens-feel",
+      "hulu": "www.hulu.com/movie/6ea68b47-115c-4494-ad89-5dc4880c51c2",
       "netflix": "www.netflix.com/title/81021838"
     },
     "airingStatus": "aired",
@@ -904,6 +908,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/fate-stay-night-heavens-feel-3-spring-song-5f68c9f74f.jpg",
     "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM39V0/fatestay-night-heavens-feel",
+      "hulu": "www.hulu.com/movie/8fedeb8a-8c68-44da-bf67-39c603c7d5ee",
       "netflix": "www.netflix.com/title/81399559"
     },
     "airingStatus": "aired",
@@ -1790,6 +1796,7 @@
     "status": "Ongoing",
     "episodeDate": "2024-12-21T18:30:00Z",
     "episodeNumber": 11,
+    "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
