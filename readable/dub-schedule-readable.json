@@ -1299,59 +1299,10 @@
   {
     "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
     "route": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-zoku-hen",
-    "dubPremier": "2024-07-24T00:00:00Z",
-    "month": "July",
-    "year": 2024,
-    "season": {
-      "title": "Summer 2024",
-      "year": "2024",
-      "season": "Summer",
-      "route": "summer-2024"
-    },
     "delayedTimetable": "Delayed",
     "delayedFrom": "2024-08-22T21:30:00Z",
     "delayedUntil": "2030-01-01T21:30:00Z",
-    "delayedDesc": "Episode 5 and further has been postponed indefinitely due to production issues.",
-    "dubTime": "2024-07-25T21:30:00Z",
-    "description": "The second season of <span class=\"italics\">Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen</span><br><br>Iska guards Sisbell, sparking Alice&#39;s jealousy. Amid a conspiracy, can they thwart personal disputes and war?<br><br>(Source: Crunchyroll News)",
-    "genres": [
-      {
-        "name": "Action",
-        "route": "action"
-      },
-      {
-        "name": "Fantasy",
-        "route": "fantasy"
-      },
-      {
-        "name": "Magic",
-        "route": "magic"
-      },
-      {
-        "name": "Military",
-        "route": "military"
-      },
-      {
-        "name": "Romance",
-        "route": "romance"
-      }
-    ],
-    "studios": [
-      {
-        "name": "SILVER LINK.",
-        "route": "silver-link"
-      },
-      {
-        "name": "Studio Palette",
-        "route": "studio-palette"
-      }
-    ],
-    "sources": [
-      {
-        "name": "Light Novel",
-        "route": "light-novel"
-      }
-    ],
+    "delayedText": "Production Suspended",
     "mediaTypes": [
       {
         "name": "TV",
@@ -1360,44 +1311,11 @@
     ],
     "airType": "dub",
     "episodeDate": "2024-08-22T21:30:00Z",
-    "episodeNumber": 4,
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "status": "Delayed",
     "imageVersionRoute": "anime/jpg/default/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-zoku-hen-516668a41d.jpg",
-    "stats": {
-      "averageScore": 69.51820373535156,
-      "ratingCount": 2,
-      "trackedCount": 673,
-      "trackedRating": 357,
-      "colorLightMode": "567039",
-      "colorDarkMode": "A7D96F"
-    },
-    "names": {
-      "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
-      "english": "Our Last Crusade or the Rise of a New World Season 2",
-      "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ",
-      "abbreviation": "Kimisen 2",
-      "synonyms": [
-        "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen 2nd Season",
-        "Our Last Crusade or the Rise of a New World 2nd Season",
-        "The Last Battlefield Between You and I, or Perhaps the Beginning of the World's Holy War 2"
-      ]
-    },
-    "relations": {
-      "prequels": [
-        "our-last-crusade-or-the-rise-of-a-new-world"
-      ]
-    },
-    "websites": {
-      "official": "kimisentv.com/",
-      "mal": "myanimelist.net/anime/49981",
-      "aniList": "anilist.co/anime/139825",
-      "kitsu": "kitsu.io/anime/45272",
-      "animePlanet": "www.anime-planet.com/anime/our-last-crusade-or-the-rise-of-a-new-world-2nd-season",
-      "anidb": "anidb.net/anime/16828",
-      "crunchyroll": "www.crunchyroll.com/series/GVDHX8ZD0/our-last-crusade-or-the-rise-of-a-new-world"
-    },
     "delayedIndefinitely": true,
     "unaired": false,
     "media": {
@@ -1430,7 +1348,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
+              "episode": 5,
               "airingAt": "2030-01-01T21:30:00Z"
             }
           ]
