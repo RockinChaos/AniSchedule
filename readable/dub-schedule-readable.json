@@ -93,7 +93,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -125,8 +125,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2024-12-21T23:00:00Z"
+              "episode": 9,
+              "airingAt": "2024-12-28T23:00:00Z"
             }
           ]
         }
@@ -1527,7 +1527,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1561,8 +1561,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2024-12-21T22:30:00Z"
+              "episode": 10,
+              "airingAt": "2024-12-28T22:30:00Z"
             }
           ]
         }
@@ -1582,7 +1582,8 @@
     "delayedUntil": "2024-12-07T21:30:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-21T21:30:00Z",
-    "episodeNumber": 10,
+    "episodeNumber": 11,
+    "subtractedEpisodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1631,7 +1632,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 10,
+              "airingAt": "2024-12-21T21:30:00Z"
+            },
+            {
               "episode": 11,
+              "airingAt": "2024-12-21T21:30:00Z"
+            },
+            {
+              "episode": 12,
               "airingAt": "2024-12-28T21:30:00Z"
             }
           ]
@@ -1795,7 +1804,7 @@
     "delayedUntil": "0001-01-01T18:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2024-12-21T18:30:00Z",
-    "episodeNumber": 11,
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -1841,7 +1850,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 13,
               "airingAt": "2024-12-28T18:30:00Z"
             }
           ]
