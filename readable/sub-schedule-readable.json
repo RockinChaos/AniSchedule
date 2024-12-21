@@ -1,61 +1,5 @@
 [
   {
-    "id": 169258,
-    "idMal": 56647,
-    "title": {
-      "romaji": "Ao no Miburo",
-      "english": "Blue Miburo",
-      "native": "青のミブロ",
-      "userPreferred": "Blue Miburo"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg",
-      "color": "#50aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1734769800
-        }
-      ]
-    }
-  },
-  {
-    "id": 174913,
-    "idMal": 58137,
-    "title": {
-      "romaji": "Kagaku×Bouken Survival!",
-      "english": null,
-      "native": "科学×冒険サバイバル！",
-      "userPreferred": "Kagaku×Bouken Survival!"
-    },
-    "format": "TV",
-    "genres": [],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
-      "color": "#1aa1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1734773160
-        }
-      ]
-    }
-  },
-  {
     "id": 169755,
     "idMal": 56784,
     "title": {
@@ -1651,38 +1595,6 @@
     }
   },
   {
-    "id": 171637,
-    "idMal": 57554,
-    "title": {
-      "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-      "english": "Rurouni Kenshin -Kyoto Disturbance-",
-      "native": "るろうに剣心 －明治剣客浪漫譚－京都動乱",
-      "userPreferred": "Rurouni Kenshin -Kyoto Disturbance-"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b171637-h17RbEFtR0rQ.png",
-      "color": "#e44328"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1735228560
-        }
-      ]
-    }
-  },
-  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -1799,6 +1711,62 @@
         {
           "episode": 11,
           "airingAt": 1735354800
+        }
+      ]
+    }
+  },
+  {
+    "id": 169258,
+    "idMal": 56647,
+    "title": {
+      "romaji": "Ao no Miburo",
+      "english": "Blue Miburo",
+      "native": "青のミブロ",
+      "userPreferred": "Blue Miburo"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg",
+      "color": "#50aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1735374600
+        }
+      ]
+    }
+  },
+  {
+    "id": 174913,
+    "idMal": 58137,
+    "title": {
+      "romaji": "Kagaku×Bouken Survival!",
+      "english": null,
+      "native": "科学×冒険サバイバル！",
+      "userPreferred": "Kagaku×Bouken Survival!"
+    },
+    "format": "TV",
+    "genres": [],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
+      "color": "#1aa1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1735377960
         }
       ]
     }
@@ -2207,6 +2175,36 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 178729,
+    "idMal": 59175,
+    "title": {
+      "romaji": "Ooi! Tonbo 2nd Season",
+      "english": "Tonbo! Season 2",
+      "native": "オーイ! とんぼ 第2期",
+      "userPreferred": "Tonbo! Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178729-SkLnIC30dvLB.jpg",
+      "color": "#f1860d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1735952400
+        }
+      ]
+    }
   },
   {
     "id": 174654,
@@ -2904,6 +2902,38 @@
     "unaired": true
   },
   {
+    "id": 171637,
+    "idMal": 57554,
+    "title": {
+      "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
+      "english": "Rurouni Kenshin -Kyoto Disturbance-",
+      "native": "るろうに剣心 －明治剣客浪漫譚－京都動乱",
+      "userPreferred": "Rurouni Kenshin -Kyoto Disturbance-"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b171637-h17RbEFtR0rQ.png",
+      "color": "#e44328"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1736438160
+        }
+      ]
+    }
+  },
+  {
     "id": 169315,
     "idMal": 56662,
     "title": {
@@ -3077,9 +3107,9 @@
       "Fantasy"
     ],
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-EkqPjDqYjCiN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167143-EkqPjDqYjCiN.jpg",
-      "color": "#ffae35"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167143-SoFo5kOvlkbO.jpg",
+      "color": "#ffbb43"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167143-YGnuSeaD90mT.jpg",
@@ -4020,6 +4050,39 @@
     },
     "isAdult": true,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185506-qYsK2nLRalpJ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1740668400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185714,
+    "idMal": null,
+    "title": {
+      "romaji": "Aldnoah.Zero (Re+)",
+      "english": null,
+      "native": "アルドノア・ゼロ（Re+）",
+      "userPreferred": "Aldnoah.Zero (Re+)"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185714-ALbL559oK2Q3.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185714-ALbL559oK2Q3.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
