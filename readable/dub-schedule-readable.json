@@ -702,7 +702,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GG5H5XQED/fairy-tail-100-years-quest",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl23uIjbwVKoUA3dbo6FiGoX"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -735,8 +735,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 22,
-              "airingAt": "2024-12-22T22:00:00Z"
+              "episode": 23,
+              "airingAt": "2024-12-29T22:00:00Z"
             }
           ]
         }
@@ -1257,7 +1257,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6J0G49DR/tower-of-god"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1674,7 +1674,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GEXH3W2W7/mf-ghost"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1705,8 +1705,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2024-12-22T21:30:00Z"
+              "episode": 11,
+              "airingAt": "2024-12-29T21:30:00Z"
             }
           ]
         }
