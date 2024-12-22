@@ -93,7 +93,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1459,7 +1459,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1491,8 +1491,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2024-12-21T23:30:00Z"
+              "episode": 11,
+              "airingAt": "2024-12-28T23:30:00Z"
             }
           ]
         }
