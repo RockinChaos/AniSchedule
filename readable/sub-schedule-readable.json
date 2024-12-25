@@ -1,64 +1,5 @@
 [
   {
-    "id": 185539,
-    "idMal": null,
-    "title": {
-      "romaji": "Alps no Roujin Heidi no Ojii-san",
-      "english": null,
-      "native": "アルプスの老人ハイジのおじいさん",
-      "userPreferred": "Alps no Roujin Heidi no Ojii-san"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185539-57P8xM9whe1b.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185539-57P8xM9whe1b.png",
-      "color": "#e4bb28"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1735077600
-        }
-      ]
-    }
-  },
-  {
-    "id": 175869,
-    "idMal": 58351,
-    "title": {
-      "romaji": "Chibi Godzilla no Gyakushuu 2",
-      "english": "Chibi Godzilla Raids Again Season 2",
-      "native": "ちびゴジラの逆襲２",
-      "userPreferred": "Chibi Godzilla Raids Again Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175869-SpbuxMwNGGZc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175869-SpbuxMwNGGZc.jpg",
-      "color": "#f1c90d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175869-PZpl930JZQD7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 39,
-          "airingAt": 1735078020
-        }
-      ]
-    }
-  },
-  {
     "id": 175137,
     "idMal": 58199,
     "title": {
@@ -1100,6 +1041,36 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 175869,
+    "idMal": 58351,
+    "title": {
+      "romaji": "Chibi Godzilla no Gyakushuu 2",
+      "english": "Chibi Godzilla Raids Again Season 2",
+      "native": "ちびゴジラの逆襲２",
+      "userPreferred": "Chibi Godzilla Raids Again Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175869-SpbuxMwNGGZc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175869-SpbuxMwNGGZc.jpg",
+      "color": "#f1c90d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175869-PZpl930JZQD7.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 40,
+          "airingAt": 1735682820
+        }
+      ]
+    }
   },
   {
     "id": 177506,
@@ -2152,6 +2123,35 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 185539,
+    "idMal": null,
+    "title": {
+      "romaji": "Alps no Roujin Heidi no Ojii-san",
+      "english": null,
+      "native": "アルプスの老人ハイジのおじいさん",
+      "userPreferred": "Alps no Roujin Heidi no Ojii-san"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185539-57P8xM9whe1b.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185539-57P8xM9whe1b.png",
+      "color": "#e4bb28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1736287200
+        }
+      ]
+    }
   },
   {
     "id": 178495,
@@ -3725,7 +3725,7 @@
   },
   {
     "id": 185643,
-    "idMal": null,
+    "idMal": 60613,
     "title": {
       "romaji": "Oshiri Tantei: Star and Moon",
       "english": null,
