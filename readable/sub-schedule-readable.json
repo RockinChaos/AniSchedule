@@ -1,35 +1,5 @@
 [
   {
-    "id": 175137,
-    "idMal": 58199,
-    "title": {
-      "romaji": "Yoru wa Neko to Issho Season 3",
-      "english": "Nights with a Cat Season 3",
-      "native": "夜は猫といっしょSeason3",
-      "userPreferred": "Nights with a Cat Season 3"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175137-dS5txKBSuiR1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175137-dS5txKBSuiR1.png",
-      "color": "#f1c950"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1735124400
-        }
-      ]
-    }
-  },
-  {
     "id": 177603,
     "idMal": 58827,
     "title": {
@@ -979,38 +949,6 @@
     }
   },
   {
-    "id": 164172,
-    "idMal": 55071,
-    "title": {
-      "romaji": "Amagami-san Chi no Enmusubi",
-      "english": "Tying the Knot with an Amagami Sister",
-      "native": "甘神さんちの縁結び",
-      "userPreferred": "Tying the Knot with an Amagami Sister"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Ecchi",
-      "Romance"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164172-GY2aqItIuqtR.jpg",
-      "color": "#e47850"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164172-ceuofxXerReI.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1735657200
-        }
-      ]
-    }
-  },
-  {
     "id": 178100,
     "idMal": 59002,
     "title": {
@@ -1068,6 +1006,36 @@
         {
           "episode": 40,
           "airingAt": 1735682820
+        }
+      ]
+    }
+  },
+  {
+    "id": 175137,
+    "idMal": 58199,
+    "title": {
+      "romaji": "Yoru wa Neko to Issho Season 3",
+      "english": "Nights with a Cat Season 3",
+      "native": "夜は猫といっしょSeason3",
+      "userPreferred": "Nights with a Cat Season 3"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175137-dS5txKBSuiR1.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175137-dS5txKBSuiR1.png",
+      "color": "#f1c950"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1735729200
         }
       ]
     }
@@ -3049,6 +3017,38 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 164172,
+    "idMal": 55071,
+    "title": {
+      "romaji": "Amagami-san Chi no Enmusubi",
+      "english": "Tying the Knot with an Amagami Sister",
+      "native": "甘神さんちの縁結び",
+      "userPreferred": "Tying the Knot with an Amagami Sister"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164172-GY2aqItIuqtR.jpg",
+      "color": "#e47850"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164172-ceuofxXerReI.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 14,
+          "airingAt": 1736866800
+        }
+      ]
+    }
   },
   {
     "id": 179878,
