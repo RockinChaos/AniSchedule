@@ -5,7 +5,7 @@
     "romaji": "Amagami-san Chi no Enmusubi",
     "english": "Tying the Knot with an Amagami Sister",
     "native": "甘神さんちの縁結び",
-    "delayedText": "Break",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-24T21:00:00Z",
     "delayedUntil": "2024-12-31T21:00:00Z",
     "status": "Ongoing",
@@ -1783,8 +1783,9 @@
     "romaji": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
     "english": "The Prince of Tennis: U-17 World Cup Semifinal",
     "native": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
-    "delayedFrom": "2024-11-06T22:00:00Z",
-    "delayedUntil": "2024-11-13T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-25T22:00:00Z",
+    "delayedUntil": "2025-01-01T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-25T22:00:00Z",
     "episodeNumber": 10,
@@ -1802,7 +1803,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1834,7 +1835,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-01-01T22:00:00Z"
             }
           ]
