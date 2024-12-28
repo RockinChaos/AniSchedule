@@ -370,30 +370,31 @@
     "unaired": false,
     "media": {
       "parseObject": {
-        "anime_title": "cardfight-vanguard-overdress-season-7",
-        "file_name": "cardfight-vanguard-overdress-season-7"
+        "anime_title": "Cardfight!! Vanguard: Divinez S2",
+        "file_name": "Cardfight!! Vanguard: Divinez S2"
       },
       "media": {
-        "id": 128827,
-        "idMal": 48862,
+        "id": 165681,
+        "idMal": 54143,
         "title": {
-          "romaji": "Cardfight!! Vanguard: overDress Season 2",
-          "english": "Cardfight!! Vanguard overDress Season 2",
-          "native": "カードファイト!! ヴァンガード overDress Season2",
-          "userPreferred": "Cardfight!! Vanguard overDress Season 2"
+          "romaji": "Cardfight!! Vanguard: Divinez Season 2",
+          "english": "CARDFIGHT!! VANGUARD Divinez Season 2",
+          "native": "カードファイト!! ヴァンガード Divinez Season2",
+          "userPreferred": "CARDFIGHT!! VANGUARD Divinez Season 2"
         },
         "format": "TV",
         "genres": [
           "Action",
-          "Adventure"
+          "Adventure",
+          "Fantasy"
         ],
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128827-bUkrxvxollxg.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128827-bUkrxvxollxg.jpg",
-          "color": null
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165681-L45Ld92GVira.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165681-L45Ld92GVira.png",
+          "color": "#e4c95d"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/128827-Pp1gPKkMVlwG.jpg",
+        "bannerImage": null,
         "airingSchedule": {
           "nodes": [
             {
