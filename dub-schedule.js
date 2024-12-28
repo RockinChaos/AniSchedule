@@ -313,7 +313,7 @@ export async function updateDubFeed() {
             let zeroIndexDate
             mediaEpisodes.forEach((episode, index) => {
                 const prevDate = episode.episode.airedAt
-                const predictDate = new Date(prevDate).setHours(new Date(entry.episodeDate).getHours())
+                const predictDate = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate)))
                 if (index !== 0) correctedDate = correctedDate - weeksDifference(prevDate, originalAiredAt[index - 1]) + (usePredict && index === 1 ? 1 : 0)
                 else {
                     zeroIndexDate = episode.episode.aired === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber))  ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
