@@ -1,4 +1,5 @@
 import _anitomyscript from 'anitomyscript'
+import Fuse from 'fuse.js'
 import path from 'path'
 import fs from 'fs'
 
@@ -18,6 +19,24 @@ globalThis.require = (module) => {
     throw new Error(`Module ${module} not found`)
 }
 
+/**
+ * @param {Object} nest The nested Object to use for looking up the keys.
+ * @param {String} phrase The key phrase to look for.
+ * @param {Array} keys Add the specified number of weeks regardless of the episodeDate having past.
+ * @param {number} threshold The allowed tolerance, typically for misspellings.
+ * @returns {boolean} If the target phrase has been found.
+ */
+export function matchKeys(nest, phrase, keys, threshold = 0.4) {
+    if (!phrase) return true
+    if (new Fuse([nest], { includeScore: true, threshold, keys: keys }).search(phrase).length > 0) return true
+    const fuse = new Fuse([phrase], { includeScore: true, threshold, })
+    return keys.some((key) => {
+        const valueToMatch = nest[key]
+        if (valueToMatch) return fuse.search(valueToMatch).length > 0
+        return false
+    })
+}
+
 // utility method for correcting anitomyscript woes for what's needed
 export async function anitomyscript (...args) {
     // @ts-ignore
@@ -27,11 +46,16 @@ export async function anitomyscript (...args) {
 
     for (const obj of parseObjs) {
         obj.anime_title ??= ''
-        const seasonMatch = obj.anime_title.match(/S(\d{2})E(\d{2})/)
+        const seasonMatch = obj.anime_title.match(/S(\d{2})E(\d{2})|season-(\d+)/i)
         if (seasonMatch) {
-            obj.anime_season = seasonMatch[1]
-            obj.episode_number = seasonMatch[2]
-            obj.anime_title = obj.anime_title.replace(/S(\d{2})E(\d{2})/, '')
+            if (seasonMatch[1] && seasonMatch[2]) {
+                obj.anime_season = seasonMatch[1]
+                obj.episode_number = seasonMatch[2]
+                obj.anime_title = obj.anime_title.replace(/S(\d{2})E(\d{2})/, '')
+            } else if (seasonMatch[3]) {
+                obj.anime_season = seasonMatch[3]
+                obj.anime_title = obj.anime_title.replace(/season-\d+/i, '')
+            }
         } else if (Array.isArray(obj.anime_season)) {
             obj.anime_season = obj.anime_season[0]
         }

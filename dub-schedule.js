@@ -53,6 +53,7 @@ export async function fetchDubSchedule() {
 
     const { writeFile } = await import('node:fs/promises')
     const { writable } =  await import('simple-store-svelte')
+    const { matchKeys } = await import('./utils/anime.js')
     const { default: AnimeResolver } = await import('./utils/animeresolver.js')
 
     const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
@@ -159,28 +160,31 @@ export async function fetchDubSchedule() {
 
     for (const parseObj of parseObjs) {
         const media = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObj)]
-        console.log(`Resolving route ${parseObj?.anime_title} ${media?.title?.userPreferred}`)
+        console.log(`Resolving route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
         let item
 
         if (!media) { // Resolve failed routes
             console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
-            item = airing.find(i => i.route === parseObj.anime_title)
+            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], 0.3))
             const fallbackTitles = await AnimeResolver.findAndCacheTitle([item.romaji, item.english, item.title, item.native].filter(Boolean))
             for (const parseObjAlt of fallbackTitles) {
                 const mediaAlt = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObjAlt)]
                 if (mediaAlt) {
                     titles.push(parseObjAlt.anime_title)
                     order.push({route: item.route, title: mediaAlt.title.userPreferred})
-                    console.log(`Resolved alternative title ${parseObjAlt?.anime_title} ${mediaAlt?.title?.userPreferred}`)
+                    console.log(`Resolved alternative title ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred}`)
                     break
                 }
             }
         } else {
-            item = airing.find(i => i.route === parseObj.anime_title)
+            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], 0.3))
             if (item) {
                 titles.push(parseObj.anime_title)
                 order.push({route: item.route, title: media.title.userPreferred})
-                console.log(`Resolved route ${parseObj?.anime_title} ${media?.title?.userPreferred}`)
+                console.log(`Resolved route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
+            } else {
+                changes.push(`Failed to resolve route ${parseObj?.anime_title} as ${media?.title?.userPreferred}, this is a BIG deal!! Things will not work as expected.`)
+                console.log(`Failed to resolve route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
             }
         }
     }
@@ -277,7 +281,7 @@ export async function updateDubFeed() {
         return (new Date(entry.delayedUntil) >= new Date(entry.episodeDate)) && (new Date(entry.delayedUntil) > new Date())
     }).forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === entry.media.media.id && episode.episode.aired === entry.episodeNumber)
+            const foundEpisode = (episode.id === entry.media?.media?.id && episode.episode.aired === entry.episodeNumber)
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} as it has been delayed`)
                 console.log(`Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
@@ -290,7 +294,7 @@ export async function updateDubFeed() {
     // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
     schedule.forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === entry.media.media.id) && (episode.episode.aired === entry.episodeNumber) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate))
+            const foundEpisode = (episode.id === entry.media?.media?.id) && (episode.episode.aired === entry.episodeNumber) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate))
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
                 console.log(`Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date.`)
@@ -302,7 +306,7 @@ export async function updateDubFeed() {
 
     // Filter out incorrect episodes and correct dates if necessary
     schedule.forEach(entry => {
-        const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media.media.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
+        const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media?.media?.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
         if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate))) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
             mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
@@ -332,7 +336,7 @@ export async function updateDubFeed() {
 
         // handle double-header (multi-header) releases
         const latestEpisode = entry.episodeNumber
-        const existingEpisodes = existingFeed.filter(media => media.id === entry.media.media.id)
+        const existingEpisodes = existingFeed.filter(media => media.id === entry.media?.media?.id)
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
         let episodeType = 0
         if (entry.unaired && new Date(entry.episodeDate) > new Date()) return newEpisodes

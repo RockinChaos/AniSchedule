@@ -1,5 +1,5 @@
 import { anilistClient } from './anilist.js'
-import { anitomyscript } from './anime.js'
+import { matchKeys, anitomyscript } from './anime.js'
 import { chunks } from './util.js'
 
 const postfix = {
@@ -135,6 +135,7 @@ export default new class AnimeResolver {
       let failed = false
       let episode
       let media = this.animeNameCache[this.getCacheKeyForTitle(parseObj)]
+      let needsVerification = !media || !matchKeys(media, parseObj?.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)
       // resolve episode, if movie, dont.
       let maxep = media?.nextAiringEpisode?.episode || media?.episodes
       console.log(`Resolving ${parseObj?.anime_title} ${parseObj?.episode_number} ${maxep} ${media?.title?.userPreferred} ${media?.format}`)
@@ -179,7 +180,7 @@ export default new class AnimeResolver {
         } else {
           let offset = 0
           // media is missing! Likely a horribly named title for a sequel... try fetching the root.
-          if (!media) {
+          if (needsVerification) {
             console.log(`Media failed to resolve, attempting to fetch root media for ${parseObj.anime_title}`)
             const parseNew = await this.findAndCacheTitle(parseObj.anime_title.replace(/S\d+(E\d+)?/, ''))
             media = this.animeNameCache[this.getCacheKeyForTitle(parseNew[0])]
