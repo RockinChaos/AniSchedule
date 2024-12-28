@@ -1112,9 +1112,9 @@
   },
   {
     "id": 179333,
-    "idMal": null,
+    "idMal": 60629,
     "title": {
-      "romaji": "\"1-punkan dake Irete mo Iiyo...\" Share House no Himitsu Rule.",
+      "romaji": "\"1-funkan Dake Furetemo Ii yo…\" Share House no Himitsu Rule",
       "english": "The Share House's Secret Rule",
       "native": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。",
       "userPreferred": "The Share House's Secret Rule"
@@ -2263,6 +2263,36 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 170083,
+    "idMal": 56894,
+    "title": {
+      "romaji": "Dragon Ball DAIMA",
+      "english": "Dragon Ball DAIMA",
+      "native": "ドラゴンボールDAIMA",
+      "userPreferred": "Dragon Ball DAIMA"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170083-gDNBp0B4VHsG.jpg",
+      "color": "#f1431a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170083-SYCCWWlq3hqF.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1736520000
+        }
+      ]
+    }
   },
   {
     "id": 167143,
