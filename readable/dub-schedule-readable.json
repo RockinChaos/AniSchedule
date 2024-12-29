@@ -94,7 +94,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1024,8 +1024,9 @@
     "romaji": "Kimi wa Meido-sama.",
     "english": "You Are Ms. Servant",
     "native": "君は冥土様。",
-    "delayedFrom": "2024-11-30T23:30:00Z",
-    "delayedUntil": "2024-12-07T23:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-28T23:30:00Z",
+    "delayedUntil": "2025-01-04T23:30:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-28T23:30:00Z",
     "episodeNumber": 11,
@@ -1044,7 +1045,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1077,7 +1078,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2024-12-28T23:30:00Z"
+              "airingAt": "2025-01-04T23:30:00Z"
             }
           ]
         }
@@ -1093,8 +1094,9 @@
     "romaji": "Maou 2099",
     "english": "Demon Lord 2099",
     "native": "魔王2099",
-    "delayedFrom": "2024-11-30T22:30:00Z",
-    "delayedUntil": "2024-12-07T22:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-28T22:30:00Z",
+    "delayedUntil": "2025-01-04T22:30:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-28T22:30:00Z",
     "episodeNumber": 10,
@@ -1112,7 +1114,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1146,7 +1148,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-01-04T22:30:00Z"
             }
           ]
