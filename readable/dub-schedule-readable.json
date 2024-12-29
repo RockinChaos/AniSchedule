@@ -1089,6 +1089,73 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Kuromi's Pretty Journey: Hacha Mecha! Multiverse Daidasshutsu!",
+    "route": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu",
+    "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
+    "english": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!",
+    "native": "KUROMI’S PRETTY JOURNEY ～はちゃめちゃ！マルチバース大脱出！～",
+    "delayedFrom": "0001-01-01T09:00:00Z",
+    "delayedUntil": "0001-01-01T09:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-27T09:00:00Z",
+    "episodeNumber": 9,
+    "episodes": 19,
+    "lengthMin": 2,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu-3b7e65d030.jpg",
+    "streams": {
+      "youtube": "www.youtube.com/playlist?list=PLjv78rVJV36N6qIr8amgk5nSjKeien0q7"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu",
+        "file_name": "kuromis-pretty-journey-hacha-mecha-multiverse-daidasshutsu"
+      },
+      "media": {
+        "id": 183471,
+        "idMal": 60185,
+        "title": {
+          "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
+          "english": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!",
+          "native": "KUROMI'S PRETTY JOURNEY 〜はちゃめちゃ！マルチバース大脱出！〜",
+          "userPreferred": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!"
+        },
+        "format": "ONA",
+        "genres": [
+          "Adventure",
+          "Comedy"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183471-JsXh7SKt5P7C.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183471-JsXh7SKt5P7C.png",
+          "color": "#ae5df1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2025-01-03T09:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2024-12-29T15:21:40Z"
+  },
+  {
     "title": "Maou 2099",
     "route": "maou-2099",
     "romaji": "Maou 2099",
