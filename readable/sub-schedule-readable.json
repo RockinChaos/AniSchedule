@@ -1,38 +1,5 @@
 [
   {
-    "id": 153406,
-    "idMal": 52635,
-    "title": {
-      "romaji": "Kami no Tou: Tower of God 2nd Season",
-      "english": "Tower of God Season 2",
-      "native": "神之塔 -Tower of God- 第2期",
-      "userPreferred": "Tower of God Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Mystery"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153406-dU2RLKgMUF2U.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153406-dU2RLKgMUF2U.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153406-wP0TEqBVxY0V.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1735480800
-        }
-      ]
-    }
-  },
-  {
     "id": 172355,
     "idMal": 57635,
     "title": {
@@ -708,7 +675,7 @@
     "id": 151514,
     "idMal": 52215,
     "title": {
-      "romaji": "Chi.: Chikyuu no Undou ni Tsuite",
+      "romaji": "Chi. Chikyuu no Undou ni Tsuite",
       "english": "Orb: On the Movements of the Earth",
       "native": "チ。-地球の運動について-",
       "userPreferred": "Orb: On the Movements of the Earth"
@@ -1235,7 +1202,7 @@
     "id": 179333,
     "idMal": 60629,
     "title": {
-      "romaji": "\"1-funkan Dake Furetemo Ii yo…\" Share House no Himitsu Rule",
+      "romaji": "\"1-punkan dake Furete mo Ii yo…\" Share House no Himitsu Rule.\t",
       "english": "The Share House's Secret Rule",
       "native": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。",
       "userPreferred": "The Share House's Secret Rule"
@@ -3015,6 +2982,37 @@
         {
           "episode": 1,
           "airingAt": 1740063600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 182877,
+    "idMal": 60094,
+    "title": {
+      "romaji": "Kankin Kuiki Level X (Zoku-hen)",
+      "english": null,
+      "native": "監禁区域レベルX 続編",
+      "userPreferred": "Kankin Kuiki Level X (Zoku-hen)"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182877-In2sD6eEJdvw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182877-In2sD6eEJdvw.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1740158580
         }
       ]
     },
