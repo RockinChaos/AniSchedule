@@ -1,38 +1,5 @@
 [
   {
-    "id": 183423,
-    "idMal": 60108,
-    "title": {
-      "romaji": "ONE PIECE: Gyojin Tou-hen",
-      "english": "One Piece Log: Fish-Man Island Saga",
-      "native": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
-      "userPreferred": "One Piece Log: Fish-Man Island Saga"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183423-wt4YjEiCWVVD.jpg",
-      "color": "#febb0d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183423-kYnannPuKynK.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1735432200
-        }
-      ]
-    }
-  },
-  {
     "id": 176292,
     "idMal": 58511,
     "title": {
@@ -619,37 +586,6 @@
     }
   },
   {
-    "id": 165159,
-    "idMal": 56566,
-    "title": {
-      "romaji": "BEYBLADE X",
-      "english": "BEYBLADE X",
-      "native": "BEYBLADE X",
-      "userPreferred": "BEYBLADE X"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sports"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
-      "color": "#28aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 63,
-          "airingAt": 1735896300
-        }
-      ]
-    }
-  },
-  {
     "id": 178462,
     "idMal": 59135,
     "title": {
@@ -822,7 +758,7 @@
       "color": "#ffbb1a"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176158-gl9eDziks1ly.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -953,68 +889,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 179333,
-    "idMal": 60629,
-    "title": {
-      "romaji": "\"1-funkan Dake Furetemo Ii yo…\" Share House no Himitsu Rule",
-      "english": "The Share House's Secret Rule",
-      "native": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。",
-      "userPreferred": "The Share House's Secret Rule"
-    },
-    "format": "ONA",
-    "genres": [
-      "Drama",
-      "Hentai"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179333-BsQOchil1Q9g.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179333-BsQOchil1Q9g.png",
-      "color": "#e4bbae"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736002800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 176311,
-    "idMal": 58516,
-    "title": {
-      "romaji": "Ao no Exorcist: Yuki no Hate-hen",
-      "english": "Blue Exorcist -Beyond the Snow Saga-",
-      "native": "青の祓魔師 雪ノ果篇",
-      "userPreferred": "Blue Exorcist -Beyond the Snow Saga-"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Supernatural"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176311-OZudERHrpJJ0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176311-OZudERHrpJJ0.jpg",
-      "color": "#28aefe"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176311-faAPK9m0QCjP.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1736004600
-        }
-      ]
-    }
   },
   {
     "id": 165171,
@@ -1165,6 +1039,39 @@
         {
           "episode": 13,
           "airingAt": 1736036100
+        }
+      ]
+    }
+  },
+  {
+    "id": 183423,
+    "idMal": 60108,
+    "title": {
+      "romaji": "ONE PIECE: Gyojin Tou-hen",
+      "english": "One Piece Log: Fish-Man Island Saga",
+      "native": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
+      "userPreferred": "One Piece Log: Fish-Man Island Saga"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183423-wt4YjEiCWVVD.jpg",
+      "color": "#febb0d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183423-kYnannPuKynK.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1736037000
         }
       ]
     }
@@ -1350,6 +1257,37 @@
         {
           "episode": 1,
           "airingAt": 1736089020
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 179333,
+    "idMal": 60629,
+    "title": {
+      "romaji": "\"1-funkan Dake Furetemo Ii yo…\" Share House no Himitsu Rule",
+      "english": "The Share House's Secret Rule",
+      "native": "「1分間だけ挿れてもいいよ…」シェアハウスの秘密ルール。",
+      "userPreferred": "The Share House's Secret Rule"
+    },
+    "format": "ONA",
+    "genres": [
+      "Drama",
+      "Hentai"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179333-BsQOchil1Q9g.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179333-BsQOchil1Q9g.png",
+      "color": "#e4bbae"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736089200
         }
       ]
     },
@@ -2013,6 +1951,37 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 165159,
+    "idMal": 56566,
+    "title": {
+      "romaji": "BEYBLADE X",
+      "english": "BEYBLADE X",
+      "native": "BEYBLADE X",
+      "userPreferred": "BEYBLADE X"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 63,
+          "airingAt": 1736501100
+        }
+      ]
+    }
   },
   {
     "id": 172439,
