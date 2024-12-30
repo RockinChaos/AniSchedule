@@ -8,7 +8,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2024-12-24T21:00:00Z",
     "delayedUntil": "2024-12-31T21:00:00Z",
-    "status": "Ongoing",
+    "status": "Delayed",
     "episodeDate": "2024-12-24T21:00:00Z",
     "episodeNumber": 11,
     "episodes": 24,
@@ -25,7 +25,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -301,7 +301,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -416,7 +416,7 @@
     "native": "ドラゴンボールDAIMA",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "status": "Ongoing",
+    "status": "Delayed",
     "episodeDate": "2025-01-10T21:30:00Z",
     "episodeNumber": 1,
     "lengthMin": 24,
@@ -547,9 +547,10 @@
   {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
     "route": "fairy-tail-100-years-quest",
-    "delayedFrom": "2024-11-24T22:00:00Z",
-    "delayedUntil": "2024-12-08T22:00:00Z",
-    "status": "Finished",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-29T22:00:00Z",
+    "delayedUntil": "2025-01-05T22:00:00Z",
+    "status": "Ongoing",
     "episodeDate": "2024-12-29T22:00:00Z",
     "episodeNumber": 23,
     "episodes": 25,
@@ -600,7 +601,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 24,
+              "episode": 23,
               "airingAt": "2025-01-05T22:00:00Z"
             }
           ]
@@ -843,7 +844,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6J0G49DR/tower-of-god"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1046,7 +1047,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1182,7 +1183,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1254,7 +1255,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
       "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1302,8 +1303,9 @@
     "title": "MF Ghost 2nd Season",
     "route": "mf-ghost-second-season",
     "native": "MFゴースト 2nd Season",
-    "delayedFrom": "2024-12-01T21:30:00Z",
-    "delayedUntil": "2024-12-08T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-29T21:30:00Z",
+    "delayedUntil": "2025-01-05T21:30:00Z",
     "status": "Finished",
     "episodeDate": "2024-12-29T21:30:00Z",
     "episodeNumber": 11,
@@ -1352,7 +1354,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2025-01-05T21:30:00Z"
             }
           ]
@@ -1458,7 +1460,7 @@
     "streams": {
       "amazon": "www.amazon.com/dp/B0DH8D89GR"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1807,7 +1809,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1878,7 +1880,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2012,7 +2014,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
