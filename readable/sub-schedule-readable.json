@@ -732,6 +732,37 @@
     "unaired": true
   },
   {
+    "id": 166699,
+    "idMal": 55842,
+    "title": {
+      "romaji": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru",
+      "english": "OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
+      "native": "沖縄で好きになった子が方言すぎてツラすぎる",
+      "userPreferred": "OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166699-ELqlQLrZwTrG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166699-ELqlQLrZwTrG.jpg",
+      "color": "#356bf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736006400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 165171,
     "idMal": 55318,
     "title": {
@@ -1471,6 +1502,38 @@
         {
           "episode": 1,
           "airingAt": 1736343000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 176234,
+    "idMal": 58484,
+    "title": {
+      "romaji": "Ishura 2nd Season",
+      "english": "ISHURA Season 2",
+      "native": "異修羅 第2期",
+      "userPreferred": "ISHURA Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176234-Wx2rAYr7YSD8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176234-Wx2rAYr7YSD8.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736344800
         }
       ]
     },
