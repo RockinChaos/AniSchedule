@@ -1,35 +1,5 @@
 [
   {
-    "id": 171545,
-    "idMal": 57533,
-    "title": {
-      "romaji": "Youkai Gakkou no Sensei Hajimemashita!",
-      "english": "A Terrified Teacher at Ghoul School!",
-      "native": "妖怪学校の先生はじめました！",
-      "userPreferred": "A Terrified Teacher at Ghoul School!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171545-j9foxkHeXec7.jpg",
-      "color": "#f1c993"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1735653600
-        }
-      ]
-    }
-  },
-  {
     "id": 178100,
     "idMal": 59002,
     "title": {
@@ -1354,6 +1324,36 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 171545,
+    "idMal": 57533,
+    "title": {
+      "romaji": "Youkai Gakkou no Sensei Hajimemashita!",
+      "english": "A Terrified Teacher at Ghoul School!",
+      "native": "妖怪学校の先生はじめました！",
+      "userPreferred": "A Terrified Teacher at Ghoul School!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171545-j9foxkHeXec7.jpg",
+      "color": "#f1c993"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1736258400
+        }
+      ]
+    }
   },
   {
     "id": 178550,
