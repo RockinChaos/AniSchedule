@@ -1,39 +1,5 @@
 [
   {
-    "id": 178100,
-    "idMal": 59002,
-    "title": {
-      "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
-      "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
-      "native": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~",
-      "userPreferred": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178100-GF4dKSrkdByJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178100-GF4dKSrkdByJ.jpg",
-      "color": "#50c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1735657200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 175869,
     "idMal": 58351,
     "title": {
@@ -1476,6 +1442,39 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 178100,
+    "idMal": 59002,
+    "title": {
+      "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
+      "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+      "native": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~",
+      "userPreferred": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 25,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178100-GF4dKSrkdByJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178100-GF4dKSrkdByJ.jpg",
+      "color": "#50c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736262000
+        }
+      ]
+    }
   },
   {
     "id": 178022,
