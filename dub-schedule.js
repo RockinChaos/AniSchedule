@@ -127,6 +127,10 @@ export async function fetchDubSchedule() {
                     saveJSON(path.join('./raw/dub-episode-feed.json'), episodeFeed)
                     saveJSON(path.join('./readable/dub-episode-feed-readable.json'), episodeFeed, true)
                 }
+            } else if (!existingInAiring && entry.verified && (new Date(entry.delayedUntil) > new Date(entry.episodeDate))) {
+                changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this is likely a mistake or a bug!`)
+                console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this is likely a mistake or a bug, series will be re-added with the assumption the schedule continues as-is.`)
+                timetables.push(newEntry)
             } else if (existingInAiring && (!existingInAiring.delayedIndefinitely) && (weeksDifference(existingInAiring.delayedFrom, past(new Date(), 0, true)) <= 4) && (new Date(existingInAiring.delayedFrom) > new Date(existingInAiring.delayedUntil))) { // highly likely this is an indefinitely delayed series.
                 const index = timetables.findIndex((airingItem) => airingItem.route === entry.route)
                 if (!entry.delayedIndefinitely) {

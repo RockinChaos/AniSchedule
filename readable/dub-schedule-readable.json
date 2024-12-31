@@ -1088,6 +1088,77 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Maou-sama, Retry! R",
+    "route": "maou-sama-retry-r",
+    "romaji": "Maou-sama, Retry! R",
+    "english": "Demon Lord, Retry! R",
+    "native": "魔王様、リトライ! R",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-28T21:30:00Z",
+    "delayedUntil": "2025-01-04T21:30:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-28T21:30:00Z",
+    "episodeNumber": 12,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/maou-sama-retry-r-68102522eb.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
+      "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "maou-sama-retry-r",
+        "file_name": "maou-sama-retry-r"
+      },
+      "media": {
+        "id": 168500,
+        "idMal": 56400,
+        "title": {
+          "romaji": "Maou-sama, Retry! R",
+          "english": "Demon Lord, Retry! R",
+          "native": "魔王様、リトライ！R",
+          "userPreferred": "Maou-sama, Retry! R"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168500-wwpXjBBlXDpx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168500-wwpXjBBlXDpx.jpg",
+          "color": "#f1e4ae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2025-01-04T21:30:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": true,
+    "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
     "title": "MF Ghost 2nd Season",
     "route": "mf-ghost-second-season",
     "native": "MFゴースト 2nd Season",
@@ -1221,6 +1292,74 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Ooi! Tonbo 2nd Season",
+    "route": "ooi-tonbo-2nd-season",
+    "romaji": "Ooi! Tonbo 2nd Season",
+    "english": "Hey! Tonbo 2nd Season",
+    "native": "オーイ! とんぼ 第2期",
+    "delayedText": "Delayed",
+    "delayedFrom": "2024-12-28T18:30:00Z",
+    "delayedUntil": "2025-01-04T18:30:00Z",
+    "status": "Finished",
+    "episodeDate": "2024-12-28T18:30:00Z",
+    "episodeNumber": 13,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/ooi-tonbo-2nd-season-c15726c602.jpg",
+    "streams": {
+      "amazon": "www.amazon.com/dp/B0DH8D89GR"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "ooi-tonbo-2nd-season",
+        "file_name": "ooi-tonbo-2nd-season"
+      },
+      "media": {
+        "id": 178729,
+        "idMal": 59175,
+        "title": {
+          "romaji": "Ooi! Tonbo 2nd Season",
+          "english": "Tonbo! Season 2",
+          "native": "オーイ! とんぼ 第2期",
+          "userPreferred": "Ooi! Tonbo 2nd Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Sports"
+        ],
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178729-SkLnIC30dvLB.jpg",
+          "color": "#f1860d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 13,
+              "airingAt": "2025-01-04T18:30:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": true,
+    "addedAt": "2024-11-28T21:16:32Z"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
