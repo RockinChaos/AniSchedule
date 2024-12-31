@@ -45,6 +45,18 @@ export function delay(ms) {
     return new Promise((resolve) => setTimeout(resolve, ms))
 }
 
+export const durationMap = { // guesstimate durations based off format type.
+    TV: 25,
+    TV_SHORT: 5,
+    MOVIE: 90,
+    SPECIAL: 45,
+    OVA: 25,
+    ONA: 25,
+    MUSIC: 5,
+    undefined: 5,
+    null: 5,
+}
+
 export function getCurrentYearAndWeek() {
     const now = new Date()
     const target = new Date(now.valueOf())

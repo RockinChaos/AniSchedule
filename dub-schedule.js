@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, delay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, delay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -376,6 +376,7 @@ export async function updateDubFeed() {
                 id: entry.media.media.id,
                 ...(entry.media.media.idMal ? { idMal: entry.media.media.idMal } : {}),
                 format: entry.media.media.format,
+                duration: entry.media.media.duration ? entry.media.media.duration : durationMap[entry.media.media.format],
                 episode: {
                     aired: episodeNum,
                     airedAt: (multiHeader && (episodeNum === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episodeNum >= entry.subtractedEpisodeNumber))) ? entry.episodeDate : (multiHeader && baseEpisode) ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true)),
@@ -393,6 +394,7 @@ export async function updateDubFeed() {
             id: entry.media.media.id,
             ...(entry.media.media.idMal ? { idMal: entry.media.media.idMal } : {}),
             format: entry.media.media.format,
+            duration: entry.media.media.duration ? entry.media.media.duration : durationMap[entry.media.media.format],
             episode: {
                 aired: latestEpisode,
                 airedAt: entry.episodeDate,

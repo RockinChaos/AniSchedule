@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { past, loadJSON, saveJSON } from './utils/util.js'
+import { past, loadJSON, saveJSON, durationMap } from './utils/util.js'
 import path from 'path'
 
 // update sub schedule //
@@ -77,6 +77,7 @@ async function fixMultiHeaders() {
                         id:entry.media.id,
                         ...(entry.media.idMal ? { idMal: entry.media.idMal } : {}),
                         format: entry.media.format,
+                        duration: entry.media.duration ? entry.media.duration : durationMap[entry.media.format],
                         episode: {
                             aired: entry.episode,
                             airedAt: past(new Date(entry.airingAt * 1000), 0, false),
@@ -141,6 +142,7 @@ export async function updateSubFeed() {
                 id: entry.id,
                 ...(entry.idMal ? { idMal: entry.idMal } : {}),
                 format: entry.format,
+                duration: entry.duration ? entry.duration : durationMap[entry.format],
                 episode: {
                     aired: node.episode,
                     airedAt: past(airingAt, 0, false),
