@@ -58,9 +58,14 @@ export function getCurrentYearAndWeek() {
     return { year, week, year_weeks }
 }
 
-export function getWeeksInYear(year) {
+// gets too many weeks, usually returns 53 when its actually 52 weeks in a year.
+/*export function getWeeksInYear(year) {
     const lastDayOfYear = new Date(year, 11, 31)
     return Math.ceil((Math.floor((lastDayOfYear - new Date(year, 0, 1)) / (24 * 60 * 60 * 1000)) + lastDayOfYear.getDay() + 1) / 7)
+}*/
+
+export function getWeeksInYear(year) {
+    return ((new Date(year, 0, 1).getDay() === 4) || (new Date(year, 11, 31).getDay() === 4)) ? 53 : 52
 }
 
 export function calculateWeeksToFetch() {

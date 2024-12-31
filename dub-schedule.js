@@ -36,9 +36,15 @@ async function fetchPreviousWeek() {
         process.exit(1)
     }
 
-    const { year, week } = getCurrentYearAndWeek()
-    console.log(`Fetching dub timetables for the previous week: Year ${year}, Week ${week - 1}...`)
-    fetchInProgress = fetchAiringSchedule(year, week - 1, BEARER_TOKEN).then((data) => {
+    let { year, week } = getCurrentYearAndWeek()
+    week = week - 1
+    if (week === 0) {
+        year = year - 1
+        week = getWeeksInYear(year)
+    }
+
+    console.log(`Fetching dub timetables for the previous week: Year ${year}, Week ${week}...`)
+    fetchInProgress = fetchAiringSchedule(year, week, BEARER_TOKEN).then((data) => {
         previousWeekTimetables = data
         fetchInProgress = null
         return data
@@ -343,7 +349,7 @@ export async function updateDubFeed() {
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
-            const multiHeader =  !previousWeek && entry.subtractedEpisodeNumber || (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2))))
+            const multiHeader =  entry.subtractedEpisodeNumber || (previousWeek && previousWeek.subtractedEpisodeNumber)  //|| (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2)))) -- probably don't need this since these cases should never happen.
             episodeType = multiHeader && baseEpisode ? 2 : multiHeader ? 1 : 0
             if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
                 let weeksAgo = -1
