@@ -12,6 +12,8 @@ title {
 },
 format,
 genres,
+duration,
+seasonYear,
 coverImage {
   extraLarge,
   medium,
@@ -29,10 +31,8 @@ airingSchedule(page: 1, perPage: 1, notYetAired: true) {
 const queryComplexObjects = /* js */`
 description(asHtml: false),
 season,
-seasonYear,
 status,
 episodes,
-duration,
 averageScore,
 source,
 countryOfOrigin,
@@ -224,7 +224,58 @@ class AnilistClient {
                     media: fetchedIDS
                 }
             }
-        };
+        }
+    }
+
+    /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
+    async fetchAiringSchedule (variables) {
+        if (!variables.to && variables.from) variables.to = (variables.from + 7 * 24 * 60 * 60)
+        console.log(`Fetching airing schedule ${JSON.stringify(variables)}`)
+        let fetchedSchedules = []
+        let currentPage = 1
+
+        // cycle until all paged episodes are resolved.
+        let failedRes
+        while (true) {
+            const res = await this.searchAiringEpisodes({ page: currentPage, perPage: 50, ...variables })
+            if (!res?.data && res?.errors) { failedRes = res }
+            if (res?.data?.Page.airingSchedules) fetchedSchedules = fetchedSchedules.concat(res?.data?.Page.airingSchedules)
+            if (!res?.data?.Page.pageInfo.hasNextPage) break
+            currentPage++
+        }
+        return {
+            data: {
+                Page: {
+                    pageInfo: {
+                        hasNextPage: false
+                    },
+                    airingSchedules: fetchedSchedules
+                }
+            }
+        }
+    }
+
+    async searchAiringEpisodes (variables = {}) {
+        console.log(`Searching for episodes in the specified time ${JSON.stringify(variables)}`)
+        if (!variables.to && variables.from) variables.to = (variables.from + 7 * 24 * 60 * 60)
+        const query = /* js */` 
+            query($page: Int, $perPage: Int, $from: Int, $to: Int) {
+              Page(page: $page, perPage: $perPage) {
+                pageInfo {
+                  hasNextPage
+                },
+                airingSchedules(airingAt_greater: $from, airingAt_lesser: $to) {
+                  episode,
+                  timeUntilAiring,
+                  airingAt,
+                  media {
+                    ${queryObjects}
+                  }
+                }
+              }
+            }`
+        /** @type {import('./al.d.ts').PagedQuery<{ airingSchedules: { timeUntilAiring: number, airingAt: number, episode: number, media: import('./al.d.ts').Media}[]}>} */
+        return await this.alRequest(query, variables)
     }
 
     /**
@@ -247,26 +298,26 @@ class AnilistClient {
             return arr
         }, []).join(', ')
         const fragmentQueries = flattenedTitles.map(({ year, isAdult }, i) => /* js */`
-    v${i}: Page(perPage: 10) {
-      media(type: ANIME, search: $v${(isAdult && i !== 0) ? i - 1 : i}, status_in: [RELEASING, FINISHED], isAdult: ${!!isAdult} ${year ? `, seasonYear: ${year}` : ''}) {
-        ...med
-      }
-    }`)
+            v${i}: Page(perPage: 10) {
+              media(type: ANIME, search: $v${(isAdult && i !== 0) ? i - 1 : i}, status_in: [RELEASING, FINISHED], isAdult: ${!!isAdult} ${year ? `, seasonYear: ${year}` : ''}) {
+                ...med
+              }
+            }`)
 
         const query = /* js */`
-    query(${queryVariables}) {
-      ${fragmentQueries}
-    }
-    
-    fragment&nbsp;med&nbsp;on&nbsp;Media {
-      id,
-      title {
-        romaji,
-        english,
-        native
-      },
-      synonyms
-    }`
+            query(${queryVariables}) {
+              ${fragmentQueries}
+            }
+            
+            fragment&nbsp;med&nbsp;on&nbsp;Media {
+              id,
+              title {
+                romaji,
+                english,
+                native
+              },
+              synonyms
+            }`
 
         /**
          * @type {import('./types/al.d.ts').Query<Record<string, {media: import('./types/al.d.ts').Media[]}>>}
