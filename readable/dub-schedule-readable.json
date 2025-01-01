@@ -790,8 +790,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/izure-saikyou-no-renkinjutsushi-cff6fe9db5.jpg",
     "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "izure-saikyou-no-renkinjutsushi",
@@ -823,8 +823,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-01T16:01:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-08T16:01:00Z"
             }
           ]
         }
