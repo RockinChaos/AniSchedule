@@ -96,6 +96,11 @@ export default new class AnimeResolver {
     }
   }
 
+  cacheAnimeName(key, media) {
+    if (!key || !media) return
+    this.animeNameCache[key] = media
+  }
+
   /**
    * @param {number} id
    */

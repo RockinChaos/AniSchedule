@@ -4,22 +4,22 @@ import { calculateWeeksToFetch, dayTimeMatch, delay, fixTime, getCurrentYearAndW
 import path from 'path'
 
 // query animeschedule for the proper timetables //
-async function fetchAiringSchedule(year, week, token) {
+async function fetchAiringSchedule(opts) {
     try {
-        const res = await fetch(`https://animeschedule.net/api/v3/timetables/dub?year=${year}&week=${week}`, {
+        const res = await fetch(`https://animeschedule.net/api/v3/${opts.type === 'anime' ? `anime/${opts.route}` : `timetables/dub?year=${opts.year}&week=${opts.week}`}`, {
             method: 'GET',
             headers: {
-                'Authorization': `Bearer ${token}`
+                'Authorization': `Bearer ${opts.token}`
             }
         })
         if (!res.ok) {
             if (res.status === 404) return null // No data for this week
-            console.error(`Fetch error for dub schedule: ${res.status}`)
+            console.error(`Fetch error for ${opts.type === 'anime' ? `anime route for: ${opts.route}` : `dub timetables: for Week ${opts.week}`} with ${res.status}`)
             process.exit(1)
         }
         return await res.json()
     } catch (error) {
-        console.error(`Error fetching dub timetables for Week ${week}:`, error)
+        console.error(`Error fetching ${opts.type === 'anime' ? `anime route for: ${opts.route}` : `dub timetables: for Week ${opts.week}`}`, error)
         process.exit(1)
     }
 }
@@ -44,7 +44,7 @@ async function fetchPreviousWeek() {
     }
 
     console.log(`Fetching dub timetables for the previous week: Year ${year}, Week ${week}...`)
-    fetchInProgress = fetchAiringSchedule(year, week, BEARER_TOKEN).then((data) => {
+    fetchInProgress = fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN}).then((data) => {
         previousWeekTimetables = data
         fetchInProgress = null
         return data
@@ -60,6 +60,7 @@ export async function fetchDubSchedule() {
     const { writeFile } = await import('node:fs/promises')
     const { writable } =  await import('simple-store-svelte')
     const { matchKeys } = await import('./utils/anime.js')
+    const { anilistClient } = await import('./utils/anilist.js')
     const { default: AnimeResolver } = await import('./utils/animeresolver.js')
 
     const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
@@ -81,7 +82,7 @@ export async function fetchDubSchedule() {
 
     while (year < endYear || (year === endYear && week <= endWeek)) {
         console.log(`Fetching dub timetables for Year ${year}, Week ${week}...`)
-        const fetchedData = await fetchAiringSchedule(year, week, BEARER_TOKEN)
+        const fetchedData = await fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN})
         if (fetchedData) {
             const newEntries = fetchedData.filter((item) => !airingLists.value.some((existing) => existing.route === item.route))
             airingLists.update((lists) => [...lists, ...newEntries])
@@ -162,6 +163,7 @@ export async function fetchDubSchedule() {
     // resolve airing lists //
 
     const airing = await airingLists.value
+    const mediaID = /(?:https?:\/\/)?(?:www\.)?(?:myanimelist\.net\/anime\/|anilist\.co\/anime\/)(\d+)/
     const titles = []
     const order = []
 
@@ -170,20 +172,52 @@ export async function fetchDubSchedule() {
 
     for (const parseObj of parseObjs) {
         const media = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObj)]
-        console.log(`Resolving route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
+        const verification = !matchKeys(media, parseObj.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)
+        console.log(`Resolving route ${parseObj?.anime_title} as ${media?.title?.userPreferred} which is ${verification ? 'needs verification' : 'verified'}`)
         let item
 
-        if (!media) { // Resolve failed routes
+        if (!media || verification) { // Resolve failed routes
             console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
             item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], 0.3))
-            const fallbackTitles = await AnimeResolver.findAndCacheTitle([item.romaji, item.english, item.title, item.native].filter(Boolean))
+            const altTitles = [item.romaji, item.english, item.title, item.native].filter(Boolean)
+            const fallbackTitles = await AnimeResolver.findAndCacheTitle(altTitles)
+            let attempt = 0
             for (const parseObjAlt of fallbackTitles) {
+                attempt++
                 const mediaAlt = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObjAlt)]
-                if (mediaAlt) {
+                const altVerification = !matchKeys(mediaAlt, parseObjAlt.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)
+                console.log(`Resolving ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred} which is ${altVerification ? 'needs verification' : 'verified'}`)
+                if (mediaAlt && !altVerification) {
                     titles.push(parseObjAlt.anime_title)
                     order.push({route: item.route, title: mediaAlt.title.userPreferred})
                     console.log(`Resolved alternative title ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred}`)
                     break
+                } else if (attempt === altTitles.length && (!mediaAlt || altVerification)) { // anilist is sometimes just crap at resolving some titles as they use weird uni characters in the name or some titles just have a very similar name and anilist just doesn't check itself...
+                    console.log(`Failed to resolve alternatives title(s), trying to fetch database URL's directly for ${parseObj?.anime_title}`)
+                    let fallback = false
+                    const fallbackRoute = await fetchAiringSchedule({type: 'anime', route: item.route, token: BEARER_TOKEN})
+                    for (const url of [fallbackRoute?.websites?.aniList, fallbackRoute?.websites?.mal].filter(Boolean)) {
+                        if (!url || fallback) continue
+                        const match = url.match(mediaID)
+                        if (match) { // thank god there is at least one url...
+                            console.log(`Found ID ${match[1]} from URL ${url}, attempting to locate media for ${parseObj?.anime_title}`)
+                            const res = await anilistClient.searchIDS({...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] })})
+                            const media = res?.data?.Page?.media[0]
+                            if (media) { // yippie the impossible was made possible.
+                                AnimeResolver.cacheAnimeName(media.title.userPreferred, media)
+                                titles.push(media.title.userPreferred)
+                                order.push({route: item.route, title: media.title.userPreferred})
+                                console.log(`Resolved route ${parseObj?.anime_title} from URL ${url} as ${media?.title?.userPreferred}`)
+                                fallback = true
+                            }
+                        }
+                    }
+                    if (!fallback) { // well sucks to be you I guess...
+                        changes.push(`Failed to resolve alternative title(s) ${parseObj?.anime_title}, things will not work as expected, this is a BIG deal!!`)
+                        console.log(`Failed to resolve alternative title(s) ${parseObj?.anime_title}`)
+                    }
+                } else {
+                    console.log(`Failed to resolve alternative title ${parseObjAlt?.anime_title} for ${parseObj?.anime_title}`)
                 }
             }
         } else {
@@ -192,9 +226,30 @@ export async function fetchDubSchedule() {
                 titles.push(parseObj.anime_title)
                 order.push({route: item.route, title: media.title.userPreferred})
                 console.log(`Resolved route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
-            } else {
-                changes.push(`Failed to resolve route ${parseObj?.anime_title} as ${media?.title?.userPreferred}, this is a BIG deal!! Things will not work as expected.`)
-                console.log(`Failed to resolve route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
+            } else { // anilist is sometimes just crap at resolving some titles as they use weird uni characters in the name or some titles just have a very similar name and anilist just doesn't check itself...
+                console.log(`Failed to resolve route ${parseObj?.anime_title}, trying to fetch database URL's directly`)
+                let fallback = false
+                const fallbackRoute = await fetchAiringSchedule({type: 'anime', route: item.route, token: BEARER_TOKEN})
+                for (const url of [fallbackRoute?.websites?.aniList, fallbackRoute?.websites?.mal].filter(Boolean)) {
+                    if (!url || fallback) continue
+                    const match = url.match(mediaID)
+                    if (match) { // thank god there is at least one url...
+                        console.log(`Found ID ${match[1]} from URL ${url}, attempting to locate media for ${parseObj?.anime_title}`)
+                        const res = await anilistClient.searchIDS({...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] })})
+                        const media = res?.data?.Page?.media[0]
+                        if (media) { // yippie the impossible was made possible.
+                            AnimeResolver.cacheAnimeName(media.title.userPreferred, media)
+                            titles.push(media.title.userPreferred)
+                            order.push({route: item.route, title: media.title.userPreferred})
+                            console.log(`Resolved route ${parseObj?.anime_title} from URL ${url} as ${media?.title?.userPreferred}`)
+                            fallback = true
+                        }
+                    }
+                }
+                if (!fallback) { // well sucks to be you I guess...
+                    changes.push(`Failed to resolve route ${parseObj?.anime_title}, things will not work as expected, this is a BIG deal!!`)
+                    console.log(`Failed to resolve route ${parseObj?.anime_title}`)
+                }
             }
         }
     }
@@ -265,7 +320,10 @@ export async function fetchDubSchedule() {
 
 
     if (combinedResults) {
-        if (combinedResults.length !== airingLists.value.length) console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
+        if (combinedResults.length !== airingLists.value.length) {
+            changes.push(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
+            console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
+        }
         console.log(`Successfully resolved ${combinedResults.length} airing, saving...`)
         await writeFile('./raw/dub-schedule.json', JSON.stringify(combinedResults))
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(combinedResults, null, 2))

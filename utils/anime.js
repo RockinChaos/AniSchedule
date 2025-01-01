@@ -28,6 +28,7 @@ globalThis.require = (module) => {
  */
 export function matchKeys(nest, phrase, keys, threshold = 0.4) {
     if (!phrase) return true
+    if (!nest) return false
     if (new Fuse([nest], { includeScore: true, threshold, keys: keys }).search(phrase).length > 0) return true
     const fuse = new Fuse([phrase], { includeScore: true, threshold, })
     return keys.some((key) => {
