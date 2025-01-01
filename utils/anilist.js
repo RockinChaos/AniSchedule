@@ -299,7 +299,7 @@ class AnilistClient {
         }, []).join(', ')
         const fragmentQueries = flattenedTitles.map(({ year, isAdult }, i) => /* js */`
             v${i}: Page(perPage: 10) {
-              media(type: ANIME, search: $v${(isAdult && i !== 0) ? i - 1 : i}, status_in: [RELEASING, FINISHED], isAdult: ${!!isAdult} ${year ? `, seasonYear: ${year}` : ''}) {
+              media(type: ANIME, search: $v${(isAdult && i !== 0) ? i - 1 : i}, status_in: [NOT_YET_RELEASED, RELEASING, FINISHED], isAdult: ${!!isAdult} ${year ? `, seasonYear: ${year}` : ''}) {
                 ...med
               }
             }`)
