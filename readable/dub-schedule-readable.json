@@ -658,28 +658,31 @@
         "file_name": "fate-strange-fake"
       },
       "media": {
-        "id": 114389,
-        "idMal": 40982,
+        "id": 166617,
+        "idMal": 55830,
         "title": {
-          "romaji": "Fate/strange Fake TVCM",
-          "english": null,
-          "native": "Fate/strange Fake TVCM",
-          "userPreferred": "Fate/strange Fake TVCM"
+          "romaji": "Fate/strange Fake",
+          "english": "Fate/strange Fake",
+          "native": "Fate/strange Fake",
+          "userPreferred": "Fate/strange Fake"
         },
-        "format": "SPECIAL",
+        "format": "TV",
         "genres": [
           "Action",
-          "Fantasy"
+          "Adventure",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
         ],
-        "duration": 1,
+        "duration": 25,
         "seasonYear": null,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114389-AQvf70CQUvDq.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx114389-AQvf70CQUvDq.jpg",
-          "color": "#e45da1"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+          "color": "#1a1af1"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -791,8 +794,8 @@
     "unaired": true,
     "media": {
       "parseObject": {
-        "anime_title": "Possibly the Greatest Alchemist of All Time",
-        "file_name": "Possibly the Greatest Alchemist of All Time"
+        "anime_title": "izure-saikyou-no-renkinjutsushi",
+        "file_name": "izure-saikyou-no-renkinjutsushi"
       },
       "media": {
         "id": 177506,
@@ -1346,8 +1349,8 @@
     "unaired": true,
     "media": {
       "parseObject": {
-        "anime_title": "Medalist",
-        "file_name": "Medalist"
+        "anime_title": "medalist",
+        "file_name": "medalist"
       },
       "media": {
         "id": 165171,
