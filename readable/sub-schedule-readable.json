@@ -1,168 +1,5 @@
 [
   {
-    "id": 177506,
-    "idMal": 58822,
-    "title": {
-      "romaji": "Izure Saikyou no Renkinjutsushi?",
-      "english": "Possibly the Greatest Alchemist of All Time",
-      "native": "いずれ最強の錬金術師？",
-      "userPreferred": "Possibly the Greatest Alchemist of All Time"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177506-in4J0GNzjOZL.jpg",
-      "color": "#50bbfe"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1735738200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 179689,
-    "idMal": 59349,
-    "title": {
-      "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-      "english": "Headhunted to Another World: From Salaryman to Big Four!",
-      "native": "サラリーマンが異世界に行ったら四天王になった話",
-      "userPreferred": "Headhunted to Another World: From Salaryman to Big Four!"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179689-kmlqdU3IbxeM.jpg",
-      "color": "#c9e4f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179689-pmEg73tCaoMP.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1735738200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 176642,
-    "idMal": 58600,
-    "title": {
-      "romaji": "Ameku Takao no Suiri Karte",
-      "english": "Ameku M.D.: Doctor Detective",
-      "native": "天久鷹央の推理カルテ",
-      "userPreferred": "Ameku M.D.: Doctor Detective"
-    },
-    "format": "TV",
-    "genres": [
-      "Mystery",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
-      "color": "#5daef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1735743600
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 145740,
-    "idMal": 51119,
-    "title": {
-      "romaji": "Grisaia: Phantom Trigger THE ANIMATION (TV)",
-      "english": "Grisaia: Phantom Trigger",
-      "native": "グリザイア：ファントムトリガー THE ANIMATION (TV)",
-      "userPreferred": "Grisaia: Phantom Trigger"
-    },
-    "format": "TV",
-    "genres": [
-      "Action"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-yblQOQLAKk6M.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145740-yblQOQLAKk6M.jpg",
-      "color": "#5d93e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1735747200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 181776,
-    "idMal": 59892,
-    "title": {
-      "romaji": "Murder Mystery of the Dead",
-      "english": null,
-      "native": "マーダーミステリー・オブ・ザ・デッド",
-      "userPreferred": "Murder Mystery of the Dead"
-    },
-    "format": "TV",
-    "genres": [
-      "Mystery"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181776-VRNht9pkb9Ct.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181776-VRNht9pkb9Ct.jpg",
-      "color": "#2843bb"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1735747200
-        }
-      ]
-    }
-  },
-  {
     "id": 174390,
     "idMal": 57924,
     "title": {
@@ -1378,6 +1215,38 @@
     }
   },
   {
+    "id": 177506,
+    "idMal": 58822,
+    "title": {
+      "romaji": "Izure Saikyou no Renkinjutsushi?",
+      "english": "Possibly the Greatest Alchemist of All Time",
+      "native": "いずれ最強の錬金術師？",
+      "userPreferred": "Possibly the Greatest Alchemist of All Time"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177506-in4J0GNzjOZL.jpg",
+      "color": "#50bbfe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736343000
+        }
+      ]
+    }
+  },
+  {
     "id": 178495,
     "idMal": 59136,
     "title": {
@@ -1409,6 +1278,39 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 179689,
+    "idMal": 59349,
+    "title": {
+      "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "english": "Headhunted to Another World: From Salaryman to Big Four!",
+      "native": "サラリーマンが異世界に行ったら四天王になった話",
+      "userPreferred": "Headhunted to Another World: From Salaryman to Big Four!"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179689-kmlqdU3IbxeM.jpg",
+      "color": "#c9e4f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179689-pmEg73tCaoMP.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736343000
+        }
+      ]
+    }
   },
   {
     "id": 176234,
@@ -1443,6 +1345,38 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 176642,
+    "idMal": 58600,
+    "title": {
+      "romaji": "Ameku Takao no Suiri Karte",
+      "english": "Ameku M.D.: Doctor Detective",
+      "native": "天久鷹央の推理カルテ",
+      "userPreferred": "Ameku M.D.: Doctor Detective"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
+      "color": "#5daef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1736348400
+        }
+      ]
+    }
   },
   {
     "id": 179297,
@@ -1510,6 +1444,68 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 145740,
+    "idMal": 51119,
+    "title": {
+      "romaji": "Grisaia: Phantom Trigger THE ANIMATION (TV)",
+      "english": "Grisaia: Phantom Trigger",
+      "native": "グリザイア：ファントムトリガー THE ANIMATION (TV)",
+      "userPreferred": "Grisaia: Phantom Trigger"
+    },
+    "format": "TV",
+    "genres": [
+      "Action"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-yblQOQLAKk6M.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145740-yblQOQLAKk6M.jpg",
+      "color": "#5d93e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736352000
+        }
+      ]
+    }
+  },
+  {
+    "id": 181776,
+    "idMal": 59892,
+    "title": {
+      "romaji": "Murder Mystery of the Dead",
+      "english": null,
+      "native": "マーダーミステリー・オブ・ザ・デッド",
+      "userPreferred": "Murder Mystery of the Dead"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181776-VRNht9pkb9Ct.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181776-VRNht9pkb9Ct.jpg",
+      "color": "#2843bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 8,
+          "airingAt": 1736352000
+        }
+      ]
+    }
   },
   {
     "id": 185538,
