@@ -1897,8 +1897,9 @@
     "romaji": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
     "english": "The Prince of Tennis: U-17 World Cup Semifinal",
     "native": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-25T22:00:00Z",
-    "delayedUntil": "2025-01-01T22:00:00Z",
+    "delayedUntil": "2025-01-08T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-01T22:00:00Z",
     "episodeNumber": 10,
@@ -1916,7 +1917,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "airing",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1950,7 +1951,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-01-08T22:00:00Z"
             }
           ]
