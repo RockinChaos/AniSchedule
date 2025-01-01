@@ -789,6 +789,45 @@
     "streams": {},
     "airingStatus": "unaired",
     "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "Possibly the Greatest Alchemist of All Time",
+        "file_name": "Possibly the Greatest Alchemist of All Time"
+      },
+      "media": {
+        "id": 177506,
+        "idMal": 58822,
+        "title": {
+          "romaji": "Izure Saikyou no Renkinjutsushi?",
+          "english": "Possibly the Greatest Alchemist of All Time",
+          "native": "いずれ最強の錬金術師？",
+          "userPreferred": "Possibly the Greatest Alchemist of All Time"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177506-in4J0GNzjOZL.jpg",
+          "color": "#50bbfe"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-01T16:01:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
     "verified": false,
     "addedAt": "2025-01-01T16:01:00Z"
   },
@@ -1307,34 +1346,33 @@
     "unaired": true,
     "media": {
       "parseObject": {
-        "anime_title": "medalist",
-        "file_name": "medalist"
+        "anime_title": "Medalist",
+        "file_name": "Medalist"
       },
       "media": {
-        "id": 117612,
-        "idMal": 41710,
+        "id": 165171,
+        "idMal": 55318,
         "title": {
-          "romaji": "Genjitsu Shugi Yuusha no Oukoku Saikenki",
-          "english": "How a Realist Hero Rebuilt the Kingdom",
-          "native": "現実主義勇者の王国再建記",
-          "userPreferred": "How a Realist Hero Rebuilt the Kingdom"
+          "romaji": "Medalist",
+          "english": "Medalist",
+          "native": "メダリスト",
+          "userPreferred": "Medalist"
         },
         "format": "TV",
         "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Romance"
+          "Drama",
+          "Psychological",
+          "Sports"
         ],
-        "duration": 24,
-        "seasonYear": 2021,
+        "duration": null,
+        "seasonYear": 2025,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx117612-MCbAaq2ypJlp.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx117612-MCbAaq2ypJlp.jpg",
-          "color": "#e4a15d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165171-nTOHsbh3pThN.jpg",
+          "color": "#f1bb5d"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/117612-MQ8iXGt2NHkB.jpg",
+        "bannerImage": null,
         "airingSchedule": {
           "nodes": [
             {
