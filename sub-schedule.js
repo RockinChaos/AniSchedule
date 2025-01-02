@@ -45,7 +45,7 @@ export async function fetchSubSchedule() {
         console.log(`Successfully resolved ${media.length} airing, saving...`)
         await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
         await writeFile('./readable/sub-schedule-readable.json', JSON.stringify(media, null, 2))
-        changes.push(...await fixMultiHeaders())
+        changes.push(...await findMissingEpisodes())
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')
         process.exit(1)
@@ -53,23 +53,20 @@ export async function fetchSubSchedule() {
     return changes
 }
 
-// fix any potential multi-header releases not found in the fetched airingSchedule //
-async function fixMultiHeaders() {
+// find and add any releases not found in the fetched airingSchedule, this should rarely ever be needed... //
+async function findMissingEpisodes() {
     const { anilistClient } = await import('./utils/anilist.js')
     const changes = []
     const currentTime = Math.floor(new Date().getTime() / 1000)
 
-    const airingSchedule = await anilistClient.fetchAiringSchedule({ from: (currentTime - 7 * 24 * 60 * 60), to: (currentTime + 7 * 24 * 60 * 60) })
-    const existingSubbedSchedule = loadJSON(path.join('./raw/sub-schedule.json'))
+    const airingSchedule = await anilistClient.fetchAiringSchedule({ from: (currentTime - 4 * 24 * 60 * 60), to: currentTime })
     const existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
     const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
 
     for (const type of ['Sub', 'Hentai']) {
         let missingEpisodes = []
-        let missingNodes = []
         airingSchedule.data.Page.airingSchedules.filter((entry) => entry.media.seasonYear >= (new Date().getFullYear() - 1)).forEach((entry) => {
             if (((type !== 'Hentai' && !entry.media.genres?.includes('Hentai')) || (type === 'Hentai' && entry.media.genres?.includes('Hentai')))) {
-                const existingSchedule = existingSubbedSchedule.find((schedule) => schedule.id === entry.media.id)
                 if ((entry.airingAt <= currentTime) && !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some((ep) => ep.id === entry.media.id && ep.episode.aired === entry.episode)) { // episode has aired and is missing from existing feed.
                     changes.push(`(${type}) Added Missing Episode ${entry.episode} for ${entry.media.title.userPreferred}`)
                     console.log(`(${type}) Adding Missing Episode ${entry.episode} for ${entry.media.title.userPreferred} to the episode feed.`)
@@ -85,21 +82,6 @@ async function fixMultiHeaders() {
                         }
                     }
                     missingEpisodes.push(missingEpisode)
-                } else if (existingSchedule) {
-                    const existingNodes = existingSchedule.airingSchedule?.nodes || []
-                    const alreadyExists = existingNodes.some((n) => n.episode === entry.episode)
-                    if (!alreadyExists && (entry.airingAt > currentTime)) { // Add missing node if the episode is not in the existing schedule and airingAt hasn't passed.
-                        console.log(`(${type}) Adding Missing scheduled Episode ${entry.episode} for ${entry.media.title.userPreferred} to the existing schedule.`)
-                        missingNodes.push({
-                            episode: entry.episode,
-                            airingAt: entry.airingAt
-                        })
-                        existingNodes.push({
-                            episode: entry.episode,
-                            airingAt: entry.airingAt
-                        })
-                        existingSchedule.airingSchedule.nodes = existingNodes.sort((a, b) => a.episode - b.episode)
-                    }
                 }
             }
         })
@@ -110,14 +92,6 @@ async function fixMultiHeaders() {
             console.log(`Added ${missingEpisodes.length} Missing Episode(s) from the ${type} feed!`)
         } else {
             console.log(`No missing ${type} Episode(s) were found in the airing schedule.`)
-        }
-
-        if (missingNodes.length > 0) { // save the missing nodes to the existing schedule.
-            saveJSON(path.join(`./raw/sub-schedule.json`), existingSubbedSchedule)
-            saveJSON(path.join(`./readable/sub-schedule-readable.json`), existingSubbedSchedule, true)
-            console.log(`Added ${missingNodes.length} Missing Airing Schedule Node(s) to the ${type} schedule!`)
-        } else {
-            console.log(`No missing ${type} scheduled episodes were found in the airing schedule.`)
         }
     }
     return changes

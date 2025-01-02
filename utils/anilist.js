@@ -21,7 +21,7 @@ coverImage {
 },
 isAdult,
 bannerImage,
-airingSchedule(page: 1, perPage: 1, notYetAired: true) {
+airingSchedule(page: 1, perPage: 50, notYetAired: true) {
   nodes {
     episode,
     airingAt
@@ -124,7 +124,7 @@ class AnilistClient {
     constructor () {
         console.log('Initializing Anilist Client')
         this.limiter.on('failed', async (error) => {
-            console.error(error)
+            console.log(`AniList Rate Limit: ${error.statusText || error.status}`)
 
             if (error.status === 500) return 1
 
@@ -134,7 +134,7 @@ class AnilistClient {
                 })
                 return 61 * 1000
             }
-            const time = ((error.headers.get('retry-after') || 60) + 1) * 1000
+            const time = (Number((error.headers.get('retry-after') || 60)) + 1) * 1000
             if (!this.rateLimitPromise) this.rateLimitPromise = sleep(time).then(() => {
                 this.rateLimitPromise = null
             })
@@ -275,6 +275,52 @@ class AnilistClient {
               }
             }`
         /** @type {import('./al.d.ts').PagedQuery<{ airingSchedules: { timeUntilAiring: number, airingAt: number, episode: number, media: import('./al.d.ts').Media}[]}>} */
+        return await this.alRequest(query, variables)
+    }
+
+    /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
+    async fetchEpisodes (variables) {
+        console.log(`Fetching airing schedule ${JSON.stringify(variables)}`)
+        let fetchedSchedules = []
+        let currentPage = 1
+
+        // cycle until all paged episodes are resolved.
+        let failedRes
+        while (true) {
+            const res = await this.episodes({ page: currentPage, perPage: 50, ...variables })
+            if (!res?.data && res?.errors) { failedRes = res }
+            if (res?.data?.Page.airingSchedules) fetchedSchedules = fetchedSchedules.concat(res?.data?.Page.airingSchedules)
+            if (!res?.data?.Page.pageInfo.hasNextPage) break
+            currentPage++
+        }
+        return {
+            data: {
+                Page: {
+                    pageInfo: {
+                        hasNextPage: false
+                    },
+                    airingSchedules: fetchedSchedules
+                }
+            }
+        }
+    }
+
+    /** @returns {Promise<import('./al.d.ts').PagedQuery<{ airingSchedules: { airingAt: number, episode: number }[]}>>} */
+    async episodes (variables = {}) {
+        console.log(`Getting episodes for ${variables.id}`)
+        const query = /* js */` 
+          query($page: Int, $perPage: Int, $id: [Int]) {
+            Page(page: $page, perPage: $perPage) {
+              pageInfo {
+                hasNextPage
+              },
+              airingSchedules(mediaId_in: $id) {
+                mediaId,
+                airingAt,
+                episode
+              }
+            }
+          }`
         return await this.alRequest(query, variables)
     }
 
