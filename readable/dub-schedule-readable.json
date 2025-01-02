@@ -782,6 +782,7 @@
     "status": "Ongoing",
     "episodeDate": "2025-01-01T16:01:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "donghua": false,
     "airType": "dub",
     "mediaTypes": [
@@ -791,7 +792,9 @@
       }
     ],
     "imageVersionRoute": "anime/jpg/default/izure-saikyou-no-renkinjutsushi-cff6fe9db5.jpg",
-    "streams": {},
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time"
+    },
     "airingStatus": "aired",
     "unaired": false,
     "media": {
