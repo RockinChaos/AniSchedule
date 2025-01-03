@@ -2037,8 +2037,9 @@
     "title": "Trillion Game",
     "route": "trillion-game",
     "native": "トリリオンゲーム",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-26T22:30:00Z",
-    "delayedUntil": "2025-01-02T22:30:00Z",
+    "delayedUntil": "2025-01-09T22:30:00Z",
     "status": "Delayed",
     "episodeDate": "2025-01-02T22:30:00Z",
     "episodeNumber": 12,
@@ -2057,7 +2058,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2092,7 +2093,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2025-01-09T22:30:00Z"
             }
           ]
