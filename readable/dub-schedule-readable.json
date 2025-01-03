@@ -377,7 +377,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -411,8 +411,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-03T23:01:00Z"
+              "episode": 12,
+              "airingAt": "2025-01-10T23:01:00Z"
             }
           ]
         }
@@ -1989,7 +1989,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
