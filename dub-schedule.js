@@ -254,8 +254,11 @@ export async function fetchDubSchedule() {
         }
     }
 
-    // modify timetables entries for better functionality.
+    // modify timetables entries for better functionality and fix any offset minutes.
     airing.forEach((entry) => {
+        const episodeDate = new Date(entry.episodeDate)
+        episodeDate.setMinutes(Math.floor((episodeDate.getMinutes() + 2.5) / 5) * 5, 0)
+        entry.episodeDate = past(episodeDate, 0, true)
         entry.delayedFrom = fixTime(entry.delayedFrom, entry.episodeDate)
         entry.delayedUntil = fixTime(entry.delayedUntil, entry.episodeDate)
         entry.unaired = ((entry.episodeNumber <= 1 || (entry.subtractedEpisodeNumber <= 1 && entry.episodeNumber > 1)) && Math.floor(new Date(entry.episodeDate).getTime()) > Math.floor(Date.now()))
