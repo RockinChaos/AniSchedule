@@ -358,10 +358,10 @@
     "title": "Cardfight!! Vanguard: Divinez Season 2",
     "route": "cardfight-vanguard-overdress-season-7",
     "native": "カードファイト!! ヴァンガード Divinez Season2",
-    "delayedFrom": "0001-01-01T23:01:00Z",
-    "delayedUntil": "0001-01-01T23:01:00Z",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-03T23:01:00Z",
+    "episodeDate": "2025-01-03T23:00:00Z",
     "episodeNumber": 13,
     "subtractedEpisodeNumber": 11,
     "episodes": 13,
@@ -413,15 +413,15 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-01-03T23:01:00Z"
+              "airingAt": "2025-01-03T23:00:00Z"
             },
             {
               "episode": 12,
-              "airingAt": "2025-01-03T23:01:00Z"
+              "airingAt": "2025-01-03T23:00:00Z"
             },
             {
               "episode": 13,
-              "airingAt": "2025-01-03T23:01:00Z"
+              "airingAt": "2025-01-03T23:00:00Z"
             }
           ]
         }
@@ -641,10 +641,10 @@
   {
     "title": "Fate/strange Fake",
     "route": "fate-strange-fake",
-    "delayedFrom": "0001-01-01T14:01:00Z",
-    "delayedUntil": "0001-01-01T14:01:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2024-12-31T14:01:00Z",
+    "episodeDate": "2024-12-31T14:00:00Z",
     "episodeNumber": 1,
     "lengthMin": 25,
     "donghua": false,
@@ -696,7 +696,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2025-01-07T14:01:00Z"
+              "airingAt": "2025-01-07T14:00:00Z"
             }
           ]
         }
@@ -1343,10 +1343,10 @@
     "title": "Medalist",
     "route": "medalist",
     "native": "メダリスト",
-    "delayedFrom": "0001-01-01T16:32:00Z",
-    "delayedUntil": "0001-01-01T16:32:00Z",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-04T16:32:00Z",
+    "episodeDate": "2025-01-04T16:30:00Z",
     "episodeNumber": 1,
     "episodes": 13,
     "donghua": false,
@@ -1394,7 +1394,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-01-04T16:32:00Z"
+              "airingAt": "2025-01-04T16:30:00Z"
             }
           ]
         }
@@ -2117,10 +2117,10 @@
     "title": "Zenshuu.",
     "route": "zenshu",
     "native": "全修。",
-    "delayedFrom": "0001-01-01T17:16:00Z",
-    "delayedUntil": "0001-01-01T17:16:00Z",
+    "delayedFrom": "0001-01-01T17:15:00Z",
+    "delayedUntil": "0001-01-01T17:15:00Z",
     "status": "Upcoming",
-    "episodeDate": "2025-01-05T17:16:00Z",
+    "episodeDate": "2025-01-05T17:15:00Z",
     "episodeNumber": 1,
     "donghua": false,
     "airType": "dub",
@@ -2166,7 +2166,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-01-05T17:16:00Z"
+              "airingAt": "2025-01-05T17:15:00Z"
             }
           ]
         }
