@@ -1358,9 +1358,11 @@
       }
     ],
     "imageVersionRoute": "anime/jpg/default/medalist-3c6f5f3ba8.jpg",
-    "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "streams": {
+      "hulu": "www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "medalist",
@@ -1381,7 +1383,7 @@
           "Psychological",
           "Sports"
         ],
-        "duration": null,
+        "duration": 23,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg",
@@ -1393,8 +1395,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-04T16:30:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-11T16:30:00Z"
             }
           ]
         }
