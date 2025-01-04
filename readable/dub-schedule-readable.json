@@ -240,7 +240,7 @@
       "hulu": "www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgOSk5QmPX6aolSUsXgCMc-"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -274,8 +274,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-01-04T15:15:00Z"
+              "episode": 11,
+              "airingAt": "2025-01-11T15:15:00Z"
             }
           ]
         }
