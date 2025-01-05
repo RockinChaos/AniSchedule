@@ -96,7 +96,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -289,8 +289,9 @@
     "title": "Blue Lock VS. U-20 JAPAN",
     "route": "blue-lock-2nd-season",
     "native": "ブルーロック VS. U-20 JAPAN",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T21:00:00Z",
-    "delayedUntil": "2025-01-04T21:00:00Z",
+    "delayedUntil": "2025-01-11T21:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-04T21:00:00Z",
     "episodeNumber": 11,
@@ -309,7 +310,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -343,7 +344,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2025-01-11T21:00:00Z"
             }
           ]
@@ -1061,8 +1062,9 @@
     "romaji": "Kimi wa Meido-sama.",
     "english": "You Are Ms. Servant",
     "native": "君は冥土様。",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T23:30:00Z",
-    "delayedUntil": "2025-01-04T23:30:00Z",
+    "delayedUntil": "2025-01-11T23:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-04T23:30:00Z",
     "episodeNumber": 11,
@@ -1081,7 +1083,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1116,7 +1118,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-01-04T23:30:00Z"
+              "airingAt": "2025-01-11T23:30:00Z"
             }
           ]
         }
@@ -1201,8 +1203,9 @@
     "romaji": "Maou 2099",
     "english": "Demon Lord 2099",
     "native": "魔王2099",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T22:30:00Z",
-    "delayedUntil": "2025-01-04T22:30:00Z",
+    "delayedUntil": "2025-01-11T22:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-04T22:30:00Z",
     "episodeNumber": 10,
@@ -1220,7 +1223,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1256,7 +1259,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-01-11T22:30:00Z"
             }
           ]
@@ -1273,8 +1276,9 @@
     "romaji": "Maou-sama, Retry! R",
     "english": "Demon Lord, Retry! R",
     "native": "魔王様、リトライ! R",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T21:30:00Z",
-    "delayedUntil": "2025-01-04T21:30:00Z",
+    "delayedUntil": "2025-01-11T21:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-04T21:30:00Z",
     "episodeNumber": 12,
@@ -1293,7 +1297,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
       "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1329,7 +1333,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2025-01-04T21:30:00Z"
+              "airingAt": "2025-01-11T21:30:00Z"
             }
           ]
         }
@@ -1544,75 +1548,6 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Ooi! Tonbo 2nd Season",
-    "route": "ooi-tonbo-2nd-season",
-    "romaji": "Ooi! Tonbo 2nd Season",
-    "english": "Hey! Tonbo 2nd Season",
-    "native": "オーイ! とんぼ 第2期",
-    "delayedFrom": "2024-12-28T18:30:00Z",
-    "delayedUntil": "2025-01-04T18:30:00Z",
-    "status": "Finished",
-    "episodeDate": "2025-01-04T18:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/ooi-tonbo-2nd-season-c15726c602.jpg",
-    "streams": {
-      "amazon": "www.amazon.com/dp/B0DH8D89GR"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "ooi-tonbo-2nd-season",
-        "file_name": "ooi-tonbo-2nd-season"
-      },
-      "media": {
-        "id": 178729,
-        "idMal": 59175,
-        "title": {
-          "romaji": "Ooi! Tonbo 2nd Season",
-          "english": "Tonbo! Season 2",
-          "native": "オーイ! とんぼ 第2期",
-          "userPreferred": "Tonbo! Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Sports"
-        ],
-        "duration": 24,
-        "seasonYear": 2024,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178729-SkLnIC30dvLB.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178729-SkLnIC30dvLB.jpg",
-          "color": "#f1860d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2025-01-04T18:30:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": true,
-    "addedAt": "2024-11-28T21:16:32Z"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
@@ -2121,7 +2056,7 @@
     "native": "全修。",
     "delayedFrom": "0001-01-01T17:15:00Z",
     "delayedUntil": "0001-01-01T17:15:00Z",
-    "status": "Upcoming",
+    "status": "Ongoing",
     "episodeDate": "2025-01-05T17:15:00Z",
     "episodeNumber": 1,
     "donghua": false,
