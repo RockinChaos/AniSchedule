@@ -55,7 +55,7 @@ export async function fetchSubSchedule() {
             let modified = false
             media.forEach(entry => {
                 (type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).filter(media => media.id === entry.id).forEach(episode => {
-                    if ((entry.idMal && (episode.idMal !== entry.idMal)) || episode.format !== entry.format || episode.duration !== entry.duration) {
+                    if ((entry.idMal && (episode.idMal !== entry.idMal)) || episode.format !== entry.format || episode.duration !== (entry.duration ? entry.duration : durationMap[entry.format])) {
                         changes.push(`(${type}) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration.`)
                         console.log(`(${type}) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
                         if (entry.idMal) episode.idMal = entry.idMal
