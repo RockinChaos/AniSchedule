@@ -573,8 +573,9 @@
   {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
     "route": "fairy-tail-100-years-quest",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T22:00:00Z",
-    "delayedUntil": "2025-01-05T22:00:00Z",
+    "delayedUntil": "2025-01-12T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-05T22:00:00Z",
     "episodeNumber": 23,
@@ -593,7 +594,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GG5H5XQED/fairy-tail-100-years-quest",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl23uIjbwVKoUA3dbo6FiGoX"
     },
-    "airingStatus": "airing",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -628,7 +629,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 24,
+              "episode": 23,
               "airingAt": "2025-01-12T22:00:00Z"
             }
           ]
@@ -855,8 +856,9 @@
     "romaji": "Kami no Tou 2",
     "english": "Tower of God 2",
     "native": "神之塔 -Tower of God- 2",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T21:00:00Z",
-    "delayedUntil": "2025-01-05T21:00:00Z",
+    "delayedUntil": "2025-01-12T21:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-05T21:00:00Z",
     "episodeNumber": 24,
@@ -874,7 +876,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6J0G49DR/tower-of-god"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -910,7 +912,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 25,
+              "episode": 24,
               "airingAt": "2025-01-12T21:00:00Z"
             }
           ]
@@ -1415,8 +1417,9 @@
     "title": "MF Ghost 2nd Season",
     "route": "mf-ghost-second-season",
     "native": "MFゴースト 2nd Season",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T21:30:00Z",
-    "delayedUntil": "2025-01-05T21:30:00Z",
+    "delayedUntil": "2025-01-12T21:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-05T21:30:00Z",
     "episodeNumber": 11,
@@ -1434,7 +1437,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GEXH3W2W7/mf-ghost"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1467,7 +1470,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2025-01-12T21:30:00Z"
             }
           ]
@@ -1774,8 +1777,9 @@
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "english": "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game 2nd Season",
     "native": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T20:00:00Z",
-    "delayedUntil": "2025-01-05T20:00:00Z",
+    "delayedUntil": "2025-01-12T20:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-05T20:00:00Z",
     "episodeNumber": 10,
@@ -1794,7 +1798,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1830,7 +1834,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-01-12T20:00:00Z"
             }
           ]
