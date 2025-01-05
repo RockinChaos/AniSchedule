@@ -66,7 +66,7 @@ export async function fetchSubSchedule() {
                 })
             })
             if (modified) {
-                const newFeed = [...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+                const newFeed = Object.values([...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
                 saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
                 saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
                 console.log(`(${type}) Episodes have been corrected and saved...`)
@@ -112,7 +112,7 @@ async function findMissingEpisodes() {
             }
         })
         if (missingEpisodes.length > 0) { // save the missing episodes to the existing feed.
-            const newFeed = [...(missingEpisodes.filter(({ id, episode }) => !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some(media => media.id === id && media.episode.aired === episode.aired)).sort((a, b) => b.episode.aired - a.episode.aired)), ...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+            const newFeed = Object.values([...missingEpisodes.filter(({ id, episode }) => !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some(media => media.id === id && media.episode.aired === episode.aired)), ...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
             saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
             saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
             console.log(`Added ${missingEpisodes.length} Missing Episode(s) from the ${type} feed!`)
@@ -162,8 +162,8 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
         })
     })
 
-    const newFeed = [...(newEpisodes.filter(({ id, episode }) => !existingSubbedFeed.some(media => media.id === id && media.episode.aired === episode.aired)).sort((a, b) => b.episode.aired - a.episode.aired)), ...existingSubbedFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
-    const hentaiFeed = [...(newHentaiEpisodes.filter(({ id, episode }) => !existingHentaiFeed.some(media => media.id === id && media.episode.aired === episode.aired)).sort((a, b) => b.episode.aired - a.episode.aired)), ...existingHentaiFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+    const newFeed = Object.values([...newEpisodes.filter(({ id, episode }) => !existingSubbedFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingSubbedFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
+    const hentaiFeed = Object.values([...newHentaiEpisodes.filter(({ id, episode }) => !existingHentaiFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingHentaiFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
 
     saveJSON(path.join('./raw/sub-episode-feed.json'), newFeed)
     saveJSON(path.join('./raw/hentai-episode-feed.json'), hentaiFeed)
