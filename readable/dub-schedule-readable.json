@@ -2070,8 +2070,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/zenshu-90c577e2b4.jpg",
     "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "zenshu",
@@ -2103,8 +2103,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-05T17:15:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-12T17:15:00Z"
             }
           ]
         }
