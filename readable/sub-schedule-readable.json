@@ -1,164 +1,5 @@
 [
   {
-    "id": 176508,
-    "idMal": 58572,
-    "title": {
-      "romaji": "Shangri-La Frontier 2nd Season",
-      "english": "Shangri-La Frontier Season 2",
-      "native": "シャングリラ・フロンティア 2nd season",
-      "userPreferred": "Shangri-La Frontier Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
-      "color": "#78aed6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1736064000
-        },
-        {
-          "episode": 14,
-          "airingAt": 1736668800
-        },
-        {
-          "episode": 15,
-          "airingAt": 1737273600
-        },
-        {
-          "episode": 16,
-          "airingAt": 1737878400
-        },
-        {
-          "episode": 17,
-          "airingAt": 1738483200
-        },
-        {
-          "episode": 18,
-          "airingAt": 1739088000
-        },
-        {
-          "episode": 19,
-          "airingAt": 1739692800
-        },
-        {
-          "episode": 20,
-          "airingAt": 1740297600
-        },
-        {
-          "episode": 21,
-          "airingAt": 1740902400
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741507200
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742112000
-        },
-        {
-          "episode": 24,
-          "airingAt": 1742716800
-        },
-        {
-          "episode": 25,
-          "airingAt": 1743321600
-        }
-      ]
-    }
-  },
-  {
-    "id": 185462,
-    "idMal": 60425,
-    "title": {
-      "romaji": "0-saiji Start Dash Monogatari Season 2",
-      "english": null,
-      "native": "0歳児スタートダッシュ物語 シーズン2",
-      "userPreferred": "0-saiji Start Dash Monogatari Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185462-63GUMNU2RGUd.jpg",
-      "color": "#e45d6b"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736067300
-        },
-        {
-          "episode": 2,
-          "airingAt": 1736672100
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737276900
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737881700
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738486500
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739091300
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739696100
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740300900
-        },
-        {
-          "episode": 9,
-          "airingAt": 1740905700
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741510500
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742115300
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742720100
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 170650,
     "idMal": 57050,
     "title": {
@@ -5234,6 +5075,85 @@
     "unaired": true
   },
   {
+    "id": 176508,
+    "idMal": 58572,
+    "title": {
+      "romaji": "Shangri-La Frontier 2nd Season",
+      "english": "Shangri-La Frontier Season 2",
+      "native": "シャングリラ・フロンティア 2nd season",
+      "userPreferred": "Shangri-La Frontier Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
+      "color": "#78aed6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 14,
+          "airingAt": 1736668800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1737273600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1737878400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1738483200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1739088000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1739692800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1740297600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1740902400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1741507200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742112000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1742716800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1743321600
+        }
+      ]
+    }
+  },
+  {
     "id": 173333,
     "idMal": 57827,
     "title": {
@@ -5310,6 +5230,77 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 185462,
+    "idMal": 60425,
+    "title": {
+      "romaji": "0-saiji Start Dash Monogatari Season 2",
+      "english": null,
+      "native": "0歳児スタートダッシュ物語 シーズン2",
+      "userPreferred": "0-saiji Start Dash Monogatari Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185462-63GUMNU2RGUd.jpg",
+      "color": "#e45d6b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736672100
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737276900
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737881700
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738486500
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739091300
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739696100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740300900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1740905700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741510500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742115300
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742720100
+        }
+      ]
+    }
   },
   {
     "id": 172258,
