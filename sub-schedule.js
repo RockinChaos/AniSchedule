@@ -49,6 +49,29 @@ export async function fetchSubSchedule() {
         await writeFile('./readable/sub-schedule-readable.json', JSON.stringify(media, null, 2))
         changes.push(...await updateSubFeed(false, (await anilistClient.searchAllIDS({ id: media.map((entry) => entry.id), aired: true }))?.data?.Page?.media)) // find any missing for the currently scheduled media.
         changes.push(...await findMissingEpisodes())
+        const existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
+        const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
+        for (const type of ['Sub', 'Hentai']) {
+            let modified = false
+            media.forEach(entry => {
+                (type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).filter(media => media.id === entry.id).forEach(episode => {
+                    if ((entry.idMal && (episode.idMal !== entry.idMal)) || episode.format !== entry.format || episode.duration !== entry.duration) {
+                        changes.push(`(${type}) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration.`)
+                        console.log(`(${type}) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
+                        if (entry.idMal) episode.idMal = entry.idMal
+                        episode.format = entry.format
+                        episode.duration = entry.duration ? entry.duration : durationMap[entry.format]
+                        modified = true
+                    }
+                })
+            })
+            if (modified) {
+                const newFeed = [...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+                saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
+                saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
+                console.log(`(${type}) Episodes have been corrected and saved...`)
+            }
+        }
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')
         process.exit(1)

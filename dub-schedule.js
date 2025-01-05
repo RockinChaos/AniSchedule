@@ -354,6 +354,26 @@ export async function fetchDubSchedule() {
         console.log(`Successfully resolved ${combinedResults.length} airing, saving...`)
         await writeFile('./raw/dub-schedule.json', JSON.stringify(combinedResults))
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(combinedResults, null, 2))
+        const existingDubbedFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
+        let modified = false
+        combinedResults.map((entry) => entry.media).forEach(entry => {
+            existingDubbedFeed.filter(media => media.id === entry.id).forEach(episode => {
+                if ((entry.idMal && (episode.idMal !== entry.idMal)) || episode.format !== entry.format || episode.duration !== entry.duration) {
+                    changes.push(`(Dub) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration.`)
+                    console.log(`(Dub) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
+                    if (entry.idMal) episode.idMal = entry.idMal
+                    episode.format = entry.format
+                    episode.duration = entry.duration ? entry.duration : durationMap[entry.format]
+                    modified = true
+                }
+            })
+        })
+        if (modified) {
+            const newFeed = [...existingDubbedFeed].sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+            saveJSON(path.join(`./raw/dub-episode-feed.json`), newFeed)
+            saveJSON(path.join(`./readable/dub-episode-feed-readable.json`), newFeed, true)
+            console.log(`(Dub) Episodes have been corrected and saved...`)
+        }
     } else {
         console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
         process.exit(1)
