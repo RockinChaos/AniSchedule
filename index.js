@@ -11,7 +11,7 @@ await fs.mkdir('./raw', { recursive: true }, () => {})
 const changes = []
 
 if (process.argv.includes('update-sub-feed') || process.argv.includes('update-all-feeds') || process.argv.includes('update-subs')) {
-    const subChanges = await updateSubFeed()
+    const subChanges = await updateSubFeed(process.argv.includes('update-subs'))
     changes.push(...subChanges)
 }
 

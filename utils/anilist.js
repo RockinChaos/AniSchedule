@@ -20,8 +20,18 @@ coverImage {
   color
 },
 isAdult,
-bannerImage,
+bannerImage`
+
+const queryAiringObjects = /* js */`
 airingSchedule(page: 1, perPage: 50, notYetAired: true) {
+  nodes {
+    episode,
+    airingAt
+  }
+}`
+
+const queryAiredObjects = /* js */`
+airingSchedule(page: 1, perPage: 50, notYetAired: false) {
   nodes {
     episode,
     airingAt
@@ -156,7 +166,7 @@ class AnilistClient {
               hasNextPage
             },
             media(id_not_in: $id_not, idMal_not_in: $idMal_not, idMal_in: $idMal, type: ANIME, search: $search, sort: $sort, onList: $onList, status: $status, status_not: $status_not, season: $season, seasonYear: $year, genre_in: $genre, tag_in: $tag, format: $format, format_not: MUSIC) {
-              ${queryObjects}
+              ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
             }
           }
         }`
@@ -173,7 +183,7 @@ class AnilistClient {
         const query = /* js */` 
         query($id: Int) { 
           Media(id: $id, type: ANIME) {
-            ${queryObjects}
+            ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
           }
         }`
         return await this.alRequest(query, variables)
@@ -193,7 +203,7 @@ class AnilistClient {
                   hasNextPage
                 },
                 media(id_in: $id, idMal_in: $idMal, id_not_in: $id_not, type: ANIME, status_in: $status, onList: $onList, search: $search, sort: $sort, season: $season, seasonYear: $year, genre_in: $genre, tag_in: $tag, format: $format) {
-                  ${queryObjects}
+                  ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
                 }
               }
             }`
@@ -209,7 +219,7 @@ class AnilistClient {
         // cycle until all paged ids are resolved.
         let failedRes
         while (true) {
-            const res = await this.searchIDS({ page: currentPage, perPage: 50, id: variables.id })
+            const res = await this.searchIDS({ ...variables, page: currentPage, perPage: 50, ...( variables?.id && variables?.id?.length !== 0 ? { id: [...new Set(variables.id)] } : { idMal: [...new Set(variables.idMal)] }) })
             if (!res?.data && res?.errors) { failedRes = res }
             if (res?.data?.Page.media) fetchedIDS = fetchedIDS.concat(res?.data?.Page.media)
             if (!res?.data?.Page.pageInfo.hasNextPage) break
@@ -269,7 +279,7 @@ class AnilistClient {
                   timeUntilAiring,
                   airingAt,
                   media {
-                    ${queryObjects}
+                    ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
                   }
                 }
               }
