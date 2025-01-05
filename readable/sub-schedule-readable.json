@@ -1689,74 +1689,6 @@
     "unaired": true
   },
   {
-    "id": 176642,
-    "idMal": 58600,
-    "title": {
-      "romaji": "Ameku Takao no Suiri Karte",
-      "english": "Ameku M.D.: Doctor Detective",
-      "native": "天久鷹央の推理カルテ",
-      "userPreferred": "Ameku M.D.: Doctor Detective"
-    },
-    "format": "TV",
-    "genres": [
-      "Mystery",
-      "Slice of Life"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
-      "color": "#5daef1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1736348400
-        },
-        {
-          "episode": 4,
-          "airingAt": 1736953200
-        },
-        {
-          "episode": 5,
-          "airingAt": 1737558000
-        },
-        {
-          "episode": 6,
-          "airingAt": 1738162800
-        },
-        {
-          "episode": 7,
-          "airingAt": 1738767600
-        },
-        {
-          "episode": 8,
-          "airingAt": 1739372400
-        },
-        {
-          "episode": 9,
-          "airingAt": 1739977200
-        },
-        {
-          "episode": 10,
-          "airingAt": 1740582000
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741186800
-        },
-        {
-          "episode": 12,
-          "airingAt": 1741791600
-        }
-      ]
-    }
-  },
-  {
     "id": 179297,
     "idMal": 59265,
     "title": {
@@ -1834,6 +1766,74 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 176642,
+    "idMal": 58600,
+    "title": {
+      "romaji": "Ameku Takao no Suiri Karte",
+      "english": "Ameku M.D.: Doctor Detective",
+      "native": "天久鷹央の推理カルテ",
+      "userPreferred": "Ameku M.D.: Doctor Detective"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Slice of Life"
+    ],
+    "duration": 25,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
+      "color": "#5daef1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1736348400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1736953200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1737558000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1738162800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1738767600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1739372400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1739977200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1740582000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1741186800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1741791600
+        }
+      ]
+    }
   },
   {
     "id": 175443,
@@ -2380,77 +2380,6 @@
     }
   },
   {
-    "id": 177159,
-    "idMal": 58739,
-    "title": {
-      "romaji": "Momentary Lily",
-      "english": "Momentary Lily",
-      "native": "もめんたりー・リリィ",
-      "userPreferred": "Momentary Lily"
-    },
-    "format": "TV",
-    "genres": [
-      "Action"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177159-Yt7VNCVjlnxR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177159-Yt7VNCVjlnxR.jpg",
-      "color": "#50bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1736433000
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737037800
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737642600
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738247400
-        },
-        {
-          "episode": 6,
-          "airingAt": 1738852200
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739457000
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740061800
-        },
-        {
-          "episode": 9,
-          "airingAt": 1740666600
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741271400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741876200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742481000
-        }
-      ]
-    }
-  },
-  {
     "id": 178548,
     "idMal": 59144,
     "title": {
@@ -2530,6 +2459,77 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 177159,
+    "idMal": 58739,
+    "title": {
+      "romaji": "Momentary Lily",
+      "english": "Momentary Lily",
+      "native": "もめんたりー・リリィ",
+      "userPreferred": "Momentary Lily"
+    },
+    "format": "TV",
+    "genres": [
+      "Action"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177159-Yt7VNCVjlnxR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177159-Yt7VNCVjlnxR.jpg",
+      "color": "#50bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736433000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737037800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737642600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738247400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1738852200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739457000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740061800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1740666600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741271400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1741876200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742481000
+        }
+      ]
+    }
   },
   {
     "id": 170942,
@@ -4093,77 +4093,6 @@
     }
   },
   {
-    "id": 176158,
-    "idMal": 58473,
-    "title": {
-      "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
-      "english": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
-      "native": "Ｓランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます",
-      "userPreferred": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Ecchi",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176158-l0Ic9bAD6xJz.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176158-l0Ic9bAD6xJz.jpg",
-      "color": "#ffbb1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176158-gl9eDziks1ly.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1736604000
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737208800
-        },
-        {
-          "episode": 5,
-          "airingAt": 1737813600
-        },
-        {
-          "episode": 6,
-          "airingAt": 1738418400
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739023200
-        },
-        {
-          "episode": 8,
-          "airingAt": 1739628000
-        },
-        {
-          "episode": 9,
-          "airingAt": 1740232800
-        },
-        {
-          "episode": 10,
-          "airingAt": 1740837600
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741442400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742047200
-        }
-      ]
-    }
-  },
-  {
     "id": 177709,
     "idMal": 58939,
     "title": {
@@ -4239,6 +4168,77 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 176158,
+    "idMal": 58473,
+    "title": {
+      "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
+      "english": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
+      "native": "Ｓランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます",
+      "userPreferred": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176158-l0Ic9bAD6xJz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176158-l0Ic9bAD6xJz.jpg",
+      "color": "#ffbb1a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176158-gl9eDziks1ly.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1736604000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737208800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1737813600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1738418400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739023200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1739628000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1740232800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1740837600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1741442400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742047200
+        }
+      ]
+    }
   },
   {
     "id": 167742,
@@ -4462,121 +4462,83 @@
     }
   },
   {
-    "id": 174654,
-    "idMal": 58082,
+    "id": 180812,
+    "idMal": 59730,
     "title": {
-      "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
-      "english": "I'm Living With a Otaku NEET Kunoichi?!",
-      "native": "ニートくノ一となぜか同棲はじめました",
-      "userPreferred": "I'm Living With a Otaku NEET Kunoichi?!"
+      "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+      "english": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+      "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+      "userPreferred": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!"
     },
-    "format": "ONA",
+    "format": "TV",
     "genres": [
+      "Action",
+      "Adventure",
       "Comedy",
-      "Ecchi",
-      "Romance"
+      "Fantasy"
     ],
-    "duration": 12,
+    "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174654-J8OduNFjRpVY.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174654-J8OduNFjRpVY.jpg",
-      "color": "#e45d86"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180812-162w2RBaqJzE.jpg",
+      "color": "#5028a1"
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
+          "episode": 1,
           "airingAt": 1736607600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1737212400
         },
         {
           "episode": 3,
-          "airingAt": 1736607600
+          "airingAt": 1737817200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1738422000
         },
         {
           "episode": 5,
-          "airingAt": 1737212400
+          "airingAt": 1739026800
         },
         {
           "episode": 6,
-          "airingAt": 1737212400
+          "airingAt": 1739631600
         },
         {
           "episode": 7,
-          "airingAt": 1737817200
+          "airingAt": 1740236400
         },
         {
           "episode": 8,
-          "airingAt": 1737817200
+          "airingAt": 1740841200
         },
         {
           "episode": 9,
-          "airingAt": 1738422000
+          "airingAt": 1741446000
         },
         {
           "episode": 10,
-          "airingAt": 1738422000
+          "airingAt": 1742050800
         },
         {
           "episode": 11,
-          "airingAt": 1739026800
+          "airingAt": 1742655600
         },
         {
           "episode": 12,
-          "airingAt": 1739026800
-        },
-        {
-          "episode": 14,
-          "airingAt": 1739631600
-        },
-        {
-          "episode": 13,
-          "airingAt": 1739631600
-        },
-        {
-          "episode": 15,
-          "airingAt": 1740236400
-        },
-        {
-          "episode": 16,
-          "airingAt": 1740236400
-        },
-        {
-          "episode": 17,
-          "airingAt": 1740841200
-        },
-        {
-          "episode": 18,
-          "airingAt": 1740841200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1741446000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1741446000
-        },
-        {
-          "episode": 21,
-          "airingAt": 1742050800
-        },
-        {
-          "episode": 22,
-          "airingAt": 1742050800
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742655600
-        },
-        {
-          "episode": 24,
-          "airingAt": 1742655600
+          "airingAt": 1743260400
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 176496,
@@ -4656,83 +4618,121 @@
     }
   },
   {
-    "id": 180812,
-    "idMal": 59730,
+    "id": 174654,
+    "idMal": 58082,
     "title": {
-      "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
-      "english": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
-      "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
-      "userPreferred": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!"
+      "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
+      "english": "I'm Living With a Otaku NEET Kunoichi?!",
+      "native": "ニートくノ一となぜか同棲はじめました",
+      "userPreferred": "I'm Living With a Otaku NEET Kunoichi?!"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
-      "Action",
-      "Adventure",
       "Comedy",
-      "Fantasy"
+      "Ecchi",
+      "Romance"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180812-162w2RBaqJzE.jpg",
-      "color": "#5028a1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174654-J8OduNFjRpVY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174654-J8OduNFjRpVY.jpg",
+      "color": "#e45d86"
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
+          "episode": 3,
           "airingAt": 1736607600
         },
         {
-          "episode": 2,
-          "airingAt": 1737212400
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737817200
-        },
-        {
           "episode": 4,
-          "airingAt": 1738422000
+          "airingAt": 1736607600
         },
         {
           "episode": 5,
-          "airingAt": 1739026800
+          "airingAt": 1737212400
         },
         {
           "episode": 6,
-          "airingAt": 1739631600
+          "airingAt": 1737212400
         },
         {
           "episode": 7,
-          "airingAt": 1740236400
+          "airingAt": 1737817200
         },
         {
           "episode": 8,
-          "airingAt": 1740841200
+          "airingAt": 1737817200
         },
         {
           "episode": 9,
-          "airingAt": 1741446000
+          "airingAt": 1738422000
         },
         {
           "episode": 10,
-          "airingAt": 1742050800
+          "airingAt": 1738422000
         },
         {
           "episode": 11,
-          "airingAt": 1742655600
+          "airingAt": 1739026800
         },
         {
           "episode": 12,
-          "airingAt": 1743260400
+          "airingAt": 1739026800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1739631600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1739631600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1740236400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1740236400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1740841200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1740841200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1741446000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1741446000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1742050800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1742050800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742655600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1742655600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185541,
