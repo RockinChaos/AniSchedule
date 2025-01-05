@@ -1,167 +1,5 @@
 [
   {
-    "id": 179292,
-    "idMal": 59512,
-    "title": {
-      "romaji": "Punirunes Puni 2",
-      "english": null,
-      "native": "ぷにるんず ぷに２",
-      "userPreferred": "Punirunes Puni 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 12,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179292-jOcVLoMwkFKo.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179292-jOcVLoMwkFKo.png",
-      "color": "#e4c943"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1736036100
-        },
-        {
-          "episode": 14,
-          "airingAt": 1736640900
-        },
-        {
-          "episode": 15,
-          "airingAt": 1737245700
-        },
-        {
-          "episode": 16,
-          "airingAt": 1737850500
-        },
-        {
-          "episode": 17,
-          "airingAt": 1738455300
-        },
-        {
-          "episode": 18,
-          "airingAt": 1739060100
-        },
-        {
-          "episode": 19,
-          "airingAt": 1739664900
-        },
-        {
-          "episode": 20,
-          "airingAt": 1740269700
-        },
-        {
-          "episode": 21,
-          "airingAt": 1740874500
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741479300
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742084100
-        },
-        {
-          "episode": 24,
-          "airingAt": 1742688900
-        },
-        {
-          "episode": 25,
-          "airingAt": 1743293700
-        },
-        {
-          "episode": 26,
-          "airingAt": 1743898500
-        }
-      ]
-    }
-  },
-  {
-    "id": 183423,
-    "idMal": 60108,
-    "title": {
-      "romaji": "ONE PIECE: Gyojin Tou-hen",
-      "english": "One Piece Log: Fish-Man Island Saga",
-      "native": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
-      "userPreferred": "One Piece Log: Fish-Man Island Saga"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183423-wt4YjEiCWVVD.jpg",
-      "color": "#febb0d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183423-kYnannPuKynK.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1736037000
-        },
-        {
-          "episode": 11,
-          "airingAt": 1736641800
-        },
-        {
-          "episode": 12,
-          "airingAt": 1737246600
-        },
-        {
-          "episode": 13,
-          "airingAt": 1737851400
-        },
-        {
-          "episode": 14,
-          "airingAt": 1738456200
-        },
-        {
-          "episode": 15,
-          "airingAt": 1739061000
-        },
-        {
-          "episode": 16,
-          "airingAt": 1739665800
-        },
-        {
-          "episode": 17,
-          "airingAt": 1740270600
-        },
-        {
-          "episode": 18,
-          "airingAt": 1740875400
-        },
-        {
-          "episode": 19,
-          "airingAt": 1741480200
-        },
-        {
-          "episode": 20,
-          "airingAt": 1742085000
-        },
-        {
-          "episode": 21,
-          "airingAt": 1742689800
-        }
-      ]
-    }
-  },
-  {
     "id": 176508,
     "idMal": 58572,
     "title": {
@@ -257,7 +95,7 @@
     "genres": [
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
@@ -564,6 +402,87 @@
         {
           "episode": 8,
           "airingAt": 1741532400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185088,
+    "idMal": 60410,
+    "title": {
+      "romaji": "Yami Shibai 14",
+      "english": "Theatre of Darkness: Yamishibai 14",
+      "native": "闇芝居 十四期",
+      "userPreferred": "Theatre of Darkness: Yamishibai 14"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Horror",
+      "Supernatural"
+    ],
+    "duration": 4,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185088-pY2KxbG0KIoO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185088-pY2KxbG0KIoO.jpg",
+      "color": "#f13500"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736099400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1736704200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737309000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737913800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738518600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739123400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739728200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740333000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1740937800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741542600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742147400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742752200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743357000
         }
       ]
     },
@@ -2008,8 +1927,8 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-yblQOQLAKk6M.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145740-yblQOQLAKk6M.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-KtUZ6O59DaDq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145740-KtUZ6O59DaDq.jpg",
       "color": "#5d93e4"
     },
     "isAdult": false,
@@ -4551,7 +4470,7 @@
       "native": "ニートくノ一となぜか同棲はじめました",
       "userPreferred": "I'm Living With a Otaku NEET Kunoichi?!"
     },
-    "format": "TV_SHORT",
+    "format": "ONA",
     "genres": [
       "Comedy",
       "Ecchi",
@@ -5081,77 +5000,155 @@
     }
   },
   {
-    "id": 185088,
-    "idMal": 60410,
+    "id": 179292,
+    "idMal": 59512,
     "title": {
-      "romaji": "Yami Shibai 14",
-      "english": "Theatre of Darkness: Yamishibai 14",
-      "native": "闇芝居 十四期",
-      "userPreferred": "Theatre of Darkness: Yamishibai 14"
+      "romaji": "Punirunes Puni 2",
+      "english": null,
+      "native": "ぷにるんず ぷに２",
+      "userPreferred": "Punirunes Puni 2"
     },
     "format": "TV_SHORT",
     "genres": [
-      "Horror",
-      "Supernatural"
+      "Slice of Life"
     ],
-    "duration": null,
-    "seasonYear": 2025,
+    "duration": 12,
+    "seasonYear": 2024,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185088-pY2KxbG0KIoO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185088-pY2KxbG0KIoO.jpg",
-      "color": "#f13500"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179292-jOcVLoMwkFKo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179292-jOcVLoMwkFKo.png",
+      "color": "#e4c943"
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1736617800
+          "episode": 14,
+          "airingAt": 1736640900
         },
         {
-          "episode": 3,
-          "airingAt": 1737222600
+          "episode": 15,
+          "airingAt": 1737245700
         },
         {
-          "episode": 4,
-          "airingAt": 1737827400
+          "episode": 16,
+          "airingAt": 1737850500
         },
         {
-          "episode": 5,
-          "airingAt": 1738432200
+          "episode": 17,
+          "airingAt": 1738455300
         },
         {
-          "episode": 6,
-          "airingAt": 1739037000
+          "episode": 18,
+          "airingAt": 1739060100
         },
         {
-          "episode": 7,
-          "airingAt": 1739641800
+          "episode": 19,
+          "airingAt": 1739664900
         },
         {
-          "episode": 8,
-          "airingAt": 1740246600
+          "episode": 20,
+          "airingAt": 1740269700
         },
         {
-          "episode": 9,
-          "airingAt": 1740851400
+          "episode": 21,
+          "airingAt": 1740874500
         },
         {
-          "episode": 10,
-          "airingAt": 1741456200
+          "episode": 22,
+          "airingAt": 1741479300
         },
+        {
+          "episode": 23,
+          "airingAt": 1742084100
+        },
+        {
+          "episode": 24,
+          "airingAt": 1742688900
+        },
+        {
+          "episode": 25,
+          "airingAt": 1743293700
+        },
+        {
+          "episode": 26,
+          "airingAt": 1743898500
+        }
+      ]
+    }
+  },
+  {
+    "id": 183423,
+    "idMal": 60108,
+    "title": {
+      "romaji": "ONE PIECE: Gyojin Tou-hen",
+      "english": "One Piece Log: Fish-Man Island Saga",
+      "native": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
+      "userPreferred": "One Piece Log: Fish-Man Island Saga"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183423-wt4YjEiCWVVD.jpg",
+      "color": "#febb0d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183423-kYnannPuKynK.jpg",
+    "airingSchedule": {
+      "nodes": [
         {
           "episode": 11,
-          "airingAt": 1742061000
+          "airingAt": 1736641800
         },
         {
           "episode": 12,
-          "airingAt": 1742665800
+          "airingAt": 1737246600
         },
         {
           "episode": 13,
-          "airingAt": 1743270600
+          "airingAt": 1737851400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1738456200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1739061000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1739665800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1740270600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1740875400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1741480200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1742085000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1742689800
         }
       ]
     }
@@ -5971,6 +5968,134 @@
         }
       ]
     }
+  },
+  {
+    "id": 185073,
+    "idMal": null,
+    "title": {
+      "romaji": "Kimi to Idol Precure♪",
+      "english": null,
+      "native": "キミとアイドルプリキュア♪",
+      "userPreferred": "Kimi to Idol Precure♪"
+    },
+    "format": "TV",
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-gHHqj2Cibnt0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185073-gHHqj2Cibnt0.jpg",
+      "color": "#865de4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1738452600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1739057400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1739662200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1740267000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1740871800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1741476600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1742081400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1742686200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1743291000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1743895800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1744500600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1745105400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1745710200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1746315000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1746919800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1747524600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1748129400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1748734200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1749339000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1749943800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1750548600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1751153400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1751758200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1752363000
+        },
+        {
+          "episode": 25,
+          "airingAt": 1752967800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 163134,
