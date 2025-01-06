@@ -5,11 +5,10 @@
     "romaji": "Amagami-san Chi no Enmusubi",
     "english": "Tying the Knot with an Amagami Sister",
     "native": "甘神さんちの縁結び",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-31T21:00:00Z",
     "delayedUntil": "2025-01-07T21:00:00Z",
     "status": "Delayed",
-    "episodeDate": "2024-12-31T21:00:00Z",
+    "episodeDate": "2025-01-07T21:00:00Z",
     "episodeNumber": 11,
     "episodes": 24,
     "lengthMin": 24,
@@ -25,7 +24,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -80,8 +79,8 @@
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-04T23:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-01-11T23:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -96,7 +95,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -147,11 +146,10 @@
     "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
     "english": "Arifureta: From Commonplace to World's Strongest 3",
     "native": "ありふれた職業で世界最強 3",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-30T22:30:00Z",
     "delayedUntil": "2025-01-06T22:30:00Z",
     "status": "Delayed",
-    "episodeDate": "2024-12-30T22:30:00Z",
+    "episodeDate": "2025-01-06T22:30:00Z",
     "episodeNumber": 10,
     "episodes": 16,
     "lengthMin": 24,
@@ -168,7 +166,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -223,8 +221,8 @@
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-04T15:15:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-01-11T15:15:00Z",
+    "episodeNumber": 11,
     "episodes": 14,
     "lengthMin": 24,
     "donghua": false,
@@ -240,7 +238,7 @@
       "hulu": "www.hulu.com/series/bleach-thousand-year-blood-war-02a3c8c0-4f1d-4610-bbb4-5b8e9468d7b1",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgOSk5QmPX6aolSUsXgCMc-"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -289,11 +287,10 @@
     "title": "Blue Lock VS. U-20 JAPAN",
     "route": "blue-lock-2nd-season",
     "native": "ブルーロック VS. U-20 JAPAN",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T21:00:00Z",
     "delayedUntil": "2025-01-11T21:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-04T21:00:00Z",
+    "episodeDate": "2025-01-11T21:00:00Z",
     "episodeNumber": 11,
     "episodes": 14,
     "lengthMin": 24,
@@ -310,7 +307,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -346,83 +343,6 @@
             {
               "episode": 11,
               "airingAt": "2025-01-11T21:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": true,
-    "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Cardfight!! Vanguard: Divinez Season 2",
-    "route": "cardfight-vanguard-overdress-season-7",
-    "native": "カードファイト!! ヴァンガード Divinez Season2",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2025-01-03T23:00:00Z",
-    "episodeNumber": 13,
-    "subtractedEpisodeNumber": 11,
-    "episodes": 13,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/cardfight-vanguard-overdress-season-7-622e7522fd.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/GXJHM3NJ5/cardfight-vanguard-overdress"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "Cardfight!! Vanguard: Divinez S2",
-        "file_name": "Cardfight!! Vanguard: Divinez S2"
-      },
-      "media": {
-        "id": 165681,
-        "idMal": 54143,
-        "title": {
-          "romaji": "Cardfight!! Vanguard: Divinez Season 2",
-          "english": "CARDFIGHT!! VANGUARD Divinez Season 2",
-          "native": "カードファイト!! ヴァンガード Divinez Season2",
-          "userPreferred": "CARDFIGHT!! VANGUARD Divinez Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2024,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165681-L45Ld92GVira.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165681-L45Ld92GVira.png",
-          "color": "#e4c95d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 11,
-              "airingAt": "2025-01-03T23:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-01-03T23:00:00Z"
-            },
-            {
-              "episode": 13,
-              "airingAt": "2025-01-03T23:00:00Z"
             }
           ]
         }
@@ -509,8 +429,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-01T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-01-08T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -525,7 +445,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -573,11 +493,10 @@
   {
     "title": "FAIRY TAIL: 100 YEARS QUEST",
     "route": "fairy-tail-100-years-quest",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T22:00:00Z",
     "delayedUntil": "2025-01-12T22:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-05T22:00:00Z",
+    "episodeDate": "2025-01-12T22:00:00Z",
     "episodeNumber": 23,
     "episodes": 25,
     "lengthMin": 24,
@@ -594,7 +513,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GG5H5XQED/fairy-tail-100-years-quest",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl23uIjbwVKoUA3dbo6FiGoX"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -639,74 +558,6 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Fate/strange Fake",
-    "route": "fate-strange-fake",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2024-12-31T14:00:00Z",
-    "episodeNumber": 1,
-    "lengthMin": 25,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/fate-strange-fake-fd4cbe6f55.jpg",
-    "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/G4PH0WJQZ/fatestrange-fake"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "fate-strange-fake",
-        "file_name": "fate-strange-fake"
-      },
-      "media": {
-        "id": 166617,
-        "idMal": 55830,
-        "title": {
-          "romaji": "Fate/strange Fake",
-          "english": "Fate/strange Fake",
-          "native": "Fate/strange Fake",
-          "userPreferred": "Fate/strange Fake"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Mystery",
-          "Supernatural"
-        ],
-        "duration": 25,
-        "seasonYear": null,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
-          "color": "#1a1af1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 2,
-              "airingAt": "2025-01-07T14:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2024-12-31T14:01:00Z"
   },
   {
     "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V: Goddess of Fertility Arc",
@@ -791,8 +642,8 @@
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-01T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-01-08T16:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 23,
     "donghua": false,
     "airType": "dub",
@@ -806,7 +657,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -856,11 +707,10 @@
     "romaji": "Kami no Tou 2",
     "english": "Tower of God 2",
     "native": "神之塔 -Tower of God- 2",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T21:00:00Z",
     "delayedUntil": "2025-01-12T21:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-05T21:00:00Z",
+    "episodeDate": "2025-01-12T21:00:00Z",
     "episodeNumber": 24,
     "episodes": 26,
     "lengthMin": 24,
@@ -876,7 +726,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6J0G49DR/tower-of-god"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -997,8 +847,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-01T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-01-08T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -1014,7 +864,7 @@
       "hidive": "www.hidive.com/tv/insomniacs-after-school",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1064,11 +914,10 @@
     "romaji": "Kimi wa Meido-sama.",
     "english": "You Are Ms. Servant",
     "native": "君は冥土様。",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T23:30:00Z",
     "delayedUntil": "2025-01-11T23:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-04T23:30:00Z",
+    "episodeDate": "2025-01-11T23:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -1085,7 +934,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1139,8 +988,8 @@
     "delayedFrom": "0001-01-01T09:00:00Z",
     "delayedUntil": "0001-01-01T09:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-03T09:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-01-10T09:00:00Z",
+    "episodeNumber": 11,
     "episodes": 19,
     "lengthMin": 2,
     "donghua": false,
@@ -1155,7 +1004,7 @@
     "streams": {
       "youtube": "www.youtube.com/playlist?list=PLjv78rVJV36N6qIr8amgk5nSjKeien0q7"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1205,11 +1054,10 @@
     "romaji": "Maou 2099",
     "english": "Demon Lord 2099",
     "native": "魔王2099",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T22:30:00Z",
     "delayedUntil": "2025-01-11T22:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-04T22:30:00Z",
+    "episodeDate": "2025-01-11T22:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -1225,7 +1073,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1278,11 +1126,10 @@
     "romaji": "Maou-sama, Retry! R",
     "english": "Demon Lord, Retry! R",
     "native": "魔王様、リトライ! R",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-28T21:30:00Z",
     "delayedUntil": "2025-01-11T21:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-04T21:30:00Z",
+    "episodeDate": "2025-01-11T21:30:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
@@ -1299,7 +1146,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
       "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1352,8 +1199,8 @@
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-04T16:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-01-11T16:30:00Z",
+    "episodeNumber": 2,
     "episodes": 13,
     "lengthMin": 23,
     "donghua": false,
@@ -1368,7 +1215,7 @@
     "streams": {
       "hulu": "www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1417,11 +1264,10 @@
     "title": "MF Ghost 2nd Season",
     "route": "mf-ghost-second-season",
     "native": "MFゴースト 2nd Season",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T21:30:00Z",
     "delayedUntil": "2025-01-12T21:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-05T21:30:00Z",
+    "episodeDate": "2025-01-12T21:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -1437,7 +1283,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GEXH3W2W7/mf-ghost"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1557,11 +1403,10 @@
     "romaji": "Natsume Yuujinchou Shichi",
     "english": "Natsume's Book of Friends Season 7",
     "native": "夏目友人帳 漆",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-30T23:00:00Z",
     "delayedUntil": "2025-01-06T23:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-30T23:00:00Z",
+    "episodeDate": "2025-01-06T23:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
@@ -1577,7 +1422,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1633,7 +1478,7 @@
     "delayedFrom": "2024-12-18T21:00:00Z",
     "delayedUntil": "2025-02-19T21:00:00Z",
     "status": "Delayed",
-    "episodeDate": "2025-01-01T21:00:00Z",
+    "episodeDate": "2025-01-08T21:00:00Z",
     "episodeNumber": 9,
     "episodes": 16,
     "lengthMin": 25,
@@ -1705,11 +1550,10 @@
     "romaji": "Rekishi ni Nokoru Akujo ni Naruzo",
     "english": "I'll Become a Villainess Who Goes Down in History",
     "native": "歴史に残る悪女になるぞ",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-31T22:00:00Z",
     "delayedUntil": "2025-01-07T22:00:00Z",
     "status": "Finished",
-    "episodeDate": "2024-12-31T22:00:00Z",
+    "episodeDate": "2025-01-07T22:00:00Z",
     "episodeNumber": 11,
     "episodes": 13,
     "lengthMin": 24,
@@ -1725,7 +1569,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1779,8 +1623,8 @@
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-02T22:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-01-09T22:00:00Z",
+    "episodeNumber": 12,
     "episodes": 23,
     "lengthMin": 24,
     "donghua": false,
@@ -1795,7 +1639,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1847,11 +1691,10 @@
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "english": "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game 2nd Season",
     "native": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T20:00:00Z",
     "delayedUntil": "2025-01-12T20:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-05T20:00:00Z",
+    "episodeDate": "2025-01-12T20:00:00Z",
     "episodeNumber": 10,
     "episodes": 25,
     "lengthMin": 24,
@@ -1868,7 +1711,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1921,11 +1764,10 @@
     "romaji": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
     "english": "The Prince of Tennis: U-17 World Cup Semifinal",
     "native": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-25T22:00:00Z",
     "delayedUntil": "2025-01-08T22:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-01T22:00:00Z",
+    "episodeDate": "2025-01-08T22:00:00Z",
     "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 24,
@@ -1941,7 +1783,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1994,8 +1836,8 @@
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-03T22:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-01-10T22:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -2010,7 +1852,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2058,11 +1900,10 @@
     "title": "Trillion Game",
     "route": "trillion-game",
     "native": "トリリオンゲーム",
-    "delayedText": "Delayed",
     "delayedFrom": "2024-12-26T22:30:00Z",
     "delayedUntil": "2025-01-09T22:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-02T22:30:00Z",
+    "episodeDate": "2025-01-09T22:30:00Z",
     "episodeNumber": 12,
     "episodes": 26,
     "lengthMin": 24,
@@ -2079,7 +1920,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2132,8 +1973,10 @@
     "delayedFrom": "0001-01-01T17:15:00Z",
     "delayedUntil": "0001-01-01T17:15:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-05T17:15:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-01-12T17:15:00Z",
+    "episodeNumber": 2,
+    "episodes": 12,
+    "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
     "mediaTypes": [
@@ -2143,8 +1986,10 @@
       }
     ],
     "imageVersionRoute": "anime/jpg/default/zenshu-90c577e2b4.jpg",
-    "streams": {},
-    "airingStatus": "aired",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G24H1NW8E/zenshu"
+    },
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2165,7 +2010,7 @@
           "Comedy",
           "Romance"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176273-whKlFCswinEm.jpg",
