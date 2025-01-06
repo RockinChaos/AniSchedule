@@ -25,7 +25,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -150,7 +150,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2024-12-30T22:30:00Z",
     "delayedUntil": "2025-01-06T22:30:00Z",
-    "status": "Ongoing",
+    "status": "Delayed",
     "episodeDate": "2024-12-30T22:30:00Z",
     "episodeNumber": 10,
     "episodes": 16,
@@ -168,7 +168,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -310,7 +310,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -438,7 +438,7 @@
     "native": "ドラゴンボールDAIMA",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "status": "Delayed",
+    "status": "Ongoing",
     "episodeDate": "2025-01-10T21:30:00Z",
     "episodeNumber": 1,
     "lengthMin": 24,
@@ -594,7 +594,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GG5H5XQED/fairy-tail-100-years-quest",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl23uIjbwVKoUA3dbo6FiGoX"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -876,7 +876,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G6J0G49DR/tower-of-god"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1085,7 +1085,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1225,7 +1225,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1299,7 +1299,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM37KD/demon-lord-retry",
       "hulu": "www.hulu.com/series/fa88cddf-0752-4101-b7f8-e724d7483b3b"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1437,7 +1437,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GEXH3W2W7/mf-ghost"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1482,6 +1482,76 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+    "route": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+    "romaji": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+    "english": "The Seven Deadly Sins: Four Knights of the Apocalypse 2nd Season",
+    "native": "七つの大罪 黙示録の四騎士 第2期",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-01-30T08:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season-447905703a.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81562396"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season",
+        "file_name": "nanatsu-no-taizai-mokushiroku-no-yonkishi-2nd-season"
+      },
+      "media": {
+        "id": 176292,
+        "idMal": 58511,
+        "title": {
+          "romaji": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
+          "english": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
+          "native": "七つの大罪 黙示録の四騎士 第2期",
+          "userPreferred": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176292-meJTWM8zQjjp.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176292-meJTWM8zQjjp.jpg",
+          "color": "#f18635"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176292-esCzjSi7cgHj.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-30T08:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-30T08:00:00Z"
+  },
+  {
     "title": "Natsume Yuujinchou Shichi",
     "route": "natsume-yuujinchou-shichi",
     "romaji": "Natsume Yuujinchou Shichi",
@@ -1507,7 +1577,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1655,7 +1725,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1708,7 +1778,7 @@
     "native": "るろうに剣心 -明治剣客浪漫譚- 京都動乱",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "status": "Delayed",
+    "status": "Ongoing",
     "episodeDate": "2025-01-02T22:00:00Z",
     "episodeNumber": 11,
     "episodes": 23,
@@ -1798,7 +1868,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1871,7 +1941,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1991,7 +2061,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2024-12-26T22:30:00Z",
     "delayedUntil": "2025-01-09T22:30:00Z",
-    "status": "Delayed",
+    "status": "Ongoing",
     "episodeDate": "2025-01-02T22:30:00Z",
     "episodeNumber": 12,
     "episodes": 26,
@@ -2009,7 +2079,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
