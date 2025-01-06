@@ -1,396 +1,5 @@
 [
   {
-    "id": 170916,
-    "idMal": 57152,
-    "title": {
-      "romaji": "Mahoutsukai no Yakusoku",
-      "english": "Promise of Wizard",
-      "native": "魔法使いの約束",
-      "userPreferred": "Promise of Wizard"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170916-WNdKmGcOQhuO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170916-WNdKmGcOQhuO.jpg",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736168400
-        },
-        {
-          "episode": 2,
-          "airingAt": 1736773200
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737378000
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737982800
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738587600
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739192400
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739797200
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740402000
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741006800
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741611600
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742216400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742821200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 169441,
-    "idMal": 56701,
-    "title": {
-      "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
-      "english": "My Happy Marriage Season 2",
-      "native": "わたしの幸せな結婚 第二期",
-      "userPreferred": "My Happy Marriage Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169441-wIQe1xfCc1XS.jpg",
-      "color": "#bbd6f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736170200
-        },
-        {
-          "episode": 2,
-          "airingAt": 1736775000
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737379800
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737984600
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738589400
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739194200
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739799000
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740403800
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741008600
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741613400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742218200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742823000
-        },
-        {
-          "episode": 13,
-          "airingAt": 1743427800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 179696,
-    "idMal": 59361,
-    "title": {
-      "romaji": "Kono Kaisha ni Suki na Hito ga Imasu",
-      "english": null,
-      "native": "この会社に好きな人がいます",
-      "userPreferred": "Kono Kaisha ni Suki na Hito ga Imasu"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179696-1MAqXYVXT7IT.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179696-1MAqXYVXT7IT.jpg",
-      "color": "#ffe4ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736172000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1736776800
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737381600
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737986400
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738591200
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739196000
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739800800
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740405600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741010400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741615200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742220000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742824800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 177552,
-    "idMal": 58853,
-    "title": {
-      "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
-      "english": "Medaka Kuroiwa is Impervious to My Charms",
-      "native": "黒岩メダカに私の可愛いが通じない",
-      "userPreferred": "Medaka Kuroiwa is Impervious to My Charms"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177552-JPx2rIXeprne.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177552-JPx2rIXeprne.jpg",
-      "color": "#f1ae93"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736175600
-        },
-        {
-          "episode": 2,
-          "airingAt": 1736780400
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737385200
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737990000
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738594800
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739199600
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739804400
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740409200
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741014000
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741618800
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742223600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742828400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 176063,
-    "idMal": 58437,
-    "title": {
-      "romaji": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita",
-      "english": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
-      "native": "没落予定の貴族だけど、暇だったから魔法を極めてみた",
-      "userPreferred": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176063-dIL2xrjmOLs1.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176063-dIL2xrjmOLs1.jpg",
-      "color": "#3578e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736181000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1736785800
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737390600
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737995400
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738600200
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739205000
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739809800
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740414600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741019400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741624200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742229000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742833800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 140842,
     "idMal": 50250,
     "title": {
@@ -1523,79 +1132,6 @@
     },
     "isAdult": false,
     "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1736343000
-        },
-        {
-          "episode": 3,
-          "airingAt": 1736947800
-        },
-        {
-          "episode": 4,
-          "airingAt": 1737552600
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738157400
-        },
-        {
-          "episode": 6,
-          "airingAt": 1738762200
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739367000
-        },
-        {
-          "episode": 8,
-          "airingAt": 1739971800
-        },
-        {
-          "episode": 9,
-          "airingAt": 1740576600
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741181400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741786200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742391000
-        }
-      ]
-    }
-  },
-  {
-    "id": 179689,
-    "idMal": 59349,
-    "title": {
-      "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
-      "english": "Headhunted to Another World: From Salaryman to Big Four!",
-      "native": "サラリーマンが異世界に行ったら四天王になった話",
-      "userPreferred": "Headhunted to Another World: From Salaryman to Big Four!"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179689-kmlqdU3IbxeM.jpg",
-      "color": "#c9e4f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179689-pmEg73tCaoMP.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2822,7 +2358,7 @@
       "color": "#50bbf1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177159-gvNAEPFmGAfT.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8392,6 +7928,227 @@
     }
   },
   {
+    "id": 170916,
+    "idMal": 57152,
+    "title": {
+      "romaji": "Mahoutsukai no Yakusoku",
+      "english": "Promise of Wizard",
+      "native": "魔法使いの約束",
+      "userPreferred": "Promise of Wizard"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170916-WNdKmGcOQhuO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170916-WNdKmGcOQhuO.jpg",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736773200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737378000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737982800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738587600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739192400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739797200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740402000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741006800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741611600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742216400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742821200
+        }
+      ]
+    }
+  },
+  {
+    "id": 169441,
+    "idMal": 56701,
+    "title": {
+      "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+      "english": "My Happy Marriage Season 2",
+      "native": "わたしの幸せな結婚 第二期",
+      "userPreferred": "My Happy Marriage Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169441-wIQe1xfCc1XS.jpg",
+      "color": "#bbd6f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736775000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737379800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737984600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738589400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739194200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739799000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740403800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741008600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741613400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742218200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742823000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743427800
+        }
+      ]
+    }
+  },
+  {
+    "id": 179696,
+    "idMal": 59361,
+    "title": {
+      "romaji": "Kono Kaisha ni Suki na Hito ga Imasu",
+      "english": null,
+      "native": "この会社に好きな人がいます",
+      "userPreferred": "Kono Kaisha ni Suki na Hito ga Imasu"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179696-1MAqXYVXT7IT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179696-1MAqXYVXT7IT.jpg",
+      "color": "#ffe4ae"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179696-F96hLlVTFe3B.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736776800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737381600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737986400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738591200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739196000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739800800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740405600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741010400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741615200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742220000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742824800
+        }
+      ]
+    }
+  },
+  {
     "id": 154473,
     "idMal": 52995,
     "title": {
@@ -8437,6 +8194,220 @@
         {
           "episode": 16,
           "airingAt": 1739196000
+        }
+      ]
+    }
+  },
+  {
+    "id": 179689,
+    "idMal": 59349,
+    "title": {
+      "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "english": "Headhunted to Another World: From Salaryman to Big Four!",
+      "native": "サラリーマンが異世界に行ったら四天王になった話",
+      "userPreferred": "Headhunted to Another World: From Salaryman to Big Four!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179689-kmlqdU3IbxeM.jpg",
+      "color": "#c9e4f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179689-pmEg73tCaoMP.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1736778600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737383400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1737988200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1738593000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739197800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1739802600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1740407400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741012200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1741617000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742221800
+        }
+      ]
+    }
+  },
+  {
+    "id": 177552,
+    "idMal": 58853,
+    "title": {
+      "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "english": "Medaka Kuroiwa is Impervious to My Charms",
+      "native": "黒岩メダカに私の可愛いが通じない",
+      "userPreferred": "Medaka Kuroiwa is Impervious to My Charms"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177552-JPx2rIXeprne.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177552-JPx2rIXeprne.jpg",
+      "color": "#f1ae93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736780400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737385200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737990000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738594800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739199600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739804400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740409200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741014000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741618800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742223600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742828400
+        }
+      ]
+    }
+  },
+  {
+    "id": 176063,
+    "idMal": 58437,
+    "title": {
+      "romaji": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita",
+      "english": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
+      "native": "没落予定の貴族だけど、暇だったから魔法を極めてみた",
+      "userPreferred": "I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176063-dIL2xrjmOLs1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176063-dIL2xrjmOLs1.jpg",
+      "color": "#3578e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1736785800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737390600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1737995400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738600200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739205000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1739809800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740414600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741019400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741624200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742229000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742833800
         }
       ]
     }
