@@ -11,35 +11,52 @@ export async function fetchSubSchedule() {
 
     const date = new Date()
     const seasons = ['WINTER', 'SPRING', 'SUMMER', 'FALL']
+    const years = [date.getFullYear(), date.getFullYear() - 1, date.getFullYear() - 2, date.getFullYear() - 3, date.getFullYear() - 4, date.getFullYear() - 5]
     const currentSeason = seasons[Math.floor((date.getMonth() / 12) * 4) % 4]
-    const currentYear = date.getFullYear()
     const results = { data: { Page: { media: [], pageInfo: { hasNextPage: false } } } }
 
-    for (let page = 1, hasNextPage = true; hasNextPage && page < 5; ++page) {
-        const res = await anilistClient.search({ season: currentSeason, year: currentYear, page, perPage: 50 })
+    // fetch series that are not currently releasing for the current season (typically not yet released).
+    for (let page = 1, hasNextPage = true; hasNextPage; ++page) {
+        const res = await anilistClient.search({ season: currentSeason, year: years[0], status_not: 'RELEASING', page, perPage: 50 })
         if (!res?.data && res?.errors) throw res.errors[0]
         hasNextPage = res.data.Page.pageInfo.hasNextPage
         res.data.Page.media.forEach(media => media?.airingSchedule?.nodes?.sort((a, b) => a.airingAt - b.airingAt || a.episode - b.episode))
         results.data.Page.media = results.data.Page.media.concat(res.data.Page.media)
     }
 
+    // search each season for any currently releasing series, the duration is the current and past 5 years.
     for (let season of seasons) {
-        const res = await anilistClient.search({ season: seasons.at(seasons.indexOf(season) - 1), year: season === 'WINTER' ? currentYear - 1 : currentYear, status: 'RELEASING', page: 1, perPage: 50 })
-        if (!res?.data && res?.errors) throw res.errors[0]
-        res.data.Page.media.forEach(media => media?.airingSchedule?.nodes?.sort((a, b) => a.airingAt - b.airingAt || a.episode - b.episode))
-        results.data.Page.media = results.data.Page.media.concat(res.data.Page.media).filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index)
-    }
+        for (let year of years) {
+            for (let page = 1, hasNextPage = true; hasNextPage; ++page) {
+                const res = await anilistClient.search({ season, year, status: 'RELEASING', page, perPage: 50 })
+                if (!res?.data && res?.errors) throw res.errors[0]
+                hasNextPage = res.data.Page.pageInfo.hasNextPage
+                results.data.Page.media = results.data.Page.media.concat(res.data.Page.media)
+            }
+        }
+   }
 
+    // get the next years winter series if we have reached the end of the current year.
     if (currentSeason === 'FALL') {
-        for (let page = 1, hasNextPage = true; hasNextPage && page < 5; ++page) {
-            const res = await anilistClient.search({ season: 'WINTER', year: currentYear + 1, page, perPage: 50 })
+        for (let page = 1, hasNextPage = true; hasNextPage; ++page) {
+            const res = await anilistClient.search({ season: 'WINTER', year: years[0] + 1, page, perPage: 50 })
             if (!res?.data && res?.errors) throw res.errors[0]
             hasNextPage = res.data.Page.pageInfo.hasNextPage
             results.data.Page.media = results.data.Page.media.concat(res.data.Page.media)
         }
     }
+
+    // fetch missing episodes not yet fetched airing in the next two weeks.
+    const currentTime = Math.floor(date.getTime() / 1000)
+    const airingSchedule = await anilistClient.fetchAiringSchedule({ from: currentTime, to: (currentTime + 14 * 24 * 60 * 60) })
+    airingSchedule.data.Page.airingSchedules.forEach(schedule => {
+        if (!results.data.Page.media.some(media => media.id === schedule.media.id)) {
+            results.data.Page.media.push(schedule.media)
+        }
+    })
+
     results.data.Page.media.forEach(media => media?.airingSchedule?.nodes?.sort((a, b) => a.airingAt - b.airingAt || a.episode - b.episode))
-    results.data.Page.media = results.data.Page.media.filter(media => media.airingSchedule?.nodes?.[0]?.airingAt).sort((a, b) => a.airingSchedule.nodes[0].episode - b.airingSchedule.nodes[0].episode).sort((a, b) => a.airingSchedule.nodes[0].airingAt - b.airingSchedule.nodes[0].airingAt)
+    results.data.Page.media = results.data.Page.media.filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index).sort((a, b) => a.airingSchedule.nodes[0].episode - b.airingSchedule.nodes[0].episode).sort((a, b) => a.airingSchedule.nodes[0].airingAt - b.airingSchedule.nodes[0].airingAt)
 
     const media = results?.data?.Page?.media
     media.forEach((a) => { if (new Date(a.airingSchedule.nodes[0].airingAt).getTime() > (new Date().getTime() / 1000) && !(a.airingSchedule.nodes[0].episode > 1)) a.unaired = true })
@@ -72,6 +89,7 @@ export async function fetchSubSchedule() {
                 console.log(`(${type}) Episodes have been corrected and saved...`)
             }
         }
+        console.log(`${media.length} airing series have been saved to the schedule.`)
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')
         process.exit(1)
@@ -151,12 +169,12 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
             if (!existingEpisodes.some(ep => ep.episode.aired === node.episode) && (new Date(node.airingAt * 1000 - (scheduleUpdate ?  5 * 60 * 1000 : 0))) <= new Date()) {
                 if (entry.genres?.includes('Hentai')) { // we don't need this in the main feed...
                     newHentaiEpisodes.push(newEpisode)
-                    changes.push(`(Hentai) Added Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
-                    console.log(`Adding Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the Hentai Episode Feed.`)
+                    changes.push(`(Hentai) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
+                    console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the Hentai Episode Feed.`)
                 } else {
                     newEpisodes.push(newEpisode)
-                    changes.push(`(Sub) Added Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
-                    console.log(`Adding Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the Subbed Episode Feed.`)
+                    changes.push(`(Sub) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
+                    console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the Subbed Episode Feed.`)
                 }
             }
         })
@@ -172,13 +190,13 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
 
     if (newHentaiEpisodes.length > 0 || newEpisodes.length > 0) {
         if (newHentaiEpisodes.length > 0) {
-            console.log(`Added ${newHentaiEpisodes.length} episode(s) to the Hentai Episodes Feed.`)
+            console.log(`Added ${newHentaiEpisodes.length}${newSchedule ? ' Missing' : ''} episode(s) to the Hentai Episodes Feed.`)
             console.log(`Logged a total of ${newHentaiEpisodes.length + existingHentaiFeed.length} Hentai Episodes to date.`)
         } else {
             console.log(`No changes detected for the Hentai Episodes Feed.`)
         }
         if (newEpisodes.length > 0) {
-            console.log(`Added ${newEpisodes.length} episode(s) to the Subbed Episodes Feed.`)
+            console.log(`Added ${newEpisodes.length}${newSchedule ? ' Missing' : ''} episode(s) to the Subbed Episodes Feed.`)
             console.log(`Logged a total of ${newEpisodes.length + existingSubbedFeed.length} Subbed Episodes to date.`)
         } else {
             console.log(`No changes detected for the Subbed Episodes Feed.`)
