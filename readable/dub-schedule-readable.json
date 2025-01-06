@@ -166,7 +166,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -201,8 +201,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-01-06T22:30:00Z"
+              "episode": 11,
+              "airingAt": "2025-01-13T22:30:00Z"
             }
           ]
         }
@@ -632,6 +632,70 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Ishura 2nd Season",
+    "route": "ishura-2nd-season",
+    "native": "異修羅 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "status": "Upcoming",
+    "episodeDate": "2025-01-08T14:00:00Z",
+    "episodeNumber": 1,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/ishura-2nd-season-af75ccca80.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "ishura-2nd-season",
+        "file_name": "ishura-2nd-season"
+      },
+      "media": {
+        "id": 176234,
+        "idMal": 58484,
+        "title": {
+          "romaji": "Ishura 2nd Season",
+          "english": "ISHURA Season 2",
+          "native": "異修羅 第2期",
+          "userPreferred": "ISHURA Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176234-Wx2rAYr7YSD8.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176234-Wx2rAYr7YSD8.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-08T14:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-08T14:00:00Z"
   },
   {
     "title": "Izure Saikyou no Renkinjutsushi?",
@@ -1422,7 +1486,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1457,8 +1521,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-06T23:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-01-13T23:00:00Z"
             }
           ]
         }
