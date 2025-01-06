@@ -1967,6 +1967,74 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Watashi no Shiawase na Kekkon 2nd Season",
+    "route": "watashi-no-shiawase-na-kekkon-2nd-season",
+    "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+    "english": "My Happy Marriage Season 2",
+    "native": "わたしの幸せな結婚 第二期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-06T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/watashi-no-shiawase-na-kekkon-2nd-season-0ff293b3f9.jpg",
+    "streams": {},
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "watashi-no-shiawase-na-kekkon-2nd-season",
+        "file_name": "watashi-no-shiawase-na-kekkon-2nd-season"
+      },
+      "media": {
+        "id": 169441,
+        "idMal": 56701,
+        "title": {
+          "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+          "english": "My Happy Marriage Season 2",
+          "native": "わたしの幸せな結婚 第二期",
+          "userPreferred": "My Happy Marriage Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169441-wIQe1xfCc1XS.jpg",
+          "color": "#bbd6f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-01-13T14:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-06T20:12:38Z"
+  },
+  {
     "title": "Zenshuu.",
     "route": "zenshu",
     "native": "全修。",
