@@ -146,8 +146,9 @@
     "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
     "english": "Arifureta: From Commonplace to World's Strongest 3",
     "native": "ありふれた職業で世界最強 3",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-30T22:30:00Z",
-    "delayedUntil": "2025-01-06T22:30:00Z",
+    "delayedUntil": "2025-01-13T22:30:00Z",
     "status": "Delayed",
     "episodeDate": "2025-01-06T22:30:00Z",
     "episodeNumber": 10,
@@ -166,7 +167,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -201,7 +202,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-01-13T22:30:00Z"
             }
           ]
@@ -1467,8 +1468,9 @@
     "romaji": "Natsume Yuujinchou Shichi",
     "english": "Natsume's Book of Friends Season 7",
     "native": "夏目友人帳 漆",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-30T23:00:00Z",
-    "delayedUntil": "2025-01-06T23:00:00Z",
+    "delayedUntil": "2025-01-13T23:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-06T23:00:00Z",
     "episodeNumber": 11,
@@ -1486,7 +1488,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "airing",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1521,7 +1523,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2025-01-13T23:00:00Z"
             }
           ]
