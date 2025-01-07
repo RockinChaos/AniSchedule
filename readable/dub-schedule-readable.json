@@ -1114,6 +1114,73 @@
     "addedAt": "2024-12-29T15:21:40Z"
   },
   {
+    "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "route": "magic-maker-isekai-mahou-no-tsukurikata",
+    "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
+    "english": "Magic Maker: How to Create Magic in Another World",
+    "native": "マジック・メイカー －異世界魔法の作り方－",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "status": "Upcoming",
+    "episodeDate": "2025-01-08T17:00:00Z",
+    "episodeNumber": 1,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/magic-maker-isekai-mahou-no-tsukurikata-3b2aace5c4.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "magic-maker-isekai-mahou-no-tsukurikata",
+        "file_name": "magic-maker-isekai-mahou-no-tsukurikata"
+      },
+      "media": {
+        "id": 179297,
+        "idMal": 59265,
+        "title": {
+          "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
+          "english": "Magic Maker: How to Make Magic in Another World",
+          "native": "マジック・メイカー　～異世界魔法の作り方～",
+          "userPreferred": "Magic Maker: How to Make Magic in Another World"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179297-qaG8nCqMpR3o.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179297-qaG8nCqMpR3o.jpg",
+          "color": "#e4935d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-08T17:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-08T17:00:00Z"
+  },
+  {
     "title": "Maou 2099",
     "route": "maou-2099",
     "romaji": "Maou 2099",
@@ -1635,7 +1702,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
