@@ -643,6 +643,7 @@
     "status": "Ongoing",
     "episodeDate": "2025-01-08T14:00:00Z",
     "episodeNumber": 1,
+    "episodes": 12,
     "donghua": false,
     "airType": "dub",
     "mediaTypes": [
@@ -652,7 +653,9 @@
       }
     ],
     "imageVersionRoute": "anime/jpg/default/ishura-2nd-season-af75ccca80.jpg",
-    "streams": {},
+    "streams": {
+      "hulu": "www.hulu.com/series/811bac64-a492-4f1e-ba7a-393c825daeec"
+    },
     "airingStatus": "aired",
     "unaired": false,
     "media": {
@@ -709,6 +712,7 @@
     "status": "Ongoing",
     "episodeDate": "2025-01-08T16:00:00Z",
     "episodeNumber": 2,
+    "episodes": 12,
     "lengthMin": 23,
     "donghua": false,
     "airType": "dub",
@@ -1124,6 +1128,8 @@
     "status": "Ongoing",
     "episodeDate": "2025-01-08T17:00:00Z",
     "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
     "mediaTypes": [
@@ -1133,7 +1139,9 @@
       }
     ],
     "imageVersionRoute": "anime/jpg/default/magic-maker-isekai-mahou-no-tsukurikata-3b2aace5c4.jpg",
-    "streams": {},
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
+    },
     "airingStatus": "aired",
     "unaired": false,
     "media": {
@@ -1916,7 +1924,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1950,8 +1958,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-01-08T22:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-01-15T22:00:00Z"
             }
           ]
         }
