@@ -653,8 +653,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/ishura-2nd-season-af75ccca80.jpg",
     "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "ishura-2nd-season",
@@ -687,8 +687,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-08T14:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-15T14:00:00Z"
             }
           ]
         }
