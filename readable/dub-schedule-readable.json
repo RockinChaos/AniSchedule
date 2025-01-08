@@ -446,7 +446,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -480,8 +480,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-01-08T17:00:00Z"
+              "episode": 7,
+              "airingAt": "2025-01-15T17:00:00Z"
             }
           ]
         }
@@ -722,7 +722,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -929,7 +929,7 @@
       "hidive": "www.hidive.com/tv/insomniacs-after-school",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -962,8 +962,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-01-08T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-01-15T17:00:00Z"
             }
           ]
         }
@@ -1134,8 +1134,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/magic-maker-isekai-mahou-no-tsukurikata-3b2aace5c4.jpg",
     "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "magic-maker-isekai-mahou-no-tsukurikata",
@@ -1169,8 +1169,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-08T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-15T17:00:00Z"
             }
           ]
         }
