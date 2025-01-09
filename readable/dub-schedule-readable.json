@@ -354,6 +354,70 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Dr. Stone: Science Future",
+    "route": "dr-stone-science-future",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-09T15:00:00Z",
+    "episodeNumber": 1,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/dr-stone-science-future-a696ffecab.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "dr-stone-science-future",
+        "file_name": "dr-stone-science-future"
+      },
+      "media": {
+        "id": 172019,
+        "idMal": 57592,
+        "title": {
+          "romaji": "Dr. STONE: SCIENCE FUTURE",
+          "english": "Dr. STONE SCIENCE FUTURE",
+          "native": "Dr.STONE SCIENCE FUTURE",
+          "userPreferred": "Dr. STONE SCIENCE FUTURE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172019-y0dLlAdingR2.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172019-y0dLlAdingR2.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172019-qchFwdk8OM4m.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-09T15:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-09T15:00:00Z"
+  },
+  {
     "title": "Dragon Ball DAIMA",
     "route": "dragon-ball-daima",
     "native": "ドラゴンボールDAIMA",
@@ -566,11 +630,11 @@
     "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
     "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V: Goddess of Fertility Arc",
     "native": "ダンジョンに出会いを求るのは間違っているだろうかV",
-    "delayedText": "Suspended",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-01-01T17:00:00Z",
-    "delayedUntil": "2031-01-01T17:00:00Z",
+    "delayedUntil": "2025-01-22T17:00:00Z",
     "status": "Delayed",
-    "episodeDate": "2025-01-01T17:00:00Z",
+    "episodeDate": "2025-01-08T17:00:00Z",
     "episodeNumber": 8,
     "episodes": 15,
     "lengthMin": 24,
@@ -587,7 +651,6 @@
       "hidive": "www.hidive.com/season/26756"
     },
     "airingStatus": "delayed-air",
-    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "parseObject": {
@@ -624,7 +687,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2031-01-01T17:00:00Z"
+              "airingAt": "2025-01-22T17:00:00Z"
             }
           ]
         }
@@ -1909,7 +1972,8 @@
     "delayedUntil": "2025-01-08T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-08T22:00:00Z",
-    "episodeNumber": 10,
+    "episodeNumber": 11,
+    "subtractedEpisodeNumber": 10,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -1958,7 +2022,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 10,
+              "airingAt": "2025-01-08T22:00:00Z"
+            },
+            {
               "episode": 11,
+              "airingAt": "2025-01-08T22:00:00Z"
+            },
+            {
+              "episode": 12,
               "airingAt": "2025-01-15T22:00:00Z"
             }
           ]
