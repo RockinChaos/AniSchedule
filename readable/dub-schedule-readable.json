@@ -1847,7 +1847,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1882,8 +1882,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2025-01-09T22:00:00Z"
+              "episode": 13,
+              "airingAt": "2025-01-16T22:00:00Z"
             }
           ]
         }
