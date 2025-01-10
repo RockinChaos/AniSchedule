@@ -1,260 +1,5 @@
 [
   {
-    "id": 8336,
-    "idMal": 8336,
-    "title": {
-      "romaji": "Hanakappa",
-      "english": null,
-      "native": "はなかっぱ",
-      "userPreferred": "Hanakappa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 10,
-    "seasonYear": 2010,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8336-BJzIHFC49RWb.jpg",
-      "color": "#f1ae43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 586,
-          "airingAt": 1736460600
-        },
-        {
-          "episode": 587,
-          "airingAt": 1737065400
-        },
-        {
-          "episode": 588,
-          "airingAt": 1737670200
-        },
-        {
-          "episode": 589,
-          "airingAt": 1738275000
-        },
-        {
-          "episode": 590,
-          "airingAt": 1738879800
-        },
-        {
-          "episode": 591,
-          "airingAt": 1739484600
-        },
-        {
-          "episode": 592,
-          "airingAt": 1740089400
-        },
-        {
-          "episode": 593,
-          "airingAt": 1740694200
-        },
-        {
-          "episode": 594,
-          "airingAt": 1741299000
-        },
-        {
-          "episode": 595,
-          "airingAt": 1741903800
-        },
-        {
-          "episode": 596,
-          "airingAt": 1742508600
-        },
-        {
-          "episode": 597,
-          "airingAt": 1743113400
-        },
-        {
-          "episode": 598,
-          "airingAt": 1743718200
-        },
-        {
-          "episode": 599,
-          "airingAt": 1744323000
-        },
-        {
-          "episode": 600,
-          "airingAt": 1744927800
-        },
-        {
-          "episode": 601,
-          "airingAt": 1745532600
-        },
-        {
-          "episode": 602,
-          "airingAt": 1746137400
-        },
-        {
-          "episode": 603,
-          "airingAt": 1746742200
-        },
-        {
-          "episode": 604,
-          "airingAt": 1747347000
-        },
-        {
-          "episode": 605,
-          "airingAt": 1747951800
-        },
-        {
-          "episode": 606,
-          "airingAt": 1748556600
-        },
-        {
-          "episode": 607,
-          "airingAt": 1749161400
-        },
-        {
-          "episode": 608,
-          "airingAt": 1749766200
-        },
-        {
-          "episode": 609,
-          "airingAt": 1750371000
-        },
-        {
-          "episode": 610,
-          "airingAt": 1750975800
-        }
-      ]
-    }
-  },
-  {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 236,
-          "airingAt": 1736462400
-        },
-        {
-          "episode": 237,
-          "airingAt": 1736808000
-        },
-        {
-          "episode": 238,
-          "airingAt": 1737067200
-        },
-        {
-          "episode": 239,
-          "airingAt": 1737412800
-        },
-        {
-          "episode": 240,
-          "airingAt": 1737672000
-        },
-        {
-          "episode": 241,
-          "airingAt": 1738017600
-        },
-        {
-          "episode": 242,
-          "airingAt": 1738276800
-        },
-        {
-          "episode": 243,
-          "airingAt": 1738622400
-        },
-        {
-          "episode": 244,
-          "airingAt": 1738881600
-        },
-        {
-          "episode": 245,
-          "airingAt": 1739227200
-        },
-        {
-          "episode": 246,
-          "airingAt": 1739486400
-        },
-        {
-          "episode": 247,
-          "airingAt": 1739832000
-        },
-        {
-          "episode": 248,
-          "airingAt": 1740091200
-        },
-        {
-          "episode": 249,
-          "airingAt": 1740436800
-        },
-        {
-          "episode": 250,
-          "airingAt": 1740696000
-        },
-        {
-          "episode": 251,
-          "airingAt": 1741041600
-        },
-        {
-          "episode": 252,
-          "airingAt": 1741300800
-        },
-        {
-          "episode": 253,
-          "airingAt": 1741646400
-        },
-        {
-          "episode": 254,
-          "airingAt": 1741905600
-        },
-        {
-          "episode": 255,
-          "airingAt": 1742251200
-        },
-        {
-          "episode": 256,
-          "airingAt": 1742510400
-        },
-        {
-          "episode": 257,
-          "airingAt": 1742856000
-        },
-        {
-          "episode": 258,
-          "airingAt": 1743115200
-        },
-        {
-          "episode": 259,
-          "airingAt": 1743460800
-        },
-        {
-          "episode": 260,
-          "airingAt": 1743720000
-        }
-      ]
-    }
-  },
-  {
     "id": 1960,
     "idMal": 1960,
     "title": {
@@ -4741,9 +4486,9 @@
     "idMal": 59914,
     "title": {
       "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
-      "english": "Kinnikuman: Perfect Origin Arc Season 2",
+      "english": "Kinnikuman Perfect Origin Arc Season 2",
       "native": "キン肉マン 完璧超人始祖編 Season 2",
-      "userPreferred": "Kinnikuman: Perfect Origin Arc Season 2"
+      "userPreferred": "Kinnikuman Perfect Origin Arc Season 2"
     },
     "format": "TV",
     "genres": [
@@ -5754,6 +5499,134 @@
         {
           "episode": 22,
           "airingAt": 1741212000
+        }
+      ]
+    }
+  },
+  {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 237,
+          "airingAt": 1736808000
+        },
+        {
+          "episode": 238,
+          "airingAt": 1737067200
+        },
+        {
+          "episode": 239,
+          "airingAt": 1737412800
+        },
+        {
+          "episode": 240,
+          "airingAt": 1737672000
+        },
+        {
+          "episode": 241,
+          "airingAt": 1738017600
+        },
+        {
+          "episode": 242,
+          "airingAt": 1738276800
+        },
+        {
+          "episode": 243,
+          "airingAt": 1738622400
+        },
+        {
+          "episode": 244,
+          "airingAt": 1738881600
+        },
+        {
+          "episode": 245,
+          "airingAt": 1739227200
+        },
+        {
+          "episode": 246,
+          "airingAt": 1739486400
+        },
+        {
+          "episode": 247,
+          "airingAt": 1739832000
+        },
+        {
+          "episode": 248,
+          "airingAt": 1740091200
+        },
+        {
+          "episode": 249,
+          "airingAt": 1740436800
+        },
+        {
+          "episode": 250,
+          "airingAt": 1740696000
+        },
+        {
+          "episode": 251,
+          "airingAt": 1741041600
+        },
+        {
+          "episode": 252,
+          "airingAt": 1741300800
+        },
+        {
+          "episode": 253,
+          "airingAt": 1741646400
+        },
+        {
+          "episode": 254,
+          "airingAt": 1741905600
+        },
+        {
+          "episode": 255,
+          "airingAt": 1742251200
+        },
+        {
+          "episode": 256,
+          "airingAt": 1742510400
+        },
+        {
+          "episode": 257,
+          "airingAt": 1742856000
+        },
+        {
+          "episode": 258,
+          "airingAt": 1743115200
+        },
+        {
+          "episode": 259,
+          "airingAt": 1743460800
+        },
+        {
+          "episode": 260,
+          "airingAt": 1743720000
+        },
+        {
+          "episode": 261,
+          "airingAt": 1744065600
         }
       ]
     }
@@ -7135,7 +7008,7 @@
     "genres": [
       "Action"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-KtUZ6O59DaDq.jpg",
@@ -7185,6 +7058,10 @@
         {
           "episode": 12,
           "airingAt": 1742400000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743004800
         }
       ]
     }
@@ -7493,7 +7370,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
@@ -7547,6 +7424,10 @@
         {
           "episode": 12,
           "airingAt": 1743076800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743681600
         }
       ]
     }
@@ -7635,7 +7516,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172019-y0dLlAdingR2.jpg",
@@ -7780,7 +7661,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
@@ -7901,6 +7782,10 @@
         {
           "episode": 12,
           "airingAt": 1742481000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743085800
         }
       ]
     }
@@ -8029,7 +7914,7 @@
       "color": "#e49335"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172453-1HWEuvGj9Bzv.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8094,7 +7979,7 @@
       "Fantasy",
       "Mecha"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162921-ByoCP2VvLjeT.jpg",
@@ -8227,16 +8112,16 @@
     "idMal": 58259,
     "title": {
       "romaji": "Douse, Koishite Shimaunda.",
-      "english": "Anyway, I'm Falling in Love with You",
+      "english": "Anyway, I'm Falling in Love with You.",
       "native": "どうせ、恋してしまうんだ。",
-      "userPreferred": "Anyway, I'm Falling in Love with You"
+      "userPreferred": "Anyway, I'm Falling in Love with You."
     },
     "format": "TV",
     "genres": [
       "Drama",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175409-ZYYEw0H6QypN.jpg",
@@ -8368,6 +8253,133 @@
         {
           "episode": 26,
           "airingAt": 1743697680
+        }
+      ]
+    }
+  },
+  {
+    "id": 8336,
+    "idMal": 8336,
+    "title": {
+      "romaji": "Hanakappa",
+      "english": null,
+      "native": "はなかっぱ",
+      "userPreferred": "Hanakappa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 10,
+    "seasonYear": 2010,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8336-BJzIHFC49RWb.jpg",
+      "color": "#f1ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 587,
+          "airingAt": 1737065400
+        },
+        {
+          "episode": 588,
+          "airingAt": 1737670200
+        },
+        {
+          "episode": 589,
+          "airingAt": 1738275000
+        },
+        {
+          "episode": 590,
+          "airingAt": 1738879800
+        },
+        {
+          "episode": 591,
+          "airingAt": 1739484600
+        },
+        {
+          "episode": 592,
+          "airingAt": 1740089400
+        },
+        {
+          "episode": 593,
+          "airingAt": 1740694200
+        },
+        {
+          "episode": 594,
+          "airingAt": 1741299000
+        },
+        {
+          "episode": 595,
+          "airingAt": 1741903800
+        },
+        {
+          "episode": 596,
+          "airingAt": 1742508600
+        },
+        {
+          "episode": 597,
+          "airingAt": 1743113400
+        },
+        {
+          "episode": 598,
+          "airingAt": 1743718200
+        },
+        {
+          "episode": 599,
+          "airingAt": 1744323000
+        },
+        {
+          "episode": 600,
+          "airingAt": 1744927800
+        },
+        {
+          "episode": 601,
+          "airingAt": 1745532600
+        },
+        {
+          "episode": 602,
+          "airingAt": 1746137400
+        },
+        {
+          "episode": 603,
+          "airingAt": 1746742200
+        },
+        {
+          "episode": 604,
+          "airingAt": 1747347000
+        },
+        {
+          "episode": 605,
+          "airingAt": 1747951800
+        },
+        {
+          "episode": 606,
+          "airingAt": 1748556600
+        },
+        {
+          "episode": 607,
+          "airingAt": 1749161400
+        },
+        {
+          "episode": 608,
+          "airingAt": 1749766200
+        },
+        {
+          "episode": 609,
+          "airingAt": 1750371000
+        },
+        {
+          "episode": 610,
+          "airingAt": 1750975800
+        },
+        {
+          "episode": 611,
+          "airingAt": 1751580600
         }
       ]
     }
