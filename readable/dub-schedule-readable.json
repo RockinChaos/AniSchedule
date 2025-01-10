@@ -513,8 +513,8 @@
       "hulu": "www.hulu.com/series/7c2e04e4-3f77-4dfe-9a62-167b7065d6b3",
       "netflix": "www.netflix.com/title/81943491"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "dragon-ball-daima",
@@ -546,8 +546,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-10T21:30:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-17T21:30:00Z"
             }
           ]
         }
@@ -2206,7 +2206,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GY79P41KR/sword-art-online-alternative-gun-gale-online"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2239,8 +2239,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-10T22:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-01-17T22:00:00Z"
             }
           ]
         }
