@@ -1991,8 +1991,8 @@
     "streams": {
       "netflix": "www.netflix.com/title/81663325"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "sakamoto-days",
@@ -2030,6 +2030,10 @@
             {
               "episode": 2,
               "airingAt": "2025-01-11T14:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-01-18T14:00:00Z"
             }
           ]
         }
