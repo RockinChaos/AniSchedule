@@ -1,83 +1,5 @@
 [
   {
-    "id": 182920,
-    "idMal": 54144,
-    "title": {
-      "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
-      "english": null,
-      "native": "ヴァンガード Divinez デラックス編",
-      "userPreferred": "Cardfight!! Vanguard: Divinez - Deluxe-hen"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-kGMtP4dBBJBO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-kGMtP4dBBJBO.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1736550000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1737154800
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737759600
-        },
-        {
-          "episode": 4,
-          "airingAt": 1738364400
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738969200
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739574000
-        },
-        {
-          "episode": 7,
-          "airingAt": 1740178800
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740783600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741388400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741993200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742598000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743202800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 183473,
     "idMal": 60080,
     "title": {
@@ -1627,6 +1549,85 @@
     }
   },
   {
+    "id": 162722,
+    "idMal": 54717,
+    "title": {
+      "romaji": "Mahoutsukai Precure!! MIRAI DAYS",
+      "english": null,
+      "native": "魔法つかいプリキュア！！～MIRAI DAYS～",
+      "userPreferred": "Mahoutsukai Precure!! MIRAI DAYS"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162722-w30E3QgBvG7H.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162722-w30E3QgBvG7H.jpg",
+      "color": "#506be4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162722-x8FkO0OyAq2p.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1736614800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1737219600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737824400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1738429200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1739034000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739638800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1740243600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740848400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741453200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1742058000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742662800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743267600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 142842,
     "idMal": 50607,
     "title": {
@@ -2922,7 +2923,7 @@
       "color": "#e44386"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172258-w0t3aHFqywwp.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3658,9 +3659,9 @@
     "idMal": 59361,
     "title": {
       "romaji": "Kono Kaisha ni Suki na Hito ga Imasu",
-      "english": null,
+      "english": "I Have a Crush at Work",
       "native": "この会社に好きな人がいます",
-      "userPreferred": "Kono Kaisha ni Suki na Hito ga Imasu"
+      "userPreferred": "I Have a Crush at Work"
     },
     "format": "TV",
     "genres": [
@@ -7981,7 +7982,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175198-AtWwEQPTjQ6N.jpg",
@@ -8103,80 +8104,6 @@
         {
           "episode": 12,
           "airingAt": 1742572800
-        }
-      ]
-    }
-  },
-  {
-    "id": 162722,
-    "idMal": 54717,
-    "title": {
-      "romaji": "Mahoutsukai Precure!! MIRAI DAYS",
-      "english": null,
-      "native": "魔法つかいプリキュア！！～MIRAI DAYS～",
-      "userPreferred": "Mahoutsukai Precure!! MIRAI DAYS"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Mahou Shoujo",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162722-w30E3QgBvG7H.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162722-w30E3QgBvG7H.jpg",
-      "color": "#506be4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162722-x8FkO0OyAq2p.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1737133200
-        },
-        {
-          "episode": 3,
-          "airingAt": 1737738000
-        },
-        {
-          "episode": 4,
-          "airingAt": 1738342800
-        },
-        {
-          "episode": 5,
-          "airingAt": 1738947600
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739552400
-        },
-        {
-          "episode": 7,
-          "airingAt": 1740157200
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740762000
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741366800
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741971600
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742576400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743181200
         }
       ]
     }
@@ -8383,6 +8310,79 @@
         {
           "episode": 174,
           "airingAt": 1751668200
+        }
+      ]
+    }
+  },
+  {
+    "id": 182920,
+    "idMal": 54144,
+    "title": {
+      "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
+      "english": null,
+      "native": "ヴァンガード Divinez デラックス編",
+      "userPreferred": "Cardfight!! Vanguard: Divinez - Deluxe-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-kGMtP4dBBJBO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-kGMtP4dBBJBO.jpg",
+      "color": "#f1d6bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1737154800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1737759600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1738364400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1738969200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1739574000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1740178800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740783600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741388400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741993200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742598000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743202800
         }
       ]
     }
