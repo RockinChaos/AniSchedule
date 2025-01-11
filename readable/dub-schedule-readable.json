@@ -152,6 +152,7 @@
     "status": "Delayed",
     "episodeDate": "2025-01-06T22:30:00Z",
     "episodeNumber": 11,
+    "subtractedEpisodeNumber": 10,
     "episodes": 16,
     "lengthMin": 24,
     "donghua": false,
@@ -201,6 +202,10 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154473-FqSlkZcPMfkU.jpg",
         "airingSchedule": {
           "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2025-01-20T22:30:00Z"
+            },
             {
               "episode": 11,
               "airingAt": "2025-01-20T22:30:00Z"
