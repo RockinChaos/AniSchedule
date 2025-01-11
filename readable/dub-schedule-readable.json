@@ -1830,8 +1830,8 @@
     "romaji": "Rekishi ni Nokoru Akujo ni Naruzo",
     "english": "I'll Become a Villainess Who Goes Down in History",
     "native": "歴史に残る悪女になるぞ",
-    "delayedFrom": "2024-12-31T22:00:00Z",
-    "delayedUntil": "2025-01-07T22:00:00Z",
+    "delayedFrom": "2025-01-14T22:00:00Z",
+    "delayedUntil": "2025-01-21T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-07T22:00:00Z",
     "episodeNumber": 11,
@@ -1883,8 +1883,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2025-01-14T22:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-01-21T22:00:00Z"
             }
           ]
         }
@@ -2040,8 +2040,9 @@
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "english": "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game 2nd Season",
     "native": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
+    "delayedText": "Delayed",
     "delayedFrom": "2024-12-29T20:00:00Z",
-    "delayedUntil": "2025-01-12T20:00:00Z",
+    "delayedUntil": "2025-01-19T20:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-12T20:00:00Z",
     "episodeNumber": 10,
@@ -2060,7 +2061,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2097,7 +2098,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-01-12T20:00:00Z"
+              "airingAt": "2025-01-19T20:00:00Z"
             }
           ]
         }
@@ -2113,8 +2114,8 @@
     "romaji": "Shin Tennis no Ouji-sama: U-17 World Cup Semifinal",
     "english": "The Prince of Tennis: U-17 World Cup Semifinal",
     "native": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
-    "delayedFrom": "2024-12-25T22:00:00Z",
-    "delayedUntil": "2025-01-08T22:00:00Z",
+    "delayedFrom": "2025-01-15T22:00:00Z",
+    "delayedUntil": "2025-01-22T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-08T22:00:00Z",
     "episodeNumber": 11,
@@ -2168,15 +2169,11 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-01-08T22:00:00Z"
+              "airingAt": "2025-01-22T22:00:00Z"
             },
             {
               "episode": 11,
-              "airingAt": "2025-01-08T22:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-01-15T22:00:00Z"
+              "airingAt": "2025-01-22T22:00:00Z"
             }
           ]
         }
@@ -2258,8 +2255,8 @@
     "title": "Trillion Game",
     "route": "trillion-game",
     "native": "トリリオンゲーム",
-    "delayedFrom": "2024-12-26T22:30:00Z",
-    "delayedUntil": "2025-01-09T22:30:00Z",
+    "delayedFrom": "2025-01-16T22:30:00Z",
+    "delayedUntil": "2025-01-23T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-09T22:30:00Z",
     "episodeNumber": 12,
@@ -2313,8 +2310,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-01-16T22:30:00Z"
+              "episode": 12,
+              "airingAt": "2025-01-23T22:30:00Z"
             }
           ]
         }
