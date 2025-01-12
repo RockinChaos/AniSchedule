@@ -359,8 +359,8 @@ export async function fetchDubSchedule() {
         combinedResults.map((entry) => entry.media).forEach(entry => {
             existingDubbedFeed.filter(media => media.id === entry.id).forEach(episode => {
                 if ((entry.idMal && (episode.idMal !== entry.idMal)) || episode.format !== entry.format || episode.duration !== (entry.duration ? entry.duration : durationMap[entry.format])) {
-                    changes.push(`(Dub) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration.`)
-                    console.log(`(Dub) Episode ${episode.episode.aired} for ${entry.title.userPreferred} has been updated to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
+                    changes.push(`(Dub) Updated Episode ${episode.episode.aired} for ${entry.title.userPreferred} to correct its idMal, format, and duration.`)
+                    console.log(`(Dub) Updated Episode ${episode.episode.aired} for ${entry.title.userPreferred} to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
                     if (entry.idMal) episode.idMal = entry.idMal
                     episode.format = entry.format
                     episode.duration = entry.duration ? entry.duration : durationMap[entry.format]
@@ -490,8 +490,8 @@ export async function updateDubFeed() {
             }
 
             newEpisodes.push(batchEpisode)
-            changes.push(`(Dub) Added${multiHeader && baseEpisode ? ' Missing' : ''}${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
-            console.log(`Adding${multiHeader && baseEpisode ? ' Missing' : ''}${multiHeader ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
+            changes.push(`(Dub) Added${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
+            console.log(`Adding${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
         }
 
         // handle single new episodes
