@@ -1130,7 +1130,8 @@
     "delayedUntil": "2025-01-18T23:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-11T23:30:00Z",
-    "episodeNumber": 11,
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1181,6 +1182,10 @@
           "nodes": [
             {
               "episode": 11,
+              "airingAt": "2025-01-18T23:30:00Z"
+            },
+            {
+              "episode": 12,
               "airingAt": "2025-01-18T23:30:00Z"
             }
           ]
@@ -1337,8 +1342,8 @@
     "romaji": "Maou 2099",
     "english": "Demon Lord 2099",
     "native": "魔王2099",
-    "delayedFrom": "2024-12-28T22:30:00Z",
-    "delayedUntil": "2025-01-11T22:30:00Z",
+    "delayedFrom": "2025-01-18T22:30:00Z",
+    "delayedUntil": "2025-01-25T22:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-11T22:30:00Z",
     "episodeNumber": 10,
@@ -1392,8 +1397,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-18T22:30:00Z"
+              "episode": 10,
+              "airingAt": "2025-01-25T22:30:00Z"
             }
           ]
         }
@@ -2054,7 +2059,8 @@
     "delayedUntil": "2025-01-19T20:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-12T20:00:00Z",
-    "episodeNumber": 10,
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 10,
     "episodes": 25,
     "lengthMin": 24,
     "donghua": false,
@@ -2107,6 +2113,14 @@
           "nodes": [
             {
               "episode": 10,
+              "airingAt": "2025-01-19T20:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-01-19T20:00:00Z"
+            },
+            {
+              "episode": 12,
               "airingAt": "2025-01-19T20:00:00Z"
             }
           ]
