@@ -393,10 +393,10 @@ export async function updateDubFeed() {
 
     // Filter out any existing episode feed entries that matches any delayed episodes
     schedule.filter(entry => {
-        return (new Date(entry.delayedUntil) >= new Date(entry.episodeDate)) && (new Date(entry.delayedUntil) > new Date())
+        return (new Date(entry.delayedUntil) >= new Date(entry.episodeDate)) && (new Date(entry.delayedFrom) <= new Date(entry.episodeDate)) && (new Date(entry.delayedUntil) > new Date())
     }).forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === entry.media?.media?.id && episode.episode.aired === entry.episodeNumber)
+            const foundEpisode = (episode.id === entry.media?.media?.id && ((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)))
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} as it has been delayed`)
                 console.log(`Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed as it has been delayed!`)
@@ -409,7 +409,7 @@ export async function updateDubFeed() {
     // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
     schedule.forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === entry.media?.media?.id) && (episode.episode.aired === entry.episodeNumber) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate))
+            const foundEpisode = (episode.id === entry.media?.media?.id) && ((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate))
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
                 console.log(`Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date.`)
@@ -454,7 +454,7 @@ export async function updateDubFeed() {
         const existingEpisodes = existingFeed.filter(media => media.id === entry.media?.media?.id)
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
         let episodeType = 0
-        if (entry.unaired && new Date(entry.episodeDate) > new Date()) return newEpisodes
+        if (entry.unaired && new Date(entry.episodeDate) > new Date() || ((new Date(entry.delayedUntil) > new Date()) && entry.subtractedEpisodeNumber && (lastFeedEpisode === (entry.subtractedEpisodeNumber - 1)))) return newEpisodes
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
@@ -507,7 +507,7 @@ export async function updateDubFeed() {
             }
         }
 
-        if (entry.episodeNumber !== lastFeedEpisode && new Date(newEpisode.episode.airedAt) <= new Date() && new Date(entry.delayedUntil) <= new Date(newEpisode.episode.airedAt)) {
+        if (entry.episodeNumber !== lastFeedEpisode && new Date(newEpisode.episode.airedAt) <= new Date() && (new Date(entry.delayedUntil) <= new Date(newEpisode.episode.airedAt) || new Date(entry.delayedFrom) > new Date(newEpisode.episode.airedAt))) {
             newEpisodes.push(newEpisode)
             changes.push(`(Dub) Added${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${newEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
             console.log(`Adding${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${newEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
