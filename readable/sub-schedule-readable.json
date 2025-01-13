@@ -1,110 +1,5 @@
 [
   {
-    "id": 4459,
-    "idMal": 4459,
-    "title": {
-      "romaji": "Ojarumaru",
-      "english": "Prince Mackaroo",
-      "native": "おじゃる丸",
-      "userPreferred": "Prince Mackaroo"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 10,
-    "seasonYear": 1998,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
-      "color": "#e4bb1a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2079,
-          "airingAt": 1736718000
-        },
-        {
-          "episode": 2080,
-          "airingAt": 1737322800
-        },
-        {
-          "episode": 2081,
-          "airingAt": 1737927600
-        },
-        {
-          "episode": 2082,
-          "airingAt": 1738532400
-        },
-        {
-          "episode": 2083,
-          "airingAt": 1739137200
-        },
-        {
-          "episode": 2084,
-          "airingAt": 1739742000
-        },
-        {
-          "episode": 2085,
-          "airingAt": 1740346800
-        },
-        {
-          "episode": 2086,
-          "airingAt": 1740951600
-        },
-        {
-          "episode": 2087,
-          "airingAt": 1741556400
-        },
-        {
-          "episode": 2088,
-          "airingAt": 1742161200
-        },
-        {
-          "episode": 2089,
-          "airingAt": 1742766000
-        },
-        {
-          "episode": 2090,
-          "airingAt": 1743370800
-        },
-        {
-          "episode": 2091,
-          "airingAt": 1743975600
-        },
-        {
-          "episode": 2092,
-          "airingAt": 1744580400
-        },
-        {
-          "episode": 2093,
-          "airingAt": 1745185200
-        },
-        {
-          "episode": 2094,
-          "airingAt": 1745790000
-        },
-        {
-          "episode": 2095,
-          "airingAt": 1746394800
-        },
-        {
-          "episode": 2096,
-          "airingAt": 1746999600
-        },
-        {
-          "episode": 2097,
-          "airingAt": 1747604400
-        }
-      ]
-    }
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -7351,7 +7246,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg",
@@ -7499,7 +7394,7 @@
       "Adventure",
       "Mecha"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg",
@@ -7570,7 +7465,7 @@
     "genres": [
       "Fantasy"
     ],
-    "duration": 3,
+    "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
@@ -7945,7 +7840,7 @@
       "Ecchi",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172258-CFvhqor0blLV.jpg",
@@ -8019,7 +7914,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180052-i29SxOyEBtXB.jpg",
@@ -8027,7 +7922,7 @@
       "color": "#f1ae5d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180052-nVZe4DvOdGHb.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8092,7 +7987,7 @@
       "Comedy",
       "Sports"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181886-gEqtKp6Wt2U2.jpg",
@@ -8338,6 +8233,107 @@
         {
           "episode": 13,
           "airingAt": 1743357000
+        }
+      ]
+    }
+  },
+  {
+    "id": 4459,
+    "idMal": 4459,
+    "title": {
+      "romaji": "Ojarumaru",
+      "english": "Prince Mackaroo",
+      "native": "おじゃる丸",
+      "userPreferred": "Prince Mackaroo"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 10,
+    "seasonYear": 1998,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
+      "color": "#e4bb1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2080,
+          "airingAt": 1737322800
+        },
+        {
+          "episode": 2081,
+          "airingAt": 1737927600
+        },
+        {
+          "episode": 2082,
+          "airingAt": 1738532400
+        },
+        {
+          "episode": 2083,
+          "airingAt": 1739137200
+        },
+        {
+          "episode": 2084,
+          "airingAt": 1739742000
+        },
+        {
+          "episode": 2085,
+          "airingAt": 1740346800
+        },
+        {
+          "episode": 2086,
+          "airingAt": 1740951600
+        },
+        {
+          "episode": 2087,
+          "airingAt": 1741556400
+        },
+        {
+          "episode": 2088,
+          "airingAt": 1742161200
+        },
+        {
+          "episode": 2089,
+          "airingAt": 1742766000
+        },
+        {
+          "episode": 2090,
+          "airingAt": 1743370800
+        },
+        {
+          "episode": 2091,
+          "airingAt": 1743975600
+        },
+        {
+          "episode": 2092,
+          "airingAt": 1744580400
+        },
+        {
+          "episode": 2093,
+          "airingAt": 1745185200
+        },
+        {
+          "episode": 2094,
+          "airingAt": 1745790000
+        },
+        {
+          "episode": 2095,
+          "airingAt": 1746394800
+        },
+        {
+          "episode": 2096,
+          "airingAt": 1746999600
+        },
+        {
+          "episode": 2097,
+          "airingAt": 1747604400
         }
       ]
     }
