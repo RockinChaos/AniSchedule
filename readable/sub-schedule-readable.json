@@ -5895,103 +5895,103 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 143,
+          "episode": 141,
           "airingAt": 1737239400
         },
         {
-          "episode": 144,
+          "episode": 142,
           "airingAt": 1737844200
         },
         {
-          "episode": 145,
+          "episode": 143,
           "airingAt": 1738449000
         },
         {
-          "episode": 146,
+          "episode": 144,
           "airingAt": 1739053800
         },
         {
-          "episode": 147,
+          "episode": 145,
           "airingAt": 1739658600
         },
         {
-          "episode": 148,
+          "episode": 146,
           "airingAt": 1740263400
         },
         {
-          "episode": 149,
+          "episode": 147,
           "airingAt": 1740868200
         },
         {
-          "episode": 150,
+          "episode": 148,
           "airingAt": 1741473000
         },
         {
-          "episode": 151,
+          "episode": 149,
           "airingAt": 1742077800
         },
         {
-          "episode": 152,
+          "episode": 150,
           "airingAt": 1742682600
         },
         {
-          "episode": 153,
+          "episode": 151,
           "airingAt": 1743287400
         },
         {
-          "episode": 154,
+          "episode": 152,
           "airingAt": 1743892200
         },
         {
-          "episode": 155,
+          "episode": 153,
           "airingAt": 1744497000
         },
         {
-          "episode": 156,
+          "episode": 154,
           "airingAt": 1745101800
         },
         {
-          "episode": 157,
+          "episode": 155,
           "airingAt": 1745706600
         },
         {
-          "episode": 158,
+          "episode": 156,
           "airingAt": 1746311400
         },
         {
-          "episode": 159,
+          "episode": 157,
           "airingAt": 1746916200
         },
         {
-          "episode": 160,
+          "episode": 158,
           "airingAt": 1747521000
         },
         {
-          "episode": 161,
+          "episode": 159,
           "airingAt": 1748125800
         },
         {
-          "episode": 162,
+          "episode": 160,
           "airingAt": 1748730600
         },
         {
-          "episode": 163,
+          "episode": 161,
           "airingAt": 1749335400
         },
         {
-          "episode": 164,
+          "episode": 162,
           "airingAt": 1749940200
         },
         {
-          "episode": 165,
+          "episode": 163,
           "airingAt": 1750545000
         },
         {
-          "episode": 166,
+          "episode": 164,
           "airingAt": 1751149800
         },
         {
-          "episode": 167,
+          "episode": 165,
           "airingAt": 1751754600
         }
       ]
@@ -7899,19 +7899,19 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
+          "episode": 12,
           "airingAt": 1737381600
         },
         {
-          "episode": 14,
+          "episode": 13,
           "airingAt": 1737986400
         },
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1738591200
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1739196000
         }
       ]
@@ -9617,6 +9617,38 @@
     "unaired": true
   },
   {
+    "id": 186153,
+    "idMal": null,
+    "title": {
+      "romaji": "Yuugao",
+      "english": null,
+      "native": "夕顔",
+      "userPreferred": "Yuugao"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186153-j5G9lBw43N69.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186153-j5G9lBw43N69.png",
+      "color": "#d68678"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186153-gqg3zkTBJIKU.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743087600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 160735,
     "idMal": 54622,
     "title": {
@@ -9673,6 +9705,37 @@
       "nodes": [
         {
           "episode": 2,
+          "airingAt": 1743087600
+        }
+      ]
+    }
+  },
+  {
+    "id": 172218,
+    "idMal": 59840,
+    "title": {
+      "romaji": "Yumemiru Otome",
+      "english": null,
+      "native": "夢見ル乙女",
+      "userPreferred": "Yumemiru Otome"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172218-r6MOczPWLoif.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172218-r6MOczPWLoif.png",
+      "color": "#e45d5d"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172218-DHlCDzXFEHzM.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
           "airingAt": 1743087600
         }
       ]
