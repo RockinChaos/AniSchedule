@@ -1209,10 +1209,10 @@
     "romaji": "KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu!",
     "english": "KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse!",
     "native": "KUROMI’S PRETTY JOURNEY ～はちゃめちゃ！マルチバース大脱出！～",
-    "delayedFrom": "0001-01-01T09:00:00Z",
-    "delayedUntil": "0001-01-01T09:00:00Z",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-17T09:00:00Z",
+    "episodeDate": "2025-01-16T21:00:00Z",
     "episodeNumber": 12,
     "episodes": 19,
     "lengthMin": 2,
@@ -1262,7 +1262,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2025-01-17T09:00:00Z"
+              "airingAt": "2025-01-16T21:00:00Z"
             }
           ]
         }
@@ -1707,6 +1707,118 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T01:40:00Z",
+    "delayedUntil": "0001-01-01T01:40:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-14T01:40:00Z",
+    "episodeNumber": 56,
+    "subtractedEpisodeNumber": 46,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/pokemon-2023-273f1b2226.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81696980"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "Pokémon Horizons: The Series",
+        "file_name": "Pokémon Horizons: The Series"
+      },
+      "media": {
+        "id": 158871,
+        "idMal": 53876,
+        "title": {
+          "romaji": "Pocket Monsters (2023)",
+          "english": "Pokémon Horizons: The Series",
+          "native": "ポケットモンスター (2023)",
+          "userPreferred": "Pokémon Horizons: The Series"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
+          "color": "#e4bb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 46,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 47,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 48,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 49,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 50,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 51,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 52,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 53,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 54,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 55,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 56,
+              "airingAt": "2025-01-14T01:40:00Z"
+            },
+            {
+              "episode": 57,
+              "airingAt": "2025-01-21T01:40:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-14T10:13:35Z"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
@@ -2367,6 +2479,71 @@
     },
     "verified": false,
     "addedAt": "2025-01-06T20:12:38Z"
+  },
+  {
+    "title": "Yu☆Gi☆Oh! Go Rush!!",
+    "route": "yu-gi-oh-go-rush",
+    "native": "遊☆戯☆王ゴーラッシュ!!",
+    "delayedFrom": "0001-01-01T12:00:00Z",
+    "delayedUntil": "0001-01-01T12:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-18T12:00:00Z",
+    "episodeNumber": 2,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/yu-gi-oh-go-rush-9ca7d7e015.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "Yu☆Gi☆Oh! Go Rush!!",
+        "file_name": "Yu☆Gi☆Oh! Go Rush!!"
+      },
+      "media": {
+        "id": 142842,
+        "idMal": 50607,
+        "title": {
+          "romaji": "Yu☆Gi☆Oh! Go Rush!!",
+          "english": null,
+          "native": "遊☆戯☆王ゴーラッシュ!!",
+          "userPreferred": "Yu☆Gi☆Oh! Go Rush!!"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2022,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142842-sz1cRActqBe3.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142842-sz1cRActqBe3.jpg",
+          "color": "#35bbff"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-01-18T12:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-14T10:13:35Z"
   },
   {
     "title": "Zenshuu.",
