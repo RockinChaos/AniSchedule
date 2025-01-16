@@ -101,10 +101,10 @@ export function calculateWeeksToFetch() {
     }
 }
 
-export function fixTime(delayedDate, episodeDate) {
+export function fixTime(delayedDate, episodeDate, modify) {
     const delayed = new Date(delayedDate)
     const episodeAt = new Date(episodeDate)
-    delayed.setDate(delayed.getDate() + (episodeAt.getDay() - delayed.getDay()))
+    if (modify) delayed.setDate(delayed.getDate() + (episodeAt.getDay() - delayed.getDay()))
     delayed.setUTCHours(episodeAt.getUTCHours())
     delayed.setUTCMinutes(episodeAt.getUTCMinutes())
     delayed.setUTCSeconds(episodeAt.getUTCSeconds())
