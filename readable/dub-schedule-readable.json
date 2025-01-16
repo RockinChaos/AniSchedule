@@ -1229,7 +1229,7 @@
     "streams": {
       "youtube": "www.youtube.com/playlist?list=PLjv78rVJV36N6qIr8amgk5nSjKeien0q7"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1262,8 +1262,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2025-01-16T21:00:00Z"
+              "episode": 13,
+              "airingAt": "2025-01-23T21:00:00Z"
             }
           ]
         }
