@@ -1,49 +1,5 @@
 [
   {
-    "id": 137672,
-    "idMal": 59389,
-    "title": {
-      "romaji": "Jian Lai",
-      "english": "Sword of Coming",
-      "native": "剑来",
-      "userPreferred": "Sword of Coming"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137672-DpKhi0T6RAao.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137672-DpKhi0T6RAao.png",
-      "color": "#e4bb86"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1736992800
-        },
-        {
-          "episode": 24,
-          "airingAt": 1737597600
-        },
-        {
-          "episode": 25,
-          "airingAt": 1738202400
-        },
-        {
-          "episode": 26,
-          "airingAt": 1738807200
-        }
-      ]
-    }
-  },
-  {
     "id": 169966,
     "idMal": 56853,
     "title": {
@@ -8322,6 +8278,46 @@
         {
           "episode": 26,
           "airingAt": 1741207800
+        }
+      ]
+    }
+  },
+  {
+    "id": 137672,
+    "idMal": 59389,
+    "title": {
+      "romaji": "Jian Lai",
+      "english": "Sword of Coming",
+      "native": "剑来",
+      "userPreferred": "Sword of Coming"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137672-DpKhi0T6RAao.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137672-DpKhi0T6RAao.png",
+      "color": "#e4bb86"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 24,
+          "airingAt": 1737597600
+        },
+        {
+          "episode": 25,
+          "airingAt": 1738202400
+        },
+        {
+          "episode": 26,
+          "airingAt": 1738807200
         }
       ]
     }
