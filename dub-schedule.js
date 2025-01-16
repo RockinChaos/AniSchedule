@@ -422,7 +422,7 @@ export async function updateDubFeed() {
     // Filter out incorrect episodes and correct dates if necessary
     schedule.forEach(entry => {
         const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media?.media?.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
-        if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate))) {
+        if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) && (!entry.subtractedEpisodeNumber || (entry.subtractedEpisodeNumber > 1 && !((entry.episodeNumber - entry.subtractedEpisodeNumber) >= 6)))) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
             mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
             console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
