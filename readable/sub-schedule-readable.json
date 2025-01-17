@@ -1,174 +1,5 @@
 [
   {
-    "id": 1960,
-    "idMal": 1960,
-    "title": {
-      "romaji": "Sore Ike! Anpanman",
-      "english": null,
-      "native": "それいけ!アンパンマン",
-      "userPreferred": "Sore Ike! Anpanman"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 1988,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1960-ueSmUxBXWuFK.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1960-9Vx6QVIU8z4Z.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1681,
-          "airingAt": 1737078900
-        },
-        {
-          "episode": 1682,
-          "airingAt": 1737683700
-        },
-        {
-          "episode": 1683,
-          "airingAt": 1738288500
-        },
-        {
-          "episode": 1684,
-          "airingAt": 1738893300
-        },
-        {
-          "episode": 1685,
-          "airingAt": 1739498100
-        },
-        {
-          "episode": 1686,
-          "airingAt": 1740102900
-        },
-        {
-          "episode": 1687,
-          "airingAt": 1740707700
-        },
-        {
-          "episode": 1688,
-          "airingAt": 1741312500
-        },
-        {
-          "episode": 1689,
-          "airingAt": 1741917300
-        },
-        {
-          "episode": 1690,
-          "airingAt": 1742522100
-        },
-        {
-          "episode": 1691,
-          "airingAt": 1743126900
-        },
-        {
-          "episode": 1692,
-          "airingAt": 1743731700
-        },
-        {
-          "episode": 1693,
-          "airingAt": 1744336500
-        },
-        {
-          "episode": 1694,
-          "airingAt": 1744941300
-        },
-        {
-          "episode": 1695,
-          "airingAt": 1745546100
-        },
-        {
-          "episode": 1696,
-          "airingAt": 1746150900
-        },
-        {
-          "episode": 1697,
-          "airingAt": 1746755700
-        },
-        {
-          "episode": 1698,
-          "airingAt": 1747360500
-        },
-        {
-          "episode": 1699,
-          "airingAt": 1747965300
-        },
-        {
-          "episode": 1700,
-          "airingAt": 1748570100
-        },
-        {
-          "episode": 1701,
-          "airingAt": 1749174900
-        },
-        {
-          "episode": 1702,
-          "airingAt": 1749779700
-        },
-        {
-          "episode": 1703,
-          "airingAt": 1750384500
-        },
-        {
-          "episode": 1704,
-          "airingAt": 1750989300
-        },
-        {
-          "episode": 1705,
-          "airingAt": 1751594100
-        }
-      ]
-    }
-  },
-  {
-    "id": 170166,
-    "idMal": 56752,
-    "title": {
-      "romaji": "Shiguang Dailiren: Yingdu Pian",
-      "english": "Link Click: Bridon Arc",
-      "native": "时光代理人英都篇",
-      "userPreferred": "Link Click: Bridon Arc"
-    },
-    "format": "ONA",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170166-VpX7l0Horthq.jpg",
-      "color": "#e4aec9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1737082800
-        },
-        {
-          "episode": 5,
-          "airingAt": 1737687600
-        },
-        {
-          "episode": 6,
-          "airingAt": 1738292400
-        }
-      ]
-    }
-  },
-  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -8308,6 +8139,171 @@
     }
   },
   {
+    "id": 1960,
+    "idMal": 1960,
+    "title": {
+      "romaji": "Sore Ike! Anpanman",
+      "english": null,
+      "native": "それいけ!アンパンマン",
+      "userPreferred": "Sore Ike! Anpanman"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 1988,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1960-ueSmUxBXWuFK.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1960-9Vx6QVIU8z4Z.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1682,
+          "airingAt": 1737683700
+        },
+        {
+          "episode": 1683,
+          "airingAt": 1738288500
+        },
+        {
+          "episode": 1684,
+          "airingAt": 1738893300
+        },
+        {
+          "episode": 1685,
+          "airingAt": 1739498100
+        },
+        {
+          "episode": 1686,
+          "airingAt": 1740102900
+        },
+        {
+          "episode": 1687,
+          "airingAt": 1740707700
+        },
+        {
+          "episode": 1688,
+          "airingAt": 1741312500
+        },
+        {
+          "episode": 1689,
+          "airingAt": 1741917300
+        },
+        {
+          "episode": 1690,
+          "airingAt": 1742522100
+        },
+        {
+          "episode": 1691,
+          "airingAt": 1743126900
+        },
+        {
+          "episode": 1692,
+          "airingAt": 1743731700
+        },
+        {
+          "episode": 1693,
+          "airingAt": 1744336500
+        },
+        {
+          "episode": 1694,
+          "airingAt": 1744941300
+        },
+        {
+          "episode": 1695,
+          "airingAt": 1745546100
+        },
+        {
+          "episode": 1696,
+          "airingAt": 1746150900
+        },
+        {
+          "episode": 1697,
+          "airingAt": 1746755700
+        },
+        {
+          "episode": 1698,
+          "airingAt": 1747360500
+        },
+        {
+          "episode": 1699,
+          "airingAt": 1747965300
+        },
+        {
+          "episode": 1700,
+          "airingAt": 1748570100
+        },
+        {
+          "episode": 1701,
+          "airingAt": 1749174900
+        },
+        {
+          "episode": 1702,
+          "airingAt": 1749779700
+        },
+        {
+          "episode": 1703,
+          "airingAt": 1750384500
+        },
+        {
+          "episode": 1704,
+          "airingAt": 1750989300
+        },
+        {
+          "episode": 1705,
+          "airingAt": 1751594100
+        },
+        {
+          "episode": 1706,
+          "airingAt": 1752198900
+        }
+      ]
+    }
+  },
+  {
+    "id": 170166,
+    "idMal": 56752,
+    "title": {
+      "romaji": "Shiguang Dailiren: Yingdu Pian",
+      "english": "Link Click: Bridon Arc",
+      "native": "时光代理人英都篇",
+      "userPreferred": "Link Click: Bridon Arc"
+    },
+    "format": "ONA",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 23,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170166-VpX7l0Horthq.jpg",
+      "color": "#e4aec9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1737687600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1738292400
+        }
+      ]
+    }
+  },
+  {
     "id": 154064,
     "idMal": 54740,
     "title": {
@@ -8738,6 +8734,53 @@
     }
   },
   {
+    "id": 170732,
+    "idMal": 57066,
+    "title": {
+      "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
+      "english": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V",
+      "native": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
+      "userPreferred": "Is It Wrong To Try To Pick Up Girls in a Dungeon? V"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170732-PwCMhnnOKdBu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170732-PwCMhnnOKdBu.jpg",
+      "color": "#1a86d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1738933200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1738933200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1740574800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1741179600
+        }
+      ]
+    }
+  },
+  {
     "id": 182158,
     "idMal": 59957,
     "title": {
@@ -9048,9 +9091,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185714-ALbL559oK2Q3.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185714-ALbL559oK2Q3.png",
-      "color": null
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185714-YYhn41FIOfmM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185714-YYhn41FIOfmM.jpg",
+      "color": "#5daee4"
     },
     "isAdult": false,
     "bannerImage": null,
