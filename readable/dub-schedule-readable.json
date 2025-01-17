@@ -1979,8 +1979,9 @@
     "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
     "english": "Rurouni Kenshin -Kyoto Disturbance-",
     "native": "るろうに剣心 -明治剣客浪漫譚- 京都動乱",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-01-16T22:00:00Z",
+    "delayedUntil": "2025-01-23T22:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-16T22:00:00Z",
     "episodeNumber": 13,
@@ -1998,7 +1999,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2033,7 +2034,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
+              "episode": 13,
               "airingAt": "2025-01-23T22:00:00Z"
             }
           ]
