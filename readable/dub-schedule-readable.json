@@ -2112,6 +2112,82 @@
     "addedAt": "2025-01-11T14:00:00Z"
   },
   {
+    "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "route": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
+    "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+    "english": "Headhunted to Another World: From Salaryman to Big Four!",
+    "native": "サラリーマンが異世界に行ったら四天王になった話",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-20T20:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi-57a0736592.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GDKHZEJPQ/headhunted-to-another-world-from-salaryman-to-big-four",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
+        "file_name": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi"
+      },
+      "media": {
+        "id": 179689,
+        "idMal": 59349,
+        "title": {
+          "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+          "english": "Headhunted to Another World: From Salaryman to Big Four!",
+          "native": "サラリーマンが異世界に行ったら四天王になった話",
+          "userPreferred": "Headhunted to Another World: From Salaryman to Big Four!"
+        },
+        "format": "ONA",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179689-kmlqdU3IbxeM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179689-kmlqdU3IbxeM.jpg",
+          "color": "#c9e4f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179689-pmEg73tCaoMP.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-20T20:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-01-20T20:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-20T20:00:00Z"
+  },
+  {
     "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "route": "shangri-la-frontier-2nd-season",
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
