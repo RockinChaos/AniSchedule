@@ -1,132 +1,5 @@
 [
   {
-    "id": 183473,
-    "idMal": 60080,
-    "title": {
-      "romaji": "Nui Story 2",
-      "english": null,
-      "native": "ぬいストーリー2",
-      "userPreferred": "Nui Story 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 2,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183473-jZR2gEFZQhVe.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183473-jZR2gEFZQhVe.png",
-      "color": "#43aef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1737169200
-        },
-        {
-          "episode": 15,
-          "airingAt": 1737774000
-        },
-        {
-          "episode": 16,
-          "airingAt": 1738378800
-        },
-        {
-          "episode": 17,
-          "airingAt": 1738983600
-        },
-        {
-          "episode": 18,
-          "airingAt": 1739588400
-        },
-        {
-          "episode": 19,
-          "airingAt": 1740193200
-        },
-        {
-          "episode": 20,
-          "airingAt": 1740798000
-        },
-        {
-          "episode": 21,
-          "airingAt": 1741402800
-        },
-        {
-          "episode": 22,
-          "airingAt": 1742007600
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742612400
-        },
-        {
-          "episode": 24,
-          "airingAt": 1743217200
-        },
-        {
-          "episode": 25,
-          "airingAt": 1743822000
-        },
-        {
-          "episode": 26,
-          "airingAt": 1744426800
-        },
-        {
-          "episode": 27,
-          "airingAt": 1745031600
-        },
-        {
-          "episode": 28,
-          "airingAt": 1745636400
-        },
-        {
-          "episode": 29,
-          "airingAt": 1746241200
-        },
-        {
-          "episode": 30,
-          "airingAt": 1746846000
-        },
-        {
-          "episode": 31,
-          "airingAt": 1747450800
-        },
-        {
-          "episode": 32,
-          "airingAt": 1748055600
-        },
-        {
-          "episode": 33,
-          "airingAt": 1748660400
-        },
-        {
-          "episode": 34,
-          "airingAt": 1749265200
-        },
-        {
-          "episode": 35,
-          "airingAt": 1749870000
-        },
-        {
-          "episode": 36,
-          "airingAt": 1750474800
-        },
-        {
-          "episode": 37,
-          "airingAt": 1751079600
-        },
-        {
-          "episode": 38,
-          "airingAt": 1751684400
-        }
-      ]
-    }
-  },
-  {
     "id": 966,
     "idMal": 966,
     "title": {
@@ -8255,6 +8128,133 @@
         {
           "episode": 12,
           "airingAt": 1743202800
+        }
+      ]
+    }
+  },
+  {
+    "id": 183473,
+    "idMal": 60080,
+    "title": {
+      "romaji": "Nui Story 2",
+      "english": null,
+      "native": "ぬいストーリー2",
+      "userPreferred": "Nui Story 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183473-jZR2gEFZQhVe.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183473-jZR2gEFZQhVe.png",
+      "color": "#43aef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1737774000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1738378800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1738983600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1739588400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1740193200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1740798000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1741402800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1742007600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742612400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1743217200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1743822000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1744426800
+        },
+        {
+          "episode": 27,
+          "airingAt": 1745031600
+        },
+        {
+          "episode": 28,
+          "airingAt": 1745636400
+        },
+        {
+          "episode": 29,
+          "airingAt": 1746241200
+        },
+        {
+          "episode": 30,
+          "airingAt": 1746846000
+        },
+        {
+          "episode": 31,
+          "airingAt": 1747450800
+        },
+        {
+          "episode": 32,
+          "airingAt": 1748055600
+        },
+        {
+          "episode": 33,
+          "airingAt": 1748660400
+        },
+        {
+          "episode": 34,
+          "airingAt": 1749265200
+        },
+        {
+          "episode": 35,
+          "airingAt": 1749870000
+        },
+        {
+          "episode": 36,
+          "airingAt": 1750474800
+        },
+        {
+          "episode": 37,
+          "airingAt": 1751079600
+        },
+        {
+          "episode": 38,
+          "airingAt": 1751684400
+        },
+        {
+          "episode": 39,
+          "airingAt": 1752289200
         }
       ]
     }
