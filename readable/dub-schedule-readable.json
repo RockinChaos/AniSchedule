@@ -381,7 +381,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -415,8 +415,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-18T21:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-01-25T21:00:00Z"
             }
           ]
         }
@@ -2363,8 +2363,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "Solo Leveling 2nd Season: Arise from the Shadow",
@@ -2397,8 +2397,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-18T21:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-25T21:00:00Z"
             }
           ]
         }
