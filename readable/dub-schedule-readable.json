@@ -2709,7 +2709,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NW8E/zenshu"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2742,15 +2742,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-01-19T17:15:00Z"
+              "episode": 4,
+              "airingAt": "2025-01-26T17:15:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-05T17:16:00Z"
   }
 ]
