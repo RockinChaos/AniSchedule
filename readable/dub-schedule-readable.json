@@ -95,7 +95,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1138,8 +1138,7 @@
     "delayedUntil": "2025-01-18T23:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-18T23:30:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 11,
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1155,7 +1154,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1189,12 +1188,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-18T23:30:00Z"
-            },
-            {
               "episode": 12,
-              "airingAt": "2025-01-18T23:30:00Z"
+              "airingAt": "2025-01-25T23:30:00Z"
             }
           ]
         }
