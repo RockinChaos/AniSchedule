@@ -406,6 +406,19 @@ export async function updateDubFeed() {
         })
     })
 
+    // Filter out any incorrect episodes that were added but haven't actually released.
+    schedule.forEach(entry => {
+        existingFeed = existingFeed.filter(episode => {
+            const foundEpisode = (episode.id === entry.media?.media?.id) && ((episode.episode.aired > entry.episodeNumber) && ((episode.episode.aired > entry.media.media?.airingSchedule?.nodes[entry.media.media?.airingSchedule?.nodes?.length - 1]?.episode) || (new Date(entry.media.media?.airingSchedule?.nodes[entry.media.media?.airingSchedule?.nodes?.length - 1]?.airingAt) > new Date())))
+            if (foundEpisode) {
+                changes.push(`(Dub) Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} as the air date has changed`)
+                console.log(`Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed as the air date has changed!`)
+                removedEpisodes.push(episode)
+            }
+            return !foundEpisode
+        })
+    })
+
     // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
     schedule.forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
