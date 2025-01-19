@@ -409,7 +409,7 @@ export async function updateDubFeed() {
     // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
     schedule.forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === entry.media?.media?.id) && ((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate))
+            const foundEpisode = (episode.id === entry.media?.media?.id) && (((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate)))
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
                 console.log(`Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date.`)
@@ -459,7 +459,7 @@ export async function updateDubFeed() {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
             const multiHeader =  entry.subtractedEpisodeNumber || (previousWeek && previousWeek.subtractedEpisodeNumber)  //|| (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2)))) -- probably don't need this since these cases should never happen.
-            episodeType = multiHeader && baseEpisode ? 2 : multiHeader ? 1 : 0
+            episodeType = multiHeader && baseEpisode && (lastFeedEpisode + 1 !== entry.subtractedEpisodeNumber) ? 2 : multiHeader ? 1 : 0
             if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
                 let weeksAgo = -1
                 let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
