@@ -1150,8 +1150,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
@@ -1184,8 +1184,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-20T20:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-27T20:00:00Z"
             }
           ]
         }
@@ -2008,7 +2008,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJPQ/headhunted-to-another-world-from-salaryman-to-big-four",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2427,7 +2427,7 @@
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-06T20:12:38Z"
   },
   {
