@@ -502,9 +502,11 @@ export async function updateDubFeed() {
                 }
             }
 
-            newEpisodes.push(batchEpisode)
-            changes.push(`(Dub) Added${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
-            console.log(`Adding${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
+            if (entry.episodeNumber !== lastFeedEpisode && new Date(batchEpisode.episode.airedAt) <= new Date() && (new Date(entry.delayedUntil) <= new Date(batchEpisode.episode.airedAt) || new Date(entry.delayedFrom) > new Date(batchEpisode.episode.airedAt))) {
+                newEpisodes.push(batchEpisode)
+                changes.push(`(Dub) Added${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred}`)
+                console.log(`Adding${episodeType === 2 ? ' Missing' : ''}${episodeType === 2 || episodeType === 1 ? ' (multi-header) release' : ''} Episode ${batchEpisode.episode.aired} for ${entry.media.media.title.userPreferred} to the Dubbed Episode Feed.`)
+            }
         }
 
         // handle single new episodes
