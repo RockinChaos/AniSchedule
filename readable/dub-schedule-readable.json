@@ -1150,8 +1150,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
@@ -1184,8 +1184,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-20T22:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-27T22:00:00Z"
             }
           ]
         }
@@ -2219,10 +2219,10 @@
     "romaji": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
     "english": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
     "native": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-21T20:00:00Z",
+    "episodeDate": "2025-01-21T23:00:00Z",
     "episodeNumber": 12,
     "subtractedEpisodeNumber": 1,
     "episodes": 12,
@@ -2276,51 +2276,51 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 2,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 3,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 4,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 5,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 6,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 9,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 10,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 11,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             },
             {
               "episode": 12,
-              "airingAt": "2025-01-21T20:00:00Z"
+              "airingAt": "2025-01-21T23:00:00Z"
             }
           ]
         }
