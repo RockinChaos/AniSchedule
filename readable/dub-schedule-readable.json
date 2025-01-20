@@ -97,7 +97,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -138,6 +138,10 @@
             {
               "episode": 11,
               "airingAt": "2025-01-20T22:30:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-01-27T22:30:00Z"
             }
           ]
         }
@@ -1150,7 +1154,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1643,7 +1647,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1991,8 +1995,7 @@
     "delayedUntil": "0001-01-01T20:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-20T20:30:00Z",
-    "episodeNumber": 2,
-    "subtractedEpisodeNumber": 1,
+    "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -2042,15 +2045,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-20T20:30:00Z"
-            },
-            {
               "episode": 2,
-              "airingAt": "2025-01-20T20:30:00Z"
-            },
-            {
-              "episode": 3,
               "airingAt": "2025-01-27T20:30:00Z"
             }
           ]
