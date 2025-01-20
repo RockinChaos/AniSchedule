@@ -2008,8 +2008,8 @@
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJPQ/headhunted-to-another-world-from-salaryman-to-big-four",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
@@ -2048,6 +2048,10 @@
             {
               "episode": 2,
               "airingAt": "2025-01-20T18:45:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-01-27T18:45:00Z"
             }
           ]
         }
