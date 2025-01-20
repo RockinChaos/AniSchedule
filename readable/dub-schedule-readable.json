@@ -149,7 +149,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2024-12-30T22:30:00Z",
     "delayedUntil": "2025-01-20T22:30:00Z",
-    "status": "Delayed",
+    "status": "Ongoing",
     "episodeDate": "2025-01-13T22:30:00Z",
     "episodeNumber": 11,
     "subtractedEpisodeNumber": 10,
@@ -168,7 +168,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WXD1/arifureta-from-commonplace-to-worlds-strongest",
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -711,6 +711,77 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Hitoribocchi no Isekai Kouryaku",
+    "route": "hitoribocchi-no-isekai-kouryaku",
+    "romaji": "Hitoribocchi no Isekai Kouryaku",
+    "english": "Loner Life in Another World",
+    "native": "ひとりぼっちの異世界攻略",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-02-12T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/hitoribocchi-no-isekai-kouryaku-51998d4050.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/26571",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "hitoribocchi-no-isekai-kouryaku",
+        "file_name": "hitoribocchi-no-isekai-kouryaku"
+      },
+      "media": {
+        "id": 173693,
+        "idMal": 57891,
+        "title": {
+          "romaji": "Hitoribocchi no Isekai Kouryaku",
+          "english": "Loner Life in Another World",
+          "native": "ひとりぼっちの異世界攻略",
+          "userPreferred": "Loner Life in Another World"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173693-tRLdDE1BieXe.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173693-tRLdDE1BieXe.png",
+          "color": "#50aee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173693-TirKwvMQTEqr.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-02-12T17:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-02-12T17:00:00Z"
+  },
+  {
     "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V: Goddess of Fertility Arc",
     "route": "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-v",
     "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
@@ -736,7 +807,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/26756"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1436,7 +1507,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1719,7 +1790,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1984,7 +2055,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2059,7 +2130,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2355,7 +2426,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2562,7 +2633,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
