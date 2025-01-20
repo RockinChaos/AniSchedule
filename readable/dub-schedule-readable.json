@@ -1131,10 +1131,10 @@
     "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
     "english": "Medaka Kuroiwa Is Impervious to My Charms",
     "native": "黒岩メダカに私の可愛いが通じない",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-20T20:00:00Z",
+    "episodeDate": "2025-01-20T22:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
@@ -1150,8 +1150,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "airing",
-    "unaired": false,
+    "airingStatus": "unaired",
+    "unaired": true,
     "media": {
       "parseObject": {
         "anime_title": "kuroiwa-medaka-ni-watashi-no-kawaii-ga-tsuujinai",
@@ -1184,8 +1184,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-01-27T20:00:00Z"
+              "episode": 1,
+              "airingAt": "2025-01-20T22:00:00Z"
             }
           ]
         }
@@ -1987,10 +1987,10 @@
     "romaji": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
     "english": "Headhunted to Another World: From Salaryman to Big Four!",
     "native": "サラリーマンが異世界に行ったら四天王になった話",
-    "delayedFrom": "0001-01-01T18:45:00Z",
-    "delayedUntil": "0001-01-01T18:45:00Z",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-20T18:45:00Z",
+    "episodeDate": "2025-01-20T20:30:00Z",
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
     "episodes": 12,
@@ -2043,15 +2043,15 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-01-20T18:45:00Z"
+              "airingAt": "2025-01-20T20:30:00Z"
             },
             {
               "episode": 2,
-              "airingAt": "2025-01-20T18:45:00Z"
+              "airingAt": "2025-01-20T20:30:00Z"
             },
             {
               "episode": 3,
-              "airingAt": "2025-01-27T18:45:00Z"
+              "airingAt": "2025-01-27T20:30:00Z"
             }
           ]
         }
@@ -2212,6 +2212,123 @@
     },
     "verified": true,
     "addedAt": "2024-12-05T00:28:10Z"
+  },
+  {
+    "title": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+    "route": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+    "romaji": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru.",
+    "english": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+    "native": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-01-21T20:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru-d82758b8bb.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GXJHM3GKX/the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl3eT2fOFMIeAJZQpdxe9tmU"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+        "file_name": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru"
+      },
+      "media": {
+        "id": 163292,
+        "idMal": 54913,
+        "title": {
+          "romaji": "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
+          "english": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+          "native": "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。",
+          "userPreferred": "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163292-1DkPP4r5UI9Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163292-1DkPP4r5UI9Y.jpg",
+          "color": "#f1ae50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163292-XOC86gRVHGOo.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-01-21T20:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-01-21T20:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-21T20:00:00Z"
   },
   {
     "title": "Solo Leveling 2nd Season: Arise from the Shadow",
