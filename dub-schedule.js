@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, delay, daysAgo, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -137,7 +137,7 @@ export async function fetchDubSchedule() {
                     }
                 }
                 timetables.push(newEntry)
-            } else if ((existingInAiring === -1) && !entry.verified && !(entry.episodeNumber < 2) && ((entry.episodeNumber < 5) || (daysAgo(new Date(entry.episodeDate)) < 6))) { // highly likely someone fucked up and realized their fuck-up, keep any series older than 6 days as they likely are batch drops instead of weekly releases.
+            } else if ((existingInAiring === -1) && !entry.verified && !(entry.episodeNumber < 2) && !(daysAgo(new Date(entry.episodeDate)) >= 1 && getCurrentDay() === 1)) { // highly likely someone fucked up and realized their fuck-up, but we should keep any series older than 1 day if the current day is a Monday (roll-over) as they likely are batch drops instead of weekly releases.
                 const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
                 if (!previousWeek || previousWeek.episodeNumber !== entry.episodes || !(previousWeek.subtractedEpisodeNumber <= 1)) {
                     changes.push(`(Dub) The un-verified series ${entry.media?.media?.title?.userPreferred} was removed from the timetables.`)

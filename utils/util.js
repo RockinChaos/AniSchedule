@@ -108,6 +108,19 @@ export function calculateWeeksToFetch() {
 export function daysAgo(date) {
     return Math.floor((new Date() - date) / (1000 * 60 * 60 * 24));
 }
+/**
+ * Monday - 1
+ * Tuesday - 2
+ * Wednesday - 3
+ * Thursday - 4
+ * Friday - 5
+ * Saturday - 6
+ * Sunday - 7
+ */
+export function getCurrentDay() {
+    const day = (new Date()).getDay()
+    return day === 0 ? 7 : day
+}
 
 export function fixTime(delayedDate, episodeDate, modify) {
     const delayed = new Date(delayedDate)
