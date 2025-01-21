@@ -101,6 +101,14 @@ export function calculateWeeksToFetch() {
     }
 }
 
+/**
+ * @param {Date} date The date to be compared to today
+ * @returns {number} The number of days difference between the specified date and today.
+ */
+export function daysAgo(date) {
+    return Math.floor((new Date() - date) / (1000 * 60 * 60 * 24));
+}
+
 export function fixTime(delayedDate, episodeDate, modify) {
     const delayed = new Date(delayedDate)
     const episodeAt = new Date(episodeDate)

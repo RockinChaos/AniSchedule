@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, delay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, delay, daysAgo, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -123,7 +123,7 @@ export async function fetchDubSchedule() {
             return true
         })
 
-        for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove unverified episodes.
+        for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove un-verified episodes.
             const existingInAiring = timetables.findIndex((airingItem) => airingItem.route === entry.route)
             let newEntry = entry
             if ((existingInAiring === -1) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
@@ -137,7 +137,7 @@ export async function fetchDubSchedule() {
                     }
                 }
                 timetables.push(newEntry)
-            } else if ((existingInAiring === -1) && !entry.verified && !(entry.episodeNumber < 2)) { // highly likely someone fucked up and realized their fuck-up.
+            } else if ((existingInAiring === -1) && !entry.verified && !(entry.episodeNumber < 2) && ((entry.episodeNumber < 5) || (daysAgo(new Date(entry.episodeDate)) < 6))) { // highly likely someone fucked up and realized their fuck-up, keep any series older than 6 days as they likely are batch drops instead of weekly releases.
                 const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
                 if (!previousWeek || previousWeek.episodeNumber !== entry.episodes || !(previousWeek.subtractedEpisodeNumber <= 1)) {
                     changes.push(`(Dub) The un-verified series ${entry.media?.media?.title?.userPreferred} was removed from the timetables.`)
@@ -145,7 +145,7 @@ export async function fetchDubSchedule() {
                     const episodeFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))?.filter(episode => {
                         if (episode.id === entry.media?.media?.id) {
                             changes.push(`(Dub) Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} (Timetables Correction).`)
-                            console.log(`Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} as the unverified series has been removed from the timetables.`)
+                            console.log(`Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} as the un-verified series has been removed from the timetables.`)
                             return false
                         }
                         return true
