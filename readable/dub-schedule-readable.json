@@ -80,8 +80,7 @@
     "delayedUntil": "2025-01-20T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-20T22:30:00Z",
-    "episodeNumber": 11,
-    "subtractedEpisodeNumber": 10,
+    "episodeNumber": 10,
     "episodes": 16,
     "lengthMin": 24,
     "donghua": false,
@@ -132,15 +131,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-01-20T22:30:00Z"
-            },
-            {
               "episode": 11,
-              "airingAt": "2025-01-20T22:30:00Z"
-            },
-            {
-              "episode": 12,
               "airingAt": "2025-01-27T22:30:00Z"
             }
           ]
@@ -1631,8 +1622,7 @@
     "delayedUntil": "2025-01-20T23:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-20T23:00:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 11,
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1647,7 +1637,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRE5XQJV6/natsumes-book-of-friends"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1682,12 +1672,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-20T23:00:00Z"
-            },
-            {
               "episode": 12,
-              "airingAt": "2025-01-20T23:00:00Z"
+              "airingAt": "2025-01-27T23:00:00Z"
             }
           ]
         }
