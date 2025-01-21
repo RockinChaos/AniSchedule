@@ -564,7 +564,6 @@
     "status": "Finished",
     "episodeDate": "2025-01-26T22:00:00Z",
     "episodeNumber": 25,
-    "subtractedEpisodeNumber": 23,
     "episodes": 25,
     "lengthMin": 24,
     "donghua": false,
@@ -614,14 +613,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139095-Y5aSDeQfZkZF.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 23,
-              "airingAt": "2025-01-26T22:00:00Z"
-            },
-            {
-              "episode": 24,
-              "airingAt": "2025-01-26T22:00:00Z"
-            },
             {
               "episode": 25,
               "airingAt": "2025-01-26T22:00:00Z"
@@ -704,6 +695,72 @@
     },
     "verified": false,
     "addedAt": "2025-02-12T17:00:00Z"
+  },
+  {
+    "title": "Honey Lemon Soda",
+    "route": "honey-lemon-soda",
+    "native": "ハニーレモンソーダ",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-22T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/honey-lemon-soda-d505d0a2a6.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GMEHME77W/honey-lemon-soda"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "honey-lemon-soda",
+        "file_name": "honey-lemon-soda"
+      },
+      "media": {
+        "id": 175443,
+        "idMal": 58271,
+        "title": {
+          "romaji": "Honey Lemon Soda",
+          "english": "Honey Lemon Soda",
+          "native": "ハニーレモンソーダ",
+          "userPreferred": "Honey Lemon Soda"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-NSk51qiEwIEh.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175443-NSk51qiEwIEh.jpg",
+          "color": "#f1c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175443-g0uKvQh9uFe1.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-22T23:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-22T23:00:00Z"
   },
   {
     "title": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V: Goddess of Fertility Arc",
@@ -1769,8 +1826,7 @@
     "delayedUntil": "2025-01-21T22:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-21T22:00:00Z",
-    "episodeNumber": 13,
-    "subtractedEpisodeNumber": 12,
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -1785,7 +1841,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M17X/ill-become-a-villainess-who-goes-down-in-history"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1819,12 +1875,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2025-01-21T22:00:00Z"
-            },
-            {
               "episode": 13,
-              "airingAt": "2025-01-21T22:00:00Z"
+              "airingAt": "2025-01-28T22:00:00Z"
             }
           ]
         }
@@ -2053,7 +2105,6 @@
     "status": "Ongoing",
     "episodeDate": "2025-01-26T20:00:00Z",
     "episodeNumber": 12,
-    "subtractedEpisodeNumber": 10,
     "episodes": 25,
     "lengthMin": 24,
     "donghua": false,
@@ -2104,14 +2155,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 10,
-              "airingAt": "2025-01-26T20:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-01-26T20:00:00Z"
-            },
             {
               "episode": 12,
               "airingAt": "2025-01-26T20:00:00Z"
@@ -2221,8 +2264,8 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3GKX/the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl3eT2fOFMIeAJZQpdxe9tmU"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
