@@ -778,10 +778,10 @@
     "title": "Honey Lemon Soda",
     "route": "honey-lemon-soda",
     "native": "ハニーレモンソーダ",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-22T23:00:00Z",
+    "episodeDate": "2025-01-22T22:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 23,
@@ -797,8 +797,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GMEHME77W/honey-lemon-soda"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "honey-lemon-soda",
@@ -829,8 +829,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-22T23:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-29T22:00:00Z"
             }
           ]
         }
@@ -2270,7 +2270,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
