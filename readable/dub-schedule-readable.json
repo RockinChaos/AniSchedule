@@ -76,11 +76,12 @@
     "romaji": "Ameku Takao no Suiri Karte",
     "english": "Ameku M.D.: Doctor Detective",
     "native": "天久鷹央の推理カルテ",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-22T21:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-01-22T21:30:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -95,7 +96,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -128,8 +129,16 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2025-01-22T21:30:00Z"
+            },
+            {
               "episode": 2,
-              "airingAt": "2025-01-29T21:00:00Z"
+              "airingAt": "2025-01-22T21:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-01-29T21:30:00Z"
             }
           ]
         }
@@ -2261,7 +2270,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2295,8 +2304,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2025-01-22T22:00:00Z"
+              "episode": 13,
+              "airingAt": "2025-01-29T22:00:00Z"
             }
           ]
         }
