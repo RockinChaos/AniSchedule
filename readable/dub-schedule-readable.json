@@ -95,8 +95,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "ameku-takao-no-suiri-karte",
@@ -128,8 +128,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-22T21:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-29T21:00:00Z"
             }
           ]
         }
