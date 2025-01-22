@@ -1,125 +1,5 @@
 [
   {
-    "id": 175137,
-    "idMal": 58199,
-    "title": {
-      "romaji": "Yoru wa Neko to Issho Season 3",
-      "english": "Nights with a Cat Season 3",
-      "native": "夜は猫といっしょSeason3",
-      "userPreferred": "Nights with a Cat Season 3"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175137-dS5txKBSuiR1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175137-dS5txKBSuiR1.png",
-      "color": "#f1c950"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1737543600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1738148400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1738753200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1739358000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1739962800
-        },
-        {
-          "episode": 13,
-          "airingAt": 1740567600
-        },
-        {
-          "episode": 14,
-          "airingAt": 1741172400
-        },
-        {
-          "episode": 15,
-          "airingAt": 1741777200
-        },
-        {
-          "episode": 16,
-          "airingAt": 1742382000
-        },
-        {
-          "episode": 17,
-          "airingAt": 1742986800
-        },
-        {
-          "episode": 18,
-          "airingAt": 1743591600
-        },
-        {
-          "episode": 19,
-          "airingAt": 1744196400
-        },
-        {
-          "episode": 20,
-          "airingAt": 1744801200
-        },
-        {
-          "episode": 21,
-          "airingAt": 1745406000
-        },
-        {
-          "episode": 22,
-          "airingAt": 1746010800
-        },
-        {
-          "episode": 23,
-          "airingAt": 1746615600
-        },
-        {
-          "episode": 24,
-          "airingAt": 1747220400
-        },
-        {
-          "episode": 25,
-          "airingAt": 1747825200
-        },
-        {
-          "episode": 26,
-          "airingAt": 1748430000
-        },
-        {
-          "episode": 27,
-          "airingAt": 1749034800
-        },
-        {
-          "episode": 28,
-          "airingAt": 1749639600
-        },
-        {
-          "episode": 29,
-          "airingAt": 1750244400
-        },
-        {
-          "episode": 30,
-          "airingAt": 1750849200
-        }
-      ]
-    }
-  },
-  {
     "id": 177603,
     "idMal": 58827,
     "title": {
@@ -2219,6 +2099,102 @@
         {
           "episode": 6,
           "airingAt": 1738292400
+        }
+      ]
+    }
+  },
+  {
+    "id": 186300,
+    "idMal": null,
+    "title": {
+      "romaji": "minute! kaiju no. 8",
+      "english": "minute! Kaiju No. 8",
+      "native": "ミニっと！かいじゅう８号",
+      "userPreferred": "minute! Kaiju No. 8"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186300-py8AeW9MgfDS.jpg",
+      "color": "#0de4d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 8,
+          "airingAt": 1737709200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1738314000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1738918800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1739523600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1740128400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1740733200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1741338000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1741942800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1742547600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1743152400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1743757200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1744362000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1744966800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1745571600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1746176400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1746781200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1747386000
         }
       ]
     }
@@ -7991,6 +7967,122 @@
         {
           "episode": 106,
           "airingAt": 1745373600
+        }
+      ]
+    }
+  },
+  {
+    "id": 175137,
+    "idMal": 58199,
+    "title": {
+      "romaji": "Yoru wa Neko to Issho Season 3",
+      "english": "Nights with a Cat Season 3",
+      "native": "夜は猫といっしょSeason3",
+      "userPreferred": "Nights with a Cat Season 3"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175137-dS5txKBSuiR1.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175137-dS5txKBSuiR1.png",
+      "color": "#f1c950"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 9,
+          "airingAt": 1738148400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1738753200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1739358000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1739962800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1740567600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1741172400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1741777200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1742382000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1742986800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1743591600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1744196400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1744801200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1745406000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1746010800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1746615600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1747220400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1747825200
+        },
+        {
+          "episode": 26,
+          "airingAt": 1748430000
+        },
+        {
+          "episode": 27,
+          "airingAt": 1749034800
+        },
+        {
+          "episode": 28,
+          "airingAt": 1749639600
+        },
+        {
+          "episode": 29,
+          "airingAt": 1750244400
+        },
+        {
+          "episode": 30,
+          "airingAt": 1750849200
         }
       ]
     }
