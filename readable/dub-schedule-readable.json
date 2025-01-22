@@ -71,6 +71,75 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Ameku Takao no Suiri Karte",
+    "route": "ameku-takao-no-suiri-karte",
+    "romaji": "Ameku Takao no Suiri Karte",
+    "english": "Ameku M.D.: Doctor Detective",
+    "native": "天久鷹央の推理カルテ",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-22T21:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/ameku-takao-no-suiri-karte-5982506362.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "ameku-takao-no-suiri-karte",
+        "file_name": "ameku-takao-no-suiri-karte"
+      },
+      "media": {
+        "id": 176642,
+        "idMal": 58600,
+        "title": {
+          "romaji": "Ameku Takao no Suiri Karte",
+          "english": "Ameku M.D.: Doctor Detective",
+          "native": "天久鷹央の推理カルテ",
+          "userPreferred": "Ameku M.D.: Doctor Detective"
+        },
+        "format": "TV",
+        "genres": [
+          "Mystery",
+          "Slice of Life"
+        ],
+        "duration": 25,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
+          "color": "#5daef1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-22T21:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-22T21:00:00Z"
+  },
+  {
     "title": "Arifureta Shokugyou de Sekai Saikyou 3",
     "route": "arifureta-from-commonplace-to-worlds-strongest-3",
     "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
@@ -2264,7 +2333,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GXJHM3GKX/the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl3eT2fOFMIeAJZQpdxe9tmU"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
