@@ -996,7 +996,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1029,8 +1029,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-01-22T16:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-01-29T16:00:00Z"
             }
           ]
         }
