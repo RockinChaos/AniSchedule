@@ -580,7 +580,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -614,8 +614,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-01-22T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-01-29T17:00:00Z"
             }
           ]
         }
@@ -856,7 +856,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/26756"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -892,8 +892,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-01-22T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-01-29T17:00:00Z"
             }
           ]
         }
@@ -996,7 +996,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1131,7 +1131,7 @@
       "hidive": "www.hidive.com/tv/insomniacs-after-school",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1fJTawowlPbOLfApiKSEOi"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1164,8 +1164,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-01-22T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-01-29T17:00:00Z"
             }
           ]
         }
@@ -1410,7 +1410,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1445,15 +1445,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-01-22T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-01-29T17:00:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-08T17:00:00Z"
   },
   {
