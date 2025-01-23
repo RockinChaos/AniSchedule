@@ -429,6 +429,76 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Douse, Koishite Shimaunda.",
+    "route": "douse-koishite-shimaunda",
+    "romaji": "Douse, Koishite Shimaunda.",
+    "english": "Anyway, I'm Falling in Love with You",
+    "native": "どうせ、恋してしまうんだ。",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-23T21:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/douse-koishite-shimaunda-4decfd6c46.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
+      "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "douse-koishite-shimaunda",
+        "file_name": "douse-koishite-shimaunda"
+      },
+      "media": {
+        "id": 175409,
+        "idMal": 58259,
+        "title": {
+          "romaji": "Douse, Koishite Shimaunda.",
+          "english": "Anyway, I'm Falling in Love with You.",
+          "native": "どうせ、恋してしまうんだ。",
+          "userPreferred": "Anyway, I'm Falling in Love with You."
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175409-ZYYEw0H6QypN.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175409-ZYYEw0H6QypN.jpg",
+          "color": "#5dbbf1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-23T21:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-23T21:00:00Z"
+  },
+  {
     "title": "Dr. Stone: Science Future",
     "route": "dr-stone-science-future",
     "delayedFrom": "0001-01-01T15:00:00Z",
