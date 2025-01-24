@@ -47,6 +47,7 @@ jobs:
             contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
             contains_delayed=$(grep -q "Delayed" changes.txt && echo true || grep -q "delayed" changes.txt && echo true || echo false)
             contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
+            contains_modified=$(grep -q "Modified" changes.txt && echo true || echo false)
 
             if [ "$contains_added" == "true" ] && [ "$contains_removed" == "true" ]; then
               if [ "contains_missing" == "true" ]; then
@@ -60,6 +61,8 @@ jobs:
             title="Removed Episode(s) (Correction)"
             elif [ "$contains_missing" == "true" ]; then
             title="Added Missing Episode(s)"
+            elif [ "contains_modified" == "true" ]; then
+            title="Modified Episode(s)"
             fi
           
             if [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
