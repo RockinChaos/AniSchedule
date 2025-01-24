@@ -590,7 +590,7 @@
       "hulu": "www.hulu.com/series/7c2e04e4-3f77-4dfe-9a62-167b7065d6b3",
       "netflix": "www.netflix.com/title/81943491"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -623,15 +623,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-01-24T21:30:00Z"
+              "episode": 4,
+              "airingAt": "2025-01-31T21:30:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-10T21:30:00Z"
   },
   {
@@ -1607,10 +1607,10 @@
     "romaji": "Kusuriya no Hitorigoto 2nd Season",
     "english": "The Apothecary Diaries 2nd Season",
     "native": "薬屋のひとりごと 第2期",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-24T22:00:00Z",
+    "episodeDate": "2025-01-24T21:00:00Z",
     "episodeNumber": 1,
     "episodes": 24,
     "lengthMin": 24,
@@ -1626,8 +1626,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "kusuriya-no-hitorigoto-2nd-season",
@@ -1659,8 +1659,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-24T22:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-31T21:00:00Z"
             }
           ]
         }
