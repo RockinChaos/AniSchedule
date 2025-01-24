@@ -774,6 +774,77 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+    "route": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+    "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu",
+    "english": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
+    "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-24T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu-6349c4ee7f.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G8DHV784M/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+        "file_name": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu"
+      },
+      "media": {
+        "id": 167143,
+        "idMal": 55997,
+        "title": {
+          "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu",
+          "english": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
+          "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+          "userPreferred": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167143-SoFo5kOvlkbO.jpg",
+          "color": "#ffbb43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167143-YGnuSeaD90mT.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-24T23:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-24T23:00:00Z"
+  },
+  {
     "title": "Hitoribocchi no Isekai Kouryaku",
     "route": "hitoribocchi-no-isekai-kouryaku",
     "romaji": "Hitoribocchi no Isekai Kouryaku",
@@ -1118,6 +1189,72 @@
     },
     "verified": true,
     "addedAt": "2025-01-01T16:01:00Z"
+  },
+  {
+    "title": "Kimi no Iro",
+    "route": "kimi-no-iro",
+    "romaji": "Kimi no Iro",
+    "english": "The Colors Within",
+    "native": "きみの色",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-01-24T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 100,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kimi-no-iro-a0ac4419c5.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "kimi-no-iro",
+        "file_name": "kimi-no-iro"
+      },
+      "media": {
+        "id": 158166,
+        "idMal": 53747,
+        "title": {
+          "romaji": "Kimi no Iro",
+          "english": "The Colors Within",
+          "native": "きみの色",
+          "userPreferred": "The Colors Within"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Music"
+        ],
+        "duration": 100,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158166-TZxLtPvXEVUQ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158166-TZxLtPvXEVUQ.jpg",
+          "color": "#e4d65d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158166-uieFhPp1ECVO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-24T01:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-24T01:00:00Z"
   },
   {
     "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
@@ -1958,6 +2095,127 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "One Piece",
+    "route": "one-piece",
+    "native": "ワンピース",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "status": "Delayed",
+    "episodeDate": "2025-01-21T08:00:00Z",
+    "episodeNumber": 1108,
+    "subtractedEpisodeNumber": 1097,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/one-piece-f2f2a983a8.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/one-piece",
+      "funimation": "www.funimation.com/shows/one-piece/",
+      "hulu": "www.hulu.com/series/one-piece-c7a08df6-d0d5-4dd3-afff-d1f90133cd4e",
+      "netflix": "www.netflix.com/title/80107103"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "one-piece",
+        "file_name": "one-piece"
+      },
+      "media": {
+        "id": 21,
+        "idMal": 21,
+        "title": {
+          "romaji": "ONE PIECE",
+          "english": "ONE PIECE",
+          "native": "ONE PIECE",
+          "userPreferred": "ONE PIECE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1999,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-YCDoj1EkAxFn.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1097,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1098,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1099,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1100,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1101,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1102,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1103,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1104,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1105,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1106,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1107,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1108,
+              "airingAt": "2025-01-21T08:00:00Z"
+            },
+            {
+              "episode": 1109,
+              "airingAt": "2025-01-28T08:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-24T00:41:50Z"
+  },
+  {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
     "route": "re-zero-kara-hajimeru-isekai-seikatsu-3",
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
@@ -2109,8 +2367,9 @@
     "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
     "english": "Rurouni Kenshin -Kyoto Disturbance-",
     "native": "るろうに剣心 -明治剣客浪漫譚- 京都動乱",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-01-16T22:00:00Z",
-    "delayedUntil": "2025-01-23T22:00:00Z",
+    "delayedUntil": "2025-01-30T22:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-23T22:00:00Z",
     "episodeNumber": 13,
@@ -2128,7 +2387,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2163,7 +2422,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
+              "episode": 13,
               "airingAt": "2025-01-30T22:00:00Z"
             }
           ]
@@ -2647,8 +2906,7 @@
     "delayedUntil": "2025-01-23T22:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-23T22:30:00Z",
-    "episodeNumber": 15,
-    "subtractedEpisodeNumber": 13,
+    "episodeNumber": 13,
     "episodes": 26,
     "lengthMin": 24,
     "donghua": false,
@@ -2699,19 +2957,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-01-23T22:30:00Z"
-            },
-            {
               "episode": 14,
-              "airingAt": "2025-01-23T22:30:00Z"
-            },
-            {
-              "episode": 15,
-              "airingAt": "2025-01-23T22:30:00Z"
-            },
-            {
-              "episode": 16,
               "airingAt": "2025-01-30T22:30:00Z"
             }
           ]
