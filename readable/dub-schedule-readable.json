@@ -779,10 +779,10 @@
     "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu",
     "english": "I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
     "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
+    "delayedFrom": "0001-01-01T22:30:00Z",
+    "delayedUntil": "0001-01-01T22:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-24T23:00:00Z",
+    "episodeDate": "2025-01-24T22:30:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
@@ -798,8 +798,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G8DHV784M/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
@@ -833,8 +833,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-24T23:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-01-31T22:30:00Z"
             }
           ]
         }
@@ -1189,6 +1189,79 @@
     },
     "verified": true,
     "addedAt": "2025-01-01T16:01:00Z"
+  },
+  {
+    "title": "Jibaku Shounen Hanako-kun 2nd Season",
+    "route": "jibaku-shounen-hanako-kun-2nd-season",
+    "romaji": "Jibaku Shounen Hanako-kun 2nd Season",
+    "english": "Toilet-Bound Hanako-kun 2nd Season",
+    "native": "地縛少年花子くん 第2期",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-26T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/jibaku-shounen-hanako-kun-2nd-season-f8951ff35f.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G24H1N3ZP/toilet-bound-hanako-kun",
+      "hulu": "www.hulu.com/series/toilet-bound-hanako-kun-87b3d986-cbae-47ce-9076-0fe61fce06e3"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "jibaku-shounen-hanako-kun-2nd-season",
+        "file_name": "jibaku-shounen-hanako-kun-2nd-season"
+      },
+      "media": {
+        "id": 170892,
+        "idMal": 53924,
+        "title": {
+          "romaji": "Jibaku Shounen Hanako-kun 2",
+          "english": "Toilet-bound Hanako-kun Season 2",
+          "native": "地縛少年花子くん２",
+          "userPreferred": "Toilet-bound Hanako-kun Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170892-VFCGRI41xFUF.jpg",
+          "color": "#f1bb0d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-26T23:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-26T23:00:00Z"
   },
   {
     "title": "Kimi no Iro",
