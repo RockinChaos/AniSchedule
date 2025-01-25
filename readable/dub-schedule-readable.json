@@ -1034,9 +1034,9 @@
         "duration": 23,
         "seasonYear": 2025,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-NSk51qiEwIEh.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175443-NSk51qiEwIEh.jpg",
-          "color": "#f1c950"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-yeamxYxCwLSe.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175443-yeamxYxCwLSe.jpg",
+          "color": "#e4e443"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175443-g0uKvQh9uFe1.jpg",
@@ -2601,7 +2601,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81663325"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2634,15 +2634,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-01-25T14:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-02-01T14:00:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-11T14:00:00Z"
   },
   {
