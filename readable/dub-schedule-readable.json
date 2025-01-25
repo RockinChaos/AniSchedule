@@ -1,5 +1,77 @@
 [
   {
+    "title": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+    "route": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
+    "romaji": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+    "english": "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+    "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-25T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu-5ac08f5edc.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GKEH2G004/i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl03q6rAPvEC-sRXeGiy6qMM"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
+        "file_name": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu"
+      },
+      "media": {
+        "id": 180812,
+        "idMal": 59730,
+        "title": {
+          "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+          "english": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+          "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
+          "userPreferred": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180812-162w2RBaqJzE.jpg",
+          "color": "#5028a1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-25T23:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-25T23:00:00Z"
+  },
+  {
     "title": "Amagami-san Chi no Enmusubi",
     "route": "amagami-san-chi-no-enmusubi",
     "romaji": "Amagami-san Chi no Enmusubi",
@@ -614,9 +686,9 @@
         "duration": 24,
         "seasonYear": 2024,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170083-gDNBp0B4VHsG.jpg",
-          "color": "#f1431a"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170083-GTwRrhTApcLR.png",
+          "color": "#e45d43"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170083-SYCCWWlq3hqF.jpg",
