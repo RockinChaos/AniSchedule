@@ -1,517 +1,5 @@
 [
   {
-    "id": 966,
-    "idMal": 966,
-    "title": {
-      "romaji": "Crayon Shin-chan",
-      "english": "Shin Chan",
-      "native": "クレヨンしんちゃん",
-      "userPreferred": "Shin Chan"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Slice of Life"
-    ],
-    "duration": 21,
-    "seasonYear": 1992,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b966-QUCdKAk4ls9J.jpg",
-      "color": "#e4e428"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1269,
-          "airingAt": 1737790200
-        },
-        {
-          "episode": 1270,
-          "airingAt": 1738395000
-        },
-        {
-          "episode": 1271,
-          "airingAt": 1738999800
-        },
-        {
-          "episode": 1272,
-          "airingAt": 1739604600
-        },
-        {
-          "episode": 1273,
-          "airingAt": 1740209400
-        },
-        {
-          "episode": 1274,
-          "airingAt": 1740814200
-        },
-        {
-          "episode": 1275,
-          "airingAt": 1741419000
-        },
-        {
-          "episode": 1276,
-          "airingAt": 1742023800
-        },
-        {
-          "episode": 1277,
-          "airingAt": 1742628600
-        },
-        {
-          "episode": 1278,
-          "airingAt": 1743233400
-        },
-        {
-          "episode": 1279,
-          "airingAt": 1743838200
-        },
-        {
-          "episode": 1280,
-          "airingAt": 1744443000
-        },
-        {
-          "episode": 1281,
-          "airingAt": 1745047800
-        },
-        {
-          "episode": 1282,
-          "airingAt": 1745652600
-        },
-        {
-          "episode": 1283,
-          "airingAt": 1746257400
-        },
-        {
-          "episode": 1284,
-          "airingAt": 1746862200
-        },
-        {
-          "episode": 1285,
-          "airingAt": 1747467000
-        },
-        {
-          "episode": 1286,
-          "airingAt": 1748071800
-        },
-        {
-          "episode": 1287,
-          "airingAt": 1748676600
-        },
-        {
-          "episode": 1288,
-          "airingAt": 1749281400
-        },
-        {
-          "episode": 1289,
-          "airingAt": 1749886200
-        },
-        {
-          "episode": 1290,
-          "airingAt": 1750491000
-        },
-        {
-          "episode": 1291,
-          "airingAt": 1751095800
-        },
-        {
-          "episode": 1292,
-          "airingAt": 1751700600
-        },
-        {
-          "episode": 1293,
-          "airingAt": 1752305400
-        }
-      ]
-    }
-  },
-  {
-    "id": 8687,
-    "idMal": 8687,
-    "title": {
-      "romaji": "Doraemon (2005)",
-      "english": null,
-      "native": "ドラえもん (2005)",
-      "userPreferred": "Doraemon (2005)"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": 25,
-    "seasonYear": 2005,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8687.jpg",
-      "color": "#e4bb0d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 847,
-          "airingAt": 1737792000
-        },
-        {
-          "episode": 848,
-          "airingAt": 1738396800
-        },
-        {
-          "episode": 849,
-          "airingAt": 1739001600
-        },
-        {
-          "episode": 850,
-          "airingAt": 1739606400
-        },
-        {
-          "episode": 851,
-          "airingAt": 1740211200
-        },
-        {
-          "episode": 852,
-          "airingAt": 1740816000
-        },
-        {
-          "episode": 853,
-          "airingAt": 1741420800
-        },
-        {
-          "episode": 854,
-          "airingAt": 1742025600
-        },
-        {
-          "episode": 855,
-          "airingAt": 1742630400
-        },
-        {
-          "episode": 856,
-          "airingAt": 1743235200
-        },
-        {
-          "episode": 857,
-          "airingAt": 1743840000
-        },
-        {
-          "episode": 858,
-          "airingAt": 1744444800
-        },
-        {
-          "episode": 859,
-          "airingAt": 1745049600
-        },
-        {
-          "episode": 860,
-          "airingAt": 1745654400
-        },
-        {
-          "episode": 861,
-          "airingAt": 1746259200
-        },
-        {
-          "episode": 862,
-          "airingAt": 1746864000
-        },
-        {
-          "episode": 863,
-          "airingAt": 1747468800
-        },
-        {
-          "episode": 864,
-          "airingAt": 1748073600
-        },
-        {
-          "episode": 865,
-          "airingAt": 1748678400
-        },
-        {
-          "episode": 866,
-          "airingAt": 1749283200
-        },
-        {
-          "episode": 867,
-          "airingAt": 1749888000
-        },
-        {
-          "episode": 868,
-          "airingAt": 1750492800
-        },
-        {
-          "episode": 869,
-          "airingAt": 1751097600
-        },
-        {
-          "episode": 870,
-          "airingAt": 1751702400
-        },
-        {
-          "episode": 871,
-          "airingAt": 1752307200
-        }
-      ]
-    }
-  },
-  {
-    "id": 169258,
-    "idMal": 56647,
-    "title": {
-      "romaji": "Ao no Miburo",
-      "english": "Blue Miburo",
-      "native": "青のミブロ",
-      "userPreferred": "Blue Miburo"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg",
-      "color": "#50aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1737793800
-        },
-        {
-          "episode": 16,
-          "airingAt": 1738398600
-        },
-        {
-          "episode": 17,
-          "airingAt": 1739003400
-        },
-        {
-          "episode": 18,
-          "airingAt": 1739608200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1740213000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1740817800
-        },
-        {
-          "episode": 21,
-          "airingAt": 1741422600
-        },
-        {
-          "episode": 22,
-          "airingAt": 1742027400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742632200
-        },
-        {
-          "episode": 24,
-          "airingAt": 1743237000
-        }
-      ]
-    }
-  },
-  {
-    "id": 235,
-    "idMal": 235,
-    "title": {
-      "romaji": "Meitantei Conan",
-      "english": "Case Closed",
-      "native": "名探偵コナン",
-      "userPreferred": "Case Closed"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Mystery",
-      "Psychological"
-    ],
-    "duration": 25,
-    "seasonYear": 1996,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-XucEZpR3CRaV.jpg",
-      "color": "#28a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1151,
-          "airingAt": 1737795600
-        },
-        {
-          "episode": 1152,
-          "airingAt": 1738400400
-        },
-        {
-          "episode": 1153,
-          "airingAt": 1739005200
-        },
-        {
-          "episode": 1154,
-          "airingAt": 1739610000
-        },
-        {
-          "episode": 1155,
-          "airingAt": 1740214800
-        },
-        {
-          "episode": 1156,
-          "airingAt": 1740819600
-        },
-        {
-          "episode": 1157,
-          "airingAt": 1741424400
-        },
-        {
-          "episode": 1158,
-          "airingAt": 1742029200
-        },
-        {
-          "episode": 1159,
-          "airingAt": 1742634000
-        },
-        {
-          "episode": 1160,
-          "airingAt": 1743238800
-        },
-        {
-          "episode": 1161,
-          "airingAt": 1743843600
-        },
-        {
-          "episode": 1162,
-          "airingAt": 1744448400
-        },
-        {
-          "episode": 1163,
-          "airingAt": 1745053200
-        },
-        {
-          "episode": 1164,
-          "airingAt": 1745658000
-        },
-        {
-          "episode": 1165,
-          "airingAt": 1746262800
-        },
-        {
-          "episode": 1166,
-          "airingAt": 1746867600
-        },
-        {
-          "episode": 1167,
-          "airingAt": 1747472400
-        },
-        {
-          "episode": 1168,
-          "airingAt": 1748077200
-        },
-        {
-          "episode": 1169,
-          "airingAt": 1748682000
-        },
-        {
-          "episode": 1170,
-          "airingAt": 1749286800
-        },
-        {
-          "episode": 1171,
-          "airingAt": 1749891600
-        },
-        {
-          "episode": 1172,
-          "airingAt": 1750496400
-        },
-        {
-          "episode": 1173,
-          "airingAt": 1751101200
-        },
-        {
-          "episode": 1174,
-          "airingAt": 1751706000
-        },
-        {
-          "episode": 1175,
-          "airingAt": 1752310800
-        }
-      ]
-    }
-  },
-  {
-    "id": 174913,
-    "idMal": 58137,
-    "title": {
-      "romaji": "Kagaku×Bouken Survival!",
-      "english": null,
-      "native": "科学×冒険サバイバル！",
-      "userPreferred": "Kagaku×Bouken Survival!"
-    },
-    "format": "TV",
-    "genres": [],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
-      "color": "#1aa1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1737797160
-        },
-        {
-          "episode": 15,
-          "airingAt": 1738401960
-        },
-        {
-          "episode": 16,
-          "airingAt": 1739006760
-        },
-        {
-          "episode": 17,
-          "airingAt": 1739611560
-        },
-        {
-          "episode": 18,
-          "airingAt": 1740216360
-        },
-        {
-          "episode": 19,
-          "airingAt": 1740821160
-        },
-        {
-          "episode": 20,
-          "airingAt": 1741425960
-        },
-        {
-          "episode": 21,
-          "airingAt": 1742030760
-        }
-      ]
-    }
-  },
-  {
     "id": 177709,
     "idMal": 58939,
     "title": {
@@ -6084,7 +5572,9 @@
     "genres": [
       "Action",
       "Fantasy",
-      "Mecha"
+      "Mecha",
+      "Mystery",
+      "Sci-Fi"
     ],
     "duration": 24,
     "seasonYear": 2025,
@@ -7475,9 +6965,9 @@
     "duration": 24,
     "seasonYear": 2024,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-gDNBp0B4VHsG.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170083-gDNBp0B4VHsG.jpg",
-      "color": "#f1431a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170083-GTwRrhTApcLR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170083-GTwRrhTApcLR.png",
+      "color": "#e45d43"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170083-SYCCWWlq3hqF.jpg",
@@ -8101,6 +7591,510 @@
         {
           "episode": 40,
           "airingAt": 1752894000
+        }
+      ]
+    }
+  },
+  {
+    "id": 966,
+    "idMal": 966,
+    "title": {
+      "romaji": "Crayon Shin-chan",
+      "english": "Shin Chan",
+      "native": "クレヨンしんちゃん",
+      "userPreferred": "Shin Chan"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "duration": 21,
+    "seasonYear": 1992,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b966-QUCdKAk4ls9J.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b966-QUCdKAk4ls9J.jpg",
+      "color": "#e4e428"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1270,
+          "airingAt": 1738395000
+        },
+        {
+          "episode": 1271,
+          "airingAt": 1738999800
+        },
+        {
+          "episode": 1272,
+          "airingAt": 1739604600
+        },
+        {
+          "episode": 1273,
+          "airingAt": 1740209400
+        },
+        {
+          "episode": 1274,
+          "airingAt": 1740814200
+        },
+        {
+          "episode": 1275,
+          "airingAt": 1741419000
+        },
+        {
+          "episode": 1276,
+          "airingAt": 1742023800
+        },
+        {
+          "episode": 1277,
+          "airingAt": 1742628600
+        },
+        {
+          "episode": 1278,
+          "airingAt": 1743233400
+        },
+        {
+          "episode": 1279,
+          "airingAt": 1743838200
+        },
+        {
+          "episode": 1280,
+          "airingAt": 1744443000
+        },
+        {
+          "episode": 1281,
+          "airingAt": 1745047800
+        },
+        {
+          "episode": 1282,
+          "airingAt": 1745652600
+        },
+        {
+          "episode": 1283,
+          "airingAt": 1746257400
+        },
+        {
+          "episode": 1284,
+          "airingAt": 1746862200
+        },
+        {
+          "episode": 1285,
+          "airingAt": 1747467000
+        },
+        {
+          "episode": 1286,
+          "airingAt": 1748071800
+        },
+        {
+          "episode": 1287,
+          "airingAt": 1748676600
+        },
+        {
+          "episode": 1288,
+          "airingAt": 1749281400
+        },
+        {
+          "episode": 1289,
+          "airingAt": 1749886200
+        },
+        {
+          "episode": 1290,
+          "airingAt": 1750491000
+        },
+        {
+          "episode": 1291,
+          "airingAt": 1751095800
+        },
+        {
+          "episode": 1292,
+          "airingAt": 1751700600
+        },
+        {
+          "episode": 1293,
+          "airingAt": 1752305400
+        },
+        {
+          "episode": 1294,
+          "airingAt": 1752910200
+        }
+      ]
+    }
+  },
+  {
+    "id": 8687,
+    "idMal": 8687,
+    "title": {
+      "romaji": "Doraemon (2005)",
+      "english": null,
+      "native": "ドラえもん (2005)",
+      "userPreferred": "Doraemon (2005)"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": 25,
+    "seasonYear": 2005,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/8687.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/8687.jpg",
+      "color": "#e4bb0d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/8687-aa3QbJjGfy3B.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 848,
+          "airingAt": 1738396800
+        },
+        {
+          "episode": 849,
+          "airingAt": 1739001600
+        },
+        {
+          "episode": 850,
+          "airingAt": 1739606400
+        },
+        {
+          "episode": 851,
+          "airingAt": 1740211200
+        },
+        {
+          "episode": 852,
+          "airingAt": 1740816000
+        },
+        {
+          "episode": 853,
+          "airingAt": 1741420800
+        },
+        {
+          "episode": 854,
+          "airingAt": 1742025600
+        },
+        {
+          "episode": 855,
+          "airingAt": 1742630400
+        },
+        {
+          "episode": 856,
+          "airingAt": 1743235200
+        },
+        {
+          "episode": 857,
+          "airingAt": 1743840000
+        },
+        {
+          "episode": 858,
+          "airingAt": 1744444800
+        },
+        {
+          "episode": 859,
+          "airingAt": 1745049600
+        },
+        {
+          "episode": 860,
+          "airingAt": 1745654400
+        },
+        {
+          "episode": 861,
+          "airingAt": 1746259200
+        },
+        {
+          "episode": 862,
+          "airingAt": 1746864000
+        },
+        {
+          "episode": 863,
+          "airingAt": 1747468800
+        },
+        {
+          "episode": 864,
+          "airingAt": 1748073600
+        },
+        {
+          "episode": 865,
+          "airingAt": 1748678400
+        },
+        {
+          "episode": 866,
+          "airingAt": 1749283200
+        },
+        {
+          "episode": 867,
+          "airingAt": 1749888000
+        },
+        {
+          "episode": 868,
+          "airingAt": 1750492800
+        },
+        {
+          "episode": 869,
+          "airingAt": 1751097600
+        },
+        {
+          "episode": 870,
+          "airingAt": 1751702400
+        },
+        {
+          "episode": 871,
+          "airingAt": 1752307200
+        },
+        {
+          "episode": 872,
+          "airingAt": 1752912000
+        }
+      ]
+    }
+  },
+  {
+    "id": 169258,
+    "idMal": 56647,
+    "title": {
+      "romaji": "Ao no Miburo",
+      "english": "Blue Miburo",
+      "native": "青のミブロ",
+      "userPreferred": "Blue Miburo"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169258-kj8qoomfAKsB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169258-kj8qoomfAKsB.jpg",
+      "color": "#50aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 16,
+          "airingAt": 1738398600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1739003400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1739608200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1740213000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1740817800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1741422600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1742027400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742632200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1743237000
+        }
+      ]
+    }
+  },
+  {
+    "id": 235,
+    "idMal": 235,
+    "title": {
+      "romaji": "Meitantei Conan",
+      "english": "Case Closed",
+      "native": "名探偵コナン",
+      "userPreferred": "Case Closed"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": 25,
+    "seasonYear": 1996,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-XucEZpR3CRaV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-XucEZpR3CRaV.jpg",
+      "color": "#28a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1152,
+          "airingAt": 1738400400
+        },
+        {
+          "episode": 1153,
+          "airingAt": 1739005200
+        },
+        {
+          "episode": 1154,
+          "airingAt": 1739610000
+        },
+        {
+          "episode": 1155,
+          "airingAt": 1740214800
+        },
+        {
+          "episode": 1156,
+          "airingAt": 1740819600
+        },
+        {
+          "episode": 1157,
+          "airingAt": 1741424400
+        },
+        {
+          "episode": 1158,
+          "airingAt": 1742029200
+        },
+        {
+          "episode": 1159,
+          "airingAt": 1742634000
+        },
+        {
+          "episode": 1160,
+          "airingAt": 1743238800
+        },
+        {
+          "episode": 1161,
+          "airingAt": 1743843600
+        },
+        {
+          "episode": 1162,
+          "airingAt": 1744448400
+        },
+        {
+          "episode": 1163,
+          "airingAt": 1745053200
+        },
+        {
+          "episode": 1164,
+          "airingAt": 1745658000
+        },
+        {
+          "episode": 1165,
+          "airingAt": 1746262800
+        },
+        {
+          "episode": 1166,
+          "airingAt": 1746867600
+        },
+        {
+          "episode": 1167,
+          "airingAt": 1747472400
+        },
+        {
+          "episode": 1168,
+          "airingAt": 1748077200
+        },
+        {
+          "episode": 1169,
+          "airingAt": 1748682000
+        },
+        {
+          "episode": 1170,
+          "airingAt": 1749286800
+        },
+        {
+          "episode": 1171,
+          "airingAt": 1749891600
+        },
+        {
+          "episode": 1172,
+          "airingAt": 1750496400
+        },
+        {
+          "episode": 1173,
+          "airingAt": 1751101200
+        },
+        {
+          "episode": 1174,
+          "airingAt": 1751706000
+        },
+        {
+          "episode": 1175,
+          "airingAt": 1752310800
+        },
+        {
+          "episode": 1176,
+          "airingAt": 1752915600
+        }
+      ]
+    }
+  },
+  {
+    "id": 174913,
+    "idMal": 58137,
+    "title": {
+      "romaji": "Kagaku×Bouken Survival!",
+      "english": null,
+      "native": "科学×冒険サバイバル！",
+      "userPreferred": "Kagaku×Bouken Survival!"
+    },
+    "format": "TV",
+    "genres": [],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
+      "color": "#1aa1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1738401960
+        },
+        {
+          "episode": 16,
+          "airingAt": 1739006760
+        },
+        {
+          "episode": 17,
+          "airingAt": 1739611560
+        },
+        {
+          "episode": 18,
+          "airingAt": 1740216360
+        },
+        {
+          "episode": 19,
+          "airingAt": 1740821160
+        },
+        {
+          "episode": 20,
+          "airingAt": 1741425960
+        },
+        {
+          "episode": 21,
+          "airingAt": 1742030760
         }
       ]
     }
