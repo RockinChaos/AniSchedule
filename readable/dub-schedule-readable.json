@@ -5,10 +5,10 @@
     "romaji": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
     "english": "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-25T23:00:00Z",
+    "episodeDate": "2025-01-25T21:30:00Z",
     "episodeNumber": 1,
     "episodes": 24,
     "lengthMin": 24,
@@ -25,8 +25,8 @@
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G004/i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl03q6rAPvEC-sRXeGiy6qMM"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
@@ -60,8 +60,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-25T23:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-02-01T21:30:00Z"
             }
           ]
         }
@@ -455,7 +455,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1403,6 +1403,76 @@
     "addedAt": "2025-01-24T01:00:00Z"
   },
   {
+    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2",
+    "route": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-season-2",
+    "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
+    "english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2nd Season",
+    "native": "君のことが大大大大大好きな100人の彼女 2期",
+    "delayedFrom": "0001-01-01T22:30:00Z",
+    "delayedUntil": "0001-01-01T22:30:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-26T22:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-season-2-893807ada0.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo- S2",
+        "file_name": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo- S2"
+      },
+      "media": {
+        "id": 172258,
+        "idMal": 57616,
+        "title": {
+          "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
+          "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
+          "native": "君のことが大大大大大好きな100人の彼女 第2期",
+          "userPreferred": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172258-CFvhqor0blLV.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172258-CFvhqor0blLV.jpg",
+          "color": "#e44386"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172258-w0t3aHFqywwp.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-01-26T22:30:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-26T22:30:00Z"
+  },
+  {
     "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
     "route": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-zoku-hen",
     "delayedTimetable": "Delayed",
@@ -1563,7 +1633,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G1XHJV02M/you-are-ms-servant",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Ji1uCQlEQs2xNsM3drnWtvm"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1893,8 +1963,9 @@
     "romaji": "Maou 2099",
     "english": "Demon Lord 2099",
     "native": "魔王2099",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-01-18T22:30:00Z",
-    "delayedUntil": "2025-01-25T22:30:00Z",
+    "delayedUntil": "2025-02-01T22:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-25T22:30:00Z",
     "episodeNumber": 12,
@@ -1913,7 +1984,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1950,11 +2021,11 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-01-25T22:30:00Z"
+              "airingAt": "2025-02-01T22:30:00Z"
             },
             {
               "episode": 12,
-              "airingAt": "2025-01-25T22:30:00Z"
+              "airingAt": "2025-02-01T22:30:00Z"
             }
           ]
         }
@@ -2999,7 +3070,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
