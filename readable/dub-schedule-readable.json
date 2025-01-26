@@ -870,7 +870,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GG5H5XQED/fairy-tail-100-years-quest",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl23uIjbwVKoUA3dbo6FiGoX"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1339,10 +1339,10 @@
     "romaji": "Jibaku Shounen Hanako-kun 2nd Season",
     "english": "Toilet-Bound Hanako-kun 2nd Season",
     "native": "地縛少年花子くん 第2期",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-26T23:00:00Z",
+    "episodeDate": "2025-01-26T22:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
@@ -1359,8 +1359,8 @@
       "crunchyroll": "www.crunchyroll.com/series/G24H1N3ZP/toilet-bound-hanako-kun",
       "hulu": "www.hulu.com/series/toilet-bound-hanako-kun-87b3d986-cbae-47ce-9076-0fe61fce06e3"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "jibaku-shounen-hanako-kun-2nd-season",
@@ -1395,8 +1395,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-26T23:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-02-02T22:00:00Z"
             }
           ]
         }
@@ -1478,10 +1478,10 @@
     "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
     "english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 2nd Season",
     "native": "君のことが大大大大大好きな100人の彼女 2期",
-    "delayedFrom": "0001-01-01T22:30:00Z",
-    "delayedUntil": "0001-01-01T22:30:00Z",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-01-26T22:30:00Z",
+    "episodeDate": "2025-01-26T20:30:00Z",
     "episodeNumber": 1,
     "lengthMin": 24,
     "donghua": false,
@@ -1497,8 +1497,8 @@
       "crunchyroll": "www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo- S2",
@@ -1531,8 +1531,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-01-26T22:30:00Z"
+              "episode": 2,
+              "airingAt": "2025-02-02T20:30:00Z"
             }
           ]
         }
