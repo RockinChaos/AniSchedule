@@ -2941,6 +2941,7 @@
     "status": "Finished",
     "episodeDate": "2025-01-22T22:00:00Z",
     "episodeNumber": 12,
+    "subtractedEpisodeNumber": 10,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -2988,6 +2989,18 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165810-7MQnbmoxaY3p.jpg",
         "airingSchedule": {
           "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2025-01-22T22:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-01-22T22:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-01-22T22:00:00Z"
+            },
             {
               "episode": 13,
               "airingAt": "2025-01-29T22:00:00Z"
