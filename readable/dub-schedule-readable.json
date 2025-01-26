@@ -221,6 +221,76 @@
     "addedAt": "2025-01-22T21:00:00Z"
   },
   {
+    "title": "Ao no Exorcist: Yosuga-hen",
+    "route": "ao-no-exorcist-yosuga-hen",
+    "romaji": "Ao no Exorcist: Yosuga-hen",
+    "english": "Blue Exorcist -The Blue Night Saga-",
+    "native": "青の祓魔師 終夜篇",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-01-25T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/ao-no-exorcist-yosuga-hen-43c219d79d.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "ao-no-exorcist-yosuga-hen",
+        "file_name": "ao-no-exorcist-yosuga-hen"
+      },
+      "media": {
+        "id": 185880,
+        "idMal": 59226,
+        "title": {
+          "romaji": "Ao no Exorcist: Yosuga-hen",
+          "english": "Blue Exorcist -The Blue Night Saga-",
+          "native": "青の祓魔師 終夜篇",
+          "userPreferred": "Blue Exorcist -The Blue Night Saga-"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185880-efBIcDBzPiHP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185880-efBIcDBzPiHP.jpg",
+          "color": "#5da1f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-02-01T23:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-01-26T13:13:19Z"
+  },
+  {
     "title": "Arifureta Shokugyou de Sekai Saikyou 3",
     "route": "arifureta-from-commonplace-to-worlds-strongest-3",
     "romaji": "Arifureta Shokugyou de Sekai Saikyou 3",
