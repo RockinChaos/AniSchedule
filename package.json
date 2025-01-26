@@ -11,7 +11,7 @@
   "author": "RockinChaos",
   "license": "GPL-3.0-only",
   "dependencies": {
-    "anitomyscript": "github:ThaUnknown/anitomyscript#21a751e60a9efca83adb502212a3298f0e9a31e6",
+    "anitomyscript": "https://codeload.github.com/ThaUnknown/anitomyscript/tar.gz/21a751e60a9efca83adb502212a3298f0e9a31e6",
     "bottleneck": "^2.19.5",
     "cheerio": "^1.0.0",
     "fuse.js": "^7.0.0",
