@@ -29,13 +29,14 @@ globalThis.require = (module) => {
 export function matchKeys(nest, phrase, keys, threshold = 0.4) {
     if (!phrase) return true
     if (!nest) return false
-    if (new Fuse([nest], { includeScore: true, threshold, keys: keys }).search(phrase).length > 0) return true
+    return new Fuse([nest], { includeScore: true, threshold, keys: keys }).search(phrase).length > 0
+    /*if (new Fuse([nest], { includeScore: true, threshold, keys: keys }).search(phrase).length > 0) return true
     const fuse = new Fuse([phrase], { includeScore: true, threshold, })
-    return keys.some((key) => {
+    return keys.some((key) => { // this was causing way too many problems as some title routes are just stupidly similar causing them to resolve as the incorrect series... probably don't ever use this again.
         const valueToMatch = nest[key]
         if (valueToMatch) return fuse.search(valueToMatch).length > 0
         return false
-    })
+    })*/
 }
 
 // utility method for correcting anitomyscript woes for what's needed
