@@ -2461,7 +2461,8 @@
     "delayedUntil": "0001-01-01T20:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-01-27T20:30:00Z",
-    "episodeNumber": 2,
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -2477,7 +2478,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJPQ/headhunted-to-another-world-from-salaryman-to-big-four",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2513,6 +2514,14 @@
             {
               "episode": 2,
               "airingAt": "2025-01-27T20:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-01-27T20:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-02-03T20:30:00Z"
             }
           ]
         }
