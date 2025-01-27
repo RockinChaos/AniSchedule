@@ -917,6 +917,76 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "route": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
+    "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "english": "How I Attended an All-Guy's Mixer",
+    "native": "合コンに行ったら女がいなかった話",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-02-19T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/goukon-ni-ittara-onna-ga-inakatta-hanashi-db8b88a586.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/26753",
+      "youtube": "www.youtube.com/watch?v=hOZ6dfA8jPo&list=PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
+        "file_name": "goukon-ni-ittara-onna-ga-inakatta-hanashi"
+      },
+      "media": {
+        "id": 169931,
+        "idMal": 56843,
+        "title": {
+          "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+          "english": "How I Attended an All-Guy's Mixer",
+          "native": "合コンに行ったら女がいなかった話",
+          "userPreferred": "How I Attended an All-Guy's Mixer"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169931-tPgDEKaHNkFr.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169931-tPgDEKaHNkFr.jpg",
+          "color": "#50c9e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-02-19T17:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-02-19T17:00:00Z"
+  },
+  {
     "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
     "route": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
     "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu",
@@ -2054,7 +2124,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2674,7 +2744,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
