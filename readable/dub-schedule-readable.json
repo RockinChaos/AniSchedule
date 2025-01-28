@@ -359,10 +359,10 @@
     "romaji": "Bakeneko Anzu-chan",
     "english": "Ghost Cat Anzu",
     "native": "化け猫あんずちゃん",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-01-28T22:00:00Z",
+    "episodeDate": "2025-01-28T08:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 90,
@@ -376,8 +376,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/bakeneko-anzu-chan-735ee89b41.jpg",
     "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "bakeneko-anzu-chan",
@@ -411,7 +411,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-01-28T22:00:00Z"
+              "airingAt": "2025-01-28T08:00:00Z"
             }
           ]
         }
@@ -2944,7 +2944,7 @@
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-14T10:13:35Z"
   },
   {
