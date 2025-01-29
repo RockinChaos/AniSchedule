@@ -167,7 +167,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -200,8 +200,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-01-29T21:30:00Z"
+              "episode": 4,
+              "airingAt": "2025-02-05T21:30:00Z"
             }
           ]
         }
@@ -1073,7 +1073,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GMEHME77W/honey-lemon-soda"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1105,8 +1105,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-01-29T22:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-02-05T22:00:00Z"
             }
           ]
         }
@@ -2629,7 +2629,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNMWWN/the-prince-of-tennis-ii-u-17-world-cup"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
