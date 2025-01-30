@@ -2037,7 +2037,8 @@
     "delayedUntil": "0001-01-01T08:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-01-30T08:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -2086,8 +2087,52 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
               "episode": 2,
-              "airingAt": "2025-02-06T08:00:00Z"
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-01-30T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-01-30T08:00:00Z"
             }
           ]
         }
