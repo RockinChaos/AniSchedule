@@ -587,7 +587,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2384,7 +2384,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2419,8 +2419,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-01-30T22:00:00Z"
+              "episode": 14,
+              "airingAt": "2025-02-06T22:00:00Z"
             }
           ]
         }
