@@ -654,7 +654,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GYEXQKJG6/dr-stone",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj4AHW3_HqDp39-puRHVfNA"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -689,8 +689,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-01-30T15:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-02-06T15:00:00Z"
             }
           ]
         }
