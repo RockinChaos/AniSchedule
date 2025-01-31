@@ -1,167 +1,5 @@
 [
   {
-    "id": 1960,
-    "idMal": 1960,
-    "title": {
-      "romaji": "Sore Ike! Anpanman",
-      "english": null,
-      "native": "それいけ!アンパンマン",
-      "userPreferred": "Sore Ike! Anpanman"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 1988,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1960-ueSmUxBXWuFK.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1960-9Vx6QVIU8z4Z.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1683,
-          "airingAt": 1738288500
-        },
-        {
-          "episode": 1684,
-          "airingAt": 1738893300
-        },
-        {
-          "episode": 1685,
-          "airingAt": 1739498100
-        },
-        {
-          "episode": 1686,
-          "airingAt": 1740102900
-        },
-        {
-          "episode": 1687,
-          "airingAt": 1740707700
-        },
-        {
-          "episode": 1688,
-          "airingAt": 1741312500
-        },
-        {
-          "episode": 1689,
-          "airingAt": 1741917300
-        },
-        {
-          "episode": 1690,
-          "airingAt": 1742522100
-        },
-        {
-          "episode": 1691,
-          "airingAt": 1743126900
-        },
-        {
-          "episode": 1692,
-          "airingAt": 1743731700
-        },
-        {
-          "episode": 1693,
-          "airingAt": 1744336500
-        },
-        {
-          "episode": 1694,
-          "airingAt": 1744941300
-        },
-        {
-          "episode": 1695,
-          "airingAt": 1745546100
-        },
-        {
-          "episode": 1696,
-          "airingAt": 1746150900
-        },
-        {
-          "episode": 1697,
-          "airingAt": 1746755700
-        },
-        {
-          "episode": 1698,
-          "airingAt": 1747360500
-        },
-        {
-          "episode": 1699,
-          "airingAt": 1747965300
-        },
-        {
-          "episode": 1700,
-          "airingAt": 1748570100
-        },
-        {
-          "episode": 1701,
-          "airingAt": 1749174900
-        },
-        {
-          "episode": 1702,
-          "airingAt": 1749779700
-        },
-        {
-          "episode": 1703,
-          "airingAt": 1750384500
-        },
-        {
-          "episode": 1704,
-          "airingAt": 1750989300
-        },
-        {
-          "episode": 1705,
-          "airingAt": 1751594100
-        },
-        {
-          "episode": 1706,
-          "airingAt": 1752198900
-        },
-        {
-          "episode": 1707,
-          "airingAt": 1752803700
-        }
-      ]
-    }
-  },
-  {
-    "id": 170166,
-    "idMal": 56752,
-    "title": {
-      "romaji": "Shiguang Dailiren: Yingdu Pian",
-      "english": "Link Click: Bridon Arc",
-      "native": "时光代理人英都篇",
-      "userPreferred": "Link Click: Bridon Arc"
-    },
-    "format": "ONA",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Supernatural",
-      "Thriller"
-    ],
-    "duration": 23,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170166-VpX7l0Horthq.jpg",
-      "color": "#e4aec9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1738292400
-        }
-      ]
-    }
-  },
-  {
     "id": 186300,
     "idMal": null,
     "title": {
@@ -7838,6 +7676,134 @@
         {
           "episode": 614,
           "airingAt": 1753395000
+        }
+      ]
+    }
+  },
+  {
+    "id": 1960,
+    "idMal": 1960,
+    "title": {
+      "romaji": "Sore Ike! Anpanman",
+      "english": null,
+      "native": "それいけ!アンパンマン",
+      "userPreferred": "Sore Ike! Anpanman"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 1988,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1960-ueSmUxBXWuFK.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1960-9Vx6QVIU8z4Z.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1684,
+          "airingAt": 1738893300
+        },
+        {
+          "episode": 1685,
+          "airingAt": 1739498100
+        },
+        {
+          "episode": 1686,
+          "airingAt": 1740102900
+        },
+        {
+          "episode": 1687,
+          "airingAt": 1740707700
+        },
+        {
+          "episode": 1688,
+          "airingAt": 1741312500
+        },
+        {
+          "episode": 1689,
+          "airingAt": 1741917300
+        },
+        {
+          "episode": 1690,
+          "airingAt": 1742522100
+        },
+        {
+          "episode": 1691,
+          "airingAt": 1743126900
+        },
+        {
+          "episode": 1692,
+          "airingAt": 1743731700
+        },
+        {
+          "episode": 1693,
+          "airingAt": 1744336500
+        },
+        {
+          "episode": 1694,
+          "airingAt": 1744941300
+        },
+        {
+          "episode": 1695,
+          "airingAt": 1745546100
+        },
+        {
+          "episode": 1696,
+          "airingAt": 1746150900
+        },
+        {
+          "episode": 1697,
+          "airingAt": 1746755700
+        },
+        {
+          "episode": 1698,
+          "airingAt": 1747360500
+        },
+        {
+          "episode": 1699,
+          "airingAt": 1747965300
+        },
+        {
+          "episode": 1700,
+          "airingAt": 1748570100
+        },
+        {
+          "episode": 1701,
+          "airingAt": 1749174900
+        },
+        {
+          "episode": 1702,
+          "airingAt": 1749779700
+        },
+        {
+          "episode": 1703,
+          "airingAt": 1750384500
+        },
+        {
+          "episode": 1704,
+          "airingAt": 1750989300
+        },
+        {
+          "episode": 1705,
+          "airingAt": 1751594100
+        },
+        {
+          "episode": 1706,
+          "airingAt": 1752198900
+        },
+        {
+          "episode": 1707,
+          "airingAt": 1752803700
+        },
+        {
+          "episode": 1708,
+          "airingAt": 1753408500
         }
       ]
     }
