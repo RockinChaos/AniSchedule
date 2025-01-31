@@ -933,7 +933,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G8DHV784M/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -968,8 +968,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-01-31T22:30:00Z"
+              "episode": 3,
+              "airingAt": "2025-02-07T22:30:00Z"
             }
           ]
         }
