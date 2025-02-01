@@ -236,7 +236,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -270,8 +270,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-02-01T23:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-02-08T23:00:00Z"
             }
           ]
         }
@@ -1899,8 +1899,7 @@
     "delayedUntil": "2025-02-01T22:30:00Z",
     "status": "Finished",
     "episodeDate": "2025-02-01T22:30:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 11,
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1915,7 +1914,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G79H23ZX3/demon-lord-2099"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1951,12 +1950,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-02-01T22:30:00Z"
-            },
-            {
               "episode": 12,
-              "airingAt": "2025-02-01T22:30:00Z"
+              "airingAt": "2025-02-08T22:30:00Z"
             }
           ]
         }
