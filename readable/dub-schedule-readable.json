@@ -516,7 +516,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WEKE/blue-lock",
       "youtube": "www.youtube.com/watch?v=R_AU57A24PY&list=PLxSscENEp7JgJMTfV7-vC5k0hW4kYaSAi"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -550,8 +550,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-02-01T21:00:00Z"
+              "episode": 14,
+              "airingAt": "2025-02-08T21:00:00Z"
             }
           ]
         }
@@ -2750,7 +2750,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2784,15 +2784,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-02-01T21:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-02-08T21:00:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-01-18T21:00:00Z"
   },
   {
