@@ -1,262 +1,5 @@
 [
   {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 241,
-          "airingAt": 1738622400
-        },
-        {
-          "episode": 242,
-          "airingAt": 1738881600
-        },
-        {
-          "episode": 243,
-          "airingAt": 1739227200
-        },
-        {
-          "episode": 244,
-          "airingAt": 1739486400
-        },
-        {
-          "episode": 245,
-          "airingAt": 1739832000
-        },
-        {
-          "episode": 246,
-          "airingAt": 1740091200
-        },
-        {
-          "episode": 247,
-          "airingAt": 1740436800
-        },
-        {
-          "episode": 248,
-          "airingAt": 1740696000
-        },
-        {
-          "episode": 249,
-          "airingAt": 1741041600
-        },
-        {
-          "episode": 250,
-          "airingAt": 1741300800
-        },
-        {
-          "episode": 251,
-          "airingAt": 1741646400
-        },
-        {
-          "episode": 252,
-          "airingAt": 1741905600
-        },
-        {
-          "episode": 253,
-          "airingAt": 1742251200
-        },
-        {
-          "episode": 254,
-          "airingAt": 1742510400
-        },
-        {
-          "episode": 255,
-          "airingAt": 1742856000
-        },
-        {
-          "episode": 256,
-          "airingAt": 1743115200
-        },
-        {
-          "episode": 257,
-          "airingAt": 1743460800
-        },
-        {
-          "episode": 258,
-          "airingAt": 1743720000
-        },
-        {
-          "episode": 259,
-          "airingAt": 1744065600
-        },
-        {
-          "episode": 260,
-          "airingAt": 1744324800
-        },
-        {
-          "episode": 261,
-          "airingAt": 1744670400
-        },
-        {
-          "episode": 262,
-          "airingAt": 1744929600
-        },
-        {
-          "episode": 263,
-          "airingAt": 1745275200
-        },
-        {
-          "episode": 264,
-          "airingAt": 1745534400
-        },
-        {
-          "episode": 265,
-          "airingAt": 1745880000
-        }
-      ]
-    }
-  },
-  {
-    "id": 185794,
-    "idMal": 59915,
-    "title": {
-      "romaji": "Shendao Dizun",
-      "english": null,
-      "native": "神道帝尊",
-      "userPreferred": "Shendao Dizun"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 7,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185794-8rVZfoeJU62O.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185794-8rVZfoeJU62O.jpg",
-      "color": "#e45d86"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1738623600
-        },
-        {
-          "episode": 17,
-          "airingAt": 1739228400
-        },
-        {
-          "episode": 18,
-          "airingAt": 1739833200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1740438000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1741042800
-        },
-        {
-          "episode": 21,
-          "airingAt": 1741647600
-        },
-        {
-          "episode": 22,
-          "airingAt": 1742252400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742857200
-        },
-        {
-          "episode": 24,
-          "airingAt": 1743462000
-        },
-        {
-          "episode": 25,
-          "airingAt": 1744066800
-        },
-        {
-          "episode": 26,
-          "airingAt": 1744671600
-        },
-        {
-          "episode": 27,
-          "airingAt": 1745276400
-        },
-        {
-          "episode": 28,
-          "airingAt": 1745881200
-        },
-        {
-          "episode": 29,
-          "airingAt": 1746486000
-        },
-        {
-          "episode": 30,
-          "airingAt": 1747090800
-        },
-        {
-          "episode": 31,
-          "airingAt": 1747695600
-        },
-        {
-          "episode": 32,
-          "airingAt": 1748300400
-        },
-        {
-          "episode": 33,
-          "airingAt": 1748905200
-        },
-        {
-          "episode": 34,
-          "airingAt": 1749510000
-        },
-        {
-          "episode": 35,
-          "airingAt": 1750114800
-        },
-        {
-          "episode": 36,
-          "airingAt": 1750719600
-        },
-        {
-          "episode": 37,
-          "airingAt": 1751324400
-        },
-        {
-          "episode": 38,
-          "airingAt": 1751929200
-        },
-        {
-          "episode": 39,
-          "airingAt": 1752534000
-        },
-        {
-          "episode": 40,
-          "airingAt": 1753138800
-        }
-      ]
-    }
-  },
-  {
     "id": 178351,
     "idMal": 58744,
     "title": {
@@ -2659,6 +2402,134 @@
         {
           "episode": 614,
           "airingAt": 1753395000
+        }
+      ]
+    }
+  },
+  {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 242,
+          "airingAt": 1738881600
+        },
+        {
+          "episode": 243,
+          "airingAt": 1739227200
+        },
+        {
+          "episode": 244,
+          "airingAt": 1739486400
+        },
+        {
+          "episode": 245,
+          "airingAt": 1739832000
+        },
+        {
+          "episode": 246,
+          "airingAt": 1740091200
+        },
+        {
+          "episode": 247,
+          "airingAt": 1740436800
+        },
+        {
+          "episode": 248,
+          "airingAt": 1740696000
+        },
+        {
+          "episode": 249,
+          "airingAt": 1741041600
+        },
+        {
+          "episode": 250,
+          "airingAt": 1741300800
+        },
+        {
+          "episode": 251,
+          "airingAt": 1741646400
+        },
+        {
+          "episode": 252,
+          "airingAt": 1741905600
+        },
+        {
+          "episode": 253,
+          "airingAt": 1742251200
+        },
+        {
+          "episode": 254,
+          "airingAt": 1742510400
+        },
+        {
+          "episode": 255,
+          "airingAt": 1742856000
+        },
+        {
+          "episode": 256,
+          "airingAt": 1743115200
+        },
+        {
+          "episode": 257,
+          "airingAt": 1743460800
+        },
+        {
+          "episode": 258,
+          "airingAt": 1743720000
+        },
+        {
+          "episode": 259,
+          "airingAt": 1744065600
+        },
+        {
+          "episode": 260,
+          "airingAt": 1744324800
+        },
+        {
+          "episode": 261,
+          "airingAt": 1744670400
+        },
+        {
+          "episode": 262,
+          "airingAt": 1744929600
+        },
+        {
+          "episode": 263,
+          "airingAt": 1745275200
+        },
+        {
+          "episode": 264,
+          "airingAt": 1745534400
+        },
+        {
+          "episode": 265,
+          "airingAt": 1745880000
+        },
+        {
+          "episode": 266,
+          "airingAt": 1746139200
         }
       ]
     }
@@ -7577,6 +7448,135 @@
         {
           "episode": 12,
           "airingAt": 1742229000
+        }
+      ]
+    }
+  },
+  {
+    "id": 185794,
+    "idMal": 59915,
+    "title": {
+      "romaji": "Shendao Dizun",
+      "english": null,
+      "native": "神道帝尊",
+      "userPreferred": "Shendao Dizun"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 7,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185794-8rVZfoeJU62O.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185794-8rVZfoeJU62O.jpg",
+      "color": "#e45d86"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 17,
+          "airingAt": 1739228400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1739833200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1740438000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1741042800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1741647600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1742252400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742857200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1743462000
+        },
+        {
+          "episode": 25,
+          "airingAt": 1744066800
+        },
+        {
+          "episode": 26,
+          "airingAt": 1744671600
+        },
+        {
+          "episode": 27,
+          "airingAt": 1745276400
+        },
+        {
+          "episode": 28,
+          "airingAt": 1745881200
+        },
+        {
+          "episode": 29,
+          "airingAt": 1746486000
+        },
+        {
+          "episode": 30,
+          "airingAt": 1747090800
+        },
+        {
+          "episode": 31,
+          "airingAt": 1747695600
+        },
+        {
+          "episode": 32,
+          "airingAt": 1748300400
+        },
+        {
+          "episode": 33,
+          "airingAt": 1748905200
+        },
+        {
+          "episode": 34,
+          "airingAt": 1749510000
+        },
+        {
+          "episode": 35,
+          "airingAt": 1750114800
+        },
+        {
+          "episode": 36,
+          "airingAt": 1750719600
+        },
+        {
+          "episode": 37,
+          "airingAt": 1751324400
+        },
+        {
+          "episode": 38,
+          "airingAt": 1751929200
+        },
+        {
+          "episode": 39,
+          "airingAt": 1752534000
+        },
+        {
+          "episode": 40,
+          "airingAt": 1753138800
+        },
+        {
+          "episode": 41,
+          "airingAt": 1753743600
         }
       ]
     }
