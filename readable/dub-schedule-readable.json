@@ -2742,7 +2742,7 @@
     ],
     "imageVersionRoute": "anime/jpg/default/yu-gi-oh-go-rush-9ca7d7e015.jpg",
     "streams": {},
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2776,8 +2776,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-02-08T12:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-02-15T12:00:00Z"
             }
           ]
         }
