@@ -2388,7 +2388,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2424,8 +2424,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2025-02-09T20:00:00Z"
+              "episode": 17,
+              "airingAt": "2025-02-16T20:00:00Z"
             }
           ]
         }
