@@ -1401,7 +1401,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1435,8 +1435,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-02-09T20:30:00Z"
+              "episode": 4,
+              "airingAt": "2025-02-16T20:30:00Z"
             }
           ]
         }
@@ -2316,7 +2316,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/watch/GEVUW3VE4"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2351,8 +2351,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-02-09T21:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-02-16T21:00:00Z"
             }
           ]
         }
@@ -2388,7 +2388,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G79H23Z8P/shangri-la-frontier",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
