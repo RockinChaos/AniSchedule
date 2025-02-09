@@ -1,472 +1,5 @@
 [
   {
-    "id": 170892,
-    "idMal": 53924,
-    "title": {
-      "romaji": "Jibaku Shounen Hanako-kun 2",
-      "english": "Toilet-bound Hanako-kun Season 2",
-      "native": "地縛少年花子くん２",
-      "userPreferred": "Toilet-bound Hanako-kun Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170892-VFCGRI41xFUF.jpg",
-      "color": "#f1bb0d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1739086200
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739691000
-        },
-        {
-          "episode": 7,
-          "airingAt": 1740295800
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740900600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741505400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1742110200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742715000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743319800
-        }
-      ]
-    }
-  },
-  {
-    "id": 176508,
-    "idMal": 58572,
-    "title": {
-      "romaji": "Shangri-La Frontier 2nd Season",
-      "english": "Shangri-La Frontier Season 2",
-      "native": "シャングリラ・フロンティア 2nd season",
-      "userPreferred": "Shangri-La Frontier Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
-      "color": "#78aed6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 18,
-          "airingAt": 1739088000
-        },
-        {
-          "episode": 19,
-          "airingAt": 1739692800
-        },
-        {
-          "episode": 20,
-          "airingAt": 1740297600
-        },
-        {
-          "episode": 21,
-          "airingAt": 1740902400
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741507200
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742112000
-        },
-        {
-          "episode": 24,
-          "airingAt": 1742716800
-        },
-        {
-          "episode": 25,
-          "airingAt": 1743321600
-        }
-      ]
-    }
-  },
-  {
-    "id": 173333,
-    "idMal": 57827,
-    "title": {
-      "romaji": "Mashin Souzouden Wataru",
-      "english": null,
-      "native": "魔神創造伝ワタル",
-      "userPreferred": "Mashin Souzouden Wataru"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Mecha"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173333-lqvM2Ya74nN9.jpg",
-      "color": "#e4ae43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173333-Q1FFyjucXfqN.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1739089800
-        },
-        {
-          "episode": 6,
-          "airingAt": 1739694600
-        },
-        {
-          "episode": 7,
-          "airingAt": 1740299400
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740904200
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741509000
-        },
-        {
-          "episode": 10,
-          "airingAt": 1742113800
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742718600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743323400
-        }
-      ]
-    }
-  },
-  {
-    "id": 185462,
-    "idMal": 60425,
-    "title": {
-      "romaji": "0-saiji Start Dash Monogatari Season 2",
-      "english": null,
-      "native": "0歳児スタートダッシュ物語 シーズン2",
-      "userPreferred": "0-saiji Start Dash Monogatari Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185462-63GUMNU2RGUd.jpg",
-      "color": "#e45d6b"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1739091300
-        },
-        {
-          "episode": 7,
-          "airingAt": 1739696100
-        },
-        {
-          "episode": 8,
-          "airingAt": 1740300900
-        },
-        {
-          "episode": 9,
-          "airingAt": 1740905700
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741510500
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742115300
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742720100
-        }
-      ]
-    }
-  },
-  {
-    "id": 118123,
-    "idMal": 44042,
-    "title": {
-      "romaji": "Holo no Graffiti",
-      "english": null,
-      "native": "ホロのぐらふぃてぃ",
-      "userPreferred": "Holo no Graffiti"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "duration": 2,
-    "seasonYear": 2019,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 299,
-          "airingAt": 1739091600
-        },
-        {
-          "episode": 300,
-          "airingAt": 1739696400
-        },
-        {
-          "episode": 301,
-          "airingAt": 1740301200
-        },
-        {
-          "episode": 302,
-          "airingAt": 1740906000
-        },
-        {
-          "episode": 303,
-          "airingAt": 1741510800
-        },
-        {
-          "episode": 304,
-          "airingAt": 1742115600
-        },
-        {
-          "episode": 305,
-          "airingAt": 1742720400
-        },
-        {
-          "episode": 306,
-          "airingAt": 1743325200
-        },
-        {
-          "episode": 307,
-          "airingAt": 1743930000
-        },
-        {
-          "episode": 308,
-          "airingAt": 1744534800
-        },
-        {
-          "episode": 309,
-          "airingAt": 1745139600
-        },
-        {
-          "episode": 310,
-          "airingAt": 1745744400
-        },
-        {
-          "episode": 311,
-          "airingAt": 1746349200
-        },
-        {
-          "episode": 312,
-          "airingAt": 1746954000
-        },
-        {
-          "episode": 313,
-          "airingAt": 1747558800
-        },
-        {
-          "episode": 314,
-          "airingAt": 1748163600
-        },
-        {
-          "episode": 315,
-          "airingAt": 1748768400
-        }
-      ]
-    }
-  },
-  {
-    "id": 2406,
-    "idMal": 2406,
-    "title": {
-      "romaji": "Sazae-san",
-      "english": null,
-      "native": "サザエさん",
-      "userPreferred": "Sazae-san"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 1969,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2406-nP8NIct9Sci3.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2406-nP8NIct9Sci3.jpg",
-      "color": "#f1bb43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2773,
-          "airingAt": 1739093400
-        },
-        {
-          "episode": 2774,
-          "airingAt": 1739698200
-        },
-        {
-          "episode": 2775,
-          "airingAt": 1740303000
-        },
-        {
-          "episode": 2776,
-          "airingAt": 1740907800
-        },
-        {
-          "episode": 2777,
-          "airingAt": 1741512600
-        },
-        {
-          "episode": 2778,
-          "airingAt": 1742117400
-        },
-        {
-          "episode": 2779,
-          "airingAt": 1742722200
-        },
-        {
-          "episode": 2780,
-          "airingAt": 1743327000
-        },
-        {
-          "episode": 2781,
-          "airingAt": 1743931800
-        },
-        {
-          "episode": 2782,
-          "airingAt": 1744536600
-        },
-        {
-          "episode": 2783,
-          "airingAt": 1745141400
-        },
-        {
-          "episode": 2784,
-          "airingAt": 1745746200
-        },
-        {
-          "episode": 2785,
-          "airingAt": 1746351000
-        },
-        {
-          "episode": 2786,
-          "airingAt": 1746955800
-        },
-        {
-          "episode": 2787,
-          "airingAt": 1747560600
-        },
-        {
-          "episode": 2788,
-          "airingAt": 1748165400
-        },
-        {
-          "episode": 2789,
-          "airingAt": 1748770200
-        },
-        {
-          "episode": 2790,
-          "airingAt": 1749375000
-        },
-        {
-          "episode": 2791,
-          "airingAt": 1749979800
-        },
-        {
-          "episode": 2792,
-          "airingAt": 1750584600
-        },
-        {
-          "episode": 2793,
-          "airingAt": 1751189400
-        },
-        {
-          "episode": 2794,
-          "airingAt": 1751794200
-        },
-        {
-          "episode": 2795,
-          "airingAt": 1752399000
-        },
-        {
-          "episode": 2796,
-          "airingAt": 1753003800
-        },
-        {
-          "episode": 2797,
-          "airingAt": 1753608600
-        }
-      ]
-    }
-  },
-  {
     "id": 170650,
     "idMal": 57050,
     "title": {
@@ -7157,6 +6690,453 @@
         {
           "episode": 51,
           "airingAt": 1743296400
+        }
+      ]
+    }
+  },
+  {
+    "id": 170892,
+    "idMal": 53924,
+    "title": {
+      "romaji": "Jibaku Shounen Hanako-kun 2",
+      "english": "Toilet-bound Hanako-kun Season 2",
+      "native": "地縛少年花子くん２",
+      "userPreferred": "Toilet-bound Hanako-kun Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170892-VFCGRI41xFUF.jpg",
+      "color": "#f1bb0d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1739691000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1740295800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740900600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741505400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1742110200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742715000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743319800
+        }
+      ]
+    }
+  },
+  {
+    "id": 176508,
+    "idMal": 58572,
+    "title": {
+      "romaji": "Shangri-La Frontier 2nd Season",
+      "english": "Shangri-La Frontier Season 2",
+      "native": "シャングリラ・フロンティア 2nd season",
+      "userPreferred": "Shangri-La Frontier Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
+      "color": "#78aed6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 19,
+          "airingAt": 1739692800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1740297600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1740902400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1741507200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742112000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1742716800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1743321600
+        }
+      ]
+    }
+  },
+  {
+    "id": 173333,
+    "idMal": 57827,
+    "title": {
+      "romaji": "Mashin Souzouden Wataru",
+      "english": null,
+      "native": "魔神創造伝ワタル",
+      "userPreferred": "Mashin Souzouden Wataru"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mecha"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173333-lqvM2Ya74nN9.jpg",
+      "color": "#e4ae43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173333-Q1FFyjucXfqN.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1739694600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1740299400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740904200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1741509000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1742113800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742718600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743323400
+        }
+      ]
+    }
+  },
+  {
+    "id": 185462,
+    "idMal": 60425,
+    "title": {
+      "romaji": "0-saiji Start Dash Monogatari Season 2",
+      "english": null,
+      "native": "0歳児スタートダッシュ物語 シーズン2",
+      "userPreferred": "0-saiji Start Dash Monogatari Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": 4,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185462-63GUMNU2RGUd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185462-63GUMNU2RGUd.jpg",
+      "color": "#e45d6b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1739696100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1740300900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1740905700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1741510500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742115300
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742720100
+        }
+      ]
+    }
+  },
+  {
+    "id": 118123,
+    "idMal": 44042,
+    "title": {
+      "romaji": "Holo no Graffiti",
+      "english": null,
+      "native": "ホロのぐらふぃてぃ",
+      "userPreferred": "Holo no Graffiti"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2019,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png",
+      "color": "#e4ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 300,
+          "airingAt": 1739696400
+        },
+        {
+          "episode": 301,
+          "airingAt": 1740301200
+        },
+        {
+          "episode": 302,
+          "airingAt": 1740906000
+        },
+        {
+          "episode": 303,
+          "airingAt": 1741510800
+        },
+        {
+          "episode": 304,
+          "airingAt": 1742115600
+        },
+        {
+          "episode": 305,
+          "airingAt": 1742720400
+        },
+        {
+          "episode": 306,
+          "airingAt": 1743325200
+        },
+        {
+          "episode": 307,
+          "airingAt": 1743930000
+        },
+        {
+          "episode": 308,
+          "airingAt": 1744534800
+        },
+        {
+          "episode": 309,
+          "airingAt": 1745139600
+        },
+        {
+          "episode": 310,
+          "airingAt": 1745744400
+        },
+        {
+          "episode": 311,
+          "airingAt": 1746349200
+        },
+        {
+          "episode": 312,
+          "airingAt": 1746954000
+        },
+        {
+          "episode": 313,
+          "airingAt": 1747558800
+        },
+        {
+          "episode": 314,
+          "airingAt": 1748163600
+        },
+        {
+          "episode": 315,
+          "airingAt": 1748768400
+        }
+      ]
+    }
+  },
+  {
+    "id": 2406,
+    "idMal": 2406,
+    "title": {
+      "romaji": "Sazae-san",
+      "english": null,
+      "native": "サザエさん",
+      "userPreferred": "Sazae-san"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 1969,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx2406-nP8NIct9Sci3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx2406-nP8NIct9Sci3.jpg",
+      "color": "#f1bb43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/2406-ROqXxejQ5bH9.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2774,
+          "airingAt": 1739698200
+        },
+        {
+          "episode": 2775,
+          "airingAt": 1740303000
+        },
+        {
+          "episode": 2776,
+          "airingAt": 1740907800
+        },
+        {
+          "episode": 2777,
+          "airingAt": 1741512600
+        },
+        {
+          "episode": 2778,
+          "airingAt": 1742117400
+        },
+        {
+          "episode": 2779,
+          "airingAt": 1742722200
+        },
+        {
+          "episode": 2780,
+          "airingAt": 1743327000
+        },
+        {
+          "episode": 2781,
+          "airingAt": 1743931800
+        },
+        {
+          "episode": 2782,
+          "airingAt": 1744536600
+        },
+        {
+          "episode": 2783,
+          "airingAt": 1745141400
+        },
+        {
+          "episode": 2784,
+          "airingAt": 1745746200
+        },
+        {
+          "episode": 2785,
+          "airingAt": 1746351000
+        },
+        {
+          "episode": 2786,
+          "airingAt": 1746955800
+        },
+        {
+          "episode": 2787,
+          "airingAt": 1747560600
+        },
+        {
+          "episode": 2788,
+          "airingAt": 1748165400
+        },
+        {
+          "episode": 2789,
+          "airingAt": 1748770200
+        },
+        {
+          "episode": 2790,
+          "airingAt": 1749375000
+        },
+        {
+          "episode": 2791,
+          "airingAt": 1749979800
+        },
+        {
+          "episode": 2792,
+          "airingAt": 1750584600
+        },
+        {
+          "episode": 2793,
+          "airingAt": 1751189400
+        },
+        {
+          "episode": 2794,
+          "airingAt": 1751794200
+        },
+        {
+          "episode": 2795,
+          "airingAt": 1752399000
+        },
+        {
+          "episode": 2796,
+          "airingAt": 1753003800
+        },
+        {
+          "episode": 2797,
+          "airingAt": 1753608600
+        },
+        {
+          "episode": 2798,
+          "airingAt": 1754213400
         }
       ]
     }
