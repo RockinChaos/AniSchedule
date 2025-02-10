@@ -1,51 +1,5 @@
 [
   {
-    "id": 137653,
-    "idMal": 55809,
-    "title": {
-      "romaji": "Xian Ni",
-      "english": "Renegade Immortal",
-      "native": "仙逆",
-      "userPreferred": "Renegade Immortal"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137653-1wHbCVvABGOr.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137653-1wHbCVvABGOr.png",
-      "color": "#f19350"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 75,
-          "airingAt": 1739152800
-        },
-        {
-          "episode": 76,
-          "airingAt": 1739757600
-        },
-        {
-          "episode": 77,
-          "airingAt": 1740362400
-        },
-        {
-          "episode": 78,
-          "airingAt": 1740967200
-        }
-      ]
-    }
-  },
-  {
     "id": 170916,
     "idMal": 57152,
     "title": {
@@ -7134,6 +7088,48 @@
         {
           "episode": 2097,
           "airingAt": 1747604400
+        }
+      ]
+    }
+  },
+  {
+    "id": 137653,
+    "idMal": 55809,
+    "title": {
+      "romaji": "Xian Ni",
+      "english": "Renegade Immortal",
+      "native": "仙逆",
+      "userPreferred": "Renegade Immortal"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 23,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137653-1wHbCVvABGOr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137653-1wHbCVvABGOr.png",
+      "color": "#f19350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 76,
+          "airingAt": 1739757600
+        },
+        {
+          "episode": 77,
+          "airingAt": 1740362400
+        },
+        {
+          "episode": 78,
+          "airingAt": 1740967200
         }
       ]
     }
