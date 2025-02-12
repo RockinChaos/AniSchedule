@@ -235,7 +235,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/ao-no-exorcist-yosuga-hen-43c219d79d.jpg",
     "streams": {
-      "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist"
+      "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist",
+      "apple": "apple.co/3EA3rdH"
     },
     "airingStatus": "unaired",
     "unaired": false,
@@ -586,7 +587,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -620,8 +621,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-02-12T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-02-19T17:00:00Z"
             }
           ]
         }
@@ -798,8 +799,8 @@
       "hidive": "www.hidive.com/season/26571",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "hitoribocchi-no-isekai-kouryaku",
@@ -832,8 +833,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-02-12T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-02-19T17:00:00Z"
             }
           ]
         }
@@ -932,9 +933,10 @@
     ],
     "imageVersionRoute": "anime/jpg/default/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-v-581d203d4e.jpg",
     "streams": {
-      "hidive": "www.hidive.com/season/26756"
+      "hidive": "www.hidive.com/season/26756",
+      "apple": "apple.co/3WTLWLW"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -970,8 +972,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-02-12T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-02-19T17:00:00Z"
             }
           ]
         }
@@ -1074,7 +1076,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1566,7 +1568,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1601,8 +1603,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-02-12T17:00:00Z"
+              "episode": 7,
+              "airingAt": "2025-02-19T17:00:00Z"
             }
           ]
         }
@@ -1705,7 +1707,8 @@
     "imageVersionRoute": "anime/jpg/default/re-zero-kara-hajimeru-isekai-seikatsu-3-4ff0e54be2.jpg",
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GRGG9798R/rezero--starting-life-in-another-world-",
-      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF"
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF",
+      "apple": "apple.co/3CMHQyd"
     },
     "airingStatus": "delayed-air",
     "unaired": false,
