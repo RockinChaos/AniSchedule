@@ -2127,11 +2127,13 @@
     "title": "Solo Leveling 2nd Season: Arise from the Shadow",
     "route": "solo-leveling-arise-from-the-shadow",
     "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-02-15T21:00:00Z",
+    "delayedUntil": "2025-02-22T21:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-02-15T21:00:00Z",
-    "episodeNumber": 5,
+    "episodeNumber": 6,
+    "subtractedEpisodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -2147,7 +2149,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling",
       "apple": "apple.co/41atbWN"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2182,7 +2184,11 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2025-02-15T21:00:00Z"
+              "airingAt": "2025-02-22T21:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-02-22T21:00:00Z"
             }
           ]
         }
