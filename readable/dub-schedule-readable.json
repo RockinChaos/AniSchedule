@@ -521,7 +521,7 @@
       "netflix": "www.netflix.com/title/81943491",
       "apple": "apple.co/40VpIKH"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -554,8 +554,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-02-14T21:30:00Z"
+              "episode": 7,
+              "airingAt": "2025-02-21T21:30:00Z"
             }
           ]
         }
@@ -1507,7 +1507,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries",
       "apple": "apple.co/42TvpLz"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
