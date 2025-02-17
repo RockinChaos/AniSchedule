@@ -310,7 +310,7 @@
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a",
       "apple": "apple.co/3CR0DZg"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -345,8 +345,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2025-02-17T22:30:00Z"
+              "episode": 15,
+              "airingAt": "2025-02-24T22:30:00Z"
             }
           ]
         }
