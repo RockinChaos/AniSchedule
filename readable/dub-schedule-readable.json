@@ -97,7 +97,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -151,7 +151,7 @@
     "native": "天久鷹央の推理カルテ",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "status": "Delayed",
+    "status": "Ongoing",
     "episodeDate": "2025-02-12T21:30:00Z",
     "episodeNumber": 5,
     "episodes": 12,
@@ -219,8 +219,8 @@
     "english": "Blue Exorcist -The Blue Night Saga-",
     "native": "青の祓魔師 終夜篇",
     "delayedText": "Delayed",
-    "delayedFrom": "2025-02-15T23:00:00Z",
-    "delayedUntil": "2025-02-22T23:00:00Z",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-02-15T23:00:00Z",
     "episodeNumber": 4,
@@ -239,7 +239,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist",
       "apple": "apple.co/3EA3rdH"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -273,7 +273,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
+              "episode": 5,
               "airingAt": "2025-02-22T23:00:00Z"
             }
           ]
@@ -356,6 +356,120 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Chuu Bra!!",
+    "route": "chuu-bra",
+    "romaji": "Chuu Bra!!",
+    "english": "Chu-Bra",
+    "native": "ちゅーぶら!!",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-03-11T21:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/chuu-bra-80d28d92cd.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/chu-bra"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "chuu-bra",
+        "file_name": "chuu-bra"
+      },
+      "media": {
+        "id": 6645,
+        "idMal": 6645,
+        "title": {
+          "romaji": "Chuu Bra!!",
+          "english": "Chu-Bra",
+          "native": "ちゅーぶら!!",
+          "userPreferred": "Chu-Bra"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi"
+        ],
+        "duration": 24,
+        "seasonYear": 2010,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx6645-FunUYc7XMZGi.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx6645-FunUYc7XMZGi.jpg",
+          "color": "#ae6b35"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-03-11T21:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-03-11T21:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-03-11T21:00:00Z"
   },
   {
     "title": "Douse, Koishite Shimaunda.",
@@ -635,6 +749,77 @@
     },
     "verified": true,
     "addedAt": "2024-11-07T00:24:47Z"
+  },
+  {
+    "title": "Elf-san wa Yaserarenai.",
+    "route": "elf-san-wa-yaserarenai",
+    "romaji": "Elf-san wa Yaserarenai.",
+    "english": "Plus-Sized Elf",
+    "native": "エルフさんは痩せられない。",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-03-12T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 11,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/elf-san-wa-yaserarenai-d83aeaa32e.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/24582"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "elf-san-wa-yaserarenai",
+        "file_name": "elf-san-wa-yaserarenai"
+      },
+      "media": {
+        "id": 173388,
+        "idMal": 57845,
+        "title": {
+          "romaji": "Elf-san wa Yaserarenai.",
+          "english": "Plus-Sized Elf",
+          "native": "エルフさんは痩せられない。",
+          "userPreferred": "Plus-Sized Elf"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 11,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173388-iPHxsekSIFpg.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173388-iPHxsekSIFpg.png",
+          "color": "#fff11a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173388-ji3w8tcXm0oZ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-03-12T19:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-03-12T19:00:00Z"
   },
   {
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
@@ -1719,7 +1904,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF",
       "apple": "apple.co/3CMHQyd"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2150,7 +2335,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling",
       "apple": "apple.co/41atbWN"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
