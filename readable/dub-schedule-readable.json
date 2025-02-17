@@ -1878,6 +1878,118 @@
     "addedAt": "2025-01-04T16:32:00Z"
   },
   {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-02-17T08:00:00Z",
+    "episodeNumber": 67,
+    "subtractedEpisodeNumber": 57,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/pokemon-2023-273f1b2226.jpg",
+    "streams": {
+      "netflix": "www.netflix.com/title/81696980"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "Pokémon Horizons: The Series",
+        "file_name": "Pokémon Horizons: The Series"
+      },
+      "media": {
+        "id": 158871,
+        "idMal": 53876,
+        "title": {
+          "romaji": "Pocket Monsters (2023)",
+          "english": "Pokémon Horizons: The Series",
+          "native": "ポケットモンスター (2023)",
+          "userPreferred": "Pokémon Horizons: The Series"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
+          "color": "#e4bb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 57,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 58,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 59,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 60,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 61,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 62,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 63,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 64,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 65,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 66,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 67,
+              "airingAt": "2025-02-17T08:00:00Z"
+            },
+            {
+              "episode": 68,
+              "airingAt": "2025-02-24T08:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-02-17T10:44:44Z"
+  },
+  {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
     "route": "re-zero-kara-hajimeru-isekai-seikatsu-3",
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
