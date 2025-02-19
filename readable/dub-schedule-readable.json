@@ -704,7 +704,7 @@
     "streams": {
       "hidive": "www.hidive.com/season/24581"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -846,8 +846,8 @@
       "hidive": "www.hidive.com/season/26753",
       "youtube": "www.youtube.com/watch?v=hOZ6dfA8jPo&list=PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
@@ -879,8 +879,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-02-19T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-02-26T17:00:00Z"
             }
           ]
         }
@@ -988,7 +988,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S",
       "apple": "apple.co/4hRyuRf"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1022,8 +1022,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-02-19T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-02-26T17:00:00Z"
             }
           ]
         }
@@ -1269,7 +1269,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time",
       "apple": "apple.co/4155s9A"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1763,7 +1763,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1798,8 +1798,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-02-19T17:00:00Z"
+              "episode": 8,
+              "airingAt": "2025-02-26T17:00:00Z"
             }
           ]
         }
