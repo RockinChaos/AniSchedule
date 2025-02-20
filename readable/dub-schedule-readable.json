@@ -357,6 +357,75 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
+    "title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
+    "route": "boku-no-hero-academia-the-movie-4",
+    "romaji": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
+    "english": "My Hero Academia the Movie 4",
+    "native": "僕のヒーローアカデミア THE MOVIE 4",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-02-19T08:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 110,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/boku-no-hero-academia-the-movie-4-93b3970bf7.jpg",
+    "streams": {
+      "amazon": "www.amazon.com/dp/B0DJGT92SK"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "boku-no-hero-academia-the-movie-4",
+        "file_name": "boku-no-hero-academia-the-movie-4"
+      },
+      "media": {
+        "id": 108553,
+        "idMal": 39565,
+        "title": {
+          "romaji": "Boku no Hero Academia THE MOVIE: Heroes:Rising",
+          "english": "My Hero Academia: Heroes Rising",
+          "native": "僕のヒーローアカデミア THE MOVIE ヒーローズ:ライジング",
+          "userPreferred": "My Hero Academia: Heroes Rising"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "duration": 104,
+        "seasonYear": 2019,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108553-yOLfFogpWnTF.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108553-yOLfFogpWnTF.jpg",
+          "color": "#e4bb50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108553-rEe0n22hRkPH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-02-19T08:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-02-20T22:00:12Z"
+  },
+  {
     "title": "Chuu Bra!!",
     "route": "chuu-bra",
     "romaji": "Chuu Bra!!",
@@ -496,7 +565,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2240,8 +2309,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2025-02-20T22:00:00Z"
+              "episode": 17,
+              "airingAt": "2025-02-27T22:00:00Z"
             }
           ]
         }
@@ -2534,6 +2603,77 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
+  },
+  {
+    "title": "Shiguang Dailiren: Yingdu Pian",
+    "route": "shi-guang-dai-li-ren-yingdu-pian",
+    "romaji": "Shiguang Dailiren: Yingdu Pian",
+    "english": "LINK CLICK: Bridon Arc",
+    "native": "时光代理人 英都篇",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-02-21T20:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 6,
+    "lengthMin": 23,
+    "donghua": true,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "ONA (Chinese)",
+        "route": "ona-chinese"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/shi-guang-dai-li-ren-yingdu-pian-fcef7417b3.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/series/GP5HJ8E81/link-click"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "shi-guang-dai-li-ren-yingdu-pian",
+        "file_name": "shi-guang-dai-li-ren-yingdu-pian"
+      },
+      "media": {
+        "id": 170166,
+        "idMal": 56752,
+        "title": {
+          "romaji": "Shiguang Dailiren: Yingdu Pian",
+          "english": "Link Click: Bridon Arc",
+          "native": "时光代理人英都篇",
+          "userPreferred": "Link Click: Bridon Arc"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Supernatural",
+          "Thriller"
+        ],
+        "duration": 23,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170166-VpX7l0Horthq.jpg",
+          "color": "#e4aec9"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-02-21T20:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-02-21T20:00:00Z"
   },
   {
     "title": "Solo Leveling 2nd Season: Arise from the Shadow",
