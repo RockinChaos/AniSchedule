@@ -496,7 +496,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -529,8 +529,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-02-20T21:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-02-27T21:00:00Z"
             }
           ]
         }
@@ -1623,7 +1623,7 @@
     "streams": {
       "youtube": "www.youtube.com/playlist?list=PLjv78rVJV36N6qIr8amgk5nSjKeien0q7"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1656,8 +1656,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 17,
-              "airingAt": "2025-02-20T21:00:00Z"
+              "episode": 18,
+              "airingAt": "2025-02-27T21:00:00Z"
             }
           ]
         }
