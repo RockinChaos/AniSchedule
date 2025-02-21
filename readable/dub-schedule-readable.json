@@ -705,7 +705,7 @@
       "netflix": "www.netflix.com/title/81943491",
       "apple": "apple.co/40VpIKH"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -738,8 +738,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-02-21T21:30:00Z"
+              "episode": 8,
+              "airingAt": "2025-02-28T21:30:00Z"
             }
           ]
         }
@@ -1763,7 +1763,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries",
       "apple": "apple.co/42TvpLz"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2611,10 +2611,10 @@
     "romaji": "Shiguang Dailiren: Yingdu Pian",
     "english": "LINK CLICK: Bridon Arc",
     "native": "时光代理人 英都篇",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-02-21T20:00:00Z",
+    "episodeDate": "2025-02-21T21:30:00Z",
     "episodeNumber": 1,
     "episodes": 6,
     "lengthMin": 23,
@@ -2666,7 +2666,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2025-02-28T20:00:00Z"
+              "airingAt": "2025-02-28T21:30:00Z"
             }
           ]
         }
