@@ -1763,7 +1763,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries",
       "apple": "apple.co/42TvpLz"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1796,8 +1796,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-02-21T21:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-02-28T21:00:00Z"
             }
           ]
         }
@@ -2630,7 +2630,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8E81/link-click"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
