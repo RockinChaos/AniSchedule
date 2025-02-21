@@ -66,7 +66,7 @@ export async function anitomyscript (...args) {
             obj.anime_year = yearMatch[1]
             obj.anime_title = obj.anime_title.replace(/ (19[5-9]\d|20\d{2})/, '')
         }
-        if (Number(obj.anime_season) > 1) obj.anime_title += ' S' + obj.anime_season
+        if (Number(obj.anime_season || obj.episode_number) > 1) obj.anime_title += ' S' + (obj.anime_season || obj.episode_number) // use episode number as we are resolving anime titles not video. Anitomyscript is stupid sometimes...
     }
 
     return parseObjs

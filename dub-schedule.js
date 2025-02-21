@@ -192,24 +192,25 @@ export async function fetchDubSchedule() {
     const order = []
 
     // Resolve routes as titles
-    const parseObjs = await AnimeResolver.findAndCacheTitle(airing.map(item => item.route))
+    const parseObjs = await AnimeResolver.findAndCacheTitle(airing.map(item => item.romaji || item.route))
 
     for (const parseObj of parseObjs) {
         const media = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObj)]
-        const verification = !matchKeys(media, parseObj.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)
+        const threshold = parseObj?.anime_title?.length > 15 ? 0.3 : parseObj?.anime_title?.length > 9 ? 0.2 : 0.15 // play nice with small anime titles
+        const verification = !matchKeys(media, parseObj.anime_title, ['title.userPreferred', 'title.english', 'title.romaji'], threshold)
         console.log(`Resolving route ${parseObj?.anime_title} as ${media?.title?.userPreferred} which is ${verification ? 'needs verification' : 'verified'}`)
         let item
 
         if (!media || verification) { // Resolve failed routes
             console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
-            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], 0.3))
+            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], threshold))
             const altTitles = [item.romaji, item.english, item.title, item.native].filter(Boolean)
             const fallbackTitles = await AnimeResolver.findAndCacheTitle(altTitles)
             let attempt = 0
             for (const parseObjAlt of fallbackTitles) {
                 attempt++
                 const mediaAlt = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObjAlt)]
-                const altVerification = !matchKeys(mediaAlt, parseObjAlt.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)
+                const altVerification = !matchKeys(mediaAlt, parseObjAlt.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], threshold)
                 console.log(`Resolving ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred} which is ${altVerification ? 'needs verification' : 'verified'}`)
                 if (mediaAlt && !altVerification) {
                     titles.push(parseObjAlt.anime_title)
@@ -245,7 +246,7 @@ export async function fetchDubSchedule() {
                 }
             }
         } else {
-            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], 0.3))
+            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], threshold))
             if (item) {
                 titles.push(parseObj.anime_title)
                 order.push({route: item.route, title: media.title.userPreferred})
