@@ -2630,8 +2630,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8E81/link-click"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "Shiguang Dailiren: Yingdu Pian",
@@ -2665,8 +2665,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-02-21T20:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-02-28T20:00:00Z"
             }
           ]
         }
