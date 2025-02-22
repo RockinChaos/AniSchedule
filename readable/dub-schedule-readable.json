@@ -1901,7 +1901,7 @@
     "streams": {
       "hulu": "www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1935,8 +1935,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-02-22T16:30:00Z"
+              "episode": 9,
+              "airingAt": "2025-03-01T16:30:00Z"
             }
           ]
         }
