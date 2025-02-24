@@ -8,8 +8,8 @@
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-22T21:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-03-01T21:30:00Z",
+    "episodeNumber": 6,
     "episodes": 24,
     "lengthMin": 24,
     "donghua": false,
@@ -25,7 +25,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GKEH2G004/i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl03q6rAPvEC-sRXeGiy6qMM"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -80,8 +80,8 @@
     "delayedFrom": "2025-02-11T21:00:00Z",
     "delayedUntil": "2025-02-18T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-18T21:00:00Z",
-    "episodeNumber": 16,
+    "episodeDate": "2025-02-25T21:00:00Z",
+    "episodeNumber": 17,
     "episodes": 24,
     "lengthMin": 24,
     "donghua": false,
@@ -96,7 +96,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G24H1NWJ0/tying-the-knot-with-an-amagami-sister"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -151,8 +151,8 @@
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T21:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-02-26T21:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -167,7 +167,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -221,8 +221,8 @@
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-22T23:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-03-01T23:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -238,7 +238,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist",
       "apple": "apple.co/3EA3rdH"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -292,8 +292,8 @@
     "delayedFrom": "2024-12-30T22:30:00Z",
     "delayedUntil": "2025-01-20T22:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-02-17T22:30:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2025-02-24T22:30:00Z",
+    "episodeNumber": 15,
     "episodes": 16,
     "lengthMin": 24,
     "donghua": false,
@@ -310,7 +310,7 @@
       "hulu": "www.hulu.com/series/f3ebfa6a-c651-4e2b-b939-6c46dec8a66a",
       "apple": "apple.co/3CR0DZg"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -355,76 +355,6 @@
     },
     "verified": true,
     "addedAt": "2024-11-28T13:27:23Z"
-  },
-  {
-    "title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "route": "boku-no-hero-academia-the-movie-4",
-    "romaji": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-    "english": "My Hero Academia the Movie 4",
-    "native": "僕のヒーローアカデミア THE MOVIE 4",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2025-02-19T08:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 110,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/boku-no-hero-academia-the-movie-4-93b3970bf7.jpg",
-    "streams": {
-      "amazon": "www.amazon.com/dp/B0DJGT92SK"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-        "file_name": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT"
-      },
-      "media": {
-        "id": 168013,
-        "idMal": 56196,
-        "title": {
-          "romaji": "Boku no Hero Academia THE MOVIE: YOU'RE NEXT",
-          "english": "My Hero Academia: You’re Next",
-          "native": "僕のヒーローアカデミア THE MOVIE: ユア ネクスト",
-          "userPreferred": "My Hero Academia: You’re Next"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Sci-Fi"
-        ],
-        "duration": 110,
-        "seasonYear": 2024,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168013-eeyN5L8tmYKI.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168013-eeyN5L8tmYKI.png",
-          "color": "#f19335"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168013-QWt9yFzOj4BY.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-02-19T08:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2025-02-20T22:00:12Z"
   },
   {
     "title": "Chuu Bra!!",
@@ -549,8 +479,8 @@
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-20T21:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-02-27T21:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -566,7 +496,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -616,8 +546,8 @@
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-20T15:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-02-27T15:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -634,7 +564,7 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj4AHW3_HqDp39-puRHVfNA",
       "apple": "apple.co/40WayF1"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -687,8 +617,8 @@
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-21T21:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-02-28T21:30:00Z",
+    "episodeNumber": 8,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -705,7 +635,7 @@
       "netflix": "www.netflix.com/title/81943491",
       "apple": "apple.co/40VpIKH"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -748,76 +678,6 @@
     },
     "verified": true,
     "addedAt": "2025-01-10T21:30:00Z"
-  },
-  {
-    "title": "Dungeon no Naka no Hito",
-    "route": "dungeon-no-naka-no-hito",
-    "romaji": "Dungeon no Naka no Hito",
-    "english": "Dungeon People",
-    "native": "ダンジョンの中のひと",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "status": "Finished",
-    "episodeDate": "2025-02-19T17:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/dungeon-no-naka-no-hito-006b96d8a8.jpg",
-    "streams": {
-      "hidive": "www.hidive.com/season/24581"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "Dungeon no Naka no Hito",
-        "file_name": "Dungeon no Naka no Hito"
-      },
-      "media": {
-        "id": 168345,
-        "idMal": 56348,
-        "title": {
-          "romaji": "Dungeon no Naka no Hito",
-          "english": "Dungeon People",
-          "native": "ダンジョンの中のひと",
-          "userPreferred": "Dungeon People"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2024,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168345-X28k73J6QAtc.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168345-X28k73J6QAtc.jpg",
-          "color": "#e4d6ae"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168345-9EG5eM7hv7Kv.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-02-19T17:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": true,
-    "addedAt": "2024-11-07T00:24:47Z"
   },
   {
     "title": "Elf-san wa Yaserarenai.",
@@ -899,8 +759,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-02-19T17:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-02-26T17:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -916,7 +776,7 @@
       "hidive": "www.hidive.com/season/26753",
       "youtube": "www.youtube.com/watch?v=hOZ6dfA8jPo&list=PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -969,8 +829,8 @@
     "delayedFrom": "0001-01-01T22:30:00Z",
     "delayedUntil": "0001-01-01T22:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-21T22:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-02-28T22:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -985,7 +845,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G8DHV784M/i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1040,8 +900,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-02-19T17:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-02-26T17:00:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1058,7 +918,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S",
       "apple": "apple.co/4hRyuRf"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1110,8 +970,8 @@
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-02-26T22:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "donghua": false,
@@ -1127,7 +987,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GMEHME77W/honey-lemon-soda",
       "apple": "apple.co/41fj435"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1180,7 +1040,7 @@
     "delayedFrom": "2025-02-19T17:00:00Z",
     "delayedUntil": "2025-03-12T17:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T17:00:00Z",
+    "episodeDate": "2025-02-26T17:00:00Z",
     "episodeNumber": 12,
     "episodes": 15,
     "lengthMin": 24,
@@ -1251,8 +1111,8 @@
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T14:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-02-26T14:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1267,7 +1127,7 @@
     "streams": {
       "hulu": "www.hulu.com/series/811bac64-a492-4f1e-ba7a-393c825daeec"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1321,8 +1181,8 @@
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T16:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-02-26T16:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "donghua": false,
@@ -1338,7 +1198,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time",
       "apple": "apple.co/4155s9A"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1391,8 +1251,8 @@
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-23T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-03-02T22:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1409,7 +1269,7 @@
       "hulu": "www.hulu.com/series/toilet-bound-hanako-kun-87b3d986-cbae-47ce-9076-0fe61fce06e3",
       "apple": "apple.co/4aY7lJo"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1465,8 +1325,8 @@
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-23T20:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-03-02T20:30:00Z",
+    "episodeNumber": 6,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -1481,7 +1341,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1607,8 +1467,8 @@
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-17T21:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-02-24T21:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1623,7 +1483,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1677,8 +1537,8 @@
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-02-20T21:00:00Z",
-    "episodeNumber": 17,
+    "episodeDate": "2025-02-27T21:00:00Z",
+    "episodeNumber": 18,
     "episodes": 19,
     "lengthMin": 2,
     "donghua": false,
@@ -1693,7 +1553,7 @@
     "streams": {
       "youtube": "www.youtube.com/playlist?list=PLjv78rVJV36N6qIr8amgk5nSjKeien0q7"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1746,8 +1606,8 @@
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-21T21:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-02-28T21:00:00Z",
+    "episodeNumber": 6,
     "episodes": 24,
     "lengthMin": 24,
     "donghua": false,
@@ -1763,7 +1623,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G3KHEVDJ7/the-apothecary-diaries",
       "apple": "apple.co/42TvpLz"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1816,8 +1676,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-02-26T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -1832,7 +1692,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1885,8 +1745,8 @@
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-22T16:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-03-01T16:30:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "donghua": false,
@@ -1901,7 +1761,7 @@
     "streams": {
       "hulu": "www.hulu.com/series/bb33d0c2-b077-4bc0-a549-d2ca27d4afa8"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2127,128 +1987,15 @@
     "addedAt": "2025-03-18T07:00:00Z"
   },
   {
-    "title": "Pokémon Horizons: The Series",
-    "route": "pokemon-2023",
-    "native": "ポケットモンスター (2023)",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2025-02-17T08:00:00Z",
-    "episodeNumber": 67,
-    "subtractedEpisodeNumber": 57,
-    "lengthMin": 24,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/pokemon-2023-273f1b2226.jpg",
-    "streams": {
-      "netflix": "www.netflix.com/title/81696980"
-    },
-    "airingStatus": "aired",
-    "unaired": false,
-    "media": {
-      "parseObject": {
-        "anime_title": "Pokémon Horizons: The Series",
-        "file_name": "Pokémon Horizons: The Series"
-      },
-      "media": {
-        "id": 158871,
-        "idMal": 53876,
-        "title": {
-          "romaji": "Pocket Monsters (2023)",
-          "english": "Pokémon Horizons: The Series",
-          "native": "ポケットモンスター (2023)",
-          "userPreferred": "Pokémon Horizons: The Series"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2023,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
-          "color": "#e4bb28"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 57,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 58,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 59,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 60,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 61,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 62,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 63,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 64,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 65,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 66,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 67,
-              "airingAt": "2025-02-17T08:00:00Z"
-            },
-            {
-              "episode": 68,
-              "airingAt": "2025-02-24T08:00:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2025-02-17T10:44:44Z"
-  },
-  {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
     "route": "re-zero-kara-hajimeru-isekai-seikatsu-3",
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
     "english": "Re:Zero - Starting Life in Another World 3",
     "native": "Native Re:ゼロから始める異世界生活3",
-    "delayedText": "Cour Break",
     "delayedFrom": "2024-12-18T21:00:00Z",
     "delayedUntil": "2025-02-26T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-19T21:00:00Z",
+    "episodeDate": "2025-02-26T21:00:00Z",
     "episodeNumber": 9,
     "episodes": 16,
     "lengthMin": 25,
@@ -2266,7 +2013,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF",
       "apple": "apple.co/3CMHQyd"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2324,8 +2071,8 @@
     "delayedFrom": "2025-01-16T22:00:00Z",
     "delayedUntil": "2025-01-30T22:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-20T22:00:00Z",
-    "episodeNumber": 16,
+    "episodeDate": "2025-02-27T22:00:00Z",
+    "episodeNumber": 17,
     "episodes": 23,
     "lengthMin": 24,
     "donghua": false,
@@ -2341,7 +2088,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin",
       "apple": "apple.co/41nTj0R"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2393,8 +2140,8 @@
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-22T14:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-03-01T14:00:00Z",
+    "episodeNumber": 9,
     "episodes": 11,
     "lengthMin": 24,
     "donghua": false,
@@ -2409,7 +2156,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81663325"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2462,8 +2209,8 @@
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-17T20:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-02-24T20:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -2480,7 +2227,7 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN",
       "apple": "apple.co/4hwl10O"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2534,8 +2281,8 @@
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-23T21:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-03-02T21:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -2551,7 +2298,7 @@
       "crunchyroll": "www.crunchyroll.com/watch/GEVUW3VE4",
       "apple": "apple.co/3ECTxYW"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2606,8 +2353,8 @@
     "delayedFrom": "2024-12-29T20:00:00Z",
     "delayedUntil": "2025-01-19T20:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-23T20:00:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2025-03-02T20:00:00Z",
+    "episodeNumber": 19,
     "episodes": 25,
     "lengthMin": 24,
     "donghua": false,
@@ -2624,7 +2371,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib",
       "apple": "apple.co/4aYQkPq"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2680,8 +2427,8 @@
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
     "status": "Finished",
-    "episodeDate": "2025-02-21T21:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-02-28T21:30:00Z",
+    "episodeNumber": 2,
     "episodes": 6,
     "lengthMin": 23,
     "donghua": true,
@@ -2696,7 +2443,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8E81/link-click"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2749,9 +2496,8 @@
     "delayedFrom": "2025-02-15T21:00:00Z",
     "delayedUntil": "2025-02-22T21:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-22T21:00:00Z",
-    "episodeNumber": 6,
-    "subtractedEpisodeNumber": 5,
+    "episodeDate": "2025-03-01T21:00:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -2767,7 +2513,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GDKHZEJ0K/solo-leveling",
       "apple": "apple.co/41atbWN"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2800,14 +2546,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176496-5oY4k2NRqlYs.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 5,
-              "airingAt": "2025-02-22T21:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-02-22T21:00:00Z"
-            },
             {
               "episode": 7,
               "airingAt": "2025-03-01T21:00:00Z"
@@ -2947,8 +2685,8 @@
     "delayedFrom": "2025-01-16T22:30:00Z",
     "delayedUntil": "2025-01-23T22:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-20T22:30:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2025-02-27T22:30:00Z",
+    "episodeNumber": 19,
     "episodes": 26,
     "lengthMin": 24,
     "donghua": false,
@@ -2964,7 +2702,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -3019,8 +2757,8 @@
     "delayedFrom": "0001-01-01T13:30:00Z",
     "delayedUntil": "0001-01-01T13:30:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-17T13:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-02-24T13:30:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "donghua": false,
@@ -3035,7 +2773,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81564905"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -3087,8 +2825,8 @@
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-22T12:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-03-01T12:00:00Z",
+    "episodeNumber": 8,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -3102,7 +2840,7 @@
     "streams": {
       "apple": "apple.co/3X4CN31"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -3154,8 +2892,8 @@
     "delayedFrom": "0001-01-01T17:15:00Z",
     "delayedUntil": "0001-01-01T17:15:00Z",
     "status": "Ongoing",
-    "episodeDate": "2025-02-23T17:15:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-03-02T17:15:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "donghua": false,
@@ -3171,7 +2909,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G24H1NW8E/zenshu",
       "apple": "apple.co/4aWS0Jl"
     },
-    "airingStatus": "aired",
+    "airingStatus": "unaired",
     "unaired": false,
     "media": {
       "parseObject": {
