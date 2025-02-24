@@ -1483,7 +1483,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1517,8 +1517,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-02-24T21:00:00Z"
+              "episode": 7,
+              "airingAt": "2025-03-03T21:00:00Z"
             }
           ]
         }
@@ -2227,7 +2227,7 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN",
       "apple": "apple.co/4hwl10O"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2261,8 +2261,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-02-24T20:30:00Z"
+              "episode": 8,
+              "airingAt": "2025-03-03T20:30:00Z"
             }
           ]
         }
