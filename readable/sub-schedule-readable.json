@@ -1,130 +1,5 @@
 [
   {
-    "id": 4459,
-    "idMal": 4459,
-    "title": {
-      "romaji": "Ojarumaru",
-      "english": "Prince Mackaroo",
-      "native": "おじゃる丸",
-      "userPreferred": "Prince Mackaroo"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 10,
-    "seasonYear": 1998,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
-      "color": "#e4bb1a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2085,
-          "airingAt": 1740346800
-        },
-        {
-          "episode": 2086,
-          "airingAt": 1740951600
-        },
-        {
-          "episode": 2087,
-          "airingAt": 1741556400
-        },
-        {
-          "episode": 2088,
-          "airingAt": 1742161200
-        },
-        {
-          "episode": 2089,
-          "airingAt": 1742766000
-        },
-        {
-          "episode": 2090,
-          "airingAt": 1743370800
-        },
-        {
-          "episode": 2091,
-          "airingAt": 1743975600
-        },
-        {
-          "episode": 2092,
-          "airingAt": 1744580400
-        },
-        {
-          "episode": 2093,
-          "airingAt": 1745185200
-        },
-        {
-          "episode": 2094,
-          "airingAt": 1745790000
-        },
-        {
-          "episode": 2095,
-          "airingAt": 1746394800
-        },
-        {
-          "episode": 2096,
-          "airingAt": 1746999600
-        },
-        {
-          "episode": 2097,
-          "airingAt": 1747604400
-        }
-      ]
-    }
-  },
-  {
-    "id": 185538,
-    "idMal": null,
-    "title": {
-      "romaji": "Dokodemo Makibao",
-      "english": null,
-      "native": "どこでもマキバオー",
-      "userPreferred": "Dokodemo Makibao"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 5,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
-      "color": "#fec90d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1740348000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1740607200
-        },
-        {
-          "episode": 21,
-          "airingAt": 1740952800
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741212000
-        }
-      ]
-    }
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -1937,6 +1812,46 @@
     }
   },
   {
+    "id": 185538,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao",
+      "english": null,
+      "native": "どこでもマキバオー",
+      "userPreferred": "Dokodemo Makibao"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "duration": 5,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 20,
+          "airingAt": 1740607200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1740952800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1741212000
+        }
+      ]
+    }
+  },
+  {
     "id": 169966,
     "idMal": 56853,
     "title": {
@@ -2531,7 +2446,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 120,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185714-YYhn41FIOfmM.jpg",
@@ -6899,6 +6814,83 @@
         {
           "episode": 13,
           "airingAt": 1743357000
+        }
+      ]
+    }
+  },
+  {
+    "id": 4459,
+    "idMal": 4459,
+    "title": {
+      "romaji": "Ojarumaru",
+      "english": "Prince Mackaroo",
+      "native": "おじゃる丸",
+      "userPreferred": "Prince Mackaroo"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 10,
+    "seasonYear": 1998,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
+      "color": "#e4bb1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2086,
+          "airingAt": 1740951600
+        },
+        {
+          "episode": 2087,
+          "airingAt": 1741556400
+        },
+        {
+          "episode": 2088,
+          "airingAt": 1742161200
+        },
+        {
+          "episode": 2089,
+          "airingAt": 1742766000
+        },
+        {
+          "episode": 2090,
+          "airingAt": 1743370800
+        },
+        {
+          "episode": 2091,
+          "airingAt": 1743975600
+        },
+        {
+          "episode": 2092,
+          "airingAt": 1744580400
+        },
+        {
+          "episode": 2093,
+          "airingAt": 1745185200
+        },
+        {
+          "episode": 2094,
+          "airingAt": 1745790000
+        },
+        {
+          "episode": 2095,
+          "airingAt": 1746394800
+        },
+        {
+          "episode": 2096,
+          "airingAt": 1746999600
+        },
+        {
+          "episode": 2097,
+          "airingAt": 1747604400
         }
       ]
     }
