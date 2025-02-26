@@ -685,10 +685,10 @@
     "romaji": "Elf-san wa Yaserarenai.",
     "english": "Plus-Sized Elf",
     "native": "エルフさんは痩せられない。",
-    "delayedFrom": "0001-01-01T19:00:00Z",
-    "delayedUntil": "0001-01-01T19:00:00Z",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
     "status": "Finished",
-    "episodeDate": "2025-03-12T19:00:00Z",
+    "episodeDate": "2025-03-12T17:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 11,
@@ -740,7 +740,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-03-12T19:00:00Z"
+              "airingAt": "2025-03-12T17:00:00Z"
             }
           ]
         }
@@ -1041,7 +1041,8 @@
     "delayedUntil": "2025-03-12T17:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-02-26T17:00:00Z",
-    "episodeNumber": 12,
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
     "episodes": 15,
     "lengthMin": 24,
     "donghua": false,
@@ -1094,6 +1095,10 @@
           "nodes": [
             {
               "episode": 12,
+              "airingAt": "2025-03-12T17:00:00Z"
+            },
+            {
+              "episode": 13,
               "airingAt": "2025-03-12T17:00:00Z"
             }
           ]
@@ -1178,8 +1183,9 @@
     "romaji": "Izure Saikyou no Renkinjutsushi?",
     "english": "Possibly the Greatest Alchemist of All Time",
     "native": "いずれ最強の錬金術師?",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-02-26T16:00:00Z",
+    "delayedUntil": "2025-03-05T16:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-02-26T16:00:00Z",
     "episodeNumber": 9,
@@ -1198,7 +1204,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time",
       "apple": "apple.co/4155s9A"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1231,7 +1237,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 9,
               "airingAt": "2025-03-05T16:00:00Z"
             }
           ]
