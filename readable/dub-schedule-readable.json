@@ -776,7 +776,7 @@
       "hidive": "www.hidive.com/season/26753",
       "youtube": "www.youtube.com/watch?v=hOZ6dfA8jPo&list=PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -809,8 +809,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-02-26T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-03-05T17:00:00Z"
             }
           ]
         }
@@ -918,7 +918,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S",
       "apple": "apple.co/4hRyuRf"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -952,15 +952,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-02-26T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-03-05T17:00:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-02-12T17:00:00Z"
   },
   {
@@ -1198,7 +1198,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time",
       "apple": "apple.co/4155s9A"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1692,7 +1692,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1727,8 +1727,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-02-26T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-03-05T17:00:00Z"
             }
           ]
         }
