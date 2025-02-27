@@ -1,83 +1,5 @@
 [
   {
-    "id": 182301,
-    "idMal": 59881,
-    "title": {
-      "romaji": "Wish Cat",
-      "english": null,
-      "native": "위시캣",
-      "userPreferred": "Wish Cat"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Mahou Shoujo"
-    ],
-    "duration": 11,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182301-NLM4Tdc7y6nE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182301-NLM4Tdc7y6nE.png",
-      "color": "#e47850"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1740603000
-        },
-        {
-          "episode": 26,
-          "airingAt": 1741207800
-        }
-      ]
-    }
-  },
-  {
-    "id": 185538,
-    "idMal": null,
-    "title": {
-      "romaji": "Dokodemo Makibao",
-      "english": null,
-      "native": "どこでもマキバオー",
-      "userPreferred": "Dokodemo Makibao"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 5,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
-      "color": "#fec90d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1740607200
-        },
-        {
-          "episode": 21,
-          "airingAt": 1740952800
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741212000
-        }
-      ]
-    }
-  },
-  {
     "id": 169966,
     "idMal": 56853,
     "title": {
@@ -5250,6 +5172,42 @@
     }
   },
   {
+    "id": 185538,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao",
+      "english": null,
+      "native": "どこでもマキバオー",
+      "userPreferred": "Dokodemo Makibao"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "duration": 5,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 21,
+          "airingAt": 1740952800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1741212000
+        }
+      ]
+    }
+  },
+  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -6759,6 +6717,40 @@
         {
           "episode": 13,
           "airingAt": 1743004800
+        }
+      ]
+    }
+  },
+  {
+    "id": 182301,
+    "idMal": 59881,
+    "title": {
+      "romaji": "Wish Cat",
+      "english": null,
+      "native": "위시캣",
+      "userPreferred": "Wish Cat"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "duration": 11,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182301-NLM4Tdc7y6nE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182301-NLM4Tdc7y6nE.png",
+      "color": "#e47850"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 26,
+          "airingAt": 1741207800
         }
       ]
     }
