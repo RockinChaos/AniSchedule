@@ -1323,6 +1323,122 @@
     "addedAt": "2025-01-26T23:00:00Z"
   },
   {
+    "title": "Kabushiki Gaisha Magi Lumiere",
+    "route": "kabushikigaisha-magi-lumi-re",
+    "romaji": "Kabushiki Gaisha Magi Lumiere",
+    "english": "Magilumiere Magical Girls Inc.",
+    "native": "株式会社マジルミエ",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-02-27T08:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kabushikigaisha-magi-lumi-re-509aff7f45.jpg",
+    "streams": {
+      "amazon": "www.amazon.com/dp/B0DDJ1T9ZB"
+    },
+    "airingStatus": "aired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "Kabushiki Gaisha Magi Lumiere",
+        "file_name": "Kabushiki Gaisha Magi Lumiere"
+      },
+      "media": {
+        "id": 171025,
+        "idMal": 57360,
+        "title": {
+          "romaji": "Kabushiki Gaisha Magi Lumiere",
+          "english": "Magilumiere Magical Girls Inc.",
+          "native": "株式会社マジルミエ",
+          "userPreferred": "Magilumiere Magical Girls Inc."
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171025-alBpVzKrgy1b.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171025-alBpVzKrgy1b.jpg",
+          "color": "#50aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-02-27T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-02-27T08:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-02-27T18:17:30Z"
+  },
+  {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2",
     "route": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-season-2",
     "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
