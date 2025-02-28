@@ -148,8 +148,9 @@
     "romaji": "Ameku Takao no Suiri Karte",
     "english": "Ameku M.D.: Doctor Detective",
     "native": "天久鷹央の推理カルテ",
-    "delayedFrom": "0001-01-01T21:30:00Z",
-    "delayedUntil": "0001-01-01T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-02-26T21:30:00Z",
+    "delayedUntil": "2025-03-05T21:30:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-02-26T21:30:00Z",
     "episodeNumber": 7,
@@ -167,7 +168,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -200,7 +201,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2025-03-05T21:30:00Z"
             }
           ]
@@ -616,9 +617,10 @@
     "native": "ドラゴンボールDAIMA",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "status": "Ongoing",
+    "status": "Finished",
     "episodeDate": "2025-02-28T21:30:00Z",
     "episodeNumber": 8,
+    "episodes": 20,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
