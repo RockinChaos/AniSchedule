@@ -239,7 +239,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G649PJ0JY/blue-exorcist",
       "apple": "apple.co/3EA3rdH"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -273,8 +273,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-03-01T23:00:00Z"
+              "episode": 7,
+              "airingAt": "2025-03-08T23:00:00Z"
             }
           ]
         }
