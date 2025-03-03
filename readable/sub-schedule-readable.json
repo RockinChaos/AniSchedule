@@ -1,118 +1,5 @@
 [
   {
-    "id": 4459,
-    "idMal": 4459,
-    "title": {
-      "romaji": "Ojarumaru",
-      "english": "Prince Mackaroo",
-      "native": "おじゃる丸",
-      "userPreferred": "Prince Mackaroo"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 10,
-    "seasonYear": 1998,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
-      "color": "#e4bb1a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2086,
-          "airingAt": 1740951600
-        },
-        {
-          "episode": 2087,
-          "airingAt": 1741556400
-        },
-        {
-          "episode": 2088,
-          "airingAt": 1742161200
-        },
-        {
-          "episode": 2089,
-          "airingAt": 1742766000
-        },
-        {
-          "episode": 2090,
-          "airingAt": 1743370800
-        },
-        {
-          "episode": 2091,
-          "airingAt": 1743975600
-        },
-        {
-          "episode": 2092,
-          "airingAt": 1744580400
-        },
-        {
-          "episode": 2093,
-          "airingAt": 1745185200
-        },
-        {
-          "episode": 2094,
-          "airingAt": 1745790000
-        },
-        {
-          "episode": 2095,
-          "airingAt": 1746394800
-        },
-        {
-          "episode": 2096,
-          "airingAt": 1746999600
-        },
-        {
-          "episode": 2097,
-          "airingAt": 1747604400
-        }
-      ]
-    }
-  },
-  {
-    "id": 185538,
-    "idMal": null,
-    "title": {
-      "romaji": "Dokodemo Makibao",
-      "english": null,
-      "native": "どこでもマキバオー",
-      "userPreferred": "Dokodemo Makibao"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 5,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
-      "color": "#fec90d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1740952800
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741212000
-        }
-      ]
-    }
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -1785,6 +1672,38 @@
         {
           "episode": 26,
           "airingAt": 1741207800
+        }
+      ]
+    }
+  },
+  {
+    "id": 185538,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao",
+      "english": null,
+      "native": "どこでもマキバオー",
+      "userPreferred": "Dokodemo Makibao"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "duration": 5,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 22,
+          "airingAt": 1741212000
         }
       ]
     }
@@ -5431,52 +5350,6 @@
     }
   },
   {
-    "id": 159560,
-    "idMal": 54040,
-    "title": {
-      "romaji": "Tousouchuu: Great Mission",
-      "english": null,
-      "native": "逃走中 グレートミッション",
-      "userPreferred": "Tousouchuu: Great Mission"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159560-SaH4QloCicfx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159560-SaH4QloCicfx.jpg",
-      "color": "#e48628"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 95,
-          "airingAt": 1741478400
-        },
-        {
-          "episode": 96,
-          "airingAt": 1742083200
-        },
-        {
-          "episode": 97,
-          "airingAt": 1742688000
-        },
-        {
-          "episode": 98,
-          "airingAt": 1743292800
-        }
-      ]
-    }
-  },
-  {
     "id": 179292,
     "idMal": 59512,
     "title": {
@@ -5519,49 +5392,6 @@
         {
           "episode": 26,
           "airingAt": 1743898500
-        }
-      ]
-    }
-  },
-  {
-    "id": 183423,
-    "idMal": 60108,
-    "title": {
-      "romaji": "ONE PIECE: Gyojin Tou-hen",
-      "english": "One Piece Log: Fish-Man Island Saga",
-      "native": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
-      "userPreferred": "One Piece Log: Fish-Man Island Saga"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183423-wt4YjEiCWVVD.jpg",
-      "color": "#febb0d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183423-kYnannPuKynK.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1741480200
-        },
-        {
-          "episode": 20,
-          "airingAt": 1742085000
-        },
-        {
-          "episode": 21,
-          "airingAt": 1742689800
         }
       ]
     }
@@ -6291,6 +6121,79 @@
     }
   },
   {
+    "id": 4459,
+    "idMal": 4459,
+    "title": {
+      "romaji": "Ojarumaru",
+      "english": "Prince Mackaroo",
+      "native": "おじゃる丸",
+      "userPreferred": "Prince Mackaroo"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 10,
+    "seasonYear": 1998,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/4459.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/4459.jpg",
+      "color": "#e4bb1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2087,
+          "airingAt": 1741556400
+        },
+        {
+          "episode": 2088,
+          "airingAt": 1742161200
+        },
+        {
+          "episode": 2089,
+          "airingAt": 1742766000
+        },
+        {
+          "episode": 2090,
+          "airingAt": 1743370800
+        },
+        {
+          "episode": 2091,
+          "airingAt": 1743975600
+        },
+        {
+          "episode": 2092,
+          "airingAt": 1744580400
+        },
+        {
+          "episode": 2093,
+          "airingAt": 1745185200
+        },
+        {
+          "episode": 2094,
+          "airingAt": 1745790000
+        },
+        {
+          "episode": 2095,
+          "airingAt": 1746394800
+        },
+        {
+          "episode": 2096,
+          "airingAt": 1746999600
+        },
+        {
+          "episode": 2097,
+          "airingAt": 1747604400
+        }
+      ]
+    }
+  },
+  {
     "id": 179852,
     "idMal": 59408,
     "title": {
@@ -6359,6 +6262,143 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 159560,
+    "idMal": 54040,
+    "title": {
+      "romaji": "Tousouchuu: Great Mission",
+      "english": null,
+      "native": "逃走中 グレートミッション",
+      "userPreferred": "Tousouchuu: Great Mission"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "duration": 23,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159560-SaH4QloCicfx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159560-SaH4QloCicfx.jpg",
+      "color": "#e48628"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 95,
+          "airingAt": 1742083200
+        },
+        {
+          "episode": 96,
+          "airingAt": 1742688000
+        },
+        {
+          "episode": 97,
+          "airingAt": 1743292800
+        },
+        {
+          "episode": 98,
+          "airingAt": 1743897600
+        },
+        {
+          "episode": 99,
+          "airingAt": 1744502400
+        },
+        {
+          "episode": 100,
+          "airingAt": 1745107200
+        },
+        {
+          "episode": 101,
+          "airingAt": 1745712000
+        },
+        {
+          "episode": 102,
+          "airingAt": 1746316800
+        },
+        {
+          "episode": 103,
+          "airingAt": 1746921600
+        },
+        {
+          "episode": 104,
+          "airingAt": 1747526400
+        },
+        {
+          "episode": 105,
+          "airingAt": 1748131200
+        },
+        {
+          "episode": 106,
+          "airingAt": 1748736000
+        },
+        {
+          "episode": 107,
+          "airingAt": 1749340800
+        },
+        {
+          "episode": 108,
+          "airingAt": 1749945600
+        },
+        {
+          "episode": 109,
+          "airingAt": 1750550400
+        },
+        {
+          "episode": 110,
+          "airingAt": 1751155200
+        }
+      ]
+    }
+  },
+  {
+    "id": 183423,
+    "idMal": 60108,
+    "title": {
+      "romaji": "ONE PIECE: Gyojin Tou-hen",
+      "english": "One Piece Log: Fish-Man Island Saga",
+      "native": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
+      "userPreferred": "One Piece Log: Fish-Man Island Saga"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183423-wt4YjEiCWVVD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183423-wt4YjEiCWVVD.jpg",
+      "color": "#febb0d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183423-kYnannPuKynK.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 19,
+          "airingAt": 1742085000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1742689800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1743294600
+        }
+      ]
+    }
   },
   {
     "id": 185643,
