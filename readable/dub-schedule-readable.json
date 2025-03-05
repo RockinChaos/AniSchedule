@@ -81,7 +81,8 @@
     "delayedUntil": "2025-02-18T21:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-03-04T21:00:00Z",
-    "episodeNumber": 18,
+    "episodeNumber": 19,
+    "subtractedEpisodeNumber": 18,
     "episodes": 24,
     "lengthMin": 24,
     "donghua": false,
@@ -132,7 +133,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 18,
+              "airingAt": "2025-03-04T21:00:00Z"
+            },
+            {
               "episode": 19,
+              "airingAt": "2025-03-04T21:00:00Z"
+            },
+            {
+              "episode": 20,
               "airingAt": "2025-03-11T21:00:00Z"
             }
           ]
