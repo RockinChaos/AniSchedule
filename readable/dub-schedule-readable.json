@@ -787,7 +787,7 @@
       "hidive": "www.hidive.com/season/26753",
       "youtube": "www.youtube.com/watch?v=hOZ6dfA8jPo&list=PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -929,7 +929,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S",
       "apple": "apple.co/4hRyuRf"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1198,7 +1198,8 @@
     "delayedUntil": "2025-03-05T16:00:00Z",
     "status": "Ongoing",
     "episodeDate": "2025-03-05T16:00:00Z",
-    "episodeNumber": 9,
+    "episodeNumber": 10,
+    "subtractedEpisodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "donghua": false,
@@ -1247,7 +1248,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 9,
+              "airingAt": "2025-03-05T16:00:00Z"
+            },
+            {
               "episode": 10,
+              "airingAt": "2025-03-05T16:00:00Z"
+            },
+            {
+              "episode": 11,
               "airingAt": "2025-03-12T16:00:00Z"
             }
           ]
@@ -1708,7 +1717,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
