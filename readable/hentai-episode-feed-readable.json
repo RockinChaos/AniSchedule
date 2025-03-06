@@ -396,12 +396,13 @@
   {
     "id": 174189,
     "format": "OVA",
-    "duration": 30,
+    "duration": 28,
     "episode": {
       "aired": 1,
       "airedAt": "2024-12-05T15:00:00Z",
       "addedAt": "2024-12-05T15:00:00Z"
-    }
+    },
+    "idMal": 60044
   },
   {
     "id": 180747,
@@ -525,6 +526,17 @@
     }
   },
   {
+    "id": 161680,
+    "idMal": 55003,
+    "format": "OVA",
+    "duration": 16,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2024-08-01T15:00:00Z",
+      "addedAt": "2025-03-06T18:33:36Z"
+    }
+  },
+  {
     "id": 174181,
     "idMal": 58122,
     "format": "OVA",
@@ -555,6 +567,17 @@
       "aired": 1,
       "airedAt": "2024-04-25T15:00:00Z",
       "addedAt": "2025-01-23T01:47:56Z"
+    }
+  },
+  {
+    "id": 161680,
+    "idMal": 55003,
+    "format": "OVA",
+    "duration": 16,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2024-04-18T15:00:00Z",
+      "addedAt": "2025-03-06T18:33:36Z"
     }
   },
   {
@@ -610,6 +633,28 @@
       "aired": 1,
       "airedAt": "2023-10-26T15:00:00Z",
       "addedAt": "2025-01-06T04:45:04Z"
+    }
+  },
+  {
+    "id": 161680,
+    "idMal": 55003,
+    "format": "OVA",
+    "duration": 16,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2023-10-05T15:00:00Z",
+      "addedAt": "2025-03-06T18:33:36Z"
+    }
+  },
+  {
+    "id": 161680,
+    "idMal": 55003,
+    "format": "OVA",
+    "duration": 16,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2023-07-06T15:00:00Z",
+      "addedAt": "2025-03-06T18:33:36Z"
     }
   },
   {
