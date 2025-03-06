@@ -1,181 +1,5 @@
 [
   {
-    "id": 169966,
-    "idMal": 56853,
-    "title": {
-      "romaji": "I.CINNAMOROLL Animation",
-      "english": "I.CINNAMOROLL Animation",
-      "native": "I.CINNAMOROLL Animation",
-      "userPreferred": "I.CINNAMOROLL Animation"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169966-elyLBCoBAJxx.jpg",
-      "color": "#1a6b50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169966-dysUtZi16eNg.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 70,
-          "airingAt": 1741248000
-        },
-        {
-          "episode": 71,
-          "airingAt": 1741852800
-        },
-        {
-          "episode": 72,
-          "airingAt": 1742457600
-        },
-        {
-          "episode": 73,
-          "airingAt": 1743062400
-        },
-        {
-          "episode": 74,
-          "airingAt": 1743667200
-        },
-        {
-          "episode": 75,
-          "airingAt": 1744272000
-        },
-        {
-          "episode": 76,
-          "airingAt": 1744876800
-        },
-        {
-          "episode": 77,
-          "airingAt": 1745481600
-        },
-        {
-          "episode": 78,
-          "airingAt": 1746086400
-        },
-        {
-          "episode": 79,
-          "airingAt": 1746691200
-        },
-        {
-          "episode": 80,
-          "airingAt": 1747296000
-        },
-        {
-          "episode": 81,
-          "airingAt": 1747900800
-        },
-        {
-          "episode": 82,
-          "airingAt": 1748505600
-        }
-      ]
-    }
-  },
-  {
-    "id": 182159,
-    "idMal": 59894,
-    "title": {
-      "romaji": "Shooting Star Catch! Tiniping",
-      "english": null,
-      "native": "슈팅스타 캐치! 티니핑",
-      "userPreferred": "Shooting Star Catch! Tiniping"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Mahou Shoujo"
-    ],
-    "duration": 11,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182159-hRd92GJxgLeq.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182159-hRd92GJxgLeq.png",
-      "color": "#e4c95d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1741251600
-        },
-        {
-          "episode": 23,
-          "airingAt": 1741856400
-        },
-        {
-          "episode": 24,
-          "airingAt": 1742461200
-        },
-        {
-          "episode": 25,
-          "airingAt": 1743066000
-        },
-        {
-          "episode": 26,
-          "airingAt": 1743670800
-        }
-      ]
-    }
-  },
-  {
-    "id": 180292,
-    "idMal": 59561,
-    "title": {
-      "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
-      "english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
-      "native": "アラフォー男の異世界通販生活",
-      "userPreferred": "The Daily Life of a Middle-Aged Online Shopper in Another World"
-    },
-    "format": "TV",
-    "genres": [
-      "Ecchi",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180292-GG0nwYZ5HeN7.jpg",
-      "color": "#f1bb43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180292-ZTl79DRNancx.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741262400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741867200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742472000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743076800
-        },
-        {
-          "episode": 13,
-          "airingAt": 1743681600
-        }
-      ]
-    }
-  },
-  {
     "id": 174390,
     "idMal": 57924,
     "title": {
@@ -5992,6 +5816,170 @@
         {
           "episode": 13,
           "airingAt": 1743004800
+        }
+      ]
+    }
+  },
+  {
+    "id": 169966,
+    "idMal": 56853,
+    "title": {
+      "romaji": "I.CINNAMOROLL Animation",
+      "english": "I.CINNAMOROLL Animation",
+      "native": "I.CINNAMOROLL Animation",
+      "userPreferred": "I.CINNAMOROLL Animation"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169966-elyLBCoBAJxx.jpg",
+      "color": "#1a6b50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169966-dysUtZi16eNg.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 71,
+          "airingAt": 1741852800
+        },
+        {
+          "episode": 72,
+          "airingAt": 1742457600
+        },
+        {
+          "episode": 73,
+          "airingAt": 1743062400
+        },
+        {
+          "episode": 74,
+          "airingAt": 1743667200
+        },
+        {
+          "episode": 75,
+          "airingAt": 1744272000
+        },
+        {
+          "episode": 76,
+          "airingAt": 1744876800
+        },
+        {
+          "episode": 77,
+          "airingAt": 1745481600
+        },
+        {
+          "episode": 78,
+          "airingAt": 1746086400
+        },
+        {
+          "episode": 79,
+          "airingAt": 1746691200
+        },
+        {
+          "episode": 80,
+          "airingAt": 1747296000
+        },
+        {
+          "episode": 81,
+          "airingAt": 1747900800
+        },
+        {
+          "episode": 82,
+          "airingAt": 1748505600
+        }
+      ]
+    }
+  },
+  {
+    "id": 182159,
+    "idMal": 59894,
+    "title": {
+      "romaji": "Shooting Star Catch! Tiniping",
+      "english": null,
+      "native": "슈팅스타 캐치! 티니핑",
+      "userPreferred": "Shooting Star Catch! Tiniping"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "duration": 11,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182159-hRd92GJxgLeq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182159-hRd92GJxgLeq.png",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 23,
+          "airingAt": 1741856400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1742461200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1743066000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1743670800
+        }
+      ]
+    }
+  },
+  {
+    "id": 180292,
+    "idMal": 59561,
+    "title": {
+      "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+      "english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+      "native": "アラフォー男の異世界通販生活",
+      "userPreferred": "The Daily Life of a Middle-Aged Online Shopper in Another World"
+    },
+    "format": "TV",
+    "genres": [
+      "Ecchi",
+      "Fantasy"
+    ],
+    "duration": 23,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180292-GG0nwYZ5HeN7.jpg",
+      "color": "#f1bb43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180292-ZTl79DRNancx.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1741867200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742472000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743076800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743681600
         }
       ]
     }
