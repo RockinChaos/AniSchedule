@@ -1419,9 +1419,9 @@
     "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ",
     "delayedText": "Delayed",
     "delayedFrom": "2024-08-22T21:30:00Z",
-    "delayedUntil": "2031-01-01T21:30:00Z",
+    "delayedUntil": "2025-05-22T21:30:00Z",
     "status": "Delayed",
-    "episodeDate": "2025-01-30T21:30:00Z",
+    "episodeDate": "2025-03-06T21:30:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
@@ -1472,14 +1472,13 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2031-01-01T21:30:00Z"
+              "airingAt": "2025-05-22T21:30:00Z"
             }
           ]
         }
       },
       "failed": false
     },
-    "delayedIndefinitely": true,
     "verified": true,
     "addedAt": "2024-07-01T00:24:47Z"
   },
@@ -2511,7 +2510,7 @@
       },
       "failed": false
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-02-21T20:00:00Z"
   },
   {
