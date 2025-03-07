@@ -1,949 +1,5 @@
 [
   {
-    "id": 186300,
-    "idMal": 60480,
-    "title": {
-      "romaji": "minute! kaiju no. 8",
-      "english": "minute! Kaiju No. 8",
-      "native": "ミニっと！かいじゅう８号",
-      "userPreferred": "minute! Kaiju No. 8"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186300-py8AeW9MgfDS.jpg",
-      "color": "#0de4d6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1741338000
-        },
-        {
-          "episode": 15,
-          "airingAt": 1741942800
-        },
-        {
-          "episode": 16,
-          "airingAt": 1742547600
-        },
-        {
-          "episode": 17,
-          "airingAt": 1743152400
-        },
-        {
-          "episode": 18,
-          "airingAt": 1743757200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1744362000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1744966800
-        },
-        {
-          "episode": 21,
-          "airingAt": 1745571600
-        },
-        {
-          "episode": 22,
-          "airingAt": 1746176400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1746781200
-        },
-        {
-          "episode": 24,
-          "airingAt": 1747386000
-        }
-      ]
-    }
-  },
-  {
-    "id": 165159,
-    "idMal": 56566,
-    "title": {
-      "romaji": "BEYBLADE X",
-      "english": "BEYBLADE X",
-      "native": "BEYBLADE X",
-      "userPreferred": "BEYBLADE X"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sports"
-    ],
-    "duration": 22,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
-      "color": "#28aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 71,
-          "airingAt": 1741339500
-        },
-        {
-          "episode": 72,
-          "airingAt": 1741944300
-        },
-        {
-          "episode": 73,
-          "airingAt": 1742549100
-        },
-        {
-          "episode": 74,
-          "airingAt": 1743153900
-        },
-        {
-          "episode": 75,
-          "airingAt": 1743758700
-        },
-        {
-          "episode": 76,
-          "airingAt": 1744363500
-        },
-        {
-          "episode": 77,
-          "airingAt": 1744968300
-        },
-        {
-          "episode": 78,
-          "airingAt": 1745573100
-        },
-        {
-          "episode": 79,
-          "airingAt": 1746177900
-        },
-        {
-          "episode": 80,
-          "airingAt": 1746782700
-        },
-        {
-          "episode": 81,
-          "airingAt": 1747387500
-        },
-        {
-          "episode": 82,
-          "airingAt": 1747992300
-        },
-        {
-          "episode": 83,
-          "airingAt": 1748597100
-        },
-        {
-          "episode": 84,
-          "airingAt": 1749201900
-        },
-        {
-          "episode": 85,
-          "airingAt": 1749806700
-        },
-        {
-          "episode": 86,
-          "airingAt": 1750411500
-        },
-        {
-          "episode": 87,
-          "airingAt": 1751016300
-        },
-        {
-          "episode": 88,
-          "airingAt": 1751621100
-        },
-        {
-          "episode": 89,
-          "airingAt": 1752225900
-        },
-        {
-          "episode": 90,
-          "airingAt": 1752830700
-        },
-        {
-          "episode": 91,
-          "airingAt": 1753435500
-        },
-        {
-          "episode": 92,
-          "airingAt": 1754040300
-        },
-        {
-          "episode": 93,
-          "airingAt": 1754645100
-        },
-        {
-          "episode": 94,
-          "airingAt": 1755249900
-        },
-        {
-          "episode": 95,
-          "airingAt": 1755854700
-        }
-      ]
-    }
-  },
-  {
-    "id": 120325,
-    "idMal": 42295,
-    "title": {
-      "romaji": "Fushigi Dagashiya: Zenitendou",
-      "english": null,
-      "native": "ふしぎ駄菓子屋 銭天堂",
-      "userPreferred": "Fushigi Dagashiya: Zenitendou"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Mystery"
-    ],
-    "duration": 9,
-    "seasonYear": 2020,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120325-ubMgHRUT5dgJ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120325-ubMgHRUT5dgJ.png",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 147,
-          "airingAt": 1741340400
-        },
-        {
-          "episode": 148,
-          "airingAt": 1741945200
-        },
-        {
-          "episode": 149,
-          "airingAt": 1742550000
-        },
-        {
-          "episode": 150,
-          "airingAt": 1743154800
-        },
-        {
-          "episode": 151,
-          "airingAt": 1743759600
-        },
-        {
-          "episode": 152,
-          "airingAt": 1744364400
-        },
-        {
-          "episode": 153,
-          "airingAt": 1744969200
-        },
-        {
-          "episode": 154,
-          "airingAt": 1745574000
-        },
-        {
-          "episode": 155,
-          "airingAt": 1746178800
-        },
-        {
-          "episode": 156,
-          "airingAt": 1746783600
-        },
-        {
-          "episode": 157,
-          "airingAt": 1747388400
-        },
-        {
-          "episode": 158,
-          "airingAt": 1747993200
-        },
-        {
-          "episode": 159,
-          "airingAt": 1748598000
-        },
-        {
-          "episode": 160,
-          "airingAt": 1749202800
-        },
-        {
-          "episode": 161,
-          "airingAt": 1749807600
-        },
-        {
-          "episode": 162,
-          "airingAt": 1750412400
-        },
-        {
-          "episode": 163,
-          "airingAt": 1751017200
-        },
-        {
-          "episode": 164,
-          "airingAt": 1751622000
-        },
-        {
-          "episode": 165,
-          "airingAt": 1752226800
-        },
-        {
-          "episode": 166,
-          "airingAt": 1752831600
-        },
-        {
-          "episode": 167,
-          "airingAt": 1753436400
-        },
-        {
-          "episode": 168,
-          "airingAt": 1754041200
-        },
-        {
-          "episode": 169,
-          "airingAt": 1754646000
-        },
-        {
-          "episode": 170,
-          "airingAt": 1755250800
-        },
-        {
-          "episode": 171,
-          "airingAt": 1755855600
-        }
-      ]
-    }
-  },
-  {
-    "id": 158871,
-    "idMal": 53876,
-    "title": {
-      "romaji": "Pocket Monsters (2023)",
-      "english": "Pokémon Horizons: The Series",
-      "native": "ポケットモンスター (2023)",
-      "userPreferred": "Pokémon Horizons: The Series"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
-      "color": "#e4bb28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 87,
-          "airingAt": 1741341300
-        },
-        {
-          "episode": 88,
-          "airingAt": 1741946100
-        },
-        {
-          "episode": 89,
-          "airingAt": 1742550900
-        },
-        {
-          "episode": 90,
-          "airingAt": 1743155700
-        },
-        {
-          "episode": 91,
-          "airingAt": 1743760500
-        },
-        {
-          "episode": 92,
-          "airingAt": 1744365300
-        },
-        {
-          "episode": 93,
-          "airingAt": 1744970100
-        },
-        {
-          "episode": 94,
-          "airingAt": 1745574900
-        },
-        {
-          "episode": 95,
-          "airingAt": 1746179700
-        },
-        {
-          "episode": 96,
-          "airingAt": 1746784500
-        },
-        {
-          "episode": 97,
-          "airingAt": 1747389300
-        },
-        {
-          "episode": 98,
-          "airingAt": 1747994100
-        },
-        {
-          "episode": 99,
-          "airingAt": 1748598900
-        },
-        {
-          "episode": 100,
-          "airingAt": 1749203700
-        },
-        {
-          "episode": 101,
-          "airingAt": 1749808500
-        },
-        {
-          "episode": 102,
-          "airingAt": 1750413300
-        },
-        {
-          "episode": 103,
-          "airingAt": 1751018100
-        },
-        {
-          "episode": 104,
-          "airingAt": 1751622900
-        },
-        {
-          "episode": 105,
-          "airingAt": 1752227700
-        },
-        {
-          "episode": 106,
-          "airingAt": 1752832500
-        },
-        {
-          "episode": 107,
-          "airingAt": 1753437300
-        },
-        {
-          "episode": 108,
-          "airingAt": 1754042100
-        },
-        {
-          "episode": 109,
-          "airingAt": 1754646900
-        },
-        {
-          "episode": 110,
-          "airingAt": 1755251700
-        },
-        {
-          "episode": 111,
-          "airingAt": 1755856500
-        }
-      ]
-    }
-  },
-  {
-    "id": 172439,
-    "idMal": 57648,
-    "title": {
-      "romaji": "Nihon e Youkoso Elf-san.",
-      "english": "Welcome to Japan, Ms. Elf!",
-      "native": "日本へようこそエルフさん。",
-      "userPreferred": "Welcome to Japan, Ms. Elf!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172439-sTda7baXB0Fh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172439-sTda7baXB0Fh.jpg",
-      "color": "#5dbbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172439-5XFq61KJyIPW.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741352400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741957200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742562000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743166800
-        }
-      ]
-    }
-  },
-  {
-    "id": 178312,
-    "idMal": 59113,
-    "title": {
-      "romaji": "FARMAGIA",
-      "english": "Farmagia",
-      "native": "ファーマギア",
-      "userPreferred": "Farmagia"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178312-iGhE7xvvCReS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178312-iGhE7xvvCReS.jpg",
-      "color": "#35aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741354200
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741959000
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742563800
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743168600
-        }
-      ]
-    }
-  },
-  {
-    "id": 178495,
-    "idMal": 59136,
-    "title": {
-      "romaji": "Tasokare Hotel",
-      "english": "TASOKARE HOTEL",
-      "native": "誰ソ彼ホテル",
-      "userPreferred": "TASOKARE HOTEL"
-    },
-    "format": "ONA",
-    "genres": [
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178495-RJCGa2YRdKBU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178495-RJCGa2YRdKBU.jpg",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178495-8OoD7676bnFP.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741354200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741959000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742563800
-        }
-      ]
-    }
-  },
-  {
-    "id": 176301,
-    "idMal": 58514,
-    "title": {
-      "romaji": "Kusuriya no Hitorigoto 2nd Season",
-      "english": "The Apothecary Diaries Season 2",
-      "native": "薬屋のひとりごと 第2期",
-      "userPreferred": "The Apothecary Diaries Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-AclxpmzlKoBM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176301-AclxpmzlKoBM.jpg",
-      "color": "#e4bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176301-GkuTF1YTT6b2.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741356000
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741960800
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742565600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743170400
-        },
-        {
-          "episode": 13,
-          "airingAt": 1743775200
-        },
-        {
-          "episode": 14,
-          "airingAt": 1744380000
-        },
-        {
-          "episode": 15,
-          "airingAt": 1744984800
-        },
-        {
-          "episode": 16,
-          "airingAt": 1745589600
-        },
-        {
-          "episode": 17,
-          "airingAt": 1746194400
-        },
-        {
-          "episode": 18,
-          "airingAt": 1746799200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1747404000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1748008800
-        },
-        {
-          "episode": 21,
-          "airingAt": 1748613600
-        },
-        {
-          "episode": 22,
-          "airingAt": 1749218400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1749823200
-        },
-        {
-          "episode": 24,
-          "airingAt": 1750428000
-        }
-      ]
-    }
-  },
-  {
-    "id": 178462,
-    "idMal": 59135,
-    "title": {
-      "romaji": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
-      "english": "I'm Getting Married to a Girl I Hate in My Class",
-      "native": "クラスの大嫌いな女子と結婚することになった。",
-      "userPreferred": "I'm Getting Married to a Girl I Hate in My Class"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178462-YW6BgSGGP4az.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178462-YW6BgSGGP4az.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178462-a21TbjT9F90O.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741357800
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741962600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742567400
-        }
-      ]
-    }
-  },
-  {
-    "id": 167143,
-    "idMal": 55997,
-    "title": {
-      "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
-      "english": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
-      "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
-      "userPreferred": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167143-SoFo5kOvlkbO.jpg",
-      "color": "#ffbb43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167143-YGnuSeaD90mT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741359600
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741964400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742569200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743174000
-        }
-      ]
-    }
-  },
-  {
-    "id": 175198,
-    "idMal": 58216,
-    "title": {
-      "romaji": "Übel Blatt",
-      "english": "Übel Blatt",
-      "native": "Übel Blatt～ユーベルブラット～",
-      "userPreferred": "Übel Blatt"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Ecchi",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175198-AtWwEQPTjQ6N.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175198-AtWwEQPTjQ6N.jpg",
-      "color": "#1a6bd6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175198-xWH6PKjANEhw.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741361400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1741966200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742571000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743175800
-        }
-      ]
-    }
-  },
-  {
-    "id": 174596,
-    "idMal": 58066,
-    "title": {
-      "romaji": "Sorairo Utility (TV)",
-      "english": "Sorairo Utility (TV)",
-      "native": "空色ユーティリティ (TV)",
-      "userPreferred": "Sorairo Utility (TV)"
-    },
-    "format": "TV",
-    "genres": [
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174596-GbgKrUtBBuIg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174596-GbgKrUtBBuIg.jpg",
-      "color": "#f1e40d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174596-SAOws7ULFCTo.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741363200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741968000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742572800
-        }
-      ]
-    }
-  },
-  {
-    "id": 182877,
-    "idMal": 60094,
-    "title": {
-      "romaji": "Kankin Kuiki Level X 2nd Season",
-      "english": "Lockdown Zone: Level X Season 2",
-      "native": "監禁区域レベルX 続編",
-      "userPreferred": "Lockdown Zone: Level X Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "duration": 13,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182877-In2sD6eEJdvw.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182877-In2sD6eEJdvw.png",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1741368180
-        },
-        {
-          "episode": 4,
-          "airingAt": 1741972980
-        },
-        {
-          "episode": 5,
-          "airingAt": 1742577780
-        },
-        {
-          "episode": 6,
-          "airingAt": 1743182580
-        }
-      ]
-    }
-  },
-  {
-    "id": 173263,
-    "idMal": 57796,
-    "title": {
-      "romaji": "Touhai: Ura Rate Mahjong Touhai Roku",
-      "english": null,
-      "native": "凍牌～裏レート麻雀闘牌録～",
-      "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Psychological",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173263-c3geIX7XVEcH.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173263-c3geIX7XVEcH.jpg",
-      "color": "#50a1c9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1741368180
-        },
-        {
-          "episode": 22,
-          "airingAt": 1741972980
-        },
-        {
-          "episode": 23,
-          "airingAt": 1742577780
-        },
-        {
-          "episode": 24,
-          "airingAt": 1743182580
-        },
-        {
-          "episode": 25,
-          "airingAt": 1743787380
-        }
-      ]
-    }
-  },
-  {
     "id": 186752,
     "idMal": 60677,
     "title": {
@@ -6028,6 +5084,906 @@
         {
           "episode": 1713,
           "airingAt": 1756432500
+        }
+      ]
+    }
+  },
+  {
+    "id": 186300,
+    "idMal": 60480,
+    "title": {
+      "romaji": "minute! kaiju no. 8",
+      "english": "minute! Kaiju No. 8",
+      "native": "ミニっと！かいじゅう８号",
+      "userPreferred": "minute! Kaiju No. 8"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186300-py8AeW9MgfDS.jpg",
+      "color": "#0de4d6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1741942800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1742547600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1743152400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1743757200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1744362000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1744966800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1745571600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1746176400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1746781200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1747386000
+        }
+      ]
+    }
+  },
+  {
+    "id": 165159,
+    "idMal": 56566,
+    "title": {
+      "romaji": "BEYBLADE X",
+      "english": "BEYBLADE X",
+      "native": "BEYBLADE X",
+      "userPreferred": "BEYBLADE X"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "duration": 22,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 72,
+          "airingAt": 1741944300
+        },
+        {
+          "episode": 73,
+          "airingAt": 1742549100
+        },
+        {
+          "episode": 74,
+          "airingAt": 1743153900
+        },
+        {
+          "episode": 75,
+          "airingAt": 1743758700
+        },
+        {
+          "episode": 76,
+          "airingAt": 1744363500
+        },
+        {
+          "episode": 77,
+          "airingAt": 1744968300
+        },
+        {
+          "episode": 78,
+          "airingAt": 1745573100
+        },
+        {
+          "episode": 79,
+          "airingAt": 1746177900
+        },
+        {
+          "episode": 80,
+          "airingAt": 1746782700
+        },
+        {
+          "episode": 81,
+          "airingAt": 1747387500
+        },
+        {
+          "episode": 82,
+          "airingAt": 1747992300
+        },
+        {
+          "episode": 83,
+          "airingAt": 1748597100
+        },
+        {
+          "episode": 84,
+          "airingAt": 1749201900
+        },
+        {
+          "episode": 85,
+          "airingAt": 1749806700
+        },
+        {
+          "episode": 86,
+          "airingAt": 1750411500
+        },
+        {
+          "episode": 87,
+          "airingAt": 1751016300
+        },
+        {
+          "episode": 88,
+          "airingAt": 1751621100
+        },
+        {
+          "episode": 89,
+          "airingAt": 1752225900
+        },
+        {
+          "episode": 90,
+          "airingAt": 1752830700
+        },
+        {
+          "episode": 91,
+          "airingAt": 1753435500
+        },
+        {
+          "episode": 92,
+          "airingAt": 1754040300
+        },
+        {
+          "episode": 93,
+          "airingAt": 1754645100
+        },
+        {
+          "episode": 94,
+          "airingAt": 1755249900
+        },
+        {
+          "episode": 95,
+          "airingAt": 1755854700
+        },
+        {
+          "episode": 96,
+          "airingAt": 1756459500
+        }
+      ]
+    }
+  },
+  {
+    "id": 120325,
+    "idMal": 42295,
+    "title": {
+      "romaji": "Fushigi Dagashiya: Zenitendou",
+      "english": null,
+      "native": "ふしぎ駄菓子屋 銭天堂",
+      "userPreferred": "Fushigi Dagashiya: Zenitendou"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": 9,
+    "seasonYear": 2020,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120325-ubMgHRUT5dgJ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120325-ubMgHRUT5dgJ.png",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 148,
+          "airingAt": 1741945200
+        },
+        {
+          "episode": 149,
+          "airingAt": 1742550000
+        },
+        {
+          "episode": 150,
+          "airingAt": 1743154800
+        },
+        {
+          "episode": 151,
+          "airingAt": 1743759600
+        },
+        {
+          "episode": 152,
+          "airingAt": 1744364400
+        },
+        {
+          "episode": 153,
+          "airingAt": 1744969200
+        },
+        {
+          "episode": 154,
+          "airingAt": 1745574000
+        },
+        {
+          "episode": 155,
+          "airingAt": 1746178800
+        },
+        {
+          "episode": 156,
+          "airingAt": 1746783600
+        },
+        {
+          "episode": 157,
+          "airingAt": 1747388400
+        },
+        {
+          "episode": 158,
+          "airingAt": 1747993200
+        },
+        {
+          "episode": 159,
+          "airingAt": 1748598000
+        },
+        {
+          "episode": 160,
+          "airingAt": 1749202800
+        },
+        {
+          "episode": 161,
+          "airingAt": 1749807600
+        },
+        {
+          "episode": 162,
+          "airingAt": 1750412400
+        },
+        {
+          "episode": 163,
+          "airingAt": 1751017200
+        },
+        {
+          "episode": 164,
+          "airingAt": 1751622000
+        },
+        {
+          "episode": 165,
+          "airingAt": 1752226800
+        },
+        {
+          "episode": 166,
+          "airingAt": 1752831600
+        },
+        {
+          "episode": 167,
+          "airingAt": 1753436400
+        },
+        {
+          "episode": 168,
+          "airingAt": 1754041200
+        },
+        {
+          "episode": 169,
+          "airingAt": 1754646000
+        },
+        {
+          "episode": 170,
+          "airingAt": 1755250800
+        },
+        {
+          "episode": 171,
+          "airingAt": 1755855600
+        },
+        {
+          "episode": 172,
+          "airingAt": 1756460400
+        }
+      ]
+    }
+  },
+  {
+    "id": 158871,
+    "idMal": 53876,
+    "title": {
+      "romaji": "Pocket Monsters (2023)",
+      "english": "Pokémon Horizons: The Series",
+      "native": "ポケットモンスター (2023)",
+      "userPreferred": "Pokémon Horizons: The Series"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-FmWU8dacXDiA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-FmWU8dacXDiA.jpg",
+      "color": "#e4bb28"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 88,
+          "airingAt": 1741946100
+        },
+        {
+          "episode": 89,
+          "airingAt": 1742550900
+        },
+        {
+          "episode": 90,
+          "airingAt": 1743155700
+        },
+        {
+          "episode": 91,
+          "airingAt": 1743760500
+        },
+        {
+          "episode": 92,
+          "airingAt": 1744365300
+        },
+        {
+          "episode": 93,
+          "airingAt": 1744970100
+        },
+        {
+          "episode": 94,
+          "airingAt": 1745574900
+        },
+        {
+          "episode": 95,
+          "airingAt": 1746179700
+        },
+        {
+          "episode": 96,
+          "airingAt": 1746784500
+        },
+        {
+          "episode": 97,
+          "airingAt": 1747389300
+        },
+        {
+          "episode": 98,
+          "airingAt": 1747994100
+        },
+        {
+          "episode": 99,
+          "airingAt": 1748598900
+        },
+        {
+          "episode": 100,
+          "airingAt": 1749203700
+        },
+        {
+          "episode": 101,
+          "airingAt": 1749808500
+        },
+        {
+          "episode": 102,
+          "airingAt": 1750413300
+        },
+        {
+          "episode": 103,
+          "airingAt": 1751018100
+        },
+        {
+          "episode": 104,
+          "airingAt": 1751622900
+        },
+        {
+          "episode": 105,
+          "airingAt": 1752227700
+        },
+        {
+          "episode": 106,
+          "airingAt": 1752832500
+        },
+        {
+          "episode": 107,
+          "airingAt": 1753437300
+        },
+        {
+          "episode": 108,
+          "airingAt": 1754042100
+        },
+        {
+          "episode": 109,
+          "airingAt": 1754646900
+        },
+        {
+          "episode": 110,
+          "airingAt": 1755251700
+        },
+        {
+          "episode": 111,
+          "airingAt": 1755856500
+        },
+        {
+          "episode": 112,
+          "airingAt": 1756461300
+        }
+      ]
+    }
+  },
+  {
+    "id": 172439,
+    "idMal": 57648,
+    "title": {
+      "romaji": "Nihon e Youkoso Elf-san.",
+      "english": "Welcome to Japan, Ms. Elf!",
+      "native": "日本へようこそエルフさん。",
+      "userPreferred": "Welcome to Japan, Ms. Elf!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172439-sTda7baXB0Fh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172439-sTda7baXB0Fh.jpg",
+      "color": "#5dbbf1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172439-5XFq61KJyIPW.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1741957200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742562000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743166800
+        }
+      ]
+    }
+  },
+  {
+    "id": 178312,
+    "idMal": 59113,
+    "title": {
+      "romaji": "FARMAGIA",
+      "english": "Farmagia",
+      "native": "ファーマギア",
+      "userPreferred": "Farmagia"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178312-iGhE7xvvCReS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178312-iGhE7xvvCReS.jpg",
+      "color": "#35aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1741959000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742563800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743168600
+        }
+      ]
+    }
+  },
+  {
+    "id": 178495,
+    "idMal": 59136,
+    "title": {
+      "romaji": "Tasokare Hotel",
+      "english": "TASOKARE HOTEL",
+      "native": "誰ソ彼ホテル",
+      "userPreferred": "TASOKARE HOTEL"
+    },
+    "format": "ONA",
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178495-RJCGa2YRdKBU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178495-RJCGa2YRdKBU.jpg",
+      "color": "#e4865d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178495-8OoD7676bnFP.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1741959000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742563800
+        }
+      ]
+    }
+  },
+  {
+    "id": 176301,
+    "idMal": 58514,
+    "title": {
+      "romaji": "Kusuriya no Hitorigoto 2nd Season",
+      "english": "The Apothecary Diaries Season 2",
+      "native": "薬屋のひとりごと 第2期",
+      "userPreferred": "The Apothecary Diaries Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-AclxpmzlKoBM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176301-AclxpmzlKoBM.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176301-GkuTF1YTT6b2.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1741960800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742565600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743170400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1743775200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1744380000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1744984800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1745589600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1746194400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1746799200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1747404000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1748008800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1748613600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1749218400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1749823200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1750428000
+        }
+      ]
+    }
+  },
+  {
+    "id": 178462,
+    "idMal": 59135,
+    "title": {
+      "romaji": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
+      "english": "I'm Getting Married to a Girl I Hate in My Class",
+      "native": "クラスの大嫌いな女子と結婚することになった。",
+      "userPreferred": "I'm Getting Married to a Girl I Hate in My Class"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178462-YW6BgSGGP4az.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178462-YW6BgSGGP4az.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178462-a21TbjT9F90O.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1741962600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742567400
+        }
+      ]
+    }
+  },
+  {
+    "id": 167143,
+    "idMal": 55997,
+    "title": {
+      "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+      "english": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
+      "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
+      "userPreferred": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167143-SoFo5kOvlkbO.jpg",
+      "color": "#ffbb43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167143-YGnuSeaD90mT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1741964400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742569200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743174000
+        }
+      ]
+    }
+  },
+  {
+    "id": 175198,
+    "idMal": 58216,
+    "title": {
+      "romaji": "Übel Blatt",
+      "english": "Übel Blatt",
+      "native": "Übel Blatt～ユーベルブラット～",
+      "userPreferred": "Übel Blatt"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175198-AtWwEQPTjQ6N.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175198-AtWwEQPTjQ6N.jpg",
+      "color": "#1a6bd6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175198-xWH6PKjANEhw.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1741966200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1742571000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743175800
+        }
+      ]
+    }
+  },
+  {
+    "id": 174596,
+    "idMal": 58066,
+    "title": {
+      "romaji": "Sorairo Utility (TV)",
+      "english": "Sorairo Utility (TV)",
+      "native": "空色ユーティリティ (TV)",
+      "userPreferred": "Sorairo Utility (TV)"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life",
+      "Sports"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174596-GbgKrUtBBuIg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174596-GbgKrUtBBuIg.jpg",
+      "color": "#f1e40d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174596-SAOws7ULFCTo.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1741968000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742572800
+        }
+      ]
+    }
+  },
+  {
+    "id": 182877,
+    "idMal": 60094,
+    "title": {
+      "romaji": "Kankin Kuiki Level X 2nd Season",
+      "english": "Lockdown Zone: Level X Season 2",
+      "native": "監禁区域レベルX 続編",
+      "userPreferred": "Lockdown Zone: Level X Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "duration": 13,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182877-In2sD6eEJdvw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182877-In2sD6eEJdvw.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1741972980
+        },
+        {
+          "episode": 5,
+          "airingAt": 1742577780
+        },
+        {
+          "episode": 6,
+          "airingAt": 1743182580
+        }
+      ]
+    }
+  },
+  {
+    "id": 173263,
+    "idMal": 57796,
+    "title": {
+      "romaji": "Touhai: Ura Rate Mahjong Touhai Roku",
+      "english": null,
+      "native": "凍牌～裏レート麻雀闘牌録～",
+      "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173263-c3geIX7XVEcH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173263-c3geIX7XVEcH.jpg",
+      "color": "#50a1c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 22,
+          "airingAt": 1741972980
+        },
+        {
+          "episode": 23,
+          "airingAt": 1742577780
+        },
+        {
+          "episode": 24,
+          "airingAt": 1743182580
+        },
+        {
+          "episode": 25,
+          "airingAt": 1743787380
         }
       ]
     }
