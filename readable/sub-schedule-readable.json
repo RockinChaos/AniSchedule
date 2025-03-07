@@ -1,260 +1,5 @@
 [
   {
-    "id": 8336,
-    "idMal": 8336,
-    "title": {
-      "romaji": "Hanakappa",
-      "english": null,
-      "native": "はなかっぱ",
-      "userPreferred": "Hanakappa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 10,
-    "seasonYear": 2010,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8336-BJzIHFC49RWb.jpg",
-      "color": "#f1ae43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 594,
-          "airingAt": 1741299000
-        },
-        {
-          "episode": 595,
-          "airingAt": 1741903800
-        },
-        {
-          "episode": 596,
-          "airingAt": 1742508600
-        },
-        {
-          "episode": 597,
-          "airingAt": 1743113400
-        },
-        {
-          "episode": 598,
-          "airingAt": 1743718200
-        },
-        {
-          "episode": 599,
-          "airingAt": 1744323000
-        },
-        {
-          "episode": 600,
-          "airingAt": 1744927800
-        },
-        {
-          "episode": 601,
-          "airingAt": 1745532600
-        },
-        {
-          "episode": 602,
-          "airingAt": 1746137400
-        },
-        {
-          "episode": 603,
-          "airingAt": 1746742200
-        },
-        {
-          "episode": 604,
-          "airingAt": 1747347000
-        },
-        {
-          "episode": 605,
-          "airingAt": 1747951800
-        },
-        {
-          "episode": 606,
-          "airingAt": 1748556600
-        },
-        {
-          "episode": 607,
-          "airingAt": 1749161400
-        },
-        {
-          "episode": 608,
-          "airingAt": 1749766200
-        },
-        {
-          "episode": 609,
-          "airingAt": 1750371000
-        },
-        {
-          "episode": 610,
-          "airingAt": 1750975800
-        },
-        {
-          "episode": 611,
-          "airingAt": 1751580600
-        },
-        {
-          "episode": 612,
-          "airingAt": 1752185400
-        },
-        {
-          "episode": 613,
-          "airingAt": 1752790200
-        },
-        {
-          "episode": 614,
-          "airingAt": 1753395000
-        },
-        {
-          "episode": 615,
-          "airingAt": 1753999800
-        },
-        {
-          "episode": 616,
-          "airingAt": 1754604600
-        },
-        {
-          "episode": 617,
-          "airingAt": 1755209400
-        },
-        {
-          "episode": 618,
-          "airingAt": 1755814200
-        }
-      ]
-    }
-  },
-  {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 250,
-          "airingAt": 1741300800
-        },
-        {
-          "episode": 251,
-          "airingAt": 1741646400
-        },
-        {
-          "episode": 252,
-          "airingAt": 1741905600
-        },
-        {
-          "episode": 253,
-          "airingAt": 1742251200
-        },
-        {
-          "episode": 254,
-          "airingAt": 1742510400
-        },
-        {
-          "episode": 255,
-          "airingAt": 1742856000
-        },
-        {
-          "episode": 256,
-          "airingAt": 1743115200
-        },
-        {
-          "episode": 257,
-          "airingAt": 1743460800
-        },
-        {
-          "episode": 258,
-          "airingAt": 1743720000
-        },
-        {
-          "episode": 259,
-          "airingAt": 1744065600
-        },
-        {
-          "episode": 260,
-          "airingAt": 1744324800
-        },
-        {
-          "episode": 261,
-          "airingAt": 1744670400
-        },
-        {
-          "episode": 262,
-          "airingAt": 1744929600
-        },
-        {
-          "episode": 263,
-          "airingAt": 1745275200
-        },
-        {
-          "episode": 264,
-          "airingAt": 1745534400
-        },
-        {
-          "episode": 265,
-          "airingAt": 1745880000
-        },
-        {
-          "episode": 266,
-          "airingAt": 1746139200
-        },
-        {
-          "episode": 267,
-          "airingAt": 1746484800
-        },
-        {
-          "episode": 268,
-          "airingAt": 1746744000
-        },
-        {
-          "episode": 269,
-          "airingAt": 1747089600
-        },
-        {
-          "episode": 270,
-          "airingAt": 1747348800
-        },
-        {
-          "episode": 271,
-          "airingAt": 1747694400
-        },
-        {
-          "episode": 272,
-          "airingAt": 1747953600
-        },
-        {
-          "episode": 273,
-          "airingAt": 1748299200
-        },
-        {
-          "episode": 274,
-          "airingAt": 1748558400
-        }
-      ]
-    }
-  },
-  {
     "id": 1960,
     "idMal": 1960,
     "title": {
@@ -4378,6 +4123,134 @@
     }
   },
   {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 251,
+          "airingAt": 1741646400
+        },
+        {
+          "episode": 252,
+          "airingAt": 1741905600
+        },
+        {
+          "episode": 253,
+          "airingAt": 1742251200
+        },
+        {
+          "episode": 254,
+          "airingAt": 1742510400
+        },
+        {
+          "episode": 255,
+          "airingAt": 1742856000
+        },
+        {
+          "episode": 256,
+          "airingAt": 1743115200
+        },
+        {
+          "episode": 257,
+          "airingAt": 1743460800
+        },
+        {
+          "episode": 258,
+          "airingAt": 1743720000
+        },
+        {
+          "episode": 259,
+          "airingAt": 1744065600
+        },
+        {
+          "episode": 260,
+          "airingAt": 1744324800
+        },
+        {
+          "episode": 261,
+          "airingAt": 1744670400
+        },
+        {
+          "episode": 262,
+          "airingAt": 1744929600
+        },
+        {
+          "episode": 263,
+          "airingAt": 1745275200
+        },
+        {
+          "episode": 264,
+          "airingAt": 1745534400
+        },
+        {
+          "episode": 265,
+          "airingAt": 1745880000
+        },
+        {
+          "episode": 266,
+          "airingAt": 1746139200
+        },
+        {
+          "episode": 267,
+          "airingAt": 1746484800
+        },
+        {
+          "episode": 268,
+          "airingAt": 1746744000
+        },
+        {
+          "episode": 269,
+          "airingAt": 1747089600
+        },
+        {
+          "episode": 270,
+          "airingAt": 1747348800
+        },
+        {
+          "episode": 271,
+          "airingAt": 1747694400
+        },
+        {
+          "episode": 272,
+          "airingAt": 1747953600
+        },
+        {
+          "episode": 273,
+          "airingAt": 1748299200
+        },
+        {
+          "episode": 274,
+          "airingAt": 1748558400
+        },
+        {
+          "episode": 275,
+          "airingAt": 1748904000
+        }
+      ]
+    }
+  },
+  {
     "id": 185794,
     "idMal": 59915,
     "title": {
@@ -5187,46 +5060,6 @@
         {
           "episode": 12,
           "airingAt": 1742997600
-        }
-      ]
-    }
-  },
-  {
-    "id": 176642,
-    "idMal": 58600,
-    "title": {
-      "romaji": "Ameku Takao no Suiri Karte",
-      "english": "Ameku M.D.: Doctor Detective",
-      "native": "天久鷹央の推理カルテ",
-      "userPreferred": "Ameku M.D.: Doctor Detective"
-    },
-    "format": "TV",
-    "genres": [
-      "Mystery",
-      "Slice of Life"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
-      "color": "#5daef1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741791600
-        },
-        {
-          "episode": 11,
-          "airingAt": 1742396400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743001200
         }
       ]
     }
@@ -6073,6 +5906,133 @@
     }
   },
   {
+    "id": 8336,
+    "idMal": 8336,
+    "title": {
+      "romaji": "Hanakappa",
+      "english": null,
+      "native": "はなかっぱ",
+      "userPreferred": "Hanakappa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 10,
+    "seasonYear": 2010,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b8336-BJzIHFC49RWb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b8336-BJzIHFC49RWb.jpg",
+      "color": "#f1ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 595,
+          "airingAt": 1741903800
+        },
+        {
+          "episode": 596,
+          "airingAt": 1742508600
+        },
+        {
+          "episode": 597,
+          "airingAt": 1743113400
+        },
+        {
+          "episode": 598,
+          "airingAt": 1743718200
+        },
+        {
+          "episode": 599,
+          "airingAt": 1744323000
+        },
+        {
+          "episode": 600,
+          "airingAt": 1744927800
+        },
+        {
+          "episode": 601,
+          "airingAt": 1745532600
+        },
+        {
+          "episode": 602,
+          "airingAt": 1746137400
+        },
+        {
+          "episode": 603,
+          "airingAt": 1746742200
+        },
+        {
+          "episode": 604,
+          "airingAt": 1747347000
+        },
+        {
+          "episode": 605,
+          "airingAt": 1747951800
+        },
+        {
+          "episode": 606,
+          "airingAt": 1748556600
+        },
+        {
+          "episode": 607,
+          "airingAt": 1749161400
+        },
+        {
+          "episode": 608,
+          "airingAt": 1749766200
+        },
+        {
+          "episode": 609,
+          "airingAt": 1750371000
+        },
+        {
+          "episode": 610,
+          "airingAt": 1750975800
+        },
+        {
+          "episode": 611,
+          "airingAt": 1751580600
+        },
+        {
+          "episode": 612,
+          "airingAt": 1752185400
+        },
+        {
+          "episode": 613,
+          "airingAt": 1752790200
+        },
+        {
+          "episode": 614,
+          "airingAt": 1753395000
+        },
+        {
+          "episode": 615,
+          "airingAt": 1753999800
+        },
+        {
+          "episode": 616,
+          "airingAt": 1754604600
+        },
+        {
+          "episode": 617,
+          "airingAt": 1755209400
+        },
+        {
+          "episode": 618,
+          "airingAt": 1755814200
+        },
+        {
+          "episode": 619,
+          "airingAt": 1756419000
+        }
+      ]
+    }
+  },
+  {
     "id": 159560,
     "idMal": 54040,
     "title": {
@@ -6241,6 +6201,46 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 176642,
+    "idMal": 58600,
+    "title": {
+      "romaji": "Ameku Takao no Suiri Karte",
+      "english": "Ameku M.D.: Doctor Detective",
+      "native": "天久鷹央の推理カルテ",
+      "userPreferred": "Ameku M.D.: Doctor Detective"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Slice of Life"
+    ],
+    "duration": 25,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176642-lgDtPlodCMRm.jpg",
+      "color": "#5daef1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1742396400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1743001200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743606000
+        }
+      ]
+    }
   },
   {
     "id": 183743,
