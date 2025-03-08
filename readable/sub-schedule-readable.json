@@ -1,222 +1,5 @@
 [
   {
-    "id": 186752,
-    "idMal": 60677,
-    "title": {
-      "romaji": "Minimini minini",
-      "english": null,
-      "native": "ミニミニ minini ",
-      "userPreferred": "Minimini minini"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186752-UxPh2YSqf7rO.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186752-UxPh2YSqf7rO.png",
-      "color": "#d6c91a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741384800
-        },
-        {
-          "episode": 11,
-          "airingAt": 1741989600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1742594400
-        }
-      ]
-    }
-  },
-  {
-    "id": 142274,
-    "idMal": 50418,
-    "title": {
-      "romaji": "Ninjala",
-      "english": "Ninjala the Animation",
-      "native": "ニンジャラ",
-      "userPreferred": "Ninjala the Animation"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": 23,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142274-qPfkeKk4caKI.png",
-      "color": "#f1bb43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 157,
-          "airingAt": 1741386600
-        },
-        {
-          "episode": 158,
-          "airingAt": 1741991400
-        },
-        {
-          "episode": 159,
-          "airingAt": 1742596200
-        },
-        {
-          "episode": 160,
-          "airingAt": 1743201000
-        },
-        {
-          "episode": 161,
-          "airingAt": 1743805800
-        },
-        {
-          "episode": 162,
-          "airingAt": 1744410600
-        },
-        {
-          "episode": 163,
-          "airingAt": 1745015400
-        },
-        {
-          "episode": 164,
-          "airingAt": 1745620200
-        },
-        {
-          "episode": 165,
-          "airingAt": 1746225000
-        },
-        {
-          "episode": 166,
-          "airingAt": 1746829800
-        },
-        {
-          "episode": 167,
-          "airingAt": 1747434600
-        },
-        {
-          "episode": 168,
-          "airingAt": 1748039400
-        },
-        {
-          "episode": 169,
-          "airingAt": 1748644200
-        },
-        {
-          "episode": 170,
-          "airingAt": 1749249000
-        },
-        {
-          "episode": 171,
-          "airingAt": 1749853800
-        },
-        {
-          "episode": 172,
-          "airingAt": 1750458600
-        },
-        {
-          "episode": 173,
-          "airingAt": 1751063400
-        },
-        {
-          "episode": 174,
-          "airingAt": 1751668200
-        },
-        {
-          "episode": 175,
-          "airingAt": 1752273000
-        },
-        {
-          "episode": 176,
-          "airingAt": 1752877800
-        },
-        {
-          "episode": 177,
-          "airingAt": 1753482600
-        },
-        {
-          "episode": 178,
-          "airingAt": 1754087400
-        },
-        {
-          "episode": 179,
-          "airingAt": 1754692200
-        },
-        {
-          "episode": 180,
-          "airingAt": 1755297000
-        },
-        {
-          "episode": 181,
-          "airingAt": 1755901800
-        }
-      ]
-    }
-  },
-  {
-    "id": 182920,
-    "idMal": 54144,
-    "title": {
-      "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
-      "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc",
-      "native": "ヴァンガード Divinez デラックス編",
-      "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-kGMtP4dBBJBO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-kGMtP4dBBJBO.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1741388400
-        },
-        {
-          "episode": 9,
-          "airingAt": 1741993200
-        },
-        {
-          "episode": 10,
-          "airingAt": 1742598000
-        },
-        {
-          "episode": 11,
-          "airingAt": 1743202800
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743807600
-        }
-      ]
-    }
-  },
-  {
     "id": 183473,
     "idMal": 60080,
     "title": {
@@ -5984,6 +5767,215 @@
         {
           "episode": 25,
           "airingAt": 1743787380
+        }
+      ]
+    }
+  },
+  {
+    "id": 186752,
+    "idMal": 60677,
+    "title": {
+      "romaji": "Minimini minini",
+      "english": null,
+      "native": "ミニミニ minini ",
+      "userPreferred": "Minimini minini"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 4,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186752-UxPh2YSqf7rO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186752-UxPh2YSqf7rO.png",
+      "color": "#d6c91a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1741989600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1742594400
+        }
+      ]
+    }
+  },
+  {
+    "id": 142274,
+    "idMal": 50418,
+    "title": {
+      "romaji": "Ninjala",
+      "english": "Ninjala the Animation",
+      "native": "ニンジャラ",
+      "userPreferred": "Ninjala the Animation"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": 23,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142274-qPfkeKk4caKI.png",
+      "color": "#f1bb43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 158,
+          "airingAt": 1741991400
+        },
+        {
+          "episode": 159,
+          "airingAt": 1742596200
+        },
+        {
+          "episode": 160,
+          "airingAt": 1743201000
+        },
+        {
+          "episode": 161,
+          "airingAt": 1743805800
+        },
+        {
+          "episode": 162,
+          "airingAt": 1744410600
+        },
+        {
+          "episode": 163,
+          "airingAt": 1745015400
+        },
+        {
+          "episode": 164,
+          "airingAt": 1745620200
+        },
+        {
+          "episode": 165,
+          "airingAt": 1746225000
+        },
+        {
+          "episode": 166,
+          "airingAt": 1746829800
+        },
+        {
+          "episode": 167,
+          "airingAt": 1747434600
+        },
+        {
+          "episode": 168,
+          "airingAt": 1748039400
+        },
+        {
+          "episode": 169,
+          "airingAt": 1748644200
+        },
+        {
+          "episode": 170,
+          "airingAt": 1749249000
+        },
+        {
+          "episode": 171,
+          "airingAt": 1749853800
+        },
+        {
+          "episode": 172,
+          "airingAt": 1750458600
+        },
+        {
+          "episode": 173,
+          "airingAt": 1751063400
+        },
+        {
+          "episode": 174,
+          "airingAt": 1751668200
+        },
+        {
+          "episode": 175,
+          "airingAt": 1752273000
+        },
+        {
+          "episode": 176,
+          "airingAt": 1752877800
+        },
+        {
+          "episode": 177,
+          "airingAt": 1753482600
+        },
+        {
+          "episode": 178,
+          "airingAt": 1754087400
+        },
+        {
+          "episode": 179,
+          "airingAt": 1754692200
+        },
+        {
+          "episode": 180,
+          "airingAt": 1755297000
+        },
+        {
+          "episode": 181,
+          "airingAt": 1755901800
+        },
+        {
+          "episode": 182,
+          "airingAt": 1756506600
+        }
+      ]
+    }
+  },
+  {
+    "id": 182920,
+    "idMal": 54144,
+    "title": {
+      "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
+      "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc",
+      "native": "ヴァンガード Divinez デラックス編",
+      "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-kGMtP4dBBJBO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-kGMtP4dBBJBO.jpg",
+      "color": "#f1d6bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 9,
+          "airingAt": 1741993200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1742598000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1743202800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743807600
         }
       ]
     }
