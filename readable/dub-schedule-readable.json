@@ -2864,7 +2864,7 @@
     "streams": {
       "apple": "apple.co/3X4CN31"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2898,8 +2898,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-03-08T12:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-03-15T12:00:00Z"
             }
           ]
         }
