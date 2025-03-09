@@ -50,8 +50,6 @@ jobs:
           git add './raw/dub-schedule.json' './readable/dub-schedule-readable.json'
         fi
         
-        git pull --rebase
-        
         title="(Dub) Updated Airing Schedule"
         if [ -f changes.txt ] && [ -s changes.txt ]; then
         git commit -m "$title" -m "$(cat changes.txt)" || exit 0
@@ -59,4 +57,5 @@ jobs:
         git commit -m "$title" || exit 0
         fi
         
+        git pull --rebase
         git push

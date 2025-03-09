@@ -49,8 +49,6 @@ jobs:
           git add './raw/sub-schedule.json' './readable/sub-schedule-readable.json'
         fi
         
-        git pull --rebase
-        
         title="(Sub) Updated Airing Schedule"
         if [ -f changes.txt ] && [ -s changes.txt ]; then
         git commit -m "$title" -m "$(cat changes.txt)" || exit 0
@@ -58,4 +56,5 @@ jobs:
         git commit -m "$title" || exit 0
         fi
         
+        git pull --rebase
         git push
