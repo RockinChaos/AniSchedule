@@ -2014,12 +2014,12 @@
     "title": "One Piece",
     "route": "one-piece",
     "native": "ワンピース",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
     "status": "Delayed",
-    "episodeDate": "2025-03-18T08:00:00Z",
+    "episodeDate": "2025-03-18T20:00:00Z",
     "episodeNumber": 1122,
-    "subtractedEpisodeNumber": 1110,
+    "subtractedEpisodeNumber": 1109,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
@@ -2073,56 +2073,60 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1109,
+              "airingAt": "2025-03-18T20:00:00Z"
+            },
+            {
               "episode": 1110,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1111,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1112,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1113,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1114,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1115,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1116,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1117,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1118,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1119,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1120,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1121,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             },
             {
               "episode": 1122,
-              "airingAt": "2025-03-18T08:00:00Z"
+              "airingAt": "2025-03-18T20:00:00Z"
             }
           ]
         }
