@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -433,6 +433,7 @@ export async function updateDubFeed() {
         })
     })
 
+    const { dstStart, dstEnd } = getDSTStartEndDates()
     // Filter out incorrect episodes and correct dates if necessary
     schedule.forEach(entry => {
         const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media?.media?.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
@@ -444,19 +445,32 @@ export async function updateDubFeed() {
             let correctedDate = -1
             let usePredict = false
             let zeroIndexDate
-            mediaEpisodes.forEach((episode, index) => {
-                const prevDate = episode.episode.airedAt
-                const predictDate = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate), true))
-                if (index !== 0) correctedDate = correctedDate - weeksDifference(prevDate, originalAiredAt[index - 1]) + (usePredict && index === 1 ? 1 : 0)
-                else {
-                    zeroIndexDate = episode.episode.aired === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber))  ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
-                    usePredict = past(new Date(predictDate), 0, true) === past(new Date(zeroIndexDate), 0, true)
+            if (!isDSTTransitionMonth() || (entry.episodeNumber < 3)) {
+                mediaEpisodes.forEach((episode, index) => {
+                    const prevDate = episode.episode.airedAt
+                    const predictDate = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate), true))
+                    if (index !== 0) correctedDate = correctedDate - weeksDifference(prevDate, originalAiredAt[index - 1]) + (usePredict && index === 1 ? 1 : 0)
+                    else {
+                        zeroIndexDate = episode.episode.aired === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber)) ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
+                        usePredict = past(new Date(predictDate), 0, true) === past(new Date(zeroIndexDate), 0, true)
+                    }
+                    episode.episode.airedAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
+                    changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt}`)
+                    console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
+                    modifiedEpisodes.push(episode)
+                })
+            } else { // dst is active, and likely it was recent... only adjust the latest episode SINCE DST was active.
+                const latestEpisode = mediaEpisodes[0]
+                if (latestEpisode) {
+                    const prevDate = latestEpisode.episode.airedAt
+                    if ((dstStart && (prevDate >= dstStart)) || (dstEnd && (prevDate >= dstEnd))) {
+                        latestEpisode.episode.airedAt = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate), true))
+                        changes.push(`(Dub) Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${latestEpisode.episode.airedAt}`)
+                        console.log(`Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${latestEpisode.episode.airedAt}`)
+                        modifiedEpisodes.push(latestEpisode)
+                    }
                 }
-                episode.episode.airedAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
-                changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt}`)
-                console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
-                modifiedEpisodes.push(episode)
-            })
+            }
         }
     })
 

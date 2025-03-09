@@ -102,12 +102,84 @@ export function calculateWeeksToFetch() {
 }
 
 /**
+ * Determines if the current month is a Daylight Saving Time (DST) transition month.
+ *
+ * This function checks whether the current month is:
+ * - The month when DST **started** (e.g., March in the U.S.).
+ * - The month when DST **ended** (e.g., November in the U.S.).
+ *
+ * @returns {boolean} `true` if the current month is the start or end month of DST, otherwise `false`.
+ */
+export function isDSTTransitionMonth() {
+    const now = new Date()
+    const year = now.getFullYear()
+    const standardOffset = Math.max(new Date(year, 0, 1).getTimezoneOffset(), new Date(year, 6, 1).getTimezoneOffset())
+    let dstStartMonth = null
+    let dstEndMonth = null
+    let lastOffset = standardOffset
+    for (let month = 0; month < 12; month++) {
+        for (let day = 1; day <= 31; day++) {
+            const testDate = new Date(year, month, day)
+            if (testDate.getMonth() !== month) break
+            const testOffset = testDate.getTimezoneOffset()
+            if (dstStartMonth === null && testOffset < standardOffset) dstStartMonth = month
+            if (dstStartMonth !== null && dstEndMonth === null && testOffset === standardOffset) dstEndMonth = month
+            lastOffset = testOffset
+        }
+    }
+    return now.getMonth() === dstStartMonth || now.getMonth() === dstEndMonth
+}
+
+/**
+ * Determines the start and end dates of Daylight Saving Time (DST) for the current year.
+ *
+ * DST starts on the second Sunday of March at 2:00 AM (when clocks move forward by 1 hour).
+ * DST ends on the first Sunday of November at 2:00 AM (when clocks move back by 1 hour).
+ *
+ * @returns {{ dstStart: Date | null, dstEnd: Date | null }} An object containing:
+ *   - `dstStart`: The exact Date object representing when DST starts, or `null` if not found.
+ *   - `dstEnd`: The exact Date object representing when DST ends, or `null` if not found.
+ */
+export function getDSTStartEndDates() {
+    const year = new Date().getFullYear()
+    let dstStart = null
+    let dstEnd = null
+    const janOffset = new Date(year, 0, 1).getTimezoneOffset()
+    const julOffset = new Date(year, 6, 1).getTimezoneOffset()
+    const standardOffset = Math.max(janOffset, julOffset)
+    for (let month = 2; month < 3; month++) { // March
+        for (let day = 1; day <= 31; day++) {
+            const testDate = new Date(year, month, day, 2, 0, 0)
+            if (testDate.getMonth() !== month) break
+            if (testDate.getTimezoneOffset() < standardOffset) {
+                dstStart = testDate
+                break
+            }
+        }
+        if (dstStart) break
+    }
+    for (let month = 10; month < 11; month++) { // November
+        for (let day = 1; day <= 7; day++) {
+            const testDate = new Date(year, month, day, 2, 0, 0)
+            if (testDate.getMonth() !== month) break
+            if (testDate.getDay() === 0 && testDate.getTimezoneOffset() > standardOffset) {
+                dstEnd = testDate
+                break
+            }
+        }
+        if (dstEnd) break
+    }
+    return { dstStart, dstEnd }
+}
+
+/**
  * @param {Date} date The date to be compared to today
  * @returns {number} The number of days difference between the specified date and today.
  */
 export function daysAgo(date) {
     return Math.floor((new Date() - date) / (1000 * 60 * 60 * 24));
 }
+
 /**
  * Monday - 1
  * Tuesday - 2
