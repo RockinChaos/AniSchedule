@@ -42,14 +42,21 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add './*.json'
+        
+        if [ -f changes.txt ] && [ -s changes.txt ]; then
+          echo "Changes were made to the episode feed(s) in this run... attempting to commit these new changes."
+          git add './raw/dub-schedule.json' './readable/dub-schedule-readable.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json'
+        else
+          git add './raw/dub-schedule.json' './readable/dub-schedule-readable.json'
+        fi
+        
+        git pull --rebase
         
         title="(Dub) Updated Airing Schedule"
-        if [ -f changes.txt ]; then
+        if [ -f changes.txt ] && [ -s changes.txt ]; then
         git commit -m "$title" -m "$(cat changes.txt)" || exit 0
         else
         git commit -m "$title" || exit 0
         fi
         
-        git pull --rebase
         git push
