@@ -2011,6 +2011,128 @@
     "addedAt": "2025-03-18T07:00:00Z"
   },
   {
+    "title": "One Piece",
+    "route": "one-piece",
+    "native": "ワンピース",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "status": "Delayed",
+    "episodeDate": "2025-03-18T08:00:00Z",
+    "episodeNumber": 1122,
+    "subtractedEpisodeNumber": 1110,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/one-piece-f2f2a983a8.jpg",
+    "streams": {
+      "crunchyroll": "www.crunchyroll.com/one-piece",
+      "funimation": "www.funimation.com/shows/one-piece/",
+      "hulu": "www.hulu.com/series/one-piece-c7a08df6-d0d5-4dd3-afff-d1f90133cd4e",
+      "netflix": "www.netflix.com/title/80107103",
+      "apple": "apple.co/3Qfhg3W"
+    },
+    "airingStatus": "unaired",
+    "unaired": false,
+    "media": {
+      "parseObject": {
+        "anime_title": "one-piece",
+        "file_name": "one-piece"
+      },
+      "media": {
+        "id": 21,
+        "idMal": 21,
+        "title": {
+          "romaji": "ONE PIECE",
+          "english": "ONE PIECE",
+          "native": "ONE PIECE",
+          "userPreferred": "ONE PIECE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1999,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-YCDoj1EkAxFn.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1110,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1111,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1112,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1113,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1114,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1115,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1116,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1117,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1118,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1119,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1120,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1121,
+              "airingAt": "2025-03-18T08:00:00Z"
+            },
+            {
+              "episode": 1122,
+              "airingAt": "2025-03-18T08:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-03-09T03:12:25Z"
+  },
+  {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
     "route": "re-zero-kara-hajimeru-isekai-seikatsu-3",
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
