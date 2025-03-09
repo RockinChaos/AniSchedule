@@ -463,8 +463,8 @@ export async function updateDubFeed() {
                 const latestEpisode = mediaEpisodes[0]
                 if (latestEpisode) {
                     const prevDate = latestEpisode.episode.airedAt
-                    if ((dstStart && (prevDate >= dstStart)) || (dstEnd && (prevDate >= dstEnd))) {
-                        latestEpisode.episode.airedAt = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate), true))
+                    if ((dstStart && (new Date(prevDate) >= dstStart)) || (dstEnd && (new Date(prevDate) >= dstEnd))) {
+                        latestEpisode.episode.airedAt = fixTime(new Date(prevDate), new Date(entry.episodeDate), true)
                         changes.push(`(Dub) Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${latestEpisode.episode.airedAt}`)
                         console.log(`Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${latestEpisode.episode.airedAt}`)
                         modifiedEpisodes.push(latestEpisode)
