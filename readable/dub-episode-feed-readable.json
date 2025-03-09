@@ -6,7 +6,7 @@
     "duration": 24,
     "episode": {
       "aired": 7,
-      "airedAt": "2025-03-09T22:00:00Z",
+      "airedAt": "2025-03-09T21:00:00Z",
       "addedAt": "2025-03-09T22:00:26Z"
     }
   },
@@ -17,19 +17,8 @@
     "duration": 24,
     "episode": {
       "aired": 6,
-      "airedAt": "2025-03-09T21:00:00Z",
-      "addedAt": "2025-03-09T21:00:25Z"
-    }
-  },
-  {
-    "id": 176508,
-    "idMal": 58572,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 20,
       "airedAt": "2025-03-09T20:00:00Z",
-      "addedAt": "2025-03-09T20:00:16Z"
+      "addedAt": "2025-03-09T21:00:25Z"
     }
   },
   {
@@ -55,13 +44,24 @@
     }
   },
   {
+    "id": 176508,
+    "idMal": 58572,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 20,
+      "airedAt": "2025-03-09T19:00:00Z",
+      "addedAt": "2025-03-09T20:00:16Z"
+    }
+  },
+  {
     "id": 176273,
     "idMal": 58502,
     "format": "TV",
     "duration": 24,
     "episode": {
       "aired": 10,
-      "airedAt": "2025-03-09T17:15:00Z",
+      "airedAt": "2025-03-09T16:15:00Z",
       "addedAt": "2025-03-09T17:15:07Z"
     }
   },
