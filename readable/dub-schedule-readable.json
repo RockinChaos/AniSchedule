@@ -7,7 +7,7 @@
     "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "status": "Ongoing",
+    "status": "Delayed",
     "episodeDate": "2025-03-08T21:30:00Z",
     "episodeNumber": 7,
     "episodes": 24,
@@ -1070,7 +1070,7 @@
       "hidive": "www.hidive.com/season/26756",
       "apple": "apple.co/3WTLWLW"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1341,6 +1341,72 @@
     },
     "verified": true,
     "addedAt": "2025-01-26T23:00:00Z"
+  },
+  {
+    "title": "Kimi no Iro",
+    "route": "kimi-no-iro",
+    "romaji": "Kimi no Iro",
+    "english": "The Colors Within",
+    "native": "きみの色",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-04-01T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 100,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/kimi-no-iro-a0ac4419c5.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "Kimi no Iro",
+        "file_name": "Kimi no Iro"
+      },
+      "media": {
+        "id": 158166,
+        "idMal": 53747,
+        "title": {
+          "romaji": "Kimi no Iro",
+          "english": "The Colors Within",
+          "native": "きみの色",
+          "userPreferred": "The Colors Within"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Music"
+        ],
+        "duration": 100,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158166-TZxLtPvXEVUQ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158166-TZxLtPvXEVUQ.jpg",
+          "color": "#e4d65d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158166-uieFhPp1ECVO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-01T07:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-04-01T07:00:00Z"
   },
   {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 2",
@@ -1700,6 +1766,70 @@
     },
     "verified": true,
     "addedAt": "2025-01-24T22:00:00Z"
+  },
+  {
+    "title": "Lazarus",
+    "route": "lazarus",
+    "native": "ラザロ",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "status": "Upcoming",
+    "episodeDate": "2025-04-05T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/lazarus-9e66a50c07.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "lazarus",
+        "file_name": "lazarus"
+      },
+      "media": {
+        "id": 167336,
+        "idMal": 56038,
+        "title": {
+          "romaji": "Lazarus",
+          "english": null,
+          "native": "ラザロ",
+          "userPreferred": "Lazarus"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-hMpEKtKTemuJ.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167336-hMpEKtKTemuJ.png",
+          "color": "#e4ae5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167336-IzjrGm2QpTie.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-05T07:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-04-05T07:00:00Z"
   },
   {
     "title": "Magic Maker: Isekai Mahou no Tsukurikata",
@@ -2719,6 +2849,173 @@
     "addedAt": "2025-01-18T21:00:00Z"
   },
   {
+    "title": "The Fable",
+    "route": "the-fable",
+    "native": "ザ・ファブル",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-03-31T07:00:00Z",
+    "episodeNumber": 25,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 25,
+    "lengthMin": 23,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/the-fable-e9f37144ba.jpg",
+    "streams": {
+      "hulu": "www.hulu.com/series/the-fable-36c2be07-2f2e-400f-9da5-aed0b5d401cb"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "the-fable",
+        "file_name": "the-fable"
+      },
+      "media": {
+        "id": 166910,
+        "idMal": 55911,
+        "title": {
+          "romaji": "The Fable",
+          "english": null,
+          "native": "ザ・ファブル",
+          "userPreferred": "The Fable"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Thriller"
+        ],
+        "duration": 23,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166910-pdgLmHMLdzUR.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166910-pdgLmHMLdzUR.jpg",
+          "color": "#f1bb43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166910-hmc3ZVLcnv9x.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 20,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 21,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 23,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 24,
+              "airingAt": "2025-03-31T07:00:00Z"
+            },
+            {
+              "episode": 25,
+              "airingAt": "2025-03-31T07:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-03-31T07:00:00Z"
+  },
+  {
     "title": "Tokyo Revengers: Tenjiku-hen",
     "route": "tokyo-revengers-tenjiku-hen",
     "romaji": "Tokyo Revengers: Tenjiku-hen",
@@ -2977,6 +3274,69 @@
     },
     "verified": true,
     "addedAt": "2025-01-06T20:12:38Z"
+  },
+  {
+    "title": "WIND BREAKER Season 2",
+    "route": "wind-breaker-season-2",
+    "delayedFrom": "0001-01-01T14:25:00Z",
+    "delayedUntil": "0001-01-01T14:25:00Z",
+    "status": "Upcoming",
+    "episodeDate": "2025-04-03T14:25:00Z",
+    "episodeNumber": 1,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/wind-breaker-season-2-1861e3e24e.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "wind-breaker- S2",
+        "file_name": "wind-breaker- S2"
+      },
+      "media": {
+        "id": 178680,
+        "idMal": 59160,
+        "title": {
+          "romaji": "WIND BREAKER Season 2",
+          "english": "WIND BREAKER Season 2",
+          "native": "WIND BREAKER Season 2",
+          "userPreferred": "WIND BREAKER Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-wxK48CkZn9yT.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178680-wxK48CkZn9yT.jpg",
+          "color": "#e4c9ae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-03T14:25:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-04-03T14:25:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
