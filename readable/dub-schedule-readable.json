@@ -158,7 +158,7 @@
     "romaji": "Ameku Takao no Suiri Karte",
     "english": "Ameku M.D.: Doctor Detective",
     "native": "天久鷹央の推理カルテ",
-    "delayedText": "Episode on March 12th will be a special, therefore no new episode until the 19th.",
+    "delayedText": "Delayed (Special)",
     "delayedFrom": "2025-03-09T21:30:00Z",
     "delayedUntil": "2025-03-19T21:30:00Z",
     "status": "Delayed",
@@ -3274,69 +3274,6 @@
     },
     "verified": true,
     "addedAt": "2025-01-06T20:12:38Z"
-  },
-  {
-    "title": "WIND BREAKER Season 2",
-    "route": "wind-breaker-season-2",
-    "delayedFrom": "0001-01-01T14:25:00Z",
-    "delayedUntil": "0001-01-01T14:25:00Z",
-    "status": "Upcoming",
-    "episodeDate": "2025-04-03T14:25:00Z",
-    "episodeNumber": 1,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "imageVersionRoute": "anime/jpg/default/wind-breaker-season-2-1861e3e24e.jpg",
-    "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
-    "media": {
-      "parseObject": {
-        "anime_title": "wind-breaker- S2",
-        "file_name": "wind-breaker- S2"
-      },
-      "media": {
-        "id": 178680,
-        "idMal": 59160,
-        "title": {
-          "romaji": "WIND BREAKER Season 2",
-          "english": "WIND BREAKER Season 2",
-          "native": "WIND BREAKER Season 2",
-          "userPreferred": "WIND BREAKER Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama"
-        ],
-        "duration": null,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-wxK48CkZn9yT.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178680-wxK48CkZn9yT.jpg",
-          "color": "#e4c9ae"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-04-03T14:25:00Z"
-            }
-          ]
-        }
-      },
-      "failed": false
-    },
-    "verified": false,
-    "addedAt": "2025-04-03T14:25:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
