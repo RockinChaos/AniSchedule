@@ -61,6 +61,7 @@ export async function fetchDubSchedule() {
     const { writable } =  await import('simple-store-svelte')
     const { matchKeys } = await import('./utils/anime.js')
     const { anilistClient } = await import('./utils/anilist.js')
+    const { malDubs } = await import('./utils/animedubs.js')
     const { default: AnimeResolver } = await import('./utils/animeresolver.js')
 
     const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
@@ -293,7 +294,7 @@ export async function fetchDubSchedule() {
     const results = await AnimeResolver.resolveFileAnime(titles)
 
     // Create combined results by mapping the resolved data to airingItems
-    const combinedResults = airing.map((airingItem) => {
+    let combinedResults = airing.map((airingItem) => {
         // Find the resolved media match for the current airing item
         const entry = order.find(o => o.route === airingItem.route)
         const mediaMatch = results?.find(result => result.media?.title?.userPreferred === entry?.title)
@@ -346,6 +347,12 @@ export async function fetchDubSchedule() {
         }
     })
 
+    // Ensure all media on the schedule HAS a planned dub
+    combinedResults = combinedResults.filter(entry => {
+        if (malDubs.isDubMedia(entry?.media?.media)) return true
+        else console.error(`Found unexpected media ${entry?.media?.media?.title?.userPreferred} on the dub schedule, this does not have a planned dub!`)
+        return false
+    })
 
     if (combinedResults) {
         if (combinedResults.length !== airingLists.value.length) {
