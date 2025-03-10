@@ -1481,7 +1481,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -3108,10 +3108,10 @@
     "title": "Witch Watch",
     "route": "witch-watch",
     "native": "ウィッチウォッチ",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
     "status": "Upcoming",
-    "episodeDate": "2025-04-06T07:00:00Z",
+    "episodeDate": "2025-04-06T08:00:00Z",
     "episodeNumber": 1,
     "donghua": false,
     "airType": "dub",
@@ -3160,7 +3160,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-04-06T07:00:00Z"
+              "airingAt": "2025-04-06T08:00:00Z"
             }
           ]
         }
