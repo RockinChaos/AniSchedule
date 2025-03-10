@@ -1481,7 +1481,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1515,8 +1515,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-03-10T20:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-03-17T20:00:00Z"
             }
           ]
         }
@@ -2346,7 +2346,7 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN",
       "apple": "apple.co/4hwl10O"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2380,8 +2380,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-03-10T19:30:00Z"
+              "episode": 10,
+              "airingAt": "2025-03-17T19:30:00Z"
             }
           ]
         }
@@ -3103,6 +3103,72 @@
     },
     "verified": true,
     "addedAt": "2025-01-06T20:12:38Z"
+  },
+  {
+    "title": "Witch Watch",
+    "route": "witch-watch",
+    "native": "ウィッチウォッチ",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "status": "Upcoming",
+    "episodeDate": "2025-04-06T07:00:00Z",
+    "episodeNumber": 1,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/witch-watch-5ed1470287.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "witch-watch",
+        "file_name": "witch-watch"
+      },
+      "media": {
+        "id": 180367,
+        "idMal": 59597,
+        "title": {
+          "romaji": "Witch Watch",
+          "english": "WITCH WATCH",
+          "native": "ウィッチウォッチ",
+          "userPreferred": "WITCH WATCH"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180367-GlRuB2lG7Kaa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180367-GlRuB2lG7Kaa.jpg",
+          "color": "#e4e4ae"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-sVzy7k5TMAgm.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-06T07:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-04-06T07:00:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
