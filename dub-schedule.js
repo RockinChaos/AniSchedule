@@ -447,12 +447,12 @@ export async function updateDubFeed() {
         if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) && (!entry.subtractedEpisodeNumber || (entry.subtractedEpisodeNumber > 1 && !((entry.episodeNumber - entry.subtractedEpisodeNumber) >= 6)))) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
             mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
-            console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
-            const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
-            let correctedDate = -1
-            let usePredict = false
-            let zeroIndexDate
             if (!isDSTTransitionMonth() || (entry.episodeNumber < 3)) {
+                console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
+                const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
+                let correctedDate = -1
+                let usePredict = false
+                let zeroIndexDate
                 mediaEpisodes.forEach((episode, index) => {
                     const prevDate = episode.episode.airedAt
                     const predictDate = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate), true))
@@ -473,7 +473,7 @@ export async function updateDubFeed() {
                     if ((dstStart && (new Date(prevDate) >= dstStart)) || (dstEnd && (new Date(prevDate) >= dstEnd))) {
                         latestEpisode.episode.airedAt = fixTime(new Date(prevDate), new Date(entry.episodeDate), true)
                         changes.push(`(Dub) Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${latestEpisode.episode.airedAt}`)
-                        console.log(`Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${latestEpisode.episode.airedAt}`)
+                        console.log(`Modified Episode ${latestEpisode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${latestEpisode.episode.airedAt} due to a correction in the airing date (Daylight Savings)`)
                         modifiedEpisodes.push(latestEpisode)
                     }
                 }
@@ -489,7 +489,7 @@ export async function updateDubFeed() {
         const existingEpisodes = existingFeed.filter(media => media.id === entry.media?.media?.id)
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
         let episodeType = 0
-        if (entry.unaired && new Date(entry.episodeDate) > new Date() || ((new Date(entry.delayedUntil) > new Date()) && entry.subtractedEpisodeNumber && (lastFeedEpisode === (entry.subtractedEpisodeNumber - 1)))) return newEpisodes
+        if ((entry.unaired && new Date(entry.episodeDate) > new Date()) || (((new Date(entry.delayedUntil) > new Date()) || (new Date(entry.episodeDate) > new Date())) && entry.subtractedEpisodeNumber && (lastFeedEpisode === (entry.subtractedEpisodeNumber - 1)))) return newEpisodes
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
@@ -556,8 +556,10 @@ export async function updateDubFeed() {
     }).sort((a, b) => b.episode.aired - a.episode.aired)
 
     const newFeed = Object.values([...newEpisodes.filter(({ id, episode }) => !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
-    saveJSON(path.join('./raw/dub-episode-feed.json'), newFeed)
-    saveJSON(path.join('./readable/dub-episode-feed-readable.json'), newFeed, true)
+    if (JSON.stringify(newFeed) !== JSON.stringify(existingFeed || {})) { // helps prevent rebase conflicts
+        saveJSON(path.join('./raw/dub-episode-feed.json'), newFeed)
+        saveJSON(path.join('./readable/dub-episode-feed-readable.json'), newFeed, true)
+    }
 
     if (newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
         console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}` : ``}${modifiedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ` and ` : ``}Modified ${modifiedEpisodes.length}` : ``}${removedEpisodes.length > 0 ? `${(newEpisodes.length > 0) || (modifiedEpisodes.length > 0) ? ` and ` : ``}Removed ${removedEpisodes.length}` : ``} episode(s) ${(modifiedEpisodes.length > 0) || (removedEpisodes.length > 0) ? `from` : `to`} the Dubbed Episodes Feed.`)
