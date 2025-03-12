@@ -633,8 +633,8 @@
     "streams": {
       "hidive": "www.hidive.com/season/24582"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "Elf-san wa Yaserarenai",
@@ -668,8 +668,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-03-12T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-03-19T17:00:00Z"
             }
           ]
         }
@@ -705,7 +705,7 @@
       "hidive": "www.hidive.com/season/26753",
       "youtube": "www.youtube.com/watch?v=hOZ6dfA8jPo&list=PLxSscENEp7JiQWCerTH65nEg1Q2UOFF-i"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -738,8 +738,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-03-12T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-03-19T17:00:00Z"
             }
           ]
         }
@@ -847,7 +847,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1P3W7ws_S-dsq2zV3aIj-S",
       "apple": "apple.co/4hRyuRf"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -881,8 +881,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-03-12T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-03-19T17:00:00Z"
             }
           ]
         }
@@ -986,7 +986,7 @@
       "hidive": "www.hidive.com/season/26756",
       "apple": "apple.co/3WTLWLW"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1028,6 +1028,10 @@
             {
               "episode": 13,
               "airingAt": "2025-03-12T17:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2025-03-19T17:00:00Z"
             }
           ]
         }
@@ -1131,7 +1135,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time",
       "apple": "apple.co/4155s9A"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1685,7 +1689,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1720,8 +1724,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-03-12T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-03-19T16:00:00Z"
             }
           ]
         }
