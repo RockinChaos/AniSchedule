@@ -310,8 +310,8 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/chu-bra"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "Chuu Bra!!",
@@ -1825,8 +1825,8 @@
     "streams": {
       "hulu": "www.hulu.com/series/murai-in-love-cd0d005f-85d3-4d8c-bfc7-a46be3f9a2ce"
     },
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "airing",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "Murai no Koi",
