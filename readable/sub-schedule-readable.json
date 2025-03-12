@@ -1690,10 +1690,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1741795200
-        },
-        {
           "episode": 12,
           "airingAt": 1742400000
         },
@@ -2208,10 +2204,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163134-CqaXjXVivwJ5.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1741786200
-        },
         {
           "episode": 15,
           "airingAt": 1742391000
@@ -4029,10 +4021,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1741794900
-        },
-        {
           "episode": 11,
           "airingAt": 1742399700
         },
@@ -4300,10 +4288,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741788000
-        },
         {
           "episode": 11,
           "airingAt": 1742392800
@@ -4628,10 +4612,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1741786200
-        },
-        {
           "episode": 12,
           "airingAt": 1742391000
         }
@@ -4772,6 +4752,37 @@
         {
           "episode": 12,
           "airingAt": 1742310000
+        }
+      ]
+    }
+  },
+  {
+    "id": 178126,
+    "idMal": 58805,
+    "title": {
+      "romaji": "Luka to Taiyou no Hana",
+      "english": "Luka and the Flower of the Sun",
+      "native": "ルカと太陽の花",
+      "userPreferred": "Luka and the Flower of the Sun"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": 30,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178126-ocTBj6yxsNeR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178126-ocTBj6yxsNeR.jpg",
+      "color": "#4386f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1742828400
         }
       ]
     }
@@ -5092,10 +5103,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741791600
-        },
         {
           "episode": 11,
           "airingAt": 1742396400
@@ -5668,10 +5675,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1741791600
-        },
         {
           "episode": 15,
           "airingAt": 1742396400
