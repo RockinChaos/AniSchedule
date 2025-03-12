@@ -1227,6 +1227,67 @@
     }
   },
   {
+    "id": 139825,
+    "idMal": 49981,
+    "title": {
+      "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
+      "english": "Our Last Crusade or the Rise of a New World Season 2",
+      "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season II",
+      "userPreferred": "Our Last Crusade or the Rise of a New World Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139825-rFlrzdRZmlYK.jpg",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139825-skAduSjC86v6.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1746703800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747308600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747913400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748518200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749123000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749727800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750332600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750937400
+        }
+      ]
+    }
+  },
+  {
     "id": 140842,
     "idMal": 50250,
     "title": {
@@ -3756,10 +3817,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1741777200
-        },
         {
           "episode": 16,
           "airingAt": 1742382000
