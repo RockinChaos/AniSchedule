@@ -424,7 +424,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GJ0H7QGGM/anyway-im-falling-in-love-with-you",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JhJgjNYZDJJFH1R3LAsfoq5"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2211,7 +2211,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin",
       "apple": "apple.co/41nTj0R"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2246,8 +2246,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 19,
-              "airingAt": "2025-03-13T21:00:00Z"
+              "episode": 20,
+              "airingAt": "2025-03-20T21:00:00Z"
             }
           ]
         }
@@ -2566,7 +2566,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8E81/link-click"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2601,8 +2601,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-03-13T20:30:00Z"
+              "episode": 5,
+              "airingAt": "2025-03-20T20:30:00Z"
             }
           ]
         }
