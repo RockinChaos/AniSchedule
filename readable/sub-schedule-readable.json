@@ -5499,6 +5499,46 @@
     }
   },
   {
+    "id": 181244,
+    "idMal": 59833,
+    "title": {
+      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
+      "english": null,
+      "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー",
+      "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE"
+    },
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181244-ICHU0FzIhEAY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181244-ICHU0FzIhEAY.jpg",
+      "color": "#e4ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1741878000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1741879800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 181440,
     "idMal": 59843,
     "title": {
