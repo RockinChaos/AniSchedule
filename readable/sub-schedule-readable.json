@@ -2160,10 +2160,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1741879800
-        },
-        {
           "episode": 11,
           "airingAt": 1742484600
         },
@@ -2788,10 +2784,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1741874400
-        },
-        {
           "episode": 12,
           "airingAt": 1742479200
         },
@@ -2829,10 +2821,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169315-j9dzBgcmRrWJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1741883280
-        },
         {
           "episode": 24,
           "airingAt": 1742488080
@@ -3102,10 +3090,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1741877760
-        },
-        {
           "episode": 25,
           "airingAt": 1742482560
         }
@@ -3216,10 +3200,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1741881360
-        },
-        {
           "episode": 23,
           "airingAt": 1742486160
         }
@@ -3253,10 +3233,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172019-qchFwdk8OM4m.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741870800
-        },
         {
           "episode": 11,
           "airingAt": 1742475600
@@ -3407,10 +3383,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172453-1HWEuvGj9Bzv.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741879560
-        },
         {
           "episode": 11,
           "airingAt": 1742484360
@@ -3628,10 +3600,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1741870440
-        },
         {
           "episode": 23,
           "airingAt": 1742475240
@@ -3936,10 +3904,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1741883280
-        },
         {
           "episode": 11,
           "airingAt": 1742488080
@@ -4568,10 +4532,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1741876200
-        },
-        {
           "episode": 12,
           "airingAt": 1742481000
         },
@@ -4978,10 +4938,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1741876200
-        },
-        {
           "episode": 11,
           "airingAt": 1742481000
         },
@@ -5179,42 +5135,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 179852,
-    "idMal": 59408,
-    "title": {
-      "romaji": "Mononoke: Hinezumi",
-      "english": null,
-      "native": "モノノ怪 火鼠",
-      "userPreferred": "Mononoke: Hinezumi"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy",
-      "Horror",
-      "Mystery",
-      "Psychological",
-      "Supernatural"
-    ],
-    "duration": 74,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179852-tPwGOkCxA8em.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179852-tPwGOkCxA8em.jpg",
-      "color": "#0d86fe"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1741878000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 179998,
@@ -5491,46 +5411,6 @@
     }
   },
   {
-    "id": 181244,
-    "idMal": 59833,
-    "title": {
-      "romaji": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE",
-      "english": null,
-      "native": "この素晴らしい世界に祝福を！３ーBONUS STAGEー",
-      "userPreferred": "Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE"
-    },
-    "format": "OVA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Ecchi",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181244-ICHU0FzIhEAY.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181244-ICHU0FzIhEAY.jpg",
-      "color": "#e4ae43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1741878000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1741879800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 181440,
     "idMal": 59843,
     "title": {
@@ -5798,40 +5678,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 183412,
-    "idMal": null,
-    "title": {
-      "romaji": "Shimajirou: Shimajirou to Yuuki no Uta",
-      "english": null,
-      "native": "映画しまじろうしまじろうと ゆうきのうた",
-      "userPreferred": "Shimajirou: Shimajirou to Yuuki no Uta"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183412-aquaVDg24IRw.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183412-aquaVDg24IRw.png",
-      "color": "#ffe400"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1741878000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 183423,
