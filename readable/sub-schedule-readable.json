@@ -941,10 +941,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 148,
-          "airingAt": 1741945200
-        },
-        {
           "episode": 149,
           "airingAt": 1742550000
         },
@@ -1039,6 +1035,10 @@
         {
           "episode": 172,
           "airingAt": 1756460400
+        },
+        {
+          "episode": 173,
+          "airingAt": 1757065200
         }
       ]
     }
@@ -1826,104 +1826,104 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 88,
-          "airingAt": 1741946100
-        },
-        {
           "episode": 89,
           "airingAt": 1742550900
         },
         {
           "episode": 90,
-          "airingAt": 1743155700
-        },
-        {
-          "episode": 91,
-          "airingAt": 1743760500
-        },
-        {
-          "episode": 92,
           "airingAt": 1744365300
         },
         {
-          "episode": 93,
+          "episode": 91,
           "airingAt": 1744970100
         },
         {
-          "episode": 94,
+          "episode": 92,
           "airingAt": 1745574900
         },
         {
-          "episode": 95,
+          "episode": 93,
           "airingAt": 1746179700
         },
         {
-          "episode": 96,
+          "episode": 94,
           "airingAt": 1746784500
         },
         {
-          "episode": 97,
+          "episode": 95,
           "airingAt": 1747389300
         },
         {
-          "episode": 98,
+          "episode": 96,
           "airingAt": 1747994100
         },
         {
-          "episode": 99,
+          "episode": 97,
           "airingAt": 1748598900
         },
         {
-          "episode": 100,
+          "episode": 98,
           "airingAt": 1749203700
         },
         {
-          "episode": 101,
+          "episode": 99,
           "airingAt": 1749808500
         },
         {
-          "episode": 102,
+          "episode": 100,
           "airingAt": 1750413300
         },
         {
-          "episode": 103,
+          "episode": 101,
           "airingAt": 1751018100
         },
         {
-          "episode": 104,
+          "episode": 102,
           "airingAt": 1751622900
         },
         {
-          "episode": 105,
+          "episode": 103,
           "airingAt": 1752227700
         },
         {
-          "episode": 106,
+          "episode": 104,
           "airingAt": 1752832500
         },
         {
-          "episode": 107,
+          "episode": 105,
           "airingAt": 1753437300
         },
         {
-          "episode": 108,
+          "episode": 106,
           "airingAt": 1754042100
         },
         {
-          "episode": 109,
+          "episode": 107,
           "airingAt": 1754646900
         },
         {
-          "episode": 110,
+          "episode": 108,
           "airingAt": 1755251700
         },
         {
-          "episode": 111,
+          "episode": 109,
           "airingAt": 1755856500
         },
         {
-          "episode": 112,
+          "episode": 110,
           "airingAt": 1756461300
+        },
+        {
+          "episode": 111,
+          "airingAt": 1757066100
+        },
+        {
+          "episode": 112,
+          "airingAt": 1757670900
+        },
+        {
+          "episode": 113,
+          "airingAt": 1758275700
         }
       ]
     }
@@ -2313,10 +2313,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 72,
-          "airingAt": 1741944300
-        },
-        {
           "episode": 73,
           "airingAt": 1742549100
         },
@@ -2411,6 +2407,10 @@
         {
           "episode": 96,
           "airingAt": 1756459500
+        },
+        {
+          "episode": 97,
+          "airingAt": 1757064300
         }
       ]
     }
@@ -6671,10 +6671,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1741942800
-        },
         {
           "episode": 16,
           "airingAt": 1742547600
