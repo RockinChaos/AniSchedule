@@ -608,10 +608,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 595,
-          "airingAt": 1741903800
-        },
-        {
           "episode": 596,
           "airingAt": 1742508600
         },
@@ -706,6 +702,10 @@
         {
           "episode": 619,
           "airingAt": 1756419000
+        },
+        {
+          "episode": 620,
+          "airingAt": 1757023800
         }
       ]
     }
@@ -1313,10 +1313,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 252,
-          "airingAt": 1741905600
-        },
-        {
           "episode": 253,
           "airingAt": 1742251200
         },
@@ -1411,6 +1407,10 @@
         {
           "episode": 276,
           "airingAt": 1749163200
+        },
+        {
+          "episode": 277,
+          "airingAt": 1749508800
         }
       ]
     }
