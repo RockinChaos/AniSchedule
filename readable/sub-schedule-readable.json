@@ -1442,10 +1442,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 158,
-          "airingAt": 1741991400
-        },
-        {
           "episode": 159,
           "airingAt": 1742596200
         },
@@ -1540,6 +1536,10 @@
         {
           "episode": 182,
           "airingAt": 1756506600
+        },
+        {
+          "episode": 183,
+          "airingAt": 1757111400
         }
       ]
     }
@@ -5105,9 +5105,9 @@
     "idMal": 59489,
     "title": {
       "romaji": "Kaijuu 8-gou Movie",
-      "english": null,
+      "english": "Kaiju No. 8: Mission Recon",
       "native": "怪獣8号 第1期総集編",
-      "userPreferred": "Kaijuu 8-gou Movie"
+      "userPreferred": "Kaiju No. 8: Mission Recon"
     },
     "format": "MOVIE",
     "genres": [
@@ -5620,10 +5620,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1741993200
-        },
         {
           "episode": 10,
           "airingAt": 1742598000
@@ -6694,10 +6690,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1741989600
-        },
         {
           "episode": 12,
           "airingAt": 1742594400
