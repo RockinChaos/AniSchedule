@@ -2262,7 +2262,7 @@
     "route": "sakamoto-days",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "status": "Ongoing",
+    "status": "Finished",
     "episodeDate": "2025-03-15T14:00:00Z",
     "episodeNumber": 11,
     "episodes": 11,
@@ -2279,7 +2279,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81663325"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
