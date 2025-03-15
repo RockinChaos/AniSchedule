@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1157,
-          "airingAt": 1742029200
-        },
-        {
           "episode": 1158,
           "airingAt": 1742634000
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1181,
           "airingAt": 1756544400
+        },
+        {
+          "episode": 1182,
+          "airingAt": 1757149200
         }
       ]
     }
@@ -155,10 +155,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1276,
-          "airingAt": 1742023800
-        },
         {
           "episode": 1277,
           "airingAt": 1742628600
@@ -254,6 +250,10 @@
         {
           "episode": 1300,
           "airingAt": 1756539000
+        },
+        {
+          "episode": 1301,
+          "airingAt": 1757143800
         }
       ]
     }
@@ -737,10 +737,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 854,
-          "airingAt": 1742025600
-        },
-        {
           "episode": 855,
           "airingAt": 1742630400
         },
@@ -835,6 +831,10 @@
         {
           "episode": 878,
           "airingAt": 1756540800
+        },
+        {
+          "episode": 879,
+          "airingAt": 1757145600
         }
       ]
     }
@@ -2739,10 +2739,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1742027400
-        },
-        {
           "episode": 23,
           "airingAt": 1742632200
         },
@@ -3699,35 +3695,6 @@
         {
           "episode": 24,
           "airingAt": 1742655600
-        }
-      ]
-    }
-  },
-  {
-    "id": 174913,
-    "idMal": 58137,
-    "title": {
-      "romaji": "Kagaku×Bouken Survival!",
-      "english": null,
-      "native": "科学×冒険サバイバル！",
-      "userPreferred": "Kagaku×Bouken Survival!"
-    },
-    "format": "TV",
-    "genres": [],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174913-xwwD9Q2GteBR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174913-xwwD9Q2GteBR.png",
-      "color": "#1aa1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1742030760
         }
       ]
     }
