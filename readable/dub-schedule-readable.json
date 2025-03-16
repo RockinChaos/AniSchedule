@@ -1344,7 +1344,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GNVHKN933/the-100-girlfriends-who-really-really-really-really-really-love-you",
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl2ilZQ5Xv1xozab_cm90ugI"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1378,8 +1378,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-03-16T19:30:00Z"
+              "episode": 9,
+              "airingAt": "2025-03-23T19:30:00Z"
             }
           ]
         }
@@ -2421,7 +2421,7 @@
       "crunchyroll": "www.crunchyroll.com/watch/GEVUW3VE4",
       "apple": "apple.co/3ECTxYW"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2456,8 +2456,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-03-16T20:00:00Z"
+              "episode": 8,
+              "airingAt": "2025-03-23T20:00:00Z"
             }
           ]
         }
@@ -2494,7 +2494,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl1k3PpCugshhYpSQVWUAaib",
       "apple": "apple.co/4aYQkPq"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
