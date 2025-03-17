@@ -1063,10 +1063,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 80,
-          "airingAt": 1742176800
-        },
-        {
           "episode": 81,
           "airingAt": 1742781600
         },
@@ -1161,6 +1157,10 @@
         {
           "episode": 104,
           "airingAt": 1756692000
+        },
+        {
+          "episode": 105,
+          "airingAt": 1757296800
         }
       ]
     }
@@ -4011,10 +4011,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1742184000
-        },
-        {
           "episode": 24,
           "airingAt": 1742788800
         },
@@ -4109,6 +4105,10 @@
         {
           "episode": 47,
           "airingAt": 1756699200
+        },
+        {
+          "episode": 48,
+          "airingAt": 1757304000
         }
       ]
     }
@@ -6531,5 +6531,35 @@
         }
       ]
     }
+  },
+  {
+    "id": 188122,
+    "idMal": null,
+    "title": {
+      "romaji": "Tirori Mix (2025)",
+      "english": null,
+      "native": "ティロリミックス (2025)",
+      "userPreferred": "Tirori Mix (2025)"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188122-gjtDeMrPfzaf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188122-gjtDeMrPfzaf.jpg",
+      "color": "#50d6f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188122-VQ3TYWfWNXXy.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1742295600
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
