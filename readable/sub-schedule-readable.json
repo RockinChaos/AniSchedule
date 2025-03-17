@@ -541,10 +541,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2088,
-          "airingAt": 1742161200
-        },
-        {
           "episode": 2089,
           "airingAt": 1742766000
         },
@@ -2404,6 +2400,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 166442,
+    "idMal": 60057,
+    "title": {
+      "romaji": "Chao Neng Lifang",
+      "english": null,
+      "native": "超能立方",
+      "userPreferred": "Chao Neng Lifang"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166442-np5Y0OPNJKQp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166442-np5Y0OPNJKQp.jpg",
+      "color": "#50d6e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1742522400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1743127200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1743732000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1744336800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1744941600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1745546400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1746151200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1746756000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1747360800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1747965600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1748570400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1749175200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 166699,
@@ -5216,12 +5290,16 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1742740200
         },
         {
-          "episode": 12,
+          "episode": 11,
           "airingAt": 1743345000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1743949800
         }
       ]
     }
@@ -5966,10 +6044,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1742162400
-        },
         {
           "episode": 26,
           "airingAt": 1742421600
