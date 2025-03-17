@@ -2894,7 +2894,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81564905"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2928,8 +2928,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-03-17T13:30:00Z"
+              "episode": 12,
+              "airingAt": "2025-03-24T13:30:00Z"
             }
           ]
         }
