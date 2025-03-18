@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -364,14 +364,15 @@ export async function fetchDubSchedule() {
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(combinedResults, null, 2))
         const existingDubbedFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
         let modified = false
-        combinedResults.map((entry) => entry.media).forEach(entry => {
-            existingDubbedFeed.filter(media => media.id === entry.id).forEach(episode => {
-                if ((entry.idMal && (episode.idMal !== entry.idMal)) || episode.format !== entry.format || episode.duration !== (entry.duration ? entry.duration : durationMap[entry.format])) {
-                    changes.push(`(Dub) Updated Episode ${episode.episode.aired} for ${entry.title.userPreferred} to correct its idMal, format, and duration.`)
-                    console.log(`(Dub) Updated Episode ${episode.episode.aired} for ${entry.title.userPreferred} to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
-                    if (entry.idMal) episode.idMal = entry.idMal
-                    episode.format = entry.format
-                    episode.duration = entry.duration ? entry.duration : durationMap[entry.format]
+        combinedResults.forEach(entry => {
+            existingDubbedFeed.filter(media => media.id === entry.media.media.id).forEach(episode => {
+                const media = entry.media.media
+                if ((media.idMal && (episode.idMal !== media.idMal)) || (episode.format !== (media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route))) || (episode.duration !== (media.duration ? media.duration : (entry.lengthMin || durationMap[media.format])))) {
+                    changes.push(`(Dub) Updated Episode ${episode.episode.aired} for ${media.title.userPreferred} to correct its idMal, format, and duration.`)
+                    console.log(`(Dub) Updated Episode ${episode.episode.aired} for ${media.title.userPreferred} to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
+                    if (media.idMal) episode.idMal = media.idMal
+                    episode.format = media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route)
+                    episode.duration = entry.duration ? entry.duration : (entry.lengthMin || durationMap[entry.format])
                     modified = true
                 }
             })
@@ -515,8 +516,8 @@ export async function updateDubFeed() {
             const batchEpisode = {
                 id: entry.media.media.id,
                 ...(entry.media.media.idMal ? { idMal: entry.media.media.idMal } : {}),
-                format: entry.media.media.format,
-                duration: entry.media.media.duration ? entry.media.media.duration : durationMap[entry.media.media.format],
+                format: entry.media.media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route),
+                duration: entry.media.media.duration ? entry.media.media.duration : (entry.media.media.format || !entry.lengthMin ? durationMap[entry.media.media.format] : entry.lengthMin),
                 episode: {
                     aired: episodeNum,
                     airedAt: (multiHeader && (episodeNum === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episodeNum >= entry.subtractedEpisodeNumber))) ? entry.episodeDate : (multiHeader && baseEpisode) ? baseEpisode.episode.airedAt : multiHeader ? entry.episodeDate : past(new Date(entry.episodeDate), -(latestEpisode - episodeNum), true)),
@@ -535,8 +536,8 @@ export async function updateDubFeed() {
         const newEpisode = {
             id: entry.media.media.id,
             ...(entry.media.media.idMal ? { idMal: entry.media.media.idMal } : {}),
-            format: entry.media.media.format,
-            duration: entry.media.media.duration ? entry.media.media.duration : durationMap[entry.media.media.format],
+            format: entry.media.media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route),
+            duration: entry.media.media.duration ? entry.media.media.duration : (entry.media.media.format || !entry.lengthMin ? durationMap[entry.media.media.format] : entry.lengthMin),
             episode: {
                 aired: latestEpisode,
                 airedAt: entry.episodeDate,

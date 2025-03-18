@@ -57,6 +57,20 @@ export const durationMap = { // guesstimate durations based off format type.
     null: 5,
 }
 
+export function mediaTypeMap(mediaType) {
+    if (!mediaType) return null
+    switch (mediaType.toUpperCase()?.replace('-', '_')?.replace('_CHINESE', '')) {
+        case 'TV': return 'TV'
+        case 'TV_SHORT': return 'TV_SHORT'
+        case 'MOVIE': return 'MOVIE'
+        case 'SPECIAL': return 'SPECIAL'
+        case 'OVA': return 'OVA'
+        case 'ONA': return 'ONA'
+        case 'MUSIC': return 'MUSIC'
+        default: return null
+    }
+}
+
 export function getCurrentYearAndWeek() {
     const now = new Date()
     const target = new Date(now.valueOf())
