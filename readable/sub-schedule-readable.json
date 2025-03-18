@@ -6526,30 +6526,42 @@
     }
   },
   {
-    "id": 188122,
+    "id": 188239,
     "idMal": null,
     "title": {
-      "romaji": "Tirori Mix (2025)",
+      "romaji": "Transformers: Wild King",
       "english": null,
-      "native": "ティロリミックス (2025)",
-      "userPreferred": "Tirori Mix (2025)"
+      "native": "トランスフォーマー ワイルドキング",
+      "userPreferred": "Transformers: Wild King"
     },
-    "format": "MUSIC",
-    "genres": [],
-    "duration": null,
-    "seasonYear": null,
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": 6,
+    "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188122-dXpGHxlt90YS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188122-dXpGHxlt90YS.jpg",
-      "color": "#5dbbf1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
+      "color": "#f1c935"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188122-VQ3TYWfWNXXy.jpg",
+    "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1742295600
+          "airingAt": 1742950800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1742950800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744160400
         }
       ]
     },
