@@ -1822,7 +1822,7 @@
     "native": "ニンジャバットマン対ヤクザリーグ",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "status": "Ongoing",
+    "status": "Finished",
     "episodeDate": "2025-03-18T07:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
@@ -1836,8 +1836,8 @@
     ],
     "imageVersionRoute": "anime/jpg/default/ninja-batman-tai-yakuza-league-7bb8587670.jpg",
     "streams": {},
-    "airingStatus": "unaired",
-    "unaired": true,
+    "airingStatus": "aired",
+    "unaired": false,
     "media": {
       "parseObject": {
         "anime_title": "Batman Ninja vs. Yakuza League",
@@ -2005,6 +2005,72 @@
     },
     "verified": false,
     "addedAt": "2025-03-09T03:12:25Z"
+  },
+  {
+    "title": "Princess Principal: Crown Handler 3",
+    "route": "princess-principal-crown-handler-3",
+    "native": "プリンセス・プリンシパル Crown Handler 第3章",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "status": "Finished",
+    "episodeDate": "2025-04-08T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/princess-principal-crown-handler-3-bb2121bfcf.jpg",
+    "streams": {},
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "princess-principal-crown-handler-3",
+        "file_name": "princess-principal-crown-handler-3"
+      },
+      "media": {
+        "id": 137612,
+        "idMal": 41141,
+        "title": {
+          "romaji": "Princess Principal: Crown Handler - Chapter 3",
+          "english": null,
+          "native": "プリンセス・プリンシパル Crown Handler 第3章",
+          "userPreferred": "Princess Principal: Crown Handler - Chapter 3"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "duration": 60,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137612-O5DYroQX6Tv5.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137612-O5DYroQX6Tv5.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-08T19:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-04-08T19:00:00Z"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3",
