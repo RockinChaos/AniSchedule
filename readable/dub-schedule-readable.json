@@ -1012,7 +1012,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GQWH0M1P3/possibly-the-greatest-alchemist-of-all-time",
       "apple": "apple.co/4155s9A"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1632,7 +1632,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/GP5HJ8417/magic-maker-how-to-make-magic-in-another-world"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1667,8 +1667,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-03-19T16:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-03-26T16:00:00Z"
             }
           ]
         }
