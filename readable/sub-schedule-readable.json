@@ -1752,10 +1752,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1742400000
-        },
-        {
           "episode": 13,
           "airingAt": 1743004800
         }
@@ -2224,10 +2220,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1742391000
-        },
-        {
           "episode": 16,
           "airingAt": 1742995800
         },
@@ -2472,6 +2464,55 @@
     }
   },
   {
+    "id": 166373,
+    "idMal": 55727,
+    "title": {
+      "romaji": "MIRU: Watashi no Mirai",
+      "english": null,
+      "native": "未ル わたしのみらい",
+      "userPreferred": "MIRU: Watashi no Mirai"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166373-97U2bjAxD3l7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166373-97U2bjAxD3l7.jpg",
+      "color": "#ffae1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743615000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744219800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744824600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745429400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746034200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 166442,
     "idMal": 60057,
     "title": {
@@ -2580,6 +2621,85 @@
         }
       ]
     }
+  },
+  {
+    "id": 167142,
+    "idMal": 55995,
+    "title": {
+      "romaji": "Your Forma",
+      "english": null,
+      "native": "ユア・フォルマ",
+      "userPreferred": "Your Forma"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167142-dJwdHptpILkF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167142-dJwdHptpILkF.jpg",
+      "color": "#e45d35"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743605100
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744209900
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744814700
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745419500
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746024300
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746629100
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747233900
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747838700
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748443500
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749048300
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749653100
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750257900
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 167143,
@@ -3961,10 +4081,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742399700
-        },
-        {
           "episode": 12,
           "airingAt": 1743004500
         }
@@ -4157,10 +4273,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742392800
-        },
         {
           "episode": 12,
           "airingAt": 1742997600
@@ -4386,10 +4498,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1742396400
-        },
-        {
           "episode": 11,
           "airingAt": 1743001200
         },
@@ -4431,38 +4539,6 @@
         {
           "episode": 13,
           "airingAt": 1743085800
-        }
-      ]
-    }
-  },
-  {
-    "id": 177506,
-    "idMal": 58822,
-    "title": {
-      "romaji": "Izure Saikyou no Renkinjutsushi?",
-      "english": "Possibly the Greatest Alchemist of All Time",
-      "native": "いずれ最強の錬金術師？",
-      "userPreferred": "Possibly the Greatest Alchemist of All Time"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177506-in4J0GNzjOZL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177506-in4J0GNzjOZL.jpg",
-      "color": "#50bbfe"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742391000
         }
       ]
     }
@@ -4525,10 +4601,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178022-bxiuw2sgcTsS.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742394600
-        },
         {
           "episode": 12,
           "airingAt": 1742920200
@@ -4790,6 +4862,88 @@
     }
   },
   {
+    "id": 178680,
+    "idMal": 59160,
+    "title": {
+      "romaji": "WIND BREAKER Season 2",
+      "english": "WIND BREAKER Season 2",
+      "native": "WIND BREAKER Season 2",
+      "userPreferred": "WIND BREAKER Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-wxK48CkZn9yT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178680-wxK48CkZn9yT.jpg",
+      "color": "#e4c9ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743607560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744212360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744817160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745421960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746026760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746631560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747236360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747841160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748445960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749050760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749655560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750260360
+        },
+        {
+          "episode": 13,
+          "airingAt": 1750865160
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178701,
     "idMal": 59169,
     "title": {
@@ -4934,10 +5088,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742396400
-        },
-        {
           "episode": 12,
           "airingAt": 1743001200
         }
@@ -4976,6 +5126,89 @@
         }
       ]
     }
+  },
+  {
+    "id": 179965,
+    "idMal": 59457,
+    "title": {
+      "romaji": "Haite Kudasai, Takamine-san",
+      "english": null,
+      "native": "履いてください、鷹峰さん",
+      "userPreferred": "Haite Kudasai, Takamine-san"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179965-fkPzvBjP4paF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179965-fkPzvBjP4paF.jpg",
+      "color": "#e45d93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743600600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744205400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744810200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745415000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746019800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746624600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747229400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747834200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748439000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749043800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749648600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750253400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1750858200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 179998,
@@ -5417,10 +5650,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1742396400
-        },
-        {
           "episode": 16,
           "airingAt": 1743001200
         }
@@ -5503,6 +5732,132 @@
         }
       ]
     }
+  },
+  {
+    "id": 183161,
+    "idMal": 60146,
+    "title": {
+      "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+      "english": "The Beginning After the End",
+      "native": "最強の王様、二度目の人生は 何をする? ",
+      "userPreferred": "The Beginning After the End"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-6uFwjG8vrcAV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-6uFwjG8vrcAV.jpg",
+      "color": "#35a1f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183161-Vmw9QT27k3sM.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743608760
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744213560
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744818360
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745423160
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746027960
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746632760
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747237560
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747842360
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748447160
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749051960
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749656760
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750261560
+        },
+        {
+          "episode": 13,
+          "airingAt": 1750866360
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751471160
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752075960
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752680760
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753285560
+        },
+        {
+          "episode": 18,
+          "airingAt": 1753890360
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754495160
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755099960
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755704760
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756309560
+        },
+        {
+          "episode": 23,
+          "airingAt": 1756914360
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757519160
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 183423,
@@ -6111,194 +6466,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 185538,
-    "idMal": null,
-    "title": {
-      "romaji": "Dokodemo Makibao",
-      "english": null,
-      "native": "どこでもマキバオー",
-      "userPreferred": "Dokodemo Makibao"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 5,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185538-3YVB6ishN7as.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
-      "color": "#fec90d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1742421600
-        },
-        {
-          "episode": 27,
-          "airingAt": 1742767200
-        },
-        {
-          "episode": 28,
-          "airingAt": 1743026400
-        },
-        {
-          "episode": 29,
-          "airingAt": 1743372000
-        },
-        {
-          "episode": 30,
-          "airingAt": 1743631200
-        },
-        {
-          "episode": 31,
-          "airingAt": 1743976800
-        },
-        {
-          "episode": 32,
-          "airingAt": 1744236000
-        },
-        {
-          "episode": 33,
-          "airingAt": 1744581600
-        },
-        {
-          "episode": 34,
-          "airingAt": 1744840800
-        },
-        {
-          "episode": 35,
-          "airingAt": 1745186400
-        },
-        {
-          "episode": 36,
-          "airingAt": 1745445600
-        },
-        {
-          "episode": 37,
-          "airingAt": 1745791200
-        },
-        {
-          "episode": 38,
-          "airingAt": 1746050400
-        },
-        {
-          "episode": 39,
-          "airingAt": 1746396000
-        }
-      ]
-    }
-  },
-  {
-    "id": 185539,
-    "idMal": null,
-    "title": {
-      "romaji": "Alps no Roujin Heidi no Ojii-san",
-      "english": null,
-      "native": "アルプスの老人ハイジのおじいさん",
-      "userPreferred": "Alps no Roujin Heidi no Ojii-san"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 1,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185539-57P8xM9whe1b.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185539-57P8xM9whe1b.png",
-      "color": "#e4bb28"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1742940000
-        },
-        {
-          "episode": 15,
-          "airingAt": 1743544800
-        },
-        {
-          "episode": 16,
-          "airingAt": 1744149600
-        },
-        {
-          "episode": 17,
-          "airingAt": 1744754400
-        },
-        {
-          "episode": 18,
-          "airingAt": 1745359200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1745964000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1746568800
-        },
-        {
-          "episode": 21,
-          "airingAt": 1747173600
-        },
-        {
-          "episode": 22,
-          "airingAt": 1747778400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1748383200
-        },
-        {
-          "episode": 24,
-          "airingAt": 1748988000
-        }
-      ]
-    }
-  },
-  {
-    "id": 185643,
-    "idMal": 60613,
-    "title": {
-      "romaji": "Oshiri Tantei: Star and Moon",
-      "english": null,
-      "native": "映画おしりたんてい スター・アンド・ムーン",
-      "userPreferred": "Oshiri Tantei: Star and Moon"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Mystery"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185643-2NbMhFMCtXOe.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185643-2NbMhFMCtXOe.png",
-      "color": "#f1d628"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1742396400
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 185779,
