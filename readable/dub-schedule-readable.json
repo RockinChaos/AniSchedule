@@ -851,8 +851,9 @@
     "romaji": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
     "english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V: Goddess of Fertility Arc",
     "native": "ダンジョンに出会いを求るのは間違っているだろうかV",
-    "delayedFrom": "2025-02-19T17:00:00Z",
-    "delayedUntil": "2025-03-12T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-03-19T17:00:00Z",
+    "delayedUntil": "2025-03-26T17:00:00Z",
     "status": "Finished",
     "episodeDate": "2025-03-19T17:00:00Z",
     "episodeNumber": 14,
@@ -871,7 +872,7 @@
       "hidive": "www.hidive.com/season/26756",
       "apple": "apple.co/3WTLWLW"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -907,7 +908,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 15,
+              "episode": 14,
               "airingAt": "2025-03-26T17:00:00Z"
             }
           ]
