@@ -168,7 +168,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G5PHNM970/ameku-md-doctor-detective"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -201,8 +201,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-03-19T20:30:00Z"
+              "episode": 10,
+              "airingAt": "2025-03-26T20:30:00Z"
             }
           ]
         }
@@ -802,7 +802,7 @@
       "crunchyroll": "www.crunchyroll.com/series/GMEHME77W/honey-lemon-soda",
       "apple": "apple.co/41fj435"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -834,8 +834,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-03-19T21:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-03-26T21:00:00Z"
             }
           ]
         }
@@ -2108,7 +2108,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF",
       "apple": "apple.co/3CMHQyd"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
