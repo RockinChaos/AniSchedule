@@ -941,7 +941,7 @@
     "streams": {
       "hulu": "www.hulu.com/series/811bac64-a492-4f1e-ba7a-393c825daeec"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -975,8 +975,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-03-19T14:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-03-26T14:00:00Z"
             }
           ]
         }
@@ -994,7 +994,7 @@
     "native": "いずれ最強の錬金術師?",
     "delayedFrom": "2025-02-26T15:00:00Z",
     "delayedUntil": "2025-03-05T15:00:00Z",
-    "status": "Ongoing",
+    "status": "Finished",
     "episodeDate": "2025-03-19T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
