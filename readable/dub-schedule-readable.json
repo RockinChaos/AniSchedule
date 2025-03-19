@@ -2108,7 +2108,7 @@
       "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl0mHfdQze0zVVrSRnLNr-yF",
       "apple": "apple.co/3CMHQyd"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2146,8 +2146,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-03-19T20:00:00Z"
+              "episode": 14,
+              "airingAt": "2025-03-26T20:00:00Z"
             }
           ]
         }
