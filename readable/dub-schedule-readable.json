@@ -2184,7 +2184,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G0XHWM1NK/rurouni-kenshin",
       "apple": "apple.co/41nTj0R"
     },
-    "airingStatus": "airing",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2899,7 +2899,7 @@
       "crunchyroll": "www.crunchyroll.com/series/G9VHN9Q7Q/trillion-game",
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7JgWSohUFSUx4uQvvUZCAhj4"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2934,8 +2934,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 22,
-              "airingAt": "2025-03-20T21:30:00Z"
+              "episode": 23,
+              "airingAt": "2025-03-27T21:30:00Z"
             }
           ]
         }
