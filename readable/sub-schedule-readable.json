@@ -2049,10 +2049,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742484600
-        },
-        {
           "episode": 12,
           "airingAt": 1743089400
         }
@@ -2847,10 +2843,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1742479200
-        },
-        {
           "episode": 13,
           "airingAt": 1743084000
         }
@@ -2884,10 +2876,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169315-j9dzBgcmRrWJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1742488080
-        },
         {
           "episode": 25,
           "airingAt": 1743092880
@@ -3103,39 +3091,6 @@
     }
   },
   {
-    "id": 170942,
-    "idMal": 57181,
-    "title": {
-      "romaji": "Ao no Hako",
-      "english": "Blue Box",
-      "native": "アオのハコ",
-      "userPreferred": "Blue Box"
-    },
-    "format": "ONA",
-    "genres": [
-      "Romance",
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170942-B77wUSM1jQTu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170942-B77wUSM1jQTu.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170942-v2GO5YNO0Q5I.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1742482560
-        }
-      ]
-    }
-  },
-  {
     "id": 171080,
     "idMal": 57946,
     "title": {
@@ -3204,40 +3159,6 @@
     }
   },
   {
-    "id": 171637,
-    "idMal": 57554,
-    "title": {
-      "romaji": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
-      "english": "Rurouni Kenshin -Kyoto Disturbance-",
-      "native": "るろうに剣心 －明治剣客浪漫譚－京都動乱",
-      "userPreferred": "Rurouni Kenshin -Kyoto Disturbance-"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Romance"
-    ],
-    "duration": 23,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b171637-h17RbEFtR0rQ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b171637-h17RbEFtR0rQ.png",
-      "color": "#e44328"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1742486160
-        }
-      ]
-    }
-  },
-  {
     "id": 172019,
     "idMal": 57592,
     "title": {
@@ -3264,10 +3185,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172019-qchFwdk8OM4m.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742475600
-        },
         {
           "episode": 12,
           "airingAt": 1743080400
@@ -3406,10 +3323,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172453-1HWEuvGj9Bzv.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742484360
-        },
         {
           "episode": 12,
           "airingAt": 1743089160
@@ -3586,38 +3499,6 @@
         {
           "episode": 2,
           "airingAt": 1752159600
-        }
-      ]
-    }
-  },
-  {
-    "id": 174390,
-    "idMal": 57924,
-    "title": {
-      "romaji": "Tono to Inu",
-      "english": null,
-      "native": "殿と犬",
-      "userPreferred": "Tono to Inu"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174390-SWbzfNExA59t.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174390-SWbzfNExA59t.jpg",
-      "color": "#e4bb93"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1742475240
         }
       ]
     }
@@ -3871,10 +3752,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742488080
-        },
-        {
           "episode": 12,
           "airingAt": 1743092880
         }
@@ -3980,6 +3857,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 175872,
+    "idMal": 58359,
+    "title": {
+      "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
+      "english": "The Brilliant Healer's New Life in the Shadows",
+      "native": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
+      "userPreferred": "The Brilliant Healer's New Life in the Shadows"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175872-d55nfiC4WWHO.jpg",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743690600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744295400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744900200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745505000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746109800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746714600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747319400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747924200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748529000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749133800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749738600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750343400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 176191,
@@ -4395,10 +4350,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1742481000
-        },
-        {
           "episode": 13,
           "airingAt": 1743085800
         }
@@ -4680,10 +4631,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742481000
-        },
-        {
           "episode": 12,
           "airingAt": 1743085800
         }
@@ -4955,6 +4902,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 179694,
+    "idMal": 59360,
+    "title": {
+      "romaji": "Rock wa Lady no Tashinami Deshite",
+      "english": "Rock is a Lady’s Modesty",
+      "native": "ロックは淑女の嗜みでして",
+      "userPreferred": "Rock is a Lady’s Modesty"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-6FMVc2mdUwJO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179694-6FMVc2mdUwJO.jpg",
+      "color": "#e46b5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743692160
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744296960
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744901760
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745506560
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746111360
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746716160
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747320960
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747925760
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748530560
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749135360
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749740160
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750344960
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 179696,
@@ -5971,16 +5995,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1742482800
-        },
-        {
           "episode": 2,
           "airingAt": 1748530800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184279,
@@ -6289,6 +6308,42 @@
         }
       ]
     }
+  },
+  {
+    "id": 185166,
+    "idMal": 61166,
+    "title": {
+      "romaji": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
+      "english": null,
+      "native": "憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている",
+      "userPreferred": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185166-nRoGrSNTd13z.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185166-nRoGrSNTd13z.png",
+      "color": "#e4bb43"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743692400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1749135600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 185462,
@@ -6612,6 +6667,160 @@
     }
   },
   {
+    "id": 186313,
+    "idMal": 60947,
+    "title": {
+      "romaji": "Nmeneko",
+      "english": null,
+      "native": "ンめねこ",
+      "userPreferred": "Nmeneko"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186313-29gCf3CWJu1n.jpg",
+      "color": "#f1ae28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743699480
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744304280
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744909080
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745513880
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746118680
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746723480
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747328280
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747933080
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748537880
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749142680
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749747480
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750352280
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186522,
+    "idMal": 60506,
+    "title": {
+      "romaji": "Araiguma Calcal-dan",
+      "english": null,
+      "native": "あらいぐま カルカル団",
+      "userPreferred": "Araiguma Calcal-dan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186522-ZDp8LzI6FjuE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186522-ZDp8LzI6FjuE.jpg",
+      "color": "#e49350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743695640
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744300440
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744905240
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745510040
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746114840
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746719640
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747324440
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747929240
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748534040
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749138840
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749743640
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750348440
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 186752,
     "idMal": 60677,
     "title": {
@@ -6641,6 +6850,88 @@
         }
       ]
     }
+  },
+  {
+    "id": 187998,
+    "idMal": null,
+    "title": {
+      "romaji": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
+      "english": null,
+      "native": "おいでよ魔法少女村（不法占拠）",
+      "userPreferred": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Mahou Shoujo",
+      "Supernatural"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187998-BH8BWVyckV0c.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187998-BH8BWVyckV0c.jpg",
+      "color": "#e4ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743704160
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744308960
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744913760
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745518560
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746123360
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746728160
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747332960
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747937760
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748542560
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749147360
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749752160
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750356960
+        },
+        {
+          "episode": 13,
+          "airingAt": 1750961760
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 188239,
