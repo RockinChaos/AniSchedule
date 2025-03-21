@@ -1629,6 +1629,162 @@
     }
   },
   {
+    "id": 149118,
+    "idMal": 51818,
+    "title": {
+      "romaji": "Enen no Shouboutai: San no Shou",
+      "english": "Fire Force Season 3",
+      "native": "炎炎ノ消防隊 参ノ章",
+      "userPreferred": "Fire Force Season 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx149118-AOQb0xuTssGl.jpg",
+      "color": "#ffa135"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743785580
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744390380
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744995180
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745599980
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746204780
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746809580
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747414380
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748019180
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748623980
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749228780
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749833580
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750438380
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 153554,
+    "idMal": 52709,
+    "title": {
+      "romaji": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+      "english": "Can a Boy-Girl Friendship Survive?",
+      "native": "男女の友情は成立する？（いや、 しないっ!!）",
+      "userPreferred": "Can a Boy-Girl Friendship Survive?"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153554-gTVSkLhlcCzM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153554-gTVSkLhlcCzM.png",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743773400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744378200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744983000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745587800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746192600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746797400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747402200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748007000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748611800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749216600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749821400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750426200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 154887,
     "idMal": 53204,
     "title": {
@@ -2590,10 +2746,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742569200
-        },
-        {
           "episode": 12,
           "airingAt": 1743174000
         }
@@ -3283,10 +3435,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742562000
-        },
-        {
           "episode": 12,
           "airingAt": 1743166800
         }
@@ -3351,10 +3499,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1742577780
-        },
         {
           "episode": 24,
           "airingAt": 1743182580
@@ -3494,38 +3638,6 @@
         {
           "episode": 2,
           "airingAt": 1752159600
-        }
-      ]
-    }
-  },
-  {
-    "id": 174596,
-    "idMal": 58066,
-    "title": {
-      "romaji": "Sorairo Utility (TV)",
-      "english": "Sorairo Utility (TV)",
-      "native": "空色ユーティリティ (TV)",
-      "userPreferred": "Sorairo Utility (TV)"
-    },
-    "format": "TV",
-    "genres": [
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174596-GbgKrUtBBuIg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174596-GbgKrUtBBuIg.jpg",
-      "color": "#f1e40d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174596-SAOws7ULFCTo.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742572800
         }
       ]
     }
@@ -3710,10 +3822,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175198-xWH6PKjANEhw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742571000
-        },
         {
           "episode": 12,
           "airingAt": 1743175800
@@ -4150,10 +4258,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742565600
-        },
-        {
           "episode": 12,
           "airingAt": 1743170400
         },
@@ -4472,10 +4576,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742563800
-        },
-        {
           "episode": 12,
           "airingAt": 1743168600
         }
@@ -4528,70 +4628,6 @@
         {
           "episode": 52,
           "airingAt": 1745287200
-        }
-      ]
-    }
-  },
-  {
-    "id": 178462,
-    "idMal": 59135,
-    "title": {
-      "romaji": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
-      "english": "I'm Getting Married to a Girl I Hate in My Class",
-      "native": "クラスの大嫌いな女子と結婚することになった。",
-      "userPreferred": "I'm Getting Married to a Girl I Hate in My Class"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178462-YW6BgSGGP4az.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178462-YW6BgSGGP4az.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178462-a21TbjT9F90O.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742567400
-        }
-      ]
-    }
-  },
-  {
-    "id": 178495,
-    "idMal": 59136,
-    "title": {
-      "romaji": "Tasokare Hotel",
-      "english": "TASOKARE HOTEL",
-      "native": "誰ソ彼ホテル",
-      "userPreferred": "TASOKARE HOTEL"
-    },
-    "format": "ONA",
-    "genres": [
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178495-RJCGa2YRdKBU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178495-RJCGa2YRdKBU.jpg",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178495-8OoD7676bnFP.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742563800
         }
       ]
     }
@@ -5354,6 +5390,153 @@
     }
   },
   {
+    "id": 181078,
+    "idMal": 59819,
+    "title": {
+      "romaji": "Bye Bye, Earth Season 2",
+      "english": "Bye Bye, Earth Season 2",
+      "native": "ばいばい、アース シーズン2",
+      "userPreferred": "Bye Bye, Earth Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-zBCMinL0WhzA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181078-zBCMinL0WhzA.jpg",
+      "color": "#3593e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743777000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744381800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744986600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745591400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746196200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746801000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747405800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748010600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748615400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749220200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749825000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750429800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 181182,
+    "idMal": 59828,
+    "title": {
+      "romaji": "Shoushimin Series 2nd Season",
+      "english": "SHOSHIMIN: How to become Ordinary Season 2",
+      "native": "小市民シリーズ 第2期",
+      "userPreferred": "SHOSHIMIN: How to become Ordinary Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181182-lnlfAByYD7X6.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181182-lnlfAByYD7X6.png",
+      "color": "#bb6b35"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743784200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744389000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744993800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745598600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746203400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746808200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747413000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748017800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748622600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749227400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 181440,
     "idMal": 59843,
     "title": {
@@ -5554,10 +5737,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1742577780
-        },
         {
           "episode": 6,
           "airingAt": 1743182580
@@ -6139,6 +6318,84 @@
     }
   },
   {
+    "id": 184989,
+    "idMal": 60377,
+    "title": {
+      "romaji": "Nazotoki wa Dinner no Ato de",
+      "english": null,
+      "native": "謎解きはディナーのあとで",
+      "userPreferred": "Nazotoki wa Dinner no Ato de"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-9i29Wrdrak11.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184989-9i29Wrdrak11.png",
+      "color": "#f1d61a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743777000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744381800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744986600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745591400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746196200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746801000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747405800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748010600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748615400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749220200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749825000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750429800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185073,
     "idMal": 60407,
     "title": {
@@ -6370,6 +6627,130 @@
         }
       ]
     }
+  },
+  {
+    "id": 185584,
+    "idMal": 60535,
+    "title": {
+      "romaji": "Everyday Host",
+      "english": null,
+      "native": "えぶりでいホスト",
+      "userPreferred": "Everyday Host"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185584-oIY1H6tpT78b.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185584-oIY1H6tpT78b.png",
+      "color": "#f143bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743783180
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744387980
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744992780
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745597580
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746202380
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746807180
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747411980
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748016780
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748621580
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749226380
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749831180
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750435980
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751040780
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751645580
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752250380
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752855180
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753459980
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754064780
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754669580
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755274380
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755879180
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756483980
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757088780
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757693580
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 185779,
