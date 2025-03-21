@@ -154,10 +154,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1690,
-          "airingAt": 1742522100
-        },
-        {
           "episode": 1691,
           "airingAt": 1743126900
         },
@@ -252,6 +248,10 @@
         {
           "episode": 1714,
           "airingAt": 1757037300
+        },
+        {
+          "episode": 1715,
+          "airingAt": 1757642100
         }
       ]
     }
@@ -474,10 +474,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 596,
-          "airingAt": 1742508600
-        },
-        {
           "episode": 597,
           "airingAt": 1743113400
         },
@@ -572,6 +568,10 @@
         {
           "episode": 620,
           "airingAt": 1757023800
+        },
+        {
+          "episode": 621,
+          "airingAt": 1757628600
         }
       ]
     }
@@ -1171,10 +1171,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 254,
-          "airingAt": 1742510400
-        },
-        {
           "episode": 255,
           "airingAt": 1742856000
         },
@@ -1269,6 +1265,10 @@
         {
           "episode": 278,
           "airingAt": 1749768000
+        },
+        {
+          "episode": 279,
+          "airingAt": 1750113600
         }
       ]
     }
@@ -5576,7 +5576,7 @@
     "title": {
       "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
       "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc",
-      "native": "ヴァンガード Divinez デラックス編",
+      "native": "カードファイト!! ヴァンガード Divinez デラックス編",
       "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc"
     },
     "format": "TV",
