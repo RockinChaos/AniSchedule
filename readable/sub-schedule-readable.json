@@ -26,10 +26,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1277,
-          "airingAt": 1742628600
-        },
-        {
           "episode": 1278,
           "airingAt": 1743233400
         },
@@ -124,6 +120,10 @@
         {
           "episode": 1301,
           "airingAt": 1757143800
+        },
+        {
+          "episode": 1302,
+          "airingAt": 1757748600
         }
       ]
     }
@@ -603,10 +603,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 855,
-          "airingAt": 1742630400
-        },
-        {
           "episode": 856,
           "airingAt": 1743235200
         },
@@ -701,6 +697,10 @@
         {
           "episode": 879,
           "airingAt": 1757145600
+        },
+        {
+          "episode": 880,
+          "airingAt": 1757750400
         }
       ]
     }
@@ -3034,10 +3034,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1742632200
-        },
-        {
           "episode": 24,
           "airingAt": 1743237000
         }
@@ -4537,6 +4533,84 @@
     }
   },
   {
+    "id": 177476,
+    "idMal": 58812,
+    "title": {
+      "romaji": "Shin Samurai-den YAIBA",
+      "english": "YAIBA: Samurai Legend",
+      "native": "真･侍伝 YAIBA",
+      "userPreferred": "YAIBA: Samurai Legend"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177476-kduwwEfxcZtU.jpg",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743841800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744446600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745051400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745656200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746261000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746865800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747470600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748075400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748680200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749285000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749889800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750494600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177552,
     "idMal": 58853,
     "title": {
@@ -5144,9 +5218,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179965-fkPzvBjP4paF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179965-fkPzvBjP4paF.jpg",
-      "color": "#e45d93"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179965-EwqzG3xSyxwc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179965-EwqzG3xSyxwc.jpg",
+      "color": null
     },
     "isAdult": false,
     "bannerImage": null,
