@@ -1300,10 +1300,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 159,
-          "airingAt": 1742596200
-        },
-        {
           "episode": 160,
           "airingAt": 1743201000
         },
@@ -1398,6 +1394,10 @@
         {
           "episode": 183,
           "airingAt": 1757111400
+        },
+        {
+          "episode": 184,
+          "airingAt": 1757716200
         }
       ]
     }
@@ -5771,10 +5771,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1742598000
-        },
-        {
           "episode": 11,
           "airingAt": 1743202800
         },
@@ -6249,6 +6245,131 @@
         {
           "episode": 12,
           "airingAt": 1750172400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 184639,
+    "idMal": 60334,
+    "title": {
+      "romaji": "Anne Shirley",
+      "english": "Anne Shirley",
+      "native": "アン・シャーリー",
+      "userPreferred": "Anne Shirley"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tQatvx18OqhK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184639-tQatvx18OqhK.jpg",
+      "color": "#50aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743801960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744406760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745011560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745616360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746221160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746825960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747430760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748035560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748640360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749245160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749849960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750454760
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751059560
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751664360
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752269160
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752873960
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753478760
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754083560
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754688360
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755293160
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755897960
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756502760
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757107560
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757712360
         }
       ]
     },
@@ -6753,6 +6874,160 @@
     "unaired": true
   },
   {
+    "id": 185645,
+    "idMal": 58631,
+    "title": {
+      "romaji": "Oshiri Tantei 9",
+      "english": null,
+      "native": "おしりたんてい(第9シリーズ)",
+      "userPreferred": "Oshiri Tantei 9"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mystery"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185645-oURiWI3bVWgq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185645-oURiWI3bVWgq.png",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743811200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744416000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745020800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745625600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746230400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746835200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747440000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748044800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748649600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749254400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749859200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750464000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185715,
+    "idMal": 60612,
+    "title": {
+      "romaji": "SHIBUYA♡HACHI 2nd Season",
+      "english": null,
+      "native": "SHIBUYA♡HACHI 第2期",
+      "userPreferred": "SHIBUYA♡HACHI 2nd Season"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185715-S5OtxSJTo5k1.png",
+      "color": "#1aaef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743804000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744408800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745013600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745618400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746223200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746828000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747432800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748037600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748642400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749247200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749852000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750456800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185779,
     "idMal": null,
     "title": {
@@ -7191,37 +7466,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 186752,
-    "idMal": 60677,
-    "title": {
-      "romaji": "minini Animation Series",
-      "english": null,
-      "native": "미니니 애니메이션 시리즈",
-      "userPreferred": "minini Animation Series"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 1,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186752-UxPh2YSqf7rO.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186752-UxPh2YSqf7rO.png",
-      "color": "#d6c91a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742594400
-        }
-      ]
-    }
   },
   {
     "id": 187998,
