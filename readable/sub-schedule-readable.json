@@ -1520,6 +1520,84 @@
     }
   },
   {
+    "id": 143337,
+    "idMal": 50738,
+    "title": {
+      "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
+      "english": "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2",
+      "native": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
+      "userPreferred": "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143337-2uPE0ywVcz9X.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143337-2uPE0ywVcz9X.jpg",
+      "color": "#35bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143337-YrezCjQJLnRO.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743858000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744462800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745067600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745672400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746277200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746882000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747486800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748091600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748696400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749301200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749906000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750510800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 143598,
     "idMal": 49778,
     "title": {
@@ -2166,10 +2244,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742662800
-        },
-        {
           "episode": 12,
           "airingAt": 1743267600
         }
@@ -2475,10 +2549,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1742661000
-        },
-        {
           "episode": 13,
           "airingAt": 1743265800
         }
@@ -2603,38 +2673,6 @@
         {
           "episode": 12,
           "airingAt": 1749175200
-        }
-      ]
-    }
-  },
-  {
-    "id": 166699,
-    "idMal": 55842,
-    "title": {
-      "romaji": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru",
-      "english": "OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
-      "native": "沖縄で好きになった子が方言すぎてツラすぎる",
-      "userPreferred": "OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166699-ELqlQLrZwTrG.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166699-ELqlQLrZwTrG.jpg",
-      "color": "#356bf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166699-VIqDjIhTXkk0.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742659200
         }
       ]
     }
@@ -3751,43 +3789,6 @@
     }
   },
   {
-    "id": 174654,
-    "idMal": 58082,
-    "title": {
-      "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
-      "english": "I'm Living With a Otaku NEET Kunoichi?!",
-      "native": "ニートくノ一となぜか同棲はじめました",
-      "userPreferred": "I'm Living With a Otaku NEET Kunoichi?!"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": 12,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174654-J8OduNFjRpVY.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174654-J8OduNFjRpVY.jpg",
-      "color": "#e45d86"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174654-vQMxvimEmfpw.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1742655600
-        },
-        {
-          "episode": 24,
-          "airingAt": 1742655600
-        }
-      ]
-    }
-  },
-  {
     "id": 175137,
     "idMal": 58199,
     "title": {
@@ -3964,10 +3965,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742653800
-        },
         {
           "episode": 12,
           "airingAt": 1743258600
@@ -4416,10 +4413,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1742655600
-        },
-        {
           "episode": 13,
           "airingAt": 1743260400
         }
@@ -4674,6 +4667,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 178046,
+    "idMal": 59070,
+    "title": {
+      "romaji": "GUILTY GEAR STRIVE: DUAL RULERS",
+      "english": "GUILTY GEAR STRIVE: DUAL RULERS",
+      "native": "GUILTY GEAR STRIVE: DUAL RULERS",
+      "userPreferred": "GUILTY GEAR STRIVE: DUAL RULERS"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178046-4EeU8cC3WJOs.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178046-4EeU8cC3WJOs.jpg",
+      "color": "#fee450"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743859800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744464600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745069400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745674200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746279000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746883800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747488600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748093400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748698200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749303000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749907800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750512600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 178126,
@@ -5017,6 +5087,158 @@
     "unaired": true
   },
   {
+    "id": 178825,
+    "idMal": 59199,
+    "title": {
+      "romaji": "CLASSIC★STARS",
+      "english": "Classic★Stars",
+      "native": "クラシック★スターズ",
+      "userPreferred": "Classic★Stars"
+    },
+    "format": "TV",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178825-F4StA5BbfN9H.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178825-F4StA5BbfN9H.png",
+      "color": "#e45d6b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743868800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744473600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745078400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745683200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746288000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746892800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747497600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748102400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748707200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749312000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749916800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750521600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 179054,
+    "idMal": 59228,
+    "title": {
+      "romaji": "Kuroshitsuji: Midori no Majo-hen",
+      "english": "Black Butler: Emerald Witch Arc",
+      "native": "黒執事 -緑の魔女編-",
+      "userPreferred": "Black Butler: Emerald Witch Arc"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179054-HmN0Za4T157B.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179054-HmN0Za4T157B.jpg",
+      "color": "#f1f1c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743863400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744468200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745073000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745677800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746282600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746887400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747492200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748097000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748701800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749306600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749911400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179292,
     "idMal": 59512,
     "title": {
@@ -5198,6 +5420,85 @@
         }
       ]
     }
+  },
+  {
+    "id": 179955,
+    "idMal": 59452,
+    "title": {
+      "romaji": "Katainaka no Ossan, Kensei ni Naru",
+      "english": "From Old Country Bumpkin to Master Swordsman",
+      "native": "片田舎のおっさん、剣聖になる",
+      "userPreferred": "From Old Country Bumpkin to Master Swordsman"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179955-e4UPTow92B1O.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179955-e4UPTow92B1O.jpg",
+      "color": "#e4bba1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743863400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744468200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745073000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745677800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746282600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746887400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747492200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748097000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748701800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749306600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749911400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750516200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 179965,
@@ -5450,10 +5751,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1742655600
-        },
         {
           "episode": 11,
           "airingAt": 1743260400
@@ -5802,9 +6099,9 @@
     "idMal": 59894,
     "title": {
       "romaji": "Shooting Star Catch! Tiniping",
-      "english": null,
+      "english": "Star Catch! Teenieping",
       "native": "슈팅스타 캐치! 티니핑",
-      "userPreferred": "Shooting Star Catch! Tiniping"
+      "userPreferred": "Star Catch! Teenieping"
     },
     "format": "TV_SHORT",
     "genres": [
@@ -5824,12 +6121,28 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
+          "episode": 21,
           "airingAt": 1743066000
         },
         {
-          "episode": 26,
+          "episode": 22,
           "airingAt": 1743670800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1744275600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1744880400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1745485200
+        },
+        {
+          "episode": 26,
+          "airingAt": 1746090000
         }
       ]
     }
@@ -5866,6 +6179,90 @@
         }
       ]
     }
+  },
+  {
+    "id": 182814,
+    "idMal": 60083,
+    "title": {
+      "romaji": "Kowloon Generic Romance",
+      "english": null,
+      "native": "九龍ジェネリックロマンス",
+      "userPreferred": "Kowloon Generic Romance"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182814-BVSf7NqMRVqi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182814-BVSf7NqMRVqi.jpg",
+      "color": "#78aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743861600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744466400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745071200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745676000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746280800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746885600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747490400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748095200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748700000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749304800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749909600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750514400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751119200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 182877,
@@ -6057,6 +6454,89 @@
         {
           "episode": 24,
           "airingAt": 1757519160
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 183274,
+    "idMal": 60154,
+    "title": {
+      "romaji": "Ore wa Seikan Kokka no Akutoku Ryoushu! ",
+      "english": "I'm the Evil Lord of an Intergalactic Empire!",
+      "native": "俺は星間国家の悪徳領主!",
+      "userPreferred": "I'm the Evil Lord of an Intergalactic Empire!"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183274-zqrwevS4PBJF.jpg",
+      "color": "#6b35e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743872400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744477200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745082000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745686800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746291600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746896400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747501200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748106000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748710800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749315600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749920400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750525200
         }
       ]
     },
@@ -6874,6 +7354,82 @@
     "unaired": true
   },
   {
+    "id": 185259,
+    "idMal": 60446,
+    "title": {
+      "romaji": "Masuda Kousuke Gekijou Gag Manga Biyori GO",
+      "english": null,
+      "native": "増田こうすけ劇場 ギャグマンガ日和GO",
+      "userPreferred": "Masuda Kousuke Gekijou Gag Manga Biyori GO"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185259-h5AnqAcoKH6d.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185259-h5AnqAcoKH6d.jpg",
+      "color": "#5d93e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743859800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744464600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745069400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745674200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746279000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746883800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747488600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748093400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748698200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749303000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749907800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750512600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185462,
     "idMal": 60425,
     "title": {
@@ -7344,39 +7900,6 @@
     }
   },
   {
-    "id": 185880,
-    "idMal": 59226,
-    "title": {
-      "romaji": "Ao no Exorcist: Yosuga-hen",
-      "english": "Blue Exorcist -The Blue Night Saga-",
-      "native": "青の祓魔師 終夜篇",
-      "userPreferred": "Blue Exorcist -The Blue Night Saga-"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185880-efBIcDBzPiHP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185880-efBIcDBzPiHP.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185880-HiXONnk2jzSc.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742657400
-        }
-      ]
-    }
-  },
-  {
     "id": 186153,
     "idMal": 60784,
     "title": {
@@ -7815,6 +8338,55 @@
         {
           "episode": 12,
           "airingAt": 1749720600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 188668,
+    "idMal": 61293,
+    "title": {
+      "romaji": "Koisuru ONE PIECE",
+      "english": null,
+      "native": "恋するワンピース",
+      "userPreferred": "Koisuru ONE PIECE"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188668-rOB7rkgOz89w.jpg",
+      "color": "#35bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743433200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1743519600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1743606000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1743692400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1743778800
         }
       ]
     },
