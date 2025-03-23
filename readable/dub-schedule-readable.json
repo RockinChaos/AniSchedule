@@ -1182,7 +1182,7 @@
           "color": "#00ff0d"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-5ySYli2FDWs9.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -3160,6 +3160,7 @@
     "status": "Ongoing",
     "episodeDate": "2025-03-22T12:00:00Z",
     "episodeNumber": 11,
+    "episodes": 151,
     "lengthMin": 24,
     "donghua": false,
     "airType": "dub",
