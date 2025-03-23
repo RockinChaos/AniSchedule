@@ -1,5 +1,136 @@
 [
   {
+    "id": 21,
+    "idMal": 21,
+    "title": {
+      "romaji": "ONE PIECE",
+      "english": "ONE PIECE",
+      "native": "ONE PIECE",
+      "userPreferred": "ONE PIECE"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 1999,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-YCDoj1EkAxFn.jpg",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1123,
+          "airingAt": 1743948960
+        },
+        {
+          "episode": 1124,
+          "airingAt": 1744553760
+        },
+        {
+          "episode": 1125,
+          "airingAt": 1745158560
+        },
+        {
+          "episode": 1126,
+          "airingAt": 1745763360
+        },
+        {
+          "episode": 1127,
+          "airingAt": 1746368160
+        },
+        {
+          "episode": 1128,
+          "airingAt": 1746972960
+        },
+        {
+          "episode": 1129,
+          "airingAt": 1747577760
+        },
+        {
+          "episode": 1130,
+          "airingAt": 1748182560
+        },
+        {
+          "episode": 1131,
+          "airingAt": 1748787360
+        },
+        {
+          "episode": 1132,
+          "airingAt": 1749392160
+        },
+        {
+          "episode": 1133,
+          "airingAt": 1749996960
+        },
+        {
+          "episode": 1134,
+          "airingAt": 1750601760
+        },
+        {
+          "episode": 1135,
+          "airingAt": 1751206560
+        },
+        {
+          "episode": 1136,
+          "airingAt": 1751811360
+        },
+        {
+          "episode": 1137,
+          "airingAt": 1752416160
+        },
+        {
+          "episode": 1138,
+          "airingAt": 1753020960
+        },
+        {
+          "episode": 1139,
+          "airingAt": 1753625760
+        },
+        {
+          "episode": 1140,
+          "airingAt": 1754230560
+        },
+        {
+          "episode": 1141,
+          "airingAt": 1754835360
+        },
+        {
+          "episode": 1142,
+          "airingAt": 1755440160
+        },
+        {
+          "episode": 1143,
+          "airingAt": 1756044960
+        },
+        {
+          "episode": 1144,
+          "airingAt": 1756649760
+        },
+        {
+          "episode": 1145,
+          "airingAt": 1757254560
+        },
+        {
+          "episode": 1146,
+          "airingAt": 1757859360
+        },
+        {
+          "episode": 1147,
+          "airingAt": 1758464160
+        }
+      ]
+    }
+  },
+  {
     "id": 966,
     "idMal": 966,
     "title": {
@@ -3179,39 +3310,6 @@
     }
   },
   {
-    "id": 170650,
-    "idMal": 57050,
-    "title": {
-      "romaji": "Kisaki Kyouiku kara Nigetai Watashi",
-      "english": "I Want to Escape from Princess Lessons",
-      "native": "妃教育から逃げたい私",
-      "userPreferred": "I Want to Escape from Princess Lessons"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170650-iVQC67atMVj3.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170650-iVQC67atMVj3.png",
-      "color": "#f17843"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742734800
-        }
-      ]
-    }
-  },
-  {
     "id": 170892,
     "idMal": 53924,
     "title": {
@@ -3432,10 +3530,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172258-w0t3aHFqywwp.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1742736600
-        },
         {
           "episode": 12,
           "airingAt": 1743341400
@@ -4192,38 +4286,6 @@
     }
   },
   {
-    "id": 176273,
-    "idMal": 58502,
-    "title": {
-      "romaji": "Zenshuu.",
-      "english": "ZENSHU",
-      "native": "全修。",
-      "userPreferred": "ZENSHU"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176273-whKlFCswinEm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176273-whKlFCswinEm.jpg",
-      "color": "#f1e428"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176273-PVCbQQvFiu5O.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742741160
-        }
-      ]
-    }
-  },
-  {
     "id": 176301,
     "idMal": 58514,
     "title": {
@@ -4511,6 +4573,86 @@
         {
           "episode": 12,
           "airingAt": 1750494600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 177509,
+    "idMal": 58833,
+    "title": {
+      "romaji": "Kakushite! Makina-san!!",
+      "english": null,
+      "native": "かくして!! マキナさん！",
+      "userPreferred": "Kakushite! Makina-san!!"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177509-LzpyXGnjitvF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177509-LzpyXGnjitvF.jpg",
+      "color": "#f1935d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743956400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744561200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745166000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745770800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746375600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746980400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747585200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748190000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748794800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749399600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750004400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750609200
         }
       ]
     },
@@ -5712,10 +5854,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1742740200
-        },
-        {
           "episode": 12,
           "airingAt": 1743345000
         }
@@ -6046,6 +6184,162 @@
     }
   },
   {
+    "id": 180825,
+    "idMal": 59744,
+    "title": {
+      "romaji": "Maebashi Witches",
+      "english": null,
+      "native": "前橋ウィッチーズ",
+      "userPreferred": "Maebashi Witches"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180825-trzjP1VDF19U.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180825-trzjP1VDF19U.jpg",
+      "color": "#2893e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743946200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744551000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745155800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745760600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746365400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746970200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747575000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748179800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748784600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749389400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749994200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750599000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 180829,
+    "idMal": 59745,
+    "title": {
+      "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
+      "english": null,
+      "native": "ちょっとだけ愛が重すぎるダークエルフが異世界から追いかけてきた",
+      "userPreferred": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 12,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180829-jHViG8fIkaIJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180829-jHViG8fIkaIJ.jpg",
+      "color": "#43aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743955560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744560360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745165160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745769960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746374760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746979560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747584360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748189160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748793960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749398760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750003560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750608360
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 180832,
     "idMal": 59804,
     "title": {
@@ -6288,10 +6582,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1742740200
-        },
-        {
           "episode": 11,
           "airingAt": 1743345000
         },
@@ -6301,6 +6591,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 182060,
+    "idMal": 59935,
+    "title": {
+      "romaji": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+      "english": "The Gorilla God’s Go-To Girl",
+      "native": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる",
+      "userPreferred": "The Gorilla God’s Go-To Girl"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182060-r0ihNqhiyvpT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182060-r0ihNqhiyvpT.jpg",
+      "color": "#e49343"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743949800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744554600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745159400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745764200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746369000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746973800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747578600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748183400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748788200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749393000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749997800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750602600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 182104,
@@ -6571,6 +6939,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 183133,
+    "idMal": 60140,
+    "title": {
+      "romaji": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+      "english": "The Unaware Atelier Meister",
+      "native": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～",
+      "userPreferred": "The Unaware Atelier Meister"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183133-SSeg5j1UrMDG.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183133-SSeg5j1UrMDG.png",
+      "color": "#5d50e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743944400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744549200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745154000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745758800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746363600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746968400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747573200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748178000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748782800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749387600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749992400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750597200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 183161,
@@ -7670,10 +8116,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1742752200
-        },
-        {
           "episode": 13,
           "airingAt": 1743357000
         }
@@ -8600,6 +9042,38 @@
         {
           "episode": 12,
           "airingAt": 1750348440
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 187362,
+    "idMal": 61146,
+    "title": {
+      "romaji": "Tamaranai no wa Koi nano ka",
+      "english": null,
+      "native": "たまらないのは恋なのか",
+      "userPreferred": "Tamaranai no wa Koi nano ka"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187362-Qz6YXMv0TcRJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187362-Qz6YXMv0TcRJ.jpg",
+      "color": "#e4d65d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743949800
         }
       ]
     },
