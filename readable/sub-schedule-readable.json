@@ -1429,10 +1429,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 150,
-          "airingAt": 1742682600
-        },
-        {
           "episode": 151,
           "airingAt": 1743287400
         },
@@ -1931,6 +1927,83 @@
     }
   },
   {
+    "id": 156092,
+    "idMal": 53447,
+    "title": {
+      "romaji": "Tu Bian Yingxiong X",
+      "english": "To Be Hero X",
+      "native": "凸变英雄X",
+      "userPreferred": "To Be Hero X"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
+      "color": "#d61a1a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743899400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744504200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745109000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745713800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746318600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746923400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747528200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748133000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748737800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749342600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749947400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750552200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -2086,10 +2159,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 96,
-          "airingAt": 1742688000
-        },
         {
           "episode": 97,
           "airingAt": 1743292800
@@ -2969,10 +3038,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 34,
-          "airingAt": 1742688000
-        },
-        {
           "episode": 35,
           "airingAt": 1743292800
         },
@@ -3377,10 +3442,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171080-7deMymQ1F9bN.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 50,
-          "airingAt": 1742691600
-        },
         {
           "episode": 51,
           "airingAt": 1743296400
@@ -4746,6 +4807,135 @@
     "unaired": true
   },
   {
+    "id": 178052,
+    "idMal": 59078,
+    "title": {
+      "romaji": "Princess-Session Orchestra",
+      "english": null,
+      "native": "プリンセッション・オーケストラ",
+      "userPreferred": "Princess-Session Orchestra"
+    },
+    "format": "TV",
+    "genres": [
+      "Mahou Shoujo",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178052-pzEAGk697GMM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178052-pzEAGk697GMM.png",
+      "color": "#1a86d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743897600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744502400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745107200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745712000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746316800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746921600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747526400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748131200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748736000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749340800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749945600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750550400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751155200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751760000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752364800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752969600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753574400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754179200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754784000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755388800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755993600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756598400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757203200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757808000
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758412800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178126,
     "idMal": 58805,
     "title": {
@@ -5262,10 +5452,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1742688900
-        },
         {
           "episode": 25,
           "airingAt": 1743293700
@@ -6571,10 +6757,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1742689800
-        },
-        {
           "episode": 21,
           "airingAt": 1743294600
         }
@@ -6886,6 +7068,134 @@
     "unaired": true
   },
   {
+    "id": 184470,
+    "idMal": 61092,
+    "title": {
+      "romaji": "Himitsu no AiPri: Ring-hen",
+      "english": null,
+      "native": "ひみつのアイプリ リング編",
+      "userPreferred": "Himitsu no AiPri: Ring-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184470-m2izEvBeO49C.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184470-m2izEvBeO49C.jpg",
+      "color": "#f15df1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743899400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744504200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745109000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745713800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746318600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746923400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747528200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748133000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748737800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749342600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749947400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750552200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751157000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751761800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752366600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752971400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753576200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754181000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754785800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755390600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755995400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756600200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757205000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757809800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758414600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 184639,
     "idMal": 60334,
     "title": {
@@ -7179,10 +7489,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1742686200
-        },
-        {
           "episode": 8,
           "airingAt": 1743291000
         },
@@ -7277,6 +7583,10 @@
         {
           "episode": 31,
           "airingAt": 1757201400
+        },
+        {
+          "episode": 32,
+          "airingAt": 1757806200
         }
       ]
     }
@@ -7733,6 +8043,134 @@
         {
           "episode": 12,
           "airingAt": 1750456800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185718,
+    "idMal": 60596,
+    "title": {
+      "romaji": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
+      "english": null,
+      "native": "最強王図鑑 ～The Ultimate Tournament～",
+      "userPreferred": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185718-luZZKvM7pOZ2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185718-luZZKvM7pOZ2.png",
+      "color": "#1aaed6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743891360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744496160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745100960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745705760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746310560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746915360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747520160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748124960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748729760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749334560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749939360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750544160
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751148960
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751753760
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752358560
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752963360
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753568160
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754172960
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754777760
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755382560
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755987360
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756592160
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757196960
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757801760
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758406560
         }
       ]
     },
@@ -8338,6 +8776,134 @@
         {
           "episode": 12,
           "airingAt": 1749720600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 188661,
+    "idMal": 61279,
+    "title": {
+      "romaji": "Go! Go! Vehicle Zoo: Norimono Star-hen",
+      "english": null,
+      "native": "ゴー！ゴー！びーくるずー のりものスター編 ",
+      "userPreferred": "Go! Go! Vehicle Zoo: Norimono Star-hen"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188661-I48XaB1Bvkju.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188661-I48XaB1Bvkju.png",
+      "color": "#e4ae0d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1743895800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744500600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745105400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745710200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746315000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746919800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747524600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748129400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748734200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749339000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749943800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750548600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751153400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751758200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752363000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752967800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753572600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754177400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754782200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755387000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755991800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756596600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757201400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757806200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758411000
         }
       ]
     },
