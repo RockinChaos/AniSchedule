@@ -72,6 +72,77 @@
     "addedAt": "2025-01-25T23:00:00Z"
   },
   {
+    "title": "Akuyaku Reijou Tensei Ojisan",
+    "route": "akuyaku-reijou-tensei-ojisan",
+    "romaji": "Akuyaku Reijou Tensei Oji-san",
+    "english": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+    "native": "悪役令嬢転生おじさん",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-04-19T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "imageVersionRoute": "anime/jpg/default/akuyaku-reijou-tensei-ojisan-877621d436.jpg",
+    "streams": {
+      "hidive": "www.hidive.com/season/28118",
+      "youtube": "www.youtube.com/playlist?list=PLwLSw1_eDZl031zNeBVFi0zLndX_M3PhN",
+      "apple": "apple.co/4b2rDll"
+    },
+    "airingStatus": "unaired",
+    "unaired": true,
+    "media": {
+      "parseObject": {
+        "anime_title": "Akuyaku Reijou Tensei Oji-san",
+        "file_name": "Akuyaku Reijou Tensei Oji-san"
+      },
+      "media": {
+        "id": 172453,
+        "idMal": 57719,
+        "title": {
+          "romaji": "Akuyaku Reijou Tensei Oji-san",
+          "english": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+          "native": "悪役令嬢転生おじさん",
+          "userPreferred": "From Bureaucrat to Villainess: Dad's Been Reincarnated!"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172453-7iYNTAEZpNsJ.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172453-7iYNTAEZpNsJ.png",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172453-1HWEuvGj9Bzv.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-19T17:00:00Z"
+            }
+          ]
+        }
+      },
+      "failed": false
+    },
+    "verified": false,
+    "addedAt": "2025-04-19T17:00:00Z"
+  },
+  {
     "title": "Amagami-san Chi no Enmusubi",
     "route": "amagami-san-chi-no-enmusubi",
     "romaji": "Amagami-san Chi no Enmusubi",
@@ -872,7 +943,7 @@
       "hidive": "www.hidive.com/season/26756",
       "apple": "apple.co/3WTLWLW"
     },
-    "airingStatus": "delayed-air",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -3023,7 +3094,7 @@
     "native": "わたしの幸せな結婚 第二期",
     "delayedFrom": "2025-03-24T13:30:00Z",
     "delayedUntil": "2025-03-31T13:30:00Z",
-    "status": "Ongoing",
+    "status": "Delayed",
     "episodeDate": "2025-03-17T13:30:00Z",
     "episodeNumber": 11,
     "episodes": 13,
@@ -3040,7 +3111,7 @@
     "streams": {
       "netflix": "www.netflix.com/title/81564905"
     },
-    "airingStatus": "aired",
+    "airingStatus": "delayed-air",
     "unaired": false,
     "media": {
       "parseObject": {
