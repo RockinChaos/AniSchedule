@@ -542,10 +542,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2089,
-          "airingAt": 1742766000
-        },
-        {
           "episode": 2090,
           "airingAt": 1743370800
         },
@@ -1060,10 +1056,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 81,
-          "airingAt": 1742781600
-        },
-        {
           "episode": 82,
           "airingAt": 1743386400
         },
@@ -1158,6 +1150,10 @@
         {
           "episode": 105,
           "airingAt": 1757296800
+        },
+        {
+          "episode": 106,
+          "airingAt": 1757901600
         }
       ]
     }
@@ -3769,6 +3765,38 @@
     }
   },
   {
+    "id": 174390,
+    "idMal": 57924,
+    "title": {
+      "romaji": "Tono to Inu",
+      "english": null,
+      "native": "殿と犬",
+      "userPreferred": "Tono to Inu"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174390-SWbzfNExA59t.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174390-SWbzfNExA59t.jpg",
+      "color": "#e4bb93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 24,
+          "airingAt": 1743080040
+        }
+      ]
+    }
+  },
+  {
     "id": 174634,
     "idMal": 59185,
     "title": {
@@ -3940,7 +3968,7 @@
       "color": "#5dbbf1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175409-0IT62ftb3x6i.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4150,10 +4178,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1742788800
-        },
-        {
           "episode": 25,
           "airingAt": 1743393600
         },
@@ -4248,6 +4272,10 @@
         {
           "episode": 48,
           "airingAt": 1757304000
+        },
+        {
+          "episode": 49,
+          "airingAt": 1757908800
         }
       ]
     }
@@ -8117,7 +8145,7 @@
       "nodes": [
         {
           "episode": 13,
-          "airingAt": 1743357000
+          "airingAt": 1743961800
         }
       ]
     }
