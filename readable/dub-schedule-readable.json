@@ -1430,7 +1430,7 @@
     "streams": {
       "crunchyroll": "www.crunchyroll.com/series/G4PH0WJJG/medaka-kuroiwa-is-impervious-to-my-charms"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "airing",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -1464,8 +1464,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-03-24T20:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-03-31T20:00:00Z"
             }
           ]
         }
@@ -2131,7 +2131,7 @@
       "youtube": "www.youtube.com/playlist?list=PLxSscENEp7Jj9WjsCCnhQehPwk1vwiwnN",
       "apple": "apple.co/4hwl10O"
     },
-    "airingStatus": "unaired",
+    "airingStatus": "aired",
     "unaired": false,
     "media": {
       "parseObject": {
@@ -2165,8 +2165,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-03-24T19:30:00Z"
+              "episode": 12,
+              "airingAt": "2025-03-31T19:30:00Z"
             }
           ]
         }
@@ -2787,7 +2787,7 @@
         "route": "tv"
       }
     ],
-    "imageVersionRoute": "anime/jpg/default/witch-watch-5ed1470287.jpg",
+    "imageVersionRoute": "anime/jpg/default/witch-watch-a3d0ab51e0.jpg",
     "streams": {
       "netflix": "www.netflix.com/title/81991687"
     },
