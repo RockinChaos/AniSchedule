@@ -44,7 +44,7 @@ async function fetchPreviousWeek() {
     }
 
     console.log(`Fetching dub timetables for the previous week: Year ${year}, Week ${week}...`)
-    fetchInProgress = fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN}).then((data) => {
+    fetchInProgress = fetchAiringSchedule({ type: 'timetables', year, week, token: BEARER_TOKEN }).then((data) => {
         previousWeekTimetables = data
         fetchInProgress = null
         return data
@@ -141,18 +141,28 @@ export async function fetchDubSchedule() {
             } else if ((existingInAiring === -1) && !entry.verified && !(entry.episodeNumber < 2) && !(daysAgo(new Date(entry.episodeDate)) >= 1 && getCurrentDay() === 1)) { // highly likely someone fucked up and realized their fuck-up, but we should keep any series older than 1 day if the current day is a Monday (roll-over) as they likely are batch drops instead of weekly releases.
                 const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
                 if (!previousWeek || previousWeek.episodeNumber !== entry.episodes || !(previousWeek.subtractedEpisodeNumber <= 1)) {
-                    changes.push(`(Dub) The un-verified series ${entry.media?.media?.title?.userPreferred} was removed from the timetables.`)
-                    console.log(`The un-verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this was likely added by mistake...`)
-                    const episodeFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))?.filter(episode => {
-                        if (episode.id === entry.media?.media?.id) {
-                            changes.push(`(Dub) Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} (Timetables Correction).`)
-                            console.log(`Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} as the un-verified series has been removed from the timetables.`)
-                            return false
-                        }
-                        return true
-                    }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
-                    saveJSON(path.join('./raw/dub-episode-feed.json'), episodeFeed)
-                    saveJSON(path.join('./readable/dub-episode-feed-readable.json'), episodeFeed, true)
+                    const title = await fetchAiringSchedule({type: 'anime', route: entry.route, token: BEARER_TOKEN})
+                    const oneYearAgo = new Date()
+                    oneYearAgo.setFullYear(new Date().getFullYear() - 1)
+                    if (title && (new Date(title.dubPremier) < new Date() && new Date(title.dubPremier) >= oneYearAgo)) {
+                        const entryCopy = structuredClone(entry)
+                        entryCopy.episodeDate = title.dubPremier
+                        console.log(`The un-verified series ${entry.media?.media?.title?.userPreferred} was detected as missing from the timetables, a query for the title ${entry.route} states the dub has already aired! ... This was likely a database correction.`)
+                        changes.push(...await updateDubFeed([entryCopy]))
+                    } else {
+                        changes.push(`(Dub) The un-verified series ${entry.media?.media?.title?.userPreferred} was removed from the timetables.`)
+                        console.log(`The un-verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this was likely added by mistake...`)
+                        const episodeFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))?.filter(episode => {
+                            if (episode.id === entry.media?.media?.id) {
+                                changes.push(`(Dub) Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} (Timetables Correction).`)
+                                console.log(`Removed Episode ${episode.episode.aired} for ${entry.media?.media?.title?.userPreferred} as the un-verified series has been removed from the timetables.`)
+                                return false
+                            }
+                            return true
+                        }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+                        saveJSON(path.join('./raw/dub-episode-feed.json'), episodeFeed)
+                        saveJSON(path.join('./readable/dub-episode-feed-readable.json'), episodeFeed, true)
+                    }
                 }
             } else if ((existingInAiring === -1) && entry.verified && (new Date(entry.delayedUntil) > new Date(entry.episodeDate))) {
                 changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this is likely a mistake or a bug!`)
@@ -394,9 +404,9 @@ export async function fetchDubSchedule() {
 }
 
 // update dub schedule episode feed //
-export async function updateDubFeed() {
+export async function updateDubFeed(optSchedule) {
     const changes = []
-    const schedule = loadJSON(path.join('./raw/dub-schedule.json'))
+    const schedule = optSchedule || loadJSON(path.join('./raw/dub-schedule.json'))
     let existingFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
     const removedEpisodes = []
     const modifiedEpisodes = []
