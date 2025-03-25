@@ -1825,6 +1825,38 @@
     "unaired": true
   },
   {
+    "id": 144779,
+    "idMal": 50855,
+    "title": {
+      "romaji": "Yamato yo Towa ni: REBEL3199",
+      "english": "Star Blazers: Space Battleship Yamato 3199",
+      "native": "ヤマトよ永遠に REBEL3199",
+      "userPreferred": "Star Blazers: Space Battleship Yamato 3199"
+    },
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144779-WJ8aJbYk3o5t.png",
+      "color": "#4386f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1744297200
+        }
+      ]
+    }
+  },
+  {
     "id": 145740,
     "idMal": 51119,
     "title": {
@@ -2601,41 +2633,6 @@
         {
           "episode": 25,
           "airingAt": 1748439000
-        }
-      ]
-    }
-  },
-  {
-    "id": 164172,
-    "idMal": 55071,
-    "title": {
-      "romaji": "Amagami-san Chi no Enmusubi",
-      "english": "Tying the Knot with an Amagami Sister",
-      "native": "甘神さんちの縁結び",
-      "userPreferred": "Tying the Knot with an Amagami Sister"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Ecchi",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx164172-GY2aqItIuqtR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx164172-GY2aqItIuqtR.jpg",
-      "color": "#e47850"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/164172-ceuofxXerReI.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1742914800
         }
       ]
     }
@@ -3671,38 +3668,6 @@
     }
   },
   {
-    "id": 171545,
-    "idMal": 57533,
-    "title": {
-      "romaji": "Youkai Gakkou no Sensei Hajimemashita!",
-      "english": "A Terrified Teacher at Ghoul School!",
-      "native": "妖怪学校の先生はじめました！",
-      "userPreferred": "A Terrified Teacher at Ghoul School!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171545-j9foxkHeXec7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171545-j9foxkHeXec7.jpg",
-      "color": "#f1c993"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1742911200
-        }
-      ]
-    }
-  },
-  {
     "id": 172019,
     "idMal": 57592,
     "title": {
@@ -4093,6 +4058,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 174802,
+    "idMal": 58131,
+    "title": {
+      "romaji": "Shiunji-ke no Kodomotachi",
+      "english": "The Shiunji Family Children",
+      "native": "紫雲寺家の子供たち",
+      "userPreferred": "The Shiunji Family Children"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174802-ILahIZlNWN3R.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174802-ILahIZlNWN3R.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744119000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744723800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745328600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745933400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746538200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747143000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747747800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748352600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748957400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749562200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750167000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750771800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 175137,
@@ -5015,38 +5057,6 @@
     "unaired": true
   },
   {
-    "id": 178022,
-    "idMal": 59055,
-    "title": {
-      "romaji": "Hana wa Saku, Shura no Gotoku",
-      "english": "Flower and Asura",
-      "native": "花は咲く、修羅の如く",
-      "userPreferred": "Flower and Asura"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Slice of Life"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178022-gB3zAfazGBJ6.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178022-gB3zAfazGBJ6.jpg",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178022-bxiuw2sgcTsS.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742920200
-        }
-      ]
-    }
-  },
-  {
     "id": 178046,
     "idMal": 59070,
     "title": {
@@ -5361,39 +5371,6 @@
         {
           "episode": 12,
           "airingAt": 1743085800
-        }
-      ]
-    }
-  },
-  {
-    "id": 178550,
-    "idMal": 59142,
-    "title": {
-      "romaji": "Unnamed Memory Act.2",
-      "english": "Unnamed Memory Season 2",
-      "native": "Unnamed Memory Act.2",
-      "userPreferred": "Unnamed Memory Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178550-1mjYHtOwiqkC.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178550-1mjYHtOwiqkC.jpg",
-      "color": "#281a93"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178550-iM5NTASgQ4wt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742913000
         }
       ]
     }
@@ -6672,9 +6649,9 @@
     "idMal": 59745,
     "title": {
       "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
-      "english": null,
+      "english": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
       "native": "ちょっとだけ愛が重すぎるダークエルフが異世界から追いかけてきた",
-      "userPreferred": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita"
+      "userPreferred": "Yandere Dark Elf: She Chased Me All the Way From Another World!"
     },
     "format": "TV_SHORT",
     "genres": [
@@ -6929,40 +6906,6 @@
     "unaired": true
   },
   {
-    "id": 181440,
-    "idMal": 59843,
-    "title": {
-      "romaji": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
-      "english": null,
-      "native": "アルドノア・ゼロ 雨の断章 -The Penultimate Truth-",
-      "userPreferred": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth"
-    },
-    "format": "OVA",
-    "genres": [
-      "Fantasy",
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181440-YfrrFmLHwFBR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181440-YfrrFmLHwFBR.jpg",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1742914800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 181886,
     "idMal": 59914,
     "title": {
@@ -6991,10 +6934,6 @@
         {
           "episode": 11,
           "airingAt": 1743345000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743949800
         }
       ]
     }
@@ -8644,6 +8583,88 @@
     "unaired": true
   },
   {
+    "id": 185213,
+    "idMal": 60449,
+    "title": {
+      "romaji": "Kidou Senshi Gundam GQuuuuuuX",
+      "english": "Mobile Suit Gundam GQuuuuuuX",
+      "native": "機動戦士Gundam GQuuuuuuX",
+      "userPreferred": "Mobile Suit Gundam GQuuuuuuX"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185213-RKQN0qxKlqd6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185213-RKQN0qxKlqd6.jpg",
+      "color": "#00ff0d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-5ySYli2FDWs9.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744126140
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744730940
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745335740
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745940540
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746545340
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747150140
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747754940
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748359740
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748964540
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749569340
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750174140
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750778940
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751383740
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185259,
     "idMal": 60446,
     "title": {
@@ -9800,6 +9821,59 @@
         {
           "episode": 13,
           "airingAt": 1750961760
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 188131,
+    "idMal": 61238,
+    "title": {
+      "romaji": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku ",
+      "english": null,
+      "native": "ちくわ戦記～おれのカワイイで地球侵略～",
+      "userPreferred": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku "
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188131-99m0d0jIBAUg.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188131-99m0d0jIBAUg.png",
+      "color": "#f1c943"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744116960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744721760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745326560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745931360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746536160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747140960
         }
       ]
     },
