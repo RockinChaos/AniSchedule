@@ -1853,37 +1853,6 @@
     }
   },
   {
-    "id": 145740,
-    "idMal": 51119,
-    "title": {
-      "romaji": "Grisaia: Phantom Trigger THE ANIMATION (TV)",
-      "english": "Grisaia: Phantom Trigger",
-      "native": "グリザイア：ファントムトリガー THE ANIMATION (TV)",
-      "userPreferred": "Grisaia: Phantom Trigger"
-    },
-    "format": "TV",
-    "genres": [
-      "Action"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx145740-KtUZ6O59DaDq.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx145740-KtUZ6O59DaDq.jpg",
-      "color": "#5d93e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1743004800
-        }
-      ]
-    }
-  },
-  {
     "id": 149118,
     "idMal": 51818,
     "title": {
@@ -2561,79 +2530,6 @@
     }
   },
   {
-    "id": 163134,
-    "idMal": 54857,
-    "title": {
-      "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
-      "english": "Re:ZERO -Starting Life in Another World- Season 3",
-      "native": "Re:ゼロから始める異世界生活 3rd season",
-      "userPreferred": "Re:ZERO -Starting Life in Another World- Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Psychological",
-      "Romance",
-      "Thriller"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-Y0r8AGBeVlCi.jpg",
-      "color": "#bbd6f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163134-CqaXjXVivwJ5.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1742995800
-        },
-        {
-          "episode": 17,
-          "airingAt": 1743600600
-        },
-        {
-          "episode": 18,
-          "airingAt": 1744205400
-        },
-        {
-          "episode": 19,
-          "airingAt": 1744810200
-        },
-        {
-          "episode": 20,
-          "airingAt": 1745415000
-        },
-        {
-          "episode": 21,
-          "airingAt": 1746019800
-        },
-        {
-          "episode": 22,
-          "airingAt": 1746624600
-        },
-        {
-          "episode": 23,
-          "airingAt": 1747229400
-        },
-        {
-          "episode": 24,
-          "airingAt": 1747834200
-        },
-        {
-          "episode": 25,
-          "airingAt": 1748439000
-        }
-      ]
-    }
-  },
-  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -2869,6 +2765,82 @@
         {
           "episode": 12,
           "airingAt": 1750683600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 166371,
+    "idMal": 55710,
+    "title": {
+      "romaji": "HANA-Doll*: Reinterpretation of Flowering",
+      "english": null,
+      "native": "華Doll*-Reinterpretation of Flowering-",
+      "userPreferred": "HANA-Doll*: Reinterpretation of Flowering"
+    },
+    "format": "TV",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166371-9YKL41d3r9RS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166371-9YKL41d3r9RS.jpg",
+      "color": "#e43535"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744205400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744810200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745415000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746019800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746624600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747229400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747834200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748439000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749043800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749648600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750253400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750858200
         }
       ]
     },
@@ -4313,37 +4285,6 @@
     }
   },
   {
-    "id": 175443,
-    "idMal": 58271,
-    "title": {
-      "romaji": "Honey Lemon Soda",
-      "english": "Honey Lemon Soda",
-      "native": "ハニーレモンソーダ",
-      "userPreferred": "Honey Lemon Soda"
-    },
-    "format": "TV",
-    "genres": [
-      "Romance"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-yeamxYxCwLSe.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175443-yeamxYxCwLSe.jpg",
-      "color": "#e4e443"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175443-g0uKvQh9uFe1.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743004500
-        }
-      ]
-    }
-  },
-  {
     "id": 175872,
     "idMal": 58359,
     "title": {
@@ -4550,39 +4491,6 @@
     }
   },
   {
-    "id": 176234,
-    "idMal": 58484,
-    "title": {
-      "romaji": "Ishura 2nd Season",
-      "english": "ISHURA Season 2",
-      "native": "異修羅 第2期",
-      "userPreferred": "ISHURA Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176234-Wx2rAYr7YSD8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176234-Wx2rAYr7YSD8.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1742997600
-        }
-      ]
-    }
-  },
-  {
     "id": 176301,
     "idMal": 58514,
     "title": {
@@ -4755,10 +4663,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1743001200
-        },
         {
           "episode": 12,
           "airingAt": 1743606000
@@ -5837,40 +5741,6 @@
         {
           "episode": 25,
           "airingAt": 1743293700
-        }
-      ]
-    }
-  },
-  {
-    "id": 179297,
-    "idMal": 59265,
-    "title": {
-      "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
-      "english": "Magic Maker: How to Make Magic in Another World",
-      "native": "マジック・メイカー　～異世界魔法の作り方～",
-      "userPreferred": "Magic Maker: How to Make Magic in Another World"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179297-qaG8nCqMpR3o.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179297-qaG8nCqMpR3o.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743001200
         }
       ]
     }
@@ -7220,39 +7090,6 @@
     }
   },
   {
-    "id": 182417,
-    "idMal": 60012,
-    "title": {
-      "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season",
-      "english": null,
-      "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 3rd Season",
-      "userPreferred": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182417-zKlgy4KbGj1H.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182417-zKlgy4KbGj1H.jpg",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1743001200
-        }
-      ]
-    }
-  },
-  {
     "id": 182419,
     "idMal": 60009,
     "title": {
@@ -7771,6 +7608,83 @@
     "unaired": true
   },
   {
+    "id": 183275,
+    "idMal": 60157,
+    "title": {
+      "romaji": "Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru",
+      "english": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom",
+      "native": "完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる",
+      "userPreferred": "The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183275-WtAo77sYDFW8.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183275-WtAo77sYDFW8.png",
+      "color": "#fee450"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744210800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744815600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745420400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746025200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746630000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747234800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747839600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748444400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749049200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749654000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750258800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750863600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 183423,
     "idMal": 60108,
     "title": {
@@ -8029,6 +7943,82 @@
         }
       ]
     }
+  },
+  {
+    "id": 184182,
+    "idMal": 60280,
+    "title": {
+      "romaji": "Zenryoku Usagi (2025)",
+      "english": null,
+      "native": "全力ウサギ (2025)",
+      "userPreferred": "Zenryoku Usagi (2025)"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 5,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184182-1VaS86GSiMOE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184182-1VaS86GSiMOE.png",
+      "color": "#f1bb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744203360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744808160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745412960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746017760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746622560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747227360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747832160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748436960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749041760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749646560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750251360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750856160
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 184279,
