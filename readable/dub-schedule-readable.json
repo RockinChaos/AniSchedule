@@ -1986,6 +1986,62 @@
     "addedAt": "2025-01-18T21:00:00Z"
   },
   {
+    "title": "Trillion Game",
+    "route": "trillion-game",
+    "native": "トリリオンゲーム",
+    "delayedFrom": "2025-01-16T21:30:00Z",
+    "delayedUntil": "2025-01-23T21:30:00Z",
+    "episodeDate": "2025-03-27T21:30:00Z",
+    "episodeNumber": 23,
+    "episodes": 26,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 169315,
+        "idMal": 56662,
+        "title": {
+          "romaji": "Trillion Game",
+          "english": "TRILLION GAME",
+          "native": "トリリオンゲーム",
+          "userPreferred": "TRILLION GAME"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Psychological"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169315-NtbOlSyDtSCZ.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169315-NtbOlSyDtSCZ.png",
+          "color": "#e45d86"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169315-j9dzBgcmRrWJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 23,
+              "airingAt": "2025-03-27T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-03-26T18:24:25Z"
+  },
+  {
     "title": "Watashi no Shiawase na Kekkon 2nd Season",
     "route": "watashi-no-shiawase-na-kekkon-2nd-season",
     "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
