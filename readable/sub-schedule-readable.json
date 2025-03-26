@@ -4352,38 +4352,6 @@
     }
   },
   {
-    "id": 175869,
-    "idMal": 58351,
-    "title": {
-      "romaji": "Chibi Godzilla no Gyakushuu 2",
-      "english": "Chibi Godzilla Raids Again Season 2",
-      "native": "ちびゴジラの逆襲２",
-      "userPreferred": "Chibi Godzilla Raids Again Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 3,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175869-SpbuxMwNGGZc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175869-SpbuxMwNGGZc.jpg",
-      "color": "#f1c90d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175869-PZpl930JZQD7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 52,
-          "airingAt": 1742940420
-        }
-      ]
-    }
-  },
-  {
     "id": 175872,
     "idMal": 58359,
     "title": {
@@ -9827,6 +9795,137 @@
     "unaired": true
   },
   {
+    "id": 188039,
+    "idMal": 60689,
+    "title": {
+      "romaji": "Rainbow Bubblegem 2: Secret",
+      "english": null,
+      "native": "레인보우 버블젬 2 시크릿",
+      "userPreferred": "Rainbow Bubblegem 2: Secret"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188039-NwF00gTcMwyZ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188039-NwF00gTcMwyZ.png",
+      "color": "#f1ae35"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744152360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744757160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745361960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745966760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746571560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747176360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747781160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748385960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748990760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749595560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750200360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750805160
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751409960
+        },
+        {
+          "episode": 14,
+          "airingAt": 1752014760
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752619560
+        },
+        {
+          "episode": 16,
+          "airingAt": 1753224360
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753829160
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754433960
+        },
+        {
+          "episode": 19,
+          "airingAt": 1755038760
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755643560
+        },
+        {
+          "episode": 21,
+          "airingAt": 1756248360
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756853160
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757457960
+        },
+        {
+          "episode": 24,
+          "airingAt": 1758062760
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758667560
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 188131,
     "idMal": 61238,
     "title": {
@@ -9906,20 +10005,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1742950800
-        },
-        {
-          "episode": 2,
-          "airingAt": 1742950800
-        },
-        {
           "episode": 3,
           "airingAt": 1744160400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188394,
