@@ -406,7 +406,8 @@ export async function fetchDubSchedule() {
 export async function updateDubFeed(optSchedule) {
     const changes = []
     const schedule = optSchedule || loadJSON(path.join('./raw/dub-schedule.json'))
-    let existingFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
+    const exactFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
+    let existingFeed = structuredClone(exactFeed)
     const removedEpisodes = []
     const modifiedEpisodes = []
 
@@ -567,7 +568,7 @@ export async function updateDubFeed(optSchedule) {
     }).sort((a, b) => b.episode.aired - a.episode.aired)
 
     const newFeed = Object.values([...newEpisodes.filter(({ id, episode }) => !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
-    if (JSON.stringify(newFeed) !== JSON.stringify(existingFeed || {})) { // helps prevent rebase conflicts
+    if (JSON.stringify(newFeed) !== JSON.stringify(exactFeed || {})) { // helps prevent rebase conflicts
         saveJSON(path.join('./raw/dub-episode-feed.json'), newFeed)
         saveJSON(path.join('./readable/dub-episode-feed-readable.json'), newFeed, true)
     }
