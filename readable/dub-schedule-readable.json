@@ -178,8 +178,9 @@
     "romaji": "Ameku Takao no Suiri Karte",
     "english": "Ameku M.D.: Doctor Detective",
     "native": "天久鷹央の推理カルテ",
-    "delayedFrom": "2025-02-26T20:30:00Z",
-    "delayedUntil": "2025-03-05T20:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-03-26T20:30:00Z",
+    "delayedUntil": "2025-04-02T20:30:00Z",
     "episodeDate": "2025-03-26T20:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -218,7 +219,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-04-02T20:30:00Z"
             }
           ]
