@@ -3040,40 +3040,6 @@
     "unaired": true
   },
   {
-    "id": 167143,
-    "idMal": 55997,
-    "title": {
-      "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
-      "english": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
-      "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
-      "userPreferred": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167143-SoFo5kOvlkbO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167143-SoFo5kOvlkbO.jpg",
-      "color": "#ffbb43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167143-YGnuSeaD90mT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743174000
-        }
-      ]
-    }
-  },
-  {
     "id": 167336,
     "idMal": 56038,
     "title": {
@@ -3526,40 +3492,6 @@
     }
   },
   {
-    "id": 172439,
-    "idMal": 57648,
-    "title": {
-      "romaji": "Nihon e Youkoso Elf-san.",
-      "english": "Welcome to Japan, Ms. Elf!",
-      "native": "日本へようこそエルフさん。",
-      "userPreferred": "Welcome to Japan, Ms. Elf!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172439-sTda7baXB0Fh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172439-sTda7baXB0Fh.jpg",
-      "color": "#5dbbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172439-5XFq61KJyIPW.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743166800
-        }
-      ]
-    }
-  },
-  {
     "id": 173263,
     "idMal": 57796,
     "title": {
@@ -3585,10 +3517,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1743182580
-        },
         {
           "episode": 25,
           "airingAt": 1743787380
@@ -3913,41 +3841,6 @@
     }
   },
   {
-    "id": 175198,
-    "idMal": 58216,
-    "title": {
-      "romaji": "Übel Blatt",
-      "english": "Übel Blatt",
-      "native": "Übel Blatt～ユーベルブラット～",
-      "userPreferred": "Übel Blatt"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Ecchi",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175198-AtWwEQPTjQ6N.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175198-AtWwEQPTjQ6N.jpg",
-      "color": "#1a6bd6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175198-xWH6PKjANEhw.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743175800
-        }
-      ]
-    }
-  },
-  {
     "id": 175422,
     "idMal": 58265,
     "title": {
@@ -4212,10 +4105,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1743170400
-        },
-        {
           "episode": 13,
           "airingAt": 1743775200
         },
@@ -4365,6 +4254,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 176702,
+    "idMal": 58614,
+    "title": {
+      "romaji": "Teogonia",
+      "english": "Teogonia",
+      "native": "神統記",
+      "userPreferred": "Teogonia"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176702-sD5AnHf8g4zi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176702-sD5AnHf8g4zi.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744385400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744990200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745595000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746199800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746804600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747409400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1748014200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748619000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749223800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749828600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750433400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1751038200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 177120,
@@ -5029,37 +4995,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 178312,
-    "idMal": 59113,
-    "title": {
-      "romaji": "FARMAGIA",
-      "english": "Farmagia",
-      "native": "ファーマギア",
-      "userPreferred": "Farmagia"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178312-iGhE7xvvCReS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178312-iGhE7xvvCReS.jpg",
-      "color": "#35aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743168600
-        }
-      ]
-    }
   },
   {
     "id": 178351,
@@ -6880,38 +6815,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 182877,
-    "idMal": 60094,
-    "title": {
-      "romaji": "Kankin Kuiki Level X 2nd Season",
-      "english": "Lockdown Zone: Level X Season 2",
-      "native": "監禁区域レベルX 続編",
-      "userPreferred": "Lockdown Zone: Level X Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Horror",
-      "Mystery"
-    ],
-    "duration": 13,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182877-In2sD6eEJdvw.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182877-In2sD6eEJdvw.png",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1743182580
-        }
-      ]
-    }
   },
   {
     "id": 182920,
