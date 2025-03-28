@@ -2868,9 +2868,9 @@
     "idMal": 60057,
     "title": {
       "romaji": "Chao Neng Lifang",
-      "english": null,
+      "english": "Super Cube",
       "native": "超能立方",
-      "userPreferred": "Chao Neng Lifang"
+      "userPreferred": "Super Cube"
     },
     "format": "ONA",
     "genres": [
@@ -2890,48 +2890,36 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1743127200
-        },
-        {
-          "episode": 3,
+          "episode": 5,
           "airingAt": 1743732000
         },
         {
-          "episode": 4,
+          "episode": 6,
           "airingAt": 1744336800
         },
         {
-          "episode": 5,
+          "episode": 7,
           "airingAt": 1744941600
         },
         {
-          "episode": 6,
+          "episode": 8,
           "airingAt": 1745546400
         },
         {
-          "episode": 7,
+          "episode": 9,
           "airingAt": 1746151200
         },
         {
-          "episode": 8,
+          "episode": 10,
           "airingAt": 1746756000
         },
         {
-          "episode": 9,
+          "episode": 11,
           "airingAt": 1747360800
         },
         {
-          "episode": 10,
-          "airingAt": 1747965600
-        },
-        {
-          "episode": 11,
-          "airingAt": 1748570400
-        },
-        {
           "episode": 12,
-          "airingAt": 1749175200
+          "airingAt": 1747965600
         }
       ]
     }
@@ -3366,6 +3354,10 @@
         {
           "episode": 12,
           "airingAt": 1743427800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1744201560
         }
       ]
     }
@@ -6115,6 +6107,37 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 180704,
+    "idMal": 59706,
+    "title": {
+      "romaji": "Elf ni Inmon wo Tsukeru Hon The Animation",
+      "english": null,
+      "native": "エルフに淫紋を付ける本 The Animation",
+      "userPreferred": "Elf ni Inmon wo Tsukeru Hon The Animation"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180704-ptQ5F6nRh6IZ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180704-ptQ5F6nRh6IZ.png",
+      "color": "#5de4bb"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1750950000
+        }
+      ]
+    }
   },
   {
     "id": 180812,
