@@ -285,10 +285,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1691,
-          "airingAt": 1743126900
-        },
-        {
           "episode": 1692,
           "airingAt": 1743731700
         },
@@ -383,6 +379,10 @@
         {
           "episode": 1715,
           "airingAt": 1757642100
+        },
+        {
+          "episode": 1716,
+          "airingAt": 1758246900
         }
       ]
     }
@@ -601,10 +601,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 597,
-          "airingAt": 1743113400
-        },
-        {
           "episode": 598,
           "airingAt": 1743718200
         },
@@ -699,6 +695,10 @@
         {
           "episode": 621,
           "airingAt": 1757628600
+        },
+        {
+          "episode": 622,
+          "airingAt": 1758233400
         }
       ]
     }
@@ -1290,10 +1290,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 256,
-          "airingAt": 1743115200
-        },
-        {
           "episode": 257,
           "airingAt": 1743460800
         },
@@ -1388,6 +1384,10 @@
         {
           "episode": 280,
           "airingAt": 1750372800
+        },
+        {
+          "episode": 281,
+          "airingAt": 1750718400
         }
       ]
     }
@@ -6940,7 +6940,7 @@
       "native": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～",
       "userPreferred": "The Unaware Atelier Meister"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Adventure",
@@ -6959,51 +6959,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1743944400
+          "airingAt": 1743341400
         },
         {
           "episode": 2,
-          "airingAt": 1744549200
+          "airingAt": 1743946200
         },
         {
           "episode": 3,
-          "airingAt": 1745154000
+          "airingAt": 1744551000
         },
         {
           "episode": 4,
-          "airingAt": 1745758800
+          "airingAt": 1745155800
         },
         {
           "episode": 5,
-          "airingAt": 1746363600
+          "airingAt": 1745760600
         },
         {
           "episode": 6,
-          "airingAt": 1746968400
+          "airingAt": 1746365400
         },
         {
           "episode": 7,
-          "airingAt": 1747573200
+          "airingAt": 1746970200
         },
         {
           "episode": 8,
-          "airingAt": 1748178000
+          "airingAt": 1747575000
         },
         {
           "episode": 9,
-          "airingAt": 1748782800
+          "airingAt": 1748179800
         },
         {
           "episode": 10,
-          "airingAt": 1749387600
+          "airingAt": 1748784600
         },
         {
           "episode": 11,
-          "airingAt": 1749992400
+          "airingAt": 1749389400
         },
         {
           "episode": 12,
-          "airingAt": 1750597200
+          "airingAt": 1749994200
         }
       ]
     },
