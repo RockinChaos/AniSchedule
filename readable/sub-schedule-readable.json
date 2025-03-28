@@ -926,10 +926,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 150,
-          "airingAt": 1743154800
-        },
-        {
           "episode": 151,
           "airingAt": 1743759600
         },
@@ -1024,6 +1020,10 @@
         {
           "episode": 174,
           "airingAt": 1757670000
+        },
+        {
+          "episode": 175,
+          "airingAt": 1758274800
         }
       ]
     }
@@ -2524,10 +2524,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 74,
-          "airingAt": 1743153900
-        },
-        {
           "episode": 75,
           "airingAt": 1743758700
         },
@@ -2622,6 +2618,10 @@
         {
           "episode": 98,
           "airingAt": 1757669100
+        },
+        {
+          "episode": 99,
+          "airingAt": 1758273900
         }
       ]
     }
@@ -7577,10 +7577,10 @@
     "id": 184182,
     "idMal": 60280,
     "title": {
-      "romaji": "Zenryoku Usagi (2025)",
+      "romaji": "Zenryoku Usagi Season 2",
       "english": null,
-      "native": "全力ウサギ (2025)",
-      "userPreferred": "Zenryoku Usagi (2025)"
+      "native": "全力ウサギシーズン2",
+      "userPreferred": "Zenryoku Usagi Season 2"
     },
     "format": "TV_SHORT",
     "genres": [
@@ -9192,10 +9192,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1743152400
-        },
         {
           "episode": 18,
           "airingAt": 1743757200
