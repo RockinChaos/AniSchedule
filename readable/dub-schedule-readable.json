@@ -5,8 +5,9 @@
     "romaji": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
     "english": "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-03-29T20:30:00Z",
+    "delayedUntil": "2025-04-05T20:30:00Z",
     "episodeDate": "2025-03-29T20:30:00Z",
     "episodeNumber": 10,
     "episodes": 24,
@@ -47,7 +48,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-04-05T20:30:00Z"
             }
           ]
@@ -277,8 +278,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-03-29T22:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-04-05T22:00:00Z"
             }
           ]
         }
