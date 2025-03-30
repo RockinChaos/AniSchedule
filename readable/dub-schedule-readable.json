@@ -898,8 +898,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-03-30T21:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-04-06T21:00:00Z"
             }
           ]
         }
@@ -1877,8 +1877,9 @@
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "english": "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game 2nd Season",
     "native": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
-    "delayedFrom": "2024-12-29T19:00:00Z",
-    "delayedUntil": "2025-01-19T19:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-03-30T19:00:00Z",
+    "delayedUntil": "2025-04-06T19:00:00Z",
     "episodeDate": "2025-03-30T19:00:00Z",
     "episodeNumber": 23,
     "episodes": 25,
@@ -1920,7 +1921,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 24,
+              "episode": 23,
               "airingAt": "2025-04-06T19:00:00Z"
             }
           ]
