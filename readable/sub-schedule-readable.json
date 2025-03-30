@@ -543,10 +543,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2780,
-          "airingAt": 1743327000
-        },
-        {
           "episode": 2781,
           "airingAt": 1743931800
         },
@@ -641,6 +637,10 @@
         {
           "episode": 2804,
           "airingAt": 1757842200
+        },
+        {
+          "episode": 2805,
+          "airingAt": 1758447000
         }
       ]
     }
@@ -988,10 +988,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 306,
-          "airingAt": 1743325200
-        },
         {
           "episode": 307,
           "airingAt": 1743930000
@@ -3317,41 +3313,6 @@
     }
   },
   {
-    "id": 170892,
-    "idMal": 53924,
-    "title": {
-      "romaji": "Jibaku Shounen Hanako-kun 2",
-      "english": "Toilet-bound Hanako-kun Season 2",
-      "native": "地縛少年花子くん２",
-      "userPreferred": "Toilet-bound Hanako-kun Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170892-VFCGRI41xFUF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170892-VFCGRI41xFUF.jpg",
-      "color": "#f1bb0d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743319800
-        }
-      ]
-    }
-  },
-  {
     "id": 172258,
     "idMal": 57616,
     "title": {
@@ -3413,39 +3374,6 @@
         {
           "episode": 25,
           "airingAt": 1743787380
-        }
-      ]
-    }
-  },
-  {
-    "id": 173333,
-    "idMal": 57827,
-    "title": {
-      "romaji": "Mashin Souzouden Wataru",
-      "english": "MACHINE GENESIS WATARU",
-      "native": "魔神創造伝ワタル",
-      "userPreferred": "MACHINE GENESIS WATARU"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Mecha"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173333-lqvM2Ya74nN9.jpg",
-      "color": "#e4ae43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173333-Q1FFyjucXfqN.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743323400
         }
       ]
     }
@@ -4088,41 +4016,6 @@
         {
           "episode": 24,
           "airingAt": 1750428000
-        }
-      ]
-    }
-  },
-  {
-    "id": 176508,
-    "idMal": 58572,
-    "title": {
-      "romaji": "Shangri-La Frontier 2nd Season",
-      "english": "Shangri-La Frontier Season 2",
-      "native": "シャングリラ・フロンティア 2nd season",
-      "userPreferred": "Shangri-La Frontier Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176508-NHYHx5YJcU5i.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176508-NHYHx5YJcU5i.png",
-      "color": "#78aed6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176508-8AtMjgNkPsFl.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1743321600
         }
       ]
     }
