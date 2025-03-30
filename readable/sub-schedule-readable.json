@@ -2042,12 +2042,12 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150654-AYFOHaZIQkCI.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150654-AYFOHaZIQkCI.png",
-      "color": "#e45093"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150654-pgima1BrY7N0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150654-pgima1BrY7N0.jpg",
+      "color": "#e45d93"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150654-wguen10rQctA.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3308,39 +3308,6 @@
         {
           "episode": 82,
           "airingAt": 1748505600
-        }
-      ]
-    }
-  },
-  {
-    "id": 172258,
-    "idMal": 57616,
-    "title": {
-      "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
-      "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
-      "native": "君のことが大大大大大好きな100人の彼女 第2期",
-      "userPreferred": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172258-CFvhqor0blLV.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172258-CFvhqor0blLV.jpg",
-      "color": "#e44386"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172258-w0t3aHFqywwp.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743341400
         }
       ]
     }
@@ -5000,6 +4967,85 @@
     "unaired": true
   },
   {
+    "id": 178781,
+    "idMal": 59189,
+    "title": {
+      "romaji": "Sentai Daishikkaku 2nd Season",
+      "english": null,
+      "native": "戦隊大失格 2nd season",
+      "userPreferred": "Sentai Daishikkaku 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178781-pbk5FgfiAJxS.jpg",
+      "color": "#35a1ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744554600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1745159400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745764200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746369000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746973800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747578600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1748183400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748788200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749393000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749997800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750602600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1751207400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178825,
     "idMal": 59199,
     "title": {
@@ -5463,40 +5509,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 180052,
-    "idMal": 59514,
-    "title": {
-      "romaji": "Sentai Red Isekai de Boukensha ni Naru",
-      "english": "The Red Ranger Becomes an Adventurer in Another World",
-      "native": "戦隊レッド異世界で冒険者になる",
-      "userPreferred": "The Red Ranger Becomes an Adventurer in Another World"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180052-i29SxOyEBtXB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180052-i29SxOyEBtXB.jpg",
-      "color": "#f1ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180052-nVZe4DvOdGHb.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743345000
-        }
-      ]
-    }
   },
   {
     "id": 180292,
@@ -6257,39 +6269,6 @@
     "unaired": true
   },
   {
-    "id": 181886,
-    "idMal": 59914,
-    "title": {
-      "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
-      "english": "Kinnikuman Perfect Origin Arc Season 2",
-      "native": "キン肉マン 完璧超人始祖編 Season 2",
-      "userPreferred": "Kinnikuman Perfect Origin Arc Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181886-gEqtKp6Wt2U2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181886-gEqtKp6Wt2U2.jpg",
-      "color": "#e4435d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1743345000
-        }
-      ]
-    }
-  },
-  {
     "id": 182060,
     "idMal": 59935,
     "title": {
@@ -6638,13 +6617,9 @@
       "color": "#5d50e4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183133-yGgdKRUyCMMv.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743341400
-        },
         {
           "episode": 2,
           "airingAt": 1743946200
@@ -6690,8 +6665,7 @@
           "airingAt": 1749994200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183161,
@@ -7711,6 +7685,85 @@
         {
           "episode": 12,
           "airingAt": 1750429800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185070,
+    "idMal": 60401,
+    "title": {
+      "romaji": "Uchuujin MuuMuu",
+      "english": null,
+      "native": "宇宙人ムームー",
+      "userPreferred": "Uchuujin MuuMuu"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185070-VKzUA4B9kmaX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185070-VKzUA4B9kmaX.jpg",
+      "color": "#e4d65d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744124400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1744729200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745334000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745938800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746543600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747148400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747753200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748358000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748962800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749567600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750172400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750777200
         }
       ]
     },
