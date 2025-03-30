@@ -444,8 +444,8 @@ export async function updateDubFeed(optSchedule) {
         existingFeed = existingFeed.filter(episode => {
             const foundEpisode = (episode.id === entry.media?.media?.id) && (((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate)))
             if (foundEpisode) {
-                changes.push(`(Dub) Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
-                console.log(`Removed Episode ${entry.episodeNumber} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date.`)
+                changes.push(`(Dub) Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
+                console.log(`Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date.`)
                 removedEpisodes.push(episode)
             }
             return !foundEpisode
