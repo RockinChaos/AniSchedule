@@ -5,10 +5,9 @@
     "romaji": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
     "english": "I Left my A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
     "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
-    "delayedText": "Delayed (Recap)",
     "delayedFrom": "2025-03-29T20:30:00Z",
     "delayedUntil": "2025-04-05T20:30:00Z",
-    "episodeDate": "2025-03-29T20:30:00Z",
+    "episodeDate": "2025-04-05T20:30:00Z",
     "episodeNumber": 10,
     "episodes": 24,
     "lengthMin": 24,
@@ -122,8 +121,8 @@
     "native": "甘神さんちの縁結び",
     "delayedFrom": "2025-02-11T20:00:00Z",
     "delayedUntil": "2025-02-18T20:00:00Z",
-    "episodeDate": "2025-03-25T20:00:00Z",
-    "episodeNumber": 22,
+    "episodeDate": "2025-04-01T20:00:00Z",
+    "episodeNumber": 23,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -179,10 +178,9 @@
     "romaji": "Ameku Takao no Suiri Karte",
     "english": "Ameku M.D.: Doctor Detective",
     "native": "天久鷹央の推理カルテ",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-03-26T20:30:00Z",
     "delayedUntil": "2025-04-02T20:30:00Z",
-    "episodeDate": "2025-03-26T20:30:00Z",
+    "episodeDate": "2025-04-02T20:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -239,8 +237,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-03-29T22:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-05T22:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -296,8 +294,8 @@
     "native": "どうせ、恋してしまうんだ。",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-03-27T20:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-03T20:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -345,68 +343,13 @@
     "addedAt": "2025-01-23T21:00:00Z"
   },
   {
-    "title": "Dr. Stone: Science Future",
-    "route": "dr-stone-science-future",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2025-03-27T14:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 172019,
-        "idMal": 57592,
-        "title": {
-          "romaji": "Dr. STONE: SCIENCE FUTURE",
-          "english": "Dr. STONE SCIENCE FUTURE",
-          "native": "Dr.STONE SCIENCE FUTURE",
-          "userPreferred": "Dr. STONE SCIENCE FUTURE"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172019-y0dLlAdingR2.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172019-y0dLlAdingR2.jpg",
-          "color": null
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172019-qchFwdk8OM4m.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-03-27T14:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-01-09T15:00:00Z"
-  },
-  {
     "title": "Dragon Ball DAIMA",
     "route": "dragon-ball-daima",
     "native": "ドラゴンボールDAIMA",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-03-28T20:30:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2025-04-04T20:30:00Z",
+    "episodeNumber": 13,
     "episodes": 20,
     "lengthMin": 24,
     "mediaTypes": [
@@ -461,8 +404,8 @@
     "native": "エルフさんは痩せられない。",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-03-26T17:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-04-02T17:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 11,
     "mediaTypes": [
@@ -519,8 +462,8 @@
     "native": "合コンに行ったら女がいなかった話",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-03-26T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-04-02T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -575,8 +518,8 @@
     "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-03-28T21:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-04T21:30:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -633,8 +576,8 @@
     "native": "ひとりぼっちの異世界攻略",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-03-26T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-04-02T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -688,8 +631,8 @@
     "native": "ハニーレモンソーダ",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-03-26T21:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-02T21:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -743,8 +686,8 @@
     "native": "ダンジョンに出会いを求るのは間違っているだろうかV",
     "delayedFrom": "2025-03-19T17:00:00Z",
     "delayedUntil": "2025-03-26T17:00:00Z",
-    "episodeDate": "2025-03-26T17:00:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2025-04-02T17:00:00Z",
+    "episodeNumber": 15,
     "episodes": 15,
     "lengthMin": 24,
     "mediaTypes": [
@@ -795,61 +738,6 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
-    "title": "Ishura 2nd Season",
-    "route": "ishura-2nd-season",
-    "native": "異修羅 第2期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2025-03-26T14:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 176234,
-        "idMal": 58484,
-        "title": {
-          "romaji": "Ishura 2nd Season",
-          "english": "ISHURA Season 2",
-          "native": "異修羅 第2期",
-          "userPreferred": "ISHURA Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176234-Wx2rAYr7YSD8.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176234-Wx2rAYr7YSD8.jpg",
-          "color": null
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-03-26T14:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-01-08T14:00:00Z"
-  },
-  {
     "title": "Jibaku Shounen Hanako-kun 2nd Season",
     "route": "jibaku-shounen-hanako-kun-2nd-season",
     "romaji": "Jibaku Shounen Hanako-kun 2nd Season",
@@ -857,8 +745,8 @@
     "native": "地縛少年花子くん 第2期",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-03-30T21:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-06T21:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -916,8 +804,8 @@
     "native": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2025-03-30T14:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-04-06T14:30:00Z",
+    "episodeNumber": 2,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1082,8 +970,8 @@
     "native": "君のことが大大大大大好きな100人の彼女 2期",
     "delayedFrom": "2025-03-02T19:30:00Z",
     "delayedUntil": "2025-03-09T19:30:00Z",
-    "episodeDate": "2025-03-30T19:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-06T19:30:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1140,7 +1028,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2024-08-22T21:30:00Z",
     "delayedUntil": "2025-05-22T21:30:00Z",
-    "episodeDate": "2025-03-27T21:30:00Z",
+    "episodeDate": "2025-04-03T21:30:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
@@ -1197,8 +1085,8 @@
     "native": "黒岩メダカに私の可愛いが通じない",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-03-24T20:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-03-31T20:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1254,8 +1142,8 @@
     "native": "薬屋のひとりごと 第2期",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-03-28T20:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-04-04T20:00:00Z",
+    "episodeNumber": 11,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1354,119 +1242,6 @@
     },
     "verified": false,
     "addedAt": "2025-04-05T07:00:00Z"
-  },
-  {
-    "title": "Magic Maker: Isekai Mahou no Tsukurikata",
-    "route": "magic-maker-isekai-mahou-no-tsukurikata",
-    "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
-    "english": "Magic Maker: How to Create Magic in Another World",
-    "native": "マジック・メイカー －異世界魔法の作り方－",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-03-26T16:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179297,
-        "idMal": 59265,
-        "title": {
-          "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
-          "english": "Magic Maker: How to Make Magic in Another World",
-          "native": "マジック・メイカー　～異世界魔法の作り方～",
-          "userPreferred": "Magic Maker: How to Make Magic in Another World"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179297-qaG8nCqMpR3o.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179297-qaG8nCqMpR3o.jpg",
-          "color": "#e4935d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-03-26T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-01-08T17:00:00Z"
-  },
-  {
-    "title": "Medalist",
-    "route": "medalist",
-    "native": "メダリスト",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2025-03-29T16:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 165171,
-        "idMal": 55318,
-        "title": {
-          "romaji": "Medalist",
-          "english": "Medalist",
-          "native": "メダリスト",
-          "userPreferred": "Medalist"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sports"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165171-nTOHsbh3pThN.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165171-nTOHsbh3pThN.jpg",
-          "color": "#f1bb5d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165171-STWwuJVhlDsm.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2025-03-29T16:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-01-04T16:32:00Z"
   },
   {
     "title": "Moonrise",
@@ -1586,8 +1361,8 @@
     "native": "Re:ゼロから始める異世界生活3",
     "delayedFrom": "2024-12-18T20:00:00Z",
     "delayedUntil": "2025-02-26T20:00:00Z",
-    "episodeDate": "2025-03-26T20:00:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2025-04-02T20:00:00Z",
+    "episodeNumber": 15,
     "episodes": 16,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1647,8 +1422,8 @@
     "native": "るろうに剣心 -明治剣客浪漫譚- 京都動乱",
     "delayedFrom": "2025-01-16T21:00:00Z",
     "delayedUntil": "2025-01-30T21:00:00Z",
-    "episodeDate": "2025-03-27T21:00:00Z",
-    "episodeNumber": 21,
+    "episodeDate": "2025-04-03T21:00:00Z",
+    "episodeNumber": 22,
     "episodes": 23,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1764,8 +1539,8 @@
     "native": "サラリーマンが異世界に行ったら四天王になった話",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-03-24T19:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-03-31T19:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1821,8 +1596,8 @@
     "native": "戦隊レッド 異世界で冒険者になる",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-03-30T20:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-04-06T20:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1877,10 +1652,9 @@
     "romaji": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "english": "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game 2nd Season",
     "native": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-03-30T19:00:00Z",
     "delayedUntil": "2025-04-06T19:00:00Z",
-    "episodeDate": "2025-03-30T19:00:00Z",
+    "episodeDate": "2025-04-06T19:00:00Z",
     "episodeNumber": 23,
     "episodes": 25,
     "lengthMin": 24,
@@ -1932,71 +1706,13 @@
     "addedAt": "2024-11-28T13:27:23Z"
   },
   {
-    "title": "Shiguang Dailiren: Yingdu Pian",
-    "route": "shi-guang-dai-li-ren-yingdu-pian",
-    "romaji": "Shiguang Dailiren: Yingdu Pian",
-    "english": "LINK CLICK: Bridon Arc",
-    "native": "时光代理人 英都篇",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-03-27T20:30:00Z",
-    "episodeNumber": 6,
-    "episodes": 6,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "ONA (Chinese)",
-        "route": "ona-chinese"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 170166,
-        "idMal": 56752,
-        "title": {
-          "romaji": "Shiguang Dailiren: Yingdu Pian",
-          "english": "Link Click: Bridon Arc",
-          "native": "时光代理人英都篇",
-          "userPreferred": "Link Click: Bridon Arc"
-        },
-        "format": "ONA",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Supernatural",
-          "Thriller"
-        ],
-        "duration": 23,
-        "seasonYear": null,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170166-VpX7l0Horthq.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170166-VpX7l0Horthq.jpg",
-          "color": "#e4aec9"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2025-03-27T20:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-02-21T20:00:00Z"
-  },
-  {
     "title": "Solo Leveling 2nd Season: Arise from the Shadow",
     "route": "solo-leveling-arise-from-the-shadow",
     "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-",
     "delayedFrom": "2025-02-15T20:00:00Z",
     "delayedUntil": "2025-02-22T20:00:00Z",
-    "episodeDate": "2025-03-29T20:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-04-05T20:00:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2045,212 +1761,13 @@
     "addedAt": "2025-01-18T21:00:00Z"
   },
   {
-    "title": "SYNDUALITY Noir",
-    "route": "synduality",
-    "delayedFrom": "0001-01-01T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2025-03-29T04:00:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 154643,
-        "idMal": 53026,
-        "title": {
-          "romaji": "SYNDUALITY Noir",
-          "english": "Synduality Noir",
-          "native": "SYNDUALITY Noir",
-          "userPreferred": "Synduality Noir"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Mecha",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2023,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154643-NbuhZQCxgKMj.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154643-NbuhZQCxgKMj.jpg",
-          "color": "#e4a143"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154643-KYvDbHPAGtVd.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-03-29T04:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-03-29T04:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-03-29T22:42:55Z"
-  },
-  {
-    "title": "SYNDUALITY Noir: Part 2",
-    "route": "synduality-noir-part-2",
-    "native": "SYNDUALITY Noir 第2クール",
-    "delayedFrom": "0001-01-01T04:05:00Z",
-    "delayedUntil": "0001-01-01T04:05:00Z",
-    "episodeDate": "2025-03-29T04:05:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 169559,
-        "idMal": 56731,
-        "title": {
-          "romaji": "SYNDUALITY Noir Part 2",
-          "english": "Synduality Noir Part 2",
-          "native": "SYNDUALITY Noir 第2クール",
-          "userPreferred": "Synduality Noir Part 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Mecha",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2024,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169559-iuwDKwgkksKu.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169559-iuwDKwgkksKu.jpg",
-          "color": "#f135d6"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169559-womJXJBP4AnG.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-03-29T04:05:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-03-29T04:05:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-03-29T22:42:55Z"
-  },
-  {
     "title": "Trillion Game",
     "route": "trillion-game",
     "native": "トリリオンゲーム",
     "delayedFrom": "2025-01-16T21:30:00Z",
     "delayedUntil": "2025-01-23T21:30:00Z",
-    "episodeDate": "2025-03-27T21:30:00Z",
-    "episodeNumber": 23,
+    "episodeDate": "2025-04-03T21:30:00Z",
+    "episodeNumber": 24,
     "episodes": 26,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2305,10 +1822,9 @@
     "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
     "english": "My Happy Marriage Season 2",
     "native": "わたしの幸せな結婚 第二期",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-03-24T13:30:00Z",
     "delayedUntil": "2025-03-31T13:30:00Z",
-    "episodeDate": "2025-03-24T13:30:00Z",
+    "episodeDate": "2025-03-31T13:30:00Z",
     "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
@@ -2363,8 +1879,8 @@
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2025-03-29T12:00:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2025-04-05T12:00:00Z",
+    "episodeNumber": 13,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
