@@ -19,9 +19,9 @@
     "duration": 24,
     "seasonYear": 1999,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-YCDoj1EkAxFn.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-YCDoj1EkAxFn.jpg",
-      "color": "#e49335"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-iDIATTJirloJ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-iDIATTJirloJ.png",
+      "color": "#e4a15d"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
@@ -3007,9 +3007,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-hMpEKtKTemuJ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167336-hMpEKtKTemuJ.png",
-      "color": "#e4ae5d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-O0zidw2tTrn5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167336-O0zidw2tTrn5.png",
+      "color": null
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167336-IzjrGm2QpTie.jpg",
@@ -3221,18 +3221,14 @@
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-wIQe1xfCc1XS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169441-wIQe1xfCc1XS.jpg",
-      "color": "#bbd6f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-md0M2yMJ0ULF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169441-md0M2yMJ0ULF.png",
+      "color": "#fe50e4"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169441-mtBavBBCN7uR.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1743427800
-        },
         {
           "episode": 13,
           "airingAt": 1744201560
@@ -6676,9 +6672,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-6uFwjG8vrcAV.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-6uFwjG8vrcAV.jpg",
-      "color": "#35a1f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-ONITwH8ojpaE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-ONITwH8ojpaE.png",
+      "color": "#d6bb1a"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183161-Vmw9QT27k3sM.jpg",
@@ -7779,9 +7775,9 @@
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-qxDBOwjnK3wN.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185073-qxDBOwjnK3wN.png",
-      "color": "#5078fe"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-Spt6YUVWxy3s.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185073-Spt6YUVWxy3s.png",
+      "color": "#c950f1"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185073-gKyL8oVOqMX1.jpg",
@@ -9682,10 +9678,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743433200
-        },
-        {
           "episode": 2,
           "airingAt": 1743519600
         },
@@ -9702,8 +9694,7 @@
           "airingAt": 1743778800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188884,
