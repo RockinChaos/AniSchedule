@@ -3728,10 +3728,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1743393600
-        },
-        {
           "episode": 26,
           "airingAt": 1743998400
         },
@@ -3826,6 +3822,10 @@
         {
           "episode": 49,
           "airingAt": 1757908800
+        },
+        {
+          "episode": 50,
+          "airingAt": 1758513600
         }
       ]
     }
@@ -6605,7 +6605,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183133-SSeg5j1UrMDG.png",
