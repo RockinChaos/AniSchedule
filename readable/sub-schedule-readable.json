@@ -1858,10 +1858,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743424200
-        },
-        {
           "episode": 2,
           "airingAt": 1744038000
         },
@@ -1906,8 +1902,7 @@
           "airingAt": 1750086000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 144779,
@@ -9712,7 +9707,7 @@
   },
   {
     "id": 188884,
-    "idMal": null,
+    "idMal": 61300,
     "title": {
       "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
       "english": null,
