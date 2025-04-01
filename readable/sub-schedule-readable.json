@@ -1387,6 +1387,38 @@
     }
   },
   {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 257,
+          "airingAt": 1751496000
+        }
+      ]
+    }
+  },
+  {
     "id": 142229,
     "idMal": 51088,
     "title": {
