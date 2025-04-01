@@ -659,9 +659,9 @@
         "duration": 23,
         "seasonYear": 2025,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-yeamxYxCwLSe.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175443-yeamxYxCwLSe.jpg",
-          "color": "#e4e443"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175443-Oblta59fDav7.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175443-Oblta59fDav7.png",
+          "color": "#d6e40d"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175443-g0uKvQh9uFe1.jpg",
@@ -1395,9 +1395,9 @@
         "duration": 24,
         "seasonYear": 2024,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-Y0r8AGBeVlCi.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-Y0r8AGBeVlCi.jpg",
-          "color": "#bbd6f1"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163134-nwpfZ6VZPPMX.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163134-nwpfZ6VZPPMX.png",
+          "color": "#86fe50"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163134-CqaXjXVivwJ5.jpg",
@@ -1822,8 +1822,9 @@
     "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
     "english": "My Happy Marriage Season 2",
     "native": "わたしの幸せな結婚 第二期",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-03-24T15:00:00Z",
-    "delayedUntil": "2025-03-31T15:00:00Z",
+    "delayedUntil": "2025-04-07T15:00:00Z",
     "episodeDate": "2025-03-31T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 13,
@@ -1863,7 +1864,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2025-04-07T15:00:00Z"
             }
           ]
