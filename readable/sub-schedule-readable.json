@@ -4808,9 +4808,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-wxK48CkZn9yT.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178680-wxK48CkZn9yT.jpg",
-      "color": "#e4c9ae"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-GeaG5ia9Nx2x.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178680-GeaG5ia9Nx2x.png",
+      "color": "#d6a11a"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178680-9HupCDo647QU.jpg",
@@ -4899,10 +4899,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743517800
-        },
-        {
           "episode": 2,
           "airingAt": 1744122600
         },
@@ -4947,8 +4943,7 @@
           "airingAt": 1750170600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178781,
@@ -5198,9 +5193,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-6FMVc2mdUwJO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179694-6FMVc2mdUwJO.jpg",
-      "color": "#e46b5d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-ZepMsQwbK6MB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179694-ZepMsQwbK6MB.jpg",
+      "color": null
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
@@ -7376,13 +7371,9 @@
       "color": "#5de4f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184279-MiADtn9N8rI3.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743519600
-        },
         {
           "episode": 2,
           "airingAt": 1744124400
@@ -7428,8 +7419,7 @@
           "airingAt": 1750172400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184470,
@@ -10094,10 +10084,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1743519600
-        },
         {
           "episode": 3,
           "airingAt": 1743606000
