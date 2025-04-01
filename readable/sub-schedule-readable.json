@@ -1387,38 +1387,6 @@
     }
   },
   {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 257,
-          "airingAt": 1751496000
-        }
-      ]
-    }
-  },
-  {
     "id": 142229,
     "idMal": 51088,
     "title": {
@@ -2418,6 +2386,38 @@
     }
   },
   {
+    "id": 162682,
+    "idMal": 54705,
+    "title": {
+      "romaji": "Kaitou Queen no Yuuga na Vacances",
+      "english": null,
+      "native": "怪盗クイーンの優雅な休暇（バカンス）",
+      "userPreferred": "Kaitou Queen no Yuuga na Vacances"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162682-rnE3R6x3I4KY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162682-rnE3R6x3I4KY.jpg",
+      "color": "#e4c943"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1747926000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -2620,6 +2620,39 @@
         {
           "episode": 12,
           "airingAt": 1750683600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 166249,
+    "idMal": 55709,
+    "title": {
+      "romaji": "Boku to Roboco Movie",
+      "english": null,
+      "native": "劇場版 僕とロボコ",
+      "userPreferred": "Boku to Roboco Movie"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-GOWftJA89enZ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166249-GOWftJA89enZ.jpg",
+      "color": "#d6bb1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744902000
         }
       ]
     },
@@ -3202,6 +3235,38 @@
         }
       ]
     }
+  },
+  {
+    "id": 172393,
+    "idMal": 57622,
+    "title": {
+      "romaji": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
+      "english": null,
+      "native": "うたの☆プリンスさまっ♪ TABOO NIGHT XXXX",
+      "userPreferred": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172393-8dwjbJYYGi9W.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172393-8dwjbJYYGi9W.jpg",
+      "color": "#f1f1c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1746716400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 173263,
@@ -4694,6 +4759,38 @@
     }
   },
   {
+    "id": 178445,
+    "idMal": null,
+    "title": {
+      "romaji": "Boku no Risou no Isekai Seikatsu",
+      "english": null,
+      "native": "ボクの理想の異世界生活",
+      "userPreferred": "Boku no Risou no Isekai Seikatsu"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178445-Vx7wQLiwH664.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178445-Vx7wQLiwH664.png",
+      "color": "#86bbe4"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1746111600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178680,
     "idMal": 59160,
     "title": {
@@ -5162,6 +5259,58 @@
     "unaired": true
   },
   {
+    "id": 179706,
+    "idMal": 59369,
+    "title": {
+      "romaji": "Lycoris Recoil: Friends are thieves of time.",
+      "english": null,
+      "native": "リコリス・リコイル Friends are thieves of time.",
+      "userPreferred": "Lycoris Recoil: Friends are thieves of time."
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179706-NvVrmMxnDatB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179706-NvVrmMxnDatB.jpg",
+      "color": "#e45043"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744804800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1745409600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1746014400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746619200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1747224000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747828800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179955,
     "idMal": 59452,
     "title": {
@@ -5392,6 +5541,40 @@
         {
           "episode": 12,
           "airingAt": 1750683600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 180124,
+    "idMal": 61198,
+    "title": {
+      "romaji": "Tabekko Doubutsu THE MOVIE",
+      "english": "Dream Animals THE MOVIE",
+      "native": "たべっ子どうぶつ THE MOVIE",
+      "userPreferred": "Dream Animals THE MOVIE"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180124-kLrE636DrdKx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b180124-kLrE636DrdKx.png",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1746025200
         }
       ]
     },
@@ -6150,6 +6333,39 @@
         {
           "episode": 10,
           "airingAt": 1749227400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 181839,
+    "idMal": 59897,
+    "title": {
+      "romaji": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu",
+      "english": null,
+      "native": "小林さんちのメイドラゴン さみしがりやの竜",
+      "userPreferred": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181839-pgM02tCNM2ae.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181839-pgM02tCNM2ae.png",
+      "color": "#50a1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750950000
         }
       ]
     },
@@ -7855,6 +8071,38 @@
     "unaired": true
   },
   {
+    "id": 185212,
+    "idMal": 60445,
+    "title": {
+      "romaji": "Meitantei Conan: Sekigan no Flashback",
+      "english": null,
+      "native": "名探偵コナン 隻眼の残像",
+      "userPreferred": "Meitantei Conan: Sekigan no Flashback"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185212-fMiVtbxva98b.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185212-fMiVtbxva98b.jpg",
+      "color": "#e48650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744930800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185213,
     "idMal": 60449,
     "title": {
@@ -8367,6 +8615,43 @@
     "unaired": true
   },
   {
+    "id": 185716,
+    "idMal": 60595,
+    "title": {
+      "romaji": "Hyakushou Kizoku 2 OVA",
+      "english": null,
+      "native": "百姓貴族 第2期 OVA",
+      "userPreferred": "Hyakushou Kizoku 2 OVA"
+    },
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185716-LYQR7AFNEC0m.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185716-LYQR7AFNEC0m.jpg",
+      "color": "#ffd635"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745334000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1745938800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185718,
     "idMal": 60596,
     "title": {
@@ -8806,6 +9091,43 @@
     "unaired": true
   },
   {
+    "id": 186058,
+    "idMal": 60980,
+    "title": {
+      "romaji": "Kuro Gal A La Carte",
+      "english": null,
+      "native": "黒ギャルアラカルト",
+      "userPreferred": "Kuro Gal A La Carte"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186058-knK1uJxYFkVy.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186058-knK1uJxYFkVy.png",
+      "color": "#f1ae5d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1749135600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752159600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 186300,
     "idMal": 60480,
     "title": {
@@ -8860,6 +9182,70 @@
         }
       ]
     }
+  },
+  {
+    "id": 186307,
+    "idMal": 60857,
+    "title": {
+      "romaji": "Notto Sexaroid Eurie!",
+      "english": null,
+      "native": "のっと・せくさろいど・エウリィ！",
+      "userPreferred": "Notto Sexaroid Eurie!"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186307-gFvI6OyQpql0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186307-gFvI6OyQpql0.png",
+      "color": "#d6781a"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745506800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186308,
+    "idMal": 61165,
+    "title": {
+      "romaji": "Amai Ijiwaru",
+      "english": null,
+      "native": "甘いイジワル",
+      "userPreferred": "Amai Ijiwaru"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186308-REUfR4DxBB18.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186308-REUfR4DxBB18.png",
+      "color": "#f1e4c9"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745506800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186313,
@@ -9016,6 +9402,109 @@
     "unaired": true
   },
   {
+    "id": 186716,
+    "idMal": 57093,
+    "title": {
+      "romaji": "Princess Principal: Crown Handler - Chapter 4",
+      "english": null,
+      "native": "プリンセス・プリンシパル Crown Handler 第4章",
+      "userPreferred": "Princess Principal: Crown Handler - Chapter 4"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-I873Q1vDa3Xt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186716-I873Q1vDa3Xt.jpg",
+      "color": "#865d28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1747926000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186827,
+    "idMal": 61232,
+    "title": {
+      "romaji": "Fuuki Iin to Fuuzoku Katsudou",
+      "english": null,
+      "native": "風紀委員とフーゾク活動",
+      "userPreferred": "Fuuki Iin to Fuuzoku Katsudou"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186827-B9FgO0n9G0IC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186827-B9FgO0n9G0IC.png",
+      "color": "#e4aea1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186827-W5UOiG4PgXrk.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745506800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1745506800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 187304,
+    "idMal": 61164,
+    "title": {
+      "romaji": "Inshoku-Ou Demar",
+      "english": null,
+      "native": "淫触王デマール",
+      "userPreferred": "Inshoku-Ou Demar"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 30,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187304-dkHzQQeaQHoy.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187304-dkHzQQeaQHoy.png",
+      "color": "#f1931a"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1748530800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 187362,
     "idMal": 61146,
     "title": {
@@ -9042,6 +9531,38 @@
         {
           "episode": 1,
           "airingAt": 1743949800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 187404,
+    "idMal": null,
+    "title": {
+      "romaji": "Asa made Shirudaku Oyakodon!!",
+      "english": null,
+      "native": "朝まで汁だく母娘丼！！",
+      "userPreferred": "Asa made Shirudaku Oyakodon!!"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750345200
         }
       ]
     },
@@ -9711,6 +10232,38 @@
         {
           "episode": 24,
           "airingAt": 1757629800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 188933,
+    "idMal": null,
+    "title": {
+      "romaji": "Princess Burst!",
+      "english": null,
+      "native": "プリンセスバースト！",
+      "userPreferred": "Princess Burst!"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188933-akAyf4m11e0y.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188933-akAyf4m11e0y.png",
+      "color": "#e4785d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750950000
         }
       ]
     },
