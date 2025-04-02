@@ -1307,10 +1307,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 103,
-          "airingAt": 1743559200
-        },
-        {
           "episode": 104,
           "airingAt": 1744164000
         },
@@ -4818,55 +4814,55 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1743607560
+          "airingAt": 1743693960
         },
         {
           "episode": 2,
-          "airingAt": 1744212360
+          "airingAt": 1744298760
         },
         {
           "episode": 3,
-          "airingAt": 1744817160
+          "airingAt": 1744903560
         },
         {
           "episode": 4,
-          "airingAt": 1745421960
+          "airingAt": 1745508360
         },
         {
           "episode": 5,
-          "airingAt": 1746026760
+          "airingAt": 1746113160
         },
         {
           "episode": 6,
-          "airingAt": 1746631560
+          "airingAt": 1746717960
         },
         {
           "episode": 7,
-          "airingAt": 1747236360
+          "airingAt": 1747322760
         },
         {
           "episode": 8,
-          "airingAt": 1747841160
+          "airingAt": 1747927560
         },
         {
           "episode": 9,
-          "airingAt": 1748445960
+          "airingAt": 1748532360
         },
         {
           "episode": 10,
-          "airingAt": 1749050760
+          "airingAt": 1749137160
         },
         {
           "episode": 11,
-          "airingAt": 1749655560
+          "airingAt": 1749741960
         },
         {
           "episode": 12,
-          "airingAt": 1750260360
+          "airingAt": 1750346760
         },
         {
           "episode": 13,
-          "airingAt": 1750865160
+          "airingAt": 1750951560
         }
       ]
     },
@@ -7857,6 +7853,38 @@
         {
           "episode": 12,
           "airingAt": 1750777200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185071,
+    "idMal": 60993,
+    "title": {
+      "romaji": "Moto Kare to wa Dekinakatta Sex Shite mo Ii Desu ka?",
+      "english": null,
+      "native": "元カレとはできなかったセックスしてもいいですか?",
+      "userPreferred": "Moto Kare to wa Dekinakatta Sex Shite mo Ii Desu ka?"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 30,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185071-lb95ZFqYyGut.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185071-lb95ZFqYyGut.png",
+      "color": "#ffbb35"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750950000
         }
       ]
     },
