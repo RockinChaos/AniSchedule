@@ -3526,10 +3526,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1743591600
-        },
-        {
           "episode": 19,
           "airingAt": 1744196400
         },
@@ -4307,10 +4303,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743591540
-        },
-        {
           "episode": 2,
           "airingAt": 1744196340
         },
@@ -4405,10 +4397,13 @@
         {
           "episode": 25,
           "airingAt": 1758106740
+        },
+        {
+          "episode": 26,
+          "airingAt": 1758711540
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177678,
@@ -6779,9 +6774,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-ONITwH8ojpaE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-ONITwH8ojpaE.png",
-      "color": "#d6bb1a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-4YfxBzFh26oD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-4YfxBzFh26oD.jpg",
+      "color": "#35a1f1"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183161-Vmw9QT27k3sM.jpg",
@@ -8878,7 +8873,7 @@
   },
   {
     "id": 185779,
-    "idMal": null,
+    "idMal": 61353,
     "title": {
       "romaji": "Hametsu no Yuuwaku",
       "english": null,
@@ -9604,9 +9599,9 @@
     "duration": 1,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187998-BH8BWVyckV0c.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187998-BH8BWVyckV0c.jpg",
-      "color": "#e4ae43"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187998-eWArrPyKvfw8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187998-eWArrPyKvfw8.jpg",
+      "color": "#e4bb43"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -10282,5 +10277,53 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 189513,
+    "idMal": null,
+    "title": {
+      "romaji": "Sousou no Frieren: ●● no Mahou 2",
+      "english": null,
+      "native": "葬送のフリーレン ～●●の魔法～２",
+      "userPreferred": "Sousou no Frieren: ●● no Mahou 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189513-1R9Sryve0K53.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189513-1R9Sryve0K53.png",
+      "color": "#aee45d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189513-HjE2qNupgfEe.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1746612000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1749031200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1751450400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754474400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1756893600
+        }
+      ]
+    }
   }
 ]
