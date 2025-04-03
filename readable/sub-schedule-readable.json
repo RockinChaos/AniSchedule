@@ -3460,37 +3460,6 @@
     }
   },
   {
-    "id": 174634,
-    "idMal": 59185,
-    "title": {
-      "romaji": "Sex ga Suki de Suki de Daisuki na Classmate no Anoko",
-      "english": null,
-      "native": "セックスが好きで好きで大好きなクラスメイトのあの娘",
-      "userPreferred": "Sex ga Suki de Suki de Daisuki na Classmate no Anoko"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174634-mKIuuDwfTkY9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174634-mKIuuDwfTkY9.png",
-      "color": "#ffe4bb"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1743692400
-        }
-      ]
-    }
-  },
-  {
     "id": 174802,
     "idMal": 58131,
     "title": {
@@ -3670,10 +3639,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743690600
-        },
-        {
           "episode": 2,
           "airingAt": 1744295400
         },
@@ -3718,8 +3683,7 @@
           "airingAt": 1750343400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 176191,
@@ -4831,7 +4795,7 @@
       "Comedy",
       "Drama"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-nIAhCizY46ZU.jpg",
@@ -4842,10 +4806,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178680-9HupCDo647QU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743693960
-        },
         {
           "episode": 2,
           "airingAt": 1744298760
@@ -4895,8 +4855,7 @@
           "airingAt": 1750951560
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178701,
@@ -5228,10 +5187,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743692160
-        },
-        {
           "episode": 2,
           "airingAt": 1744296960
         },
@@ -5276,8 +5231,7 @@
           "airingAt": 1750344960
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179706,
@@ -8130,16 +8084,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743692400
-        },
-        {
           "episode": 2,
           "airingAt": 1749135600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185212,
@@ -9343,10 +9292,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743699480
-        },
-        {
           "episode": 2,
           "airingAt": 1744304280
         },
@@ -9391,8 +9336,7 @@
           "airingAt": 1750352280
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186522,
@@ -9420,10 +9364,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743695640
-        },
         {
           "episode": 2,
           "airingAt": 1744300440
@@ -9469,8 +9409,7 @@
           "airingAt": 1750348440
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186716,
@@ -9666,10 +9605,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743704160
-        },
-        {
           "episode": 2,
           "airingAt": 1744308960
         },
@@ -9718,8 +9653,7 @@
           "airingAt": 1750961760
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188039,
@@ -10145,7 +10079,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 7,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
@@ -10156,10 +10090,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1743692400
-        },
         {
           "episode": 5,
           "airingAt": 1743778800
