@@ -1817,6 +1817,60 @@
     "addedAt": "2025-03-26T18:24:25Z"
   },
   {
+    "title": "Tu Bian Yingxiong X",
+    "route": "tu-bian-yingxiong-x",
+    "romaji": "Tu Bian Yingxiong X",
+    "english": "To Be Hero X",
+    "native": "凸变英雄X",
+    "delayedFrom": "0001-01-01T00:30:00Z",
+    "delayedUntil": "0001-01-01T00:30:00Z",
+    "episodeDate": "2025-04-06T00:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "ONA (Chinese)",
+        "route": "ona-chinese"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 156092,
+        "idMal": 53447,
+        "title": {
+          "romaji": "Tu Bian Yingxiong X",
+          "english": "To Be Hero X",
+          "native": "凸变英雄X",
+          "userPreferred": "To Be Hero X"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
+          "color": "#d61a1a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-06T00:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-06T00:30:00Z"
+  },
+  {
     "title": "Watashi no Shiawase na Kekkon 2nd Season",
     "route": "watashi-no-shiawase-na-kekkon-2nd-season",
     "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
