@@ -1832,10 +1832,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743785580
-        },
-        {
           "episode": 2,
           "airingAt": 1744390380
         },
@@ -1880,8 +1876,7 @@
           "airingAt": 1750438380
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 150654,
@@ -1943,10 +1938,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743773400
-        },
-        {
           "episode": 2,
           "airingAt": 1744378200
         },
@@ -1991,8 +1982,7 @@
           "airingAt": 1750426200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 154887,
@@ -3251,39 +3241,6 @@
     "unaired": true
   },
   {
-    "id": 173263,
-    "idMal": 57796,
-    "title": {
-      "romaji": "Touhai: Ura Rate Mahjong Touhai Roku",
-      "english": null,
-      "native": "凍牌～裏レート麻雀闘牌録～",
-      "userPreferred": "Touhai: Ura Rate Mahjong Touhai Roku"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Psychological",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173263-c3geIX7XVEcH.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173263-c3geIX7XVEcH.jpg",
-      "color": "#50a1c9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1743787380
-        }
-      ]
-    }
-  },
-  {
     "id": 173333,
     "idMal": 57827,
     "title": {
@@ -3911,10 +3868,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176301-GkuTF1YTT6b2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1743775200
-        },
         {
           "episode": 14,
           "airingAt": 1744380000
@@ -5753,9 +5706,9 @@
     "idMal": 59636,
     "title": {
       "romaji": "Uma Musume: Cinderella Gray",
-      "english": null,
+      "english": "Umamusume: Cinderella Gray",
       "native": "ウマ娘 シンデレラグレイ",
-      "userPreferred": "Uma Musume: Cinderella Gray"
+      "userPreferred": "Umamusume: Cinderella Gray"
     },
     "format": "TV",
     "genres": [
@@ -6226,10 +6179,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743777000
-        },
-        {
           "episode": 2,
           "airingAt": 1744381800
         },
@@ -6274,8 +6223,7 @@
           "airingAt": 1750429800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 181182,
@@ -6302,10 +6250,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743784200
-        },
         {
           "episode": 2,
           "airingAt": 1744389000
@@ -6343,8 +6287,7 @@
           "airingAt": 1749227400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 181839,
@@ -7805,10 +7748,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743777000
-        },
-        {
           "episode": 2,
           "airingAt": 1744381800
         },
@@ -7853,8 +7792,7 @@
           "airingAt": 1750429800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185070,
@@ -8247,7 +8185,7 @@
       "color": "#00ff0d"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-5ySYli2FDWs9.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-btMTsXAx2y0A.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8407,10 +8345,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743783180
-        },
-        {
           "episode": 2,
           "airingAt": 1744387980
         },
@@ -8503,8 +8437,7 @@
           "airingAt": 1757693580
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185645,
@@ -10162,38 +10095,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 188668,
-    "idMal": 61293,
-    "title": {
-      "romaji": "Koisuru ONE PIECE",
-      "english": null,
-      "native": "恋するワンピース",
-      "userPreferred": "Koisuru ONE PIECE"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 7,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188668-rOB7rkgOz89w.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188668-rOB7rkgOz89w.jpg",
-      "color": "#35bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1743778800
-        }
-      ]
-    }
   },
   {
     "id": 188884,
