@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1692,
-          "airingAt": 1743731700
-        },
-        {
           "episode": 1693,
           "airingAt": 1744336500
         },
@@ -513,6 +509,10 @@
         {
           "episode": 1716,
           "airingAt": 1758246900
+        },
+        {
+          "episode": 1717,
+          "airingAt": 1758851700
         }
       ]
     }
@@ -727,10 +727,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 598,
-          "airingAt": 1743718200
-        },
-        {
           "episode": 599,
           "airingAt": 1744323000
         },
@@ -825,6 +821,10 @@
         {
           "episode": 622,
           "airingAt": 1758233400
+        },
+        {
+          "episode": 623,
+          "airingAt": 1758838200
         }
       ]
     }
@@ -3627,7 +3627,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
@@ -4795,7 +4795,7 @@
       "Comedy",
       "Drama"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-nIAhCizY46ZU.jpg",
@@ -4849,10 +4849,6 @@
         {
           "episode": 12,
           "airingAt": 1750346760
-        },
-        {
-          "episode": 13,
-          "airingAt": 1750951560
         }
       ]
     }
@@ -5162,6 +5158,84 @@
     "unaired": true
   },
   {
+    "id": 179541,
+    "idMal": 59322,
+    "title": {
+      "romaji": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+      "english": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
+      "native": "白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます",
+      "userPreferred": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179541-lZwENMAHZS9Y.jpg",
+      "color": "#93e450"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745145000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1745145000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745749800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746354600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746959400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747564200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1748169000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748773800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749378600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749983400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750588200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1751193000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179694,
     "idMal": 59360,
     "title": {
@@ -5175,7 +5249,7 @@
       "Drama",
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-7zhc0T6IImor.jpg",
@@ -8028,6 +8102,38 @@
     }
   },
   {
+    "id": 185084,
+    "idMal": 60408,
+    "title": {
+      "romaji": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
+      "english": null,
+      "native": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
+      "userPreferred": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185084-E4OfVMlZUxU8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185084-E4OfVMlZUxU8.jpg",
+      "color": "#93000d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185084-ajmkuKKObp3B.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185088,
     "idMal": 60410,
     "title": {
@@ -10122,10 +10228,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743719400
-        },
-        {
           "episode": 2,
           "airingAt": 1744324200
         },
@@ -10218,8 +10320,7 @@
           "airingAt": 1757629800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188933,
@@ -10300,5 +10401,82 @@
         }
       ]
     }
+  },
+  {
+    "id": 189602,
+    "idMal": 61363,
+    "title": {
+      "romaji": "YouTuNya 3",
+      "english": null,
+      "native": "ユーチューニャー3",
+      "userPreferred": "YouTuNya 3"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189602-LVMPUosYYjAW.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189602-LVMPUosYYjAW.png",
+      "color": "#3586e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1744668000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1745272800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745877600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746482400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1747087200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747692000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1748296800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748901600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749506400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1750111200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750716000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1751320800
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
