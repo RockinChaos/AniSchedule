@@ -1648,10 +1648,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743858000
-        },
-        {
           "episode": 2,
           "airingAt": 1744462800
         },
@@ -1696,8 +1692,7 @@
           "airingAt": 1750510800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 143598,
@@ -1820,7 +1815,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg",
@@ -2981,41 +2976,6 @@
     "unaired": true
   },
   {
-    "id": 167742,
-    "idMal": 56135,
-    "title": {
-      "romaji": "UniteUp!: Uni:Birth",
-      "english": "UniteUp! -Uni:Birth-",
-      "native": "UniteUp! -Uni:Birth-",
-      "userPreferred": "UniteUp! -Uni:Birth-"
-    },
-    "format": "TV",
-    "genres": [
-      "Music"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167742-fFAj38cj7Wxo.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167742-fFAj38cj7Wxo.png",
-      "color": "#e4c935"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1743865200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1743867000
-        }
-      ]
-    }
-  },
-  {
     "id": 168164,
     "idMal": null,
     "title": {
@@ -4083,7 +4043,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
@@ -4470,10 +4430,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743859800
-        },
-        {
           "episode": 2,
           "airingAt": 1744464600
         },
@@ -4518,8 +4474,7 @@
           "airingAt": 1750512600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178052,
@@ -4974,10 +4929,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743868800
-        },
-        {
           "episode": 2,
           "airingAt": 1744473600
         },
@@ -5022,8 +4973,7 @@
           "airingAt": 1750521600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179054,
@@ -5053,10 +5003,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743863400
-        },
         {
           "episode": 2,
           "airingAt": 1744468200
@@ -5098,8 +5044,7 @@
           "airingAt": 1749911400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179541,
@@ -5110,7 +5055,7 @@
       "native": "白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます",
       "userPreferred": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Comedy",
       "Fantasy",
@@ -5331,10 +5276,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743863400
-        },
-        {
           "episode": 2,
           "airingAt": 1744468200
         },
@@ -5379,8 +5320,7 @@
           "airingAt": 1750516200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179965,
@@ -5906,10 +5846,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1743865200
-        },
-        {
           "episode": 13,
           "airingAt": 1744470000
         },
@@ -6238,10 +6174,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743870600
-        },
-        {
           "episode": 2,
           "airingAt": 1744475400
         },
@@ -6286,8 +6218,7 @@
           "airingAt": 1750523400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 181839,
@@ -6528,9 +6459,9 @@
     "idMal": 60083,
     "title": {
       "romaji": "Kowloon Generic Romance",
-      "english": "Kowloon Generic Romance",
+      "english": "KOWLOON GENERIC ROMANCE",
       "native": "九龍ジェネリックロマンス",
-      "userPreferred": "Kowloon Generic Romance"
+      "userPreferred": "KOWLOON GENERIC ROMANCE"
     },
     "format": "TV",
     "genres": [
@@ -6551,10 +6482,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743861600
-        },
         {
           "episode": 2,
           "airingAt": 1744466400
@@ -6604,8 +6531,7 @@
           "airingAt": 1751119200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 182920,
@@ -6870,10 +6796,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743872400
-        },
-        {
           "episode": 2,
           "airingAt": 1744477200
         },
@@ -6918,8 +6840,7 @@
           "airingAt": 1750525200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183275,
@@ -8247,7 +8168,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185259-h5AnqAcoKH6d.jpg",
@@ -8258,10 +8179,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743859800
-        },
         {
           "episode": 2,
           "airingAt": 1744464600
@@ -8307,8 +8224,7 @@
           "airingAt": 1750512600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185584,
@@ -10351,5 +10267,80 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 189716,
+    "idMal": 61379,
+    "title": {
+      "romaji": "Yurukawa Mell-chan",
+      "english": null,
+      "native": "ゆるかわメルちゃん",
+      "userPreferred": "Yurukawa Mell-chan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189716-6r2f88YG3XNP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b189716-6r2f88YG3XNP.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1744289640
+        },
+        {
+          "episode": 3,
+          "airingAt": 1744894440
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745499240
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746104040
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746708840
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747313640
+        },
+        {
+          "episode": 8,
+          "airingAt": 1747918440
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748523240
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749128040
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749732840
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750337640
+        },
+        {
+          "episode": 13,
+          "airingAt": 1750942440
+        }
+      ]
+    }
   }
 ]
