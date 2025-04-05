@@ -1440,10 +1440,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 161,
-          "airingAt": 1743805800
-        },
-        {
           "episode": 162,
           "airingAt": 1744410600
         },
@@ -1538,6 +1534,10 @@
         {
           "episode": 185,
           "airingAt": 1758321000
+        },
+        {
+          "episode": 186,
+          "airingAt": 1758925800
         }
       ]
     }
@@ -1926,7 +1926,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153554-hHYe9aV6Gvlv.jpg",
@@ -6213,14 +6213,6 @@
         {
           "episode": 10,
           "airingAt": 1749220200
-        },
-        {
-          "episode": 11,
-          "airingAt": 1749825000
-        },
-        {
-          "episode": 12,
-          "airingAt": 1750429800
         }
       ]
     }
@@ -6251,43 +6243,56 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1743870600
+        },
+        {
           "episode": 2,
-          "airingAt": 1744389000
+          "airingAt": 1744475400
         },
         {
           "episode": 3,
-          "airingAt": 1744993800
+          "airingAt": 1745080200
         },
         {
           "episode": 4,
-          "airingAt": 1745598600
+          "airingAt": 1745685000
         },
         {
           "episode": 5,
-          "airingAt": 1746203400
+          "airingAt": 1746289800
         },
         {
           "episode": 6,
-          "airingAt": 1746808200
+          "airingAt": 1746894600
         },
         {
           "episode": 7,
-          "airingAt": 1747413000
+          "airingAt": 1747499400
         },
         {
           "episode": 8,
-          "airingAt": 1748017800
+          "airingAt": 1748104200
         },
         {
           "episode": 9,
-          "airingAt": 1748622600
+          "airingAt": 1748709000
         },
         {
           "episode": 10,
-          "airingAt": 1749227400
+          "airingAt": 1749313800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1749918600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750523400
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 181839,
@@ -7386,10 +7391,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743804000
-        },
-        {
           "episode": 2,
           "airingAt": 1744408800
         },
@@ -7434,8 +7435,7 @@
           "airingAt": 1750456800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184470,
@@ -7591,10 +7591,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743801960
-        },
-        {
           "episode": 2,
           "airingAt": 1744406760
         },
@@ -7687,8 +7683,7 @@
           "airingAt": 1757712360
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184824,
@@ -8466,10 +8461,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743811200
-        },
-        {
           "episode": 2,
           "airingAt": 1744416000
         },
@@ -8514,8 +8505,7 @@
           "airingAt": 1750464000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185646,
@@ -8618,10 +8608,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743804000
-        },
-        {
           "episode": 2,
           "airingAt": 1744408800
         },
@@ -8666,8 +8652,7 @@
           "airingAt": 1750456800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185716,
