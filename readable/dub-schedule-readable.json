@@ -1299,6 +1299,63 @@
     "addedAt": "2025-04-10T07:00:00Z"
   },
   {
+    "title": "Nazotoki wa Dinner no Ato de",
+    "route": "nazotoki-wa-dinner-no-ato-de",
+    "romaji": "Nazotoki wa Dinner no Ato de",
+    "english": "The Dinner Table Detective",
+    "native": "謎解きはディナーのあとで",
+    "delayedFrom": "0001-01-01T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2025-04-05T03:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 184989,
+        "idMal": 60377,
+        "title": {
+          "romaji": "Nazotoki wa Dinner no Ato de",
+          "english": "The Dinner Table Detective",
+          "native": "謎解きはディナーのあとで",
+          "userPreferred": "The Dinner Table Detective"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Mystery"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-9i29Wrdrak11.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184989-9i29Wrdrak11.png",
+          "color": "#f1d61a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-12T03:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-05T07:49:09Z"
+  },
+  {
     "title": "Princess Principal: Crown Handler 3",
     "route": "princess-principal-crown-handler-3",
     "native": "プリンセス・プリンシパル Crown Handler 第3章",
