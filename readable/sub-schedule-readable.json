@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1124,
-          "airingAt": 1743948960
-        },
-        {
           "episode": 1125,
           "airingAt": 1744553760
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1148,
           "airingAt": 1758464160
+        },
+        {
+          "episode": 1149,
+          "airingAt": 1759068960
         }
       ]
     }
@@ -2720,7 +2720,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166373-97U2bjAxD3l7.jpg",
@@ -4096,7 +4096,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177509-LzpyXGnjitvF.jpg",
@@ -4107,10 +4107,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743956400
-        },
         {
           "episode": 2,
           "airingAt": 1744561200
@@ -4156,8 +4152,7 @@
           "airingAt": 1750609200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177633,
@@ -4312,10 +4307,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743951600
-        },
-        {
           "episode": 2,
           "airingAt": 1744556400
         },
@@ -4344,8 +4335,7 @@
           "airingAt": 1749394800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177789,
@@ -5909,10 +5899,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743946200
-        },
-        {
           "episode": 2,
           "airingAt": 1744551000
         },
@@ -5957,8 +5943,7 @@
           "airingAt": 1750599000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180829,
@@ -5987,10 +5972,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743955560
-        },
         {
           "episode": 2,
           "airingAt": 1744560360
@@ -6036,8 +6017,7 @@
           "airingAt": 1750608360
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180832,
@@ -6271,10 +6251,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1743949800
-        },
-        {
           "episode": 2,
           "airingAt": 1744554600
         },
@@ -6319,8 +6295,7 @@
           "airingAt": 1750602600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 182159,
@@ -6587,10 +6562,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183133-yGgdKRUyCMMv.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1743946200
-        },
         {
           "episode": 3,
           "airingAt": 1744551000
@@ -7967,38 +7938,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185088,
-    "idMal": 60410,
-    "title": {
-      "romaji": "Yami Shibai 14",
-      "english": "Theatre of Darkness: Yamishibai 14",
-      "native": "闇芝居 十四期",
-      "userPreferred": "Theatre of Darkness: Yamishibai 14"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Horror",
-      "Supernatural"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185088-pY2KxbG0KIoO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185088-pY2KxbG0KIoO.jpg",
-      "color": "#f13500"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1743961800
-        }
-      ]
-    }
   },
   {
     "id": 185166,
@@ -9420,38 +9359,6 @@
         {
           "episode": 1,
           "airingAt": 1748530800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 187362,
-    "idMal": 61146,
-    "title": {
-      "romaji": "Tamaranai no wa Koi nano ka",
-      "english": null,
-      "native": "たまらないのは恋なのか",
-      "userPreferred": "Tamaranai no wa Koi nano ka"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187362-Qz6YXMv0TcRJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187362-Qz6YXMv0TcRJ.jpg",
-      "color": "#e4d65d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743949800
         }
       ]
     },
