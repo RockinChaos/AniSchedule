@@ -1936,9 +1936,9 @@
     "romaji": "Tu Bian Yingxiong X",
     "english": "To Be Hero X",
     "native": "凸变英雄X",
-    "delayedFrom": "0001-01-01T00:30:00Z",
-    "delayedUntil": "0001-01-01T00:30:00Z",
-    "episodeDate": "2025-04-06T00:30:00Z",
+    "delayedFrom": "0001-01-01T00:35:00Z",
+    "delayedUntil": "0001-01-01T00:35:00Z",
+    "episodeDate": "2025-04-06T00:35:00Z",
     "episodeNumber": 1,
     "episodes": 24,
     "lengthMin": 24,
@@ -1948,7 +1948,7 @@
         "route": "ona-chinese"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 156092,
@@ -1976,8 +1976,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-04-06T00:30:00Z"
+              "episode": 2,
+              "airingAt": "2025-04-13T00:35:00Z"
             }
           ]
         }
