@@ -543,10 +543,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2774,
-          "airingAt": 1743931800
-        },
-        {
           "episode": 2775,
           "airingAt": 1744536600
         },
@@ -641,6 +637,10 @@
         {
           "episode": 2798,
           "airingAt": 1758447000
+        },
+        {
+          "episode": 2799,
+          "airingAt": 1759051800
         }
       ]
     }
@@ -984,10 +984,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 307,
-          "airingAt": 1743930000
-        },
         {
           "episode": 308,
           "airingAt": 1744534800
@@ -2061,7 +2057,7 @@
       "Action",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": null,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
@@ -3212,10 +3208,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173333-Q1FFyjucXfqN.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1743928200
-        },
         {
           "episode": 14,
           "airingAt": 1744533000
@@ -4404,7 +4396,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178046-4EeU8cC3WJOs.jpg",
@@ -4476,7 +4468,7 @@
       "Mahou Shoujo",
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178052-igWygf0ZG1gl.jpg",
@@ -4902,7 +4894,7 @@
     "genres": [
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178825-F4StA5BbfN9H.png",
@@ -4956,6 +4948,10 @@
         {
           "episode": 12,
           "airingAt": 1750521600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751126400
         }
       ]
     }
@@ -4977,7 +4973,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179054-HmN0Za4T157B.jpg",
@@ -5027,6 +5023,14 @@
         {
           "episode": 11,
           "airingAt": 1749911400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750516200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751121000
         }
       ]
     }
@@ -5510,7 +5514,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180367-GlRuB2lG7Kaa.jpg",
@@ -5521,10 +5525,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-sVzy7k5TMAgm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743926400
-        },
         {
           "episode": 2,
           "airingAt": 1744531200
@@ -5616,10 +5616,17 @@
         {
           "episode": 24,
           "airingAt": 1757836800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758441600
+        },
+        {
+          "episode": 26,
+          "airingAt": 1759046400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180516,
@@ -5635,7 +5642,7 @@
       "Drama",
       "Sports"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180516-lebpoKLkw6E3.jpg",
@@ -5646,10 +5653,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1743924600
-        },
         {
           "episode": 2,
           "airingAt": 1744529400
@@ -5693,10 +5696,13 @@
         {
           "episode": 12,
           "airingAt": 1750577400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751182200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180675,
@@ -6083,12 +6089,12 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-zBCMinL0WhzA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181078-zBCMinL0WhzA.jpg",
-      "color": "#3593e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-4ooHGXSnDQL4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181078-4ooHGXSnDQL4.jpg",
+      "color": "#50a1e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -6147,7 +6153,7 @@
       "Mystery",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181182-lnlfAByYD7X6.png",
@@ -6456,7 +6462,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182814-UTKRUUm7Jah5.jpg",
@@ -7273,10 +7279,10 @@
     "id": 184289,
     "idMal": 60070,
     "title": {
-      "romaji": "Kaijyu Sekai Seifuku",
+      "romaji": "Kaijuu Sekai Seifuku",
       "english": null,
       "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijyu Sekai Seifuku"
+      "userPreferred": "Kaijuu Sekai Seifuku"
     },
     "format": "TV_SHORT",
     "genres": [],
@@ -7351,7 +7357,7 @@
     "genres": [
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184470-m2izEvBeO49C.jpg",
@@ -7479,7 +7485,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tmj8NbTroNeI.jpg",
@@ -7631,7 +7637,7 @@
       "Drama",
       "Mystery"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184989-9i29Wrdrak11.png",
@@ -8415,7 +8421,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 1,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
@@ -8427,56 +8433,51 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744068480
-        },
-        {
           "episode": 2,
-          "airingAt": 1744673280
+          "airingAt": 1744500480
         },
         {
           "episode": 3,
-          "airingAt": 1745278080
+          "airingAt": 1745105280
         },
         {
           "episode": 4,
-          "airingAt": 1745882880
+          "airingAt": 1745710080
         },
         {
           "episode": 5,
-          "airingAt": 1746487680
+          "airingAt": 1746314880
         },
         {
           "episode": 6,
-          "airingAt": 1747092480
+          "airingAt": 1746919680
         },
         {
           "episode": 7,
-          "airingAt": 1747697280
+          "airingAt": 1747524480
         },
         {
           "episode": 8,
-          "airingAt": 1748302080
+          "airingAt": 1748129280
         },
         {
           "episode": 9,
-          "airingAt": 1748906880
+          "airingAt": 1748734080
         },
         {
           "episode": 10,
-          "airingAt": 1749511680
+          "airingAt": 1749338880
         },
         {
           "episode": 11,
-          "airingAt": 1750116480
+          "airingAt": 1749943680
         },
         {
           "episode": 12,
-          "airingAt": 1750721280
+          "airingAt": 1750548480
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185715,
@@ -8599,7 +8600,7 @@
     "genres": [
       "Action"
     ],
-    "duration": null,
+    "duration": 11,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185718-luZZKvM7pOZ2.png",
@@ -9490,7 +9491,7 @@
   },
   {
     "id": 187998,
-    "idMal": null,
+    "idMal": 61206,
     "title": {
       "romaji": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
       "english": null,
