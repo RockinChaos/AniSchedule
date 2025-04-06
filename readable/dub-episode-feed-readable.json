@@ -1,5 +1,16 @@
 [
   {
+    "id": 167336,
+    "idMal": 56038,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-04-06T05:00:00Z",
+      "addedAt": "2025-04-06T12:31:59Z"
+    }
+  },
+  {
     "id": 156092,
     "idMal": 53447,
     "format": "ONA",
@@ -305,17 +316,6 @@
       "aired": 1,
       "airedAt": "2025-03-30T14:30:00Z",
       "addedAt": "2025-03-30T16:20:03Z"
-    }
-  },
-  {
-    "id": 167336,
-    "idMal": 56038,
-    "format": "TV",
-    "duration": 25,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2025-03-30T05:00:00Z",
-      "addedAt": "2025-04-06T07:00:07Z"
     }
   },
   {
