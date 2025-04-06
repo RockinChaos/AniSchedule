@@ -806,6 +806,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2025-04-06T14:30:00Z",
     "episodeNumber": 2,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1251,11 +1252,12 @@
     "title": "Lazarus",
     "route": "lazarus",
     "native": "ラザロ",
-    "delayedFrom": "0001-01-01T05:00:00Z",
-    "delayedUntil": "0001-01-01T05:00:00Z",
-    "episodeDate": "2025-04-06T05:00:00Z",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2025-04-06T04:00:00Z",
     "episodeNumber": 1,
     "episodes": 13,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1291,7 +1293,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2025-04-13T05:00:00Z"
+              "airingAt": "2025-04-13T04:00:00Z"
             }
           ]
         }
