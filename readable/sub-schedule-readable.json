@@ -672,10 +672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2091,
-          "airingAt": 1743975600
-        },
-        {
           "episode": 2092,
           "airingAt": 1744580400
         },
@@ -1174,10 +1170,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 83,
-          "airingAt": 1743991200
-        },
-        {
           "episode": 84,
           "airingAt": 1744596000
         },
@@ -1272,6 +1264,10 @@
         {
           "episode": 107,
           "airingAt": 1758506400
+        },
+        {
+          "episode": 108,
+          "airingAt": 1759111200
         }
       ]
     }
@@ -1632,7 +1628,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143337-2uPE0ywVcz9X.jpg",
@@ -1705,7 +1701,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143598-FCvAhQJLllSP.png",
@@ -2823,7 +2819,7 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167142-dJwdHptpILkF.jpg",
@@ -2899,7 +2895,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-KpGIIBie71OX.png",
@@ -5887,7 +5883,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180825-trzjP1VDF19U.jpg",
@@ -5951,7 +5947,7 @@
     "title": {
       "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
       "english": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
-      "native": "ちょっとだけ愛が重すぎるダークエルフが異世界から追いかけてきた",
+      "native": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた",
       "userPreferred": "Yandere Dark Elf: She Chased Me All the Way From Another World!"
     },
     "format": "TV_SHORT",
@@ -6746,7 +6742,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg",
@@ -10229,6 +10225,80 @@
         {
           "episode": 13,
           "airingAt": 1750942440
+        }
+      ]
+    }
+  },
+  {
+    "id": 189832,
+    "idMal": null,
+    "title": {
+      "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou",
+      "english": null,
+      "native": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきたミニアニメ劇場",
+      "userPreferred": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 12,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189832-ef4szjfj2BFb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189832-ef4szjfj2BFb.png",
+      "color": "#e4c9a1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1744560360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1745165160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1745769960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746374760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1746979560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1747584360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748189160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1748793960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749398760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750003560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1750608360
         }
       ]
     }
