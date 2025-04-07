@@ -1280,7 +1280,7 @@
           "Action",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-KpGIIBie71OX.png",
@@ -1987,6 +1987,63 @@
     },
     "verified": false,
     "addedAt": "2025-04-06T00:30:00Z"
+  },
+  {
+    "title": "Versailles no Bara (Movie)",
+    "route": "versailles-no-bara-movie",
+    "romaji": "Versailles no Bara (Movie)",
+    "english": "The Rose of Versailles (Movie)",
+    "native": "劇場 ベルサイユのばら",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-04-30T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 113,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 154392,
+        "idMal": 52967,
+        "title": {
+          "romaji": "Versailles no Bara Movie",
+          "english": "The Rose of Versailles",
+          "native": "劇場版 ベルサイユのばら",
+          "userPreferred": "The Rose of Versailles"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Romance"
+        ],
+        "duration": 113,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154392-I35rrWRu9KlY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154392-I35rrWRu9KlY.jpg",
+          "color": "#e4ae50"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-30T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-30T07:00:00Z"
   },
   {
     "title": "Watashi no Shiawase na Kekkon 2nd Season",
