@@ -1875,6 +1875,63 @@
     "addedAt": "2025-04-30T07:00:00Z"
   },
   {
+    "title": "Vigilante: Boku no Hero Academia ILLEGALS",
+    "route": "vigilante-boku-no-hero-academia-illegals",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS",
+    "english": "My Hero Academia: Vigilantes",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+    "delayedFrom": "0001-01-01T15:15:00Z",
+    "delayedUntil": "0001-01-01T15:15:00Z",
+    "episodeDate": "2025-04-07T15:15:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185736,
+        "idMal": 60593,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS",
+          "english": "My Hero Academia: Vigilantes",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
+          "userPreferred": "My Hero Academia: Vigilantes"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185736-Ci6AiGwjKKtp.jpg",
+          "color": "#50d6e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-14T15:15:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-07T17:15:59Z"
+  },
+  {
     "title": "Watashi no Shiawase na Kekkon 2nd Season",
     "route": "watashi-no-shiawase-na-kekkon-2nd-season",
     "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
