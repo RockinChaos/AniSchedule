@@ -1884,6 +1884,7 @@
     "delayedUntil": "0001-01-01T15:15:00Z",
     "episodeDate": "2025-04-07T15:15:00Z",
     "episodeNumber": 1,
+    "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1909,7 +1910,7 @@
           "Drama",
           "Fantasy"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
@@ -1937,8 +1938,9 @@
     "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
     "english": "My Happy Marriage Season 2",
     "native": "わたしの幸せな結婚 第二期",
+    "delayedText": "Delayed",
     "delayedFrom": "2025-03-24T15:00:00Z",
-    "delayedUntil": "2025-04-07T15:00:00Z",
+    "delayedUntil": "2025-04-14T15:00:00Z",
     "episodeDate": "2025-04-07T15:00:00Z",
     "episodeNumber": 12,
     "episodes": 13,
@@ -1978,7 +1980,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2025-04-14T15:00:00Z"
             }
           ]
