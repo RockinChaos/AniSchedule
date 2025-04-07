@@ -1550,7 +1550,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
@@ -1561,10 +1561,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143200-R0qpwS1C6b8i.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744036200
-        },
         {
           "episode": 2,
           "airingAt": 1744641000
@@ -1610,8 +1606,7 @@
           "airingAt": 1750689000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 143337,
@@ -1712,10 +1707,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744038000
-        },
         {
           "episode": 3,
           "airingAt": 1744642800
@@ -2125,7 +2116,7 @@
       "Action",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158287-4RDt0M820Ays.jpg",
@@ -2136,10 +2127,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744038000
-        },
         {
           "episode": 2,
           "airingAt": 1744642800
@@ -2185,8 +2172,7 @@
           "airingAt": 1750690800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 158871,
@@ -2530,7 +2516,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165445-qwVP0w5NIaBW.jpg",
@@ -2541,10 +2527,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744030800
-        },
         {
           "episode": 2,
           "airingAt": 1744635600
@@ -2590,8 +2572,7 @@
           "airingAt": 1750683600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 166249,
@@ -2808,9 +2789,9 @@
     "idMal": 55995,
     "title": {
       "romaji": "Your Forma",
-      "english": null,
+      "english": "YOUR FORMA",
       "native": "ユア・フォルマ",
-      "userPreferred": "Your Forma"
+      "userPreferred": "YOUR FORMA"
     },
     "format": "TV",
     "genres": [
@@ -5386,7 +5367,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179979-OiIKSkhJRmvo.jpg",
@@ -5397,10 +5378,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744030800
-        },
         {
           "episode": 2,
           "airingAt": 1744635600
@@ -5446,8 +5423,7 @@
           "airingAt": 1750683600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180124,
@@ -8660,7 +8636,7 @@
       "Drama",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
@@ -8671,10 +8647,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744034400
-        },
         {
           "episode": 2,
           "airingAt": 1744639200
@@ -8718,10 +8690,13 @@
         {
           "episode": 12,
           "airingAt": 1750687200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751292000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185779,
