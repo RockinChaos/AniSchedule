@@ -3353,10 +3353,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744119000
-        },
-        {
           "episode": 2,
           "airingAt": 1744723800
         },
@@ -3401,8 +3397,7 @@
           "airingAt": 1750771800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 175137,
@@ -4719,10 +4714,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744122600
-        },
-        {
           "episode": 3,
           "airingAt": 1744727400
         },
@@ -5685,10 +5676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744130400
-        },
-        {
           "episode": 2,
           "airingAt": 1744734840
         },
@@ -5733,8 +5720,7 @@
           "airingAt": 1750782840
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180704,
@@ -7163,10 +7149,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744124400
-        },
-        {
           "episode": 3,
           "airingAt": 1744729200
         },
@@ -7526,6 +7508,41 @@
     }
   },
   {
+    "id": 184762,
+    "idMal": 60302,
+    "title": {
+      "romaji": "Natsume Yuujinchou Shichi Special",
+      "english": null,
+      "native": "夏目友人帳 漆 特別編",
+      "userPreferred": "Natsume Yuujinchou Shichi Special"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184762-VBTlKw5YH3CI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184762-VBTlKw5YH3CI.jpg",
+      "color": "#d6431a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745334000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 184824,
     "idMal": 60642,
     "title": {
@@ -7657,10 +7674,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744124400
-        },
-        {
           "episode": 2,
           "airingAt": 1744729200
         },
@@ -7705,8 +7718,7 @@
           "airingAt": 1750777200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185071,
@@ -7992,10 +8004,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744126140
-        },
-        {
           "episode": 2,
           "airingAt": 1744730940
         },
@@ -8044,8 +8052,7 @@
           "airingAt": 1751383740
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185259,
@@ -9588,10 +9595,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744116960
-        },
-        {
           "episode": 2,
           "airingAt": 1744721760
         },
@@ -9612,8 +9615,7 @@
           "airingAt": 1747140960
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188239,
