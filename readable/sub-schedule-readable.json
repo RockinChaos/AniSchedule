@@ -5375,7 +5375,7 @@
       "color": "#4386f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -5484,7 +5484,7 @@
       "color": "#e4e4ae"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-sVzy7k5TMAgm.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-Kpxveeh3Q3cm.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8755,10 +8755,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1744066800
-        },
         {
           "episode": 26,
           "airingAt": 1744671600
