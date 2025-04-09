@@ -3028,39 +3028,6 @@
     }
   },
   {
-    "id": 169441,
-    "idMal": 56701,
-    "title": {
-      "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
-      "english": "My Happy Marriage Season 2",
-      "native": "わたしの幸せな結婚 第二期",
-      "userPreferred": "My Happy Marriage Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169441-DHutDkhkC8EN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169441-DHutDkhkC8EN.jpg",
-      "color": "#c9d6f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169441-mtBavBBCN7uR.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1744201560
-        }
-      ]
-    }
-  },
-  {
     "id": 169966,
     "idMal": 56853,
     "title": {
@@ -3337,7 +3304,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174802-ILahIZlNWN3R.jpg",
@@ -3420,10 +3387,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1744196400
-        },
         {
           "episode": 20,
           "airingAt": 1744801200
@@ -4147,10 +4110,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744196340
-        },
-        {
           "episode": 3,
           "airingAt": 1744801140
         },
@@ -4245,6 +4204,10 @@
         {
           "episode": 26,
           "airingAt": 1758711540
+        },
+        {
+          "episode": 27,
+          "airingAt": 1759316340
         }
       ]
     }
@@ -5659,8 +5622,10 @@
       "userPreferred": "Apocalypse Hotel"
     },
     "format": "TV",
-    "genres": [],
-    "duration": null,
+    "genres": [
+      "Sci-Fi"
+    ],
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180675-YEwsxiMsnyvL.png",
@@ -7993,7 +7958,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185213-RKQN0qxKlqd6.jpg",
@@ -9613,6 +9578,39 @@
         {
           "episode": 6,
           "airingAt": 1747140960
+        }
+      ]
+    }
+  },
+  {
+    "id": 188239,
+    "idMal": 61258,
+    "title": {
+      "romaji": "Transformers: Wild King",
+      "english": null,
+      "native": "トランスフォーマー ワイルドキング",
+      "userPreferred": "Transformers: Wild King"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": 6,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
+      "color": "#f1c935"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1745370000
         }
       ]
     }
