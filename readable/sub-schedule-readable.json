@@ -7674,51 +7674,56 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1744210800
+        },
+        {
           "episode": 2,
-          "airingAt": 1744729200
+          "airingAt": 1744815600
         },
         {
           "episode": 3,
-          "airingAt": 1745334000
+          "airingAt": 1745420400
         },
         {
           "episode": 4,
-          "airingAt": 1745938800
+          "airingAt": 1746025200
         },
         {
           "episode": 5,
-          "airingAt": 1746543600
+          "airingAt": 1746630000
         },
         {
           "episode": 6,
-          "airingAt": 1747148400
+          "airingAt": 1747234800
         },
         {
           "episode": 7,
-          "airingAt": 1747753200
+          "airingAt": 1747839600
         },
         {
           "episode": 8,
-          "airingAt": 1748358000
+          "airingAt": 1748444400
         },
         {
           "episode": 9,
-          "airingAt": 1748962800
+          "airingAt": 1749049200
         },
         {
           "episode": 10,
-          "airingAt": 1749567600
+          "airingAt": 1749654000
         },
         {
           "episode": 11,
-          "airingAt": 1750172400
+          "airingAt": 1750258800
         },
         {
           "episode": 12,
-          "airingAt": 1750777200
+          "airingAt": 1750863600
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 185071,
@@ -9466,10 +9471,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744152360
-        },
-        {
           "episode": 2,
           "airingAt": 1744757160
         },
@@ -9564,10 +9565,13 @@
         {
           "episode": 25,
           "airingAt": 1758667560
+        },
+        {
+          "episode": 26,
+          "airingAt": 1759272360
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188131,
@@ -9613,39 +9617,6 @@
         {
           "episode": 6,
           "airingAt": 1747140960
-        }
-      ]
-    }
-  },
-  {
-    "id": 188239,
-    "idMal": 61258,
-    "title": {
-      "romaji": "Transformers: Wild King",
-      "english": null,
-      "native": "トランスフォーマー ワイルドキング",
-      "userPreferred": "Transformers: Wild King"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": 6,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
-      "color": "#f1c935"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744160400
         }
       ]
     }
