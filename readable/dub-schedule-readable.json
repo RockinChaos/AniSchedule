@@ -1197,7 +1197,9 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-04-10T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 18,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 18,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1221,7 +1223,7 @@
           "Fantasy",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 28,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150654-pgima1BrY7N0.jpg",
@@ -1233,8 +1235,76 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
               "episode": 2,
-              "airingAt": "2025-04-17T07:00:00Z"
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2025-04-10T07:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2025-04-10T07:00:00Z"
             }
           ]
         }
