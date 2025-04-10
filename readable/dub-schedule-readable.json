@@ -970,9 +970,9 @@
     "english": "Our Last Crusade or the Rise of a New World Season 2",
     "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ",
     "delayedText": "Delayed",
-    "delayedFrom": "2024-08-22T21:30:00Z",
-    "delayedUntil": "2025-05-22T21:30:00Z",
-    "episodeDate": "2025-04-10T21:30:00Z",
+    "delayedFrom": "2024-08-22T19:00:00Z",
+    "delayedUntil": "2025-05-22T19:00:00Z",
+    "episodeDate": "2025-04-10T19:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
@@ -1012,7 +1012,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2025-05-22T21:30:00Z"
+              "airingAt": "2025-05-22T19:00:00Z"
             }
           ]
         }
@@ -1200,6 +1200,7 @@
     "episodeNumber": 18,
     "subtractedEpisodeNumber": 1,
     "episodes": 18,
+    "lengthMin": 28,
     "mediaTypes": [
       {
         "name": "ONA",
