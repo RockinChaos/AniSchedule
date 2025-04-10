@@ -1853,40 +1853,6 @@
     }
   },
   {
-    "id": 150654,
-    "idMal": 38903,
-    "title": {
-      "romaji": "MOONRISE",
-      "english": "Moonrise",
-      "native": "ムーンライズ",
-      "userPreferred": "Moonrise"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150654-pgima1BrY7N0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx150654-pgima1BrY7N0.jpg",
-      "color": "#e45d93"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150654-wguen10rQctA.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744268400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 153554,
     "idMal": 52709,
     "title": {
@@ -3039,10 +3005,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 74,
-          "airingAt": 1744272000
-        },
-        {
           "episode": 75,
           "airingAt": 1744876800
         },
@@ -3873,10 +3835,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744288200
-        },
-        {
           "episode": 2,
           "airingAt": 1744893000
         },
@@ -3921,8 +3879,7 @@
           "airingAt": 1750941000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177476,
@@ -6222,10 +6179,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1744275600
-        },
-        {
           "episode": 24,
           "airingAt": 1744880400
         },
@@ -7593,7 +7546,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185070-VKzUA4B9kmaX.jpg",
@@ -9602,10 +9555,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744277400
-        },
         {
           "episode": 4,
           "airingAt": 1744882200
