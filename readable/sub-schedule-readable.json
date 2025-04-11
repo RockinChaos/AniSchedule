@@ -1747,6 +1747,38 @@
     }
   },
   {
+    "id": 144779,
+    "idMal": 50855,
+    "title": {
+      "romaji": "Yamato yo Towa ni: REBEL3199",
+      "english": "Star Blazers: Space Battleship Yamato 3199",
+      "native": "ヤマトよ永遠に REBEL3199",
+      "userPreferred": "Star Blazers: Space Battleship Yamato 3199"
+    },
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144779-WJ8aJbYk3o5t.png",
+      "color": "#4386f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1760022000
+        }
+      ]
+    }
+  },
+  {
     "id": 149118,
     "idMal": 51818,
     "title": {
@@ -1773,10 +1805,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/149118-neeUO11QUL0R.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744390380
-        },
         {
           "episode": 3,
           "airingAt": 1744995180
@@ -1845,10 +1873,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744378200
-        },
         {
           "episode": 3,
           "airingAt": 1744983000
@@ -3643,10 +3667,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1744380000
-        },
-        {
           "episode": 15,
           "airingAt": 1744984800
         },
@@ -3715,10 +3735,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744385400
-        },
-        {
           "episode": 2,
           "airingAt": 1744990200
         },
@@ -3763,8 +3779,7 @@
           "airingAt": 1751038200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177120,
@@ -5880,10 +5895,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744381800
-        },
-        {
           "episode": 3,
           "airingAt": 1744986600
         },
@@ -7242,95 +7253,95 @@
       "nodes": [
         {
           "episode": 2,
-          "airingAt": 1744406760
+          "airingAt": 1744449960
         },
         {
           "episode": 3,
-          "airingAt": 1745011560
+          "airingAt": 1745054760
         },
         {
           "episode": 4,
-          "airingAt": 1745616360
+          "airingAt": 1745659560
         },
         {
           "episode": 5,
-          "airingAt": 1746221160
+          "airingAt": 1746264360
         },
         {
           "episode": 6,
-          "airingAt": 1746825960
+          "airingAt": 1746869160
         },
         {
           "episode": 7,
-          "airingAt": 1747430760
+          "airingAt": 1747473960
         },
         {
           "episode": 8,
-          "airingAt": 1748035560
+          "airingAt": 1748078760
         },
         {
           "episode": 9,
-          "airingAt": 1748640360
+          "airingAt": 1748683560
         },
         {
           "episode": 10,
-          "airingAt": 1749245160
+          "airingAt": 1749288360
         },
         {
           "episode": 11,
-          "airingAt": 1749849960
+          "airingAt": 1749893160
         },
         {
           "episode": 12,
-          "airingAt": 1750454760
+          "airingAt": 1750497960
         },
         {
           "episode": 13,
-          "airingAt": 1751059560
+          "airingAt": 1751102760
         },
         {
           "episode": 14,
-          "airingAt": 1751664360
+          "airingAt": 1751707560
         },
         {
           "episode": 15,
-          "airingAt": 1752269160
+          "airingAt": 1752312360
         },
         {
           "episode": 16,
-          "airingAt": 1752873960
+          "airingAt": 1752917160
         },
         {
           "episode": 17,
-          "airingAt": 1753478760
+          "airingAt": 1753521960
         },
         {
           "episode": 18,
-          "airingAt": 1754083560
+          "airingAt": 1754126760
         },
         {
           "episode": 19,
-          "airingAt": 1754688360
+          "airingAt": 1754731560
         },
         {
           "episode": 20,
-          "airingAt": 1755293160
+          "airingAt": 1755336360
         },
         {
           "episode": 21,
-          "airingAt": 1755897960
+          "airingAt": 1755941160
         },
         {
           "episode": 22,
-          "airingAt": 1756502760
+          "airingAt": 1756545960
         },
         {
           "episode": 23,
-          "airingAt": 1757107560
+          "airingAt": 1757150760
         },
         {
           "episode": 24,
-          "airingAt": 1757712360
+          "airingAt": 1757755560
         }
       ]
     }
@@ -7427,10 +7438,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744381800
-        },
         {
           "episode": 3,
           "airingAt": 1744986600
@@ -7977,10 +7984,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744387980
-        },
         {
           "episode": 3,
           "airingAt": 1744992780
