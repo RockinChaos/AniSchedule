@@ -1631,10 +1631,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744462800
-        },
-        {
           "episode": 3,
           "airingAt": 1745067600
         },
@@ -3578,7 +3574,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176246-ndH8bKh7cmzf.jpg",
@@ -3589,10 +3585,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176246-Cnm6EqDLxEN3.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744470000
-        },
         {
           "episode": 2,
           "airingAt": 1745074800
@@ -3638,8 +3630,7 @@
           "airingAt": 1751122800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 176301,
@@ -3863,6 +3854,7 @@
     },
     "format": "TV",
     "genres": [
+      "Action",
       "Adventure",
       "Comedy",
       "Fantasy"
@@ -4239,10 +4231,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744464600
-        },
         {
           "episode": 3,
           "airingAt": 1745069400
@@ -4726,10 +4714,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744473600
-        },
-        {
           "episode": 3,
           "airingAt": 1745078400
         },
@@ -4804,10 +4788,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179054-hhF2XokWUhh6.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744468200
-        },
         {
           "episode": 3,
           "airingAt": 1745073000
@@ -5080,10 +5060,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744468200
-        },
         {
           "episode": 3,
           "airingAt": 1745073000
@@ -5641,10 +5617,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1744470000
-        },
-        {
           "episode": 14,
           "airingAt": 1745074800
         },
@@ -5951,10 +5923,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744475400
-        },
-        {
           "episode": 3,
           "airingAt": 1745080200
         },
@@ -6245,10 +6213,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182814-EdVCOqd78Thb.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744466400
-        },
         {
           "episode": 3,
           "airingAt": 1745071200
@@ -6546,10 +6510,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744477200
-        },
         {
           "episode": 3,
           "airingAt": 1745082000
@@ -7896,10 +7856,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744464600
-        },
-        {
           "episode": 3,
           "airingAt": 1745069400
         },
@@ -8671,7 +8627,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185939-hqt1He153el8.jpg",
@@ -8682,10 +8638,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185939-Y5l2gV2g1y3p.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744471800
-        },
         {
           "episode": 2,
           "airingAt": 1745076600
@@ -8731,8 +8683,7 @@
           "airingAt": 1751124600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186058,
