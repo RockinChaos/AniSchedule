@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1158,
-          "airingAt": 1744448400
-        },
-        {
           "episode": 1159,
           "airingAt": 1745053200
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1182,
           "airingAt": 1758963600
+        },
+        {
+          "episode": 1183,
+          "airingAt": 1759568400
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1280,
-          "airingAt": 1744443000
-        },
         {
           "episode": 1281,
           "airingAt": 1745047800
@@ -385,6 +381,10 @@
         {
           "episode": 1304,
           "airingAt": 1758958200
+        },
+        {
+          "episode": 1305,
+          "airingAt": 1759563000
         }
       ]
     }
@@ -852,10 +852,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 858,
-          "airingAt": 1744444800
-        },
-        {
           "episode": 859,
           "airingAt": 1745049600
         },
@@ -950,6 +946,10 @@
         {
           "episode": 882,
           "airingAt": 1758960000
+        },
+        {
+          "episode": 883,
+          "airingAt": 1759564800
         }
       ]
     }
@@ -3878,10 +3878,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744446600
-        },
         {
           "episode": 3,
           "airingAt": 1745051400
@@ -7032,8 +7028,10 @@
       "userPreferred": "Kaijuu Sekai Seifuku"
     },
     "format": "TV_SHORT",
-    "genres": [],
-    "duration": null,
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
@@ -7239,10 +7237,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744449960
-        },
         {
           "episode": 3,
           "airingAt": 1745054760
