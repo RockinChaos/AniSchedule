@@ -2570,7 +2570,7 @@
     "genres": [
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166371-9YKL41d3r9RS.jpg",
@@ -3723,7 +3723,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176702-sD5AnHf8g4zi.jpg",
@@ -5010,9 +5010,9 @@
     "idMal": 59369,
     "title": {
       "romaji": "Lycoris Recoil: Friends are thieves of time.",
-      "english": null,
+      "english": "Lycoris Recoil -Friends are thieves of time.-",
       "native": "リコリス・リコイル Friends are thieves of time.",
-      "userPreferred": "Lycoris Recoil: Friends are thieves of time."
+      "userPreferred": "Lycoris Recoil -Friends are thieves of time.-"
     },
     "format": "ONA",
     "genres": [
@@ -6689,10 +6689,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1744426800
-        },
         {
           "episode": 27,
           "airingAt": 1745031600
