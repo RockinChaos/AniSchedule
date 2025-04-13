@@ -459,7 +459,8 @@ export async function updateDubFeed(optSchedule) {
         if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) && (!entry.subtractedEpisodeNumber || (entry.subtractedEpisodeNumber > 1 && !((entry.episodeNumber - entry.subtractedEpisodeNumber) >= 6)))) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
             mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
-            if (!isDSTTransitionMonth() || (entry.episodeNumber < 3)) {
+            const isInDSTTransition = isDSTTransitionMonth()
+            if (entry.episodeNumber < 4 || (!isInDSTTransition && daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) <= 8)) {
                 console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
                 const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
                 let correctedDate = -1
@@ -478,7 +479,7 @@ export async function updateDubFeed(optSchedule) {
                     console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
                     modifiedEpisodes.push(episode)
                 })
-            } else { // dst is active, and likely it was recent... only adjust the latest episode SINCE DST was active.
+            } else if (isInDSTTransition) { // dst is active, and likely it was recent... only adjust the latest episode SINCE DST was active.
                 const latestEpisode = mediaEpisodes[0]
                 if (latestEpisode) {
                     const prevDate = latestEpisode.episode.airedAt
