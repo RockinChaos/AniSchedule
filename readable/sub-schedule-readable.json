@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1125,
-          "airingAt": 1744553760
-        },
-        {
           "episode": 1126,
           "airingAt": 1745158560
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1149,
           "airingAt": 1759068960
+        },
+        {
+          "episode": 1150,
+          "airingAt": 1759673760
         }
       ]
     }
@@ -3922,10 +3922,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744561200
-        },
-        {
           "episode": 3,
           "airingAt": 1745166000
         },
@@ -4120,10 +4116,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744556400
-        },
         {
           "episode": 3,
           "airingAt": 1745161200
@@ -4618,10 +4610,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744554600
-        },
-        {
           "episode": 2,
           "airingAt": 1745159400
         },
@@ -4666,8 +4654,7 @@
           "airingAt": 1751207400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178825,
@@ -5657,10 +5644,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744551000
-        },
-        {
           "episode": 3,
           "airingAt": 1745155800
         },
@@ -5730,10 +5713,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744560360
-        },
         {
           "episode": 3,
           "airingAt": 1745165160
@@ -5996,10 +5975,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744554600
-        },
         {
           "episode": 3,
           "airingAt": 1745159400
@@ -6291,10 +6266,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183133-yGgdKRUyCMMv.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744551000
-        },
         {
           "episode": 4,
           "airingAt": 1745155800
@@ -9911,10 +9882,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744560360
-        },
         {
           "episode": 3,
           "airingAt": 1745165160
