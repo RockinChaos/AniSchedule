@@ -1652,8 +1652,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-04-13T20:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-04-20T20:00:00Z"
             }
           ]
         }
@@ -1671,7 +1671,8 @@
     "delayedFrom": "2025-03-30T19:00:00Z",
     "delayedUntil": "2025-04-06T19:00:00Z",
     "episodeDate": "2025-04-13T19:00:00Z",
-    "episodeNumber": 24,
+    "episodeNumber": 25,
+    "subtractedEpisodeNumber": 24,
     "episodes": 25,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1711,8 +1712,12 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 24,
+              "airingAt": "2025-04-13T19:00:00Z"
+            },
+            {
               "episode": 25,
-              "airingAt": "2025-04-20T19:00:00Z"
+              "airingAt": "2025-04-13T19:00:00Z"
             }
           ]
         }
