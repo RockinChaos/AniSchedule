@@ -672,10 +672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2092,
-          "airingAt": 1744580400
-        },
-        {
           "episode": 2093,
           "airingAt": 1745185200
         },
@@ -1166,10 +1162,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 84,
-          "airingAt": 1744596000
-        },
-        {
           "episode": 85,
           "airingAt": 1745200800
         },
@@ -1264,6 +1256,10 @@
         {
           "episode": 108,
           "airingAt": 1759111200
+        },
+        {
+          "episode": 109,
+          "airingAt": 1759716000
         }
       ]
     }
@@ -2788,9 +2784,9 @@
     "idMal": 56038,
     "title": {
       "romaji": "Lazarus",
-      "english": null,
+      "english": "LAZARUS",
       "native": "ラザロ",
-      "userPreferred": "Lazarus"
+      "userPreferred": "LAZARUS"
     },
     "format": "TV",
     "genres": [
@@ -6999,7 +6995,8 @@
     },
     "format": "TV",
     "genres": [
-      "Music"
+      "Music",
+      "Slice of Life"
     ],
     "duration": 24,
     "seasonYear": 2025,
