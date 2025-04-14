@@ -1550,10 +1550,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744641000
-        },
-        {
           "episode": 3,
           "airingAt": 1745245800
         },
@@ -1691,10 +1687,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744642800
-        },
         {
           "episode": 4,
           "airingAt": 1745247600
@@ -2065,10 +2057,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744642800
-        },
         {
           "episode": 3,
           "airingAt": 1745247600
@@ -2461,10 +2449,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744635600
-        },
         {
           "episode": 3,
           "airingAt": 1745240400
@@ -4579,9 +4563,9 @@
     "idMal": 59189,
     "title": {
       "romaji": "Sentai Daishikkaku 2nd Season",
-      "english": null,
+      "english": "Go! Go! Loser Ranger! Season 2",
       "native": "戦隊大失格 2nd season",
-      "userPreferred": "Sentai Daishikkaku 2nd Season"
+      "userPreferred": "Go! Go! Loser Ranger! Season 2"
     },
     "format": "TV",
     "genres": [
@@ -5158,10 +5142,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744635600
-        },
         {
           "episode": 3,
           "airingAt": 1745240400
@@ -8340,10 +8320,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1744639200
-        },
-        {
           "episode": 3,
           "airingAt": 1745244000
         },
@@ -9250,7 +9226,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188131-99m0d0jIBAUg.png",
