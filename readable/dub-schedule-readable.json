@@ -789,6 +789,106 @@
     "addedAt": "2025-04-05T07:49:09Z"
   },
   {
+    "title": "Raise wa Tanin ga Ii",
+    "route": "raise-wa-tanin-ga-ii",
+    "native": "来世は他人がいい",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2025-04-15T21:30:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 170468,
+        "idMal": 56964,
+        "title": {
+          "romaji": "Raise wa Tanin ga Ii",
+          "english": "Yakuza Fiancé: Raise wa Tanin ga Ii",
+          "native": "来世は他人がいい",
+          "userPreferred": "Yakuza Fiancé: Raise wa Tanin ga Ii"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170468-kD2X9O2XM9KH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170468-kD2X9O2XM9KH.jpg",
+          "color": "#e46b50"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-04-15T21:30:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-04-15T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-15T21:30:00Z"
+  },
+  {
     "title": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
     "route": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
     "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
