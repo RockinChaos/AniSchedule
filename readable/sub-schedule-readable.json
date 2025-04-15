@@ -4378,10 +4378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 51,
-          "airingAt": 1744682400
-        },
-        {
           "episode": 52,
           "airingAt": 1745287200
         }
@@ -8424,10 +8420,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 26,
-          "airingAt": 1744671600
-        },
-        {
           "episode": 27,
           "airingAt": 1745276400
         },
@@ -8940,6 +8932,39 @@
         {
           "episode": 2,
           "airingAt": 1745506800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186935,
+    "idMal": 61077,
+    "title": {
+      "romaji": "Dragon Heart: Reikai Tanbouki",
+      "english": null,
+      "native": "ドラゴン・ハート―霊界探訪記―",
+      "userPreferred": "Dragon Heart: Reikai Tanbouki"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186935-WPDw5KNiCSGb.png",
+      "color": "#f1bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1747926000
         }
       ]
     },
@@ -9698,10 +9723,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744668000
-        },
-        {
           "episode": 2,
           "airingAt": 1745272800
         },
@@ -9746,8 +9767,7 @@
           "airingAt": 1751320800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 189716,
