@@ -949,6 +949,63 @@
     "addedAt": "2025-04-09T17:00:00Z"
   },
   {
+    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+    "route": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru",
+    "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+    "english": "The Beginning After the End",
+    "native": "最強の王様、二度目の人生は 何をする?",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-04-16T19:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 183161,
+        "idMal": 60146,
+        "title": {
+          "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+          "english": "The Beginning After the End",
+          "native": "最強の王様、二度目の人生は 何をする? ",
+          "userPreferred": "The Beginning After the End"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183161-5M054tuPmZJX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183161-5M054tuPmZJX.jpg",
+          "color": "#43aeff"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183161-Vmw9QT27k3sM.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-23T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-16T20:15:28Z"
+  },
+  {
     "title": "Sentai Red Isekai de Boukensha ni Naru",
     "route": "sentai-red-isekai-de-boukensha-ni-naru",
     "romaji": "Sentai Red Isekai de Boukensha ni Naru",
