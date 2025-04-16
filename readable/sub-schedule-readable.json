@@ -3269,10 +3269,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1744801200
-        },
-        {
           "episode": 21,
           "airingAt": 1745406000
         },
@@ -3957,10 +3953,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1744801140
-        },
-        {
           "episode": 4,
           "airingAt": 1745405940
         },
@@ -4055,6 +4047,10 @@
         {
           "episode": 27,
           "airingAt": 1759316340
+        },
+        {
+          "episode": 28,
+          "airingAt": 1759921140
         }
       ]
     }
@@ -4933,10 +4929,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1744804800
-        },
-        {
           "episode": 2,
           "airingAt": 1745409600
         },
@@ -4957,8 +4949,7 @@
           "airingAt": 1747828800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179955,
@@ -5413,7 +5404,9 @@
     },
     "format": "TV",
     "genres": [
-      "Sci-Fi"
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life"
     ],
     "duration": 23,
     "seasonYear": 2025,
