@@ -65,7 +65,7 @@
     "native": "悪役令嬢転生おじさん",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-04-19T17:00:00Z",
+    "episodeDate": "2025-04-16T17:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
@@ -75,7 +75,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 172453,
@@ -103,8 +103,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-04-19T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-04-23T17:00:00Z"
             }
           ]
         }
