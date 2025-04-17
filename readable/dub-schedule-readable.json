@@ -170,6 +170,61 @@
     "addedAt": "2025-01-22T21:00:00Z"
   },
   {
+    "title": "Cardfight!! Vanguard: Divinez Deluxe-hen",
+    "route": "cardfight-vanguard-divinez-deluxe-hen",
+    "native": "カードファイト!! ヴァンガード Divinez デラックス編",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-04-25T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182920,
+        "idMal": 54144,
+        "title": {
+          "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
+          "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc",
+          "native": "カードファイト!! ヴァンガード Divinez デラックス編",
+          "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-kGMtP4dBBJBO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-kGMtP4dBBJBO.jpg",
+          "color": "#f1d6bb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-04-25T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-25T23:00:00Z"
+  },
+  {
     "title": "Dragon Ball DAIMA",
     "route": "dragon-ball-daima",
     "native": "ドラゴンボールDAIMA",
