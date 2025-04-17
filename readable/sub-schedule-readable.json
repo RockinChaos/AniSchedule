@@ -2489,39 +2489,6 @@
     }
   },
   {
-    "id": 166249,
-    "idMal": 55709,
-    "title": {
-      "romaji": "Boku to Roboco Movie",
-      "english": null,
-      "native": "劇場版 僕とロボコ",
-      "userPreferred": "Boku to Roboco Movie"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166249-GOWftJA89enZ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166249-GOWftJA89enZ.jpg",
-      "color": "#d6bb1a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1744902000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 166371,
     "idMal": 55710,
     "title": {
@@ -3321,10 +3288,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744900200
-        },
         {
           "episode": 4,
           "airingAt": 1745505000
@@ -4411,10 +4374,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1744903560
-        },
-        {
           "episode": 4,
           "airingAt": 1745508360
         },
@@ -4842,10 +4801,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1744901760
-        },
-        {
           "episode": 4,
           "airingAt": 1745506560
         },
@@ -4905,7 +4860,7 @@
       "color": "#e45043"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179706-mR1oEVbNT3yQ.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6588,37 +6543,6 @@
         {
           "episode": 50,
           "airingAt": 1758942000
-        }
-      ]
-    }
-  },
-  {
-    "id": 183741,
-    "idMal": 60470,
-    "title": {
-      "romaji": "Nikuen",
-      "english": null,
-      "native": "肉園",
-      "userPreferred": "Nikuen"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183741-eW11ec61Vg0T.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183741-eW11ec61Vg0T.png",
-      "color": "#f1bba1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1744902000
         }
       ]
     }
@@ -8680,10 +8604,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1744909080
-        },
-        {
           "episode": 4,
           "airingAt": 1745513880
         },
@@ -8748,10 +8668,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744905240
-        },
         {
           "episode": 4,
           "airingAt": 1745510040
@@ -8985,10 +8901,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744913760
-        },
         {
           "episode": 4,
           "airingAt": 1745518560
@@ -9709,10 +9621,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1744894440
-        },
         {
           "episode": 4,
           "airingAt": 1745499240
