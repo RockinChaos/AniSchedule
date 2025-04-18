@@ -1032,10 +1032,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 153,
-          "airingAt": 1744969200
-        },
-        {
           "episode": 154,
           "airingAt": 1745574000
         },
@@ -1130,6 +1126,10 @@
         {
           "episode": 177,
           "airingAt": 1759484400
+        },
+        {
+          "episode": 178,
+          "airingAt": 1760089200
         }
       ]
     }
@@ -2123,10 +2123,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 92,
-          "airingAt": 1744970100
-        },
-        {
           "episode": 93,
           "airingAt": 1745574900
         },
@@ -2221,6 +2217,10 @@
         {
           "episode": 116,
           "airingAt": 1759485300
+        },
+        {
+          "episode": 117,
+          "airingAt": 1760090100
         }
       ]
     }
@@ -2319,10 +2319,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 77,
-          "airingAt": 1744968300
-        },
         {
           "episode": 78,
           "airingAt": 1745573100
@@ -2963,15 +2959,18 @@
     "idMal": 57827,
     "title": {
       "romaji": "Mashin Souzouden Wataru",
-      "english": "MACHINE GENESIS WATARU",
+      "english": "Mashin Creator Wataru",
       "native": "魔神創造伝ワタル",
-      "userPreferred": "MACHINE GENESIS WATARU"
+      "userPreferred": "Mashin Creator Wataru"
     },
     "format": "TV",
     "genres": [
       "Action",
       "Adventure",
-      "Mecha"
+      "Comedy",
+      "Fantasy",
+      "Mecha",
+      "Sci-Fi"
     ],
     "duration": 24,
     "seasonYear": 2025,
@@ -4338,6 +4337,10 @@
         {
           "episode": 1,
           "airingAt": 1746111600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1754578800
         }
       ]
     },
@@ -4906,7 +4909,7 @@
       "color": "#e4bba1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179955-5udW2tD5O266.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8456,10 +8459,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1744966800
-        },
         {
           "episode": 21,
           "airingAt": 1745571600
