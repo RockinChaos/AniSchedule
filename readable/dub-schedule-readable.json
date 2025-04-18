@@ -324,6 +324,61 @@
     "addedAt": "2025-04-18T17:12:11Z"
   },
   {
+    "title": "Bye Bye, Earth 2nd Season",
+    "route": "bye-bye-earth-2nd-season",
+    "native": "ばいばい、アース 第2シーズン",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-04-18T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 10,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181078,
+        "idMal": 59819,
+        "title": {
+          "romaji": "Bye Bye, Earth Season 2",
+          "english": "Bye Bye, Earth Season 2",
+          "native": "ばいばい、アース シーズン2",
+          "userPreferred": "Bye Bye, Earth Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-4ooHGXSnDQL4.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181078-4ooHGXSnDQL4.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-25T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-18T22:48:42Z"
+  },
+  {
     "title": "Cardfight!! Vanguard: Divinez Deluxe-hen",
     "route": "cardfight-vanguard-divinez-deluxe-hen",
     "native": "カードファイト!! ヴァンガード Divinez デラックス編",
