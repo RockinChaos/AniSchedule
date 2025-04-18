@@ -491,6 +491,64 @@
     "addedAt": "2025-03-12T19:00:00Z"
   },
   {
+    "title": "Enen no Shouboutai: San no Shou",
+    "route": "enen-no-shouboutai-3",
+    "romaji": "Enen no Shouboutai: San no Shou",
+    "english": "Fire Force 3",
+    "native": "炎炎ノ消防隊 参ノ章",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2025-04-18T21:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 149118,
+        "idMal": 51818,
+        "title": {
+          "romaji": "Enen no Shouboutai: San no Shou",
+          "english": "Fire Force Season 3",
+          "native": "炎炎ノ消防隊 参ノ章",
+          "userPreferred": "Fire Force Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx149118-AOQb0xuTssGl.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx149118-AOQb0xuTssGl.jpg",
+          "color": "#ffa135"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/149118-neeUO11QUL0R.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-25T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-18T21:44:02Z"
+  },
+  {
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
     "route": "goukon-ni-ittara-onna-ga-inakatta-hanashi",
     "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi",
