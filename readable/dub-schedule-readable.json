@@ -1502,6 +1502,63 @@
     "addedAt": "2025-02-02T23:00:00Z"
   },
   {
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2",
+    "route": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-2",
+    "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
+    "english": "I've Been Killing Slimes For 300 Years And Maxed Out My Level 2nd Season",
+    "native": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-04-19T19:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 143337,
+        "idMal": 50738,
+        "title": {
+          "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
+          "english": "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2",
+          "native": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
+          "userPreferred": "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143337-2uPE0ywVcz9X.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143337-2uPE0ywVcz9X.jpg",
+          "color": "#35bbf1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143337-YrezCjQJLnRO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-26T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-19T19:50:07Z"
+  },
+  {
     "title": "Trillion Game",
     "route": "trillion-game",
     "native": "トリリオンゲーム",
