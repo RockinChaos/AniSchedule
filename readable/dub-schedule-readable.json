@@ -1002,6 +1002,65 @@
     "addedAt": "2024-07-01T00:24:47Z"
   },
   {
+    "title": "Kuroshitsuji: Midori no Majo-hen",
+    "route": "kuroshitsuji-midori-no-majo-hen",
+    "romaji": "Kuroshitsuji: Midori no Majo-hen",
+    "english": "Black Butler: Emerald Witch Arc",
+    "native": "黒執事 -緑の魔女編-",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-04-19T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179054,
+        "idMal": 59228,
+        "title": {
+          "romaji": "Kuroshitsuji: Midori no Majo-hen",
+          "english": "Black Butler: Emerald Witch Arc",
+          "native": "黒執事 -緑の魔女編-",
+          "userPreferred": "Black Butler: Emerald Witch Arc"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179054-HmN0Za4T157B.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179054-HmN0Za4T157B.jpg",
+          "color": "#f1f1c9"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179054-h88Gux77VioM.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-26T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-19T19:14:13Z"
+  },
+  {
     "title": "Kusuriya no Hitorigoto 2nd Season",
     "route": "kusuriya-no-hitorigoto-2nd-season",
     "romaji": "Kusuriya no Hitorigoto 2nd Season",
