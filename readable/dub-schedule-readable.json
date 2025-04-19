@@ -170,6 +170,62 @@
     "addedAt": "2025-01-22T21:00:00Z"
   },
   {
+    "title": "Anne Shirley",
+    "route": "anne-shirley",
+    "romaji": "Anne Shirley",
+    "english": "Anne Shirley",
+    "native": "アン・シャーリー",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2025-04-19T21:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 184639,
+        "idMal": 60334,
+        "title": {
+          "romaji": "Anne Shirley",
+          "english": "Anne Shirley",
+          "native": "アン・シャーリー",
+          "userPreferred": "Anne Shirley"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tmj8NbTroNeI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184639-tmj8NbTroNeI.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-26T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-19T21:46:57Z"
+  },
+  {
     "title": "Ao no Hako",
     "route": "ao-no-hako",
     "romaji": "Ao no Hako",
