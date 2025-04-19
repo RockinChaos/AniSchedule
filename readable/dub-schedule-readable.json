@@ -1058,6 +1058,65 @@
     "addedAt": "2024-07-01T00:24:47Z"
   },
   {
+    "title": "Kowloon Generic Romance",
+    "route": "kowloon-generic-romance",
+    "romaji": "Kowloon Generic Romance",
+    "english": "Kowloon Generic Romance",
+    "native": "九龍ジェネリックロマンス",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-04-19T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182814,
+        "idMal": 60083,
+        "title": {
+          "romaji": "Kowloon Generic Romance",
+          "english": "KOWLOON GENERIC ROMANCE",
+          "native": "九龍ジェネリックロマンス",
+          "userPreferred": "KOWLOON GENERIC ROMANCE"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance",
+          "Sci-Fi",
+          "Slice of Life"
+        ],
+        "duration": 25,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182814-UTKRUUm7Jah5.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182814-UTKRUUm7Jah5.jpg",
+          "color": "#6baee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182814-EdVCOqd78Thb.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-26T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-19T22:16:14Z"
+  },
+  {
     "title": "Kuroshitsuji: Midori no Majo-hen",
     "route": "kuroshitsuji-midori-no-majo-hen",
     "romaji": "Kuroshitsuji: Midori no Majo-hen",
