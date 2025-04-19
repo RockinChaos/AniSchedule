@@ -1416,10 +1416,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 163,
-          "airingAt": 1745015400
-        },
-        {
           "episode": 164,
           "airingAt": 1745620200
         },
@@ -1514,6 +1510,10 @@
         {
           "episode": 187,
           "airingAt": 1759530600
+        },
+        {
+          "episode": 188,
+          "airingAt": 1760135400
         }
       ]
     }
@@ -5827,7 +5827,7 @@
       "color": "#e49343"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182060-DyuMHCaX6Sjw.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6050,39 +6050,6 @@
         {
           "episode": 13,
           "airingAt": 1751119200
-        }
-      ]
-    }
-  },
-  {
-    "id": 182920,
-    "idMal": 54144,
-    "title": {
-      "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
-      "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc",
-      "native": "カードファイト!! ヴァンガード Divinez デラックス編",
-      "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182920-kGMtP4dBBJBO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182920-kGMtP4dBBJBO.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1745017200
         }
       ]
     }
@@ -6745,10 +6712,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1745013600
-        },
         {
           "episode": 4,
           "airingAt": 1745618400
@@ -7736,10 +7699,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1745020800
-        },
-        {
           "episode": 4,
           "airingAt": 1745625600
         },
@@ -7869,10 +7828,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1745013600
-        },
         {
           "episode": 4,
           "airingAt": 1745618400
