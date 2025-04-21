@@ -58,6 +58,63 @@
     "addedAt": "2025-01-25T23:00:00Z"
   },
   {
+    "title": "Aharen-san wa Hakarenai 2nd Season",
+    "route": "aharen-san-wa-hakarenai-2nd-season",
+    "romaji": "Aharen-san wa Hakarenai Season 2",
+    "english": "Aharen-san wa Hakarenai Season 2",
+    "native": "波連さんははかれない season2",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-04-21T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179979,
+        "idMal": 59466,
+        "title": {
+          "romaji": "Aharen-san wa Hakarenai Season 2",
+          "english": "Aharen-san wa Hakarenai Season 2",
+          "native": "阿波連さんははかれない season2",
+          "userPreferred": "Aharen-san wa Hakarenai Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179979-OiIKSkhJRmvo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179979-OiIKSkhJRmvo.jpg",
+          "color": "#4386f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-28T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-21T19:56:06Z"
+  },
+  {
     "title": "Akuyaku Reijou Tensei Ojisan",
     "route": "akuyaku-reijou-tensei-ojisan",
     "romaji": "Akuyaku Reijou Tensei Oji-san",
