@@ -227,6 +227,63 @@
     "addedAt": "2025-04-19T21:46:57Z"
   },
   {
+    "title": "Aru Majo ga Shinu Made",
+    "route": "aru-majo-ga-shinu-made",
+    "romaji": "Aru Majo ga Shinu Made",
+    "english": "Once Upon a Witch's Death",
+    "native": "ある魔女が死ぬまで",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
+    "episodeDate": "2025-04-22T20:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178701,
+        "idMal": 59169,
+        "title": {
+          "romaji": "Aru Majo ga Shinu Made",
+          "english": "Once Upon a Witch's Death",
+          "native": "ある魔女が死ぬまで",
+          "userPreferred": "Once Upon a Witch's Death"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178701-OA537qbje5AU.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178701-OA537qbje5AU.jpg",
+          "color": "#f1d6bb"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178701-va8XkChh60u9.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-04-29T20:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-22T21:12:57Z"
+  },
+  {
     "title": "Bye Bye, Earth 2nd Season",
     "route": "bye-bye-earth-2nd-season",
     "native": "ばいばい、アース 第2シーズン",
