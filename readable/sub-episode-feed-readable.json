@@ -1,5 +1,38 @@
 [
   {
+    "id": 184279,
+    "idMal": 60293,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2025-04-22T15:00:00Z",
+      "addedAt": "2025-04-22T15:00:16Z"
+    }
+  },
+  {
+    "id": 184762,
+    "idMal": 60302,
+    "format": "SPECIAL",
+    "duration": 45,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-04-22T15:00:00Z",
+      "addedAt": "2025-04-22T15:00:16Z"
+    }
+  },
+  {
+    "id": 185716,
+    "idMal": 60595,
+    "format": "OVA",
+    "duration": 25,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-04-22T15:00:00Z",
+      "addedAt": "2025-04-22T15:00:16Z"
+    }
+  },
+  {
     "id": 178701,
     "idMal": 59169,
     "format": "TV",
