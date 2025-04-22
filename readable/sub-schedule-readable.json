@@ -3095,10 +3095,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1745328600
-        },
-        {
           "episode": 4,
           "airingAt": 1745933400
         },
@@ -4320,10 +4316,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1745332200
-        },
-        {
           "episode": 5,
           "airingAt": 1745937000
         },
@@ -5194,10 +5186,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1745339640
-        },
         {
           "episode": 4,
           "airingAt": 1745944440
@@ -6472,10 +6460,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1745334000
-        },
-        {
           "episode": 5,
           "airingAt": 1745938800
         },
@@ -6812,41 +6796,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 184762,
-    "idMal": 60302,
-    "title": {
-      "romaji": "Natsume Yuujinchou Shichi Special",
-      "english": null,
-      "native": "夏目友人帳 漆 特別編",
-      "userPreferred": "Natsume Yuujinchou Shichi Special"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184762-VBTlKw5YH3CI.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184762-VBTlKw5YH3CI.jpg",
-      "color": "#d6431a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1745334000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 184824,
@@ -7265,10 +7214,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-btMTsXAx2y0A.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1745335740
-        },
         {
           "episode": 4,
           "airingAt": 1745940540
@@ -7703,16 +7648,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1745334000
-        },
-        {
           "episode": 2,
           "airingAt": 1745938800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185718,
@@ -8784,10 +8724,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1745326560
-        },
-        {
           "episode": 4,
           "airingAt": 1745931360
         },
@@ -9402,6 +9338,78 @@
         {
           "episode": 12,
           "airingAt": 1750608360
+        }
+      ]
+    }
+  },
+  {
+    "id": 191374,
+    "idMal": 61485,
+    "title": {
+      "romaji": "Jigu-eui Juin-eun Goyang-ida",
+      "english": null,
+      "native": "지구의 주인은 고양이다",
+      "userPreferred": "Jigu-eui Juin-eun Goyang-ida"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 13,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191374-BijC3ZcNSpJo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191374-BijC3ZcNSpJo.png",
+      "color": "#e49350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1745645400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746250200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1746855000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1747459800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1748064600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1748669400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1749274200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1749879000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1750483800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1751088600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1751693400
         }
       ]
     }
