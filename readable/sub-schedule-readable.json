@@ -3126,10 +3126,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1745406000
-        },
-        {
           "episode": 22,
           "airingAt": 1746010800
         },
@@ -3778,10 +3774,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1745405940
-        },
-        {
           "episode": 5,
           "airingAt": 1746010740
         },
@@ -3876,6 +3868,10 @@
         {
           "episode": 28,
           "airingAt": 1759921140
+        },
+        {
+          "episode": 29,
+          "airingAt": 1760525940
         }
       ]
     }
@@ -4682,10 +4678,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179706-mR1oEVbNT3yQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1745409600
-        },
         {
           "episode": 3,
           "airingAt": 1746014400
@@ -6109,7 +6101,7 @@
       "color": "#fee450"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183275-tB2NdUZADGXr.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8697,6 +8689,39 @@
         {
           "episode": 6,
           "airingAt": 1747140960
+        }
+      ]
+    }
+  },
+  {
+    "id": 188239,
+    "idMal": 61258,
+    "title": {
+      "romaji": "Transformers: Wild King",
+      "english": null,
+      "native": "トランスフォーマー ワイルドキング",
+      "userPreferred": "Transformers: Wild King"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": 6,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
+      "color": "#f1c935"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1747184400
         }
       ]
     }
