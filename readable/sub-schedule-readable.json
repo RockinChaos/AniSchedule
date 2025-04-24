@@ -2799,10 +2799,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 76,
-          "airingAt": 1745481600
-        },
-        {
           "episode": 77,
           "airingAt": 1746086400
         },
@@ -2957,6 +2953,10 @@
         {
           "episode": 3,
           "airingAt": 1748530800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753369200
         }
       ]
     }
@@ -3561,10 +3561,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177120-AeL6hv0brH0l.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1745497800
-        },
         {
           "episode": 4,
           "airingAt": 1746102600
@@ -5672,10 +5668,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1745485200
-        },
         {
           "episode": 26,
           "airingAt": 1746090000
@@ -8097,6 +8089,10 @@
         {
           "episode": 1,
           "airingAt": 1745506800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753369200
         }
       ]
     },
@@ -8708,7 +8704,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 1,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188394-4oTa98gvtw8R.jpg",
@@ -8719,10 +8715,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1745487000
-        },
         {
           "episode": 6,
           "airingAt": 1746091800

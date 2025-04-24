@@ -1,5 +1,16 @@
 [
   {
+    "id": 189716,
+    "idMal": 61379,
+    "format": "TV_SHORT",
+    "duration": 3,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2025-04-24T12:54:00Z",
+      "addedAt": "2025-04-24T12:52:49Z"
+    }
+  },
+  {
     "id": 177120,
     "idMal": 58725,
     "format": "TV",
@@ -14,7 +25,7 @@
     "id": 188394,
     "idMal": 61272,
     "format": "ONA",
-    "duration": 25,
+    "duration": 1,
     "episode": {
       "aired": 5,
       "airedAt": "2025-04-24T09:30:00Z",
@@ -1234,7 +1245,7 @@
     "id": 188394,
     "idMal": 61272,
     "format": "ONA",
-    "duration": 25,
+    "duration": 1,
     "episode": {
       "aired": 4,
       "airedAt": "2025-04-17T09:30:00Z",
@@ -2388,7 +2399,7 @@
     "id": 188394,
     "idMal": 61272,
     "format": "ONA",
-    "duration": 25,
+    "duration": 1,
     "episode": {
       "aired": 3,
       "airedAt": "2025-04-10T09:30:00Z",
@@ -3530,7 +3541,7 @@
   {
     "id": 188394,
     "format": "ONA",
-    "duration": 25,
+    "duration": 1,
     "episode": {
       "aired": 2,
       "airedAt": "2025-04-03T09:30:00Z",
@@ -3541,7 +3552,7 @@
   {
     "id": 188394,
     "format": "ONA",
-    "duration": 25,
+    "duration": 1,
     "episode": {
       "aired": 1,
       "airedAt": "2025-04-03T09:30:00Z",
