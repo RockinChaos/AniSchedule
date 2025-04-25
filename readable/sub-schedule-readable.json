@@ -1024,10 +1024,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 154,
-          "airingAt": 1745574000
-        },
-        {
           "episode": 155,
           "airingAt": 1746178800
         },
@@ -1122,6 +1118,10 @@
         {
           "episode": 178,
           "airingAt": 1760089200
+        },
+        {
+          "episode": 179,
+          "airingAt": 1760694000
         }
       ]
     }
@@ -2017,10 +2017,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 93,
-          "airingAt": 1745574900
-        },
-        {
           "episode": 94,
           "airingAt": 1746179700
         },
@@ -2115,6 +2111,10 @@
         {
           "episode": 117,
           "airingAt": 1760090100
+        },
+        {
+          "episode": 118,
+          "airingAt": 1760694900
         }
       ]
     }
@@ -2213,10 +2213,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 78,
-          "airingAt": 1745573100
-        },
         {
           "episode": 79,
           "airingAt": 1746177900
@@ -4233,7 +4229,7 @@
       "Drama",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg",
@@ -4613,7 +4609,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179955-e4UPTow92B1O.jpg",
@@ -5508,7 +5504,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182060-r0ihNqhiyvpT.jpg",
@@ -6649,7 +6645,7 @@
     "genres": [
       "Hentai"
     ],
-    "duration": null,
+    "duration": 15,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184824-UcbgUai3o3xd.png",
@@ -7005,7 +7001,7 @@
     "genres": [
       "Hentai"
     ],
-    "duration": null,
+    "duration": 22,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185166-nRoGrSNTd13z.png",
@@ -7407,7 +7403,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png",
@@ -7699,7 +7695,7 @@
     "genres": [
       "Hentai"
     ],
-    "duration": null,
+    "duration": 20,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185779-uzQoDrD3Sy6r.png",
@@ -7959,10 +7955,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1745571600
-        },
         {
           "episode": 22,
           "airingAt": 1746176400
@@ -8590,7 +8582,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188661-I48XaB1Bvkju.png",
