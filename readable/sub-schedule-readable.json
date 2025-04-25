@@ -2821,9 +2821,9 @@
     "idMal": 57827,
     "title": {
       "romaji": "Mashin Souzouden Wataru",
-      "english": "Mashin Creator Wataru",
+      "english": "MASHIN CREATOR WATARU",
       "native": "魔神創造伝ワタル",
-      "userPreferred": "Mashin Creator Wataru"
+      "userPreferred": "MASHIN CREATOR WATARU"
     },
     "format": "TV",
     "genres": [
@@ -9151,5 +9151,69 @@
         }
       ]
     }
+  },
+  {
+    "id": 191491,
+    "idMal": null,
+    "title": {
+      "romaji": "Tonari no Kanojo",
+      "english": null,
+      "native": "トナリノカノジョ",
+      "userPreferred": "Tonari no Kanojo"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191491-kABoVfgRXJ18.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191491-kABoVfgRXJ18.png",
+      "color": "#f11a0d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 191492,
+    "idMal": null,
+    "title": {
+      "romaji": "Yogoreta Kanojo",
+      "english": null,
+      "native": "ヨゴレタカノジョ",
+      "userPreferred": "Yogoreta Kanojo"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191492-qF5aHi4Xbtdo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191492-qF5aHi4Xbtdo.png",
+      "color": "#d61a1a"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
