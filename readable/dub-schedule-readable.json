@@ -328,8 +328,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-04-25T22:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-05-02T22:00:00Z"
             }
           ]
         }
@@ -354,7 +354,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 182920,
@@ -383,8 +383,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-04-25T23:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-05-02T23:00:00Z"
             }
           ]
         }
@@ -437,8 +437,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2025-04-25T20:30:00Z"
+              "episode": 17,
+              "airingAt": "2025-05-02T20:30:00Z"
             }
           ]
         }
@@ -553,8 +553,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-04-25T21:30:00Z"
+              "episode": 3,
+              "airingAt": "2025-05-02T21:30:00Z"
             }
           ]
         }
@@ -1182,8 +1182,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2025-04-25T20:00:00Z"
+              "episode": 15,
+              "airingAt": "2025-05-02T20:00:00Z"
             }
           ]
         }
@@ -1293,8 +1293,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-04-26T03:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-05-03T03:00:00Z"
             }
           ]
         }
@@ -1532,6 +1532,59 @@
     },
     "verified": false,
     "addedAt": "2025-04-19T19:50:07Z"
+  },
+  {
+    "title": "Teogonia",
+    "route": "teogonia",
+    "native": "神統記",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-04-25T19:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 176702,
+        "idMal": 58614,
+        "title": {
+          "romaji": "Teogonia",
+          "english": "Teogonia",
+          "native": "神統記",
+          "userPreferred": "Teogonia"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176702-sD5AnHf8g4zi.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176702-sD5AnHf8g4zi.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-05-02T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-26T05:42:06Z"
   },
   {
     "title": "Tu Bian Yingxiong X",
