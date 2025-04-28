@@ -672,10 +672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2094,
-          "airingAt": 1745790000
-        },
-        {
           "episode": 2095,
           "airingAt": 1746394800
         },
@@ -1150,10 +1146,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 86,
-          "airingAt": 1745805600
-        },
-        {
           "episode": 87,
           "airingAt": 1746410400
         },
@@ -1248,6 +1240,10 @@
         {
           "episode": 110,
           "airingAt": 1760320800
+        },
+        {
+          "episode": 111,
+          "airingAt": 1760925600
         }
       ]
     }
@@ -9031,6 +9027,51 @@
         {
           "episode": 1,
           "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 191689,
+    "idMal": null,
+    "title": {
+      "romaji": "Umayuru: Pretty Gray",
+      "english": null,
+      "native": "うまゆる ぷりてぃ～ぐれい",
+      "userPreferred": "Umayuru: Pretty Gray"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191689-GcPVOgZLgdMa.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191689-GcPVOgZLgdMa.png",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745982000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1746154800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1746327600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1746500400
         }
       ]
     },
