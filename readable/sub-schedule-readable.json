@@ -2922,10 +2922,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1745933400
-        },
-        {
           "episode": 5,
           "airingAt": 1746538200
         },
@@ -4099,10 +4095,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1745937000
-        },
-        {
           "episode": 6,
           "airingAt": 1746541800
         },
@@ -4925,10 +4917,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1745944440
-        },
         {
           "episode": 5,
           "airingAt": 1746549240
@@ -6139,10 +6127,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1745938800
-        },
-        {
           "episode": 6,
           "airingAt": 1746543600
         },
@@ -6878,10 +6862,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1745940540
-        },
-        {
           "episode": 5,
           "airingAt": 1746545340
         },
@@ -7261,38 +7241,6 @@
         {
           "episode": 12,
           "airingAt": 1750456800
-        }
-      ]
-    }
-  },
-  {
-    "id": 185716,
-    "idMal": 60595,
-    "title": {
-      "romaji": "Hyakushou Kizoku 2 OVA",
-      "english": null,
-      "native": "百姓貴族 第2期 OVA",
-      "userPreferred": "Hyakushou Kizoku 2 OVA"
-    },
-    "format": "OVA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185716-LYQR7AFNEC0m.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185716-LYQR7AFNEC0m.jpg",
-      "color": "#ffd635"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1745938800
         }
       ]
     }
@@ -8266,10 +8214,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1745931360
-        },
-        {
           "episode": 5,
           "airingAt": 1746536160
         },
@@ -9032,38 +8976,6 @@
         {
           "episode": 4,
           "airingAt": 1746500400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 191734,
-    "idMal": null,
-    "title": {
-      "romaji": "A Horny Money World: Densetsu no Yoru",
-      "english": "A Horny Money World: legendary night",
-      "native": "A Horny Money World ~伝説の夜~",
-      "userPreferred": "A Horny Money World: legendary night"
-    },
-    "format": "MUSIC",
-    "genres": [
-      "Ecchi"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191734-f48DHHDtEEI1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191734-f48DHHDtEEI1.png",
-      "color": "#ffae93"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1745924400
         }
       ]
     },
