@@ -7548,10 +7548,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 28,
-          "airingAt": 1745881200
-        },
-        {
           "episode": 29,
           "airingAt": 1746486000
         },
@@ -8701,10 +8697,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1745877600
-        },
-        {
           "episode": 4,
           "airingAt": 1746482400
         },
@@ -9040,6 +9032,38 @@
         {
           "episode": 4,
           "airingAt": 1746500400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 191734,
+    "idMal": null,
+    "title": {
+      "romaji": "A Horny Money World: Densetsu no Yoru",
+      "english": "A Horny Money World: legendary night",
+      "native": "A Horny Money World ~伝説の夜~",
+      "userPreferred": "A Horny Money World: legendary night"
+    },
+    "format": "MUSIC",
+    "genres": [
+      "Ecchi"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191734-f48DHHDtEEI1.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191734-f48DHHDtEEI1.png",
+      "color": "#ffae93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1745924400
         }
       ]
     },
