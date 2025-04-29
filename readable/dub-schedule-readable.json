@@ -1420,6 +1420,62 @@
     "addedAt": "2025-04-16T20:15:28Z"
   },
   {
+    "title": "Shiunji-ke no Kodomotachi",
+    "route": "shiunji-ke-no-kodomotachi",
+    "romaji": "Shiunji-ke no Kodomotachi",
+    "english": "The Shiunji Family Children",
+    "native": "紫雲寺家の子供たち",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-04-29T19:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 174802,
+        "idMal": 58131,
+        "title": {
+          "romaji": "Shiunji-ke no Kodomotachi",
+          "english": "The Shiunji Family Children",
+          "native": "紫雲寺家の子供たち",
+          "userPreferred": "The Shiunji Family Children"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174802-ILahIZlNWN3R.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174802-ILahIZlNWN3R.jpg",
+          "color": "#e4935d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-05-06T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-29T20:15:28Z"
+  },
+  {
     "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita 2",
     "route": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-2",
     "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
