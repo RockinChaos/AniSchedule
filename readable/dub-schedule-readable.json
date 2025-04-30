@@ -791,6 +791,64 @@
     "addedAt": "2025-04-17T19:45:50Z"
   },
   {
+    "title": "Kakushite! Makina-san!!",
+    "route": "kakushite-makina-san",
+    "romaji": "Kakushite! Makina-san!!",
+    "english": "Makina-san's a Love Bot?!",
+    "native": "かくして！マキナさん!!",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-04-30T07:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177509,
+        "idMal": 58833,
+        "title": {
+          "romaji": "Kakushite! Makina-san!!",
+          "english": "Makina-san's a Love Bot?!",
+          "native": "かくして!! マキナさん！",
+          "userPreferred": "Makina-san's a Love Bot?!"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Mecha",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177509-LzpyXGnjitvF.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177509-LzpyXGnjitvF.jpg",
+          "color": "#f1935d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-05-07T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-04-30T08:18:56Z"
+  },
+  {
     "title": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
     "route": "kanchigai-no-atelier-meister-eiyuu-party-no-moto-zatsuyougakari-ga-jitsu-wa-sentou-igai-ga-sss-rank-datta-to-iu-yoku-aru-hanashi",
     "romaji": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
