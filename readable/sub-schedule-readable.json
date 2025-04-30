@@ -2355,10 +2355,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1746019800
-        },
-        {
           "episode": 5,
           "airingAt": 1746624600
         },
@@ -2389,38 +2385,6 @@
         {
           "episode": 12,
           "airingAt": 1750858200
-        }
-      ]
-    }
-  },
-  {
-    "id": 166373,
-    "idMal": 55727,
-    "title": {
-      "romaji": "MIRU: Watashi no Mirai",
-      "english": null,
-      "native": "未ル わたしのみらい",
-      "userPreferred": "MIRU: Watashi no Mirai"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166373-97U2bjAxD3l7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166373-97U2bjAxD3l7.jpg",
-      "color": "#ffae1a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746034200
         }
       ]
     }
@@ -2497,10 +2461,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746024300
-        },
         {
           "episode": 6,
           "airingAt": 1746629100
@@ -4571,10 +4531,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1746019800
-        },
-        {
           "episode": 6,
           "airingAt": 1746624600
         },
@@ -4665,40 +4621,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 180124,
-    "idMal": 61198,
-    "title": {
-      "romaji": "Tabekko Doubutsu THE MOVIE",
-      "english": "Dream Animals THE MOVIE",
-      "native": "たべっ子どうぶつ THE MOVIE",
-      "userPreferred": "Dream Animals THE MOVIE"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b180124-kLrE636DrdKx.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b180124-kLrE636DrdKx.png",
-      "color": "#e49335"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1746025200
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 180367,
@@ -5643,10 +5565,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1746027960
-        },
-        {
           "episode": 6,
           "airingAt": 1746632760
         },
@@ -5816,10 +5734,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183275-tB2NdUZADGXr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746025200
-        },
         {
           "episode": 6,
           "airingAt": 1746630000
@@ -6052,10 +5966,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1746017760
-        },
         {
           "episode": 5,
           "airingAt": 1746622560
@@ -6563,10 +6473,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1746025200
-        },
         {
           "episode": 5,
           "airingAt": 1746630000
@@ -8938,7 +8844,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191689-GcPVOgZLgdMa.png",
