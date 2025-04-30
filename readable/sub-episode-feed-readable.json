@@ -1,5 +1,16 @@
 [
   {
+    "id": 184182,
+    "idMal": 60280,
+    "format": "TV_SHORT",
+    "duration": 5,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2025-04-30T12:56:00Z",
+      "addedAt": "2025-04-30T12:51:11Z"
+    }
+  },
+  {
     "id": 179706,
     "idMal": 59369,
     "format": "ONA",
@@ -40,7 +51,8 @@
       "aired": 1,
       "airedAt": "2025-04-30T03:00:00Z",
       "addedAt": "2025-04-30T03:00:09Z"
-    }
+    },
+    "idMal": 61579
   },
   {
     "id": 188039,

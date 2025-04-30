@@ -2982,10 +2982,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1746010800
-        },
-        {
           "episode": 23,
           "airingAt": 1746615600
         },
@@ -3598,10 +3594,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1746010740
-        },
-        {
           "episode": 6,
           "airingAt": 1746615540
         },
@@ -3696,6 +3688,10 @@
         {
           "episode": 29,
           "airingAt": 1760525940
+        },
+        {
+          "episode": 30,
+          "airingAt": 1761130740
         }
       ]
     }
@@ -4470,10 +4466,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179706-mR1oEVbNT3yQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1746014400
-        },
         {
           "episode": 4,
           "airingAt": 1746619200
@@ -8934,7 +8926,7 @@
   },
   {
     "id": 191689,
-    "idMal": null,
+    "idMal": 61579,
     "title": {
       "romaji": "Umayuru: Pretty Gray",
       "english": null,
