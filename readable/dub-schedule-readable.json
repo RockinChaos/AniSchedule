@@ -335,7 +335,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-04-18T22:48:42Z"
   },
   {
@@ -383,8 +383,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-05-02T23:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-05-09T23:00:00Z"
             }
           ]
         }
