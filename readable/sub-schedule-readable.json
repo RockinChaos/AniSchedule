@@ -1016,10 +1016,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 155,
-          "airingAt": 1746178800
-        },
-        {
           "episode": 156,
           "airingAt": 1746783600
         },
@@ -1114,6 +1110,10 @@
         {
           "episode": 179,
           "airingAt": 1760694000
+        },
+        {
+          "episode": 180,
+          "airingAt": 1761298800
         }
       ]
     }
@@ -1981,10 +1981,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 94,
-          "airingAt": 1746179700
-        },
-        {
           "episode": 95,
           "airingAt": 1746784500
         },
@@ -2079,6 +2075,10 @@
         {
           "episode": 118,
           "airingAt": 1760694900
+        },
+        {
+          "episode": 119,
+          "airingAt": 1761299700
         }
       ]
     }
@@ -2177,10 +2177,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 79,
-          "airingAt": 1746177900
-        },
         {
           "episode": 80,
           "airingAt": 1746782700
@@ -7275,6 +7271,39 @@
     }
   },
   {
+    "id": 185778,
+    "idMal": null,
+    "title": {
+      "romaji": "Terra Live",
+      "english": "U Takes Terra",
+      "native": "テラライブ",
+      "userPreferred": "U Takes Terra"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185778-ul0jITTYoFNU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185778-ul0jITTYoFNU.png",
+      "color": "#ae5d28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1747396800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185779,
     "idMal": 61353,
     "title": {
@@ -7540,10 +7569,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1746176400
-        },
         {
           "episode": 23,
           "airingAt": 1746781200
@@ -8780,5 +8805,39 @@
         }
       ]
     }
+  },
+  {
+    "id": 192002,
+    "idMal": 61595,
+    "title": {
+      "romaji": "I Byeore Piryohan",
+      "english": "Lost in Starlight",
+      "native": "이 별에 필요한",
+      "userPreferred": "Lost in Starlight"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "duration": 96,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b192002-3QLggjTtpSPy.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b192002-3QLggjTtpSPy.jpg",
+      "color": "#e46b43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192002-4EiBKviJr5oX.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1748530800
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
