@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1696,
-          "airingAt": 1746150900
-        },
-        {
           "episode": 1697,
           "airingAt": 1746755700
         },
@@ -513,6 +509,10 @@
         {
           "episode": 1720,
           "airingAt": 1760666100
+        },
+        {
+          "episode": 1721,
+          "airingAt": 1761270900
         }
       ]
     }
@@ -711,10 +711,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 602,
-          "airingAt": 1746137400
-        },
-        {
           "episode": 603,
           "airingAt": 1746742200
         },
@@ -809,6 +805,10 @@
         {
           "episode": 626,
           "airingAt": 1760652600
+        },
+        {
+          "episode": 627,
+          "airingAt": 1761257400
         }
       ]
     }
@@ -2416,10 +2416,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1746151200
-        },
-        {
           "episode": 10,
           "airingAt": 1746756000
         },
@@ -3244,27 +3240,27 @@
         },
         {
           "episode": 19,
-          "airingAt": 1747404000
-        },
-        {
-          "episode": 20,
           "airingAt": 1748008800
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1748613600
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1749218400
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1749823200
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1750428000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1751032800
         }
       ]
     }
@@ -7429,6 +7425,7 @@
     },
     "format": "TV",
     "genres": [
+      "Comedy",
       "Slice of Life"
     ],
     "duration": 24,
@@ -8272,10 +8269,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746138600
-        },
         {
           "episode": 6,
           "airingAt": 1746743400
