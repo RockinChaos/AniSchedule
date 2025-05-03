@@ -1,5 +1,63 @@
 [
   {
+    "title": "2.5 Jigen no Ririsa",
+    "route": "2-5-jigen-no-ririsa",
+    "romaji": " 2.5 Jigen no Ririsa",
+    "english": "2.5 Dimensional Seduction",
+    "native": "2.5次元の誘惑",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-05-07T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 158559,
+        "idMal": 53802,
+        "title": {
+          "romaji": "2.5 Jigen no Ririsa",
+          "english": "2.5 Dimensional Seduction",
+          "native": "2.5次元の誘惑",
+          "userPreferred": "2.5 Dimensional Seduction"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158559-yCnnnedsSCie.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158559-yCnnnedsSCie.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158559-plsSIyvRIiOc.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-05-07T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-05-07T17:00:00Z"
+  },
+  {
     "title": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
     "route": "a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu",
     "romaji": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
