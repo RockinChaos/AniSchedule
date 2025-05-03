@@ -66,6 +66,10 @@ export async function anitomyscript (...args) {
             obj.anime_year = yearMatch[1]
             obj.anime_title = obj.anime_title.replace(/ (19[5-9]\d|20\d{2})/, '')
         }
+        if (obj.episode_number?.includes('.')) { // stupid fix for 2.5 Dimensional Seduction. We resolve anime titles not video so there should be ZERO reason to use an "episode" that is a double.
+            obj.anime_title = obj.file_name.replace(Number(obj.anime_season) > 1 ? /\b(?:\d+(?:st|nd|rd|th)?\s*Season|Season\s*\d+)\b/gi : '', '')
+            delete obj.episode_number
+        }
         if (Number(obj.anime_season || obj.episode_number) > 1) obj.anime_title += ' S' + (obj.anime_season || obj.episode_number) // use episode number as we are resolving anime titles not video. Anitomyscript is stupid sometimes...
     }
 
