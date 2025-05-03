@@ -1132,7 +1132,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-04-19T22:16:14Z"
   },
   {
@@ -1303,6 +1303,62 @@
     },
     "verified": true,
     "addedAt": "2025-04-05T07:00:00Z"
+  },
+  {
+    "title": "Mono",
+    "route": "mono",
+    "romaji": "mono",
+    "english": "mono",
+    "native": "mono",
+    "delayedFrom": "0001-01-01T22:30:00Z",
+    "delayedUntil": "0001-01-01T22:30:00Z",
+    "episodeDate": "2025-05-03T22:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 176246,
+        "idMal": 58492,
+        "title": {
+          "romaji": "mono",
+          "english": "mono",
+          "native": "mono",
+          "userPreferred": "mono"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176246-ndH8bKh7cmzf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176246-ndH8bKh7cmzf.jpg",
+          "color": "#50bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176246-Cnm6EqDLxEN3.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-05-10T22:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-05-03T22:51:29Z"
   },
   {
     "title": "Nazotoki wa Dinner no Ato de",
