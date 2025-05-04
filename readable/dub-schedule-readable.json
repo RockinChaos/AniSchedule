@@ -1710,8 +1710,9 @@
     "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
     "english": "I've Been Killing Slimes For 300 Years And Maxed Out My Level 2nd Season",
     "native": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
-    "delayedFrom": "0001-01-01T19:30:00Z",
-    "delayedUntil": "0001-01-01T19:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-05-03T19:30:00Z",
+    "delayedUntil": "2025-05-10T19:30:00Z",
     "episodeDate": "2025-05-03T19:30:00Z",
     "episodeNumber": 3,
     "episodes": 12,
@@ -1751,7 +1752,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
+              "episode": 3,
               "airingAt": "2025-05-10T19:30:00Z"
             }
           ]
