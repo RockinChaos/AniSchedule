@@ -543,10 +543,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2778,
-          "airingAt": 1746351000
-        },
-        {
           "episode": 2779,
           "airingAt": 1746955800
         },
@@ -641,6 +637,10 @@
         {
           "episode": 2802,
           "airingAt": 1760866200
+        },
+        {
+          "episode": 2803,
+          "airingAt": 1761471000
         }
       ]
     }
@@ -968,10 +968,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 312,
-          "airingAt": 1746349200
-        },
         {
           "episode": 313,
           "airingAt": 1746954000
@@ -2718,10 +2714,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1746347400
-        },
-        {
           "episode": 18,
           "airingAt": 1746952200
         },
@@ -4223,10 +4215,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1746354600
-        },
-        {
           "episode": 5,
           "airingAt": 1746959400
         },
@@ -4562,10 +4550,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1746345600
-        },
-        {
           "episode": 6,
           "airingAt": 1746950400
         },
@@ -4677,10 +4661,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180516-mQCYvJ2MtaOT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746343800
-        },
         {
           "episode": 6,
           "airingAt": 1746948600
@@ -8584,7 +8564,7 @@
   },
   {
     "id": 191491,
-    "idMal": null,
+    "idMal": 61627,
     "title": {
       "romaji": "Tonari no Kanojo",
       "english": null,
