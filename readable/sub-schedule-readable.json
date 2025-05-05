@@ -672,10 +672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2095,
-          "airingAt": 1746394800
-        },
-        {
           "episode": 2096,
           "airingAt": 1746999600
         },
@@ -1142,10 +1138,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 87,
-          "airingAt": 1746410400
-        },
-        {
           "episode": 88,
           "airingAt": 1747015200
         },
@@ -1240,6 +1232,10 @@
         {
           "episode": 111,
           "airingAt": 1760925600
+        },
+        {
+          "episode": 112,
+          "airingAt": 1761530400
         }
       ]
     }
@@ -2784,10 +2780,10 @@
     "id": 174189,
     "idMal": 60044,
     "title": {
-      "romaji": "Shinsei Kourin Dacryon - Runa: Daseibo Tanjou",
+      "romaji": "Shinsei Kourin Dacryon - Luna: Daseibo Tanjou",
       "english": null,
       "native": "神聖昂燐ダクリュオン・ルナ ~堕聖母誕生~",
-      "userPreferred": "Shinsei Kourin Dacryon - Runa: Daseibo Tanjou"
+      "userPreferred": "Shinsei Kourin Dacryon - Luna: Daseibo Tanjou"
     },
     "format": "OVA",
     "genres": [
