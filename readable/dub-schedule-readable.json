@@ -17,7 +17,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 158559,
@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-05-07T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-05-14T17:00:00Z"
             }
           ]
         }
@@ -218,8 +218,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-05-07T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-05-14T17:00:00Z"
             }
           ]
         }
@@ -553,8 +553,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-05-07T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-05-14T17:00:00Z"
             }
           ]
         }
@@ -1467,8 +1467,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-05-07T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-05-14T17:00:00Z"
             }
           ]
         }
