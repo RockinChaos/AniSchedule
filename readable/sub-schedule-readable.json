@@ -1267,10 +1267,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1746703800
-        },
-        {
           "episode": 6,
           "airingAt": 1747308600
         },
@@ -2602,10 +2598,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 78,
-          "airingAt": 1746691200
-        },
-        {
           "episode": 79,
           "airingAt": 1747296000
         },
@@ -2623,38 +2615,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 172393,
-    "idMal": 57622,
-    "title": {
-      "romaji": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX",
-      "english": null,
-      "native": "うたの☆プリンスさまっ♪ TABOO NIGHT XXXX",
-      "userPreferred": "Uta no☆Prince-sama♪ TABOO NIGHT XXXX"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Music"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172393-8dwjbJYYGi9W.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172393-8dwjbJYYGi9W.jpg",
-      "color": "#f1f1c9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1746716400
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 173333,
@@ -2922,10 +2882,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175872-Pb1aTEdwSIyh.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746714600
-        },
         {
           "episode": 7,
           "airingAt": 1747319400
@@ -3265,10 +3221,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177120-AeL6hv0brH0l.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746707400
-        },
         {
           "episode": 6,
           "airingAt": 1747312200
@@ -3789,7 +3741,7 @@
   },
   {
     "id": 178445,
-    "idMal": null,
+    "idMal": 61599,
     "title": {
       "romaji": "Boku no Risou no Isekai Seikatsu",
       "english": null,
@@ -3844,10 +3796,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178680-9HupCDo647QU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746717960
-        },
         {
           "episode": 7,
           "airingAt": 1747322760
@@ -4198,10 +4146,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746716160
-        },
         {
           "episode": 7,
           "airingAt": 1747320960
@@ -7356,10 +7300,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1746723480
-        },
-        {
           "episode": 7,
           "airingAt": 1747328280
         },
@@ -7412,10 +7352,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746719640
-        },
         {
           "episode": 7,
           "airingAt": 1747324440
@@ -7605,10 +7541,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746728160
-        },
         {
           "episode": 7,
           "airingAt": 1747332960
@@ -7844,10 +7776,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1746696600
-        },
         {
           "episode": 8,
           "airingAt": 1747301400
@@ -8241,10 +8169,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746708840
-        },
         {
           "episode": 7,
           "airingAt": 1747313640
