@@ -1618,10 +1618,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1746882000
-        },
-        {
           "episode": 7,
           "airingAt": 1747486800
         },
@@ -2357,7 +2353,9 @@
     },
     "format": "TV",
     "genres": [
-      "Music"
+      "Music",
+      "Mystery",
+      "Psychological"
     ],
     "duration": 24,
     "seasonYear": 2025,
@@ -2632,38 +2630,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 168810,
-    "idMal": null,
-    "title": {
-      "romaji": "Kemonokko Tsuushin: The Animation - Tanukiko Pokora",
-      "english": null,
-      "native": "けものっ娘通信〜The Animation〜 狸娘ポコラ",
-      "userPreferred": "Kemonokko Tsuushin: The Animation - Tanukiko Pokora"
-    },
-    "format": "ONA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 14,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168810-IGaHgsIHbFvi.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168810-IGaHgsIHbFvi.png",
-      "color": null
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1746889200
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 169966,
@@ -3138,10 +3104,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176246-Cnm6EqDLxEN3.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746889200
-        },
         {
           "episode": 6,
           "airingAt": 1747494000
@@ -3677,10 +3639,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1746883800
-        },
-        {
           "episode": 7,
           "airingAt": 1747488600
         },
@@ -4043,10 +4001,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1746892800
-        },
-        {
           "episode": 7,
           "airingAt": 1747497600
         },
@@ -4105,10 +4059,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179054-h88Gux77VioM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746887400
-        },
         {
           "episode": 7,
           "airingAt": 1747492200
@@ -4315,10 +4265,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179955-OVBCGK9eui5c.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746887400
-        },
         {
           "episode": 7,
           "airingAt": 1747492200
@@ -4748,10 +4694,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1746889200
-        },
-        {
           "episode": 18,
           "airingAt": 1747494000
         },
@@ -4995,10 +4937,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1746894600
-        },
-        {
           "episode": 7,
           "airingAt": 1747499400
         },
@@ -5200,10 +5138,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182814-EdVCOqd78Thb.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746885600
-        },
         {
           "episode": 7,
           "airingAt": 1747490400
@@ -5420,10 +5354,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1746896400
-        },
         {
           "episode": 7,
           "airingAt": 1747501200
@@ -6513,10 +6443,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1746883800
-        },
-        {
           "episode": 7,
           "airingAt": 1747488600
         },
@@ -7184,10 +7110,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185939-Y5l2gV2g1y3p.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1746891000
-        },
         {
           "episode": 6,
           "airingAt": 1747495800
