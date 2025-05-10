@@ -105,8 +105,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 15,
-              "airingAt": "2025-05-10T20:30:00Z"
+              "episode": 16,
+              "airingAt": "2025-05-17T20:30:00Z"
             }
           ]
         }
@@ -457,8 +457,9 @@
     "native": "ドラゴンボールDAIMA",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-05-09T20:30:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2025-05-16T20:30:00Z",
+    "episodeNumber": 20,
+    "subtractedEpisodeNumber": 19,
     "episodes": 20,
     "lengthMin": 24,
     "mediaTypes": [
@@ -496,6 +497,10 @@
           "nodes": [
             {
               "episode": 19,
+              "airingAt": "2025-05-16T20:30:00Z"
+            },
+            {
+              "episode": 20,
               "airingAt": "2025-05-16T20:30:00Z"
             }
           ]
