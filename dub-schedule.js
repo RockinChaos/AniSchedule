@@ -207,7 +207,7 @@ export async function fetchDubSchedule() {
 
     for (const parseObj of parseObjs) {
         const media = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObj)]
-        const threshold = parseObj?.anime_title?.length > 15 ? 0.3 : parseObj?.anime_title?.length > 9 ? 0.2 : 0.15 // play nice with small anime titles
+        const threshold = parseObj?.anime_title?.length > 15 ? 0.2 : parseObj?.anime_title?.length > 9 ? 0.15 : 0.1 // play nice with small anime titles
         const verification = !matchKeys(media, parseObj.anime_title, ['title.userPreferred', 'title.english', 'title.romaji'], threshold)
         console.log(`Resolving route ${parseObj?.anime_title} as ${media?.title?.userPreferred} which is ${verification ? 'needs verification' : 'verified'}`)
         let item
@@ -359,7 +359,7 @@ export async function fetchDubSchedule() {
 
     // Ensure all media on the schedule HAS a planned dub
     combinedResults = combinedResults.filter(entry => {
-        if (malDubs.isDubMedia(entry?.media?.media)) return true
+        if (malDubs.isDubMedia(entry)) return true
         else console.error(`Found unexpected media ${entry?.media?.media?.title?.userPreferred} on the dub schedule, this does not have a planned dub!`)
         return false
     })

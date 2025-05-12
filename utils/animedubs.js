@@ -12,9 +12,9 @@ class MALDubs {
         this.getMALDubs()
     }
 
-    isDubMedia(media) {
-        if (this.dubLists.value?.dubbed && media?.idMal) return this.dubLists.value.dubbed.includes(media.idMal) || this.dubLists.value.incomplete.includes(media.idMal)
-        throw media // absolutely DO NOT continue if we can't verify.
+    isDubMedia(entry) {
+        if (this.dubLists.value?.dubbed && entry?.media?.media?.idMal) return this.dubLists.value.dubbed.includes(entry?.media?.media.idMal) || this.dubLists.value.incomplete.includes(entry?.media?.media.idMal)
+        throw new Error(`Detected the route ${entry?.route} is missing resolved media, how did we get here!? The entry: ${JSON.stringify(entry)}`) // absolutely DO NOT continue if we can't verify.
     }
 
     async getMALDubs() {
