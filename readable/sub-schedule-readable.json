@@ -1553,10 +1553,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1747060200
-        },
-        {
           "episode": 7,
           "airingAt": 1747665000
         },
@@ -1662,10 +1658,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747062000
-        },
         {
           "episode": 8,
           "airingAt": 1747666800
@@ -1935,10 +1927,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1747062000
-        },
         {
           "episode": 7,
           "airingAt": 1747666800
@@ -2299,10 +2287,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165445-ycyj0HtnnZJ2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1747054800
-        },
         {
           "episode": 7,
           "airingAt": 1747659600
@@ -4329,10 +4313,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1747054800
-        },
-        {
           "episode": 7,
           "airingAt": 1747659600
         },
@@ -4863,6 +4843,7 @@
     "format": "TV",
     "genres": [
       "Mystery",
+      "Psychological",
       "Slice of Life"
     ],
     "duration": 23,
@@ -6758,10 +6739,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1747058400
-        },
-        {
           "episode": 7,
           "airingAt": 1747663200
         },
@@ -8241,6 +8218,72 @@
         {
           "episode": 1,
           "airingAt": 1748530800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 192809,
+    "idMal": 59654,
+    "title": {
+      "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu",
+      "english": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+      "native": "劇場版総集編 呪術廻戦 懐玉・玉折",
+      "userPreferred": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192809-wRlqABGsx2Qs.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192809-wRlqABGsx2Qs.jpg",
+      "color": "#43a1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1748530800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 192810,
+    "idMal": null,
+    "title": {
+      "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo",
+      "english": null,
+      "native": "劇場版総集編 呪術廻戦 懐玉・玉折 劇場版じゅじゅさんぽ",
+      "userPreferred": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192810-kkvLzmaS0Yyt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192810-kkvLzmaS0Yyt.jpg",
+      "color": "#f16b50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1748535600
         }
       ]
     },
