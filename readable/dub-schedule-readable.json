@@ -569,6 +569,64 @@
     "addedAt": "2025-03-12T19:00:00Z"
   },
   {
+    "title": "Elf-san wa Yaserarenai. Specials",
+    "route": "elf-san-wa-yaserarenai-specials",
+    "romaji": "Elf-san wa Yaserarenai. Specials",
+    "english": "Plus-Sized Elf Specials",
+    "native": "エルフさんは痩せられない。",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-06-04T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 2,
+    "lengthMin": 11,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 179126,
+        "idMal": 59820,
+        "title": {
+          "romaji": "Elf-san wa Yaserarenai. Specials",
+          "english": "Plus-Sized Elf Specials",
+          "native": "エルフさんは痩せられない。 Specials",
+          "userPreferred": "Plus-Sized Elf Specials"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 11,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179126-FTUcfKaF1t7O.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179126-FTUcfKaF1t7O.png",
+          "color": "#bbf135"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-04T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-04T17:00:00Z"
+  },
+  {
     "title": "Enen no Shouboutai: San no Shou",
     "route": "enen-no-shouboutai-3",
     "romaji": "Enen no Shouboutai: San no Shou",
