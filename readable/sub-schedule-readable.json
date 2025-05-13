@@ -2788,10 +2788,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1747143000
-        },
-        {
           "episode": 7,
           "airingAt": 1747747800
         },
@@ -3836,10 +3832,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747146600
-        },
-        {
           "episode": 8,
           "airingAt": 1747751400
         },
@@ -4532,10 +4524,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1747154040
-        },
         {
           "episode": 7,
           "airingAt": 1747758840
@@ -5546,10 +5534,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747148400
-        },
-        {
           "episode": 8,
           "airingAt": 1747753200
         },
@@ -6244,10 +6228,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-btMTsXAx2y0A.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1747150140
-        },
         {
           "episode": 7,
           "airingAt": 1747754940
@@ -7497,38 +7477,6 @@
         {
           "episode": 26,
           "airingAt": 1759272360
-        }
-      ]
-    }
-  },
-  {
-    "id": 188131,
-    "idMal": 61238,
-    "title": {
-      "romaji": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku ",
-      "english": null,
-      "native": "ちくわ戦記～おれのカワイイで地球侵略～",
-      "userPreferred": "Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku "
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188131-99m0d0jIBAUg.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188131-99m0d0jIBAUg.png",
-      "color": "#f1c943"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1747140960
         }
       ]
     }
