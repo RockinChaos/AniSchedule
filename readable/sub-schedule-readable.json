@@ -1335,10 +1335,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1747308600
-        },
-        {
           "episode": 7,
           "airingAt": 1747913400
         },
@@ -2612,10 +2608,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 79,
-          "airingAt": 1747296000
-        },
-        {
           "episode": 80,
           "airingAt": 1747900800
         },
@@ -2884,10 +2876,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175872-Pb1aTEdwSIyh.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747319400
-        },
         {
           "episode": 8,
           "airingAt": 1747924200
@@ -3207,10 +3195,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177120-AeL6hv0brH0l.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1747312200
-        },
         {
           "episode": 7,
           "airingAt": 1747917000
@@ -3763,10 +3747,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747322760
-        },
-        {
           "episode": 8,
           "airingAt": 1747927560
         },
@@ -4092,10 +4072,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747320960
-        },
         {
           "episode": 8,
           "airingAt": 1747925760
@@ -6726,9 +6702,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185778-ul0jITTYoFNU.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185778-ul0jITTYoFNU.png",
-      "color": "#ae5d28"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185778-Zl01zbfShlCc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185778-Zl01zbfShlCc.jpg",
+      "color": "#f1d635"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -7067,10 +7043,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747328280
-        },
-        {
           "episode": 8,
           "airingAt": 1747933080
         },
@@ -7119,10 +7091,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747324440
-        },
         {
           "episode": 8,
           "airingAt": 1747929240
@@ -7309,10 +7277,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747332960
-        },
-        {
           "episode": 8,
           "airingAt": 1747937760
         },
@@ -7474,10 +7438,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1747301400
-        },
         {
           "episode": 9,
           "airingAt": 1747906200
@@ -7856,10 +7816,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747313640
-        },
-        {
           "episode": 8,
           "airingAt": 1747918440
         },
@@ -8159,6 +8115,36 @@
         {
           "episode": 1,
           "airingAt": 1748535600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 192976,
+    "idMal": null,
+    "title": {
+      "romaji": "Kireigoto",
+      "english": null,
+      "native": "綺麗事",
+      "userPreferred": "Kireigoto"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192976-wxnbAvdVIQvJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192976-wxnbAvdVIQvJ.jpg",
+      "color": "#a1c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1747654200
         }
       ]
     },
