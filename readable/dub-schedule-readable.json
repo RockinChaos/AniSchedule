@@ -788,8 +788,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-05-15T19:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-05-22T19:00:00Z"
             }
           ]
         }
@@ -1541,6 +1541,64 @@
     },
     "verified": true,
     "addedAt": "2025-04-16T20:15:28Z"
+  },
+  {
+    "title": "Sentai Daishikkaku 2nd Season",
+    "route": "sentai-daishikkaku-2nd-season",
+    "romaji": "Sentai Daishikkaku 2nd Season",
+    "english": "Go! Go! Loser Ranger! 2nd Season",
+    "native": "戦隊大失格 2nd Season",
+    "delayedFrom": "0001-01-01T23:30:00Z",
+    "delayedUntil": "0001-01-01T23:30:00Z",
+    "episodeDate": "2025-05-14T23:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178781,
+        "idMal": 59189,
+        "title": {
+          "romaji": "Sentai Daishikkaku 2nd Season",
+          "english": "Go! Go! Loser Ranger! Season 2",
+          "native": "戦隊大失格 2nd season",
+          "userPreferred": "Go! Go! Loser Ranger! Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178781-pbk5FgfiAJxS.jpg",
+          "color": "#35a1ae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-05-21T23:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-05-15T19:11:28Z"
   },
   {
     "title": "Shiunji-ke no Kodomotachi",
