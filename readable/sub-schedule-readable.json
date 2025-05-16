@@ -1000,10 +1000,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 157,
-          "airingAt": 1747388400
-        },
-        {
           "episode": 158,
           "airingAt": 1747993200
         },
@@ -1098,6 +1094,10 @@
         {
           "episode": 181,
           "airingAt": 1761903600
+        },
+        {
+          "episode": 182,
+          "airingAt": 1762508400
         }
       ]
     }
@@ -1977,10 +1977,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 96,
-          "airingAt": 1747389300
-        },
-        {
           "episode": 97,
           "airingAt": 1747994100
         },
@@ -2075,6 +2071,10 @@
         {
           "episode": 120,
           "airingAt": 1761904500
+        },
+        {
+          "episode": 121,
+          "airingAt": 1762509300
         }
       ]
     }
@@ -2173,10 +2173,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 81,
-          "airingAt": 1747387500
-        },
         {
           "episode": 82,
           "airingAt": 1747992300
@@ -6707,24 +6703,31 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1747396800
-        },
-        {
-          "episode": 2,
+          "episode": 3,
           "airingAt": 1748001600
         },
         {
-          "episode": 3,
+          "episode": 4,
           "airingAt": 1748606400
         },
         {
-          "episode": 4,
+          "episode": 5,
           "airingAt": 1749211200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1749816000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1750420800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1751025600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185779,
@@ -6950,38 +6953,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 186300,
-    "idMal": 60480,
-    "title": {
-      "romaji": "minute! kaiju no. 8",
-      "english": "minute! Kaiju No. 8",
-      "native": "ミニっと！かいじゅう８号",
-      "userPreferred": "minute! Kaiju No. 8"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b186300-py8AeW9MgfDS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b186300-py8AeW9MgfDS.jpg",
-      "color": "#0de4d6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186300-gKLkOVPgP6im.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1747386000
-        }
-      ]
-    }
   },
   {
     "id": 186307,
