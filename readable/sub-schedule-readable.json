@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1698,
-          "airingAt": 1747360500
-        },
-        {
           "episode": 1699,
           "airingAt": 1747965300
         },
@@ -513,6 +509,10 @@
         {
           "episode": 1722,
           "airingAt": 1761875700
+        },
+        {
+          "episode": 1723,
+          "airingAt": 1762480500
         }
       ]
     }
@@ -703,10 +703,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 604,
-          "airingAt": 1747347000
-        },
-        {
           "episode": 605,
           "airingAt": 1747951800
         },
@@ -801,6 +797,10 @@
         {
           "episode": 628,
           "airingAt": 1761862200
+        },
+        {
+          "episode": 629,
+          "airingAt": 1762467000
         }
       ]
     }
@@ -2389,10 +2389,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1747360800
-        },
         {
           "episode": 12,
           "airingAt": 1747965600
@@ -6091,9 +6087,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185084-E4OfVMlZUxU8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185084-E4OfVMlZUxU8.jpg",
-      "color": "#93000d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185084-tGOzBUQZe6aT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185084-tGOzBUQZe6aT.jpg",
+      "color": "#f1ae5d"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185084-ajmkuKKObp3B.jpg",
@@ -7414,6 +7410,39 @@
     }
   },
   {
+    "id": 188239,
+    "idMal": 61258,
+    "title": {
+      "romaji": "Transformers: Wild King",
+      "english": null,
+      "native": "トランスフォーマー ワイルドキング",
+      "userPreferred": "Transformers: Wild King"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": 4,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
+      "color": "#f1c935"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1748998800
+        }
+      ]
+    }
+  },
+  {
     "id": 188394,
     "idMal": 61272,
     "title": {
@@ -7588,10 +7617,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747348200
-        },
         {
           "episode": 8,
           "airingAt": 1747953000
