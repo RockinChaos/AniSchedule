@@ -1419,10 +1419,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 167,
-          "airingAt": 1747434600
-        },
-        {
           "episode": 168,
           "airingAt": 1748039400
         },
@@ -1517,6 +1513,10 @@
         {
           "episode": 191,
           "airingAt": 1761949800
+        },
+        {
+          "episode": 192,
+          "airingAt": 1762554600
         }
       ]
     }
@@ -5497,10 +5497,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747432800
-        },
-        {
           "episode": 8,
           "airingAt": 1748037600
         },
@@ -6340,10 +6336,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747440000
-        },
-        {
           "episode": 8,
           "airingAt": 1748044800
         },
@@ -6441,10 +6433,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747432800
-        },
         {
           "episode": 8,
           "airingAt": 1748037600
@@ -6655,7 +6643,7 @@
   },
   {
     "id": 185778,
-    "idMal": null,
+    "idMal": 60200,
     "title": {
       "romaji": "Terra Live",
       "english": "U Takes Terra",
@@ -6667,7 +6655,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 7,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185778-Zl01zbfShlCc.jpg",
@@ -8106,9 +8094,9 @@
     "duration": null,
     "seasonYear": null,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192976-wxnbAvdVIQvJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192976-wxnbAvdVIQvJ.jpg",
-      "color": "#a1c9e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192976-pPRLmhhiTubA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192976-pPRLmhhiTubA.png",
+      "color": "#0da1e4"
     },
     "isAdult": false,
     "bannerImage": null,
