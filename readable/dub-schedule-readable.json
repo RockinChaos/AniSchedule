@@ -1718,7 +1718,8 @@
     "delayedFrom": "2025-05-03T19:30:00Z",
     "delayedUntil": "2025-05-10T19:30:00Z",
     "episodeDate": "2025-05-17T19:30:00Z",
-    "episodeNumber": 4,
+    "episodeNumber": 5,
+    "subtractedEpisodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1756,7 +1757,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 4,
+              "airingAt": "2025-05-17T19:30:00Z"
+            },
+            {
               "episode": 5,
+              "airingAt": "2025-05-17T19:30:00Z"
+            },
+            {
+              "episode": 6,
               "airingAt": "2025-05-24T19:30:00Z"
             }
           ]
