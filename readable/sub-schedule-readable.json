@@ -1168,10 +1168,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1747913400
-        },
-        {
           "episode": 8,
           "airingAt": 1748518200
         },
@@ -1921,38 +1917,6 @@
     }
   },
   {
-    "id": 162682,
-    "idMal": 54705,
-    "title": {
-      "romaji": "Kaitou Queen no Yuuga na Vacances",
-      "english": null,
-      "native": "怪盗クイーンの優雅な休暇（バカンス）",
-      "userPreferred": "Kaitou Queen no Yuuga na Vacances"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Mystery"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162682-HxgVCRRBRykN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162682-HxgVCRRBRykN.jpg",
-      "color": "#43e4e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1747926000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -2385,10 +2349,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 80,
-          "airingAt": 1747900800
-        },
-        {
           "episode": 81,
           "airingAt": 1748505600
         },
@@ -2641,10 +2601,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175872-Pb1aTEdwSIyh.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1747924200
-        },
         {
           "episode": 9,
           "airingAt": 1748529000
@@ -2948,10 +2904,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177120-AeL6hv0brH0l.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1747917000
-        },
         {
           "episode": 8,
           "airingAt": 1748521800
@@ -3481,10 +3433,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1747927560
-        },
-        {
           "episode": 9,
           "airingAt": 1748532360
         },
@@ -3786,10 +3734,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1747925760
-        },
         {
           "episode": 9,
           "airingAt": 1748530560
@@ -6565,10 +6509,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1747933080
-        },
-        {
           "episode": 9,
           "airingAt": 1748537880
         },
@@ -6614,10 +6554,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1747929240
-        },
-        {
           "episode": 9,
           "airingAt": 1748534040
         },
@@ -6635,74 +6571,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 186716,
-    "idMal": 57093,
-    "title": {
-      "romaji": "Princess Principal: Crown Handler - Chapter 4",
-      "english": null,
-      "native": "プリンセス・プリンシパル Crown Handler 第4章",
-      "userPreferred": "Princess Principal: Crown Handler - Chapter 4"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186716-I873Q1vDa3Xt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186716-I873Q1vDa3Xt.jpg",
-      "color": "#865d28"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1747926000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 186935,
-    "idMal": 61077,
-    "title": {
-      "romaji": "Dragon Heart: Reikai Tanbouki",
-      "english": null,
-      "native": "ドラゴン・ハート―霊界探訪記―",
-      "userPreferred": "Dragon Heart: Reikai Tanbouki"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186935-WPDw5KNiCSGb.png",
-      "color": "#f1bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1747926000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 187304,
@@ -6798,10 +6666,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1747937760
-        },
         {
           "episode": 9,
           "airingAt": 1748542560
@@ -6989,10 +6853,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1747906200
-        },
         {
           "episode": 10,
           "airingAt": 1748511000
@@ -7354,10 +7214,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1747918440
-        },
         {
           "episode": 9,
           "airingAt": 1748523240
