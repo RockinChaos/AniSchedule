@@ -285,10 +285,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1699,
-          "airingAt": 1747965300
-        },
-        {
           "episode": 1700,
           "airingAt": 1748570100
         },
@@ -383,6 +379,10 @@
         {
           "episode": 1723,
           "airingAt": 1762480500
+        },
+        {
+          "episode": 1724,
+          "airingAt": 1763085300
         }
       ]
     }
@@ -540,10 +540,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 605,
-          "airingAt": 1747951800
-        },
-        {
           "episode": 606,
           "airingAt": 1748556600
         },
@@ -638,6 +634,10 @@
         {
           "episode": 629,
           "airingAt": 1762467000
+        },
+        {
+          "episode": 630,
+          "airingAt": 1763071800
         }
       ]
     }
@@ -960,10 +960,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1747965600
-        },
-        {
           "episode": 2,
           "airingAt": 1748570400
         },
@@ -1008,8 +1004,7 @@
           "airingAt": 1754618400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 137653,
@@ -2121,39 +2116,6 @@
     }
   },
   {
-    "id": 166442,
-    "idMal": 60057,
-    "title": {
-      "romaji": "Chao Neng Lifang",
-      "english": "Super Cube",
-      "native": "超能立方",
-      "userPreferred": "Super Cube"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 20,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166442-JTkdzIQpgf8M.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166442-JTkdzIQpgf8M.jpg",
-      "color": "#1ad6f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1747965600
-        }
-      ]
-    }
-  },
-  {
     "id": 167142,
     "idMal": 55995,
     "title": {
@@ -2320,6 +2282,37 @@
         {
           "episode": 52,
           "airingAt": 1753574400
+        }
+      ]
+    }
+  },
+  {
+    "id": 169941,
+    "idMal": 56905,
+    "title": {
+      "romaji": "Yuusha-hime Milia",
+      "english": null,
+      "native": "勇者姫ミリア",
+      "userPreferred": "Yuusha-hime Milia"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169941-mV5b81i9JU8m.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169941-mV5b81i9JU8m.png",
+      "color": "#e4a15d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1756393200
         }
       ]
     }
@@ -3749,6 +3742,10 @@
         {
           "episode": 12,
           "airingAt": 1750344960
+        },
+        {
+          "episode": 13,
+          "airingAt": 1750949760
         }
       ]
     }
@@ -6485,6 +6482,37 @@
     }
   },
   {
+    "id": 186308,
+    "idMal": 61165,
+    "title": {
+      "romaji": "Amai Ijiwaru",
+      "english": null,
+      "native": "甘いイジワル",
+      "userPreferred": "Amai Ijiwaru"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186308-REUfR4DxBB18.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186308-REUfR4DxBB18.png",
+      "color": "#f1e4c9"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1756393200
+        }
+      ]
+    }
+  },
+  {
     "id": 186313,
     "idMal": 60947,
     "title": {
@@ -6995,10 +7023,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1747953000
-        },
         {
           "episode": 9,
           "airingAt": 1748557800
