@@ -1799,6 +1799,8 @@
     "format": "ONA",
     "genres": [
       "Action",
+      "Drama",
+      "Mystery",
       "Supernatural"
     ],
     "duration": 24,
@@ -2214,10 +2216,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1748439000
-        },
-        {
           "episode": 9,
           "airingAt": 1749043800
         },
@@ -2263,10 +2261,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1748443500
-        },
         {
           "episode": 10,
           "airingAt": 1749048300
@@ -3845,10 +3839,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1748439000
-        },
-        {
           "episode": 10,
           "airingAt": 1749043800
         },
@@ -4627,10 +4617,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1748447160
-        },
-        {
           "episode": 10,
           "airingAt": 1749051960
         },
@@ -4720,10 +4706,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183275-tB2NdUZADGXr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1748444400
-        },
         {
           "episode": 10,
           "airingAt": 1749049200
@@ -4924,10 +4906,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1748436960
-        },
         {
           "episode": 9,
           "airingAt": 1749041760
@@ -5355,10 +5333,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1748444400
-        },
         {
           "episode": 9,
           "airingAt": 1749049200
