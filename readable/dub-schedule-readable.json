@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-05-28T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-06-04T17:00:00Z"
             }
           ]
         }
@@ -218,8 +218,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-05-28T17:00:00Z"
+              "episode": 8,
+              "airingAt": "2025-06-04T17:00:00Z"
             }
           ]
         }
@@ -1469,8 +1469,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-05-28T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-06-04T17:00:00Z"
             }
           ]
         }
@@ -1794,6 +1794,8 @@
         "format": "ONA",
         "genres": [
           "Action",
+          "Drama",
+          "Mystery",
           "Supernatural"
         ],
         "duration": 24,
