@@ -1599,8 +1599,8 @@
     "english": "Go! Go! Loser Ranger! 2nd Season",
     "native": "戦隊大失格 2nd Season",
     "delayedText": "Delayed",
-    "delayedFrom": "2025-05-28T23:00:00Z",
-    "delayedUntil": "2025-06-04T23:00:00Z",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
     "episodeDate": "2025-05-28T23:00:00Z",
     "episodeNumber": 3,
     "episodes": 12,
@@ -1641,7 +1641,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
+              "episode": 4,
               "airingAt": "2025-06-04T23:00:00Z"
             }
           ]
