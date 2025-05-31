@@ -1315,8 +1315,9 @@
     "romaji": "Kusuriya no Hitorigoto 2nd Season",
     "english": "The Apothecary Diaries 2nd Season",
     "native": "薬屋のひとりごと 第2期",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-05-30T20:00:00Z",
+    "delayedUntil": "2025-06-06T20:00:00Z",
     "episodeDate": "2025-05-30T20:00:00Z",
     "episodeNumber": 19,
     "episodes": 24,
@@ -1355,7 +1356,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 20,
+              "episode": 19,
               "airingAt": "2025-06-06T20:00:00Z"
             }
           ]
