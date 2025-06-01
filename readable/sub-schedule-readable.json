@@ -543,10 +543,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2782,
-          "airingAt": 1748770200
-        },
-        {
           "episode": 2783,
           "airingAt": 1749375000
         },
@@ -641,6 +637,10 @@
         {
           "episode": 2806,
           "airingAt": 1763285400
+        },
+        {
+          "episode": 2807,
+          "airingAt": 1763890200
         }
       ]
     }
@@ -928,8 +928,72 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 316,
-          "airingAt": 1748768400
+          "episode": 317,
+          "airingAt": 1749373200
+        },
+        {
+          "episode": 318,
+          "airingAt": 1749978000
+        },
+        {
+          "episode": 319,
+          "airingAt": 1750582800
+        },
+        {
+          "episode": 320,
+          "airingAt": 1751187600
+        },
+        {
+          "episode": 321,
+          "airingAt": 1751792400
+        },
+        {
+          "episode": 322,
+          "airingAt": 1752397200
+        },
+        {
+          "episode": 323,
+          "airingAt": 1753002000
+        },
+        {
+          "episode": 324,
+          "airingAt": 1753606800
+        },
+        {
+          "episode": 325,
+          "airingAt": 1754211600
+        },
+        {
+          "episode": 326,
+          "airingAt": 1754816400
+        },
+        {
+          "episode": 327,
+          "airingAt": 1755421200
+        },
+        {
+          "episode": 328,
+          "airingAt": 1756026000
+        },
+        {
+          "episode": 329,
+          "airingAt": 1756630800
+        },
+        {
+          "episode": 330,
+          "airingAt": 1757235600
+        },
+        {
+          "episode": 331,
+          "airingAt": 1757840400
+        },
+        {
+          "episode": 332,
+          "airingAt": 1758445200
+        },
+        {
+          "episode": 333,
+          "airingAt": 1759050000
         }
       ]
     }
@@ -2418,10 +2482,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1748766600
-        },
-        {
           "episode": 22,
           "airingAt": 1749371400
         },
@@ -3549,10 +3609,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1748773800
-        },
-        {
           "episode": 9,
           "airingAt": 1749378600
         },
@@ -3759,7 +3815,8 @@
       "Drama",
       "Fantasy",
       "Romance",
-      "Slice of Life"
+      "Slice of Life",
+      "Supernatural"
     ],
     "duration": 24,
     "seasonYear": 2025,
@@ -3772,10 +3829,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-Kpxveeh3Q3cm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1748764800
-        },
         {
           "episode": 10,
           "airingAt": 1749369600
@@ -3872,10 +3925,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180516-mQCYvJ2MtaOT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1748763000
-        },
         {
           "episode": 10,
           "airingAt": 1749367800
