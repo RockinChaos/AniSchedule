@@ -7,8 +7,8 @@
     "native": "2.5次元の誘惑",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-05-28T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-06-04T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -65,8 +65,8 @@
     "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
     "delayedFrom": "2025-03-29T20:30:00Z",
     "delayedUntil": "2025-04-05T20:30:00Z",
-    "episodeDate": "2025-05-31T20:30:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2025-06-07T20:30:00Z",
+    "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -123,8 +123,8 @@
     "native": "波連さんははかれない season2",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-05-26T19:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-06-02T19:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -180,8 +180,8 @@
     "native": "悪役令嬢転生おじさん",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-05-28T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-04T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -236,8 +236,8 @@
     "native": "アン・シャーリー",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-05-31T21:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-07T21:30:00Z",
+    "episodeNumber": 8,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -292,8 +292,8 @@
     "native": "ある魔女が死ぬまで",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-05-27T20:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-06-03T20:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -346,8 +346,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2025-05-31T22:45:00Z",
-    "episodeNumber": 43,
+    "episodeDate": "2025-06-07T22:45:00Z",
+    "episodeNumber": 44,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -400,8 +400,8 @@
     "native": "ばいばい、アース 第2シーズン",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-05-30T22:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-06T22:00:00Z",
+    "episodeNumber": 8,
     "episodes": 10,
     "lengthMin": 24,
     "mediaTypes": [
@@ -455,8 +455,8 @@
     "native": "カードファイト!! ヴァンガード Divinez デラックス編",
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2025-05-30T23:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-06-06T23:00:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -503,64 +503,6 @@
     },
     "verified": true,
     "addedAt": "2025-04-25T23:00:00Z"
-  },
-  {
-    "title": "Elf-san wa Yaserarenai.",
-    "route": "elf-san-wa-yaserarenai",
-    "romaji": "Elf-san wa Yaserarenai.",
-    "english": "Plus-Sized Elf",
-    "native": "エルフさんは痩せられない。",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-05-28T17:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 11,
-    "mediaTypes": [
-      {
-        "name": "TV Short",
-        "route": "tv-short"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 173388,
-        "idMal": 57845,
-        "title": {
-          "romaji": "Elf-san wa Yaserarenai.",
-          "english": "Plus-Sized Elf",
-          "native": "エルフさんは痩せられない。",
-          "userPreferred": "Plus-Sized Elf"
-        },
-        "format": "TV_SHORT",
-        "genres": [
-          "Comedy",
-          "Ecchi",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 11,
-        "seasonYear": 2024,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173388-iPHxsekSIFpg.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173388-iPHxsekSIFpg.png",
-          "color": "#fff11a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173388-ji3w8tcXm0oZ.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-05-28T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-03-12T19:00:00Z"
   },
   {
     "title": "Elf-san wa Yaserarenai. Specials",
@@ -628,8 +570,8 @@
     "native": "炎炎ノ消防隊 参ノ章",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-05-30T21:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-06T21:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -686,8 +628,8 @@
     "native": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-06-01T19:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-08T19:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -736,62 +678,6 @@
     "addedAt": "2025-04-20T20:19:32Z"
   },
   {
-    "title": "I Byeol-e Pil-yohan",
-    "route": "i-byeol-e-pil-yohan",
-    "romaji": "I Byeore Piryohan",
-    "english": "Lost in Starlight",
-    "native": "이 별에 필요한",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-05-30T07:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 192002,
-        "idMal": 61595,
-        "title": {
-          "romaji": "I Byeore Piryohan",
-          "english": "Lost in Starlight",
-          "native": "이 별에 필요한",
-          "userPreferred": "Lost in Starlight"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Drama",
-          "Romance",
-          "Sci-Fi"
-        ],
-        "duration": 96,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192002-sZCUa2OSDhZi.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192002-sZCUa2OSDhZi.jpg",
-          "color": "#fe7850"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192002-4EiBKviJr5oX.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-05-30T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-05-30T17:12:26Z"
-  },
-  {
     "title": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
     "route": "isshun-de-chiryou-shiteita-noni-yakutatazu-to-tsuihou-sareta-tensai-chiyushi-yami-healer-toshite-tanoshiku-ikiru",
     "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
@@ -799,8 +685,8 @@
     "native": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-05-29T19:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-05T19:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -856,8 +742,8 @@
     "native": "かくして！マキナさん!!",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-05-28T07:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-06-04T07:00:00Z",
+    "episodeNumber": 6,
     "lengthMin": 12,
     "mediaTypes": [
       {
@@ -914,8 +800,8 @@
     "native": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2025-06-01T14:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-06-08T14:30:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -971,8 +857,8 @@
     "native": "片田舎のおっさん、剣聖になる",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2025-05-31T15:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-06-07T15:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1029,8 +915,8 @@
     "native": "機動戦士 Gundam GQuuuuuuX",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-05-27T16:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-06-03T16:00:00Z",
+    "episodeNumber": 9,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1142,8 +1028,8 @@
     "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ",
     "delayedFrom": "2024-08-22T21:30:00Z",
     "delayedUntil": "2025-05-22T21:30:00Z",
-    "episodeDate": "2025-05-29T21:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-06-05T21:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1199,8 +1085,8 @@
     "native": "九龍ジェネリックロマンス",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-05-31T22:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-07T22:00:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1258,8 +1144,8 @@
     "native": "黒執事 -緑の魔女編-",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-05-31T19:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-07T19:00:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1315,10 +1201,9 @@
     "romaji": "Kusuriya no Hitorigoto 2nd Season",
     "english": "The Apothecary Diaries 2nd Season",
     "native": "薬屋のひとりごと 第2期",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-05-30T20:00:00Z",
     "delayedUntil": "2025-06-06T20:00:00Z",
-    "episodeDate": "2025-05-30T20:00:00Z",
+    "episodeDate": "2025-06-06T20:00:00Z",
     "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 24,
@@ -1372,8 +1257,8 @@
     "native": "ラザロ",
     "delayedFrom": "0001-01-01T04:00:00Z",
     "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2025-06-01T04:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-06-08T04:00:00Z",
+    "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1428,8 +1313,8 @@
     "native": "mono",
     "delayedFrom": "0001-01-01T22:30:00Z",
     "delayedUntil": "0001-01-01T22:30:00Z",
-    "episodeDate": "2025-05-31T22:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-06-07T22:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1484,8 +1369,8 @@
     "native": "謎解きはディナーのあとで",
     "delayedFrom": "0001-01-01T03:00:00Z",
     "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2025-05-31T03:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-06-07T03:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1603,8 +1488,8 @@
     "native": "Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-05-28T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-06-04T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1662,8 +1547,8 @@
     "native": "最強の王様、二度目の人生は 何をする?",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-05-28T19:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-04T19:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1720,8 +1605,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2025-05-28T23:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-06-04T23:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1778,8 +1663,8 @@
     "native": "紫雲寺家の子供たち",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-05-27T19:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-06-03T19:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1834,8 +1719,8 @@
     "native": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
     "delayedFrom": "2025-05-03T19:30:00Z",
     "delayedUntil": "2025-05-10T19:30:00Z",
-    "episodeDate": "2025-05-31T19:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-07T19:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1891,8 +1776,8 @@
     "native": "神統記",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-05-30T19:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-06-06T19:00:00Z",
+    "episodeNumber": 7,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1946,8 +1831,8 @@
     "native": "凸变英雄X",
     "delayedFrom": "0001-01-01T00:35:00Z",
     "delayedUntil": "0001-01-01T00:35:00Z",
-    "episodeDate": "2025-06-01T00:35:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-06-08T00:35:00Z",
+    "episodeNumber": 10,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2004,8 +1889,8 @@
     "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2025-05-26T15:15:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-06-02T15:15:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2059,8 +1944,8 @@
     "route": "wind-breaker-season-2",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-05-29T21:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-06-05T21:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2116,8 +2001,8 @@
     "native": "ウィッチウォッチ",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2025-06-01T08:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-06-08T08:30:00Z",
+    "episodeNumber": 7,
     "episodes": 26,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2384,8 +2269,8 @@
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2025-05-31T12:00:00Z",
-    "episodeNumber": 21,
+    "episodeDate": "2025-06-07T12:00:00Z",
+    "episodeNumber": 22,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
