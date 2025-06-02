@@ -1534,6 +1534,68 @@
     "addedAt": "2025-04-05T07:49:09Z"
   },
   {
+    "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+    "route": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
+    "romaji": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+    "english": "I'm Living with an Otaku NEET Kunoichi!?",
+    "native": "ニートくノ一となぜか同棲はじめました",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-06-25T17:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 174654,
+        "idMal": 58082,
+        "title": {
+          "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita",
+          "english": "I'm Living With a Otaku NEET Kunoichi?!",
+          "native": "ニートくノ一となぜか同棲はじめました",
+          "userPreferred": "I'm Living With a Otaku NEET Kunoichi?!"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174654-J8OduNFjRpVY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174654-J8OduNFjRpVY.jpg",
+          "color": "#e45d86"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174654-vQMxvimEmfpw.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-25T17:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-06-25T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-25T17:00:00Z"
+  },
+  {
     "title": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
     "route": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
     "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
@@ -2105,6 +2167,216 @@
     },
     "verified": true,
     "addedAt": "2025-04-27T08:30:00Z"
+  },
+  {
+    "title": "Yami Shibai",
+    "route": "yami-shibai",
+    "romaji": "Yami Shibai",
+    "english": "Theatre of Darkness: Yamishibai",
+    "native": "闇芝居",
+    "delayedFrom": "0001-01-01T06:55:00Z",
+    "delayedUntil": "0001-01-01T06:55:00Z",
+    "episodeDate": "2025-06-25T06:55:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 19383,
+        "idMal": 19383,
+        "title": {
+          "romaji": "Yami Shibai",
+          "english": "Theatre of Darkness: Yamishibai",
+          "native": "闇芝居",
+          "userPreferred": "Theatre of Darkness: Yamishibai"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Horror",
+          "Supernatural"
+        ],
+        "duration": 5,
+        "seasonYear": 2013,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b19383-vmpqTraCFNRg.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b19383-vmpqTraCFNRg.jpg",
+          "color": "#939328"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/19383-3GoardwKU3u5.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-06-25T06:55:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-06-25T06:55:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-25T06:55:00Z"
+  },
+  {
+    "title": "Yami Shibai 2",
+    "route": "yami-shibai-2",
+    "romaji": "Yami Shibai 2",
+    "english": "Theatre of Darkness: Yamishibai 2",
+    "native": "闇芝居 2",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-06-25T07:00:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 20669,
+        "idMal": 22537,
+        "title": {
+          "romaji": "Yami Shibai 2",
+          "english": "Theatre of Darkness: Yamishibai 2",
+          "native": "闇芝居 2",
+          "userPreferred": "Theatre of Darkness: Yamishibai 2"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Horror",
+          "Supernatural"
+        ],
+        "duration": 5,
+        "seasonYear": 2014,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b20669-O7GTGncvvbaJ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b20669-O7GTGncvvbaJ.jpg",
+          "color": "#1a356b"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20669-e759CzsbDcrP.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-06-25T07:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-06-25T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-25T07:00:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
