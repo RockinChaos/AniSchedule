@@ -2205,10 +2205,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1749043800
-        },
-        {
           "episode": 10,
           "airingAt": 1749648600
         },
@@ -2250,10 +2246,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749048300
-        },
         {
           "episode": 11,
           "airingAt": 1749653100
@@ -2609,10 +2601,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 27,
-          "airingAt": 1749034800
-        },
         {
           "episode": 28,
           "airingAt": 1749639600
@@ -3049,10 +3037,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749034740
-        },
         {
           "episode": 11,
           "airingAt": 1749639540
@@ -3700,10 +3684,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749043800
-        },
         {
           "episode": 11,
           "airingAt": 1749648600
@@ -4428,10 +4408,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749051960
-        },
-        {
           "episode": 11,
           "airingAt": 1749656760
         },
@@ -4513,10 +4489,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183275-tB2NdUZADGXr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749049200
-        },
         {
           "episode": 11,
           "airingAt": 1749654000
@@ -4647,10 +4619,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1749041760
-        },
         {
           "episode": 10,
           "airingAt": 1749646560
@@ -5027,10 +4995,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1749049200
-        },
         {
           "episode": 10,
           "airingAt": 1749654000
@@ -6261,6 +6225,39 @@
     }
   },
   {
+    "id": 188239,
+    "idMal": 61258,
+    "title": {
+      "romaji": "Transformers: Wild King",
+      "english": null,
+      "native": "トランスフォーマー ワイルドキング",
+      "userPreferred": "Transformers: Wild King"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": 4,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
+      "color": "#f1c935"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1750813200
+        }
+      ]
+    }
+  },
+  {
     "id": 188394,
     "idMal": 61272,
     "title": {
@@ -6535,10 +6532,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189513-HjE2qNupgfEe.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1749376800
-        },
         {
           "episode": 4,
           "airingAt": 1751450400
