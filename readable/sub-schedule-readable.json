@@ -2030,7 +2030,7 @@
         },
         {
           "episode": 6,
-          "airingAt": 1752764400
+          "airingAt": 1763650800
         }
       ]
     }
@@ -2607,10 +2607,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175872-Pb1aTEdwSIyh.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749133800
-        },
         {
           "episode": 11,
           "airingAt": 1749738600
@@ -3300,10 +3296,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749137160
-        },
-        {
           "episode": 11,
           "airingAt": 1749741960
         },
@@ -3557,10 +3549,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749135360
-        },
         {
           "episode": 11,
           "airingAt": 1749740160
@@ -5166,37 +5154,6 @@
     "unaired": true
   },
   {
-    "id": 185166,
-    "idMal": 61166,
-    "title": {
-      "romaji": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru",
-      "english": null,
-      "native": "憧れの女上司が、相部屋出張の隣のベッドで絶倫男に寝取られている",
-      "userPreferred": "Akogare no Onna Joushi ga, Aibeya Shucchou no Tonari no Bed de Zetsurin Otoko ni Netorarete Iru"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 22,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185166-nRoGrSNTd13z.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185166-nRoGrSNTd13z.png",
-      "color": "#e4bb43"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1749135600
-        }
-      ]
-    }
-  },
-  {
     "id": 185213,
     "idMal": 60449,
     "title": {
@@ -5853,16 +5810,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1749135600
-        },
-        {
           "episode": 2,
           "airingAt": 1752159600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186307,
@@ -5951,10 +5903,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749142680
-        },
-        {
           "episode": 11,
           "airingAt": 1749747480
         },
@@ -5991,10 +5939,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749138840
-        },
         {
           "episode": 11,
           "airingAt": 1749743640
@@ -6068,10 +6012,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749147360
-        },
         {
           "episode": 11,
           "airingAt": 1749752160
@@ -6767,6 +6707,41 @@
         {
           "episode": 1,
           "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 191884,
+    "idMal": 61616,
+    "title": {
+      "romaji": "Lupin the IIIrd: Zenigata to 2-nin no Lupin",
+      "english": null,
+      "native": "LUPIN THE IIIRD 銭形と2人のルパン",
+      "userPreferred": "Lupin the IIIrd: Zenigata to 2-nin no Lupin"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191884-wl5vevSgIeuq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191884-wl5vevSgIeuq.jpg",
+      "color": "#5078e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750345200
         }
       ]
     },
