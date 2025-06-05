@@ -1380,10 +1380,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1749123000
-        },
-        {
           "episode": 10,
           "airingAt": 1749727800
         },
@@ -2398,37 +2394,6 @@
     }
   },
   {
-    "id": 169966,
-    "idMal": 56853,
-    "title": {
-      "romaji": "I.CINNAMOROLL Animation",
-      "english": "I.CINNAMOROLL Animation",
-      "native": "I.CINNAMOROLL Animation",
-      "userPreferred": "I.CINNAMOROLL Animation"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169966-elyLBCoBAJxx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169966-elyLBCoBAJxx.jpg",
-      "color": "#1a6b50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169966-dysUtZi16eNg.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 82,
-          "airingAt": 1749110400
-        }
-      ]
-    }
-  },
-  {
     "id": 173333,
     "idMal": 57827,
     "title": {
@@ -2909,10 +2874,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177120-AeL6hv0brH0l.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1749126600
-        },
         {
           "episode": 10,
           "airingAt": 1749731400
@@ -6283,10 +6244,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1749115800
-        },
-        {
           "episode": 12,
           "airingAt": 1749720600
         }
@@ -6611,10 +6568,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749128040
-        },
         {
           "episode": 11,
           "airingAt": 1749732840
