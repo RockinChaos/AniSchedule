@@ -1730,10 +1730,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749228780
-        },
-        {
           "episode": 11,
           "airingAt": 1749833580
         },
@@ -1769,10 +1765,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749216600
-        },
         {
           "episode": 11,
           "airingAt": 1749821400
@@ -2776,10 +2768,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1749218400
-        },
-        {
           "episode": 22,
           "airingAt": 1749823200
         },
@@ -2819,10 +2807,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1749223800
-        },
         {
           "episode": 10,
           "airingAt": 1749828600
@@ -4050,39 +4034,6 @@
     }
   },
   {
-    "id": 181078,
-    "idMal": 59819,
-    "title": {
-      "romaji": "Bye Bye, Earth Season 2",
-      "english": "Bye Bye, Earth Season 2",
-      "native": "ばいばい、アース シーズン2",
-      "userPreferred": "Bye Bye, Earth Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181078-4ooHGXSnDQL4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181078-4ooHGXSnDQL4.jpg",
-      "color": "#50a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749220200
-        }
-      ]
-    }
-  },
-  {
     "id": 181182,
     "idMal": 59828,
     "title": {
@@ -4895,10 +4846,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749220200
-        },
-        {
           "episode": 11,
           "airingAt": 1749825000
         },
@@ -5254,10 +5201,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749226380
-        },
         {
           "episode": 11,
           "airingAt": 1749831180
