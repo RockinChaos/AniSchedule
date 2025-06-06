@@ -1597,6 +1597,63 @@
     "addedAt": "2025-04-16T20:15:28Z"
   },
   {
+    "title": "Sasaki to Miyano: Sotsugyou-hen",
+    "route": "sasaki-to-miyano-shinsaku-anime",
+    "romaji": "Sasaki to Miyano: Sotsugyou-hen",
+    "english": "Sasaki and Miyano: Graduation",
+    "native": " 映画 佐々木と宮野ー卒業編ー",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2025-06-06T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 51,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 146743,
+        "idMal": 51440,
+        "title": {
+          "romaji": "Sasaki to Miyano: Sotsugyou-hen",
+          "english": "Sasaki and Miyano: Graduation",
+          "native": "佐々木と宮野ー卒業編ー",
+          "userPreferred": "Sasaki and Miyano: Graduation"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 60,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx146743-MQNPLbWH0mI9.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx146743-MQNPLbWH0mI9.jpg",
+          "color": "#e49350"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-06T00:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-06T03:11:58Z"
+  },
+  {
     "title": "Sentai Daishikkaku 2nd Season",
     "route": "sentai-daishikkaku-2nd-season",
     "romaji": "Sentai Daishikkaku 2nd Season",
