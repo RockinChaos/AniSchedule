@@ -274,8 +274,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-06-07T21:30:00Z"
+              "episode": 9,
+              "airingAt": "2025-06-14T21:30:00Z"
             }
           ]
         }
@@ -1310,10 +1310,11 @@
     "route": "lycoris-recoil-short-movies",
     "english": "Lycoris Recoil: Friends Are Thieves of Time",
     "native": "リコリス・リコイル ショートムービー",
-    "delayedFrom": "0001-01-01T01:30:00Z",
-    "delayedUntil": "0001-01-01T01:30:00Z",
-    "episodeDate": "2025-06-08T01:30:00Z",
-    "episodeNumber": 1,
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "episodeDate": "2025-06-07T21:00:00Z",
+    "episodeNumber": 6,
+    "subtractedEpisodeNumber": 1,
     "episodes": 6,
     "lengthMin": 3,
     "mediaTypes": [
@@ -1322,7 +1323,7 @@
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 179706,
@@ -1351,7 +1352,27 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-06-08T01:30:00Z"
+              "airingAt": "2025-06-07T21:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-06-07T21:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-06-07T21:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-06-07T21:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-06-07T21:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-06-07T21:00:00Z"
             }
           ]
         }
