@@ -1306,6 +1306,61 @@
     "addedAt": "2025-04-05T07:00:00Z"
   },
   {
+    "title": "Lycoris Recoil: Friends are Thieves of Time.",
+    "route": "lycoris-recoil-short-movies",
+    "english": "Lycoris Recoil: Friends Are Thieves of Time",
+    "native": "リコリス・リコイル ショートムービー",
+    "delayedFrom": "0001-01-01T01:30:00Z",
+    "delayedUntil": "0001-01-01T01:30:00Z",
+    "episodeDate": "2025-06-08T01:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 6,
+    "lengthMin": 3,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 179706,
+        "idMal": 59369,
+        "title": {
+          "romaji": "Lycoris Recoil: Friends are thieves of time.",
+          "english": "Lycoris Recoil -Friends are thieves of time.-",
+          "native": "リコリス・リコイル Friends are thieves of time.",
+          "userPreferred": "Lycoris Recoil -Friends are thieves of time.-"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "duration": 4,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179706-NvVrmMxnDatB.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179706-NvVrmMxnDatB.jpg",
+          "color": "#e45043"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179706-mR1oEVbNT3yQ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-08T01:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-08T01:30:00Z"
+  },
+  {
     "title": "Mono",
     "route": "mono",
     "romaji": "mono",
