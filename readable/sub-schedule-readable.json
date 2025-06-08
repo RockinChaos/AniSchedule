@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1132,
-          "airingAt": 1749392160
-        },
-        {
           "episode": 1133,
           "airingAt": 1749996960
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1156,
           "airingAt": 1763907360
+        },
+        {
+          "episode": 1157,
+          "airingAt": 1764512160
         }
       ]
     }
@@ -2900,10 +2900,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749399600
-        },
-        {
           "episode": 11,
           "airingAt": 1750004400
         },
@@ -3017,38 +3013,6 @@
         {
           "episode": 30,
           "airingAt": 1761130740
-        }
-      ]
-    }
-  },
-  {
-    "id": 177678,
-    "idMal": 58888,
-    "title": {
-      "romaji": "Yatara Yarashii Fukami-kun",
-      "english": "Unexpectedly Naughty Fukami",
-      "native": "やたらやらしい深見くん",
-      "userPreferred": "Unexpectedly Naughty Fukami"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 6,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177678-4ZRG0wXfjubO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177678-4ZRG0wXfjubO.jpg",
-      "color": null
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1749394800
         }
       ]
     }
@@ -3314,10 +3278,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1749393000
-        },
         {
           "episode": 10,
           "airingAt": 1749997800
@@ -3886,10 +3846,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749389400
-        },
-        {
           "episode": 11,
           "airingAt": 1749994200
         },
@@ -3927,10 +3883,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749398760
-        },
         {
           "episode": 11,
           "airingAt": 1750003560
@@ -4070,10 +4022,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1749393000
-        },
-        {
           "episode": 11,
           "airingAt": 1749997800
         },
@@ -4194,10 +4142,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183133-yGgdKRUyCMMv.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1749389400
-        },
         {
           "episode": 12,
           "airingAt": 1749994200
@@ -6373,10 +6317,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749398760
-        },
         {
           "episode": 11,
           "airingAt": 1750003560
