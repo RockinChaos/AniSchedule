@@ -1346,6 +1346,75 @@
     }
   },
   {
+    "id": 137681,
+    "idMal": 61752,
+    "title": {
+      "romaji": "Xi Xing Ji: Da Yuan Hun",
+      "english": null,
+      "native": "西行纪之大猿魂",
+      "userPreferred": "Xi Xing Ji: Da Yuan Hun"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137681-JAAyM4sjezdo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137681-JAAyM4sjezdo.png",
+      "color": "#50bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1750035600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1750640400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1751245200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1751850000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1752454800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1753059600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1753664400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1754269200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1754874000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1755478800
+        }
+      ]
+    }
+  },
+  {
     "id": 139825,
     "idMal": 49981,
     "title": {
@@ -5769,10 +5838,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749595560
-        },
         {
           "episode": 11,
           "airingAt": 1750200360
