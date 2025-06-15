@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1133,
-          "airingAt": 1749996960
-        },
-        {
           "episode": 1134,
           "airingAt": 1750601760
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1157,
           "airingAt": 1764512160
+        },
+        {
+          "episode": 1158,
+          "airingAt": 1765116960
         }
       ]
     }
@@ -2865,10 +2865,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750004400
-        },
-        {
           "episode": 12,
           "airingAt": 1750609200
         }
@@ -3231,10 +3227,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1749997800
-        },
         {
           "episode": 11,
           "airingAt": 1750602600
@@ -3755,10 +3747,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1749994200
-        },
-        {
           "episode": 12,
           "airingAt": 1750599000
         }
@@ -3792,10 +3780,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750003560
-        },
         {
           "episode": 12,
           "airingAt": 1750608360
@@ -3930,10 +3914,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1749997800
-        },
-        {
           "episode": 12,
           "airingAt": 1750602600
         }
@@ -4012,39 +3992,6 @@
         {
           "episode": 13,
           "airingAt": 1751119200
-        }
-      ]
-    }
-  },
-  {
-    "id": 183133,
-    "idMal": 60140,
-    "title": {
-      "romaji": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
-      "english": "The Unaware Atelier Meister",
-      "native": "勘違いの工房主～英雄パーティの元雑用係が、実は戦闘以外がSSSランクだったというよくある話～",
-      "userPreferred": "The Unaware Atelier Meister"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183133-SSeg5j1UrMDG.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183133-SSeg5j1UrMDG.png",
-      "color": "#5d50e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183133-yGgdKRUyCMMv.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1749994200
         }
       ]
     }
@@ -6285,10 +6232,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750003560
-        },
         {
           "episode": 12,
           "airingAt": 1750608360
