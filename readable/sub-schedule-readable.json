@@ -1627,10 +1627,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750084200
-        },
-        {
           "episode": 12,
           "airingAt": 1750689000
         }
@@ -1697,8 +1693,52 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750086000
+          "episode": 13,
+          "airingAt": 1750681800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751286600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1751891400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752496200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753101000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1753705800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754310600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1754915400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755520200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756125000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1756729800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757334600
         }
       ]
     }
@@ -1860,10 +1900,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750086000
-        },
         {
           "episode": 12,
           "airingAt": 1750690800
@@ -2152,10 +2188,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165445-ycyj0HtnnZJ2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750078800
-        },
         {
           "episode": 12,
           "airingAt": 1750683600
@@ -3471,10 +3503,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750078800
-        },
         {
           "episode": 12,
           "airingAt": 1750683600
@@ -5203,10 +5231,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750082400
-        },
-        {
           "episode": 12,
           "airingAt": 1750687200
         },
@@ -5433,6 +5457,38 @@
         {
           "episode": 2,
           "airingAt": 1752159600
+        }
+      ]
+    }
+  },
+  {
+    "id": 186151,
+    "idMal": 60651,
+    "title": {
+      "romaji": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
+      "english": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
+      "native": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)",
+      "userPreferred": "Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025)"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": 4,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186151-oUFvXQXVBMMP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186151-oUFvXQXVBMMP.png",
+      "color": "#1a78d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1750388400
         }
       ]
     }
@@ -6391,10 +6447,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750086000
-        },
         {
           "episode": 12,
           "airingAt": 1750690800
