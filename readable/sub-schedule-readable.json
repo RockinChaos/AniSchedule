@@ -2516,10 +2516,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750167000
-        },
-        {
           "episode": 12,
           "airingAt": 1750771800
         }
@@ -3192,39 +3188,6 @@
     }
   },
   {
-    "id": 178701,
-    "idMal": 59169,
-    "title": {
-      "romaji": "Aru Majo ga Shinu Made",
-      "english": "Once Upon a Witch's Death",
-      "native": "ある魔女が死ぬまで",
-      "userPreferred": "Once Upon a Witch's Death"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178701-OA537qbje5AU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178701-OA537qbje5AU.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178701-va8XkChh60u9.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750170600
-        }
-      ]
-    }
-  },
-  {
     "id": 178781,
     "idMal": 59189,
     "title": {
@@ -3660,10 +3623,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1750178040
-        },
         {
           "episode": 12,
           "airingAt": 1750782840
@@ -4238,40 +4197,6 @@
     }
   },
   {
-    "id": 184279,
-    "idMal": 60293,
-    "title": {
-      "romaji": "Ballpark de Tsukamaete!",
-      "english": "Catch Me at the Ballpark!",
-      "native": "ボールパークでつかまえて！",
-      "userPreferred": "Catch Me at the Ballpark!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184279-dw02k4DPxwGz.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184279-dw02k4DPxwGz.png",
-      "color": "#5de4f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184279-MiADtn9N8rI3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750172400
-        }
-      ]
-    }
-  },
-  {
     "id": 184289,
     "idMal": 60070,
     "title": {
@@ -4836,10 +4761,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750174140
-        },
-        {
           "episode": 12,
           "airingAt": 1750778940
         },
@@ -4930,6 +4851,80 @@
         {
           "episode": 6,
           "airingAt": 1754060400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 185505,
+    "idMal": 60505,
+    "title": {
+      "romaji": "Necronomico no Cosmic Horror Show",
+      "english": null,
+      "native": "ネクロノミ子のコズミックホラーショウ",
+      "userPreferred": "Necronomico no Cosmic Horror Show"
+    },
+    "format": "TV",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-NztyWobNp2nm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185505-NztyWobNp2nm.jpg",
+      "color": "#4335e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751380200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1751985000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752589800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753194600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753799400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754404200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755009000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755613800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756218600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756823400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757428200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758033000
         }
       ]
     },
@@ -5643,6 +5638,68 @@
         {
           "episode": 1,
           "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186789,
+    "idMal": 61023,
+    "title": {
+      "romaji": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite",
+      "english": null,
+      "native": "人妻の唇は缶チューハイの味がして",
+      "userPreferred": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186789-40kriALlmxYQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186789-40kriALlmxYQ.jpg",
+      "color": "#e4d60d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751385600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1751990400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752595200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753200000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753804800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754409600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755014400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755619200
         }
       ]
     },
