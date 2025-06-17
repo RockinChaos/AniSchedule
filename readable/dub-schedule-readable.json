@@ -1191,6 +1191,62 @@
     "addedAt": "2025-04-05T07:00:00Z"
   },
   {
+    "title": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
+    "route": "meitou-isekai-no-yu-kaitakuki-around-40-onsen-mania-no-tensei-saki-wa-nonbiri-onsen-tengoku-deshita",
+    "romaji": "Meitou \"Isekai no Yu\" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita",
+    "english": "Isekai Onsen Paradise",
+    "native": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-06-21T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 4,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 171019,
+        "idMal": 57315,
+        "title": {
+          "romaji": "Meitou \"Isekai no Yu\" Kaitaku-ki: AraFou Onsen Mania Tensei-saki wa, Nonbiri Onsen Tengoku Deshita",
+          "english": "Isekai Onsen Paradise",
+          "native": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
+          "userPreferred": "Isekai Onsen Paradise"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 4,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171019-eBKXg4TMeS7R.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171019-eBKXg4TMeS7R.jpg",
+          "color": "#aef135"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-21T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-21T07:00:00Z"
+  },
+  {
     "title": "Mono",
     "route": "mono",
     "romaji": "mono",
