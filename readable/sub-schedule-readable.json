@@ -5335,10 +5335,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 35,
-          "airingAt": 1750114800
-        },
-        {
           "episode": 36,
           "airingAt": 1750719600
         },
@@ -6200,10 +6196,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1750111200
-        },
-        {
           "episode": 9,
           "airingAt": 1750716000
         },
@@ -6417,6 +6409,38 @@
         {
           "episode": 1,
           "airingAt": 1750345200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 192474,
+    "idMal": 61672,
+    "title": {
+      "romaji": "Shinsei Galverse",
+      "english": null,
+      "native": "新星ギャルバース",
+      "userPreferred": "Shinsei Galverse"
+    },
+    "format": "ONA",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192474-4INGwDroNYKs.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192474-4INGwDroNYKs.jpg",
+      "color": "#865de4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1750854600
         }
       ]
     },
