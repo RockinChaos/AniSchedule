@@ -1539,6 +1539,64 @@
     "addedAt": "2025-04-16T20:15:28Z"
   },
   {
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "route": "seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
+    "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "english": "Rascal Does Not Dream of a Dreaming Girl",
+    "native": "青春ブタ野郎はゆめみる少女の夢を見ない",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2025-06-20T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 90,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 104157,
+        "idMal": 38329,
+        "title": {
+          "romaji": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+          "english": "Rascal Does Not Dream of a Dreaming Girl",
+          "native": "青春ブタ野郎はゆめみる少女の夢を見ない",
+          "userPreferred": "Rascal Does Not Dream of a Dreaming Girl"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 90,
+        "seasonYear": 2019,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx104157-rk99XI56PaIC.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx104157-rk99XI56PaIC.jpg",
+          "color": "#8643f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/104157-PS7tfPpvJKhk.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-20T00:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-20T00:00:00Z"
+  },
+  {
     "title": "Sentai Daishikkaku 2nd Season",
     "route": "sentai-daishikkaku-2nd-season",
     "romaji": "Sentai Daishikkaku 2nd Season",
