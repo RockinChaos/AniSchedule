@@ -3838,16 +3838,17 @@
     "idMal": 59897,
     "title": {
       "romaji": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu",
-      "english": null,
+      "english": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
       "native": "小林さんちのメイドラゴン さみしがりやの竜",
-      "userPreferred": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu"
+      "userPreferred": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved"
     },
     "format": "MOVIE",
     "genres": [
+      "Drama",
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 105,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181839-pgM02tCNM2ae.png",
@@ -4452,9 +4453,9 @@
     "duration": 60,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184756-sxp4ftnikI4n.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184756-sxp4ftnikI4n.jpg",
-      "color": "#00c9ff"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184756-ef85Z2D47G1C.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184756-ef85Z2D47G1C.jpg",
+      "color": "#00c9f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -4763,10 +4764,6 @@
         {
           "episode": 12,
           "airingAt": 1750778940
-        },
-        {
-          "episode": 13,
-          "airingAt": 1751383740
         }
       ]
     }
@@ -5806,10 +5803,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750200360
-        },
-        {
           "episode": 12,
           "airingAt": 1750805160
         },
@@ -6534,5 +6527,134 @@
         }
       ]
     }
+  },
+  {
+    "id": 193883,
+    "idMal": 61765,
+    "title": {
+      "romaji": "Chibi Godzilla no Gyakushuu 3",
+      "english": "Chibi Godzilla Raids Again Season 3",
+      "native": "ちびゴジラの逆襲(第3期)",
+      "userPreferred": "Chibi Godzilla Raids Again Season 3"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193883-Im5tNHwtfAmz.jpg",
+      "color": "#f1ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751407560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752012360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752617160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753221960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753826760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754431560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755036360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755641160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756245960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756850760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757455560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758060360
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758665160
+        },
+        {
+          "episode": 14,
+          "airingAt": 1759269960
+        },
+        {
+          "episode": 15,
+          "airingAt": 1759874760
+        },
+        {
+          "episode": 16,
+          "airingAt": 1760479560
+        },
+        {
+          "episode": 17,
+          "airingAt": 1761084360
+        },
+        {
+          "episode": 18,
+          "airingAt": 1761689160
+        },
+        {
+          "episode": 19,
+          "airingAt": 1762293960
+        },
+        {
+          "episode": 20,
+          "airingAt": 1762898760
+        },
+        {
+          "episode": 21,
+          "airingAt": 1763503560
+        },
+        {
+          "episode": 22,
+          "airingAt": 1764108360
+        },
+        {
+          "episode": 23,
+          "airingAt": 1764713160
+        },
+        {
+          "episode": 24,
+          "airingAt": 1765317960
+        },
+        {
+          "episode": 25,
+          "airingAt": 1765922760
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
