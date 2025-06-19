@@ -3824,6 +3824,83 @@
     }
   },
   {
+    "id": 180460,
+    "idMal": 59632,
+    "title": {
+      "romaji": "Mattaku Saikin no Tantei to Kitara",
+      "english": "Detectives These Days Are Crazy!",
+      "native": "まったく最近の探偵ときたら",
+      "userPreferred": "Detectives These Days Are Crazy!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180460-rZn4pp9YNqW0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180460-rZn4pp9YNqW0.jpg",
+      "color": "#4393e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180460-Id13IZ4FSBuf.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751380200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1751985000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752589800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753194600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753799400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754404200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755009000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755613800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756218600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756823400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757428200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758033000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 180516,
     "idMal": 59636,
     "title": {
