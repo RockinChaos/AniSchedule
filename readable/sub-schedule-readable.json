@@ -2135,10 +2135,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1750345200
-        },
-        {
           "episode": 6,
           "airingAt": 1763650800
         }
@@ -2570,6 +2566,83 @@
     }
   },
   {
+    "id": 173335,
+    "idMal": 57820,
+    "title": {
+      "romaji": "Kamitsubaki-shi Kensetsuchuu.",
+      "english": "KAMITSUBAKI CITY UNDER CONSTRUCTION",
+      "native": "神椿市建設中。",
+      "userPreferred": "KAMITSUBAKI CITY UNDER CONSTRUCTION"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173335-A1Xgm9qN9d6w.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173335-A1Xgm9qN9d6w.jpg",
+      "color": "#d61a50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751554560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752159360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752764160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753368960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753973760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754578560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755183360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755788160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756392960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756997760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757602560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758207360
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 174181,
     "idMal": 58122,
     "title": {
@@ -2693,39 +2766,6 @@
         {
           "episode": 30,
           "airingAt": 1750849200
-        }
-      ]
-    }
-  },
-  {
-    "id": 175872,
-    "idMal": 58359,
-    "title": {
-      "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
-      "english": "The Brilliant Healer's New Life in the Shadows",
-      "native": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
-      "userPreferred": "The Brilliant Healer's New Life in the Shadows"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175872-d55nfiC4WWHO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175872-d55nfiC4WWHO.jpg",
-      "color": "#e47843"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175872-Pb1aTEdwSIyh.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750343400
         }
       ]
     }
@@ -3286,39 +3326,6 @@
     }
   },
   {
-    "id": 178680,
-    "idMal": 59160,
-    "title": {
-      "romaji": "WIND BREAKER Season 2",
-      "english": "WIND BREAKER Season 2",
-      "native": "WIND BREAKER Season 2",
-      "userPreferred": "WIND BREAKER Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178680-nIAhCizY46ZU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178680-nIAhCizY46ZU.jpg",
-      "color": "#e4c9ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178680-9HupCDo647QU.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750346760
-        }
-      ]
-    }
-  },
-  {
     "id": 178781,
     "idMal": 59189,
     "title": {
@@ -3650,10 +3657,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750344960
-        },
-        {
           "episode": 13,
           "airingAt": 1750949760
         }
@@ -3914,7 +3917,7 @@
       "color": "#1aa1d6"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180516-mQCYvJ2MtaOT.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180516-qxKVBsTW6Czx.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -5186,6 +5189,85 @@
     "unaired": true
   },
   {
+    "id": 185544,
+    "idMal": 60523,
+    "title": {
+      "romaji": "Tsuihousha Shokudou e Youkoso!",
+      "english": "Welcome to the Outcast's Restaurant!",
+      "native": "追放者食堂へようこそ！",
+      "userPreferred": "Welcome to the Outcast's Restaurant!"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185544-V9XoC8yJ906f.jpg",
+      "color": "#d6a11a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751554800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752159600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752764400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753369200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753974000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754578800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755183600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755788400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756393200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756998000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757602800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758207600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185584,
     "idMal": 60535,
     "title": {
@@ -5757,6 +5839,84 @@
     }
   },
   {
+    "id": 186052,
+    "idMal": 60732,
+    "title": {
+      "romaji": "Mizu Zokusei no Mahou Tsukai",
+      "english": "The Water Magician",
+      "native": "水属性の魔法使い",
+      "userPreferred": "The Water Magician"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-hFcX9WNzAUlA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186052-hFcX9WNzAUlA.jpg",
+      "color": "#1ad6f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751560080
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752164880
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752769680
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753374480
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753979280
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754584080
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755188880
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755793680
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756398480
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757003280
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757608080
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758212880
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 186058,
     "idMal": 60980,
     "title": {
@@ -5878,70 +6038,6 @@
         {
           "episode": 2,
           "airingAt": 1756393200
-        }
-      ]
-    }
-  },
-  {
-    "id": 186313,
-    "idMal": 60947,
-    "title": {
-      "romaji": "Nmeneko",
-      "english": null,
-      "native": "ンめねこ",
-      "userPreferred": "Nmeneko"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186313-29gCf3CWJu1n.jpg",
-      "color": "#f1ae28"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750352280
-        }
-      ]
-    }
-  },
-  {
-    "id": 186522,
-    "idMal": 60506,
-    "title": {
-      "romaji": "Araiguma Calcal-dan",
-      "english": null,
-      "native": "あらいぐま カルカル団",
-      "userPreferred": "Araiguma Calcal-dan"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186522-ZDp8LzI6FjuE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186522-ZDp8LzI6FjuE.jpg",
-      "color": "#e49350"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750348440
         }
       ]
     }
@@ -6142,16 +6238,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1750345200
-        },
-        {
           "episode": 2,
           "airingAt": 1752764400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 187998,
@@ -6179,10 +6270,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750356960
-        },
         {
           "episode": 13,
           "airingAt": 1750961760
@@ -6831,41 +6918,6 @@
         {
           "episode": 1,
           "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 191884,
-    "idMal": 61616,
-    "title": {
-      "romaji": "LUPIN THE IIIRD: Zenigata to Futari no Lupin",
-      "english": null,
-      "native": "LUPIN THE IIIRD 銭形と2人のルパン",
-      "userPreferred": "LUPIN THE IIIRD: Zenigata to Futari no Lupin"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Mystery"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191884-wl5vevSgIeuq.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191884-wl5vevSgIeuq.jpg",
-      "color": "#5078e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750345200
         }
       ]
     },
