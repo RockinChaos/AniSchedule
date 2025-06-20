@@ -398,8 +398,9 @@
     "title": "Bye Bye, Earth 2nd Season",
     "route": "bye-bye-earth-2nd-season",
     "native": "ばいばい、アース 第2シーズン",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-20T22:00:00Z",
+    "delayedUntil": "2025-06-27T22:00:00Z",
     "episodeDate": "2025-06-20T22:00:00Z",
     "episodeNumber": 10,
     "episodes": 10,
@@ -440,7 +441,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-06-20T22:00:00Z"
+              "airingAt": "2025-06-27T22:00:00Z"
             }
           ]
         }
@@ -494,8 +495,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-06-20T23:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-06-27T23:00:00Z"
             }
           ]
         }
