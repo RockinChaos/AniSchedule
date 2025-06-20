@@ -552,8 +552,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-06-20T21:30:00Z"
+              "episode": 11,
+              "airingAt": "2025-06-27T21:30:00Z"
             }
           ]
         }
@@ -1087,8 +1087,9 @@
     "romaji": "Kusuriya no Hitorigoto 2nd Season",
     "english": "The Apothecary Diaries 2nd Season",
     "native": "薬屋のひとりごと 第2期",
-    "delayedFrom": "2025-05-30T20:00:00Z",
-    "delayedUntil": "2025-06-06T20:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-20T20:00:00Z",
+    "delayedUntil": "2025-06-27T20:00:00Z",
     "episodeDate": "2025-06-20T20:00:00Z",
     "episodeNumber": 21,
     "episodes": 24,
@@ -1127,7 +1128,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 22,
+              "episode": 21,
               "airingAt": "2025-06-27T20:00:00Z"
             }
           ]
@@ -1774,8 +1775,9 @@
     "romaji": "Teogonia",
     "english": "Teogonia",
     "native": "神統記",
-    "delayedFrom": "0001-01-01T19:00:00Z",
-    "delayedUntil": "0001-01-01T19:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-20T19:00:00Z",
+    "delayedUntil": "2025-06-27T19:00:00Z",
     "episodeDate": "2025-06-20T19:00:00Z",
     "episodeNumber": 9,
     "lengthMin": 24,
@@ -1813,7 +1815,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 9,
               "airingAt": "2025-06-27T19:00:00Z"
             }
           ]
