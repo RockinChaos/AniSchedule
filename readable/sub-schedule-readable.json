@@ -1489,10 +1489,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 172,
-          "airingAt": 1750458600
-        },
-        {
           "episode": 173,
           "airingAt": 1751063400
         },
@@ -1587,6 +1583,10 @@
         {
           "episode": 196,
           "airingAt": 1764973800
+        },
+        {
+          "episode": 197,
+          "airingAt": 1765578600
         }
       ]
     }
@@ -4889,37 +4889,6 @@
     }
   },
   {
-    "id": 184289,
-    "idMal": 60070,
-    "title": {
-      "romaji": "Kaijuu Sekai Seifuku",
-      "english": null,
-      "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijuu Sekai Seifuku"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750456800
-        }
-      ]
-    }
-  },
-  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -5846,37 +5815,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185715,
-    "idMal": 60612,
-    "title": {
-      "romaji": "SHIBUYA♡HACHI 2nd Season",
-      "english": null,
-      "native": "SHIBUYA♡HACHI 第2期",
-      "userPreferred": "SHIBUYA♡HACHI 2nd Season"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185715-S5OtxSJTo5k1.png",
-      "color": "#1aaef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750456800
-        }
-      ]
-    }
   },
   {
     "id": 185718,
@@ -6834,6 +6772,134 @@
     }
   },
   {
+    "id": 188653,
+    "idMal": 61290,
+    "title": {
+      "romaji": "Punirunes Puni 3",
+      "english": null,
+      "native": "ぷにるんず ぷに３",
+      "userPreferred": "Punirunes Puni 3"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188653-8Dd1CCxhx1AB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188653-8Dd1CCxhx1AB.png",
+      "color": "#fee450"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751676300
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752281100
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752885900
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753490700
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754095500
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754700300
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755305100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755909900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756514700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757119500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757724300
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758329100
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758933900
+        },
+        {
+          "episode": 14,
+          "airingAt": 1759538700
+        },
+        {
+          "episode": 15,
+          "airingAt": 1760143500
+        },
+        {
+          "episode": 16,
+          "airingAt": 1760748300
+        },
+        {
+          "episode": 17,
+          "airingAt": 1761353100
+        },
+        {
+          "episode": 18,
+          "airingAt": 1761957900
+        },
+        {
+          "episode": 19,
+          "airingAt": 1762562700
+        },
+        {
+          "episode": 20,
+          "airingAt": 1763167500
+        },
+        {
+          "episode": 21,
+          "airingAt": 1763772300
+        },
+        {
+          "episode": 22,
+          "airingAt": 1764377100
+        },
+        {
+          "episode": 23,
+          "airingAt": 1764981900
+        },
+        {
+          "episode": 24,
+          "airingAt": 1765586700
+        },
+        {
+          "episode": 25,
+          "airingAt": 1766191500
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 188661,
     "idMal": 61279,
     "title": {
@@ -7273,6 +7339,84 @@
     "unaired": true
   },
   {
+    "id": 191994,
+    "idMal": 54145,
+    "title": {
+      "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+      "english": null,
+      "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
+      "userPreferred": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b191994-XZblEauQ3SzO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b191994-XZblEauQ3SzO.png",
+      "color": "#f1bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751670000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752274800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752879600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753484400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754089200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754694000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755298800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755903600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756508400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757113200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757718000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758322800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 192474,
     "idMal": 61672,
     "title": {
@@ -7299,6 +7443,83 @@
         {
           "episode": 1,
           "airingAt": 1750854600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 193238,
+    "idMal": 61731,
+    "title": {
+      "romaji": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
+      "english": null,
+      "native": "学校では教えてくれない大切なこと",
+      "userPreferred": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193238-iOCgM9VCiFgo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193238-iOCgM9VCiFgo.png",
+      "color": "#f1ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751666400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752271200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752876000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753480800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754085600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754690400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755295200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755900000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756504800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757109600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757714400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758319200
         }
       ]
     },
