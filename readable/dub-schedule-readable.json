@@ -1211,7 +1211,7 @@
         "route": "tv-short"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 171019,
@@ -1239,8 +1239,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-06-21T07:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-06-28T07:00:00Z"
             }
           ]
         }
