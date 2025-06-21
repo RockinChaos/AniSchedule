@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1166,
-          "airingAt": 1750496400
-        },
-        {
           "episode": 1167,
           "airingAt": 1751101200
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1190,
           "airingAt": 1765011600
+        },
+        {
+          "episode": 1191,
+          "airingAt": 1765616400
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1289,
-          "airingAt": 1750491000
-        },
         {
           "episode": 1290,
           "airingAt": 1751095800
@@ -385,6 +381,10 @@
         {
           "episode": 1313,
           "airingAt": 1765006200
+        },
+        {
+          "episode": 1314,
+          "airingAt": 1765611000
         }
       ]
     }
@@ -799,10 +799,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 868,
-          "airingAt": 1750492800
-        },
-        {
           "episode": 869,
           "airingAt": 1751097600
         },
@@ -897,6 +893,10 @@
         {
           "episode": 892,
           "airingAt": 1765008000
+        },
+        {
+          "episode": 893,
+          "airingAt": 1765612800
         }
       ]
     }
@@ -3193,40 +3193,6 @@
     "unaired": true
   },
   {
-    "id": 177476,
-    "idMal": 58812,
-    "title": {
-      "romaji": "Shin Samurai-den YAIBA",
-      "english": "YAIBA: Samurai Legend",
-      "native": "真･侍伝 YAIBA",
-      "userPreferred": "YAIBA: Samurai Legend"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177476-kduwwEfxcZtU.jpg",
-      "color": "#e4c95d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750494600
-        }
-      ]
-    }
-  },
-  {
     "id": 177509,
     "idMal": 58833,
     "title": {
@@ -5037,10 +5003,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184639-fXvQzDPP4bHL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750497960
-        },
         {
           "episode": 13,
           "airingAt": 1751102760
