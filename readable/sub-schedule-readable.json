@@ -1626,39 +1626,6 @@
     }
   },
   {
-    "id": 143337,
-    "idMal": 50738,
-    "title": {
-      "romaji": "Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni",
-      "english": "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2",
-      "native": "スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～",
-      "userPreferred": "I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143337-2uPE0ywVcz9X.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143337-2uPE0ywVcz9X.jpg",
-      "color": "#35bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143337-YrezCjQJLnRO.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750510800
-        }
-      ]
-    }
-  },
-  {
     "id": 143598,
     "idMal": 49778,
     "title": {
@@ -1766,6 +1733,85 @@
         }
       ]
     }
+  },
+  {
+    "id": 154768,
+    "idMal": 53065,
+    "title": {
+      "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+      "english": "My Dress-Up Darling Season 2",
+      "native": "その着せ替え人形は恋をする Season 2",
+      "userPreferred": "My Dress-Up Darling Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-MlTZcWTVVgOf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154768-MlTZcWTVVgOf.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154768-EuZd63IcqsVq.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751727600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752332400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752937200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753542000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754146800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754751600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755356400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755961200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756566000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757170800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757775600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758380400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 155838,
@@ -2580,6 +2626,85 @@
     }
   },
   {
+    "id": 171046,
+    "idMal": 57433,
+    "title": {
+      "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+      "english": "Rascal Does Not Dream of Santa Claus",
+      "native": "青春ブタ野郎はサンタクロースの夢を見ない",
+      "userPreferred": "Rascal Does Not Dream of Santa Claus"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171046-9leqLiNuOqNu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171046-9leqLiNuOqNu.png",
+      "color": "#e4c928"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751725800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752330600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752935400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753540200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754145000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754749800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755354600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755959400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756564200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757169000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757773800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758378600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 173333,
     "idMal": 57827,
     "title": {
@@ -3014,10 +3139,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750518000
-        },
-        {
           "episode": 12,
           "airingAt": 1751122800
         }
@@ -3327,6 +3448,123 @@
     }
   },
   {
+    "id": 177689,
+    "idMal": 58913,
+    "title": {
+      "romaji": "Hikaru ga Shinda Natsu",
+      "english": "The Summer Hikaru Died",
+      "native": "光が死んだ夏",
+      "userPreferred": "The Summer Hikaru Died"
+    },
+    "format": "TV",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Psychological",
+      "Supernatural",
+      "Thriller"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177689-d0mB5nYgdnhi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177689-d0mB5nYgdnhi.jpg",
+      "color": "#50aec9"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177689-q2w3vMRnmN8v.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751730960
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 177761,
+    "idMal": 58957,
+    "title": {
+      "romaji": "9-nine- Shihaisha no Oukan",
+      "english": null,
+      "native": "9-nine- 支配者の王冠",
+      "userPreferred": "9-nine- Shihaisha no Oukan"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177761-KdJxyWwdBdiS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177761-KdJxyWwdBdiS.jpg",
+      "color": "#50aef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751720400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1751722200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752325200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1752930000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753534800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754139600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1754744400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755349200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1755954000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756558800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757163600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1757768400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758373200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178052,
     "idMal": 59078,
     "title": {
@@ -3487,6 +3725,82 @@
     }
   },
   {
+    "id": 178675,
+    "idMal": 59161,
+    "title": {
+      "romaji": "Bad Girl",
+      "english": null,
+      "native": "ばっどがーる",
+      "userPreferred": "Bad Girl"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178675-ABQbvWvnDvKh.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178675-ABQbvWvnDvKh.png",
+      "color": "#5dbbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751727600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752332400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752937200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753542000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754146800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754751600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755356400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755961200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756566000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757170800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757775600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758380400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178781,
     "idMal": 59189,
     "title": {
@@ -3548,10 +3862,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750521600
-        },
         {
           "episode": 13,
           "airingAt": 1751126400
@@ -3665,10 +3975,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179054-h88Gux77VioM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750516200
-        },
         {
           "episode": 13,
           "airingAt": 1751121000
@@ -3979,38 +4285,82 @@
     "unaired": true
   },
   {
-    "id": 179955,
-    "idMal": 59452,
+    "id": 179885,
+    "idMal": 59424,
     "title": {
-      "romaji": "Katainaka no Ossan, Kensei ni Naru",
-      "english": "From Old Country Bumpkin to Master Swordsman",
-      "native": "片田舎のおっさん、剣聖になる",
-      "userPreferred": "From Old Country Bumpkin to Master Swordsman"
+      "romaji": "Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru",
+      "english": "Scooped Up by an S-Rank Adventurer!",
+      "native": "勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～",
+      "userPreferred": "Scooped Up by an S-Rank Adventurer!"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Adventure",
-      "Comedy",
       "Fantasy"
     ],
-    "duration": 23,
+    "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179955-e4UPTow92B1O.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179955-e4UPTow92B1O.jpg",
-      "color": "#e4bba1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179885-m1nu1QvnRmII.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179885-m1nu1QvnRmII.jpg",
+      "color": "#43bbff"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179955-OVBCGK9eui5c.jpg",
+    "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1751727600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752332400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752937200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753542000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754146800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754751600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755356400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755961200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756566000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757170800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757775600
+        },
+        {
           "episode": 12,
-          "airingAt": 1750516200
+          "airingAt": 1758380400
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 179966,
@@ -4209,6 +4559,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 180425,
+    "idMal": 59619,
+    "title": {
+      "romaji": "Ame to Kimi to",
+      "english": "With You and the Rain",
+      "native": "雨と君と",
+      "userPreferred": "With You and the Rain"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180425-e5yNWog1hDuu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180425-e5yNWog1hDuu.jpg",
+      "color": "#bbe4f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751733000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752337800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752942600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753547400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754152200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754757000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755361800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755966600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756571400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757176200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757781000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758385800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 180460,
@@ -4415,10 +4842,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1750521300
-        },
-        {
           "episode": 24,
           "airingAt": 1751126100
         }
@@ -4493,37 +4916,82 @@
     }
   },
   {
-    "id": 181182,
-    "idMal": 59828,
+    "id": 181444,
+    "idMal": 59845,
     "title": {
-      "romaji": "Shoushimin Series 2nd Season",
-      "english": "SHOSHIMIN: How to become Ordinary Season 2",
-      "native": "小市民シリーズ 第2期",
-      "userPreferred": "SHOSHIMIN: How to become Ordinary Season 2"
+      "romaji": "Kaoru Hana wa Rin to Saku",
+      "english": "The Fragrant Flower Blooms With Dignity",
+      "native": "薫る花は凛と咲く",
+      "userPreferred": "The Fragrant Flower Blooms With Dignity"
     },
     "format": "TV",
     "genres": [
-      "Mystery",
-      "Psychological",
-      "Slice of Life"
+      "Comedy",
+      "Drama",
+      "Romance"
     ],
-    "duration": 23,
+    "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181182-lnlfAByYD7X6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181182-lnlfAByYD7X6.png",
-      "color": "#bb6b35"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-vmtWANHhtVaB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181444-vmtWANHhtVaB.jpg",
+      "color": "#a1e4ff"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181182-cQIt0pugtIKE.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-dENKGiS7cI7j.jpg",
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1751729400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752334200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752939000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753543800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754148600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754753400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755358200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755963000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756567800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757172600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757777400
+        },
+        {
           "episode": 12,
-          "airingAt": 1750523400
+          "airingAt": 1758382200
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 181449,
@@ -4688,50 +5156,8 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750514400
-        },
-        {
           "episode": 13,
           "airingAt": 1751119200
-        }
-      ]
-    }
-  },
-  {
-    "id": 183274,
-    "idMal": 60154,
-    "title": {
-      "romaji": "Ore wa Seikan Kokka no Akutoku Ryoushu! ",
-      "english": "I'm the Evil Lord of an Intergalactic Empire!",
-      "native": "俺は星間国家の悪徳領主!",
-      "userPreferred": "I'm the Evil Lord of an Intergalactic Empire!"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Ecchi",
-      "Fantasy",
-      "Mecha",
-      "Romance",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183274-zqrwevS4PBJF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183274-zqrwevS4PBJF.jpg",
-      "color": "#6b35e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750525200
         }
       ]
     }
@@ -5288,9 +5714,9 @@
     "idMal": 60408,
     "title": {
       "romaji": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
-      "english": null,
+      "english": "LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline",
       "native": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
-      "userPreferred": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku"
+      "userPreferred": "LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline"
     },
     "format": "MOVIE",
     "genres": [
@@ -5345,37 +5771,6 @@
         {
           "episode": 12,
           "airingAt": 1750778940
-        }
-      ]
-    }
-  },
-  {
-    "id": 185259,
-    "idMal": 60446,
-    "title": {
-      "romaji": "Masuda Kousuke Gekijou Gag Manga Biyori GO",
-      "english": "Gag Manga Biyori GO",
-      "native": "増田こうすけ劇場 ギャグマンガ日和GO",
-      "userPreferred": "Gag Manga Biyori GO"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185259-h5AnqAcoKH6d.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185259-h5AnqAcoKH6d.jpg",
-      "color": "#5d93e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750512600
         }
       ]
     }
@@ -5775,6 +6170,37 @@
     "unaired": true
   },
   {
+    "id": 185715,
+    "idMal": 60612,
+    "title": {
+      "romaji": "SHIBUYA♡HACHI 2nd Season",
+      "english": null,
+      "native": "SHIBUYA♡HACHI 第2期",
+      "userPreferred": "SHIBUYA♡HACHI 2nd Season"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185715-S5OtxSJTo5k1.png",
+      "color": "#1aaef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751061600
+        }
+      ]
+    }
+  },
+  {
     "id": 185718,
     "idMal": 60596,
     "title": {
@@ -6109,15 +6535,88 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750519800
-        },
-        {
           "episode": 12,
           "airingAt": 1751124600
         }
       ]
     }
+  },
+  {
+    "id": 186003,
+    "idMal": 60697,
+    "title": {
+      "romaji": "Fermat no Ryouri",
+      "english": null,
+      "native": "フェルマーの料理",
+      "userPreferred": "Fermat no Ryouri"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186003-nHOtxyiqSAXG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186003-nHOtxyiqSAXG.jpg",
+      "color": "#e48628"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751725800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752330600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752935400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753540200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754145000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754749800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755354600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755959400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756564200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757169000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757773800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758378600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186052,
@@ -6292,6 +6791,89 @@
     }
   },
   {
+    "id": 186313,
+    "idMal": 60947,
+    "title": {
+      "romaji": "Nmeneko",
+      "english": null,
+      "native": "ンめねこ",
+      "userPreferred": "Nmeneko"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186313-29gCf3CWJu1n.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186313-29gCf3CWJu1n.jpg",
+      "color": "#f1ae28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1750957080
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751561880
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752166680
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752771480
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753376280
+        },
+        {
+          "episode": 18,
+          "airingAt": 1753981080
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754585880
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755190680
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755795480
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756400280
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757005080
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757609880
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758214680
+        },
+        {
+          "episode": 26,
+          "airingAt": 1758819480
+        }
+      ]
+    }
+  },
+  {
     "id": 186542,
     "idMal": 60962,
     "title": {
@@ -6319,6 +6901,84 @@
         {
           "episode": 1,
           "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186561,
+    "idMal": 60951,
+    "title": {
+      "romaji": "Kizetsu Yuusha to Ansatsu Hime",
+      "english": "The Shy Hero and the Assassin Princesses",
+      "native": "気絶勇者と暗殺姫",
+      "userPreferred": "The Shy Hero and the Assassin Princesses"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186561-svLOWbfahG5V.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186561-svLOWbfahG5V.png",
+      "color": "#f1c95d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751724000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752328800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752933600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753538400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754143200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754748000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755352800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755957600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756562400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757167200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757772000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758376800
         }
       ]
     },
@@ -6645,6 +7305,34 @@
         {
           "episode": 7,
           "airingAt": 1750813200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1752627600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1754442000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1756256400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758070800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1759885200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1761699600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1763514000
         }
       ]
     }
