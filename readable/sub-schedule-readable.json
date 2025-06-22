@@ -1891,40 +1891,6 @@
     "unaired": true
   },
   {
-    "id": 156092,
-    "idMal": 53447,
-    "title": {
-      "romaji": "Tu Bian Yingxiong X",
-      "english": "To Be Hero X",
-      "native": "凸变英雄X",
-      "userPreferred": "To Be Hero X"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
-      "color": "#d61a1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750552200
-        }
-      ]
-    }
-  },
-  {
     "id": 156395,
     "idMal": 53512,
     "title": {
@@ -2442,10 +2408,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 47,
-          "airingAt": 1750550400
-        },
         {
           "episode": 48,
           "airingAt": 1751155200
@@ -3591,10 +3553,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750550400
-        },
-        {
           "episode": 13,
           "airingAt": 1751155200
         },
@@ -3689,6 +3647,10 @@
         {
           "episode": 36,
           "airingAt": 1765065600
+        },
+        {
+          "episode": 37,
+          "airingAt": 1765670400
         }
       ]
     }
@@ -5302,10 +5264,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750552200
-        },
-        {
           "episode": 13,
           "airingAt": 1751157000
         },
@@ -5400,6 +5358,10 @@
         {
           "episode": 36,
           "airingAt": 1765067400
+        },
+        {
+          "episode": 37,
+          "airingAt": 1765672200
         }
       ]
     }
@@ -5607,10 +5569,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1750548600
-        },
-        {
           "episode": 21,
           "airingAt": 1751153400
         },
@@ -5705,6 +5663,10 @@
         {
           "episode": 44,
           "airingAt": 1765063800
+        },
+        {
+          "episode": 45,
+          "airingAt": 1765668600
         }
       ]
     }
@@ -6058,37 +6020,6 @@
     }
   },
   {
-    "id": 185646,
-    "idMal": 60534,
-    "title": {
-      "romaji": "Koupen-chan",
-      "english": null,
-      "native": "コウペンちゃん",
-      "userPreferred": "Koupen-chan"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185646-2eGmsnaSHiLC.jpg",
-      "color": "#aed643"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750548480
-        }
-      ]
-    }
-  },
-  {
     "id": 185660,
     "idMal": 60543,
     "title": {
@@ -6225,10 +6156,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750544160
-        },
-        {
           "episode": 13,
           "airingAt": 1751148960
         },
@@ -6323,6 +6250,10 @@
         {
           "episode": 36,
           "airingAt": 1765059360
+        },
+        {
+          "episode": 37,
+          "airingAt": 1765664160
         }
       ]
     }
@@ -7569,10 +7500,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750548600
-        },
         {
           "episode": 13,
           "airingAt": 1751153400
