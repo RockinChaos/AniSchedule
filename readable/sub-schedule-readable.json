@@ -543,10 +543,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2785,
-          "airingAt": 1750584600
-        },
-        {
           "episode": 2786,
           "airingAt": 1751189400
         },
@@ -641,6 +637,10 @@
         {
           "episode": 2809,
           "airingAt": 1765099800
+        },
+        {
+          "episode": 2810,
+          "airingAt": 1765704600
         }
       ]
     }
@@ -927,10 +927,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 319,
-          "airingAt": 1750582800
-        },
         {
           "episode": 320,
           "airingAt": 1751187600
@@ -1891,6 +1887,44 @@
     "unaired": true
   },
   {
+    "id": 156092,
+    "idMal": 53447,
+    "title": {
+      "romaji": "Tu Bian Yingxiong X",
+      "english": "To Be Hero X",
+      "native": "凸变英雄X",
+      "userPreferred": "To Be Hero X"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
+      "color": "#d61a1a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751157000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751761800
+        }
+      ]
+    }
+  },
+  {
     "id": 156395,
     "idMal": 53512,
     "title": {
@@ -2661,42 +2695,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 173333,
-    "idMal": 57827,
-    "title": {
-      "romaji": "Mashin Souzouden Wataru",
-      "english": "MASHIN CREATOR WATARU",
-      "native": "魔神創造伝ワタル",
-      "userPreferred": "MASHIN CREATOR WATARU"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173333-lqvM2Ya74nN9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173333-lqvM2Ya74nN9.jpg",
-      "color": "#e4ae43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173333-Q1FFyjucXfqN.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1750581000
-        }
-      ]
-    }
   },
   {
     "id": 173335,
@@ -4044,10 +4042,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1750588200
-        },
-        {
           "episode": 12,
           "airingAt": 1751193000
         }
@@ -4460,10 +4454,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750579200
-        },
-        {
           "episode": 13,
           "airingAt": 1751184000
         },
@@ -4698,10 +4688,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1750577400
-        },
-        {
           "episode": 13,
           "airingAt": 1751182200
         }
@@ -4872,6 +4858,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 180929,
+    "idMal": 59791,
+    "title": {
+      "romaji": "Ruri no Houseki",
+      "english": "Ruri Rocks",
+      "native": "瑠璃の宝石",
+      "userPreferred": "Ruri Rocks"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180929-ytdzqbrOhots.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180929-ytdzqbrOhots.jpg",
+      "color": "#5dc9f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751805000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752409800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753014600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753619400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754224200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754829000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755433800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756038600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756643400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757248200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757853000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758457800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 181444,
@@ -5230,6 +5293,37 @@
         {
           "episode": 12,
           "airingAt": 1750856160
+        }
+      ]
+    }
+  },
+  {
+    "id": 184289,
+    "idMal": 60070,
+    "title": {
+      "romaji": "Kaijuu Sekai Seifuku",
+      "english": null,
+      "native": "かいじゅうせかいせいふく",
+      "userPreferred": "Kaijuu Sekai Seifuku"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
+      "color": "#5da1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751061600
         }
       ]
     }
@@ -6016,6 +6110,85 @@
     }
   },
   {
+    "id": 185646,
+    "idMal": 60534,
+    "title": {
+      "romaji": "Koupen-chan",
+      "english": null,
+      "native": "コウペンちゃん",
+      "userPreferred": "Koupen-chan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185646-2eGmsnaSHiLC.jpg",
+      "color": "#aed643"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751153280
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751758080
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752362880
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752967680
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753572480
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754177280
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754782080
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755386880
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755991680
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756596480
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757201280
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757806080
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758410880
+        }
+      ]
+    }
+  },
+  {
     "id": 185660,
     "idMal": 60543,
     "title": {
@@ -6291,6 +6464,85 @@
         }
       ]
     }
+  },
+  {
+    "id": 185755,
+    "idMal": 60603,
+    "title": {
+      "romaji": "Puniru wa Kawaii Slime 2nd Season",
+      "english": null,
+      "native": "ぷにるはかわいいスライム 第2期",
+      "userPreferred": "Puniru wa Kawaii Slime 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185755-xMle6RCAPwA6.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185755-xMle6RCAPwA6.png",
+      "color": "#5dc9f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751790600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752395400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753000200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753605000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754209800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754814600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755419400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756024200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756629000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757233800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757838600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758443400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 185778,
@@ -6796,6 +7048,83 @@
         {
           "episode": 26,
           "airingAt": 1758819480
+        }
+      ]
+    }
+  },
+  {
+    "id": 186522,
+    "idMal": 60506,
+    "title": {
+      "romaji": "Araiguma Calcal-dan",
+      "english": null,
+      "native": "あらいぐま カルカル団",
+      "userPreferred": "Araiguma Calcal-dan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186522-ZDp8LzI6FjuE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186522-ZDp8LzI6FjuE.jpg",
+      "color": "#e49350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1750953240
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751558040
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752162840
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752767640
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753372440
+        },
+        {
+          "episode": 18,
+          "airingAt": 1753977240
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754582040
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755186840
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755791640
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756396440
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757001240
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757606040
         }
       ]
     }
@@ -7657,6 +7986,86 @@
         {
           "episode": 1,
           "airingAt": 1750950000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 189326,
+    "idMal": 61339,
+    "title": {
+      "romaji": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "english": null,
+      "native": "地縛少年花子くん２ 後編",
+      "userPreferred": "Jibaku Shounen Hanako-kun 2 Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189326-kaYdWFxyyYdx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189326-kaYdWFxyyYdx.jpg",
+      "color": "#f1ae43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189326-QgANtHkolp8i.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751787000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752391800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752996600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753601400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754206200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754811000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755415800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756020600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756625400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757230200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757835000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758439800
         }
       ]
     },
