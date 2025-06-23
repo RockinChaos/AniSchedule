@@ -121,8 +121,9 @@
     "romaji": "Aharen-san wa Hakarenai Season 2",
     "english": "Aharen-san wa Hakarenai Season 2",
     "native": "波連さんははかれない season2",
-    "delayedFrom": "0001-01-01T19:00:00Z",
-    "delayedUntil": "0001-01-01T19:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-23T19:00:00Z",
+    "delayedUntil": "2025-06-30T19:00:00Z",
     "episodeDate": "2025-06-23T19:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -162,7 +163,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-06-30T19:00:00Z"
             }
           ]
