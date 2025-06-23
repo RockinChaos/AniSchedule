@@ -1584,40 +1584,6 @@
     }
   },
   {
-    "id": 143200,
-    "idMal": 50694,
-    "title": {
-      "romaji": "Summer Pockets",
-      "english": "Summer Pockets",
-      "native": "Summer Pockets",
-      "userPreferred": "Summer Pockets"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143200-42OaDCS6VEy3.png",
-      "color": "#50bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143200-R0qpwS1C6b8i.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750689000
-        }
-      ]
-    }
-  },
-  {
     "id": 143598,
     "idMal": 49778,
     "title": {
@@ -1645,47 +1611,47 @@
       "nodes": [
         {
           "episode": 14,
-          "airingAt": 1751286600
+          "airingAt": 1752505200
         },
         {
           "episode": 15,
-          "airingAt": 1751891400
+          "airingAt": 1753110000
         },
         {
           "episode": 16,
-          "airingAt": 1752496200
+          "airingAt": 1753714800
         },
         {
           "episode": 17,
-          "airingAt": 1753101000
+          "airingAt": 1754319600
         },
         {
           "episode": 18,
-          "airingAt": 1753705800
+          "airingAt": 1754924400
         },
         {
           "episode": 19,
-          "airingAt": 1754310600
+          "airingAt": 1755529200
         },
         {
           "episode": 20,
-          "airingAt": 1754915400
+          "airingAt": 1756134000
         },
         {
           "episode": 21,
-          "airingAt": 1755520200
+          "airingAt": 1756738800
         },
         {
           "episode": 22,
-          "airingAt": 1756125000
+          "airingAt": 1757343600
         },
         {
           "episode": 23,
-          "airingAt": 1756729800
+          "airingAt": 1757948400
         },
         {
           "episode": 24,
-          "airingAt": 1757334600
+          "airingAt": 1758553200
         }
       ]
     }
@@ -1994,38 +1960,6 @@
     "unaired": true
   },
   {
-    "id": 158287,
-    "idMal": 53762,
-    "title": {
-      "romaji": "#Compass 2.0－Sentou Setsuri Kaiseki System",
-      "english": "#COMPASS2.0 ANIMATION PROJECT",
-      "native": "#コンパス2.0 戦闘摂理解析システム",
-      "userPreferred": "#COMPASS2.0 ANIMATION PROJECT"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158287-4RDt0M820Ays.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158287-4RDt0M820Ays.jpg",
-      "color": "#5078e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750690800
-        }
-      ]
-    }
-  },
-  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -2267,40 +2201,6 @@
         {
           "episode": 100,
           "airingAt": 1758878700
-        }
-      ]
-    }
-  },
-  {
-    "id": 165445,
-    "idMal": 55514,
-    "title": {
-      "romaji": "Zatsu Tabi: That's Journey",
-      "english": "ZatsuTabi -That's Journey-",
-      "native": "ざつ旅-That's Journey-",
-      "userPreferred": "ZatsuTabi -That's Journey-"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165445-qwVP0w5NIaBW.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165445-qwVP0w5NIaBW.jpg",
-      "color": "#f1780d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165445-ycyj0HtnnZJ2.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750683600
         }
       ]
     }
@@ -4654,39 +4554,6 @@
     "unaired": true
   },
   {
-    "id": 179979,
-    "idMal": 59466,
-    "title": {
-      "romaji": "Aharen-san wa Hakarenai Season 2",
-      "english": "Aharen-san wa Hakarenai Season 2",
-      "native": "阿波連さんははかれない season2",
-      "userPreferred": "Aharen-san wa Hakarenai Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179979-OiIKSkhJRmvo.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179979-OiIKSkhJRmvo.jpg",
-      "color": "#4386f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750683600
-        }
-      ]
-    }
-  },
-  {
     "id": 180367,
     "idMal": 59597,
     "title": {
@@ -5557,6 +5424,84 @@
     "unaired": true
   },
   {
+    "id": 182309,
+    "idMal": 59986,
+    "title": {
+      "romaji": "Grand Blue Season 2",
+      "english": "Grand Blue Dreaming Season 2",
+      "native": "ぐらんぶる Season 2",
+      "userPreferred": "Grand Blue Dreaming Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-jJs8sdFmfv5q.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182309-jJs8sdFmfv5q.jpg",
+      "color": "#50bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751902200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752507000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753111800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753716600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754321400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754926200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755531000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756135800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756740600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757345400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757950200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758555000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 182814,
     "idMal": 60083,
     "title": {
@@ -5942,6 +5887,85 @@
     }
   },
   {
+    "id": 184574,
+    "idMal": 60315,
+    "title": {
+      "romaji": "Dekin no Mogura",
+      "english": "Dekin no Mogura: The Earthbound Mole",
+      "native": "出禁のモグラ",
+      "userPreferred": "Dekin no Mogura: The Earthbound Mole"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-nAWTcZ42tGRm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184574-nAWTcZ42tGRm.png",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751893200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752498000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753102800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753707600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754312400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754917200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755522000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756126800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756731600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757336400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757941200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758546000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 184575,
     "idMal": 60316,
     "title": {
@@ -6010,6 +6034,83 @@
         {
           "episode": 12,
           "airingAt": 1758465000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 184591,
+    "idMal": 60326,
+    "title": {
+      "romaji": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)",
+      "english": "There's No Freaking Way I'll Be Your Lover! Unless...",
+      "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)",
+      "userPreferred": "There's No Freaking Way I'll Be Your Lover! Unless..."
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184591-jRXZ29bN61Zc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184591-jRXZ29bN61Zc.jpg",
+      "color": "#35bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751904000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752508800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753113600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753718400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754323200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754928000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755532800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756137600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756742400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757347200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757952000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758556800
         }
       ]
     },
@@ -6515,6 +6616,59 @@
     "unaired": true
   },
   {
+    "id": 185519,
+    "idMal": 60508,
+    "title": {
+      "romaji": "Food Court de, Mata Ashita.",
+      "english": "See You Tomorrow at the Food Court",
+      "native": "フードコートで、また明日。",
+      "userPreferred": "See You Tomorrow at the Food Court"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185519-sEHaMeJ73d7g.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185519-sEHaMeJ73d7g.png",
+      "color": "#f1a15d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185519-WRtGn9JOriG8.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751895000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752499800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753104600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753709400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754314200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754919000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185544,
     "idMal": 60523,
     "title": {
@@ -7013,10 +7167,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750687200
-        },
         {
           "episode": 13,
           "airingAt": 1751292000
@@ -8092,6 +8242,85 @@
     }
   },
   {
+    "id": 188138,
+    "idMal": 61239,
+    "title": {
+      "romaji": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+      "english": null,
+      "native": "美男高校地球防衛部ハイカラ！",
+      "userPreferred": "Binan Koukou Chikyuu Bouei-bu Haikara!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Mahou Shoujo",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188138-hp3DHDXFICSt.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188138-hp3DHDXFICSt.png",
+      "color": "#f1c943"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751896800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752501600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753106400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753711200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754316000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754920800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755525600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756130400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756735200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757340000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757944800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758549600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 188239,
     "idMal": 61258,
     "title": {
@@ -9023,38 +9252,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 193242,
-    "idMal": 61491,
-    "title": {
-      "romaji": "Chibizenji-sensei Inokori Kougiroku",
-      "english": null,
-      "native": "ちびぜんじ先生 居残り講義録",
-      "userPreferred": "Chibizenji-sensei Inokori Kougiroku"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Mystery"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193242-0pIv8EQ3ijOA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193242-0pIv8EQ3ijOA.png",
-      "color": "#e4c9ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750690800
-        }
-      ]
-    }
   },
   {
     "id": 193607,
