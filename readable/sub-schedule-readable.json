@@ -1584,6 +1584,84 @@
     }
   },
   {
+    "id": 143200,
+    "idMal": 50694,
+    "title": {
+      "romaji": "Summer Pockets",
+      "english": "Summer Pockets",
+      "native": "Summer Pockets",
+      "userPreferred": "Summer Pockets"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143200-42OaDCS6VEy3.png",
+      "color": "#50bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143200-R0qpwS1C6b8i.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751293800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751898600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752503400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1753108200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753713000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754317800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754922600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755527400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1756132200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756737000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757341800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757946600
+        }
+      ]
+    }
+  },
+  {
     "id": 143598,
     "idMal": 49778,
     "title": {
@@ -3310,6 +3388,84 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 177476,
+    "idMal": 58812,
+    "title": {
+      "romaji": "Shin Samurai-den YAIBA",
+      "english": "YAIBA: Samurai Legend",
+      "native": "真･侍伝 YAIBA",
+      "userPreferred": "YAIBA: Samurai Legend"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177476-kduwwEfxcZtU.jpg",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751099400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1751704200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752309000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752913800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753518600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754123400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754728200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755333000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755937800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756542600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757147400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757752200
+        }
+      ]
+    }
   },
   {
     "id": 177633,
@@ -7343,10 +7499,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 36,
-          "airingAt": 1750719600
-        },
-        {
           "episode": 37,
           "airingAt": 1751324400
         },
@@ -8924,10 +9076,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1750716000
-        },
         {
           "episode": 10,
           "airingAt": 1751320800
