@@ -291,8 +291,9 @@
     "romaji": "Aru Majo ga Shinu Made",
     "english": "Once Upon a Witch's Death",
     "native": "ある魔女が死ぬまで",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-24T20:30:00Z",
+    "delayedUntil": "2025-07-01T20:30:00Z",
     "episodeDate": "2025-06-24T20:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -332,7 +333,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2025-07-01T20:30:00Z"
             }
           ]
