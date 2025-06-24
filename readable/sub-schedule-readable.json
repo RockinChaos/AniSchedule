@@ -2167,6 +2167,83 @@
     }
   },
   {
+    "id": 159483,
+    "idMal": 54028,
+    "title": {
+      "romaji": "Turkey!",
+      "english": "Turkey! Time to Strike",
+      "native": "Turkey!",
+      "userPreferred": "Turkey! Time to Strike"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-2N0YcB9cWl3V.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159483-2N0YcB9cWl3V.png",
+      "color": "#1aaed6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751992140
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752596940
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753201740
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753806540
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754411340
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755016140
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755620940
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756225740
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756830540
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757435340
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758040140
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758644940
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 161680,
     "idMal": 55003,
     "title": {
@@ -2881,38 +2958,6 @@
         {
           "episode": 2,
           "airingAt": 1752159600
-        }
-      ]
-    }
-  },
-  {
-    "id": 174802,
-    "idMal": 58131,
-    "title": {
-      "romaji": "Shiunji-ke no Kodomotachi",
-      "english": "The Shiunji Family Children",
-      "native": "紫雲寺家の子供たち",
-      "userPreferred": "The Shiunji Family Children"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174802-ILahIZlNWN3R.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174802-ILahIZlNWN3R.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174802-Fuvjhv3vKyOR.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750771800
         }
       ]
     }
@@ -3678,6 +3723,83 @@
         {
           "episode": 13,
           "airingAt": 1758373200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 177880,
+    "idMal": 58996,
+    "title": {
+      "romaji": "Osomatsu-san 4",
+      "english": null,
+      "native": "おそ松さん４",
+      "userPreferred": "Osomatsu-san 4"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-0TLsu8WXPaJy.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177880-0TLsu8WXPaJy.jpg",
+      "color": "#5078e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751986800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753196400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753801200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754406000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755010800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755615600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756220400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756825200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757430000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758034800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758639600
         }
       ]
     },
@@ -4478,6 +4600,79 @@
     }
   },
   {
+    "id": 179828,
+    "idMal": 59402,
+    "title": {
+      "romaji": "Kakkou no Iinazuke Season 2",
+      "english": "A Couple of Cuckoos Season 2",
+      "native": "カッコウの許嫁 Season2",
+      "userPreferred": "A Couple of Cuckoos Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-WTQtOfZwCWqO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179828-WTQtOfZwCWqO.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1751983200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752588000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753192800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753797600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754402400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755007200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755612000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756216800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756821600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757426400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758031200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179879,
     "idMal": 59421,
     "title": {
@@ -4975,39 +5170,6 @@
         {
           "episode": 13,
           "airingAt": 1751182200
-        }
-      ]
-    }
-  },
-  {
-    "id": 180675,
-    "idMal": 59675,
-    "title": {
-      "romaji": "Apocalypse Hotel",
-      "english": "Apocalypse Hotel",
-      "native": "アポカリプスホテル",
-      "userPreferred": "Apocalypse Hotel"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180675-YEwsxiMsnyvL.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180675-YEwsxiMsnyvL.png",
-      "color": "#e4c95d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750782840
         }
       ]
     }
@@ -6608,40 +6770,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185213,
-    "idMal": 60449,
-    "title": {
-      "romaji": "Kidou Senshi Gundam GQuuuuuuX",
-      "english": "Mobile Suit Gundam GQuuuuuuX",
-      "native": "機動戦士Gundam GQuuuuuuX",
-      "userPreferred": "Mobile Suit Gundam GQuuuuuuX"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185213-RKQN0qxKlqd6.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185213-RKQN0qxKlqd6.jpg",
-      "color": "#00ff0d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185213-btMTsXAx2y0A.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750778940
-        }
-      ]
-    }
   },
   {
     "id": 185407,
@@ -8903,10 +9031,10 @@
     "id": 188933,
     "idMal": 61539,
     "title": {
-      "romaji": "Princess Burst!",
+      "romaji": "Princess Burst!: Kiken-bi no Tanetsuke Haramase Shuuchi Battle!",
       "english": null,
-      "native": "プリンセスバースト！",
-      "userPreferred": "Princess Burst!"
+      "native": "プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～",
+      "userPreferred": "Princess Burst!: Kiken-bi no Tanetsuke Haramase Shuuchi Battle!"
     },
     "format": "OVA",
     "genres": [
@@ -8926,6 +9054,10 @@
         {
           "episode": 1,
           "airingAt": 1750950000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1758812400
         }
       ]
     },
