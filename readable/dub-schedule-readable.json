@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-06-25T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-07-02T17:00:00Z"
             }
           ]
         }
@@ -219,8 +219,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-06-25T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-07-02T17:00:00Z"
             }
           ]
         }
@@ -841,8 +841,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-06-25T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-07-02T17:00:00Z"
             }
           ]
         }
@@ -1267,7 +1267,7 @@
         "route": "tv-short"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 174654,
@@ -1302,6 +1302,10 @@
             {
               "episode": 2,
               "airingAt": "2025-06-25T17:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-07-02T17:00:00Z"
             }
           ]
         }
