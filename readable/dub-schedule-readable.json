@@ -1311,6 +1311,91 @@
     "addedAt": "2025-06-25T17:00:00Z"
   },
   {
+    "title": "Psycho-Pass 3",
+    "route": "psycho-pass-3",
+    "native": "PSYCHO-PASS サイコパス3",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-06-24T22:00:00Z",
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 8,
+    "lengthMin": 45,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 108307,
+        "idMal": 39491,
+        "title": {
+          "romaji": "PSYCHO-PASS 3",
+          "english": "PSYCHO-PASS 3",
+          "native": "PSYCHO-PASS サイコパス3",
+          "userPreferred": "PSYCHO-PASS 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "duration": 45,
+        "seasonYear": 2019,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108307-2vfdTNsxoS8H.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108307-2vfdTNsxoS8H.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108307-A5gEsxq66Nn9.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-06-24T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-25T01:03:02Z"
+  },
+  {
     "title": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
     "route": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
     "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
