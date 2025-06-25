@@ -2899,6 +2899,84 @@
     "unaired": true
   },
   {
+    "id": 173780,
+    "idMal": 57907,
+    "title": {
+      "romaji": "Tate no Yuusha no Nariagari Season 4",
+      "english": "The Rising of the Shield Hero Season 4",
+      "native": "盾の勇者の成り上がり Season 4",
+      "userPreferred": "The Rising of the Shield Hero Season 4"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173780-O7v1YfXg61JT.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173780-O7v1YfXg61JT.png",
+      "color": "#5078e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752062400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752667200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753272000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753876800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754481600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755086400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755691200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756296000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756900800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757505600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758110400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758715200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 174181,
     "idMal": 58122,
     "title": {
@@ -3064,8 +3142,44 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 30,
-          "airingAt": 1750849200
+          "episode": 31,
+          "airingAt": 1751454000
+        },
+        {
+          "episode": 32,
+          "airingAt": 1752058800
+        },
+        {
+          "episode": 33,
+          "airingAt": 1752663600
+        },
+        {
+          "episode": 34,
+          "airingAt": 1753268400
+        },
+        {
+          "episode": 35,
+          "airingAt": 1753873200
+        },
+        {
+          "episode": 36,
+          "airingAt": 1754478000
+        },
+        {
+          "episode": 37,
+          "airingAt": 1755082800
+        },
+        {
+          "episode": 38,
+          "airingAt": 1755687600
+        },
+        {
+          "episode": 39,
+          "airingAt": 1756292400
+        },
+        {
+          "episode": 40,
+          "airingAt": 1756897200
         }
       ]
     }
@@ -3536,10 +3650,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1750849140
-        },
         {
           "episode": 14,
           "airingAt": 1751453940
@@ -6013,37 +6123,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 184182,
-    "idMal": 60280,
-    "title": {
-      "romaji": "Zenryoku Usagi Season 2",
-      "english": null,
-      "native": "全力ウサギシーズン2",
-      "userPreferred": "Zenryoku Usagi Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 5,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184182-1VaS86GSiMOE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184182-1VaS86GSiMOE.png",
-      "color": "#f1bb50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750856160
-        }
-      ]
-    }
   },
   {
     "id": 184289,
@@ -9446,38 +9525,6 @@
         {
           "episode": 12,
           "airingAt": 1758322800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 192474,
-    "idMal": 61672,
-    "title": {
-      "romaji": "Shinsei Galverse",
-      "english": null,
-      "native": "新星ギャルバース",
-      "userPreferred": "Shinsei Galverse"
-    },
-    "format": "ONA",
-    "genres": [
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192474-4INGwDroNYKs.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192474-4INGwDroNYKs.jpg",
-      "color": "#865de4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750854600
         }
       ]
     },
