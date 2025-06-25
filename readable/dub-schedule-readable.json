@@ -727,8 +727,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-06-25T07:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-07-02T07:00:00Z"
             }
           ]
         }
@@ -2055,7 +2055,7 @@
         "route": "tv-short"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 19383,
@@ -2160,7 +2160,7 @@
         "route": "tv-short"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 20669,
