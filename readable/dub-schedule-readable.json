@@ -1396,6 +1396,73 @@
     "addedAt": "2025-06-25T01:03:02Z"
   },
   {
+    "title": "PSYCHO-PASS 3: First Inspector",
+    "route": "psycho-pass-3-first-inspector",
+    "romaji": "PSYCHO-PASS 3: FIRST INSPECTOR",
+    "english": "PSYCHO-PASS 3: First Inspector",
+    "native": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-06-24T22:00:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 3,
+    "lengthMin": 45,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 113917,
+        "idMal": 40858,
+        "title": {
+          "romaji": "PSYCHO-PASS 3: FIRST INSPECTOR",
+          "english": "PSYCHO-PASS 3: First Inspector",
+          "native": "PSYCHO-PASS サイコパス 3 FIRST INSPECTOR",
+          "userPreferred": "PSYCHO-PASS 3: First Inspector"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Psychological",
+          "Sci-Fi",
+          "Thriller"
+        ],
+        "duration": 45,
+        "seasonYear": 2020,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113917-lmW1flyIYU78.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113917-lmW1flyIYU78.png",
+          "color": "#f11a1a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113917-VeFrqlpwPvly.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-06-24T22:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-06-24T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-06-25T01:09:49Z"
+  },
+  {
     "title": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
     "route": "s-rank-monster-no-behemoth-dakedo-neko-to-machigawarete-elf-musume-no-pet-toshite-kurashitemasu",
     "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
