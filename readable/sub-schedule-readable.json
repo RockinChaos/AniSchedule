@@ -1391,39 +1391,6 @@
     }
   },
   {
-    "id": 139825,
-    "idMal": 49981,
-    "title": {
-      "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
-      "english": "Our Last Crusade or the Rise of a New World Season 2",
-      "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season II",
-      "userPreferred": "Our Last Crusade or the Rise of a New World Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139825-rFlrzdRZmlYK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx139825-rFlrzdRZmlYK.jpg",
-      "color": "#e47843"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/139825-skAduSjC86v6.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750937400
-        }
-      ]
-    }
-  },
-  {
     "id": 142229,
     "idMal": 51088,
     "title": {
@@ -3461,37 +3428,6 @@
     }
   },
   {
-    "id": 177120,
-    "idMal": 58725,
-    "title": {
-      "romaji": "Ninja to Koroshiya no Futarigurashi",
-      "english": "A Ninja and an Assassin Under One Roof",
-      "native": "忍者と殺し屋のふたりぐらし",
-      "userPreferred": "A Ninja and an Assassin Under One Roof"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177120-xRucIg2WDr77.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177120-xRucIg2WDr77.png",
-      "color": "#f1d65d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177120-AeL6hv0brH0l.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1750941000
-        }
-      ]
-    }
-  },
-  {
     "id": 177175,
     "idMal": 58749,
     "title": {
@@ -3922,6 +3858,40 @@
         {
           "episode": 12,
           "airingAt": 1758639600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 177887,
+    "idMal": 59005,
+    "title": {
+      "romaji": "Leviathan",
+      "english": "Leviathan",
+      "native": "リヴァイアサン",
+      "userPreferred": "Leviathan"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177887-CDAgIrZOQvZc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177887-CDAgIrZOQvZc.jpg",
+      "color": "#5da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177887-wGy2HdlQdS9G.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752130800
         }
       ]
     },
@@ -8970,10 +8940,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1750930200
-        },
-        {
           "episode": 15,
           "airingAt": 1751535000
         },
@@ -9529,37 +9495,6 @@
         {
           "episode": 10,
           "airingAt": 1751320800
-        }
-      ]
-    }
-  },
-  {
-    "id": 189716,
-    "idMal": 61379,
-    "title": {
-      "romaji": "Yurukawa Mell-chan",
-      "english": null,
-      "native": "ゆるかわメルちゃん",
-      "userPreferred": "Yurukawa Mell-chan"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189716-6r2f88YG3XNP.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b189716-6r2f88YG3XNP.png",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1750942440
         }
       ]
     }
