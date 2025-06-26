@@ -6791,6 +6791,84 @@
     "unaired": true
   },
   {
+    "id": 185070,
+    "idMal": 60401,
+    "title": {
+      "romaji": "Uchuujin MuuMuu",
+      "english": null,
+      "native": "宇宙人ムームー",
+      "userPreferred": "Uchuujin MuuMuu"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185070-VKzUA4B9kmaX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185070-VKzUA4B9kmaX.jpg",
+      "color": "#e4d65d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1751468400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1752073200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752678000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753887600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754492400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1755097200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755702000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1756306800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756911600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757516400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1758121200
+        }
+      ]
+    }
+  },
+  {
     "id": 185071,
     "idMal": 60993,
     "title": {
