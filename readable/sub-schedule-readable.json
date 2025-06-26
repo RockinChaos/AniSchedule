@@ -902,6 +902,41 @@
     }
   },
   {
+    "id": 21828,
+    "idMal": 32587,
+    "title": {
+      "romaji": "Shoujo Ramune",
+      "english": null,
+      "native": "小女ラムネ",
+      "userPreferred": "Shoujo Ramune"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 19,
+    "seasonYear": 2016,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21828-3KDKm3Zu2DyX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21828-3KDKm3Zu2DyX.jpg",
+      "color": "#50c9f1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21828-GXL6divKjKiN.png",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1752159600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1756998000
+        }
+      ]
+    }
+  },
+  {
     "id": 118123,
     "idMal": 44042,
     "title": {
@@ -1386,37 +1421,6 @@
         {
           "episode": 12,
           "airingAt": 1755478800
-        }
-      ]
-    }
-  },
-  {
-    "id": 142229,
-    "idMal": 51088,
-    "title": {
-      "romaji": "Eroriman",
-      "english": null,
-      "native": "エロリーマン",
-      "userPreferred": "Eroriman"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 24,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142229-ux7lcdcfJhN1.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142229-ux7lcdcfJhN1.jpg",
-      "color": "#d6501a"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1750950000
         }
       ]
     }
@@ -4816,38 +4820,6 @@
     "unaired": true
   },
   {
-    "id": 179694,
-    "idMal": 59360,
-    "title": {
-      "romaji": "Rock wa Lady no Tashinami Deshite",
-      "english": "Rock is a Lady’s Modesty",
-      "native": "ロックは淑女の嗜みでして",
-      "userPreferred": "Rock is a Lady’s Modesty"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-7zhc0T6IImor.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179694-7zhc0T6IImor.jpg",
-      "color": "#e45d50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1750949760
-        }
-      ]
-    }
-  },
-  {
     "id": 179828,
     "idMal": 59402,
     "title": {
@@ -5423,37 +5395,6 @@
     }
   },
   {
-    "id": 180704,
-    "idMal": 59706,
-    "title": {
-      "romaji": "Elf ni Inmon wo Tsukeru Hon The Animation",
-      "english": null,
-      "native": "エルフに淫紋を付ける本 The Animation",
-      "userPreferred": "Elf ni Inmon wo Tsukeru Hon The Animation"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180704-ptQ5F6nRh6IZ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180704-ptQ5F6nRh6IZ.png",
-      "color": "#5de4bb"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1750950000
-        }
-      ]
-    }
-  },
-  {
     "id": 180794,
     "idMal": 59689,
     "title": {
@@ -5714,74 +5655,6 @@
         {
           "episode": 12,
           "airingAt": 1758382200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 181449,
-    "idMal": 59848,
-    "title": {
-      "romaji": "Virgin Punk",
-      "english": null,
-      "native": "ヴァージン・パンク",
-      "userPreferred": "Virgin Punk"
-    },
-    "format": null,
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181449-OciICz3Pgl29.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181449-OciICz3Pgl29.jpg",
-      "color": "#4393e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 181839,
-    "idMal": 59897,
-    "title": {
-      "romaji": "Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu",
-      "english": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
-      "native": "小林さんちのメイドラゴン さみしがりやの竜",
-      "userPreferred": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 105,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181839-pgM02tCNM2ae.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181839-pgM02tCNM2ae.png",
-      "color": "#50a1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
         }
       ]
     },
@@ -6728,39 +6601,6 @@
     }
   },
   {
-    "id": 184756,
-    "idMal": 61120,
-    "title": {
-      "romaji": "KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours",
-      "english": null,
-      "native": "KING OF PRISM-Your Endless Call-み～んなきらめけ！プリズム☆ツアーズ",
-      "userPreferred": "KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Music",
-      "Sports"
-    ],
-    "duration": 60,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184756-ef85Z2D47G1C.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184756-ef85Z2D47G1C.jpg",
-      "color": "#00c9f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 185070,
     "idMal": 60401,
     "title": {
@@ -6837,38 +6677,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 185071,
-    "idMal": 60993,
-    "title": {
-      "romaji": "Moto Kare to wa Dekinakatta Sex Shite mo Ii Desu ka?",
-      "english": null,
-      "native": "元カレとはできなかったセックスしてもいいですか?",
-      "userPreferred": "Moto Kare to wa Dekinakatta Sex Shite mo Ii Desu ka?"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 30,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185071-lb95ZFqYyGut.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185071-lb95ZFqYyGut.png",
-      "color": "#ffbb35"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 185073,
@@ -6999,38 +6807,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 185084,
-    "idMal": 60408,
-    "title": {
-      "romaji": "LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku",
-      "english": "LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline",
-      "native": "LUPIN THE IIIRD THE MOVIE 不死身の血族",
-      "userPreferred": "LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185084-tGOzBUQZe6aT.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185084-tGOzBUQZe6aT.jpg",
-      "color": "#f1ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185084-ajmkuKKObp3B.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 185407,
@@ -7831,37 +7607,6 @@
     }
   },
   {
-    "id": 185779,
-    "idMal": 61353,
-    "title": {
-      "romaji": "Hametsu no Yuuwaku",
-      "english": null,
-      "native": "ハメツの誘惑",
-      "userPreferred": "Hametsu no Yuuwaku"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185779-uzQoDrD3Sy6r.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185779-uzQoDrD3Sy6r.png",
-      "color": "#0d6bbb"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1750950000
-        }
-      ]
-    }
-  },
-  {
     "id": 185794,
     "idMal": 59915,
     "title": {
@@ -7969,6 +7714,82 @@
         }
       ]
     }
+  },
+  {
+    "id": 185965,
+    "idMal": 60665,
+    "title": {
+      "romaji": "Futari Solo Camp",
+      "english": "Solo Camping for Two",
+      "native": "ふたりソロキャンプ",
+      "userPreferred": "Solo Camping for Two"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185965-LlzTLSTBUbEA.jpg",
+      "color": "#e4a11a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185965-9YtD3BC30w26.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752161400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752766200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753371000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753975800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754580600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755185400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755790200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756395000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756999800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757604600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758209400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758814200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186003,
@@ -8244,10 +8065,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1750957080
-        },
-        {
           "episode": 14,
           "airingAt": 1751561880
         },
@@ -8329,10 +8146,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1750953240
-        },
-        {
           "episode": 14,
           "airingAt": 1751558040
         },
@@ -8378,39 +8191,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 186542,
-    "idMal": 60962,
-    "title": {
-      "romaji": "Soreike! Anpanman: Chapon no Hero!",
-      "english": null,
-      "native": "それいけ！アンパンマン チャポンのヒーロー！",
-      "userPreferred": "Soreike! Anpanman: Chapon no Hero!"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186542-m9q64FHGRQXs.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186542-m9q64FHGRQXs.png",
-      "color": "#ffbb00"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 186561,
@@ -8655,39 +8435,6 @@
         {
           "episode": 2,
           "airingAt": 1752764400
-        }
-      ]
-    }
-  },
-  {
-    "id": 187998,
-    "idMal": 61206,
-    "title": {
-      "romaji": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)",
-      "english": null,
-      "native": "おいでよ魔法少女村（不法占拠）",
-      "userPreferred": "Oideyo Mahou Shoujo-mura (Fuhou Senkyo)"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Mahou Shoujo",
-      "Supernatural"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187998-eWArrPyKvfw8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187998-eWArrPyKvfw8.jpg",
-      "color": "#e4bb43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1750961760
         }
       ]
     }
@@ -9301,16 +9048,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1750950000
-        },
-        {
           "episode": 2,
           "airingAt": 1758812400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 189069,
@@ -9342,6 +9084,85 @@
         {
           "episode": 1,
           "airingAt": 1751547240
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 189117,
+    "idMal": 61322,
+    "title": {
+      "romaji": "Dr.STONE SCIENCE FUTURE Part 2",
+      "english": "Dr. STONE SCIENCE FUTURE Cour 2",
+      "native": "Dr.STONE SCIENCE FUTURE 2クール",
+      "userPreferred": "Dr. STONE SCIENCE FUTURE Cour 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-EJQHOFjLoK2k.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189117-EJQHOFjLoK2k.png",
+      "color": "#f1931a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752152400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752757200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753362000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753966800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754571600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755176400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755781200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756386000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756990800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757595600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758200400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758805200
         }
       ]
     },
@@ -9534,70 +9355,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 191491,
-    "idMal": 61627,
-    "title": {
-      "romaji": "Tonari no Kanojo",
-      "english": null,
-      "native": "トナリノカノジョ",
-      "userPreferred": "Tonari no Kanojo"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 16,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191491-MMcTCb01bWb6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191491-MMcTCb01bWb6.png",
-      "color": "#e40d0d"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191491-6jEMypXP5InL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 191492,
-    "idMal": 61628,
-    "title": {
-      "romaji": "Yogoreta Kanojo",
-      "english": null,
-      "native": "ヨゴレタカノジョ",
-      "userPreferred": "Yogoreta Kanojo"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 16,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191492-EgmRSCxwLYSq.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191492-EgmRSCxwLYSq.png",
-      "color": "#d61a1a"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191492-D67ycNzOrq1C.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1750950000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 191994,
