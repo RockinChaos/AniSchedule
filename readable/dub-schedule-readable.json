@@ -627,8 +627,9 @@
     "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
     "english": "The Brilliant Healer's New Life in the Shadows",
     "native": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる",
-    "delayedFrom": "0001-01-01T19:00:00Z",
-    "delayedUntil": "0001-01-01T19:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-26T19:00:00Z",
+    "delayedUntil": "2025-07-03T19:00:00Z",
     "episodeDate": "2025-06-26T19:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
@@ -668,7 +669,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2025-07-03T19:00:00Z"
             }
           ]
@@ -857,8 +858,9 @@
     "romaji": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II",
     "english": "Our Last Crusade or the Rise of a New World Season 2",
     "native": "キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ",
-    "delayedFrom": "2024-08-22T21:30:00Z",
-    "delayedUntil": "2025-05-22T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-26T21:30:00Z",
+    "delayedUntil": "2025-07-03T21:30:00Z",
     "episodeDate": "2025-06-26T21:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -899,7 +901,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-06-26T21:30:00Z"
+              "airingAt": "2025-07-03T21:30:00Z"
             }
           ]
         }
@@ -1930,8 +1932,9 @@
   {
     "title": "WIND BREAKER Season 2",
     "route": "wind-breaker-season-2",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-06-26T21:00:00Z",
+    "delayedUntil": "2025-07-03T21:00:00Z",
     "episodeDate": "2025-06-26T21:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
@@ -1971,7 +1974,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2025-07-03T21:00:00Z"
             }
           ]
