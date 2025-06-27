@@ -1046,10 +1046,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 163,
-          "airingAt": 1751017200
-        },
-        {
           "episode": 164,
           "airingAt": 1751622000
         },
@@ -1144,6 +1140,10 @@
         {
           "episode": 187,
           "airingAt": 1765532400
+        },
+        {
+          "episode": 188,
+          "airingAt": 1766137200
         }
       ]
     }
@@ -2110,10 +2110,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 101,
-          "airingAt": 1751018100
-        },
-        {
           "episode": 102,
           "airingAt": 1751622900
         },
@@ -2208,6 +2204,10 @@
         {
           "episode": 125,
           "airingAt": 1765533300
+        },
+        {
+          "episode": 126,
+          "airingAt": 1766138100
         }
       ]
     }
@@ -2347,10 +2347,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 87,
-          "airingAt": 1751016300
-        },
         {
           "episode": 88,
           "airingAt": 1751621100
@@ -7613,38 +7609,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185778,
-    "idMal": 60200,
-    "title": {
-      "romaji": "Terra Live",
-      "english": "U Takes Terra",
-      "native": "テラライブ",
-      "userPreferred": "U Takes Terra"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 7,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185778-Zl01zbfShlCc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185778-Zl01zbfShlCc.jpg",
-      "color": "#f1d635"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1751025600
-        }
-      ]
-    }
   },
   {
     "id": 185794,
