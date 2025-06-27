@@ -3381,44 +3381,8 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1751032800
-        },
-        {
           "episode": 24,
           "airingAt": 1751637600
-        }
-      ]
-    }
-  },
-  {
-    "id": 176702,
-    "idMal": 58614,
-    "title": {
-      "romaji": "Teogonia",
-      "english": "Teogonia",
-      "native": "神統記",
-      "userPreferred": "Teogonia"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176702-sD5AnHf8g4zi.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176702-sD5AnHf8g4zi.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1751038200
         }
       ]
     }
@@ -3487,6 +3451,84 @@
         {
           "episode": 10,
           "airingAt": 1757082600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 177474,
+    "idMal": 58811,
+    "title": {
+      "romaji": "Tougen Anki",
+      "english": "Tougen Anki: Legend of the Cursed Blood",
+      "native": "桃源暗鬼",
+      "userPreferred": "Tougen Anki: Legend of the Cursed Blood"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-PaLG685VJsq5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177474-PaLG685VJsq5.jpg",
+      "color": "#ff5d1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752242400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752847200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753452000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1754056800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754661600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755266400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755871200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756476000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1757080800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757685600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758290400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758895200
         }
       ]
     },
@@ -6871,10 +6913,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751036400
-        },
-        {
           "episode": 2,
           "airingAt": 1751641200
         },
@@ -6895,8 +6933,7 @@
           "airingAt": 1754060400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185505,
@@ -7128,10 +7165,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751040780
-        },
         {
           "episode": 14,
           "airingAt": 1751645580
