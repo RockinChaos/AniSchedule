@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1704,
-          "airingAt": 1750989300
-        },
-        {
           "episode": 1705,
           "airingAt": 1751594100
         },
@@ -513,6 +509,10 @@
         {
           "episode": 1728,
           "airingAt": 1765504500
+        },
+        {
+          "episode": 1729,
+          "airingAt": 1766109300
         }
       ]
     }
@@ -670,10 +670,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 610,
-          "airingAt": 1750975800
-        },
-        {
           "episode": 611,
           "airingAt": 1751580600
         },
@@ -768,6 +764,10 @@
         {
           "episode": 634,
           "airingAt": 1765491000
+        },
+        {
+          "episode": 635,
+          "airingAt": 1766095800
         }
       ]
     }
@@ -1203,10 +1203,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1750989600
-        },
         {
           "episode": 7,
           "airingAt": 1751594400
@@ -3704,6 +3700,50 @@
         {
           "episode": 1,
           "airingAt": 1751730960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752335760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752940560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753545360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754150160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754754960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755359760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755964560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756569360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757174160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757778960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758383760
         }
       ]
     },
@@ -8973,10 +9013,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1750977000
-        },
-        {
           "episode": 14,
           "airingAt": 1751581800
         },
@@ -9443,7 +9479,7 @@
       "native": "学校では教えてくれない大切なこと",
       "userPreferred": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Comedy",
       "Slice of Life"
