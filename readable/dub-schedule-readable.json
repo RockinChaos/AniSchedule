@@ -292,8 +292,8 @@
     "english": "Once Upon a Witch's Death",
     "native": "ある魔女が死ぬまで",
     "delayedText": "Delayed",
-    "delayedFrom": "2025-06-24T20:30:00Z",
-    "delayedUntil": "2025-07-01T20:30:00Z",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
     "episodeDate": "2025-06-24T20:30:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -333,7 +333,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 11,
               "airingAt": "2025-07-01T20:30:00Z"
             }
           ]
