@@ -1448,10 +1448,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 173,
-          "airingAt": 1751063400
-        },
-        {
           "episode": 174,
           "airingAt": 1751668200
         },
@@ -1546,6 +1542,10 @@
         {
           "episode": 197,
           "airingAt": 1765578600
+        },
+        {
+          "episode": 198,
+          "airingAt": 1766183400
         }
       ]
     }
@@ -6214,37 +6214,6 @@
     "unaired": true
   },
   {
-    "id": 184289,
-    "idMal": 60070,
-    "title": {
-      "romaji": "Kaijuu Sekai Seifuku",
-      "english": null,
-      "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijuu Sekai Seifuku"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751061600
-        }
-      ]
-    }
-  },
-  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -7371,37 +7340,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185715,
-    "idMal": 60612,
-    "title": {
-      "romaji": "SHIBUYA♡HACHI 2nd Season",
-      "english": null,
-      "native": "SHIBUYA♡HACHI 第2期",
-      "userPreferred": "SHIBUYA♡HACHI 2nd Season"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185715-S5OtxSJTo5k1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185715-S5OtxSJTo5k1.png",
-      "color": "#1aaef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751061600
-        }
-      ]
-    }
   },
   {
     "id": 185718,
