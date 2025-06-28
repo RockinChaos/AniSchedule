@@ -1704,6 +1704,14 @@
         {
           "episode": 24,
           "airingAt": 1757946600
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758551400
+        },
+        {
+          "episode": 26,
+          "airingAt": 1759156200
         }
       ]
     }
@@ -2746,10 +2754,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751128200
-        },
-        {
           "episode": 2,
           "airingAt": 1751733000
         },
@@ -2794,8 +2798,7 @@
           "airingAt": 1757781000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 171046,
@@ -3399,38 +3402,6 @@
         {
           "episode": 51,
           "airingAt": 1759118400
-        }
-      ]
-    }
-  },
-  {
-    "id": 176246,
-    "idMal": 58492,
-    "title": {
-      "romaji": "mono",
-      "english": "mono",
-      "native": "mono",
-      "userPreferred": "mono"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176246-ndH8bKh7cmzf.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176246-ndH8bKh7cmzf.jpg",
-      "color": "#50bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176246-Cnm6EqDLxEN3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1751122800
         }
       ]
     }
@@ -4564,37 +4535,6 @@
     }
   },
   {
-    "id": 178825,
-    "idMal": 59199,
-    "title": {
-      "romaji": "CLASSIC★STARS",
-      "english": "Classic★Stars",
-      "native": "クラシック★スターズ",
-      "userPreferred": "Classic★Stars"
-    },
-    "format": "TV",
-    "genres": [
-      "Music"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178825-F4StA5BbfN9H.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178825-F4StA5BbfN9H.png",
-      "color": "#e45d6b"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751126400
-        }
-      ]
-    }
-  },
-  {
     "id": 178869,
     "idMal": 59205,
     "title": {
@@ -4748,41 +4688,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 179054,
-    "idMal": 59228,
-    "title": {
-      "romaji": "Kuroshitsuji: Midori no Majo-hen",
-      "english": "Black Butler: Emerald Witch Arc",
-      "native": "黒執事 -緑の魔女編-",
-      "userPreferred": "Black Butler: Emerald Witch Arc"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179054-HmN0Za4T157B.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179054-HmN0Za4T157B.jpg",
-      "color": "#f1f1c9"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179054-h88Gux77VioM.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751121000
-        }
-      ]
-    }
   },
   {
     "id": 179344,
@@ -5626,40 +5531,6 @@
     "unaired": true
   },
   {
-    "id": 180812,
-    "idMal": 59730,
-    "title": {
-      "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
-      "english": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
-      "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。",
-      "userPreferred": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180812-162w2RBaqJzE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180812-162w2RBaqJzE.jpg",
-      "color": "#5028a1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1751126100
-        }
-      ]
-    }
-  },
-  {
     "id": 180929,
     "idMal": 59791,
     "title": {
@@ -6095,41 +5966,6 @@
     "unaired": true
   },
   {
-    "id": 182814,
-    "idMal": 60083,
-    "title": {
-      "romaji": "Kowloon Generic Romance",
-      "english": "KOWLOON GENERIC ROMANCE",
-      "native": "九龍ジェネリックロマンス",
-      "userPreferred": "KOWLOON GENERIC ROMANCE"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Romance",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182814-UTKRUUm7Jah5.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182814-UTKRUUm7Jah5.jpg",
-      "color": "#6baee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182814-EdVCOqd78Thb.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751119200
-        }
-      ]
-    }
-  },
-  {
     "id": 183473,
     "idMal": 60080,
     "title": {
@@ -6284,6 +6120,81 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 184289,
+    "idMal": 60070,
+    "title": {
+      "romaji": "Kaijuu Sekai Seifuku",
+      "english": null,
+      "native": "かいじゅうせかいせいふく",
+      "userPreferred": "Kaijuu Sekai Seifuku"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
+      "color": "#5da1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 14,
+          "airingAt": 1751666400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1752271200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752876000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753480800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1754085600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754690400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755295200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755900000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756504800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757109600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757714400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1758319200
+        }
+      ]
+    }
   },
   {
     "id": 184470,
@@ -7722,38 +7633,6 @@
         {
           "episode": 48,
           "airingAt": 1757977200
-        }
-      ]
-    }
-  },
-  {
-    "id": 185939,
-    "idMal": 60658,
-    "title": {
-      "romaji": "Hibi wa Sugiredo Meshi Umashi",
-      "english": "Food for the Soul",
-      "native": "日々は過ぎれど飯うまし",
-      "userPreferred": "Food for the Soul"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185939-hqt1He153el8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185939-hqt1He153el8.jpg",
-      "color": "#f1ae1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185939-Y5l2gV2g1y3p.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1751124600
         }
       ]
     }
