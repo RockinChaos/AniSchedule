@@ -131,136 +131,6 @@
     }
   },
   {
-    "id": 235,
-    "idMal": 235,
-    "title": {
-      "romaji": "Meitantei Conan",
-      "english": "Case Closed",
-      "native": "名探偵コナン",
-      "userPreferred": "Case Closed"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Mystery",
-      "Psychological"
-    ],
-    "duration": 25,
-    "seasonYear": 1996,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg",
-      "color": "#28a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1168,
-          "airingAt": 1751706000
-        },
-        {
-          "episode": 1169,
-          "airingAt": 1752310800
-        },
-        {
-          "episode": 1170,
-          "airingAt": 1752915600
-        },
-        {
-          "episode": 1171,
-          "airingAt": 1753520400
-        },
-        {
-          "episode": 1172,
-          "airingAt": 1754125200
-        },
-        {
-          "episode": 1173,
-          "airingAt": 1754730000
-        },
-        {
-          "episode": 1174,
-          "airingAt": 1755334800
-        },
-        {
-          "episode": 1175,
-          "airingAt": 1755939600
-        },
-        {
-          "episode": 1176,
-          "airingAt": 1756544400
-        },
-        {
-          "episode": 1177,
-          "airingAt": 1757149200
-        },
-        {
-          "episode": 1178,
-          "airingAt": 1757754000
-        },
-        {
-          "episode": 1179,
-          "airingAt": 1758358800
-        },
-        {
-          "episode": 1180,
-          "airingAt": 1758963600
-        },
-        {
-          "episode": 1181,
-          "airingAt": 1759568400
-        },
-        {
-          "episode": 1182,
-          "airingAt": 1760173200
-        },
-        {
-          "episode": 1183,
-          "airingAt": 1760778000
-        },
-        {
-          "episode": 1184,
-          "airingAt": 1761382800
-        },
-        {
-          "episode": 1185,
-          "airingAt": 1761987600
-        },
-        {
-          "episode": 1186,
-          "airingAt": 1762592400
-        },
-        {
-          "episode": 1187,
-          "airingAt": 1763197200
-        },
-        {
-          "episode": 1188,
-          "airingAt": 1763802000
-        },
-        {
-          "episode": 1189,
-          "airingAt": 1764406800
-        },
-        {
-          "episode": 1190,
-          "airingAt": 1765011600
-        },
-        {
-          "episode": 1191,
-          "airingAt": 1765616400
-        },
-        {
-          "episode": 1192,
-          "airingAt": 1766221200
-        }
-      ]
-    }
-  },
-  {
     "id": 966,
     "idMal": 966,
     "title": {
@@ -2084,10 +1954,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751157000
-        },
-        {
           "episode": 14,
           "airingAt": 1751761800
         }
@@ -2548,10 +2414,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 48,
-          "airingAt": 1751155200
-        },
         {
           "episode": 49,
           "airingAt": 1751760000
@@ -6222,10 +6084,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751157000
-        },
-        {
           "episode": 14,
           "airingAt": 1751761800
         },
@@ -6320,6 +6178,10 @@
         {
           "episode": 37,
           "airingAt": 1765672200
+        },
+        {
+          "episode": 38,
+          "airingAt": 1766277000
         }
       ]
     }
@@ -6732,10 +6594,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1751153400
-        },
-        {
           "episode": 22,
           "airingAt": 1751758200
         },
@@ -6830,6 +6688,10 @@
         {
           "episode": 45,
           "airingAt": 1765668600
+        },
+        {
+          "episode": 46,
+          "airingAt": 1766273400
         }
       ]
     }
@@ -7185,10 +7047,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751153280
-        },
-        {
           "episode": 14,
           "airingAt": 1751758080
         },
@@ -7345,10 +7203,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751148960
-        },
-        {
           "episode": 14,
           "airingAt": 1751753760
         },
@@ -7443,6 +7297,10 @@
         {
           "episode": 37,
           "airingAt": 1765664160
+        },
+        {
+          "episode": 38,
+          "airingAt": 1766268960
         }
       ]
     }
@@ -8812,10 +8670,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751153400
-        },
-        {
           "episode": 14,
           "airingAt": 1751758200
         },
@@ -9610,6 +9464,83 @@
         {
           "episode": 25,
           "airingAt": 1765922760
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 195209,
+    "idMal": 59961,
+    "title": {
+      "romaji": "Kizu darake Seijo yori Houfuku wo Komete",
+      "english": null,
+      "native": "傷だらけ聖女より報復をこめて",
+      "userPreferred": "Kizu darake Seijo yori Houfuku wo Komete"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 13,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195209-IwHhCJUcmoK0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b195209-IwHhCJUcmoK0.jpg",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752075000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752679800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753284600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753889400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754494200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755099000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755703800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756308600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756913400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757518200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758123000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758727800
         }
       ]
     },
