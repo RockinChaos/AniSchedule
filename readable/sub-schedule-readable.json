@@ -413,10 +413,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2786,
-          "airingAt": 1751189400
-        },
-        {
           "episode": 2787,
           "airingAt": 1751794200
         },
@@ -511,6 +507,10 @@
         {
           "episode": 2810,
           "airingAt": 1765704600
+        },
+        {
+          "episode": 2811,
+          "airingAt": 1766309400
         }
       ]
     }
@@ -832,10 +832,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 320,
-          "airingAt": 1751187600
-        },
         {
           "episode": 321,
           "airingAt": 1751792400
@@ -3444,46 +3440,42 @@
       "nodes": [
         {
           "episode": 14,
-          "airingAt": 1751704200
-        },
-        {
-          "episode": 15,
           "airingAt": 1752309000
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1752913800
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1753518600
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1754123400
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1754728200
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1755333000
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1755937800
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1756542600
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1757147400
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1757752200
         }
       ]
@@ -4597,39 +4589,6 @@
     "unaired": true
   },
   {
-    "id": 179541,
-    "idMal": 59322,
-    "title": {
-      "romaji": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
-      "english": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life",
-      "native": "白豚貴族ですが前世の記憶が生えたので ひよこな弟育てます",
-      "userPreferred": "SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179541-lZwENMAHZS9Y.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179541-lZwENMAHZS9Y.jpg",
-      "color": "#93e450"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1751193000
-        }
-      ]
-    }
-  },
-  {
     "id": 179678,
     "idMal": 59342,
     "title": {
@@ -5043,10 +5002,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751184000
-        },
-        {
           "episode": 14,
           "airingAt": 1751788800
         },
@@ -5250,38 +5205,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 180516,
-    "idMal": 59636,
-    "title": {
-      "romaji": "Uma Musume: Cinderella Gray",
-      "english": "Umamusume: Cinderella Gray",
-      "native": "ウマ娘 シンデレラグレイ",
-      "userPreferred": "Umamusume: Cinderella Gray"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180516-lebpoKLkw6E3.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180516-lebpoKLkw6E3.jpg",
-      "color": "#1aa1d6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180516-qxKVBsTW6Czx.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751182200
-        }
-      ]
-    }
   },
   {
     "id": 180794,
