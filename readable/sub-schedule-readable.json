@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1134,
-          "airingAt": 1751206560
-        },
-        {
           "episode": 1135,
           "airingAt": 1751811360
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1158,
           "airingAt": 1765721760
+        },
+        {
+          "episode": 1159,
+          "airingAt": 1766326560
         }
       ]
     }
@@ -2179,9 +2179,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-2N0YcB9cWl3V.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159483-2N0YcB9cWl3V.png",
-      "color": "#1aaed6"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-1XWq8G12JuJk.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159483-1XWq8G12JuJk.jpg",
+      "color": "#5dbbe4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -2568,7 +2568,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170113-fq1NyxPRvLKc.jpg",
@@ -4323,40 +4323,6 @@
     "unaired": true
   },
   {
-    "id": 178781,
-    "idMal": 59189,
-    "title": {
-      "romaji": "Sentai Daishikkaku 2nd Season",
-      "english": "Go! Go! Loser Ranger! Season 2",
-      "native": "戦隊大失格 2nd season",
-      "userPreferred": "Go! Go! Loser Ranger! Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178781-pbk5FgfiAJxS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178781-pbk5FgfiAJxS.jpg",
-      "color": "#35a1ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1751207400
-        }
-      ]
-    }
-  },
-  {
     "id": 178869,
     "idMal": 59205,
     "title": {
@@ -4684,8 +4650,8 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-WTQtOfZwCWqO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179828-WTQtOfZwCWqO.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-Yc1b1R2dxQyc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179828-Yc1b1R2dxQyc.jpg",
       "color": null
     },
     "isAdult": false,
@@ -6650,9 +6616,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-NztyWobNp2nm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185505-NztyWobNp2nm.jpg",
-      "color": "#4335e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-l2ZcSDvdzhd8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185505-l2ZcSDvdzhd8.jpg",
+      "color": "#c943f1"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
@@ -7959,9 +7925,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186789-40kriALlmxYQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186789-40kriALlmxYQ.jpg",
-      "color": "#e4d60d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186789-MNl0ZBiRzDqY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186789-MNl0ZBiRzDqY.jpg",
+      "color": "#fef150"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8215,9 +8181,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188138-hp3DHDXFICSt.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188138-hp3DHDXFICSt.png",
-      "color": "#f1c943"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188138-uflx1ZZo5XsE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188138-uflx1ZZo5XsE.jpg",
+      "color": "#e4c95d"
     },
     "isAdult": false,
     "bannerImage": null,
