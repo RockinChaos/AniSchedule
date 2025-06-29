@@ -1789,9 +1789,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-MlTZcWTVVgOf.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154768-MlTZcWTVVgOf.jpg",
-      "color": null
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-DHHvNd4MjV1p.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154768-DHHvNd4MjV1p.jpg",
+      "color": "#e4a15d"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154768-EuZd63IcqsVq.jpg",
@@ -2352,38 +2352,6 @@
         {
           "episode": 100,
           "airingAt": 1758878700
-        }
-      ]
-    }
-  },
-  {
-    "id": 167336,
-    "idMal": 56038,
-    "title": {
-      "romaji": "Lazarus",
-      "english": "LAZARUS",
-      "native": "ラザロ",
-      "userPreferred": "LAZARUS"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167336-KpGIIBie71OX.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167336-KpGIIBie71OX.png",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167336-IzjrGm2QpTie.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751169600
         }
       ]
     }
