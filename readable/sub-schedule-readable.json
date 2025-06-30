@@ -1520,10 +1520,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751293800
-        },
-        {
           "episode": 14,
           "airingAt": 1751898600
         },
@@ -4486,9 +4482,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-bKIcCKDWDJdO.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179344-bKIcCKDWDJdO.png",
-      "color": "#5dbbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179344-GQzJfehpQI72.png",
+      "color": "#28c9f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5833,6 +5829,39 @@
     "unaired": true
   },
   {
+    "id": 184237,
+    "idMal": 60285,
+    "title": {
+      "romaji": "SAKAMOTO DAYS Part 2",
+      "english": "SAKAMOTO DAYS Part 2",
+      "native": "SAKAMOTO DAYS 第２クール",
+      "userPreferred": "SAKAMOTO DAYS Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184237-OJAksU2fsIPx.jpg",
+      "color": "#e4c943"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184237-SBj6UJvIWAOg.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752505200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 184289,
     "idMal": 60070,
     "title": {
@@ -7150,40 +7179,6 @@
         {
           "episode": 38,
           "airingAt": 1766268960
-        }
-      ]
-    }
-  },
-  {
-    "id": 185736,
-    "idMal": 60593,
-    "title": {
-      "romaji": "Vigilante: Boku no Hero Academia ILLEGALS",
-      "english": "My Hero Academia: Vigilantes",
-      "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-",
-      "userPreferred": "My Hero Academia: Vigilantes"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185736-Ci6AiGwjKKtp.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185736-Ci6AiGwjKKtp.jpg",
-      "color": "#50d6e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185736-Ick7OABzBWoi.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751292000
         }
       ]
     }
