@@ -1698,9 +1698,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151799-wJNEn8N7mEcQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151799-wJNEn8N7mEcQ.jpg",
-      "color": "#35e4f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151799-igwbH3AffgHc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151799-igwbH3AffgHc.jpg",
+      "color": "#35e4e4"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151799-WsBD1zyaha5p.jpg",
@@ -3339,8 +3339,8 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-PaLG685VJsq5.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177474-PaLG685VJsq5.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177474-oHil1yLWldfl.jpg",
       "color": "#ff5d1a"
     },
     "isAdult": false,
@@ -4405,9 +4405,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-Q79QMeGQAJL7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178886-Q79QMeGQAJL7.jpg",
-      "color": "#e47843"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-KjzSXyEB61zX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178886-KjzSXyEB61zX.jpg",
+      "color": "#f19343"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -4866,9 +4866,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179966-6F47bE8oY4q8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179966-6F47bE8oY4q8.jpg",
-      "color": "#bbe450"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179966-g0EU7rVe2Og7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179966-g0EU7rVe2Og7.jpg",
+      "color": "#e4c9ae"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179966-hf71VrF1zhPM.jpg",
@@ -5409,9 +5409,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-xg2brEzNHvjU.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181841-xg2brEzNHvjU.png",
-      "color": "#e4ae43"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-9TcjIyZefot2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181841-9TcjIyZefot2.jpg",
+      "color": "#0d93e4"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181841-aegccbKnNjxK.jpg",
@@ -5612,9 +5612,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-jJs8sdFmfv5q.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182309-jJs8sdFmfv5q.jpg",
-      "color": "#50bbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-tThxqSRn3At1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182309-tThxqSRn3At1.jpg",
+      "color": "#0da1fe"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -7289,10 +7289,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 37,
-          "airingAt": 1751324400
-        },
-        {
           "episode": 38,
           "airingAt": 1751929200
         },
@@ -8900,38 +8896,6 @@
         {
           "episode": 6,
           "airingAt": 1756893600
-        }
-      ]
-    }
-  },
-  {
-    "id": 189602,
-    "idMal": 61363,
-    "title": {
-      "romaji": "YouTuNya 3",
-      "english": null,
-      "native": "ユーチューニャー 第3期 ",
-      "userPreferred": "YouTuNya 3"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189602-LVMPUosYYjAW.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189602-LVMPUosYYjAW.png",
-      "color": "#3586e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1751320800
         }
       ]
     }
