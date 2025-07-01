@@ -3979,9 +3979,9 @@
     "idMal": 58996,
     "title": {
       "romaji": "Osomatsu-san 4",
-      "english": null,
+      "english": "Mr. Osomatsu 4th Season",
       "native": "おそ松さん４",
-      "userPreferred": "Osomatsu-san 4"
+      "userPreferred": "Mr. Osomatsu 4th Season"
     },
     "format": "TV",
     "genres": [
@@ -4840,7 +4840,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
@@ -4851,10 +4851,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751374800
-        },
         {
           "episode": 2,
           "airingAt": 1751979600
@@ -4900,8 +4896,7 @@
           "airingAt": 1758027600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179678,
@@ -5458,7 +5453,7 @@
       "Comedy",
       "Mystery"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180460-rZn4pp9YNqW0.jpg",
@@ -5469,10 +5464,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180460-Id13IZ4FSBuf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751380200
-        },
         {
           "episode": 2,
           "airingAt": 1751985000
@@ -5518,8 +5509,7 @@
           "airingAt": 1758033000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180794,
@@ -7100,7 +7090,7 @@
     },
     "format": "TV",
     "genres": [],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-l2ZcSDvdzhd8.jpg",
@@ -7111,10 +7101,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751380200
-        },
         {
           "episode": 2,
           "airingAt": 1751985000
@@ -7160,8 +7146,7 @@
           "airingAt": 1758033000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185519,
@@ -7688,9 +7673,9 @@
     "idMal": 60603,
     "title": {
       "romaji": "Puniru wa Kawaii Slime 2nd Season",
-      "english": null,
+      "english": "Puniru is a Kawaii Slime Season 2",
       "native": "ぷにるはかわいいスライム 第2期",
-      "userPreferred": "Puniru wa Kawaii Slime 2nd Season"
+      "userPreferred": "Puniru is a Kawaii Slime Season 2"
     },
     "format": "TV",
     "genres": [
@@ -8536,17 +8521,17 @@
     "idMal": 61023,
     "title": {
       "romaji": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite",
-      "english": null,
+      "english": "Chuhai Lips: Canned Flavor of Married Women",
       "native": "人妻の唇は缶チューハイの味がして",
-      "userPreferred": "Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite"
+      "userPreferred": "Chuhai Lips: Canned Flavor of Married Women"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Comedy",
       "Ecchi",
       "Romance"
     ],
-    "duration": null,
+    "duration": 5,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186789-MNl0ZBiRzDqY.jpg",
@@ -8557,10 +8542,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751385600
-        },
         {
           "episode": 2,
           "airingAt": 1751990400
@@ -8590,8 +8571,7 @@
           "airingAt": 1755619200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186829,
@@ -9922,6 +9902,10 @@
         {
           "episode": 1,
           "airingAt": 1757602800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760022000
         }
       ]
     },
