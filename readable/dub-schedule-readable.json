@@ -451,6 +451,61 @@
     "addedAt": "2025-04-25T23:00:00Z"
   },
   {
+    "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+    "route": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
+    "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
+    "english": "Clevatess: The King of Devil Beasts",
+    "native": "クレバテス-魔獣の王と赤子と屍の勇者-",
+    "delayedFrom": "0001-01-01T12:00:00Z",
+    "delayedUntil": "0001-01-01T12:00:00Z",
+    "episodeDate": "2025-07-02T12:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178869,
+        "idMal": 59205,
+        "title": {
+          "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
+          "english": "Clevatess",
+          "native": "クレバテス-魔獣の王と赤子と屍の勇者",
+          "userPreferred": "Clevatess"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178869-qiEz0gQD8H5N.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178869-qiEz0gQD8H5N.png",
+          "color": "#e43528"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-02T12:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-02T12:00:00Z"
+  },
+  {
     "title": "Enen no Shouboutai: San no Shou",
     "route": "enen-no-shouboutai-3",
     "romaji": "Enen no Shouboutai: San no Shou",
@@ -1304,8 +1359,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-07-01T19:30:00Z"
+              "episode": 11,
+              "airingAt": "2025-07-08T19:30:00Z"
             }
           ]
         }
