@@ -2026,6 +2026,80 @@
     "unaired": true
   },
   {
+    "id": 157960,
+    "idMal": 53722,
+    "title": {
+      "romaji": "BULLET/BULLET",
+      "english": null,
+      "native": "BULLET/BULLET",
+      "userPreferred": "BULLET/BULLET"
+    },
+    "format": "ONA",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157960-IrnEWE1pvoT3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157960-IrnEWE1pvoT3.jpg",
+      "color": "#f1e4ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1752591600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1755010800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1755010800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1755010800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1755010800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -2698,6 +2772,40 @@
     "unaired": true
   },
   {
+    "id": 171627,
+    "idMal": 57555,
+    "title": {
+      "romaji": "Chainsaw Man: Reze-hen",
+      "english": "Chainsaw Man – The Movie: Reze Arc",
+      "native": "チェンソーマン レゼ篇",
+      "userPreferred": "Chainsaw Man – The Movie: Reze Arc"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-smzCQpAP6UQE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171627-smzCQpAP6UQE.jpg",
+      "color": "#e42843"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171627-7esVHhgw69rn.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758207600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 173335,
     "idMal": 57820,
     "title": {
@@ -2883,6 +2991,82 @@
         }
       ]
     }
+  },
+  {
+    "id": 174188,
+    "idMal": 57969,
+    "title": {
+      "romaji": "Nukitashi THE ANIMATION",
+      "english": null,
+      "native": "ぬきたし THE ANIMATION",
+      "userPreferred": "Nukitashi THE ANIMATION"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174188-fZg8iePD9Dca.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174188-fZg8iePD9Dca.jpg",
+      "color": "#4350e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174188-zHfBIXSeesMT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752858360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753463160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1754067960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1754672760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1755277560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755882360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1756487160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1757091960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1757696760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1758301560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758906360
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 174189,
@@ -3470,6 +3654,38 @@
     }
   },
   {
+    "id": 177518,
+    "idMal": 58837,
+    "title": {
+      "romaji": "Odekake Kozame: Tokai no Otomodachi",
+      "english": null,
+      "native": "映画 おでかけ子ザメ とかいのおともだち",
+      "userPreferred": "Odekake Kozame: Tokai no Otomodachi"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-uS1k7uaDNfzh.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177518-uS1k7uaDNfzh.png",
+      "color": "#f18650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1755788400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177633,
     "idMal": 58908,
     "title": {
@@ -3563,6 +3779,39 @@
         }
       ]
     }
+  },
+  {
+    "id": 177687,
+    "idMal": 58919,
+    "title": {
+      "romaji": "Hyakuemu.",
+      "english": "100 METERS",
+      "native": "ひゃくえむ。",
+      "userPreferred": "100 METERS"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-Rjb7AszZCBU9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177687-Rjb7AszZCBU9.png",
+      "color": "#e4785d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-iIVXPz8fY7Ab.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758207600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 177689,
@@ -4305,6 +4554,118 @@
         {
           "episode": 12,
           "airingAt": 1758380400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 178754,
+    "idMal": 59177,
+    "title": {
+      "romaji": "Kaijuu 8-gou 2nd Season",
+      "english": "Kaiju No. 8 Season 2",
+      "native": "怪獣８号 第２期",
+      "userPreferred": "Kaiju No. 8 Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178754-Dgrub8xgC03M.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178754-Dgrub8xgC03M.jpg",
+      "color": "#e4ae43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178754-nHyrEsmU0Nle.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752933600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753538400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1754143200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1754748000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1755352800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755957600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1756562400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1757167200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1757772000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1758376800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758981600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1759586400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 178788,
+    "idMal": 59192,
+    "title": {
+      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+      "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "native": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "userPreferred": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-YGZc0lb7DNoe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178788-YGZc0lb7DNoe.jpg",
+      "color": "#1a86e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178788-uYQZgw1v7xyN.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752764400
         }
       ]
     },
@@ -5673,6 +6034,111 @@
     "unaired": true
   },
   {
+    "id": 183127,
+    "idMal": 60131,
+    "title": {
+      "romaji": "Karaoke Iko!",
+      "english": "Let's Go Karaoke!",
+      "native": "カラオケ行こ！",
+      "userPreferred": "Let's Go Karaoke!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183127-NuhBFFae2NYe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183127-NuhBFFae2NYe.jpg",
+      "color": "#d628e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1753363800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753968600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1754573400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1755178200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 183128,
+    "idMal": 60130,
+    "title": {
+      "romaji": "Muchuu sa, Kimi ni.",
+      "english": "Captivated, By You",
+      "native": "夢中さ、きみに。",
+      "userPreferred": "Captivated, By You"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183128-nMFf0c6IOs9g.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183128-nMFf0c6IOs9g.jpg",
+      "color": "#e4a15d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1755783000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1756387800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1756992600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1757597400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1758202200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1758807000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1759411800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1760016600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 183473,
     "idMal": 60080,
     "title": {
@@ -6751,6 +7217,40 @@
     "unaired": true
   },
   {
+    "id": 185537,
+    "idMal": 60862,
+    "title": {
+      "romaji": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
+      "english": null,
+      "native": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
+      "userPreferred": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185537-bHzg7pq3EIKe.png",
+      "color": "#f1bb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1754578800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185544,
     "idMal": 60523,
     "title": {
@@ -7489,6 +7989,82 @@
     "unaired": true
   },
   {
+    "id": 186043,
+    "idMal": 60726,
+    "title": {
+      "romaji": "My Melody & Kuromi",
+      "english": null,
+      "native": "My Melody & Kuromi",
+      "userPreferred": "My Melody & Kuromi"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 13,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186043-nXyStyc58cFd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186043-nXyStyc58cFd.jpg",
+      "color": "#e45d6b"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186043-o2JJIMlMuRIe.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1753282800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1753282800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 186052,
     "idMal": 60732,
     "title": {
@@ -7597,6 +8173,71 @@
         }
       ]
     }
+  },
+  {
+    "id": 186169,
+    "idMal": 60774,
+    "title": {
+      "romaji": "ChaO",
+      "english": "ChaO",
+      "native": "ChaO",
+      "userPreferred": "ChaO"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186169-QRx9StczXhsR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186169-QRx9StczXhsR.jpg",
+      "color": "#e4bb43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1755183600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186181,
+    "idMal": 60778,
+    "title": {
+      "romaji": "Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland",
+      "english": null,
+      "native": "不思議の国でアリスと -Dive in Wonderland-",
+      "userPreferred": "Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186181-m4vTJnKuYqje.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186181-m4vTJnKuYqje.png",
+      "color": "#e4e45d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1756393200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186307,
@@ -7947,6 +8588,71 @@
         {
           "episode": 8,
           "airingAt": 1755619200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186829,
+    "idMal": null,
+    "title": {
+      "romaji": "Kakurenbo THE ANIMATION",
+      "english": null,
+      "native": "かくれんぼ THE ANIMATION",
+      "userPreferred": "Kakurenbo THE ANIMATION"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 30,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186829-iV3BnA5KRgvu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186829-iV3BnA5KRgvu.png",
+      "color": "#e4ae50"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758812400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 187317,
+    "idMal": 61139,
+    "title": {
+      "romaji": "AS ONE",
+      "english": null,
+      "native": "アズワン",
+      "userPreferred": "AS ONE"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187317-epCJqy8VejDa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187317-epCJqy8VejDa.jpg",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1755788400
         }
       ]
     },
@@ -8933,6 +9639,76 @@
     }
   },
   {
+    "id": 191451,
+    "idMal": null,
+    "title": {
+      "romaji": "Kyou wa Yubiwa wo Hazusukara...",
+      "english": null,
+      "native": "今日は指輪を外すから……",
+      "userPreferred": "Kyou wa Yubiwa wo Hazusukara..."
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191451-weddKt3utNpb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191451-weddKt3utNpb.png",
+      "color": "#aec9f1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1753369200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 191452,
+    "idMal": 61583,
+    "title": {
+      "romaji": "Immoral Game Master THE ANIMATION",
+      "english": null,
+      "native": "淫モラル・ゲームマスター THE ANIMATION",
+      "userPreferred": "Immoral Game Master THE ANIMATION"
+    },
+    "format": "OVA",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191452-5303uC2Sntze.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191452-5303uC2Sntze.png",
+      "color": "#e4a150"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1753369200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753369200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 191994,
     "idMal": 54145,
     "title": {
@@ -9088,6 +9864,70 @@
     "unaired": true
   },
   {
+    "id": 193347,
+    "idMal": 61789,
+    "title": {
+      "romaji": "Shachiku Cinderella",
+      "english": null,
+      "native": "社畜シンデレラ",
+      "userPreferred": "Shachiku Cinderella"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193347-EnTUvSR3JOgd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193347-EnTUvSR3JOgd.png",
+      "color": "#f1c9ae"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1756393200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 193348,
+    "idMal": 61788,
+    "title": {
+      "romaji": "Netorareta Bakunyuu Tsuma-tachi",
+      "english": null,
+      "native": "寝取られた爆乳妻たち",
+      "userPreferred": "Netorareta Bakunyuu Tsuma-tachi"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193348-uZaAeYZeAQHW.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193348-uZaAeYZeAQHW.png",
+      "color": "#e4ae93"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1757602800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 193607,
     "idMal": 61742,
     "title": {
@@ -9143,6 +9983,74 @@
         {
           "episode": 8,
           "airingAt": 1757257200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 193623,
+    "idMal": 61367,
+    "title": {
+      "romaji": "Tooi-san wa Seishun Shitai! \"Baka to SmaPho to Romance to\"",
+      "english": null,
+      "native": "遠井さんは青春したい！『バカとスマホとロマンスと』",
+      "userPreferred": "Tooi-san wa Seishun Shitai! \"Baka to SmaPho to Romance to\""
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193623-t9k2EmmT8G8E.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193623-t9k2EmmT8G8E.png",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752764400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 193707,
+    "idMal": null,
+    "title": {
+      "romaji": "Mujin Eki The Animation",
+      "english": null,
+      "native": "無人駅 The Animation ",
+      "userPreferred": "Mujin Eki The Animation"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193707-kOyJ9fzeQPZC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193707-kOyJ9fzeQPZC.png",
+      "color": "#f1bb93"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1756393200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1758812400
         }
       ]
     },
@@ -9272,6 +10180,106 @@
         {
           "episode": 25,
           "airingAt": 1765922760
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 195033,
+    "idMal": 61937,
+    "title": {
+      "romaji": "Kiken na Mori Onigokko",
+      "english": null,
+      "native": "危険な森 鬼ごっこ",
+      "userPreferred": "Kiken na Mori Onigokko"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195033-U5Y8Hy5zbnMC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195033-U5Y8Hy5zbnMC.png",
+      "color": "#5daee4"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758812400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 195034,
+    "idMal": 61936,
+    "title": {
+      "romaji": "Korette Naani?",
+      "english": null,
+      "native": "これってナ～ニ？",
+      "userPreferred": "Korette Naani?"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195034-kh5FbK07fShG.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195034-kh5FbK07fShG.png",
+      "color": "#d678a1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758812400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 195068,
+    "idMal": 61935,
+    "title": {
+      "romaji": "Purepure Peropero Princess",
+      "english": null,
+      "native": "ピュアピュア ぺろぺろ プリンセス",
+      "userPreferred": "Purepure Peropero Princess"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195068-jBg81YoAIsbQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195068-jBg81YoAIsbQ.png",
+      "color": "#e4d65d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1756393200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1756393200
         }
       ]
     },
