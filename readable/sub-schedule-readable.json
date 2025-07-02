@@ -3202,10 +3202,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 31,
-          "airingAt": 1751454000
-        },
-        {
           "episode": 32,
           "airingAt": 1752058800
         },
@@ -3684,101 +3680,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 177633,
-    "idMal": 58908,
-    "title": {
-      "romaji": "MUZIK TIGER In the Forest",
-      "english": null,
-      "native": "MUZIK TIGER In the Forest",
-      "userPreferred": "MUZIK TIGER In the Forest"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177633-LY9wFxN1TRF6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177633-LY9wFxN1TRF6.png",
-      "color": "#e49328"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1751453940
-        },
-        {
-          "episode": 15,
-          "airingAt": 1752058740
-        },
-        {
-          "episode": 16,
-          "airingAt": 1752663540
-        },
-        {
-          "episode": 17,
-          "airingAt": 1753268340
-        },
-        {
-          "episode": 18,
-          "airingAt": 1753873140
-        },
-        {
-          "episode": 19,
-          "airingAt": 1754477940
-        },
-        {
-          "episode": 20,
-          "airingAt": 1755082740
-        },
-        {
-          "episode": 21,
-          "airingAt": 1755687540
-        },
-        {
-          "episode": 22,
-          "airingAt": 1756292340
-        },
-        {
-          "episode": 23,
-          "airingAt": 1756897140
-        },
-        {
-          "episode": 24,
-          "airingAt": 1757501940
-        },
-        {
-          "episode": 25,
-          "airingAt": 1758106740
-        },
-        {
-          "episode": 26,
-          "airingAt": 1758711540
-        },
-        {
-          "episode": 27,
-          "airingAt": 1759316340
-        },
-        {
-          "episode": 28,
-          "airingAt": 1759921140
-        },
-        {
-          "episode": 29,
-          "airingAt": 1760525940
-        },
-        {
-          "episode": 30,
-          "airingAt": 1761130740
-        }
-      ]
-    }
   },
   {
     "id": 177687,
@@ -6609,7 +6510,10 @@
       "userPreferred": "Uglymug, Epicfighter"
     },
     "format": "TV",
-    "genres": [],
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
@@ -9611,10 +9515,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189513-HjE2qNupgfEe.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1751450400
-        },
         {
           "episode": 5,
           "airingAt": 1754474400
