@@ -2414,6 +2414,40 @@
     }
   },
   {
+    "id": 166475,
+    "idMal": 61952,
+    "title": {
+      "romaji": "Luo Xiaohei Zhan Ji 2",
+      "english": null,
+      "native": "罗小黑战记 2",
+      "userPreferred": "Luo Xiaohei Zhan Ji 2"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166475-2UgNkqaGigcv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166475-2UgNkqaGigcv.jpg",
+      "color": "#e4e4ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752764400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 168164,
     "idMal": null,
     "title": {
@@ -2809,7 +2843,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173335-iWDaWkuSuZW5.jpg",
@@ -2820,10 +2854,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751554560
-        },
         {
           "episode": 2,
           "airingAt": 1752159360
@@ -2869,8 +2899,7 @@
           "airingAt": 1758207360
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 173780,
@@ -4379,7 +4408,7 @@
     "idMal": 59161,
     "title": {
       "romaji": "Bad Girl",
-      "english": null,
+      "english": "Bad Girl",
       "native": "ばっどがーる",
       "userPreferred": "Bad Girl"
     },
@@ -6410,6 +6439,7 @@
     "genres": [
       "Comedy",
       "Drama",
+      "Mystery",
       "Slice of Life",
       "Supernatural"
     ],
@@ -7127,7 +7157,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
@@ -7138,10 +7168,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751554800
-        },
         {
           "episode": 2,
           "airingAt": 1752159600
@@ -7187,8 +7213,7 @@
           "airingAt": 1758207600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185584,
@@ -7366,10 +7391,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751556360
-        },
-        {
           "episode": 2,
           "airingAt": 1752161160
         },
@@ -7414,8 +7435,7 @@
           "airingAt": 1758209160
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185718,
@@ -7940,7 +7960,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-zq8h0Qo0O0sP.jpg",
@@ -7951,10 +7971,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751560080
-        },
         {
           "episode": 2,
           "airingAt": 1752164880
@@ -8000,8 +8016,7 @@
           "airingAt": 1758212880
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186058,
@@ -8187,10 +8202,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751561880
-        },
-        {
           "episode": 15,
           "airingAt": 1752166680
         },
@@ -8267,10 +8278,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1751558040
-        },
         {
           "episode": 15,
           "airingAt": 1752162840
@@ -8860,10 +8867,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1751535000
-        },
-        {
           "episode": 16,
           "airingAt": 1752139800
         },
@@ -9247,10 +9250,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751547240
-        },
-        {
           "episode": 2,
           "airingAt": 1752152040
         },
@@ -9295,8 +9294,7 @@
           "airingAt": 1758200040
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 189117,
