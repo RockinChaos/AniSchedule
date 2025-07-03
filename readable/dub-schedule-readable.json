@@ -754,6 +754,64 @@
     "addedAt": "2025-07-06T15:00:00Z"
   },
   {
+    "title": "Ginga Tokkyuu Milky☆Subway",
+    "route": "ginga-tokkyuu-milky-subway",
+    "romaji": "Ginga Tokkyuu Milky☆Subway",
+    "english": "Milky☆Subway: The Galactic Limited Express",
+    "native": "銀河特急 ミルキー☆サブウェイ",
+    "delayedFrom": "0001-01-01T12:55:00Z",
+    "delayedUntil": "0001-01-01T12:55:00Z",
+    "episodeDate": "2025-07-03T12:55:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 5,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189069,
+        "idMal": 61274,
+        "title": {
+          "romaji": "Ginga Tokkyuu Milky☆Subway",
+          "english": "Milky☆Subway: The Galactic Limited Express",
+          "native": "銀河特急 ミルキー☆サブウェイ",
+          "userPreferred": "Milky☆Subway: The Galactic Limited Express"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 4,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189069-JXc6Hhe0Tvpm.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189069-JXc6Hhe0Tvpm.jpg",
+          "color": "#aee4ae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-10T12:55:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-03T20:15:19Z"
+  },
+  {
     "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
     "route": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru",
     "romaji": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
