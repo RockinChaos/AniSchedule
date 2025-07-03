@@ -396,6 +396,84 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "BULLET/BULLET",
+    "route": "bullet-bullet",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-07-16T07:00:00Z",
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 157960,
+        "idMal": 53722,
+        "title": {
+          "romaji": "BULLET/BULLET",
+          "english": null,
+          "native": "BULLET/BULLET",
+          "userPreferred": "BULLET/BULLET"
+        },
+        "format": "ONA",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157960-IrnEWE1pvoT3.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157960-IrnEWE1pvoT3.jpg",
+          "color": "#f1e4ae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-07-16T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-07-16T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-16T07:00:00Z"
+  },
+  {
     "title": "Cardfight!! Vanguard: Divinez Deluxe-hen",
     "route": "cardfight-vanguard-divinez-deluxe-hen",
     "native": "カードファイト!! ヴァンガード Divinez デラックス編",
@@ -508,6 +586,62 @@
     "addedAt": "2025-07-02T12:00:00Z"
   },
   {
+    "title": "Dandadan 2nd Season",
+    "route": "dandadan-2nd-season",
+    "native": "ダンダダン 第2期",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-07-03T16:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185660,
+        "idMal": 60543,
+        "title": {
+          "romaji": "Dandadan 2nd Season",
+          "english": "DAN DA DAN Season 2",
+          "native": "ダンダダン 第2期",
+          "userPreferred": "DAN DA DAN Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-uB8RUMBGovGr.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185660-uB8RUMBGovGr.jpg",
+          "color": "#f1ae28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-2yfXorZxyKJV.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-03T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-03T16:00:00Z"
+  },
+  {
     "title": "Enen no Shouboutai: San no Shou",
     "route": "enen-no-shouboutai-3",
     "romaji": "Enen no Shouboutai: San no Shou",
@@ -566,6 +700,60 @@
     "addedAt": "2025-04-18T21:44:02Z"
   },
   {
+    "title": "Gachiakuta",
+    "route": "gachiakuta",
+    "native": "ガチアクタ",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2025-07-06T15:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178025,
+        "idMal": 59062,
+        "title": {
+          "romaji": "Gachiakuta",
+          "english": "Gachiakuta",
+          "native": "ガチアクタ",
+          "userPreferred": "Gachiakuta"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178025-cWJKEsZynkil.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178025-KH3NSrRChfGy.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-06T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-06T15:00:00Z"
+  },
+  {
     "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
     "route": "gorilla-no-kami-kara-kago-sareta-reijou-wa-ouritsu-kishidan-de-kawaigarareru",
     "romaji": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
@@ -621,6 +809,62 @@
     },
     "verified": true,
     "addedAt": "2025-04-20T20:19:32Z"
+  },
+  {
+    "title": "Hana wa Saku, Shura no Gotoku",
+    "route": "hana-wa-saku-shura-no-gotoku",
+    "romaji": "Hana wa Saku, Shura no Gotoku",
+    "english": "Flower and Asura",
+    "native": "花は咲く、修羅の如く",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-07-16T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178022,
+        "idMal": 59055,
+        "title": {
+          "romaji": "Hana wa Saku, Shura no Gotoku",
+          "english": "Flower and Asura",
+          "native": "花は咲く、修羅の如く",
+          "userPreferred": "Flower and Asura"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178022-gB3zAfazGBJ6.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178022-gB3zAfazGBJ6.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178022-bxiuw2sgcTsS.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-16T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-16T17:00:00Z"
   },
   {
     "title": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
@@ -1717,6 +1961,62 @@
     },
     "verified": true,
     "addedAt": "2025-04-27T08:30:00Z"
+  },
+  {
+    "title": "Your Forma",
+    "route": "your-forma",
+    "native": "ユア・フォルマ",
+    "delayedFrom": "0001-01-01T15:15:00Z",
+    "delayedUntil": "0001-01-01T15:15:00Z",
+    "episodeDate": "2025-07-02T15:15:00Z",
+    "episodeNumber": 11,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 167142,
+        "idMal": 55995,
+        "title": {
+          "romaji": "Your Forma",
+          "english": "YOUR FORMA",
+          "native": "ユア・フォルマ",
+          "userPreferred": "YOUR FORMA"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167142-dJwdHptpILkF.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167142-dJwdHptpILkF.jpg",
+          "color": "#e45d35"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2025-07-09T15:15:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-03T06:22:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
