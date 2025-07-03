@@ -1851,7 +1851,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155838-0zx6MTeoo5sk.jpg",
@@ -3439,9 +3439,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177175-uj13fUT8bqLD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177175-uj13fUT8bqLD.jpg",
-      "color": "#f1bb5d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177175-cr5tlJIj7dEi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177175-cr5tlJIj7dEi.jpg",
+      "color": "#febb50"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177175-8obfhwGOFXuk.jpg",
@@ -5560,9 +5560,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-vmtWANHhtVaB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181444-vmtWANHhtVaB.jpg",
-      "color": "#a1e4ff"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181444-Ut9DDUZdfHwg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181444-Ut9DDUZdfHwg.jpg",
+      "color": "#a1d6f1"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-dENKGiS7cI7j.jpg",
@@ -7366,51 +7366,56 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1751556360
+        },
+        {
           "episode": 2,
-          "airingAt": 1752074760
+          "airingAt": 1752161160
         },
         {
           "episode": 3,
-          "airingAt": 1752679560
+          "airingAt": 1752765960
         },
         {
           "episode": 4,
-          "airingAt": 1753284360
+          "airingAt": 1753370760
         },
         {
           "episode": 5,
-          "airingAt": 1753889160
+          "airingAt": 1753975560
         },
         {
           "episode": 6,
-          "airingAt": 1754493960
+          "airingAt": 1754580360
         },
         {
           "episode": 7,
-          "airingAt": 1755098760
+          "airingAt": 1755185160
         },
         {
           "episode": 8,
-          "airingAt": 1755703560
+          "airingAt": 1755789960
         },
         {
           "episode": 9,
-          "airingAt": 1756308360
+          "airingAt": 1756394760
         },
         {
           "episode": 10,
-          "airingAt": 1756913160
+          "airingAt": 1756999560
         },
         {
           "episode": 11,
-          "airingAt": 1757517960
+          "airingAt": 1757604360
         },
         {
           "episode": 12,
-          "airingAt": 1758122760
+          "airingAt": 1758209160
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 185718,
@@ -7938,9 +7943,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-hFcX9WNzAUlA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186052-hFcX9WNzAUlA.jpg",
-      "color": "#1ad6f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-zq8h0Qo0O0sP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186052-zq8h0Qo0O0sP.jpg",
+      "color": "#50d6e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8327,9 +8332,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186561-svLOWbfahG5V.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186561-svLOWbfahG5V.png",
-      "color": "#f1c95d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186561-9qIZCSTYkAfw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186561-9qIZCSTYkAfw.jpg",
+      "color": "#35e4c9"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8522,7 +8527,7 @@
     "genres": [
       "Action"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187387-dbi9hPNKyA35.jpg",
