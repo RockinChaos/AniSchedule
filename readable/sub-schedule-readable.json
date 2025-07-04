@@ -285,10 +285,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1705,
-          "airingAt": 1751594100
-        },
-        {
           "episode": 1706,
           "airingAt": 1752198900
         },
@@ -383,6 +379,10 @@
         {
           "episode": 1729,
           "airingAt": 1766109300
+        },
+        {
+          "episode": 1730,
+          "airingAt": 1766714100
         }
       ]
     }
@@ -540,10 +540,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 611,
-          "airingAt": 1751580600
-        },
-        {
           "episode": 612,
           "airingAt": 1752185400
         },
@@ -638,6 +634,10 @@
         {
           "episode": 635,
           "airingAt": 1766095800
+        },
+        {
+          "episode": 636,
+          "airingAt": 1766700600
         }
       ]
     }
@@ -1069,10 +1069,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1751594400
-        },
         {
           "episode": 8,
           "airingAt": 1752199200
@@ -9145,10 +9141,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751581800
-        },
-        {
           "episode": 15,
           "airingAt": 1752186600
         },
@@ -9241,9 +9233,9 @@
     "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189069-JXc6Hhe0Tvpm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189069-JXc6Hhe0Tvpm.jpg",
-      "color": "#aee4ae"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189069-mDKZPNUNKFOD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189069-mDKZPNUNKFOD.jpg",
+      "color": "#a1f1bb"
     },
     "isAdult": false,
     "bannerImage": null,
