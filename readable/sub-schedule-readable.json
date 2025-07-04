@@ -1965,10 +1965,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751635800
-        },
-        {
           "episode": 2,
           "airingAt": 1752240600
         },
@@ -2013,8 +2009,7 @@
           "airingAt": 1758288600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 157960,
@@ -2118,98 +2113,94 @@
       "nodes": [
         {
           "episode": 103,
-          "airingAt": 1752227700
-        },
-        {
-          "episode": 104,
           "airingAt": 1752832500
         },
         {
-          "episode": 105,
+          "episode": 104,
           "airingAt": 1753437300
         },
         {
-          "episode": 106,
+          "episode": 105,
           "airingAt": 1754042100
         },
         {
-          "episode": 107,
+          "episode": 106,
           "airingAt": 1754646900
         },
         {
-          "episode": 108,
+          "episode": 107,
           "airingAt": 1755251700
         },
         {
-          "episode": 109,
+          "episode": 108,
           "airingAt": 1755856500
         },
         {
-          "episode": 110,
+          "episode": 109,
           "airingAt": 1756461300
         },
         {
-          "episode": 111,
+          "episode": 110,
           "airingAt": 1757066100
         },
         {
-          "episode": 112,
+          "episode": 111,
           "airingAt": 1757670900
         },
         {
-          "episode": 113,
+          "episode": 112,
           "airingAt": 1758275700
         },
         {
-          "episode": 114,
+          "episode": 113,
           "airingAt": 1758880500
         },
         {
-          "episode": 115,
+          "episode": 114,
           "airingAt": 1759485300
         },
         {
-          "episode": 116,
+          "episode": 115,
           "airingAt": 1760090100
         },
         {
-          "episode": 117,
+          "episode": 116,
           "airingAt": 1760694900
         },
         {
-          "episode": 118,
+          "episode": 117,
           "airingAt": 1761299700
         },
         {
-          "episode": 119,
+          "episode": 118,
           "airingAt": 1761904500
         },
         {
-          "episode": 120,
+          "episode": 119,
           "airingAt": 1762509300
         },
         {
-          "episode": 121,
+          "episode": 120,
           "airingAt": 1763114100
         },
         {
-          "episode": 122,
+          "episode": 121,
           "airingAt": 1763718900
         },
         {
-          "episode": 123,
+          "episode": 122,
           "airingAt": 1764323700
         },
         {
-          "episode": 124,
+          "episode": 123,
           "airingAt": 1764928500
         },
         {
-          "episode": 125,
+          "episode": 124,
           "airingAt": 1765533300
         },
         {
-          "episode": 126,
+          "episode": 125,
           "airingAt": 1766138100
         }
       ]
@@ -2504,13 +2495,9 @@
       "color": "#c9e493"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751644800
-        },
         {
           "episode": 2,
           "airingAt": 1752249600
@@ -2524,8 +2511,7 @@
           "airingAt": 1753459200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 169440,
@@ -2828,6 +2814,7 @@
     },
     "format": "TV",
     "genres": [
+      "Music",
       "Mystery",
       "Supernatural"
     ],
@@ -3276,10 +3263,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751639400
-        },
-        {
           "episode": 2,
           "airingAt": 1752244200
         },
@@ -3324,8 +3307,7 @@
           "airingAt": 1758292200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 176191,
@@ -3408,38 +3390,6 @@
     }
   },
   {
-    "id": 176301,
-    "idMal": 58514,
-    "title": {
-      "romaji": "Kusuriya no Hitorigoto 2nd Season",
-      "english": "The Apothecary Diaries Season 2",
-      "native": "薬屋のひとりごと 第2期",
-      "userPreferred": "The Apothecary Diaries Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176301-TIGmldLffQGX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176301-TIGmldLffQGX.jpg",
-      "color": "#e4bb50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176301-GkuTF1YTT6b2.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1751637600
-        }
-      ]
-    }
-  },
-  {
     "id": 177175,
     "idMal": 58749,
     "title": {
@@ -3464,10 +3414,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177175-8obfhwGOFXuk.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751639400
-        },
         {
           "episode": 2,
           "airingAt": 1752244200
@@ -3505,17 +3451,16 @@
           "airingAt": 1757082600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177474,
     "idMal": 58811,
     "title": {
       "romaji": "Tougen Anki",
-      "english": "Tougen Anki: Legend of the Cursed Blood",
+      "english": "TOUGEN ANKI",
       "native": "桃源暗鬼",
-      "userPreferred": "Tougen Anki: Legend of the Cursed Blood"
+      "userPreferred": "TOUGEN ANKI"
     },
     "format": "TV",
     "genres": [
@@ -4970,10 +4915,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751647980
-        },
-        {
           "episode": 2,
           "airingAt": 1752252780
         },
@@ -5018,8 +4959,7 @@
           "airingAt": 1758300780
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179885,
@@ -5125,10 +5065,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751641200
-        },
-        {
           "episode": 2,
           "airingAt": 1752246000
         },
@@ -5173,8 +5109,7 @@
           "airingAt": 1758294000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180367,
@@ -6947,13 +6882,9 @@
       "color": "#f15d78"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185407-WOKgyadY4Pr1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1751641200
-        },
         {
           "episode": 3,
           "airingAt": 1752246000
@@ -7227,10 +7158,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1751645580
-        },
         {
           "episode": 15,
           "airingAt": 1752250380
@@ -8446,7 +8373,7 @@
   },
   {
     "id": 186829,
-    "idMal": null,
+    "idMal": 61790,
     "title": {
       "romaji": "Kakurenbo THE ANIMATION",
       "english": null,
