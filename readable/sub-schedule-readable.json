@@ -1908,10 +1908,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751727600
-        },
-        {
           "episode": 2,
           "airingAt": 1752332400
         },
@@ -1956,8 +1952,7 @@
           "airingAt": 1758380400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 155838,
@@ -2074,7 +2069,7 @@
       "native": "ブスに花束を。",
       "userPreferred": "Busu ni Hanataba wo."
     },
-    "format": null,
+    "format": "TV",
     "genres": [
       "Comedy",
       "Romance"
@@ -2766,10 +2761,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1751733000
-        },
-        {
           "episode": 3,
           "airingAt": 1752337800
         },
@@ -2840,10 +2831,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751725800
-        },
-        {
           "episode": 2,
           "airingAt": 1752330600
         },
@@ -2888,8 +2875,7 @@
           "airingAt": 1758378600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 171627,
@@ -3817,10 +3803,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751730960
-        },
-        {
           "episode": 2,
           "airingAt": 1752335760
         },
@@ -3865,8 +3847,7 @@
           "airingAt": 1758383760
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177761,
@@ -3893,14 +3874,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751720400
-        },
-        {
-          "episode": 2,
-          "airingAt": 1751722200
-        },
         {
           "episode": 3,
           "airingAt": 1752325200
@@ -3946,8 +3919,7 @@
           "airingAt": 1758373200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177880,
@@ -4483,10 +4455,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751727600
-        },
-        {
           "episode": 2,
           "airingAt": 1752332400
         },
@@ -4531,8 +4499,7 @@
           "airingAt": 1758380400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178754,
@@ -5110,10 +5077,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751727600
-        },
-        {
           "episode": 2,
           "airingAt": 1752332400
         },
@@ -5158,8 +5121,7 @@
           "airingAt": 1758380400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179966,
@@ -5343,10 +5305,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751733000
-        },
-        {
           "episode": 2,
           "airingAt": 1752337800
         },
@@ -5391,8 +5349,7 @@
           "airingAt": 1758385800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180460,
@@ -5647,10 +5604,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751729400
-        },
-        {
           "episode": 2,
           "airingAt": 1752334200
         },
@@ -5693,10 +5646,13 @@
         {
           "episode": 12,
           "airingAt": 1758382200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758987000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 181841,
@@ -7847,10 +7803,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751725800
-        },
-        {
           "episode": 2,
           "airingAt": 1752330600
         },
@@ -7895,8 +7847,7 @@
           "airingAt": 1758378600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186043,
@@ -8377,10 +8328,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751724000
-        },
-        {
           "episode": 2,
           "airingAt": 1752328800
         },
@@ -8425,8 +8372,7 @@
           "airingAt": 1758376800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186789,
