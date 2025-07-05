@@ -1252,10 +1252,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1751684400
-        },
-        {
           "episode": 4,
           "airingAt": 1752289200
         },
@@ -1953,7 +1949,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156395-LW98bhT54IuM.png",
@@ -2483,7 +2479,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
@@ -3399,7 +3395,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177175-cr5tlJIj7dEi.jpg",
@@ -4899,7 +4895,7 @@
       "Drama",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179879-569v3MdQeVmt.jpg",
@@ -5049,7 +5045,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179966-g0EU7rVe2Og7.jpg",
@@ -5103,6 +5099,10 @@
         {
           "episode": 12,
           "airingAt": 1758294000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758898800
         }
       ]
     }
@@ -5977,10 +5977,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 38,
-          "airingAt": 1751684400
-        },
         {
           "episode": 39,
           "airingAt": 1752289200
@@ -9385,38 +9381,6 @@
         {
           "episode": 6,
           "airingAt": 1756893600
-        }
-      ]
-    }
-  },
-  {
-    "id": 191374,
-    "idMal": 61485,
-    "title": {
-      "romaji": "Jigu-eui Juin-eun Goyang-ida",
-      "english": null,
-      "native": "지구의 주인은 고양이다",
-      "userPreferred": "Jigu-eui Juin-eun Goyang-ida"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 13,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191374-BijC3ZcNSpJo.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191374-BijC3ZcNSpJo.png",
-      "color": "#e49350"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1751693400
         }
       ]
     }
