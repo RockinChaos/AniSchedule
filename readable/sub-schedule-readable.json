@@ -1386,10 +1386,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 174,
-          "airingAt": 1751668200
-        },
-        {
           "episode": 175,
           "airingAt": 1752273000
         },
@@ -1484,6 +1480,10 @@
         {
           "episode": 198,
           "airingAt": 1766183400
+        },
+        {
+          "episode": 199,
+          "airingAt": 1766788200
         }
       ]
     }
@@ -2343,50 +2343,46 @@
       "nodes": [
         {
           "episode": 89,
-          "airingAt": 1752225900
-        },
-        {
-          "episode": 90,
           "airingAt": 1752830700
         },
         {
-          "episode": 91,
+          "episode": 90,
           "airingAt": 1753435500
         },
         {
-          "episode": 92,
+          "episode": 91,
           "airingAt": 1754040300
         },
         {
-          "episode": 93,
+          "episode": 92,
           "airingAt": 1754645100
         },
         {
-          "episode": 94,
+          "episode": 93,
           "airingAt": 1755249900
         },
         {
-          "episode": 95,
+          "episode": 94,
           "airingAt": 1755854700
         },
         {
-          "episode": 96,
+          "episode": 95,
           "airingAt": 1756459500
         },
         {
-          "episode": 97,
+          "episode": 96,
           "airingAt": 1757064300
         },
         {
-          "episode": 98,
+          "episode": 97,
           "airingAt": 1757669100
         },
         {
-          "episode": 99,
+          "episode": 98,
           "airingAt": 1758273900
         },
         {
-          "episode": 100,
+          "episode": 99,
           "airingAt": 1758878700
         }
       ]
@@ -4911,7 +4907,7 @@
       "color": "#e4ae35"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179879-LLw7UPZcd22x.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6170,10 +6166,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1751666400
-        },
         {
           "episode": 15,
           "airingAt": 1752271200
@@ -8853,10 +8845,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751676300
-        },
-        {
           "episode": 2,
           "airingAt": 1752281100
         },
@@ -8953,8 +8941,7 @@
           "airingAt": 1766191500
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188661,
@@ -9531,10 +9518,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751670000
-        },
-        {
           "episode": 2,
           "airingAt": 1752274800
         },
@@ -9579,8 +9562,7 @@
           "airingAt": 1758322800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 193238,
@@ -9607,10 +9589,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751666400
-        },
         {
           "episode": 2,
           "airingAt": 1752271200
@@ -9656,8 +9634,7 @@
           "airingAt": 1758319200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 193347,
