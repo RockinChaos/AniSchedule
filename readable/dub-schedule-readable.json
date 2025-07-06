@@ -1216,8 +1216,9 @@
     "romaji": "Kowloon Generic Romance",
     "english": "Kowloon Generic Romance",
     "native": "九龍ジェネリックロマンス",
-    "delayedFrom": "2025-06-21T22:00:00Z",
-    "delayedUntil": "2025-06-28T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-07-05T22:00:00Z",
+    "delayedUntil": "2025-07-12T22:00:00Z",
     "episodeDate": "2025-07-05T22:00:00Z",
     "episodeNumber": 12,
     "episodes": 13,
@@ -1259,7 +1260,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2025-07-12T22:00:00Z"
             }
           ]
