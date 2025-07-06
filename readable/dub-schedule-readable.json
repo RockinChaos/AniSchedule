@@ -529,6 +529,61 @@
     "addedAt": "2025-04-25T23:00:00Z"
   },
   {
+    "title": "City The Animation",
+    "route": "city-the-animation",
+    "romaji": "CITY THE ANIMATION",
+    "english": "CITY THE ANIMATION",
+    "native": "CITY THE ANIMATION",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2025-07-06T15:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181841,
+        "idMal": 59898,
+        "title": {
+          "romaji": "CITY THE ANIMATION",
+          "english": "CITY THE ANIMATION",
+          "native": "CITY THE ANIMATION",
+          "userPreferred": "CITY THE ANIMATION"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "duration": 27,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-9TcjIyZefot2.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181841-9TcjIyZefot2.jpg",
+          "color": "#0d93e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181841-aegccbKnNjxK.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-13T15:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-06T20:11:27Z"
+  },
+  {
     "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
     "route": "clevatess-majuu-no-ou-to-akago-to-shikabane-no-yuusha",
     "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
