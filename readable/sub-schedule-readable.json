@@ -2027,40 +2027,6 @@
     }
   },
   {
-    "id": 156092,
-    "idMal": 53447,
-    "title": {
-      "romaji": "Tu Bian Yingxiong X",
-      "english": "To Be Hero X",
-      "native": "凸变英雄X",
-      "userPreferred": "To Be Hero X"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
-      "color": "#d61a1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1751761800
-        }
-      ]
-    }
-  },
-  {
     "id": 156395,
     "idMal": 53512,
     "title": {
@@ -2569,10 +2535,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 49,
-          "airingAt": 1751760000
-        },
         {
           "episode": 50,
           "airingAt": 1752364800
@@ -3863,7 +3825,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177761-KdJxyWwdBdiS.jpg",
@@ -4137,10 +4099,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1751760000
-        },
-        {
           "episode": 14,
           "airingAt": 1752364800
         },
@@ -4235,6 +4193,10 @@
         {
           "episode": 37,
           "airingAt": 1766275200
+        },
+        {
+          "episode": 38,
+          "airingAt": 1766880000
         }
       ]
     }
@@ -6321,10 +6283,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751761800
-        },
-        {
           "episode": 15,
           "airingAt": 1752366600
         },
@@ -6419,6 +6377,10 @@
         {
           "episode": 38,
           "airingAt": 1766277000
+        },
+        {
+          "episode": 39,
+          "airingAt": 1766881800
         }
       ]
     }
@@ -6827,10 +6789,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1751758200
-        },
-        {
           "episode": 23,
           "airingAt": 1752363000
         },
@@ -6925,6 +6883,10 @@
         {
           "episode": 46,
           "airingAt": 1766273400
+        },
+        {
+          "episode": 47,
+          "airingAt": 1766878200
         }
       ]
     }
@@ -7296,10 +7258,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751758080
-        },
-        {
           "episode": 15,
           "airingAt": 1752362880
         },
@@ -7447,10 +7405,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751753760
-        },
-        {
           "episode": 15,
           "airingAt": 1752358560
         },
@@ -7545,6 +7499,10 @@
         {
           "episode": 38,
           "airingAt": 1766268960
+        },
+        {
+          "episode": 39,
+          "airingAt": 1766873760
         }
       ]
     }
@@ -9036,10 +8994,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751758200
-        },
-        {
           "episode": 15,
           "airingAt": 1752363000
         },
@@ -9532,9 +9486,9 @@
     "idMal": 54145,
     "title": {
       "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-      "english": null,
+      "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
       "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
-      "userPreferred": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen"
+      "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals"
     },
     "format": "TV",
     "genres": [
