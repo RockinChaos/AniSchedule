@@ -2027,6 +2027,48 @@
     }
   },
   {
+    "id": 156092,
+    "idMal": 53447,
+    "title": {
+      "romaji": "Tu Bian Yingxiong X",
+      "english": "To Be Hero X",
+      "native": "凸变英雄X",
+      "userPreferred": "To Be Hero X"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
+      "color": "#d61a1a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1752366600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1752971400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1753576200
+        }
+      ]
+    }
+  },
+  {
     "id": 156395,
     "idMal": 53512,
     "title": {
