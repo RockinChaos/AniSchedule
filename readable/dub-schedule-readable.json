@@ -1383,6 +1383,62 @@
     "addedAt": "2025-06-25T17:00:00Z"
   },
   {
+    "title": "New Panty & Stocking with Garterbelt",
+    "route": "new-panty-and-stocking-with-garterbelt",
+    "romaji": "New PANTY & STOCKING with GARTERBELT",
+    "english": "New PANTY & STOCKING with GARTERBELT",
+    "native": "New PANTY&STOCKING with GARTERBELT",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-07-09T16:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 151799,
+        "idMal": 52293,
+        "title": {
+          "romaji": "New PANTY & STOCKING with GARTERBELT",
+          "english": "New PANTY & STOCKING with GARTERBELT",
+          "native": "New PANTY&STOCKING with GARTERBELT",
+          "userPreferred": "New PANTY & STOCKING with GARTERBELT"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Ecchi",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151799-igwbH3AffgHc.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151799-igwbH3AffgHc.jpg",
+          "color": "#35e4e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151799-WsBD1zyaha5p.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-09T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-09T16:00:00Z"
+  },
+  {
     "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
     "route": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru",
     "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
@@ -1613,6 +1669,8 @@
   {
     "title": "Tougen Anki",
     "route": "tougen-anki",
+    "romaji": "Tougen Anki",
+    "english": "TOUGEN ANKI",
     "native": "桃源暗鬼",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
