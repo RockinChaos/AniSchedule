@@ -1611,6 +1611,59 @@
     "addedAt": "2025-04-26T05:42:06Z"
   },
   {
+    "title": "Tougen Anki",
+    "route": "tougen-anki",
+    "native": "桃源暗鬼",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2025-07-11T15:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 177474,
+        "idMal": 58811,
+        "title": {
+          "romaji": "Tougen Anki",
+          "english": "TOUGEN ANKI",
+          "native": "桃源暗鬼",
+          "userPreferred": "TOUGEN ANKI"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177474-oHil1yLWldfl.jpg",
+          "color": "#ff5d1a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-11T15:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-11T15:30:00Z"
+  },
+  {
     "title": "Tu Bian Yingxiong X",
     "route": "tu-bian-yingxiong-x",
     "romaji": "Tu Bian Yingxiong X",
