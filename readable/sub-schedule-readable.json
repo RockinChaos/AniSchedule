@@ -1666,10 +1666,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1751898600
-        },
-        {
           "episode": 15,
           "airingAt": 1752503400
         },
@@ -2160,6 +2156,10 @@
         {
           "episode": 12,
           "airingAt": 1758288600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758893400
         }
       ]
     }
@@ -3123,6 +3123,10 @@
         {
           "episode": 12,
           "airingAt": 1758207360
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758812160
         }
       ]
     }
@@ -3481,6 +3485,40 @@
     }
   },
   {
+    "id": 175645,
+    "idMal": 60577,
+    "title": {
+      "romaji": "Tongling Fei 2",
+      "english": null,
+      "native": "通灵妃 第二季",
+      "userPreferred": "Tongling Fei 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b175645-9RqIPeQhw5Pd.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b175645-9RqIPeQhw5Pd.jpg",
+      "color": "#e4bb43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752678000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 175914,
     "idMal": 58390,
     "title": {
@@ -3497,7 +3535,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "duration": 22,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175914-VsbL90WzuqoM.jpg",
@@ -4181,7 +4219,7 @@
       "Drama",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
@@ -5605,7 +5643,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-rQGxkguEc2ov.png",
@@ -5731,6 +5769,10 @@
         {
           "episode": 12,
           "airingAt": 1758457800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1759062600
         }
       ]
     }
@@ -5975,7 +6017,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-tThxqSRn3At1.jpg",
@@ -5986,10 +6028,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751902200
-        },
         {
           "episode": 2,
           "airingAt": 1752507000
@@ -6035,8 +6073,7 @@
           "airingAt": 1758555000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183127,
@@ -6232,7 +6269,7 @@
       "Action",
       "Drama"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-gjIi5TIHJpZv.jpg",
@@ -6611,7 +6648,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184575-hEzI5V8o818U.png",
@@ -6683,7 +6720,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184591-jRXZ29bN61Zc.jpg",
@@ -6694,10 +6731,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751904000
-        },
         {
           "episode": 2,
           "airingAt": 1752508800
@@ -6743,8 +6776,7 @@
           "airingAt": 1758556800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184639,
@@ -7146,7 +7178,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185519-cuRKYBlZ3uWw.jpg",
@@ -7157,10 +7189,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185519-WRtGn9JOriG8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1751895000
-        },
         {
           "episode": 2,
           "airingAt": 1752499800
@@ -7182,8 +7210,7 @@
           "airingAt": 1754919000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185537,
@@ -8788,10 +8815,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1751896800
-        },
-        {
           "episode": 2,
           "airingAt": 1752501600
         },
@@ -8836,8 +8859,7 @@
           "airingAt": 1758549600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188239,
@@ -9434,7 +9456,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189326-kaYdWFxyyYdx.jpg",
