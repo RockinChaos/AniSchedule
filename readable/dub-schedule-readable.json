@@ -707,7 +707,7 @@
     "episodeDate": "2025-07-10T12:55:00Z",
     "episodeNumber": 2,
     "episodes": 12,
-    "lengthMin": 5,
+    "lengthMin": 4,
     "mediaTypes": [
       {
         "name": "TV Short",
@@ -809,65 +809,6 @@
     },
     "verified": false,
     "addedAt": "2025-07-16T17:00:00Z"
-  },
-  {
-    "title": "Hikaru ga Shinda Natsu",
-    "route": "hikaru-ga-shinda-natsu",
-    "romaji": "Hikaru ga Shinda Natsu",
-    "english": "The Summer Hikaru Died",
-    "native": "光が死んだ夏",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-07-12T17:00:00Z",
-    "episodeNumber": 2,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 177689,
-        "idMal": 58913,
-        "title": {
-          "romaji": "Hikaru ga Shinda Natsu",
-          "english": "The Summer Hikaru Died",
-          "native": "光が死んだ夏",
-          "userPreferred": "The Summer Hikaru Died"
-        },
-        "format": "TV",
-        "genres": [
-          "Horror",
-          "Mystery",
-          "Psychological",
-          "Supernatural",
-          "Thriller"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177689-d0mB5nYgdnhi.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177689-d0mB5nYgdnhi.jpg",
-          "color": "#50aec9"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177689-hbCQDYraujAG.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 2,
-              "airingAt": "2025-07-12T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-07-07T16:18:29Z"
   },
   {
     "title": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
@@ -1735,6 +1676,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2025-07-11T15:30:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
