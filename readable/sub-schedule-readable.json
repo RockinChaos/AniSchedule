@@ -1141,6 +1141,38 @@
     }
   },
   {
+    "id": 120756,
+    "idMal": null,
+    "title": {
+      "romaji": "Tamala 2030: A Punk Cat in Dark",
+      "english": null,
+      "native": null,
+      "userPreferred": "Tamala 2030: A Punk Cat in Dark"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "duration": 129,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120756-4PcousgzuAN9.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120756-4PcousgzuAN9.jpg",
+      "color": "#932850"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752937200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 128623,
     "idMal": 48651,
     "title": {
@@ -3548,10 +3580,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 39,
-          "airingAt": 1751860800
-        },
         {
           "episode": 40,
           "airingAt": 1752465600
