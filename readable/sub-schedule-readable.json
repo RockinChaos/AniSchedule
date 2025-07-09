@@ -1849,10 +1849,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1752076800
-        },
-        {
           "episode": 2,
           "airingAt": 1752681600
         },
@@ -1897,8 +1893,7 @@
           "airingAt": 1758729600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 154768,
@@ -1999,10 +1994,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752081360
-        },
         {
           "episode": 3,
           "airingAt": 1752686160
@@ -2404,18 +2395,19 @@
     },
     "format": "TV",
     "genres": [
-      "Slice of Life",
-      "Sports"
+      "Adventure",
+      "Sports",
+      "Supernatural"
     ],
     "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-1XWq8G12JuJk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159483-1XWq8G12JuJk.jpg",
-      "color": "#5dbbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-nQKJ2EEqoo8x.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159483-nQKJ2EEqoo8x.jpg",
+      "color": "#1abbd6"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159483-XG5lHavBPS0w.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2790,10 +2782,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752066000
-        },
         {
           "episode": 3,
           "airingAt": 1752670800
@@ -4467,10 +4455,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1752073200
-        },
-        {
           "episode": 2,
           "airingAt": 1752678000
         },
@@ -4515,8 +4499,7 @@
           "airingAt": 1758726000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178433,
@@ -4835,10 +4818,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752066000
-        },
-        {
           "episode": 3,
           "airingAt": 1752670800
         },
@@ -4907,10 +4886,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1752074400
-        },
-        {
           "episode": 2,
           "airingAt": 1752679200
         },
@@ -4955,8 +4930,7 @@
           "airingAt": 1758727200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 179344,
@@ -5053,10 +5027,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179678-3a0lkZVFIrlw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752072300
-        },
         {
           "episode": 4,
           "airingAt": 1752677100
@@ -6850,10 +6820,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1752073200
-        },
-        {
           "episode": 15,
           "airingAt": 1752678000
         },
@@ -8592,10 +8558,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752075960
-        },
-        {
           "episode": 3,
           "airingAt": 1752680760
         },
@@ -9514,16 +9476,16 @@
     "id": 191451,
     "idMal": null,
     "title": {
-      "romaji": "Kyou wa Yubiwa wo Hazusukara...",
+      "romaji": "Kyou wa Yubiwa wo Hazusukara......",
       "english": null,
       "native": "今日は指輪を外すから……",
-      "userPreferred": "Kyou wa Yubiwa wo Hazusukara..."
+      "userPreferred": "Kyou wa Yubiwa wo Hazusukara......"
     },
     "format": "OVA",
     "genres": [
       "Hentai"
     ],
-    "duration": null,
+    "duration": 20,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191451-weddKt3utNpb.png",
@@ -10171,10 +10133,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1752075000
-        },
-        {
           "episode": 2,
           "airingAt": 1752679800
         },
@@ -10219,8 +10177,7 @@
           "airingAt": 1758727800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 195494,
