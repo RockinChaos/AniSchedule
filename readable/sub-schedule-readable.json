@@ -2407,7 +2407,7 @@
       "Slice of Life",
       "Sports"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-1XWq8G12JuJk.jpg",
@@ -4102,7 +4102,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-0TLsu8WXPaJy.jpg",
@@ -4156,6 +4156,10 @@
         {
           "episode": 12,
           "airingAt": 1758639600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1759244400
         }
       ]
     }
@@ -5115,7 +5119,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-Yc1b1R2dxQyc.jpg",
@@ -5165,6 +5169,10 @@
         {
           "episode": 11,
           "airingAt": 1758031200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758636000
         }
       ]
     }
@@ -5777,7 +5785,7 @@
       "color": "#a1d6f1"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-dENKGiS7cI7j.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-SBhwJNPxjHrr.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8698,10 +8706,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1752014760
-        },
-        {
           "episode": 15,
           "airingAt": 1752619560
         },
@@ -9948,10 +9952,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752012360
-        },
-        {
           "episode": 3,
           "airingAt": 1752617160
         },
@@ -10046,6 +10046,10 @@
         {
           "episode": 26,
           "airingAt": 1766527560
+        },
+        {
+          "episode": 27,
+          "airingAt": 1767132360
         }
       ]
     }
