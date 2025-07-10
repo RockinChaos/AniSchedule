@@ -1495,7 +1495,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-07-09T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeNumber": 6,
+    "subtractedEpisodeNumber": 5,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1533,7 +1534,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 5,
+              "airingAt": "2025-07-09T17:00:00Z"
+            },
+            {
               "episode": 6,
+              "airingAt": "2025-07-09T17:00:00Z"
+            },
+            {
+              "episode": 7,
               "airingAt": "2025-07-16T17:00:00Z"
             }
           ]
@@ -2118,9 +2127,9 @@
     "title": "Your Forma",
     "route": "your-forma",
     "native": "ユア・フォルマ",
-    "delayedFrom": "0001-01-01T15:15:00Z",
-    "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2025-07-10T15:15:00Z",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "episodeDate": "2025-07-10T20:00:00Z",
     "episodeNumber": 13,
     "episodes": 13,
     "lengthMin": 24,
@@ -2161,7 +2170,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2025-07-10T15:15:00Z"
+              "airingAt": "2025-07-10T20:00:00Z"
             }
           ]
         }
