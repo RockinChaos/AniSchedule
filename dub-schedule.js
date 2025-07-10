@@ -309,7 +309,7 @@ export async function fetchDubSchedule() {
         const entry = order.find(o => o.route === airingItem.route)
         const mediaMatch = results?.find(result => result.media?.title?.userPreferred === entry?.title)
         const numberOfEpisodes = airingItem.subtractedEpisodeNumber ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 1
-        const predictedEpisode = airingItem.episodeNumber + ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired ? 0 : ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) && (!airingItem.episodes || (airingItem.episodeNumber < airingItem.episodes)) ? 1 : 0))
+        const predictedEpisode = airingItem.episodeNumber + ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired ? 0 : ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) && (!airingItem.episodes || (airingItem.episodeNumber < airingItem.episodes)) ? ((airingItem.episodeNumber > 1 && airingItem.subtractedEpisodeNumber >= 1 ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 0) + 1) : 0))
         const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i)
 
         return {
