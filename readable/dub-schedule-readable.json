@@ -799,7 +799,7 @@
           "color": "#a1f1bb"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189069-t19Ag9Tqyy8Q.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1543,6 +1543,10 @@
             },
             {
               "episode": 7,
+              "airingAt": "2025-07-16T17:00:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2025-07-16T17:00:00Z"
             }
           ]
