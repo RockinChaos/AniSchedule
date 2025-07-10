@@ -4196,40 +4196,6 @@
     }
   },
   {
-    "id": 177887,
-    "idMal": 59005,
-    "title": {
-      "romaji": "Leviathan",
-      "english": "Leviathan",
-      "native": "リヴァイアサン",
-      "userPreferred": "Leviathan"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177887-CDAgIrZOQvZc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177887-CDAgIrZOQvZc.jpg",
-      "color": "#5da1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177887-wGy2HdlQdS9G.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752130800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 178025,
     "idMal": 59062,
     "title": {
@@ -8918,10 +8884,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1752139800
-        },
-        {
           "episode": 17,
           "airingAt": 1752744600
         },
@@ -9287,10 +9249,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752152040
-        },
         {
           "episode": 3,
           "airingAt": 1752756840
