@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1706,
-          "airingAt": 1752198900
-        },
-        {
           "episode": 1707,
           "airingAt": 1752803700
         },
@@ -670,10 +666,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 612,
-          "airingAt": 1752185400
-        },
-        {
           "episode": 613,
           "airingAt": 1752790200
         },
@@ -768,6 +760,10 @@
         {
           "episode": 636,
           "airingAt": 1766700600
+        },
+        {
+          "episode": 637,
+          "airingAt": 1767305400
         }
       ]
     }
@@ -1192,10 +1188,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1752199200
-        },
         {
           "episode": 9,
           "airingAt": 1752804000
@@ -7694,7 +7686,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
@@ -7748,6 +7740,54 @@
         {
           "episode": 12,
           "airingAt": 1758814200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1759419000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1760023800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1760628600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1761233400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1761838200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1762443000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1763047800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1763652600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1764257400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1764862200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1765467000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1766071800
         }
       ]
     }
@@ -9021,10 +9061,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752186600
-        },
-        {
           "episode": 16,
           "airingAt": 1752791400
         },
@@ -9118,7 +9154,7 @@
       "color": "#a1f1bb"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189069-t19Ag9Tqyy8Q.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -9180,7 +9216,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-EJQHOFjLoK2k.png",
