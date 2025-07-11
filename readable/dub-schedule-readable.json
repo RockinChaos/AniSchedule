@@ -462,8 +462,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2025-07-11T23:00:00Z"
+              "episode": 13,
+              "airingAt": "2025-07-18T23:00:00Z"
             }
           ]
         }
@@ -571,7 +571,7 @@
           "color": "#e43528"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178869-ZFn0hKphaLtk.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -1308,7 +1308,7 @@
           "Mecha",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177887-CDAgIrZOQvZc.jpg",
