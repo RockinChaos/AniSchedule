@@ -329,8 +329,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 49,
-              "airingAt": "2025-07-12T22:45:00Z"
+              "episode": 50,
+              "airingAt": "2025-07-19T22:45:00Z"
             }
           ]
         }
@@ -1107,7 +1107,8 @@
     "delayedFrom": "2025-07-05T22:00:00Z",
     "delayedUntil": "2025-07-12T22:00:00Z",
     "episodeDate": "2025-07-12T22:00:00Z",
-    "episodeNumber": 12,
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1147,8 +1148,12 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 12,
+              "airingAt": "2025-07-12T22:00:00Z"
+            },
+            {
               "episode": 13,
-              "airingAt": "2025-07-19T22:00:00Z"
+              "airingAt": "2025-07-12T22:00:00Z"
             }
           ]
         }
@@ -1476,8 +1481,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-07-12T22:30:00Z"
+              "episode": 12,
+              "airingAt": "2025-07-19T22:30:00Z"
             }
           ]
         }
@@ -1933,7 +1938,7 @@
           "Mystery",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
