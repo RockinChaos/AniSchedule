@@ -1493,10 +1493,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 175,
-          "airingAt": 1752273000
-        },
-        {
           "episode": 176,
           "airingAt": 1752877800
         },
@@ -1591,6 +1587,10 @@
         {
           "episode": 199,
           "airingAt": 1766788200
+        },
+        {
+          "episode": 200,
+          "airingAt": 1767393000
         }
       ]
     }
@@ -2062,7 +2062,7 @@
       "color": "#f1e4bb"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156395-V60PSAOKauDU.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2252,90 +2252,86 @@
         },
         {
           "episode": 104,
-          "airingAt": 1753437300
-        },
-        {
-          "episode": 105,
           "airingAt": 1754042100
         },
         {
-          "episode": 106,
+          "episode": 105,
           "airingAt": 1754646900
         },
         {
-          "episode": 107,
+          "episode": 106,
           "airingAt": 1755251700
         },
         {
-          "episode": 108,
+          "episode": 107,
           "airingAt": 1755856500
         },
         {
-          "episode": 109,
+          "episode": 108,
           "airingAt": 1756461300
         },
         {
-          "episode": 110,
+          "episode": 109,
           "airingAt": 1757066100
         },
         {
-          "episode": 111,
+          "episode": 110,
           "airingAt": 1757670900
         },
         {
-          "episode": 112,
+          "episode": 111,
           "airingAt": 1758275700
         },
         {
-          "episode": 113,
+          "episode": 112,
           "airingAt": 1758880500
         },
         {
-          "episode": 114,
+          "episode": 113,
           "airingAt": 1759485300
         },
         {
-          "episode": 115,
+          "episode": 114,
           "airingAt": 1760090100
         },
         {
-          "episode": 116,
+          "episode": 115,
           "airingAt": 1760694900
         },
         {
-          "episode": 117,
+          "episode": 116,
           "airingAt": 1761299700
         },
         {
-          "episode": 118,
+          "episode": 117,
           "airingAt": 1761904500
         },
         {
-          "episode": 119,
+          "episode": 118,
           "airingAt": 1762509300
         },
         {
-          "episode": 120,
+          "episode": 119,
           "airingAt": 1763114100
         },
         {
-          "episode": 121,
+          "episode": 120,
           "airingAt": 1763718900
         },
         {
-          "episode": 122,
+          "episode": 121,
           "airingAt": 1764323700
         },
         {
-          "episode": 123,
+          "episode": 122,
           "airingAt": 1764928500
         },
         {
-          "episode": 124,
+          "episode": 123,
           "airingAt": 1765533300
         },
         {
-          "episode": 125,
+          "episode": 124,
           "airingAt": 1766138100
         }
       ]
@@ -4732,7 +4728,7 @@
       "color": "#e43528"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178869-ZFn0hKphaLtk.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6240,10 +6236,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1752271200
-        },
         {
           "episode": 16,
           "airingAt": 1752876000
@@ -8826,10 +8818,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752281100
-        },
-        {
           "episode": 3,
           "airingAt": 1752885900
         },
@@ -9167,7 +9155,7 @@
     "id": 189117,
     "idMal": 61322,
     "title": {
-      "romaji": "Dr.STONE SCIENCE FUTURE Part 2",
+      "romaji": "Dr. STONE: SCIENCE FUTURE Part 2",
       "english": "Dr. STONE SCIENCE FUTURE Cour 2",
       "native": "Dr.STONE SCIENCE FUTURE 2クール",
       "userPreferred": "Dr. STONE SCIENCE FUTURE Cour 2"
@@ -9445,10 +9433,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752274800
-        },
-        {
           "episode": 3,
           "airingAt": 1752879600
         },
@@ -9516,10 +9500,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752271200
-        },
         {
           "episode": 3,
           "airingAt": 1752876000
