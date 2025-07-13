@@ -2018,10 +2018,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752366600
-        },
-        {
           "episode": 16,
           "airingAt": 1752971400
         },
@@ -2644,10 +2640,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 50,
-          "airingAt": 1752364800
-        },
         {
           "episode": 51,
           "airingAt": 1752969600
@@ -3611,7 +3603,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
@@ -4211,10 +4203,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1752364800
-        },
-        {
           "episode": 15,
           "airingAt": 1752969600
         },
@@ -4309,6 +4297,10 @@
         {
           "episode": 38,
           "airingAt": 1766880000
+        },
+        {
+          "episode": 39,
+          "airingAt": 1767484800
         }
       ]
     }
@@ -6257,10 +6249,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752366600
-        },
-        {
           "episode": 16,
           "airingAt": 1752971400
         },
@@ -6355,6 +6343,10 @@
         {
           "episode": 39,
           "airingAt": 1766881800
+        },
+        {
+          "episode": 40,
+          "airingAt": 1767486600
         }
       ]
     }
@@ -6740,10 +6732,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1752363000
-        },
-        {
           "episode": 24,
           "airingAt": 1752967800
         },
@@ -6838,6 +6826,10 @@
         {
           "episode": 47,
           "airingAt": 1766878200
+        },
+        {
+          "episode": 48,
+          "airingAt": 1767483000
         }
       ]
     }
@@ -7188,10 +7180,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752362880
-        },
-        {
           "episode": 16,
           "airingAt": 1752967680
         },
@@ -7331,10 +7319,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752358560
-        },
-        {
           "episode": 16,
           "airingAt": 1752963360
         },
@@ -7429,6 +7413,10 @@
         {
           "episode": 39,
           "airingAt": 1766873760
+        },
+        {
+          "episode": 40,
+          "airingAt": 1767478560
         }
       ]
     }
@@ -8876,10 +8864,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1752363000
-        },
         {
           "episode": 16,
           "airingAt": 1752967800
