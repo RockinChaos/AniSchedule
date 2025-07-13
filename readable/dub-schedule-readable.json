@@ -927,6 +927,62 @@
     "addedAt": "2025-04-17T19:45:50Z"
   },
   {
+    "title": "Kaijuu 8-gou Movie",
+    "route": "kaijuu-8-gou-movie",
+    "romaji": "Kaijuu 8-gou Movie",
+    "english": "Kaiju No. 8: Mission Recon",
+    "native": "怪獣8号 第1期総集編",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2025-07-13T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 90,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179998,
+        "idMal": 59489,
+        "title": {
+          "romaji": "Kaijuu 8-gou Movie",
+          "english": "Kaiju No. 8: Mission Recon",
+          "native": "怪獣8号 第1期総集編",
+          "userPreferred": "Kaiju No. 8: Mission Recon"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "duration": 90,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179998-2QNb7f6oXGUI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179998-2QNb7f6oXGUI.jpg",
+          "color": "#5df1f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-13T00:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-13T05:46:20Z"
+  },
+  {
     "title": "Kakushite! Makina-san!!",
     "route": "kakushite-makina-san",
     "romaji": "Kakushite! Makina-san!!",
