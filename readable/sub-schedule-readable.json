@@ -539,10 +539,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2788,
-          "airingAt": 1752399000
-        },
-        {
           "episode": 2789,
           "airingAt": 1753003800
         },
@@ -637,6 +633,10 @@
         {
           "episode": 2812,
           "airingAt": 1766914200
+        },
+        {
+          "episode": 2813,
+          "airingAt": 1767519000
         }
       ]
     }
@@ -923,10 +923,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 322,
-          "airingAt": 1752397200
-        },
         {
           "episode": 323,
           "airingAt": 1753002000
@@ -5247,10 +5243,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752393600
-        },
-        {
           "episode": 16,
           "airingAt": 1752998400
         },
@@ -5526,10 +5518,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752409800
-        },
         {
           "episode": 3,
           "airingAt": 1753014600
@@ -7449,10 +7437,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752395400
-        },
-        {
           "episode": 3,
           "airingAt": 1753000200
         },
@@ -9178,10 +9162,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752391800
-        },
-        {
           "episode": 3,
           "airingAt": 1752996600
         },
@@ -9786,6 +9766,87 @@
         }
       ]
     }
+  },
+  {
+    "id": 194088,
+    "idMal": 61793,
+    "title": {
+      "romaji": "Yami Shibai 15",
+      "english": "Theatre of Darkness: Yamishibai 15",
+      "native": "闇芝居 十五期 ",
+      "userPreferred": "Theatre of Darkness: Yamishibai 15"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Horror",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194088-lzp3BHNx0tnY.png",
+      "color": "#f1d60d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752429000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753033800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1753638600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1754243400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754848200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755453000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1756057800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756662600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1757267400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757872200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1758477000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1759081800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1759686600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 195033,
