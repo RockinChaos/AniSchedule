@@ -146,14 +146,48 @@ async function findMissingEpisodes() {
 export async function updateSubFeed(scheduleUpdate, newSchedule) {
     const changes = []
     const schedule = newSchedule ? newSchedule : loadJSON(path.join('./raw/sub-schedule.json'))
-    const existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
-    const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
+    const exactSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
+    const exactHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
+    const existingSubbedFeed = structuredClone(exactSubbedFeed)
+    const existingHentaiFeed = structuredClone(exactHentaiFeed)
 
     const newEpisodes = []
+    const modifiedEpisodes = []
+    const removedEpisodes = []
     const newHentaiEpisodes = []
+    const modifiedHentaiEpisodes = []
+    const removedHentaiEpisodes = []
     schedule.forEach(entry => {
+        const hentai = entry.genres?.includes('Hentai')
         entry.airingSchedule?.nodes?.forEach(node => {
+            const scheduledAiringTime = new Date(node.airingAt * 1000)
             const existingEpisodes = [...existingSubbedFeed.filter(media => media.id === entry.id), ...existingHentaiFeed.filter(media => media.id === entry.id)]
+
+            // Make any necessary corrections to aired episodes.
+            existingEpisodes.forEach(existing => {
+                if (existing.episode?.aired === node.episode) {
+                    if (scheduledAiringTime > new Date()) { // Filter out any existing episode feed entries that matches any delayed episodes
+                        const feed = hentai ? existingHentaiFeed : existingSubbedFeed
+                        const index = feed.findIndex(ep => ep.id === entry.id && ep.episode.aired === node.episode)
+                        if (index !== -1) {
+                            feed.splice(index, 1)
+                            changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Removed Episode ${node.episode} of ${entry.title.userPreferred} as it has been delayed`)
+                            console.log(`Removed Episode ${node.episode} of ${entry.title.userPreferred} from the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed as it has been delayed!`)
+                            if (hentai) removedHentaiEpisodes.push(existing)
+                            else removedEpisodes.push(existing)
+                        }
+                    } else { // Filter out any existing episode feed entries that matches any delayed episodes
+                        const airedAt = new Date(existing.episode.airedAt)
+                        if (Math.abs(airedAt - scheduledAiringTime) > 30 * 1000) {
+                            existing.episode.airedAt = past(scheduledAiringTime, 0, false)
+                            changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Modified Episode ${node.episode} of ${entry.title.userPreferred} from ${past(airedAt, 0, false)} to ${existing.episode.airedAt}`)
+                            console.log(`Modified Episode ${node.episode} of ${entry.title.userPreferred} from the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed with aired date from ${past(airedAt, 0, false)} to ${existing.episode.airedAt}`)
+                            if (hentai) modifiedHentaiEpisodes.push(existing)
+                            else modifiedEpisodes.push(existing)
+                        }
+                    }
+                }
+            })
 
             const newEpisode = {
                 id: entry.id,
@@ -168,15 +202,10 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
             }
 
             if (!existingEpisodes.some(ep => ep.episode.aired === node.episode) && (new Date(node.airingAt * 1000 - (scheduleUpdate ?  5 * 60 * 1000 : 0))) <= new Date()) {
-                if (entry.genres?.includes('Hentai')) { // we don't need this in the main feed...
-                    newHentaiEpisodes.push(newEpisode)
-                    changes.push(`(Hentai) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
-                    console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the Hentai Episode Feed.`)
-                } else {
-                    newEpisodes.push(newEpisode)
-                    changes.push(`(Sub) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
-                    console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the Subbed Episode Feed.`)
-                }
+                if (hentai) newHentaiEpisodes.push(newEpisode)
+                else newEpisodes.push(newEpisode)
+                changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
+                console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed.`)
             }
         })
     })
@@ -184,27 +213,34 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
     const newFeed = Object.values([...newEpisodes.filter(({ id, episode }) => !existingSubbedFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingSubbedFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
     const hentaiFeed = Object.values([...newHentaiEpisodes.filter(({ id, episode }) => !existingHentaiFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingHentaiFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
 
-    saveJSON(path.join('./raw/sub-episode-feed.json'), newFeed)
-    saveJSON(path.join('./raw/hentai-episode-feed.json'), hentaiFeed)
-    saveJSON(path.join('./readable/sub-episode-feed-readable.json'), newFeed, true)
-    saveJSON(path.join('./readable/hentai-episode-feed-readable.json'), hentaiFeed, true)
-
-    if (newHentaiEpisodes.length > 0 || newEpisodes.length > 0) {
-        if (newHentaiEpisodes.length > 0) {
-            console.log(`Added ${newHentaiEpisodes.length}${newSchedule ? ' Missing' : ''} episode(s) to the Hentai Episodes Feed.`)
-            console.log(`Logged a total of ${newHentaiEpisodes.length + existingHentaiFeed.length} Hentai Episodes to date.`)
-        } else {
-            console.log(`No changes detected for the Hentai Episodes Feed.`)
-        }
-        if (newEpisodes.length > 0) {
-            console.log(`Added ${newEpisodes.length}${newSchedule ? ' Missing' : ''} episode(s) to the Subbed Episodes Feed.`)
-            console.log(`Logged a total of ${newEpisodes.length + existingSubbedFeed.length} Subbed Episodes to date.`)
-        } else {
-            console.log(`No changes detected for the Subbed Episodes Feed.`)
-        }
-    } else {
-        console.log(`No changes detected for the Subbed or Hentai Episodes Feed.`)
+    if (JSON.stringify(newFeed) !== JSON.stringify(exactSubbedFeed || {})) { // helps prevent rebase conflicts
+        saveJSON(path.join('./raw/sub-episode-feed.json'), newFeed)
+        saveJSON(path.join('./readable/sub-episode-feed-readable.json'), newFeed, true)
     }
+    if (JSON.stringify(hentaiFeed) !== JSON.stringify(exactHentaiFeed || {})) { // helps prevent rebase conflicts
+        saveJSON(path.join('./raw/hentai-episode-feed.json'), hentaiFeed)
+        saveJSON(path.join('./readable/hentai-episode-feed-readable.json'), hentaiFeed, true)
+    }
+
+    if (newHentaiEpisodes.length > 0 || modifiedHentaiEpisodes.length > 0 || removedHentaiEpisodes.length > 0 || newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
+        if (newHentaiEpisodes.length > 0 || modifiedHentaiEpisodes.length > 0 || removedHentaiEpisodes.length > 0) {
+            console.log(
+                `${newHentaiEpisodes.length > 0 ? `Added ${newHentaiEpisodes.length}${newSchedule ? ' Missing' : ''}` : ''}`
+                + `${modifiedHentaiEpisodes.length > 0 ? `${newHentaiEpisodes.length > 0 ? ' and ' : ''}Modified ${modifiedHentaiEpisodes.length}` : ''}`
+                + `${removedHentaiEpisodes.length > 0 ? `${(newHentaiEpisodes.length > 0 || modifiedHentaiEpisodes.length > 0) ? ' and ' : ''}Removed ${removedHentaiEpisodes.length}` : ''}`
+                + ` episode(s) ${(modifiedHentaiEpisodes.length > 0 || removedHentaiEpisodes.length > 0) ? 'from' : 'to'} the Hentai Episodes Feed.`)
+            console.log(`Logged a total of ${existingHentaiFeed.length + newHentaiEpisodes.length} Hentai Episodes to date.`)
+        } else console.log(`No changes detected for the Hentai Episodes Feed.`)
+
+        if (newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
+            console.log(`${newEpisodes.length > 0 ? `Added ${newEpisodes.length}${newSchedule ? ' Missing' : ''}` : ''}`
+                + `${modifiedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ' and ' : ''}Modified ${modifiedEpisodes.length}` : ''}`
+                + `${removedEpisodes.length > 0 ? `${(newEpisodes.length > 0 || modifiedEpisodes.length > 0) ? ' and ' : ''}Removed ${removedEpisodes.length}` : ''}`
+                + ` episode(s) ${(modifiedEpisodes.length > 0 || removedEpisodes.length > 0) ? 'from' : 'to'} the Subbed Episodes Feed.`)
+            console.log(`Logged a total of ${existingSubbedFeed.length + newEpisodes.length} Subbed Episodes to date.`)
+        } else console.log(`No changes detected for the Subbed Episodes Feed.`)
+
+    } else console.log(`No changes detected for the Subbed or Hentai Episodes Feed.`)
 
     return changes
 }
