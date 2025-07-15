@@ -646,8 +646,9 @@
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "No Broadcast",
+    "delayedFrom": "2025-07-20T15:00:00Z",
+    "delayedUntil": "2025-07-27T15:00:00Z",
     "episodeDate": "2025-07-20T15:00:00Z",
     "episodeNumber": 3,
     "episodes": 24,
@@ -688,7 +689,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2025-07-20T15:00:00Z"
+              "airingAt": "2025-07-27T15:00:00Z"
             }
           ]
         }
@@ -1160,7 +1161,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-07-16T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 7,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1199,6 +1201,10 @@
           "nodes": [
             {
               "episode": 7,
+              "airingAt": "2025-07-16T17:00:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2025-07-16T17:00:00Z"
             }
           ]
@@ -1277,6 +1283,7 @@
     "episodeDate": "2025-07-14T15:30:00Z",
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
+    "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1321,10 +1328,6 @@
             },
             {
               "episode": 3,
-              "airingAt": "2025-07-21T15:30:00Z"
-            },
-            {
-              "episode": 4,
               "airingAt": "2025-07-21T15:30:00Z"
             }
           ]
