@@ -1333,6 +1333,60 @@
     "addedAt": "2025-07-09T16:00:00Z"
   },
   {
+    "title": "Onmyou Kaiten Re:Birth",
+    "route": "onmyou-kaiten-re-birth",
+    "romaji": "Onmyou Kaiten Re:Birth",
+    "english": "Onmyo Kaiten Re:Birth Verse",
+    "native": "陰陽廻天 Re:バース",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
+    "episodeDate": "2025-07-16T20:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187387,
+        "idMal": 61150,
+        "title": {
+          "romaji": "Onmyo Kaiten Re:verse",
+          "english": "Onmyo Kaiten Re:Birth Verse",
+          "native": "陰陽廻天 Re:バース",
+          "userPreferred": "Onmyo Kaiten Re:Birth Verse"
+        },
+        "format": "TV",
+        "genres": [
+          "Action"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187387-dbi9hPNKyA35.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187387-dbi9hPNKyA35.jpg",
+          "color": "#5dbbe4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-23T20:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-16T21:14:49Z"
+  },
+  {
     "title": "SAKAMOTO DAYS Part 2",
     "route": "sakamoto-days-part-2",
     "romaji": "SAKAMOTO DAYS Part 2",
