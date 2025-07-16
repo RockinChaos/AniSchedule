@@ -1572,9 +1572,9 @@
     "romaji": "Tate no Yuusha no Nariagari 4",
     "english": "The Rising of the Shield Hero 4",
     "native": "盾の勇者の成り上がり 4",
-    "delayedFrom": "0001-01-01T12:30:00Z",
-    "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2025-07-16T12:30:00Z",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "episodeDate": "2025-07-16T21:00:00Z",
     "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
@@ -1614,7 +1614,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2025-07-23T12:30:00Z"
+              "airingAt": "2025-07-23T21:00:00Z"
             }
           ]
         }
@@ -1734,6 +1734,62 @@
     },
     "verified": false,
     "addedAt": "2025-07-11T15:30:00Z"
+  },
+  {
+    "title": "Tsuyokute New Saga",
+    "route": "tsuyokute-new-saga",
+    "romaji": "Tsuyokute New Saga",
+    "english": "New Saga",
+    "native": "強くてニューサーガ",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-07-16T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 155838,
+        "idMal": 53397,
+        "title": {
+          "romaji": "Tsuyokute New Saga",
+          "english": "New Saga",
+          "native": "強くてニューサーガ",
+          "userPreferred": "New Saga"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155838-0zx6MTeoo5sk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155838-0zx6MTeoo5sk.jpg",
+          "color": "#fea10d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-23T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-16T22:31:07Z"
   },
   {
     "title": "Tu Bian Yingxiong X",
