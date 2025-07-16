@@ -1786,10 +1786,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752681600
-        },
-        {
           "episode": 3,
           "airingAt": 1753286400
         },
@@ -1931,10 +1927,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752686160
-        },
         {
           "episode": 4,
           "airingAt": 1753290960
@@ -2663,10 +2655,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752670800
-        },
-        {
           "episode": 4,
           "airingAt": 1753275600
         },
@@ -3281,40 +3269,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 175645,
-    "idMal": 60577,
-    "title": {
-      "romaji": "Tongling Fei 2",
-      "english": null,
-      "native": "通灵妃 第二季",
-      "userPreferred": "Tongling Fei 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b175645-9RqIPeQhw5Pd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b175645-9RqIPeQhw5Pd.jpg",
-      "color": "#e4bb43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752678000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 175914,
@@ -4256,10 +4210,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752678000
-        },
-        {
           "episode": 3,
           "airingAt": 1753282800
         },
@@ -4612,10 +4562,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752670800
-        },
-        {
           "episode": 4,
           "airingAt": 1753275600
         },
@@ -4679,10 +4625,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752679200
-        },
         {
           "episode": 4,
           "airingAt": 1753284000
@@ -4813,10 +4755,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179678-3a0lkZVFIrlw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1752677100
-        },
         {
           "episode": 5,
           "airingAt": 1753281900
@@ -6012,7 +5950,7 @@
       "native": "SAKAMOTO DAYS 第２クール",
       "userPreferred": "SAKAMOTO DAYS Part 2"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Comedy"
@@ -6560,10 +6498,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1752678000
-        },
         {
           "episode": 16,
           "airingAt": 1753282800
@@ -8250,10 +8184,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752680760
-        },
-        {
           "episode": 4,
           "airingAt": 1753285560
         },
@@ -9776,10 +9706,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752679800
-        },
         {
           "episode": 3,
           "airingAt": 1753284600
