@@ -6011,6 +6011,70 @@
     }
   },
   {
+    "id": 184237,
+    "idMal": 60285,
+    "title": {
+      "romaji": "SAKAMOTO DAYS Part 2",
+      "english": "SAKAMOTO DAYS Part 2",
+      "native": "SAKAMOTO DAYS 第２クール",
+      "userPreferred": "SAKAMOTO DAYS Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184237-OJAksU2fsIPx.jpg",
+      "color": "#e4c943"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184237-SBj6UJvIWAOg.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1753110000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753714800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754319600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754924400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755529200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756134000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756738800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757343600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757948400
+        }
+      ]
+    }
+  },
+  {
     "id": 184289,
     "idMal": 60070,
     "title": {
@@ -8294,10 +8358,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1752619560
-        },
-        {
           "episode": 16,
           "airingAt": 1753224360
         },
@@ -8440,10 +8500,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1752627600
-        },
         {
           "episode": 9,
           "airingAt": 1754442000
@@ -9424,10 +9480,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752617160
-        },
-        {
           "episode": 4,
           "airingAt": 1753221960
         },
@@ -9522,6 +9574,10 @@
         {
           "episode": 27,
           "airingAt": 1767132360
+        },
+        {
+          "episode": 28,
+          "airingAt": 1767737160
         }
       ]
     }
