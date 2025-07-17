@@ -1455,6 +1455,38 @@
     }
   },
   {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 259,
+          "airingAt": 1752792000
+        }
+      ]
+    }
+  },
+  {
     "id": 142274,
     "idMal": 50418,
     "title": {
@@ -2077,40 +2109,6 @@
     }
   },
   {
-    "id": 157692,
-    "idMal": 59662,
-    "title": {
-      "romaji": "Long Zu 2",
-      "english": "Dragon Raja II -The Mourner's Eyes-",
-      "native": "龙族 第二季",
-      "userPreferred": "Dragon Raja II -The Mourner's Eyes-"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157692-lihmnuJGcbM6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157692-lihmnuJGcbM6.png",
-      "color": "#aec9e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752764400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 157960,
     "idMal": 53722,
     "title": {
@@ -2515,40 +2513,6 @@
     }
   },
   {
-    "id": 166475,
-    "idMal": 61952,
-    "title": {
-      "romaji": "Luo Xiaohei Zhan Ji 2",
-      "english": null,
-      "native": "罗小黑战记 2",
-      "userPreferred": "Luo Xiaohei Zhan Ji 2"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166475-2UgNkqaGigcv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166475-2UgNkqaGigcv.jpg",
-      "color": "#e4e4ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752764400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 168164,
     "idMal": null,
     "title": {
@@ -2918,10 +2882,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752764160
-        },
         {
           "episode": 4,
           "airingAt": 1753368960
@@ -4490,41 +4450,6 @@
         {
           "episode": 12,
           "airingAt": 1759586400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 178788,
-    "idMal": 59192,
-    "title": {
-      "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
-      "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "native": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "userPreferred": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Supernatural"
-    ],
-    "duration": 155,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-YGZc0lb7DNoe.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178788-YGZc0lb7DNoe.jpg",
-      "color": "#1a86e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178788-uYQZgw1v7xyN.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752764400
         }
       ]
     },
@@ -6870,10 +6795,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752764400
-        },
-        {
           "episode": 4,
           "airingAt": 1753369200
         },
@@ -7071,10 +6992,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-2yfXorZxyKJV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752765960
-        },
         {
           "episode": 4,
           "airingAt": 1753370760
@@ -7401,10 +7318,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752766200
-        },
-        {
           "episode": 3,
           "airingAt": 1753371000
         },
@@ -7666,10 +7579,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752769680
-        },
-        {
           "episode": 4,
           "airingAt": 1753374480
         },
@@ -7860,10 +7769,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1752771480
-        },
-        {
           "episode": 17,
           "airingAt": 1753376280
         },
@@ -7932,10 +7837,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1752767640
-        },
         {
           "episode": 17,
           "airingAt": 1753372440
@@ -8213,37 +8114,6 @@
         {
           "episode": 12,
           "airingAt": 1758123960
-        }
-      ]
-    }
-  },
-  {
-    "id": 187404,
-    "idMal": 61538,
-    "title": {
-      "romaji": "Asa made Shirudaku Oyakodon!!",
-      "english": null,
-      "native": "朝まで汁だく母娘丼！！",
-      "userPreferred": "Asa made Shirudaku Oyakodon!!"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187404-uRgR6RFKWlcZ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187404-uRgR6RFKWlcZ.png",
-      "color": "#e4ae50"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1752764400
         }
       ]
     }
@@ -8816,10 +8686,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1752757200
-        },
-        {
           "episode": 3,
           "airingAt": 1753362000
         },
@@ -9295,38 +9161,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 193623,
-    "idMal": 61367,
-    "title": {
-      "romaji": "Tooi-san wa Seishun Shitai! \"Baka to SmaPho to Romance to\"",
-      "english": null,
-      "native": "遠井さんは青春したい！『バカとスマホとロマンスと』",
-      "userPreferred": "Tooi-san wa Seishun Shitai! \"Baka to SmaPho to Romance to\""
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193623-t9k2EmmT8G8E.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193623-t9k2EmmT8G8E.png",
-      "color": "#e47843"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752764400
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 193707,
