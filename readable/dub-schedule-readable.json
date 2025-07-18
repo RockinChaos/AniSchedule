@@ -871,6 +871,62 @@
     "addedAt": "2025-07-16T19:11:42Z"
   },
   {
+    "title": "Kaijuu 8-gou 2nd Season",
+    "route": "kaijuu-8-gou-zoku-hen",
+    "romaji": "Kaijuu 8-gou 2nd Season",
+    "english": "Kaiju No. 8 Season 2",
+    "native": "怪獣８号 第２期",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2025-07-19T14:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178754,
+        "idMal": 59177,
+        "title": {
+          "romaji": "Kaijuu 8-gou 2nd Season",
+          "english": "Kaiju No. 8 Season 2",
+          "native": "怪獣８号 第２期",
+          "userPreferred": "Kaiju No. 8 Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178754-Dgrub8xgC03M.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178754-Dgrub8xgC03M.jpg",
+          "color": "#e4ae43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178754-nHyrEsmU0Nle.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-19T14:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-19T14:30:00Z"
+  },
+  {
     "title": "Kakushite! Makina-san!!",
     "route": "kakushite-makina-san",
     "romaji": "Kakushite! Makina-san!!",
