@@ -1153,6 +1153,63 @@
     "addedAt": "2025-06-21T07:00:00Z"
   },
   {
+    "title": "Mizu Zokusei no Mahoutsukai",
+    "route": "mizu-zokusei-no-mahoutsukai",
+    "romaji": "Mizu Zokusei no Mahoutsukai",
+    "english": "The Water Magician",
+    "native": "水属性の魔法使い",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-07-17T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 186052,
+        "idMal": 60732,
+        "title": {
+          "romaji": "Mizu Zokusei no Mahou Tsukai",
+          "english": "The Water Magician",
+          "native": "水属性の魔法使い",
+          "userPreferred": "The Water Magician"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-zq8h0Qo0O0sP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186052-zq8h0Qo0O0sP.jpg",
+          "color": "#50d6e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-24T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-18T00:18:45Z"
+  },
+  {
     "title": "Mono",
     "route": "mono",
     "romaji": "mono",
