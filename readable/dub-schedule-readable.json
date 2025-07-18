@@ -2042,6 +2042,63 @@
     "addedAt": "2025-04-06T00:30:00Z"
   },
   {
+    "title": "Watari-kun no xx ga Houkai Sunzen",
+    "route": "watari-kun-no-xx-ga-houkai-sunzen",
+    "romaji": "Watari-kun no xx ga Houkai Sunzen",
+    "english": "Watari-kun's ****** Is about to Collapse",
+    "native": "渡くんの××が崩壊寸前",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-07-18T22:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 169420,
+        "idMal": 56693,
+        "title": {
+          "romaji": "Watari-kun no xx ga Houkai Sunzen",
+          "english": "Watari-kun's ****** Is about to Collapse",
+          "native": "渡くんの××が崩壊寸前",
+          "userPreferred": "Watari-kun's ****** Is about to Collapse"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169420-u4wDhHlTfX9P.jpg",
+          "color": "#c9e493"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-25T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-18T22:14:31Z"
+  },
+  {
     "title": "Witch Watch",
     "route": "witch-watch",
     "romaji": "Witch Watch",
