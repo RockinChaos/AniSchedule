@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1707,
-          "airingAt": 1752803700
-        },
-        {
           "episode": 1708,
           "airingAt": 1753408500
         },
@@ -666,10 +662,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 613,
-          "airingAt": 1752790200
-        },
-        {
           "episode": 614,
           "airingAt": 1753395000
         },
@@ -764,6 +756,10 @@
         {
           "episode": 637,
           "airingAt": 1767305400
+        },
+        {
+          "episode": 638,
+          "airingAt": 1767910200
         }
       ]
     }
@@ -1185,10 +1181,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1752804000
-        },
-        {
           "episode": 10,
           "airingAt": 1753408800
         },
@@ -1450,38 +1442,6 @@
         {
           "episode": 12,
           "airingAt": 1755478800
-        }
-      ]
-    }
-  },
-  {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 259,
-          "airingAt": 1752792000
         }
       ]
     }
@@ -3664,12 +3624,12 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-Rjb7AszZCBU9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177687-Rjb7AszZCBU9.png",
-      "color": "#e4785d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-T4SrtVjrmW01.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177687-T4SrtVjrmW01.png",
+      "color": "#e46b5d"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-iIVXPz8fY7Ab.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-dLAgmKRZ5zkK.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -5921,6 +5881,10 @@
         {
           "episode": 11,
           "airingAt": 1757948400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758553200
         }
       ]
     }
@@ -8522,10 +8486,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1752791400
-        },
         {
           "episode": 17,
           "airingAt": 1753396200
