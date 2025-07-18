@@ -1682,6 +1682,83 @@
     "addedAt": "2025-04-29T20:15:28Z"
   },
   {
+    "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+    "route": "silent-witch-chinmoku-no-majo-no-kakushigoto",
+    "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+    "english": "Secrets of the Silent Witch",
+    "native": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2025-07-18T21:30:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179966,
+        "idMal": 59459,
+        "title": {
+          "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+          "english": "Secrets of the Silent Witch",
+          "native": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
+          "userPreferred": "Secrets of the Silent Witch"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179966-g0EU7rVe2Og7.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179966-g0EU7rVe2Og7.jpg",
+          "color": "#e4c9ae"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179966-hf71VrF1zhPM.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-18T21:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-07-18T21:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-07-18T21:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-07-25T21:30:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-07-25T21:30:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-07-25T21:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-18T22:03:14Z"
+  },
+  {
     "title": "Tate no Yuusha no Nariagari 4",
     "route": "tate-no-yuusha-no-nariagari-4",
     "romaji": "Tate no Yuusha no Nariagari 4",
