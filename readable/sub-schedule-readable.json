@@ -1549,10 +1549,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 176,
-          "airingAt": 1752877800
-        },
-        {
           "episode": 177,
           "airingAt": 1753482600
         },
@@ -1647,6 +1643,10 @@
         {
           "episode": 200,
           "airingAt": 1767393000
+        },
+        {
+          "episode": 201,
+          "airingAt": 1767997800
         }
       ]
     }
@@ -2204,7 +2204,7 @@
       "color": "#e4bb28"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-JGaVb9DxvgTa.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3051,7 +3051,7 @@
     "idMal": 57969,
     "title": {
       "romaji": "Nukitashi THE ANIMATION",
-      "english": null,
+      "english": "Nukitashi THE ANIMATION",
       "native": "ぬきたし THE ANIMATION",
       "userPreferred": "Nukitashi THE ANIMATION"
     },
@@ -3063,7 +3063,7 @@
       "Ecchi",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174188-fZg8iePD9Dca.jpg",
@@ -5949,10 +5949,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1752876000
-        },
-        {
           "episode": 17,
           "airingAt": 1753480800
         },
@@ -8395,10 +8391,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752885900
-        },
-        {
           "episode": 4,
           "airingAt": 1753490700
         },
@@ -8919,10 +8911,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752879600
-        },
-        {
           "episode": 4,
           "airingAt": 1753484400
         },
@@ -8986,10 +8974,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752876000
-        },
         {
           "episode": 4,
           "airingAt": 1753480800
