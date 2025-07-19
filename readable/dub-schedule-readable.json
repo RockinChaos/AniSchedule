@@ -173,6 +173,62 @@
     "addedAt": "2025-04-21T19:56:06Z"
   },
   {
+    "title": "Ame to Kimi to",
+    "route": "ame-to-kimi-to",
+    "romaji": "Ame to Kimi to",
+    "english": "With You and the Rain",
+    "native": "雨と君と",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-07-19T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 180425,
+        "idMal": 59619,
+        "title": {
+          "romaji": "Ame to Kimi to",
+          "english": "With You and the Rain",
+          "native": "雨と君と",
+          "userPreferred": "With You and the Rain"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180425-e5yNWog1hDuu.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180425-e5yNWog1hDuu.jpg",
+          "color": "#bbe4f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-19T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-19T22:00:00Z"
+  },
+  {
     "title": "Anne Shirley",
     "route": "anne-shirley",
     "romaji": "Anne Shirley",
@@ -1757,6 +1813,64 @@
     },
     "verified": false,
     "addedAt": "2025-07-18T22:03:14Z"
+  },
+  {
+    "title": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
+    "route": "sono-bisque-doll-wa-koi-wo-suru-zoku-hen",
+    "romaji": "Sono Bisque Doll wa Koi wo Suru 2nd Season",
+    "english": "My Dress-Up Darling 2nd Season",
+    "native": "その着せ替え人形は恋をする 2nd Season",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-07-19T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 154768,
+        "idMal": 53065,
+        "title": {
+          "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+          "english": "My Dress-Up Darling Season 2",
+          "native": "その着せ替え人形は恋をする Season 2",
+          "userPreferred": "My Dress-Up Darling Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154768-DHHvNd4MjV1p.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154768-DHHvNd4MjV1p.jpg",
+          "color": "#e4a15d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154768-EuZd63IcqsVq.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-19T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-19T19:00:00Z"
   },
   {
     "title": "Tate no Yuusha no Nariagari 4",
