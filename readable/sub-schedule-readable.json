@@ -1094,38 +1094,6 @@
     }
   },
   {
-    "id": 120756,
-    "idMal": null,
-    "title": {
-      "romaji": "Tamala 2030: A Punk Cat in Dark",
-      "english": null,
-      "native": null,
-      "userPreferred": "Tamala 2030: A Punk Cat in Dark"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Sci-Fi"
-    ],
-    "duration": 129,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120756-4PcousgzuAN9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120756-4PcousgzuAN9.jpg",
-      "color": "#932850"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1752937200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 128623,
     "idMal": 48651,
     "title": {
@@ -1924,10 +1892,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752937200
-        },
-        {
           "episode": 4,
           "airingAt": 1753542000
         },
@@ -2141,13 +2105,13 @@
     "idMal": 53722,
     "title": {
       "romaji": "BULLET/BULLET",
-      "english": null,
+      "english": "BULLET/BULLET",
       "native": "BULLET/BULLET",
       "userPreferred": "BULLET/BULLET"
     },
     "format": "ONA",
     "genres": [],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157960-IrnEWE1pvoT3.jpg",
@@ -2718,10 +2682,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1752942600
-        },
-        {
           "episode": 5,
           "airingAt": 1753547400
         },
@@ -2783,10 +2743,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171046-PjeeUUfeaVyR.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752935400
-        },
         {
           "episode": 4,
           "airingAt": 1753540200
@@ -3696,10 +3652,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752940560
-        },
-        {
           "episode": 4,
           "airingAt": 1753545360
         },
@@ -3763,10 +3715,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1752930000
-        },
         {
           "episode": 5,
           "airingAt": 1753534800
@@ -4323,10 +4271,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752937200
-        },
-        {
           "episode": 4,
           "airingAt": 1753542000
         },
@@ -4391,10 +4335,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1752933600
-        },
-        {
           "episode": 2,
           "airingAt": 1753538400
         },
@@ -4439,8 +4379,7 @@
           "airingAt": 1759586400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178869,
@@ -4856,10 +4795,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752937200
-        },
-        {
           "episode": 4,
           "airingAt": 1753542000
         },
@@ -5063,10 +4998,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752942600
-        },
         {
           "episode": 4,
           "airingAt": 1753547400
@@ -5336,10 +5267,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-SBhwJNPxjHrr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752939000
-        },
         {
           "episode": 4,
           "airingAt": 1753543800
@@ -5850,7 +5777,7 @@
       "Action",
       "Comedy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
@@ -7397,10 +7324,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752935400
-        },
-        {
           "episode": 4,
           "airingAt": 1753540200
         },
@@ -7861,10 +7784,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1752933600
-        },
         {
           "episode": 4,
           "airingAt": 1753538400
@@ -8355,7 +8274,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188653-B24R4Eo7GMi2.jpg",
@@ -9287,7 +9206,7 @@
       "Horror",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png",
