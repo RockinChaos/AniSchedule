@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1168,
-          "airingAt": 1752915600
-        },
-        {
           "episode": 1169,
           "airingAt": 1753520400
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1192,
           "airingAt": 1767430800
+        },
+        {
+          "episode": 1193,
+          "airingAt": 1768035600
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1293,
-          "airingAt": 1752910200
-        },
         {
           "episode": 1294,
           "airingAt": 1753515000
@@ -385,6 +381,10 @@
         {
           "episode": 1317,
           "airingAt": 1767425400
+        },
+        {
+          "episode": 1318,
+          "airingAt": 1768030200
         }
       ]
     }
@@ -791,10 +791,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 872,
-          "airingAt": 1752912000
-        },
-        {
           "episode": 873,
           "airingAt": 1753516800
         },
@@ -889,6 +885,10 @@
         {
           "episode": 896,
           "airingAt": 1767427200
+        },
+        {
+          "episode": 897,
+          "airingAt": 1768032000
         }
       ]
     }
@@ -2520,14 +2520,6 @@
         {
           "episode": 10,
           "airingAt": 1758198360
-        },
-        {
-          "episode": 11,
-          "airingAt": 1758803160
-        },
-        {
-          "episode": 12,
-          "airingAt": 1759407960
         }
       ]
     }
@@ -3575,10 +3567,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1752913800
-        },
         {
           "episode": 16,
           "airingAt": 1753518600
@@ -6339,10 +6327,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184639-fXvQzDPP4bHL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1752917160
-        },
         {
           "episode": 17,
           "airingAt": 1753521960
@@ -9564,5 +9548,209 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 196227,
+    "idMal": 62083,
+    "title": {
+      "romaji": "Tomica & Tom",
+      "english": null,
+      "native": "トミカとトム",
+      "userPreferred": "Tomica & Tom"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196227-B9kbcrGihskA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196227-B9kbcrGihskA.png",
+      "color": "#e47828"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1752967800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1753572600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1754177400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1754782200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1755387000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1755991800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1756596600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1757201400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1757806200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1758411000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1759015800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1759620600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 196229,
+    "idMal": 62046,
+    "title": {
+      "romaji": "Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)",
+      "english": null,
+      "native": "トミカヒーローズ ジョブレイバー 特装合体ロボ (TV)",
+      "userPreferred": "Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action",
+      "Mecha"
+    ],
+    "duration": 12,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196229-5QTc73K7LoV8.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196229-5QTc73K7LoV8.png",
+      "color": "#e4a15d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1753011000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1753615800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1754220600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754825400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755430200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1756035000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756639800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757244600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757849400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758454200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1759059000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1759663800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1760268600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1760873400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1761478200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1762083000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1762687800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1763292600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1763897400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1764502200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1765107000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1765711800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1766316600
+        },
+        {
+          "episode": 26,
+          "airingAt": 1766921400
+        },
+        {
+          "episode": 27,
+          "airingAt": 1767526200
+        }
+      ]
+    }
   }
 ]
