@@ -190,7 +190,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 180425,
@@ -218,8 +218,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-07-19T22:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-07-26T22:00:00Z"
             }
           ]
         }
@@ -274,8 +274,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-07-19T21:30:00Z"
+              "episode": 14,
+              "airingAt": "2025-07-26T21:30:00Z"
             }
           ]
         }
