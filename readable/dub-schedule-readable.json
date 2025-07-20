@@ -757,6 +757,62 @@
     "addedAt": "2025-07-06T15:00:00Z"
   },
   {
+    "title": "Game Center Shoujo to Ibunka Kouryuu",
+    "route": "game-center-shoujo-to-ibunka-kouryuu",
+    "romaji": "Game Center Shoujo to Ibunka Kouryuu",
+    "english": "Cultural Exchange With a Game Centre Girl",
+    "native": "ゲーセン少女と異文化交流",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-07-20T22:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 180794,
+        "idMal": 59689,
+        "title": {
+          "romaji": "GaCen Shoujo to Ibunka Kouryuu",
+          "english": "Cultural Exchange with a Game Centre Girl",
+          "native": "ゲーセン少女と異文化交流",
+          "userPreferred": "Cultural Exchange with a Game Centre Girl"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-rQGxkguEc2ov.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180794-rQGxkguEc2ov.png",
+          "color": "#86f143"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-27T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-20T23:40:40Z"
+  },
+  {
     "title": "Ginga Tokkyuu Milky☆Subway",
     "route": "ginga-tokkyuu-milky-subway",
     "romaji": "Ginga Tokkyuu Milky☆Subway",
