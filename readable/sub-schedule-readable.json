@@ -535,10 +535,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2789,
-          "airingAt": 1753003800
-        },
-        {
           "episode": 2790,
           "airingAt": 1753608600
         },
@@ -633,6 +629,10 @@
         {
           "episode": 2813,
           "airingAt": 1767519000
+        },
+        {
+          "episode": 2814,
+          "airingAt": 1768123800
         }
       ]
     }
@@ -919,10 +919,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 323,
-          "airingAt": 1753002000
-        },
         {
           "episode": 324,
           "airingAt": 1753606800
@@ -2434,7 +2430,7 @@
       "Music",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166215-3GkidWAYu5cr.png",
@@ -3566,9 +3562,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-uS1k7uaDNfzh.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177518-uS1k7uaDNfzh.png",
-      "color": "#f18650"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-jv8sDYLdEsmb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177518-jv8sDYLdEsmb.png",
+      "color": "#f1a150"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -4923,10 +4919,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1752998400
-        },
-        {
           "episode": 17,
           "airingAt": 1753603200
         },
@@ -5186,10 +5178,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753014600
-        },
         {
           "episode": 4,
           "airingAt": 1753619400
@@ -5815,10 +5803,6 @@
         {
           "episode": 11,
           "airingAt": 1757948400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1758553200
         }
       ]
     }
@@ -7063,10 +7047,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753000200
-        },
         {
           "episode": 4,
           "airingAt": 1753605000
@@ -8619,10 +8599,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1752996600
-        },
-        {
           "episode": 4,
           "airingAt": 1753601400
         },
@@ -9460,16 +9436,16 @@
     "id": 196227,
     "idMal": 62083,
     "title": {
-      "romaji": "Tomica & Tom",
+      "romaji": "TOMICA & TOM",
       "english": null,
       "native": "トミカとトム",
-      "userPreferred": "Tomica & Tom"
+      "userPreferred": "TOMICA & TOM"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 2,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196227-B9kbcrGihskA.png",
@@ -9552,10 +9528,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753011000
-        },
         {
           "episode": 4,
           "airingAt": 1753615800
@@ -9651,6 +9623,10 @@
         {
           "episode": 27,
           "airingAt": 1767526200
+        },
+        {
+          "episode": 28,
+          "airingAt": 1768131000
         }
       ]
     }
