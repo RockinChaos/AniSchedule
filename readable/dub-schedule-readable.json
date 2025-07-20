@@ -871,6 +871,64 @@
     "addedAt": "2025-07-16T17:00:00Z"
   },
   {
+    "title": "Jibaku Shounen Hanako-kun 2 Part 2",
+    "route": "jibaku-shounen-hanako-kun-2-zoku-hen",
+    "romaji": "Jibaku Shounen Hanako-kun 2 Part 2",
+    "english": "Toilet-bound Hanako-kun Season 2 Part 2",
+    "native": "地縛少年花子くん2 後編",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "episodeDate": "2025-07-20T21:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189326,
+        "idMal": 61339,
+        "title": {
+          "romaji": "Jibaku Shounen Hanako-kun 2 Part 2",
+          "english": "Toilet-Bound Hanako-kun Season 2 Part 2",
+          "native": "地縛少年花子くん２ 後編",
+          "userPreferred": "Toilet-Bound Hanako-kun Season 2 Part 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189326-kaYdWFxyyYdx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189326-kaYdWFxyyYdx.jpg",
+          "color": "#f1ae43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189326-QgANtHkolp8i.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-27T21:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-20T21:13:16Z"
+  },
+  {
     "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
     "route": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
@@ -1502,6 +1560,61 @@
     },
     "verified": false,
     "addedAt": "2025-07-09T16:00:00Z"
+  },
+  {
+    "title": "Nyaight of the Living Cat",
+    "route": "nyaight-of-the-living-cat",
+    "romaji": "Nyaight of the Living Cat",
+    "english": "Nyaight of the Living Cat",
+    "native": "ニャイト・オブ・ザ・リビングキャット",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-07-20T19:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 175124,
+        "idMal": 58197,
+        "title": {
+          "romaji": "Nyaight of the Living Cat",
+          "english": "Nyaight of the Living Cat",
+          "native": "ニャイト・オブ・ザ・リビングキャット",
+          "userPreferred": "Nyaight of the Living Cat"
+        },
+        "format": "ONA",
+        "genres": [
+          "Horror"
+        ],
+        "duration": 25,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175124-eDYbn0W5F4to.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175124-eDYbn0W5F4to.jpg",
+          "color": "#e4bb93"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175124-lxJPpMs1JGIc.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-27T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-20T21:13:16Z"
   },
   {
     "title": "Onmyou Kaiten Re:Birth",
