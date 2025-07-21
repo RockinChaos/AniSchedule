@@ -2712,6 +2712,7 @@
     "format": "TV",
     "genres": [
       "Comedy",
+      "Mystery",
       "Psychological",
       "Romance",
       "Supernatural"
@@ -5363,10 +5364,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753102440
-        },
         {
           "episode": 4,
           "airingAt": 1753707240
