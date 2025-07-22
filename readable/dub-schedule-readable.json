@@ -910,6 +910,62 @@
     "addedAt": "2025-07-19T14:30:00Z"
   },
   {
+    "title": "Kanojo, Okarishimasu 4",
+    "route": "kanojo-okarishimasu-4",
+    "romaji": "Kanojo, Okarishimasu 4",
+    "english": "Rent-a-Girlfriend 4",
+    "native": "彼女、お借りします 第4期",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "episodeDate": "2025-07-22T20:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179344,
+        "idMal": 59277,
+        "title": {
+          "romaji": "Kanojo, Okarishimasu 4th Season",
+          "english": "Rent-a-Girlfriend Season 4",
+          "native": "彼女、お借りします 第4期",
+          "userPreferred": "Rent-a-Girlfriend Season 4"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179344-GQzJfehpQI72.png",
+          "color": "#28c9f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-29T20:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-22T20:33:25Z"
+  },
+  {
     "title": "Kijin Gentoushou",
     "route": "kijin-gentoushou",
     "romaji": "Kijin Gentoushou",
