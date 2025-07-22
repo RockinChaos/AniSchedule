@@ -2257,10 +2257,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753201740
-        },
-        {
           "episode": 4,
           "airingAt": 1753806540
         },
@@ -3035,6 +3031,51 @@
     }
   },
   {
+    "id": 175035,
+    "idMal": 58953,
+    "title": {
+      "romaji": "Pokémon Concierge Part 2",
+      "english": "Pokémon Concierge: Season 1: Part 2",
+      "native": "ポケモンコンシェルジュ 2クール",
+      "userPreferred": "Pokémon Concierge: Season 1: Part 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175035-4MjdEE8Fd3Y2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175035-4MjdEE8Fd3Y2.jpg",
+      "color": "#1ad6c9"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175035-amFDJG9H5dwc.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1756969200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1756969200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1756969200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1756969200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 175124,
     "idMal": 58197,
     "title": {
@@ -3744,10 +3785,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753196400
-        },
         {
           "episode": 4,
           "airingAt": 1753801200
@@ -4497,10 +4534,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753189200
-        },
-        {
           "episode": 5,
           "airingAt": 1753794000
         },
@@ -4622,10 +4655,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753192800
-        },
         {
           "episode": 4,
           "airingAt": 1753797600
@@ -5019,10 +5048,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180460-Id13IZ4FSBuf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753194600
-        },
         {
           "episode": 5,
           "airingAt": 1753799400
@@ -6458,10 +6483,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753194600
-        },
-        {
           "episode": 5,
           "airingAt": 1753799400
         },
@@ -7747,10 +7768,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753200000
-        },
-        {
           "episode": 5,
           "airingAt": 1753804800
         },
@@ -8265,65 +8282,6 @@
         {
           "episode": 25,
           "airingAt": 1766191500
-        }
-      ]
-    }
-  },
-  {
-    "id": 188884,
-    "idMal": 61300,
-    "title": {
-      "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
-      "english": null,
-      "native": "すみっコぐらし ここがおちつくんです",
-      "userPreferred": "Sumikko Gurashi: Koko ga Ochitsukun Desu"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188884-pmEMLEcpTovv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188884-pmEMLEcpTovv.png",
-      "color": "#e4c993"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1753396200
-        },
-        {
-          "episode": 18,
-          "airingAt": 1754001000
-        },
-        {
-          "episode": 19,
-          "airingAt": 1754605800
-        },
-        {
-          "episode": 20,
-          "airingAt": 1755210600
-        },
-        {
-          "episode": 21,
-          "airingAt": 1755815400
-        },
-        {
-          "episode": 22,
-          "airingAt": 1756420200
-        },
-        {
-          "episode": 23,
-          "airingAt": 1757025000
-        },
-        {
-          "episode": 24,
-          "airingAt": 1757629800
         }
       ]
     }
@@ -9322,9 +9280,9 @@
     "idMal": 61984,
     "title": {
       "romaji": "bâan: Otona no Kyoukai",
-      "english": "bâan: The Boundaries of Adulthood",
+      "english": "bâan: The Boundary of Adulthood",
       "native": "bâan -大人の彊界-",
-      "userPreferred": "bâan: The Boundaries of Adulthood"
+      "userPreferred": "bâan: The Boundary of Adulthood"
     },
     "format": "MOVIE",
     "genres": [
