@@ -910,6 +910,62 @@
     "addedAt": "2025-07-19T14:30:00Z"
   },
   {
+    "title": "Kakkou no Iinazuke 2nd Season",
+    "route": "kakkou-no-iinazuke-2nd-season",
+    "romaji": "Kakkou no Iinazuke 2nd Season",
+    "english": "A Couple of Cuckoos 2nd Season",
+    "native": "カッコウの許嫁 第2期",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "episodeDate": "2025-07-22T21:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179828,
+        "idMal": 59402,
+        "title": {
+          "romaji": "Kakkou no Iinazuke Season 2",
+          "english": "A Couple of Cuckoos Season 2",
+          "native": "カッコウの許嫁 Season2",
+          "userPreferred": "A Couple of Cuckoos Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-Yc1b1R2dxQyc.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179828-Yc1b1R2dxQyc.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-29T21:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-22T22:06:47Z"
+  },
+  {
     "title": "Kanojo, Okarishimasu 4",
     "route": "kanojo-okarishimasu-4",
     "romaji": "Kanojo, Okarishimasu 4",
