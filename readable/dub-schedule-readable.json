@@ -228,8 +228,9 @@
     "english": "BULLET/BULLET",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-07-23T07:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-08-13T07:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 9,
     "episodes": 12,
     "mediaTypes": [
       {
@@ -263,7 +264,19 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2025-07-23T07:00:00Z"
+              "airingAt": "2025-08-13T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-08-13T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-08-13T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-08-13T07:00:00Z"
             }
           ]
         }
@@ -1064,6 +1077,106 @@
     },
     "verified": false,
     "addedAt": "2025-07-18T00:18:45Z"
+  },
+  {
+    "title": "My Melody & Kuromi",
+    "route": "my-melody-and-kuromi",
+    "romaji": "My Melody & Kuromi",
+    "english": "My Melody & Kuromi",
+    "native": "マイメロディとクロミ",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-07-24T07:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 13,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 186043,
+        "idMal": 60726,
+        "title": {
+          "romaji": "My Melody & Kuromi",
+          "english": null,
+          "native": "My Melody & Kuromi",
+          "userPreferred": "My Melody & Kuromi"
+        },
+        "format": "ONA",
+        "genres": [
+          "Slice of Life"
+        ],
+        "duration": 13,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186043-nXyStyc58cFd.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186043-nXyStyc58cFd.jpg",
+          "color": "#e45d6b"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186043-o2JJIMlMuRIe.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-07-24T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-07-24T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-24T07:00:00Z"
   },
   {
     "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
