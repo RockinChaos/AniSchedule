@@ -1798,10 +1798,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753286400
-        },
-        {
           "episode": 4,
           "airingAt": 1753891200
         },
@@ -1935,10 +1931,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753290960
-        },
         {
           "episode": 5,
           "airingAt": 1753895760
@@ -2554,10 +2546,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753275600
-        },
-        {
           "episode": 5,
           "airingAt": 1753880400
         },
@@ -2885,10 +2873,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753272000
-        },
-        {
           "episode": 4,
           "airingAt": 1753876800
         },
@@ -2955,6 +2939,37 @@
         {
           "episode": 4,
           "airingAt": 1753369200
+        }
+      ]
+    }
+  },
+  {
+    "id": 174184,
+    "idMal": 58123,
+    "title": {
+      "romaji": "Dearest Blue",
+      "english": null,
+      "native": "ディアレストブルー",
+      "userPreferred": "Dearest Blue"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 23,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174184-N7eCrGXa2isV.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174184-N7eCrGXa2isV.png",
+      "color": "#e45050"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174184-lPhIQjEadkv3.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1761836400
         }
       ]
     }
@@ -3163,10 +3178,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 34,
-          "airingAt": 1753268400
-        },
         {
           "episode": 35,
           "airingAt": 1753873200
@@ -3777,12 +3788,12 @@
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-0TLsu8WXPaJy.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177880-0TLsu8WXPaJy.jpg",
-      "color": "#5078e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-54MNSycPEMFA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177880-54MNSycPEMFA.jpg",
+      "color": "#93d61a"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177880-yxSlkbBHz1Wx.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4102,10 +4113,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753282800
-        },
-        {
           "episode": 4,
           "airingAt": 1753887600
         },
@@ -4406,10 +4413,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753275600
-        },
-        {
           "episode": 5,
           "airingAt": 1753880400
         },
@@ -4469,10 +4472,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753284000
-        },
         {
           "episode": 5,
           "airingAt": 1753888800
@@ -4595,10 +4594,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179678-3a0lkZVFIrlw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1753281900
-        },
         {
           "episode": 6,
           "airingAt": 1753886700
@@ -4981,7 +4976,7 @@
       "color": "#bbe4f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180425-l3CldufhygVc.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6255,10 +6250,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1753282800
-        },
-        {
           "episode": 17,
           "airingAt": 1753887600
         },
@@ -7306,51 +7297,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 2,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 3,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 4,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 5,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 6,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 7,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 8,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 9,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 10,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 11,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         },
         {
           "episode": 12,
-          "airingAt": 1753282800
+          "airingAt": 1753340400
         }
       ]
     },
@@ -7875,10 +7866,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753285560
-        },
         {
           "episode": 5,
           "airingAt": 1753890360
@@ -8778,6 +8765,10 @@
         {
           "episode": 1,
           "airingAt": 1756393200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1761836400
         }
       ]
     },
@@ -9228,10 +9219,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753284600
-        },
         {
           "episode": 4,
           "airingAt": 1753889400
