@@ -1513,8 +1513,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-07-23T20:30:00Z"
+              "episode": 3,
+              "airingAt": "2025-07-30T20:30:00Z"
             }
           ]
         }
@@ -1808,6 +1808,64 @@
     },
     "verified": true,
     "addedAt": "2025-07-09T19:39:32Z"
+  },
+  {
+    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+    "route": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season",
+    "romaji": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season",
+    "english": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season",
+    "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "episodeDate": "2025-07-23T20:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178090,
+        "idMal": 59095,
+        "title": {
+          "romaji": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season",
+          "english": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+          "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
+          "userPreferred": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178090-1OOScJqXLjRd.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178090-1OOScJqXLjRd.png",
+          "color": "#78bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-07-30T20:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-23T20:52:14Z"
   },
   {
     "title": "Tougen Anki",
