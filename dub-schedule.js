@@ -97,6 +97,34 @@ export async function fetchDubSchedule() {
         }
     }
 
+    // Handle custom dubs
+    let customDubs = loadJSON(path.join('./custom/custom-dubs.json'))
+    const exactCustomDubs = structuredClone(customDubs)
+    if (customDubs?.length) {
+        console.log(`Detected ${customDubs?.length} custom dubs, handling...`)
+        for (const dub of customDubs) {
+            if (new Date(dub.episodeDate) < new Date()) {
+                console.log(`Custom dub ${dub.route} has passed it episode date ${dub.episodeDate}, updating to reflect the next episodes air date.`)
+                dub.episodeDate = past(new Date(dub.episodeDate), dub.episodeNumber, false)
+                dub.episodeNumber = dub.episodeNumber + 1
+                dub.airingStatus = 'aired'
+            }
+        }
+    }
+    // Filter out completed custom dubs.
+    customDubs = customDubs.filter(dub => {
+        if (dub.episodes && dub.episodeNumber > dub.episodes) {
+            console.log(`Removing ${dub.route} as it has exceeded the episode count (${dub.episodeNumber}/${dub.episodes}), this means it has likely finished airing.`)
+            return false
+        }
+        return true
+    })
+    if (JSON.stringify(customDubs) !== JSON.stringify(exactCustomDubs)) {
+        console.log(`Changes detected in the custom dubs lists.... saved!`)
+        saveJSON(path.join(`./custom/custom-dubs.json`), customDubs, true)
+    }
+    airingLists.update((lists) => [...lists, ...customDubs])
+
     let timetables = await airingLists.value
     if (timetables) {
         timetables = timetables.filter((entry) => {
