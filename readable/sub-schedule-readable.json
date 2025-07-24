@@ -2414,10 +2414,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1753359960
-        },
-        {
           "episode": 3,
           "airingAt": 1753964760
         },
@@ -2804,10 +2800,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753368960
-        },
-        {
           "episode": 5,
           "airingAt": 1753973760
         },
@@ -2907,38 +2899,6 @@
         {
           "episode": 12,
           "airingAt": 1758715200
-        }
-      ]
-    }
-  },
-  {
-    "id": 174181,
-    "idMal": 58122,
-    "title": {
-      "romaji": "Succubus★Connect!",
-      "english": null,
-      "native": "サキュバス★コネクト！",
-      "userPreferred": "Succubus★Connect!"
-    },
-    "format": "OVA",
-    "genres": [
-      "Fantasy",
-      "Hentai"
-    ],
-    "duration": 17,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174181-vHbr7mnWOxK7.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174181-vHbr7mnWOxK7.png",
-      "color": "#ae356b"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753369200
         }
       ]
     }
@@ -5502,28 +5462,23 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1753363800
-        },
-        {
           "episode": 2,
-          "airingAt": 1753968600
+          "airingAt": 1753965000
         },
         {
           "episode": 3,
-          "airingAt": 1754573400
+          "airingAt": 1754569800
         },
         {
           "episode": 4,
-          "airingAt": 1755178200
+          "airingAt": 1755174600
         },
         {
           "episode": 5,
-          "airingAt": 1755783000
+          "airingAt": 1755779400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183128,
@@ -6610,10 +6565,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753369200
-        },
-        {
           "episode": 5,
           "airingAt": 1753974000
         },
@@ -6799,10 +6750,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753370760
-        },
         {
           "episode": 5,
           "airingAt": 1753975560
@@ -7117,10 +7064,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753371000
-        },
-        {
           "episode": 4,
           "airingAt": 1753975800
         },
@@ -7272,82 +7215,6 @@
     }
   },
   {
-    "id": 186043,
-    "idMal": 60726,
-    "title": {
-      "romaji": "My Melody & Kuromi",
-      "english": null,
-      "native": "My Melody & Kuromi",
-      "userPreferred": "My Melody & Kuromi"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 13,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186043-nXyStyc58cFd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186043-nXyStyc58cFd.jpg",
-      "color": "#e45d6b"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186043-o2JJIMlMuRIe.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 2,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 3,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 4,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 5,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 6,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 7,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 8,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 9,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 10,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1753340400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1753340400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 186052,
     "idMal": 60732,
     "title": {
@@ -7373,10 +7240,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753374480
-        },
         {
           "episode": 5,
           "airingAt": 1753979280
@@ -7476,37 +7339,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 186307,
-    "idMal": 60857,
-    "title": {
-      "romaji": "Notto Sexaroid Eurie!",
-      "english": null,
-      "native": "のっと・せくさろいど・エウリィ！",
-      "userPreferred": "Notto Sexaroid Eurie!"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 15,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186307-gFvI6OyQpql0.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186307-gFvI6OyQpql0.png",
-      "color": "#d6781a"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1753369200
-        }
-      ]
-    }
   },
   {
     "id": 186308,
@@ -7632,10 +7464,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1753372440
-        },
         {
           "episode": 18,
           "airingAt": 1753977240
@@ -8116,10 +7944,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1753349400
-        },
-        {
           "episode": 19,
           "airingAt": 1753954200
         },
@@ -8328,10 +8152,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753361640
-        },
-        {
           "episode": 5,
           "airingAt": 1753966440
         },
@@ -8393,10 +8213,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753362000
-        },
         {
           "episode": 4,
           "airingAt": 1753966800
@@ -8538,76 +8354,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 191451,
-    "idMal": null,
-    "title": {
-      "romaji": "Kyou wa Yubiwa wo Hazusukara......",
-      "english": null,
-      "native": "今日は指輪を外すから……",
-      "userPreferred": "Kyou wa Yubiwa wo Hazusukara......"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191451-weddKt3utNpb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191451-weddKt3utNpb.png",
-      "color": "#aec9f1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1753369200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 191452,
-    "idMal": 61583,
-    "title": {
-      "romaji": "Immoral Game Master THE ANIMATION",
-      "english": null,
-      "native": "淫モラル・ゲームマスター THE ANIMATION",
-      "userPreferred": "Immoral Game Master THE ANIMATION"
-    },
-    "format": "OVA",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191452-5303uC2Sntze.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191452-5303uC2Sntze.png",
-      "color": "#e4a150"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1753369200
-        },
-        {
-          "episode": 2,
-          "airingAt": 1753369200
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 191994,
