@@ -57,5 +57,4 @@ jobs:
         git commit -m "$title" || exit 0
         fi
         
-        git pull --rebase
         git push
