@@ -684,6 +684,75 @@
     "addedAt": "2025-07-03T20:15:19Z"
   },
   {
+    "title": "Guimi Zhi Zhu",
+    "route": "guimi-zhi-zhu",
+    "romaji": "Guimi Zhi Zhu",
+    "english": "Lord of Mysteries",
+    "native": "诡秘之主",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-07-25T19:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 35,
+    "mediaTypes": [
+      {
+        "name": "ONA (Chinese)",
+        "route": "ona-chinese"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 137667,
+        "idMal": 49818,
+        "title": {
+          "romaji": "Guimi Zhi Zhu",
+          "english": "Lord of Mysteries",
+          "native": "诡秘之主",
+          "userPreferred": "Lord of Mysteries"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy",
+          "Mystery",
+          "Supernatural",
+          "Thriller"
+        ],
+        "duration": 35,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-zHFOF6qbpksP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137667-zHFOF6qbpksP.jpg",
+          "color": "#aed6e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137667-AhUoT3NFgbif.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-25T19:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-07-25T19:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-08-01T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-25T19:38:48Z"
+  },
+  {
     "title": "Hana wa Saku, Shura no Gotoku",
     "route": "hana-wa-saku-shura-no-gotoku",
     "romaji": "Hana wa Saku, Shura no Gotoku",
