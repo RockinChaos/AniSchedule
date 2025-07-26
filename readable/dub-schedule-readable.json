@@ -1706,6 +1706,65 @@
     "addedAt": "2025-07-14T16:47:50Z"
   },
   {
+    "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+    "route": "seishun-buta-yarou-daigakusei-hen",
+    "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+    "english": "Rascal Does Not Dream of Santa Claus",
+    "native": "青春ブタ野郎はサンタクロースの夢を見ない",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-07-26T19:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 171046,
+        "idMal": 57433,
+        "title": {
+          "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+          "english": "Rascal Does Not Dream of Santa Claus",
+          "native": "青春ブタ野郎はサンタクロースの夢を見ない",
+          "userPreferred": "Rascal Does Not Dream of Santa Claus"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Mystery",
+          "Psychological",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171046-9leqLiNuOqNu.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171046-9leqLiNuOqNu.png",
+          "color": "#e4c928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171046-PjeeUUfeaVyR.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-08-02T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-26T19:49:49Z"
+  },
+  {
     "title": "Sentai Daishikkaku 2nd Season",
     "route": "sentai-daishikkaku-2nd-season",
     "romaji": "Sentai Daishikkaku 2nd Season",
