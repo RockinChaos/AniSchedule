@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1137,
-          "airingAt": 1753625760
-        },
-        {
           "episode": 1138,
           "airingAt": 1754230560
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1161,
           "airingAt": 1768140960
+        },
+        {
+          "episode": 1162,
+          "airingAt": 1768745760
         }
       ]
     }
@@ -1125,7 +1125,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": null,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135580-9aYDdfUwCYuF.png",
@@ -1137,11 +1137,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
+          "episode": 12,
           "airingAt": 1754013600
         },
         {
-          "episode": 12,
+          "episode": 13,
           "airingAt": 1754618400
         }
       ]
@@ -2992,10 +2992,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753624800
-        },
-        {
           "episode": 5,
           "airingAt": 1754229600
         },
@@ -3719,10 +3715,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753626600
-        },
-        {
           "episode": 4,
           "airingAt": 1754231400
         },
@@ -4033,10 +4025,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753623000
-        },
         {
           "episode": 5,
           "airingAt": 1754227800
@@ -4929,10 +4917,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753626600
-        },
-        {
           "episode": 5,
           "airingAt": 1754231400
         },
@@ -5121,10 +5105,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181841-aegccbKnNjxK.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753628400
-        },
         {
           "episode": 5,
           "airingAt": 1754233200
@@ -5486,10 +5466,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753627560
-        },
-        {
           "episode": 5,
           "airingAt": 1754232360
         },
@@ -5800,10 +5776,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753621200
-        },
-        {
           "episode": 5,
           "airingAt": 1754226000
         },
@@ -5863,10 +5835,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753626600
-        },
         {
           "episode": 5,
           "airingAt": 1754231400
@@ -6462,31 +6430,31 @@
       "nodes": [
         {
           "episode": 18,
-          "airingAt": 1754064780
-        },
-        {
-          "episode": 19,
           "airingAt": 1754669580
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1755274380
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1755879180
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1756483980
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1757088780
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1757693580
+        },
+        {
+          "episode": 24,
+          "airingAt": 1758298380
         }
       ]
     }
@@ -8590,10 +8558,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1753638600
-        },
         {
           "episode": 4,
           "airingAt": 1754243400
