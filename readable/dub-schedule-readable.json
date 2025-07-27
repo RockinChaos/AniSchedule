@@ -522,6 +522,65 @@
     "addedAt": "2025-07-27T03:38:30Z"
   },
   {
+    "title": "Dekin no Mogura",
+    "route": "dekin-no-mogura",
+    "romaji": "Dekin no Mogura",
+    "english": "Dekin no Mogura: The Earthbound Mole",
+    "native": "出禁のモグラ",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
+    "episodeDate": "2025-07-27T20:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 184574,
+        "idMal": 60315,
+        "title": {
+          "romaji": "Dekin no Mogura",
+          "english": "Dekin no Mogura: The Earthbound Mole",
+          "native": "出禁のモグラ",
+          "userPreferred": "Dekin no Mogura: The Earthbound Mole"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184574-Mb2qvX1e3RgG.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-08-03T20:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-27T21:13:40Z"
+  },
+  {
     "title": "Dr. Stone: Science Future Part 2",
     "route": "dr-stone-science-future-part-2",
     "romaji": "Dr.STONE SCIENCE FUTURE Part 2",
@@ -978,8 +1037,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-07-27T21:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-08-03T21:00:00Z"
             }
           ]
         }
