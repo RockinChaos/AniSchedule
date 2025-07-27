@@ -531,10 +531,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2790,
-          "airingAt": 1753608600
-        },
-        {
           "episode": 2791,
           "airingAt": 1754213400
         },
@@ -629,6 +625,10 @@
         {
           "episode": 2814,
           "airingAt": 1768123800
+        },
+        {
+          "episode": 2815,
+          "airingAt": 1768728600
         }
       ]
     }
@@ -915,10 +915,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 324,
-          "airingAt": 1753606800
-        },
         {
           "episode": 325,
           "airingAt": 1754211600
@@ -4753,10 +4749,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1753603200
-        },
-        {
           "episode": 18,
           "airingAt": 1754208000
         },
@@ -5000,10 +4992,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753619400
-        },
         {
           "episode": 5,
           "airingAt": 1754224200
@@ -6781,10 +6769,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753605000
-        },
-        {
           "episode": 5,
           "airingAt": 1754209800
         },
@@ -8106,10 +8090,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753601400
-        },
-        {
           "episode": 5,
           "airingAt": 1754206200
         },
@@ -8878,44 +8858,48 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1754177400
-        },
-        {
-          "episode": 4,
-          "airingAt": 1754782200
-        },
-        {
-          "episode": 5,
+          "episode": 2,
           "airingAt": 1755387000
         },
         {
-          "episode": 6,
-          "airingAt": 1755991800
-        },
-        {
-          "episode": 7,
-          "airingAt": 1756596600
-        },
-        {
-          "episode": 8,
-          "airingAt": 1757201400
-        },
-        {
-          "episode": 9,
-          "airingAt": 1757806200
-        },
-        {
-          "episode": 10,
+          "episode": 3,
           "airingAt": 1758411000
         },
         {
+          "episode": 4,
+          "airingAt": 1760830200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1763249400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1766273400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1768692600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771111800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1773531000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1776555000
+        },
+        {
           "episode": 11,
-          "airingAt": 1759015800
+          "airingAt": 1778974200
         },
         {
           "episode": 12,
-          "airingAt": 1759620600
+          "airingAt": 1781998200
         }
       ]
     }
@@ -8945,10 +8929,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753615800
-        },
         {
           "episode": 5,
           "airingAt": 1754220600
@@ -9044,6 +9024,10 @@
         {
           "episode": 28,
           "airingAt": 1768131000
+        },
+        {
+          "episode": 29,
+          "airingAt": 1768735800
         }
       ]
     }
