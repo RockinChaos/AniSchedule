@@ -1974,8 +1974,32 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1753576200
+          "episode": 18,
+          "airingAt": 1754181000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1754785800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1755390600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1755995400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1756600200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1757205000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1757809800
         }
       ]
     }
@@ -2416,39 +2440,6 @@
         {
           "episode": 10,
           "airingAt": 1758198360
-        }
-      ]
-    }
-  },
-  {
-    "id": 168164,
-    "idMal": null,
-    "title": {
-      "romaji": "Dou Po Cangqiong: Nian Fan 3",
-      "english": null,
-      "native": "斗破苍穹 年番3",
-      "userPreferred": "Dou Po Cangqiong: Nian Fan 3"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168164-u56VsAe2DUAH.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168164-u56VsAe2DUAH.png",
-      "color": "#5d93e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 52,
-          "airingAt": 1753574400
         }
       ]
     }
@@ -3849,10 +3840,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1753574400
-        },
-        {
           "episode": 17,
           "airingAt": 1754179200
         },
@@ -3947,6 +3934,10 @@
         {
           "episode": 40,
           "airingAt": 1768089600
+        },
+        {
+          "episode": 41,
+          "airingAt": 1768694400
         }
       ]
     }
@@ -5690,10 +5681,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1753576200
-        },
-        {
           "episode": 18,
           "airingAt": 1754181000
         },
@@ -5788,6 +5775,10 @@
         {
           "episode": 41,
           "airingAt": 1768091400
+        },
+        {
+          "episode": 42,
+          "airingAt": 1768696200
         }
       ]
     }
@@ -6132,10 +6123,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185073-gKyL8oVOqMX1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1753572600
-        },
         {
           "episode": 26,
           "airingAt": 1754177400
@@ -6541,10 +6528,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1753572480
-        },
-        {
           "episode": 18,
           "airingAt": 1754177280
         },
@@ -6668,10 +6651,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1753568160
-        },
-        {
           "episode": 18,
           "airingAt": 1754172960
         },
@@ -6766,6 +6745,10 @@
         {
           "episode": 41,
           "airingAt": 1768083360
+        },
+        {
+          "episode": 42,
+          "airingAt": 1768688160
         }
       ]
     }
@@ -8894,10 +8877,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1753572600
-        },
         {
           "episode": 3,
           "airingAt": 1754177400
