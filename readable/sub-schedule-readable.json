@@ -1175,10 +1175,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 99,
-          "airingAt": 1753668000
-        },
-        {
           "episode": 100,
           "airingAt": 1754272800
         },
@@ -1273,6 +1269,10 @@
         {
           "episode": 123,
           "airingAt": 1768183200
+        },
+        {
+          "episode": 124,
+          "airingAt": 1768788000
         }
       ]
     }
@@ -1367,10 +1367,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1753664400
-        },
         {
           "episode": 10,
           "airingAt": 1754269200
@@ -2436,6 +2432,68 @@
         {
           "episode": 10,
           "airingAt": 1758198360
+        }
+      ]
+    }
+  },
+  {
+    "id": 169420,
+    "idMal": 56693,
+    "title": {
+      "romaji": "Watari-kun no xx ga Houkai Sunzen",
+      "english": "Watari-kun's ****** Is about to Collapse",
+      "native": "渡くんの××が崩壊寸前",
+      "userPreferred": "Watari-kun's ****** Is about to Collapse"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": 23,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169420-u4wDhHlTfX9P.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169420-u4wDhHlTfX9P.jpg",
+      "color": "#c9e493"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1754064000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1754668800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1755273600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1755878400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1756483200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757088000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757692800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758297600
         }
       ]
     }
@@ -8995,5 +9053,35 @@
         }
       ]
     }
+  },
+  {
+    "id": 196568,
+    "idMal": null,
+    "title": {
+      "romaji": "Koiboshi Perico",
+      "english": null,
+      "native": "恋星ペリコ",
+      "userPreferred": "Koiboshi Perico"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": 5,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196568-DDKw8VWHzYJl.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b196568-DDKw8VWHzYJl.png",
+      "color": "#43a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1753693200
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
