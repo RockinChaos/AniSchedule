@@ -1665,6 +1665,64 @@
     "addedAt": "2025-07-09T16:00:00Z"
   },
   {
+    "title": "Nezha: Zhi Mo Tong Nao Hai",
+    "route": "nezha-zhi-mo-tong-nao-hai",
+    "romaji": "Nezha: Zhi Mo Tong Nao Hai",
+    "english": "Ne Zha 2",
+    "native": "哪吒之魔童闹海",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2025-08-23T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 145,
+    "mediaTypes": [
+      {
+        "name": "Movie (Chinese)",
+        "route": "movie-chinese"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 186861,
+        "idMal": 60544,
+        "title": {
+          "romaji": "Nezha: Zhi Mo Tong Nao Hai",
+          "english": "Ne Zha 2",
+          "native": "哪吒之魔童闹海",
+          "userPreferred": "Ne Zha 2"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 145,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186861-3zhIhilJvbJz.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186861-3zhIhilJvbJz.jpg",
+          "color": "#f1c9a1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186861-RyWM70oLPA9h.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-08-23T00:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-08-23T00:00:00Z"
+  },
+  {
     "title": "Nyaight of the Living Cat",
     "route": "nyaight-of-the-living-cat",
     "romaji": "Nyaight of the Living Cat",
