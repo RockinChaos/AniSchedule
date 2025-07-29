@@ -2229,10 +2229,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753806540
-        },
-        {
           "episode": 5,
           "airingAt": 1754411340
         },
@@ -3688,10 +3684,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753801200
-        },
-        {
           "episode": 5,
           "airingAt": 1754406000
         },
@@ -4522,10 +4514,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753797600
-        },
-        {
           "episode": 5,
           "airingAt": 1754402400
         },
@@ -4894,10 +4882,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180460-Id13IZ4FSBuf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1753799400
-        },
         {
           "episode": 6,
           "airingAt": 1754404200
@@ -6256,10 +6240,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1753799400
-        },
-        {
           "episode": 6,
           "airingAt": 1754404200
         },
@@ -7381,10 +7361,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1753804800
-        },
         {
           "episode": 6,
           "airingAt": 1754409600
@@ -9005,5 +8981,35 @@
         }
       ]
     }
+  },
+  {
+    "id": 196694,
+    "idMal": null,
+    "title": {
+      "romaji": "Suki-Suki Diesuki Chou Ayeshiteru",
+      "english": null,
+      "native": "スキスキDieスキ超Ayeシテル",
+      "userPreferred": "Suki-Suki Diesuki Chou Ayeshiteru"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": 5,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196694-4VBDp9vLoZJe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196694-4VBDp9vLoZJe.jpg",
+      "color": "#862878"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1753876800
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
