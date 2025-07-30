@@ -1366,6 +1366,71 @@
     "addedAt": "2025-06-21T07:00:00Z"
   },
   {
+    "title": "Mikadono Sanshimai wa Angai, Choroi.",
+    "route": "mikadono-sanshimai-wa-angai-choroi",
+    "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
+    "english": "Dealing with Mikadono Sisters Is a Breeze",
+    "native": "帝乃三姉妹は案外、チョロい。",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-07-30T19:30:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178886,
+        "idMal": 59207,
+        "title": {
+          "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
+          "english": "Dealing with Mikadono Sisters Is a Breeze",
+          "native": "帝乃三姉妹は案外、チョロい。",
+          "userPreferred": "Dealing with Mikadono Sisters Is a Breeze"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-KjzSXyEB61zX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178886-KjzSXyEB61zX.jpg",
+          "color": "#f19343"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-07-30T19:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-07-30T19:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-08-06T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-07-30T20:33:03Z"
+  },
+  {
     "title": "Mizu Zokusei no Mahoutsukai",
     "route": "mizu-zokusei-no-mahoutsukai",
     "romaji": "Mizu Zokusei no Mahoutsukai",
@@ -1703,8 +1768,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-07-30T20:30:00Z"
+              "episode": 4,
+              "airingAt": "2025-08-06T20:30:00Z"
             }
           ]
         }
