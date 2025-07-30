@@ -2509,10 +2509,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1753880400
-        },
-        {
           "episode": 6,
           "airingAt": 1754485200
         },
@@ -2828,10 +2824,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753876800
-        },
-        {
           "episode": 5,
           "airingAt": 1754481600
         },
@@ -3093,10 +3085,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175137-wrX2xICR7yXt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 35,
-          "airingAt": 1753873200
-        },
         {
           "episode": 36,
           "airingAt": 1754478000
@@ -4279,10 +4267,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178869-ZFn0hKphaLtk.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1753880400
-        },
         {
           "episode": 6,
           "airingAt": 1754485200
@@ -8977,35 +8961,5 @@
         }
       ]
     }
-  },
-  {
-    "id": 196694,
-    "idMal": null,
-    "title": {
-      "romaji": "Suki-Suki Diesuki Chou Ayeshiteru",
-      "english": null,
-      "native": "スキスキDieスキ超Ayeシテル",
-      "userPreferred": "Suki-Suki Diesuki Chou Ayeshiteru"
-    },
-    "format": "MUSIC",
-    "genres": [],
-    "duration": 5,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196694-4VBDp9vLoZJe.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196694-4VBDp9vLoZJe.jpg",
-      "color": "#862878"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1753876800
-        }
-      ]
-    },
-    "unaired": true
   }
 ]
