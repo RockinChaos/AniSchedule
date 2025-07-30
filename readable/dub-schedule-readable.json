@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-07-30T17:00:00Z"
+              "episode": 14,
+              "airingAt": "2025-08-06T17:00:00Z"
             }
           ]
         }
@@ -904,14 +904,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-07-30T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-08-06T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-07-16T17:00:00Z"
   },
   {
@@ -1299,8 +1299,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-07-30T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-08-06T17:00:00Z"
             }
           ]
         }
@@ -1476,6 +1476,10 @@
             {
               "episode": 12,
               "airingAt": "2025-07-30T17:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-08-06T17:00:00Z"
             }
           ]
         }
