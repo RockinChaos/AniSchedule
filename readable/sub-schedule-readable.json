@@ -2378,10 +2378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1753964760
-        },
-        {
           "episode": 4,
           "airingAt": 1754569560
         },
@@ -2750,10 +2746,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173335-GNOmbqSZUuBa.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1753973760
-        },
         {
           "episode": 6,
           "airingAt": 1754578560
@@ -5277,10 +5269,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1753965000
-        },
-        {
           "episode": 3,
           "airingAt": 1754569800
         },
@@ -6328,10 +6316,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1753974000
-        },
-        {
           "episode": 6,
           "airingAt": 1754578800
         },
@@ -6505,10 +6489,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1753975560
-        },
         {
           "episode": 6,
           "airingAt": 1754580360
@@ -6811,10 +6791,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1753975800
-        },
-        {
           "episode": 5,
           "airingAt": 1754580600
         },
@@ -6984,10 +6960,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1753979280
-        },
-        {
           "episode": 6,
           "airingAt": 1754584080
         },
@@ -7139,10 +7111,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1753981080
-        },
-        {
           "episode": 19,
           "airingAt": 1754585880
         },
@@ -7203,10 +7171,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 18,
-          "airingAt": 1753977240
-        },
         {
           "episode": 19,
           "airingAt": 1754582040
@@ -7663,10 +7627,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1753954200
-        },
-        {
           "episode": 20,
           "airingAt": 1754559000
         },
@@ -7867,10 +7827,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1753966440
-        },
-        {
           "episode": 6,
           "airingAt": 1754571240
         },
@@ -7928,10 +7884,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1753966800
-        },
         {
           "episode": 5,
           "airingAt": 1754571600
@@ -8698,6 +8650,41 @@
         }
       ]
     }
+  },
+  {
+    "id": 195230,
+    "idMal": 61926,
+    "title": {
+      "romaji": "Summer Pockets Movie",
+      "english": null,
+      "native": "Summer Pockets 劇場編集版",
+      "userPreferred": "Summer Pockets Movie"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195230-A1Oa6Ov7w3Ux.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195230-A1Oa6Ov7w3Ux.jpg",
+      "color": "#50bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1755183600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 195494,
