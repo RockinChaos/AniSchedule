@@ -1990,10 +1990,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754055000
-        },
-        {
           "episode": 6,
           "airingAt": 1754659800
         },
@@ -2415,10 +2411,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1754064000
-        },
         {
           "episode": 6,
           "airingAt": 1754668800
@@ -2882,10 +2874,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1754067960
-        },
-        {
           "episode": 4,
           "airingAt": 1754672760
         },
@@ -3101,10 +3089,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754058600
-        },
-        {
           "episode": 6,
           "airingAt": 1754663400
         },
@@ -3225,10 +3209,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754058600
-        },
-        {
           "episode": 6,
           "airingAt": 1754663400
         },
@@ -3277,10 +3257,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1754056800
-        },
         {
           "episode": 5,
           "airingAt": 1754661600
@@ -4510,10 +4486,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754067180
-        },
-        {
           "episode": 6,
           "airingAt": 1754671980
         },
@@ -4630,10 +4602,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179966-hf71VrF1zhPM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1754060400
-        },
         {
           "episode": 6,
           "airingAt": 1754665200
@@ -6108,39 +6076,6 @@
         {
           "episode": 49,
           "airingAt": 1768087800
-        }
-      ]
-    }
-  },
-  {
-    "id": 185407,
-    "idMal": 60489,
-    "title": {
-      "romaji": "Takopii no Genzai",
-      "english": "Takopi's Original Sin",
-      "native": "タコピーの原罪",
-      "userPreferred": "Takopi's Original Sin"
-    },
-    "format": "ONA",
-    "genres": [
-      "Drama",
-      "Psychological",
-      "Sci-Fi"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185407-7uzY4fA3hokP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185407-7uzY4fA3hokP.jpg",
-      "color": "#e4435d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185407-WOKgyadY4Pr1.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1754060400
         }
       ]
     }
