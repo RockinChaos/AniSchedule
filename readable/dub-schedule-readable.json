@@ -1484,7 +1484,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-07-18T00:18:45Z"
   },
   {
@@ -2167,7 +2167,7 @@
           "color": "#78bbe4"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178090-EgKftuHoDJB7.jpg",
         "airingSchedule": {
           "nodes": [
             {
