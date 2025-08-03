@@ -561,8 +561,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-08-03T20:30:00Z"
+              "episode": 3,
+              "airingAt": "2025-08-10T20:30:00Z"
             }
           ]
         }
@@ -1019,14 +1019,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-08-03T21:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-08-10T21:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-07-20T21:13:16Z"
   },
   {
@@ -1721,7 +1721,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-07-20T21:13:16Z"
   },
   {
