@@ -1487,7 +1487,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-08-06T17:00:00Z",
-    "episodeNumber": 13,
+    "episodeNumber": 14,
+    "subtractedEpisodeNumber": 13,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1526,6 +1527,10 @@
           "nodes": [
             {
               "episode": 13,
+              "airingAt": "2025-08-06T17:00:00Z"
+            },
+            {
+              "episode": 14,
               "airingAt": "2025-08-06T17:00:00Z"
             }
           ]
