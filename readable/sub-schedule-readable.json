@@ -2169,10 +2169,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754411340
-        },
-        {
           "episode": 6,
           "airingAt": 1755016140
         },
@@ -3552,10 +3548,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754406000
-        },
-        {
           "episode": 6,
           "airingAt": 1755010800
         },
@@ -4346,10 +4338,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754402400
-        },
-        {
           "episode": 6,
           "airingAt": 1755007200
         },
@@ -4694,10 +4682,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180460-Id13IZ4FSBuf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1754404200
-        },
         {
           "episode": 7,
           "airingAt": 1755009000
@@ -5951,10 +5935,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1754404200
-        },
-        {
           "episode": 7,
           "airingAt": 1755009000
         },
@@ -6893,6 +6873,38 @@
     }
   },
   {
+    "id": 186495,
+    "idMal": null,
+    "title": {
+      "romaji": "MILGRAM Third Season",
+      "english": "MILGRAM The Third Trial",
+      "native": "ミルグラム 第三審",
+      "userPreferred": "MILGRAM The Third Trial"
+    },
+    "format": "MUSIC",
+    "genres": [
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": 3,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186495-D8i7Ru1kCxwL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186495-D8i7Ru1kCxwL.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186495-qQn7yJEHtztj.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1755615600
+        }
+      ]
+    }
+  },
+  {
     "id": 186522,
     "idMal": 60506,
     "title": {
@@ -7028,10 +7040,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1754409600
-        },
         {
           "episode": 7,
           "airingAt": 1755014400
