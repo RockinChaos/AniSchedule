@@ -628,6 +628,111 @@
     "addedAt": "2025-07-10T14:00:00Z"
   },
   {
+    "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+    "route": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
+    "romaji": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+    "english": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
+    "native": "不遇職【鑑定士】が実は最強だった",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2025-08-05T22:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178548,
+        "idMal": 59144,
+        "title": {
+          "romaji": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
+          "english": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+          "native": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
+          "userPreferred": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178548-4QkzBuJAx8w7.jpg",
+          "color": "#e4c95d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178548-dKtmhvOKdr6t.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-08-05T22:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-08-05T22:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-08-05T22:00:00Z"
+  },
+  {
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
