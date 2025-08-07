@@ -2659,10 +2659,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1754578560
-        },
-        {
           "episode": 7,
           "airingAt": 1755183360
         },
@@ -3915,37 +3911,6 @@
     }
   },
   {
-    "id": 178445,
-    "idMal": 61599,
-    "title": {
-      "romaji": "Boku no Risou no Isekai Seikatsu",
-      "english": null,
-      "native": "ボクの理想の異世界生活",
-      "userPreferred": "Boku no Risou no Isekai Seikatsu"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 16,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178445-Vx7wQLiwH664.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178445-Vx7wQLiwH664.png",
-      "color": "#86bbe4"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1754578800
-        }
-      ]
-    }
-  },
-  {
     "id": 178675,
     "idMal": 59161,
     "title": {
@@ -5033,7 +4998,7 @@
       "Comedy",
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183127-NuhBFFae2NYe.jpg",
@@ -5663,27 +5628,27 @@
       "nodes": [
         {
           "episode": 19,
-          "airingAt": 1755336360
-        },
-        {
-          "episode": 20,
           "airingAt": 1755941160
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1756545960
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1757150760
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1757755560
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1758360360
+        },
+        {
+          "episode": 24,
+          "airingAt": 1758965160
         }
       ]
     }
@@ -5946,40 +5911,6 @@
     }
   },
   {
-    "id": 185537,
-    "idMal": 60862,
-    "title": {
-      "romaji": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers",
-      "english": null,
-      "native": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
-      "userPreferred": "Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185537-bHzg7pq3EIKe.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185537-bHzg7pq3EIKe.png",
-      "color": "#f1bb50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1754578800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 185544,
     "idMal": 60523,
     "title": {
@@ -6006,10 +5937,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1754578800
-        },
         {
           "episode": 7,
           "airingAt": 1755183600
@@ -6176,10 +6103,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1754580360
-        },
         {
           "episode": 7,
           "airingAt": 1755185160
@@ -6470,10 +6393,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1754580600
-        },
-        {
           "episode": 6,
           "airingAt": 1755185400
         },
@@ -6640,31 +6559,31 @@
       "nodes": [
         {
           "episode": 6,
-          "airingAt": 1754584080
-        },
-        {
-          "episode": 7,
           "airingAt": 1755188880
         },
         {
-          "episode": 8,
+          "episode": 7,
           "airingAt": 1755793680
         },
         {
-          "episode": 9,
+          "episode": 8,
           "airingAt": 1756398480
         },
         {
-          "episode": 10,
+          "episode": 9,
           "airingAt": 1757003280
         },
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1757608080
         },
         {
-          "episode": 12,
+          "episode": 11,
           "airingAt": 1758212880
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758817680
         }
       ]
     }
@@ -6790,10 +6709,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1754585880
-        },
-        {
           "episode": 20,
           "airingAt": 1755190680
         },
@@ -6882,10 +6797,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1754582040
-        },
         {
           "episode": 20,
           "airingAt": 1755186840
