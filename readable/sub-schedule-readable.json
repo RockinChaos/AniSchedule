@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1710,
-          "airingAt": 1754618100
-        },
-        {
           "episode": 1711,
           "airingAt": 1755222900
         },
@@ -654,10 +650,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 616,
-          "airingAt": 1754604600
-        },
-        {
           "episode": 617,
           "airingAt": 1755209400
         },
@@ -752,6 +744,10 @@
         {
           "episode": 640,
           "airingAt": 1769119800
+        },
+        {
+          "episode": 641,
+          "airingAt": 1769724600
         }
       ]
     }
@@ -1105,37 +1101,6 @@
     }
   },
   {
-    "id": 135580,
-    "idMal": 60570,
-    "title": {
-      "romaji": "Ling Long 2",
-      "english": null,
-      "native": "灵笼 第二季",
-      "userPreferred": "Ling Long 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Sci-Fi"
-    ],
-    "duration": 25,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135580-9aYDdfUwCYuF.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135580-9aYDdfUwCYuF.png",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1754618400
-        }
-      ]
-    }
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -1387,10 +1352,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 265,
-          "airingAt": 1754606400
-        },
         {
           "episode": 266,
           "airingAt": 1754952000
