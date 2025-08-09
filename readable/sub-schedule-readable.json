@@ -1260,10 +1260,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1754708400
-        },
-        {
           "episode": 9,
           "airingAt": 1755313200
         },
@@ -4234,6 +4230,7 @@
     "format": "TV",
     "genres": [
       "Drama",
+      "Fantasy",
       "Romance"
     ],
     "duration": 24,
@@ -5025,10 +5022,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 43,
-          "airingAt": 1754708400
-        },
         {
           "episode": 44,
           "airingAt": 1755313200
