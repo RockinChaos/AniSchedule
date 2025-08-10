@@ -568,7 +568,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-07-27T21:13:40Z"
   },
   {
@@ -833,8 +833,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-08-10T22:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-08-17T22:00:00Z"
             }
           ]
         }
@@ -1142,6 +1142,7 @@
     "delayedUntil": "0001-01-01T19:00:00Z",
     "episodeDate": "2025-08-06T19:00:00Z",
     "episodeNumber": 4,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
