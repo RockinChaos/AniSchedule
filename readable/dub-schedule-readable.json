@@ -1763,6 +1763,103 @@
     "addedAt": "2025-07-20T21:13:16Z"
   },
   {
+    "title": "One Piece",
+    "route": "one-piece",
+    "native": "ワンピース",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "episodeDate": "2025-08-12T20:00:00Z",
+    "episodeNumber": 1133,
+    "subtractedEpisodeNumber": 1123,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 21,
+        "idMal": 21,
+        "title": {
+          "romaji": "ONE PIECE",
+          "english": "ONE PIECE",
+          "native": "ONE PIECE",
+          "userPreferred": "ONE PIECE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1999,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1123,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1124,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1125,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1126,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1127,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1128,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1129,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1130,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1131,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1132,
+              "airingAt": "2025-08-12T20:00:00Z"
+            },
+            {
+              "episode": 1133,
+              "airingAt": "2025-08-12T20:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-08-11T09:20:44Z"
+  },
+  {
     "title": "Onmyou Kaiten Re:Birth",
     "route": "onmyou-kaiten-re-birth",
     "romaji": "Onmyou Kaiten Re:Birth",
