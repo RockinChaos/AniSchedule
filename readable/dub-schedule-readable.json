@@ -7,8 +7,8 @@
     "native": "2.5次元の誘惑",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-06T17:00:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2025-08-13T17:00:00Z",
+    "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -65,8 +65,8 @@
     "native": "雨と君と",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-09T22:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-16T22:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -121,8 +121,8 @@
     "native": "アン・シャーリー",
     "delayedFrom": "2025-06-21T21:30:00Z",
     "delayedUntil": "2025-06-28T21:30:00Z",
-    "episodeDate": "2025-08-09T21:30:00Z",
-    "episodeNumber": 17,
+    "episodeDate": "2025-08-16T21:30:00Z",
+    "episodeNumber": 18,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -174,8 +174,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2025-08-09T22:45:00Z",
-    "episodeNumber": 53,
+    "episodeDate": "2025-08-16T22:45:00Z",
+    "episodeNumber": 54,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -293,8 +293,8 @@
     "native": "CITY THE ANIMATION",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-08-10T15:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-17T15:30:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -349,8 +349,8 @@
     "native": "クレバテス-魔獣の王と赤子と屍の勇者-",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2025-08-06T12:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-13T12:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -404,8 +404,8 @@
     "native": "ダンダダン 第2期",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-08-07T16:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-14T16:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -520,8 +520,8 @@
     "native": "出禁のモグラ",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-08-10T20:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-08-17T20:30:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -577,8 +577,8 @@
     "native": "Dr. STONE SCIENCE FUTURE 第2クール",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2025-08-07T14:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-14T14:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -628,118 +628,13 @@
     "addedAt": "2025-07-10T14:00:00Z"
   },
   {
-    "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
-    "route": "fuguushoku-kanteishi-ga-jitsu-wa-saikyou-datta",
-    "romaji": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
-    "english": "Even Given the Worthless \"Appraiser\" Class, I'm Actually the Strongest",
-    "native": "不遇職【鑑定士】が実は最強だった",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-05T22:00:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 178548,
-        "idMal": 59144,
-        "title": {
-          "romaji": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
-          "english": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
-          "native": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～",
-          "userPreferred": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178548-4QkzBuJAx8w7.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178548-4QkzBuJAx8w7.jpg",
-          "color": "#e4c95d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178548-dKtmhvOKdr6t.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-08-05T22:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-08-05T22:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-08-05T22:00:00Z"
-  },
-  {
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
     "delayedFrom": "2025-07-20T15:00:00Z",
     "delayedUntil": "2025-07-27T15:00:00Z",
-    "episodeDate": "2025-08-10T15:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-17T15:00:00Z",
+    "episodeNumber": 6,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -795,8 +690,8 @@
     "native": "ゲーセン少女と異文化交流",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-10T22:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-17T22:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -851,8 +746,8 @@
     "native": "銀河特急 ミルキー☆サブウェイ",
     "delayedFrom": "0001-01-01T12:55:00Z",
     "delayedUntil": "0001-01-01T12:55:00Z",
-    "episodeDate": "2025-08-07T12:55:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-14T12:55:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 4,
     "mediaTypes": [
@@ -909,8 +804,8 @@
     "native": "诡秘之主",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-08-08T19:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-15T19:00:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 35,
     "mediaTypes": [
@@ -969,8 +864,8 @@
     "native": "花は咲く、修羅の如く",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-06T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-13T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1082,8 +977,8 @@
     "native": "地縛少年花子くん2 後編",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-08-10T21:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-17T21:00:00Z",
+    "episodeNumber": 5,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1140,8 +1035,8 @@
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd Season",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-08-06T19:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-13T19:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1197,8 +1092,8 @@
     "native": "怪獣８号 第２期",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2025-08-09T14:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-16T14:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1253,8 +1148,8 @@
     "native": "カッコウの許嫁 第2期",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-08-05T21:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-08-12T21:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1309,8 +1204,8 @@
     "native": "彼女、お借りします 第4期",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-08-05T20:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-08-12T20:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1422,8 +1317,8 @@
     "native": "鬼人幻燈抄",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-06T17:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-08-13T17:00:00Z",
+    "episodeNumber": 11,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1478,8 +1373,8 @@
     "native": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-08-09T07:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-08-16T07:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 4,
     "mediaTypes": [
@@ -1534,8 +1429,8 @@
     "native": "帝乃三姉妹は案外、チョロい。",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-08-06T19:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-08-13T19:30:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1590,8 +1485,8 @@
     "native": "水属性の魔法使い",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-07T22:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-14T22:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1647,9 +1542,8 @@
     "native": "ニートくノ一となぜか同棲はじめました",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-06T17:00:00Z",
-    "episodeNumber": 14,
-    "subtractedEpisodeNumber": 13,
+    "episodeDate": "2025-08-13T17:00:00Z",
+    "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1687,14 +1581,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2025-08-06T17:00:00Z"
-            },
-            {
-              "episode": 14,
-              "airingAt": "2025-08-06T17:00:00Z"
-            },
-            {
               "episode": 15,
               "airingAt": "2025-08-13T17:00:00Z"
             }
@@ -1713,8 +1599,8 @@
     "native": "New PANTY&STOCKING with GARTERBELT",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-08-06T16:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-13T16:00:00Z",
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1829,8 +1715,8 @@
     "native": "ニャイト・オブ・ザ・リビングキャット",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-08-10T19:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-17T19:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1884,8 +1770,8 @@
     "native": "陰陽廻天 Re:バース",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-08-06T20:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-13T20:30:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1938,8 +1824,8 @@
     "native": "SAKAMOTO DAYS 第２クール",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-08-04T15:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-11T15:30:00Z",
+    "episodeNumber": 6,
     "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1994,8 +1880,8 @@
     "native": "青春ブタ野郎はサンタクロースの夢を見ない",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-08-09T19:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-08-16T19:30:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2053,8 +1939,8 @@
     "native": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-08-08T21:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-15T21:30:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2109,8 +1995,8 @@
     "native": "その着せ替え人形は恋をする 2nd Season",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-08-09T19:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-16T19:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2167,8 +2053,8 @@
     "native": "盾の勇者の成り上がり 4",
     "delayedFrom": "0001-01-01T12:30:00Z",
     "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2025-08-06T12:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-13T12:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2224,8 +2110,8 @@
     "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-08-06T20:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-08-13T20:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2282,8 +2168,8 @@
     "native": "桃源暗鬼",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-08-08T15:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-15T15:30:00Z",
+    "episodeNumber": 6,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2338,8 +2224,8 @@
     "native": "強くてニューサーガ",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-06T22:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-13T22:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2394,8 +2280,8 @@
     "native": "凸变英雄X",
     "delayedFrom": "0001-01-01T00:35:00Z",
     "delayedUntil": "0001-01-01T00:35:00Z",
-    "episodeDate": "2025-08-10T00:35:00Z",
-    "episodeNumber": 19,
+    "episodeDate": "2025-08-17T00:35:00Z",
+    "episodeNumber": 20,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2452,8 +2338,8 @@
     "native": "渡くんの××が崩壊寸前",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-08T22:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-15T22:00:00Z",
+    "episodeNumber": 5,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2509,8 +2395,8 @@
     "native": "ウィッチウォッチ",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2025-08-10T08:30:00Z",
-    "episodeNumber": 16,
+    "episodeDate": "2025-08-17T08:30:00Z",
+    "episodeNumber": 17,
     "episodes": 25,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2567,8 +2453,8 @@
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2025-08-09T12:00:00Z",
-    "episodeNumber": 31,
+    "episodeDate": "2025-08-16T12:00:00Z",
+    "episodeNumber": 32,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
