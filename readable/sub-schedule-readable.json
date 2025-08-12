@@ -1341,10 +1341,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 266,
-          "airingAt": 1754952000
-        },
-        {
           "episode": 267,
           "airingAt": 1755211200
         },
@@ -6080,10 +6076,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 43,
-          "airingAt": 1754953200
-        },
-        {
           "episode": 44,
           "airingAt": 1755558000
         },
@@ -6214,9 +6206,9 @@
     "idMal": 60697,
     "title": {
       "romaji": "Fermat no Ryouri",
-      "english": null,
+      "english": "Fermat Kitchen",
       "native": "フェルマーの料理",
-      "userPreferred": "Fermat no Ryouri"
+      "userPreferred": "Fermat Kitchen"
     },
     "format": "TV",
     "genres": [
