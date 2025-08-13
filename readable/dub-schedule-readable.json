@@ -232,6 +232,7 @@
     "episodeNumber": 12,
     "subtractedEpisodeNumber": 9,
     "episodes": 12,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -1074,8 +1075,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-08-13T19:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-08-20T19:00:00Z"
             }
           ]
         }
