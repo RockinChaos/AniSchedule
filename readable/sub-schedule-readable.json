@@ -2503,10 +2503,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755183360
-        },
-        {
           "episode": 8,
           "airingAt": 1755788160
         },
@@ -5571,10 +5567,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755183600
-        },
-        {
           "episode": 8,
           "airingAt": 1755788400
         },
@@ -5728,10 +5720,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1755185160
-        },
         {
           "episode": 8,
           "airingAt": 1755789960
@@ -6010,10 +5998,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1755185400
-        },
-        {
           "episode": 7,
           "airingAt": 1755790200
         },
@@ -6171,10 +6155,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1755188880
-        },
-        {
           "episode": 7,
           "airingAt": 1755793680
         },
@@ -6200,39 +6180,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 186169,
-    "idMal": 60774,
-    "title": {
-      "romaji": "ChaO",
-      "english": "ChaO",
-      "native": "ChaO",
-      "userPreferred": "ChaO"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186169-QRx9StczXhsR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186169-QRx9StczXhsR.jpg",
-      "color": "#e4bb43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1755183600
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 186181,
@@ -6322,10 +6269,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1755190680
-        },
-        {
           "episode": 21,
           "airingAt": 1755795480
         },
@@ -6410,10 +6353,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1755186840
-        },
         {
           "episode": 21,
           "airingAt": 1755791640
@@ -7052,10 +6991,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1755176400
-        },
-        {
           "episode": 7,
           "airingAt": 1755781200
         },
@@ -7221,6 +7156,38 @@
         }
       ]
     }
+  },
+  {
+    "id": 192452,
+    "idMal": null,
+    "title": {
+      "romaji": "Koushoku no Chuugi Kunoichi Botan",
+      "english": null,
+      "native": "好色の忠義くノ一ぼたん",
+      "userPreferred": "Koushoku no Chuugi Kunoichi Botan"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192452-sPIuxMLvBMNT.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192452-sPIuxMLvBMNT.png",
+      "color": "#fe9350"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1756393200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 193238,
@@ -7761,41 +7728,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 195230,
-    "idMal": 61926,
-    "title": {
-      "romaji": "Summer Pockets Movie",
-      "english": null,
-      "native": "Summer Pockets 劇場編集版",
-      "userPreferred": "Summer Pockets Movie"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195230-A1Oa6Ov7w3Ux.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195230-A1Oa6Ov7w3Ux.jpg",
-      "color": "#50bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1755183600
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 195494,
