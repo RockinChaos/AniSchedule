@@ -176,7 +176,7 @@
     "delayedUntil": "0001-01-01T22:45:00Z",
     "episodeDate": "2025-08-16T22:45:00Z",
     "episodeNumber": 54,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -979,6 +979,7 @@
     "delayedUntil": "0001-01-01T21:00:00Z",
     "episodeDate": "2025-08-17T21:00:00Z",
     "episodeNumber": 5,
+    "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1095,7 +1096,7 @@
     "delayedUntil": "0001-01-01T14:30:00Z",
     "episodeDate": "2025-08-16T14:30:00Z",
     "episodeNumber": 5,
-    "episodes": 12,
+    "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1873,8 +1874,6 @@
   {
     "title": "Onmyou Kaiten Re:Birth",
     "route": "onmyou-kaiten-re-birth",
-    "romaji": "Onmyou Kaiten Re:Birth",
-    "english": "Onmyo Kaiten Re:Birth Verse",
     "native": "陰陽廻天 Re:バース",
     "delayedText": "Delayed",
     "delayedFrom": "2025-08-13T20:30:00Z",
@@ -2382,6 +2381,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2025-08-15T15:30:00Z",
     "episodeNumber": 6,
+    "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
       {
