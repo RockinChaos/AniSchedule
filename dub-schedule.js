@@ -105,7 +105,7 @@ export async function fetchDubSchedule() {
         for (const dub of customDubs) {
             if (new Date(dub.episodeDate) < new Date()) {
                 console.log(`Custom dub ${dub.route} has passed it episode date ${dub.episodeDate}, updating to reflect the next episodes air date.`)
-                dub.episodeDate = past(new Date(dub.episodeDate), dub.episodeNumber, false)
+                dub.episodeDate = past(new Date(dub.episodeDate), 1, false)
                 dub.episodeNumber = dub.episodeNumber + 1
                 dub.airingStatus = 'aired'
             }
