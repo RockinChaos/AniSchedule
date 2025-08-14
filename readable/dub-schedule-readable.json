@@ -1486,8 +1486,9 @@
     "romaji": "Mizu Zokusei no Mahoutsukai",
     "english": "The Water Magician",
     "native": "水属性の魔法使い",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-14T22:00:00Z",
+    "delayedUntil": "2025-08-21T22:00:00Z",
     "episodeDate": "2025-08-14T22:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
@@ -1527,7 +1528,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2025-08-21T22:00:00Z"
             }
           ]
