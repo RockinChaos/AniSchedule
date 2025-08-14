@@ -1546,7 +1546,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-08-13T17:00:00Z",
-    "episodeNumber": 15,
+    "episodeNumber": 16,
+    "subtractedEpisodeNumber": 15,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1584,7 +1585,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 15,
+              "airingAt": "2025-08-13T17:00:00Z"
+            },
+            {
               "episode": 16,
+              "airingAt": "2025-08-13T17:00:00Z"
+            },
+            {
+              "episode": 17,
               "airingAt": "2025-08-20T17:00:00Z"
             }
           ]
@@ -1868,8 +1877,9 @@
     "romaji": "Onmyou Kaiten Re:Birth",
     "english": "Onmyo Kaiten Re:Birth Verse",
     "native": "陰陽廻天 Re:バース",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-13T20:30:00Z",
+    "delayedUntil": "2025-08-20T20:30:00Z",
     "episodeDate": "2025-08-13T20:30:00Z",
     "episodeNumber": 5,
     "lengthMin": 23,
@@ -1906,7 +1916,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2025-08-20T20:30:00Z"
             }
           ]
@@ -2030,6 +2040,108 @@
     },
     "verified": true,
     "addedAt": "2025-07-26T19:49:49Z"
+  },
+  {
+    "title": "Shin Samurai-den YAIBA",
+    "route": "yaiba",
+    "romaji": "Shin Samurai-den YAIBA",
+    "english": "YAIBA: Samurai Legend",
+    "native": "真･侍伝 YAIBA",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-08-15T07:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 177476,
+        "idMal": 58812,
+        "title": {
+          "romaji": "Shin Samurai-den YAIBA",
+          "english": "YAIBA: Samurai Legend",
+          "native": "真･侍伝 YAIBA",
+          "userPreferred": "YAIBA: Samurai Legend"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177476-kduwwEfxcZtU.jpg",
+          "color": "#e4c95d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-08-15T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-08-15T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-08-15T07:00:00Z"
   },
   {
     "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
@@ -2323,8 +2435,9 @@
     "romaji": "Tsuyokute New Saga",
     "english": "New Saga",
     "native": "強くてニューサーガ",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-13T22:00:00Z",
+    "delayedUntil": "2025-08-20T22:00:00Z",
     "episodeDate": "2025-08-13T22:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
@@ -2363,7 +2476,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2025-08-20T22:00:00Z"
             }
           ]
