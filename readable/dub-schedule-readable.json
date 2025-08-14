@@ -1538,6 +1538,65 @@
     "addedAt": "2025-07-18T00:18:45Z"
   },
   {
+    "title": "Mononoke: Hinezumi",
+    "route": "mononoke-movie-dai-ni-shou-hinezumi",
+    "romaji": "Mononoke: Hinezumi",
+    "english": "Mononoke The Movie: Chapter II - The Ashes of Rage",
+    "native": "劇場版モノノ怪 第二章 火鼠",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-08-14T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 74,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 179852,
+        "idMal": 59408,
+        "title": {
+          "romaji": "Mononoke: Hinezumi",
+          "english": "Mononoke The Movie: Chapter II - The Ashes of Rage",
+          "native": "モノノ怪 火鼠",
+          "userPreferred": "Mononoke The Movie: Chapter II - The Ashes of Rage"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Fantasy",
+          "Horror",
+          "Mystery",
+          "Psychological",
+          "Supernatural"
+        ],
+        "duration": 74,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179852-tPwGOkCxA8em.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179852-tPwGOkCxA8em.jpg",
+          "color": "#0d86fe"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-08-14T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-08-14T19:12:43Z"
+  },
+  {
     "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
     "route": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
     "romaji": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
