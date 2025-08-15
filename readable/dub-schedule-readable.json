@@ -1487,8 +1487,8 @@
     "english": "The Water Magician",
     "native": "水属性の魔法使い",
     "delayedText": "Delayed",
-    "delayedFrom": "2025-08-14T22:00:00Z",
-    "delayedUntil": "2025-08-21T22:00:00Z",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
     "episodeDate": "2025-08-14T22:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
@@ -1528,7 +1528,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
+              "episode": 6,
               "airingAt": "2025-08-21T22:00:00Z"
             }
           ]
