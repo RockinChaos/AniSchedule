@@ -2207,8 +2207,9 @@
     "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
     "english": "Secrets of the Silent Witch",
     "native": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
-    "delayedFrom": "0001-01-01T21:30:00Z",
-    "delayedUntil": "0001-01-01T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-15T21:30:00Z",
+    "delayedUntil": "2025-08-22T21:30:00Z",
     "episodeDate": "2025-08-15T21:30:00Z",
     "episodeNumber": 7,
     "episodes": 13,
@@ -2247,7 +2248,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2025-08-22T21:30:00Z"
             }
           ]
@@ -2609,8 +2610,9 @@
     "romaji": "Watari-kun no xx ga Houkai Sunzen",
     "english": "Watari-kun's ****** Is about to Collapse",
     "native": "渡くんの××が崩壊寸前",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-15T22:00:00Z",
+    "delayedUntil": "2025-08-22T22:00:00Z",
     "episodeDate": "2025-08-15T22:00:00Z",
     "episodeNumber": 5,
     "lengthMin": 24,
@@ -2650,7 +2652,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2025-08-22T22:00:00Z"
             }
           ]
