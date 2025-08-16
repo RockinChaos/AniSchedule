@@ -1382,10 +1382,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 180,
-          "airingAt": 1755297000
-        },
-        {
           "episode": 181,
           "airingAt": 1755901800
         },
@@ -1480,6 +1476,10 @@
         {
           "episode": 204,
           "airingAt": 1769812200
+        },
+        {
+          "episode": 205,
+          "airingAt": 1770417000
         }
       ]
     }
@@ -4913,10 +4913,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1755295200
-        },
-        {
           "episode": 21,
           "airingAt": 1755900000
         },
@@ -6752,10 +6748,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755305100
-        },
-        {
           "episode": 8,
           "airingAt": 1755909900
         },
@@ -7079,10 +7071,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755298800
-        },
-        {
           "episode": 8,
           "airingAt": 1755903600
         },
@@ -7162,10 +7150,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1755295200
-        },
         {
           "episode": 8,
           "airingAt": 1755900000
