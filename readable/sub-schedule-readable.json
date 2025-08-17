@@ -1807,10 +1807,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1755390600
-        },
-        {
           "episode": 21,
           "airingAt": 1755995400
         },
@@ -3410,10 +3406,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1755388800
-        },
-        {
           "episode": 20,
           "airingAt": 1755993600
         },
@@ -3508,6 +3500,10 @@
         {
           "episode": 43,
           "airingAt": 1769904000
+        },
+        {
+          "episode": 44,
+          "airingAt": 1770508800
         }
       ]
     }
@@ -4909,10 +4905,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1755390600
-        },
-        {
           "episode": 21,
           "airingAt": 1755995400
         },
@@ -5007,6 +4999,10 @@
         {
           "episode": 44,
           "airingAt": 1769905800
+        },
+        {
+          "episode": 45,
+          "airingAt": 1770510600
         }
       ]
     }
@@ -5300,10 +5296,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 28,
-          "airingAt": 1755387000
-        },
-        {
           "episode": 29,
           "airingAt": 1755991800
         },
@@ -5557,10 +5549,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1755386880
-        },
-        {
           "episode": 21,
           "airingAt": 1755991680
         },
@@ -5660,10 +5648,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1755382560
-        },
-        {
           "episode": 21,
           "airingAt": 1755987360
         },
@@ -5758,6 +5742,10 @@
         {
           "episode": 44,
           "airingAt": 1769897760
+        },
+        {
+          "episode": 45,
+          "airingAt": 1770502560
         }
       ]
     }
@@ -7661,10 +7649,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1755387000
-        },
         {
           "episode": 3,
           "airingAt": 1758411000
