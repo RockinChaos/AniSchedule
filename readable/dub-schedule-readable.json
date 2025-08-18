@@ -7,8 +7,8 @@
     "native": "2.5次元の誘惑",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-13T17:00:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2025-08-20T17:00:00Z",
+    "episodeNumber": 16,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -65,8 +65,8 @@
     "native": "雨と君と",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-16T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-23T22:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -121,8 +121,8 @@
     "native": "アン・シャーリー",
     "delayedFrom": "2025-06-21T21:30:00Z",
     "delayedUntil": "2025-06-28T21:30:00Z",
-    "episodeDate": "2025-08-16T21:30:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2025-08-23T21:30:00Z",
+    "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -174,8 +174,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2025-08-16T22:45:00Z",
-    "episodeNumber": 54,
+    "episodeDate": "2025-08-23T22:45:00Z",
+    "episodeNumber": 55,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -223,69 +223,6 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
-    "title": "BULLET/BULLET",
-    "route": "bullet-bullet",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-08-13T07:00:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 9,
-    "episodes": 12,
-    "lengthMin": 25,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 157960,
-        "idMal": 53722,
-        "title": {
-          "romaji": "BULLET/BULLET",
-          "english": "BULLET/BULLET",
-          "native": "BULLET/BULLET",
-          "userPreferred": "BULLET/BULLET"
-        },
-        "format": "ONA",
-        "genres": [],
-        "duration": 25,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157960-IrnEWE1pvoT3.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157960-IrnEWE1pvoT3.jpg",
-          "color": "#f1e4ae"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2025-08-13T07:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-08-13T07:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-08-13T07:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-08-13T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-16T07:00:00Z"
-  },
-  {
     "title": "City The Animation",
     "route": "city-the-animation",
     "romaji": "CITY THE ANIMATION",
@@ -293,8 +230,8 @@
     "native": "CITY THE ANIMATION",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-08-17T15:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-08-24T15:30:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -349,8 +286,8 @@
     "native": "クレバテス-魔獣の王と赤子と屍の勇者-",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2025-08-13T12:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-08-20T12:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -404,8 +341,8 @@
     "native": "ダンダダン 第2期",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-08-14T16:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-08-21T16:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -520,8 +457,8 @@
     "native": "出禁のモグラ",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-08-17T20:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-24T20:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -577,8 +514,8 @@
     "native": "Dr. STONE SCIENCE FUTURE 第2クール",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2025-08-14T14:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-21T14:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -633,8 +570,8 @@
     "native": "ガチアクタ",
     "delayedFrom": "2025-07-20T15:00:00Z",
     "delayedUntil": "2025-07-27T15:00:00Z",
-    "episodeDate": "2025-08-17T15:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-24T15:00:00Z",
+    "episodeNumber": 7,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -690,8 +627,8 @@
     "native": "ゲーセン少女と異文化交流",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-17T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-24T22:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -746,8 +683,8 @@
     "native": "銀河特急 ミルキー☆サブウェイ",
     "delayedFrom": "0001-01-01T12:55:00Z",
     "delayedUntil": "0001-01-01T12:55:00Z",
-    "episodeDate": "2025-08-14T12:55:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-08-21T12:55:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 4,
     "mediaTypes": [
@@ -804,8 +741,8 @@
     "native": "诡秘之主",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-08-15T19:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-22T19:00:00Z",
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 35,
     "mediaTypes": [
@@ -864,8 +801,8 @@
     "native": "花は咲く、修羅の如く",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-13T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-20T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -977,8 +914,8 @@
     "native": "地縛少年花子くん2 後編",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-08-17T21:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-24T21:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1037,8 +974,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-08-13T19:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-20T19:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1094,8 +1031,8 @@
     "native": "怪獣８号 第２期",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2025-08-16T14:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-23T14:30:00Z",
+    "episodeNumber": 6,
     "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1150,8 +1087,8 @@
     "native": "カッコウの許嫁 第2期",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-08-12T21:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-19T21:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1206,8 +1143,8 @@
     "native": "彼女、お借りします 第4期",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-08-12T20:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-19T20:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1319,8 +1256,8 @@
     "native": "鬼人幻燈抄",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-13T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-08-20T17:00:00Z",
+    "episodeNumber": 12,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1375,8 +1312,8 @@
     "native": "名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-08-16T07:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-08-23T07:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 4,
     "mediaTypes": [
@@ -1432,8 +1369,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-08-13T19:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-20T19:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1489,8 +1426,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-14T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-21T22:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1539,65 +1476,6 @@
     "addedAt": "2025-07-18T00:18:45Z"
   },
   {
-    "title": "Mononoke: Hinezumi",
-    "route": "mononoke-movie-dai-ni-shou-hinezumi",
-    "romaji": "Mononoke: Hinezumi",
-    "english": "Mononoke The Movie: Chapter II - The Ashes of Rage",
-    "native": "劇場版モノノ怪 第二章 火鼠",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-08-14T07:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 74,
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179852,
-        "idMal": 59408,
-        "title": {
-          "romaji": "Mononoke: Hinezumi",
-          "english": "Mononoke The Movie: Chapter II - The Ashes of Rage",
-          "native": "モノノ怪 火鼠",
-          "userPreferred": "Mononoke The Movie: Chapter II - The Ashes of Rage"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Fantasy",
-          "Horror",
-          "Mystery",
-          "Psychological",
-          "Supernatural"
-        ],
-        "duration": 74,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179852-tPwGOkCxA8em.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179852-tPwGOkCxA8em.jpg",
-          "color": "#0d86fe"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-08-14T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-08-14T19:12:43Z"
-  },
-  {
     "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
     "route": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
     "romaji": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
@@ -1605,9 +1483,8 @@
     "native": "ニートくノ一となぜか同棲はじめました",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-08-13T17:00:00Z",
-    "episodeNumber": 16,
-    "subtractedEpisodeNumber": 15,
+    "episodeDate": "2025-08-20T17:00:00Z",
+    "episodeNumber": 17,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1645,14 +1522,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 15,
-              "airingAt": "2025-08-13T17:00:00Z"
-            },
-            {
-              "episode": 16,
-              "airingAt": "2025-08-13T17:00:00Z"
-            },
-            {
               "episode": 17,
               "airingAt": "2025-08-20T17:00:00Z"
             }
@@ -1671,8 +1540,8 @@
     "native": "New PANTY&STOCKING with GARTERBELT",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-08-13T16:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-20T16:00:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1787,8 +1656,8 @@
     "native": "ニャイト・オブ・ザ・リビングキャット",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-08-17T19:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-24T19:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1835,111 +1704,14 @@
     "addedAt": "2025-07-20T21:13:16Z"
   },
   {
-    "title": "One Piece",
-    "route": "one-piece",
-    "native": "ワンピース",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-08-12T20:00:00Z",
-    "episodeNumber": 1133,
-    "subtractedEpisodeNumber": 1123,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 21,
-        "idMal": 21,
-        "title": {
-          "romaji": "ONE PIECE",
-          "english": "ONE PIECE",
-          "native": "ONE PIECE",
-          "userPreferred": "ONE PIECE"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 1999,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
-          "color": "#e49335"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1123,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1124,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1125,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1126,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1127,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1128,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1129,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1130,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1131,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1132,
-              "airingAt": "2025-08-12T20:00:00Z"
-            },
-            {
-              "episode": 1133,
-              "airingAt": "2025-08-12T20:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-08-11T09:20:44Z"
-  },
-  {
     "title": "Onmyou Kaiten Re:Birth",
     "route": "onmyou-kaiten-re-birth",
     "native": "陰陽廻天 Re:バース",
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-08-13T20:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-20T20:30:00Z",
+    "episodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1992,8 +1764,8 @@
     "native": "SAKAMOTO DAYS 第２クール",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-08-11T15:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-18T15:30:00Z",
+    "episodeNumber": 7,
     "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2048,8 +1820,8 @@
     "native": "青春ブタ野郎はサンタクロースの夢を見ない",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-08-16T19:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-23T19:30:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2100,108 +1872,6 @@
     "addedAt": "2025-07-26T19:49:49Z"
   },
   {
-    "title": "Shin Samurai-den YAIBA",
-    "route": "yaiba",
-    "romaji": "Shin Samurai-den YAIBA",
-    "english": "YAIBA: Samurai Legend",
-    "native": "真･侍伝 YAIBA",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-08-15T07:00:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 1,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 177476,
-        "idMal": 58812,
-        "title": {
-          "romaji": "Shin Samurai-den YAIBA",
-          "english": "YAIBA: Samurai Legend",
-          "native": "真･侍伝 YAIBA",
-          "userPreferred": "YAIBA: Samurai Legend"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177476-kduwwEfxcZtU.jpg",
-          "color": "#e4c95d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-08-15T07:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-08-15T07:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-08-15T07:00:00Z"
-  },
-  {
     "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
     "route": "silent-witch-chinmoku-no-majo-no-kakushigoto",
     "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
@@ -2210,8 +1880,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-08-15T21:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-08-22T21:30:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2266,8 +1936,8 @@
     "native": "その着せ替え人形は恋をする 2nd Season",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-08-16T19:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-23T19:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2324,8 +1994,8 @@
     "native": "盾の勇者の成り上がり 4",
     "delayedFrom": "0001-01-01T12:30:00Z",
     "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2025-08-13T12:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-20T12:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2382,8 +2052,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-08-13T20:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-08-20T20:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2440,8 +2110,8 @@
     "native": "桃源暗鬼",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-08-15T15:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-08-22T15:30:00Z",
+    "episodeNumber": 7,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2498,8 +2168,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-13T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-20T22:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2554,8 +2224,8 @@
     "native": "凸变英雄X",
     "delayedFrom": "0001-01-01T00:35:00Z",
     "delayedUntil": "0001-01-01T00:35:00Z",
-    "episodeDate": "2025-08-17T00:35:00Z",
-    "episodeNumber": 20,
+    "episodeDate": "2025-08-24T00:35:00Z",
+    "episodeNumber": 21,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2613,8 +2283,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-08-15T22:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-08-22T22:00:00Z",
+    "episodeNumber": 6,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2670,8 +2340,8 @@
     "native": "ウィッチウォッチ",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2025-08-17T08:30:00Z",
-    "episodeNumber": 17,
+    "episodeDate": "2025-08-24T08:30:00Z",
+    "episodeNumber": 18,
     "episodes": 25,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2728,8 +2398,8 @@
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2025-08-16T12:00:00Z",
-    "episodeNumber": 32,
+    "episodeDate": "2025-08-23T12:00:00Z",
+    "episodeNumber": 33,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
