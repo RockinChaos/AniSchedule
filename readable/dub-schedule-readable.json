@@ -223,6 +223,64 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+    "route": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita",
+    "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
+    "english": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+    "native": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-09-10T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 180829,
+        "idMal": 59745,
+        "title": {
+          "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
+          "english": "Yandere Dark Elf: She Chased Me All the Way From Another World!",
+          "native": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた",
+          "userPreferred": "Yandere Dark Elf: She Chased Me All the Way From Another World!"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180829-jHViG8fIkaIJ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180829-jHViG8fIkaIJ.jpg",
+          "color": "#43aee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-10T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-10T17:00:00Z"
+  },
+  {
     "title": "City The Animation",
     "route": "city-the-animation",
     "romaji": "CITY THE ANIMATION",
@@ -1197,9 +1255,9 @@
     "romaji": "Kaoru Hana wa Rin to Saku",
     "english": "The Fragrant Flower Blooms With Dignity",
     "native": "薫る花は凛と咲く",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-09-07T15:30:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-09-07T07:00:00Z",
     "episodeNumber": 1,
     "episodes": 13,
     "lengthMin": 24,
@@ -1239,7 +1297,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-09-07T15:30:00Z"
+              "airingAt": "2025-09-07T07:00:00Z"
             }
           ]
         }
@@ -1484,7 +1542,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-08-20T17:00:00Z",
-    "episodeNumber": 17,
+    "episodeNumber": 18,
+    "subtractedEpisodeNumber": 17,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1522,7 +1581,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 17,
+              "airingAt": "2025-08-20T17:00:00Z"
+            },
+            {
               "episode": 18,
+              "airingAt": "2025-08-20T17:00:00Z"
+            },
+            {
+              "episode": 19,
               "airingAt": "2025-08-27T17:00:00Z"
             }
           ]
@@ -1755,6 +1822,60 @@
     },
     "verified": true,
     "addedAt": "2025-07-16T21:14:49Z"
+  },
+  {
+    "title": "Pokemon Concierge Part 2",
+    "route": "pokemon-concierge-part-2",
+    "romaji": "Pokémon Concierge Part 2",
+    "native": "ポケモンコンシェルジュ",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-09-04T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 4,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 175035,
+        "idMal": 58953,
+        "title": {
+          "romaji": "Pokémon Concierge Part 2",
+          "english": "Pokémon Concierge: Season 1: Part 2",
+          "native": "ポケモンコンシェルジュ 2クール",
+          "userPreferred": "Pokémon Concierge: Season 1: Part 2"
+        },
+        "format": "ONA",
+        "genres": [
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175035-4MjdEE8Fd3Y2.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175035-4MjdEE8Fd3Y2.jpg",
+          "color": "#1ad6c9"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175035-amFDJG9H5dwc.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-04T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-04T07:00:00Z"
   },
   {
     "title": "SAKAMOTO DAYS Part 2",
@@ -2391,6 +2512,65 @@
     },
     "verified": true,
     "addedAt": "2025-04-27T08:30:00Z"
+  },
+  {
+    "title": "Yofukashi no Uta 2nd Season",
+    "route": "yofukashi-no-uta-2nd-season",
+    "romaji": "Yofukashi no Uta 2nd Season",
+    "english": "Call of the Night 2nd Season",
+    "native": "よふかしのうた 第2期",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-09-03T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 175914,
+        "idMal": 58390,
+        "title": {
+          "romaji": "Yofukashi no Uta Season 2",
+          "english": "Call of the Night Season 2",
+          "native": "よふかしのうた Season 2",
+          "userPreferred": "Call of the Night Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Psychological",
+          "Romance",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175914-VsbL90WzuqoM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175914-VsbL90WzuqoM.jpg",
+          "color": "#a1d6e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175914-K0Hw6bg3Tf5i.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-03T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-03T17:00:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
