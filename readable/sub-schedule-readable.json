@@ -878,6 +878,37 @@
     }
   },
   {
+    "id": 21828,
+    "idMal": 32587,
+    "title": {
+      "romaji": "Shoujo Ramune",
+      "english": null,
+      "native": "小女ラムネ",
+      "userPreferred": "Shoujo Ramune"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 19,
+    "seasonYear": 2016,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21828-3KDKm3Zu2DyX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21828-3KDKm3Zu2DyX.jpg",
+      "color": "#50c9f1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21828-GXL6divKjKiN.png",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1756998000
+        }
+      ]
+    }
+  },
+  {
     "id": 118123,
     "idMal": 44042,
     "title": {
@@ -2081,10 +2112,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1755779160
-        },
-        {
           "episode": 7,
           "airingAt": 1756383960
         },
@@ -2099,6 +2126,55 @@
         {
           "episode": 10,
           "airingAt": 1758198360
+        }
+      ]
+    }
+  },
+  {
+    "id": 168537,
+    "idMal": 56420,
+    "title": {
+      "romaji": "Haigakura",
+      "english": "HAIGAKURA",
+      "native": "ハイガクラ",
+      "userPreferred": "HAIGAKURA"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-pytXEirHtk3M.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168537-pytXEirHtk3M.jpg",
+      "color": "#ffae43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168537-U3T6ekzUTzUZ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 9,
+          "airingAt": 1756398600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1757003400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1757608200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758213000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758817800
         }
       ]
     }
@@ -2393,10 +2469,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173335-GNOmbqSZUuBa.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1755788160
-        },
         {
           "episode": 9,
           "airingAt": 1756392960
@@ -2972,38 +3044,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 177518,
-    "idMal": 58837,
-    "title": {
-      "romaji": "Odekake Kozame: Tokai no Otomodachi",
-      "english": null,
-      "native": "映画 おでかけ子ザメ とかいのおともだち",
-      "userPreferred": "Odekake Kozame: Tokai no Otomodachi"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177518-jv8sDYLdEsmb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177518-jv8sDYLdEsmb.png",
-      "color": "#f1a150"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1755788400
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 177687,
@@ -4505,10 +4545,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1755783000
-        },
-        {
           "episode": 2,
           "airingAt": 1756387800
         },
@@ -4537,8 +4573,7 @@
           "airingAt": 1760016600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183473,
@@ -5286,10 +5321,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755788400
-        },
-        {
           "episode": 9,
           "airingAt": 1756393200
         },
@@ -5431,10 +5462,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1755789960
-        },
         {
           "episode": 9,
           "airingAt": 1756394760
@@ -5656,10 +5683,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755790200
-        },
-        {
           "episode": 8,
           "airingAt": 1756395000
         },
@@ -5809,10 +5832,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755793680
-        },
-        {
           "episode": 8,
           "airingAt": 1756398480
         },
@@ -5923,10 +5942,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1755795480
-        },
-        {
           "episode": 22,
           "airingAt": 1756400280
         },
@@ -5975,10 +5990,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1755791640
-        },
         {
           "episode": 22,
           "airingAt": 1756396440
@@ -6070,39 +6081,6 @@
         {
           "episode": 1,
           "airingAt": 1758812400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 187317,
-    "idMal": 61139,
-    "title": {
-      "romaji": "AS ONE",
-      "english": null,
-      "native": "アズワン",
-      "userPreferred": "AS ONE"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187317-oD1Pwu43UVPQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187317-oD1Pwu43UVPQ.jpg",
-      "color": "#a143f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1755788400
         }
       ]
     },
@@ -6330,10 +6308,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1755768600
-        },
-        {
           "episode": 23,
           "airingAt": 1756373400
         },
@@ -6510,10 +6484,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755780840
-        },
-        {
           "episode": 9,
           "airingAt": 1756385640
         },
@@ -6559,10 +6529,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1755781200
-        },
         {
           "episode": 8,
           "airingAt": 1756386000
