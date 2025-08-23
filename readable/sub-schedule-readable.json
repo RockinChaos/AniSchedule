@@ -1675,10 +1675,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755961200
-        },
-        {
           "episode": 9,
           "airingAt": 1756566000
         },
@@ -2304,10 +2300,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755966600
-        },
-        {
           "episode": 9,
           "airingAt": 1756571400
         },
@@ -2354,10 +2346,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171046-PjeeUUfeaVyR.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1755959400
-        },
         {
           "episode": 9,
           "airingAt": 1756564200
@@ -3059,10 +3047,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755964560
-        },
-        {
           "episode": 9,
           "airingAt": 1756569360
         },
@@ -3106,10 +3090,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1755954000
-        },
         {
           "episode": 10,
           "airingAt": 1756558800
@@ -3539,10 +3519,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755961200
-        },
-        {
           "episode": 9,
           "airingAt": 1756566000
         },
@@ -3586,10 +3562,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178754-pzQw3EJ0DYO9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1755957600
-        },
         {
           "episode": 7,
           "airingAt": 1756562400
@@ -3912,10 +3884,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1755961200
-        },
-        {
           "episode": 9,
           "airingAt": 1756566000
         },
@@ -4059,10 +4027,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180425-l3CldufhygVc.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1755966600
-        },
         {
           "episode": 9,
           "airingAt": 1756571400
@@ -4256,10 +4220,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-SBhwJNPxjHrr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1755963000
-        },
         {
           "episode": 9,
           "airingAt": 1756567800
@@ -5711,10 +5671,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1755959400
-        },
-        {
           "episode": 8,
           "airingAt": 1756564200
         },
@@ -5963,10 +5919,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1755957600
-        },
         {
           "episode": 9,
           "airingAt": 1756562400
@@ -7163,38 +7115,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 195494,
-    "idMal": 61984,
-    "title": {
-      "romaji": "bâan: Otona no Kyoukai",
-      "english": "bâan: The Boundary of Adulthood",
-      "native": "bâan -大人の彊界-",
-      "userPreferred": "bâan: The Boundary of Adulthood"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 18,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195494-2siDsNQmaKym.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195494-2siDsNQmaKym.jpg",
-      "color": "#ff35e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1755961200
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 196227,
