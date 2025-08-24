@@ -515,10 +515,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2794,
-          "airingAt": 1756027800
-        },
-        {
           "episode": 2795,
           "airingAt": 1756632600
         },
@@ -613,6 +609,10 @@
         {
           "episode": 2818,
           "airingAt": 1770543000
+        },
+        {
+          "episode": 2819,
+          "airingAt": 1771147800
         }
       ]
     }
@@ -930,10 +930,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 328,
-          "airingAt": 1756026000
-        },
         {
           "episode": 329,
           "airingAt": 1756630800
@@ -3980,24 +3976,20 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1756022400
-        },
-        {
           "episode": 22,
           "airingAt": 1756627200
         },
         {
           "episode": 23,
-          "airingAt": 1757232000
-        },
-        {
-          "episode": 24,
           "airingAt": 1757836800
         },
         {
-          "episode": 25,
+          "episode": 24,
           "airingAt": 1758441600
+        },
+        {
+          "episode": 25,
+          "airingAt": 1759651200
         }
       ]
     }
@@ -4167,10 +4159,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1756038600
-        },
         {
           "episode": 9,
           "airingAt": 1756643400
@@ -5520,10 +5508,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756024200
-        },
-        {
           "episode": 9,
           "airingAt": 1756629000
         },
@@ -6453,10 +6437,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756020600
-        },
-        {
           "episode": 9,
           "airingAt": 1756625400
         },
@@ -7201,10 +7181,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756035000
-        },
-        {
           "episode": 9,
           "airingAt": 1756639800
         },
@@ -7299,6 +7275,10 @@
         {
           "episode": 32,
           "airingAt": 1770550200
+        },
+        {
+          "episode": 33,
+          "airingAt": 1771155000
         }
       ]
     }
