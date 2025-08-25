@@ -119,10 +119,11 @@
     "romaji": "Anne Shirley",
     "english": "Anne Shirley",
     "native": "アン・シャーリー",
-    "delayedFrom": "2025-06-21T21:30:00Z",
-    "delayedUntil": "2025-06-28T21:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-23T21:30:00Z",
+    "delayedUntil": "2025-09-06T21:30:00Z",
     "episodeDate": "2025-08-30T21:30:00Z",
-    "episodeNumber": 20,
+    "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -159,8 +160,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 20,
-              "airingAt": "2025-08-30T21:30:00Z"
+              "episode": 19,
+              "airingAt": "2025-09-06T21:30:00Z"
             }
           ]
         }
@@ -683,10 +684,11 @@
     "romaji": "Game Center Shoujo to Ibunka Kouryuu",
     "english": "Cultural Exchange With a Game Centre Girl",
     "native": "ゲーセン少女と異文化交流",
-    "delayedFrom": "2025-08-24T22:00:00Z",
-    "delayedUntil": "2025-08-31T22:00:00Z",
+    "delayedText": "Delayed (Recap)",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
     "episodeDate": "2025-08-31T22:00:00Z",
-    "episodeNumber": 6,
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -723,7 +725,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 7,
               "airingAt": "2025-08-31T22:00:00Z"
             }
           ]
