@@ -683,10 +683,10 @@
     "romaji": "Game Center Shoujo to Ibunka Kouryuu",
     "english": "Cultural Exchange With a Game Centre Girl",
     "native": "ゲーセン少女と異文化交流",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
+    "delayedFrom": "2025-08-24T22:00:00Z",
+    "delayedUntil": "2025-08-31T22:00:00Z",
     "episodeDate": "2025-08-31T22:00:00Z",
-    "episodeNumber": 7,
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -723,7 +723,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2025-08-31T22:00:00Z"
             }
           ]
@@ -1541,7 +1541,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-08-27T17:00:00Z",
-    "episodeNumber": 19,
+    "episodeNumber": 20,
+    "subtractedEpisodeNumber": 19,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1580,6 +1581,10 @@
           "nodes": [
             {
               "episode": 19,
+              "airingAt": "2025-08-27T17:00:00Z"
+            },
+            {
+              "episode": 20,
               "airingAt": "2025-08-27T17:00:00Z"
             }
           ]
