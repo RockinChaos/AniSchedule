@@ -1878,6 +1878,62 @@
     "addedAt": "2025-09-04T07:00:00Z"
   },
   {
+    "title": "Rock wa Lady no Tashinami deshite",
+    "route": "rock-wa-lady-no-tashinami-deshite",
+    "romaji": "Rock wa Lady no Tashina Mideshite",
+    "english": "Rock is a Lady's Modesty",
+    "native": "ロックは淑女の嗜みでして",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-09-17T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 179694,
+        "idMal": 59360,
+        "title": {
+          "romaji": "Rock wa Lady no Tashinami Deshite",
+          "english": "Rock is a Lady’s Modesty",
+          "native": "ロックは淑女の嗜みでして",
+          "userPreferred": "Rock is a Lady’s Modesty"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Music"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-7zhc0T6IImor.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179694-7zhc0T6IImor.jpg",
+          "color": "#e45d50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-17T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-17T17:00:00Z"
+  },
+  {
     "title": "SAKAMOTO DAYS Part 2",
     "route": "sakamoto-days-part-2",
     "romaji": "SAKAMOTO DAYS Part 2",
