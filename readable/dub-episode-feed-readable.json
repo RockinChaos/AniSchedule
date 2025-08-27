@@ -1,5 +1,27 @@
 [
   {
+    "id": 179828,
+    "idMal": 59402,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2025-08-26T21:00:00Z",
+      "addedAt": "2025-08-26T21:00:09Z"
+    }
+  },
+  {
+    "id": 179344,
+    "idMal": 59277,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 6,
+      "airedAt": "2025-08-26T20:00:00Z",
+      "addedAt": "2025-08-26T20:00:28Z"
+    }
+  },
+  {
     "id": 184237,
     "idMal": 60285,
     "format": "ONA",
@@ -52,17 +74,6 @@
       "aired": 6,
       "airedAt": "2025-08-24T19:30:00Z",
       "addedAt": "2025-08-24T19:30:10Z"
-    }
-  },
-  {
-    "id": 193607,
-    "idMal": 61742,
-    "format": "ONA",
-    "duration": 7,
-    "episode": {
-      "aired": 7,
-      "airedAt": "2025-08-24T16:00:00Z",
-      "addedAt": "2025-08-24T16:00:27Z"
     }
   },
   {
