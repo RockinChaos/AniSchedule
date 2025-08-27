@@ -95,13 +95,15 @@ export async function fetchSubSchedule() {
                 console.log(`(${type}) Episodes have been corrected and saved...`)
             }
         }
-        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
-        const updatedAt = past(new Date(), 0, true)
-        if (updatedHentaiEpisodes) lastUpdated.hentai.episodes = updatedAt
-        if (updatedSubbedEpisodes) lastUpdated.subbed.episodes = updatedAt
-        lastUpdated.subbed.schedule = updatedAt
-        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
-        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+        if (JSON.stringify(media) !== JSON.stringify(loadJSON(path.join('./raw/sub-schedule.json')))) {
+            const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+            const updatedAt = past(new Date(), 0, true)
+            if (updatedHentaiEpisodes) lastUpdated.hentai.episodes = updatedAt
+            if (updatedSubbedEpisodes) lastUpdated.subbed.episodes = updatedAt
+            lastUpdated.subbed.schedule = updatedAt
+            saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+            saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+        }
         console.log(`${media.length} airing series have been saved to the schedule.`)
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')

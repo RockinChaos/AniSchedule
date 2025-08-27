@@ -75,6 +75,7 @@ export async function fetchDubSchedule() {
     let airingLists = writable([])
     let updatedEpisodes = false
     const currentSchedule = loadJSON(path.join('./raw/dub-schedule.json'))
+    const exactSchedule = structuredClone(currentSchedule)
 
     console.log(`Getting dub airing schedule`)
 
@@ -425,12 +426,14 @@ export async function fetchDubSchedule() {
             updatedEpisodes = true
             console.log(`(Dub) Episodes have been corrected and saved...`)
         }
-        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
-        const updatedAt = past(new Date(), 0, true)
-        if (updatedEpisodes) lastUpdated.dubbed.episodes = updatedAt
-        lastUpdated.dubbed.schedule = updatedAt
-        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
-        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+        if (JSON.stringify(combinedResults) !== JSON.stringify(exactSchedule)) {
+            const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+            const updatedAt = past(new Date(), 0, true)
+            if (updatedEpisodes) lastUpdated.dubbed.episodes = updatedAt
+            lastUpdated.dubbed.schedule = updatedAt
+            saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+            saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+        }
     } else {
         console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
         process.exit(1)
