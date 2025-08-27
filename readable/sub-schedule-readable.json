@@ -1578,6 +1578,37 @@
     }
   },
   {
+    "id": 147622,
+    "idMal": 54629,
+    "title": {
+      "romaji": "Maid Kyouiku.: Botsuraku Kizoku Rurikawa Tsubaki - THE ANIMATION",
+      "english": null,
+      "native": "メイド教育。－没落貴族 瑠璃川椿－ THE ANIMATION",
+      "userPreferred": "Maid Kyouiku.: Botsuraku Kizoku Rurikawa Tsubaki - THE ANIMATION"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147622-Yj7BhXXdWuIA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147622-Yj7BhXXdWuIA.png",
+      "color": null
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1764255600
+        }
+      ]
+    }
+  },
+  {
     "id": 151799,
     "idMal": 52293,
     "title": {
@@ -2245,6 +2276,10 @@
         {
           "episode": 3,
           "airingAt": 1756393200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1764255600
         }
       ]
     }
@@ -5929,10 +5964,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1756248360
-        },
-        {
           "episode": 22,
           "airingAt": 1756853160
         },
@@ -6027,10 +6058,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1756256400
-        },
         {
           "episode": 11,
           "airingAt": 1758070800
@@ -6690,10 +6717,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1756245960
-        },
-        {
           "episode": 10,
           "airingAt": 1756850760
         },
@@ -6788,6 +6811,10 @@
         {
           "episode": 33,
           "airingAt": 1770761160
+        },
+        {
+          "episode": 34,
+          "airingAt": 1771365960
         }
       ]
     }
@@ -6850,7 +6877,7 @@
     "title": {
       "romaji": "Kiken na Mori Onigokko",
       "english": null,
-      "native": "危険な森 鬼ごっこ",
+      "native": "危険な森 おにごっこ",
       "userPreferred": "Kiken na Mori Onigokko"
     },
     "format": "OVA",
@@ -6871,6 +6898,10 @@
         {
           "episode": 1,
           "airingAt": 1758812400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1764255600
         }
       ]
     },
