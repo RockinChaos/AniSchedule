@@ -1636,10 +1636,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756310400
-        },
-        {
           "episode": 9,
           "airingAt": 1756915200
         },
@@ -1733,10 +1729,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756314960
-        },
         {
           "episode": 10,
           "airingAt": 1756919760
@@ -2230,10 +2222,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756299600
-        },
         {
           "episode": 10,
           "airingAt": 1756904400
@@ -3410,10 +3398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756306800
-        },
-        {
           "episode": 9,
           "airingAt": 1756911600
         },
@@ -3603,10 +3587,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1756299600
-        },
-        {
           "episode": 10,
           "airingAt": 1756904400
         },
@@ -3646,10 +3626,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756308000
-        },
         {
           "episode": 10,
           "airingAt": 1756912800
@@ -3732,10 +3708,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179678-3a0lkZVFIrlw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756305900
-        },
         {
           "episode": 10,
           "airingAt": 1756910700
@@ -4920,6 +4892,86 @@
     }
   },
   {
+    "id": 184718,
+    "idMal": 60347,
+    "title": {
+      "romaji": "Cat's♥Eye (2025)",
+      "english": null,
+      "native": "キャッツ♥アイ (2025)",
+      "userPreferred": "Cat's♥Eye (2025)"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184718-GvNnorokj1i3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184718-GvNnorokj1i3.jpg",
+      "color": "#5086e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758870000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759474800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760079600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1760684400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761289200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1761894000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1766732400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1767337200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1767942000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1768546800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1769151600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1769756400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185070,
     "idMal": 60401,
     "title": {
@@ -4946,10 +4998,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1756306800
-        },
         {
           "episode": 22,
           "airingAt": 1756911600
@@ -5909,10 +5957,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756309560
-        },
         {
           "episode": 10,
           "airingAt": 1756914360
@@ -6992,10 +7036,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1756308600
-        },
         {
           "episode": 9,
           "airingAt": 1756913400
