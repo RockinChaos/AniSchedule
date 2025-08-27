@@ -45,9 +45,9 @@ jobs:
         
         if [ -f changes.txt ] && [ -s changes.txt ]; then
           echo "Changes were made to the episode feed(s) in this run... attempting to commit these new changes."
-          git add './raw/dub-schedule.json' './readable/dub-schedule-readable.json' './custom/custom-dubs.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json'
+          git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-schedule.json' './readable/dub-schedule-readable.json' './custom/custom-dubs.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json'
         else
-          git add './raw/dub-schedule.json' './readable/dub-schedule-readable.json' './custom/custom-dubs.json'
+          git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-schedule.json' './readable/dub-schedule-readable.json' './custom/custom-dubs.json'
         fi
         
         title="(Dub) Updated Airing Schedule"

@@ -3,6 +3,9 @@
 import { past, loadJSON, saveJSON, durationMap } from './utils/util.js'
 import path from 'path'
 
+let updatedSubbedEpisodes = false
+let updatedHentaiEpisodes = false
+
 // update sub schedule //
 export async function fetchSubSchedule() {
     const { anilistClient } = await import('./utils/anilist.js')
@@ -87,9 +90,18 @@ export async function fetchSubSchedule() {
                 const newFeed = Object.values([...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
                 saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
                 saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
+                if (type === 'Hentai') updatedHentaiEpisodes = true
+                else updatedSubbedEpisodes = false
                 console.log(`(${type}) Episodes have been corrected and saved...`)
             }
         }
+        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+        const updatedAt = past(new Date(), 0, true)
+        if (updatedHentaiEpisodes) lastUpdated.hentai.episodes = updatedAt
+        if (updatedSubbedEpisodes) lastUpdated.subbed.episodes = updatedAt
+        lastUpdated.subbed.schedule = updatedAt
+        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
         console.log(`${media.length} airing series have been saved to the schedule.`)
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')
@@ -134,6 +146,8 @@ async function findMissingEpisodes() {
             const newFeed = Object.values([...missingEpisodes.filter(({ id, episode }) => !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some(media => media.id === id && media.episode.aired === episode.aired)), ...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
             saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
             saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
+            if (type === 'Hentai') updatedHentaiEpisodes = true
+            else updatedSubbedEpisodes = true
             console.log(`Added ${missingEpisodes.length} Missing Episode(s) from the ${type} feed!`)
         } else {
             console.log(`No missing ${type} Episode(s) were found in the airing schedule.`)
@@ -223,12 +237,16 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
     }
 
     if (newHentaiEpisodes.length > 0 || modifiedHentaiEpisodes.length > 0 || removedHentaiEpisodes.length > 0 || newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
+        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+        const updatedAt = past(new Date(), 0, true)
+
         if (newHentaiEpisodes.length > 0 || modifiedHentaiEpisodes.length > 0 || removedHentaiEpisodes.length > 0) {
             console.log(
                 `${newHentaiEpisodes.length > 0 ? `Added ${newHentaiEpisodes.length}${newSchedule ? ' Missing' : ''}` : ''}`
                 + `${modifiedHentaiEpisodes.length > 0 ? `${newHentaiEpisodes.length > 0 ? ' and ' : ''}Modified ${modifiedHentaiEpisodes.length}` : ''}`
                 + `${removedHentaiEpisodes.length > 0 ? `${(newHentaiEpisodes.length > 0 || modifiedHentaiEpisodes.length > 0) ? ' and ' : ''}Removed ${removedHentaiEpisodes.length}` : ''}`
                 + ` episode(s) ${(modifiedHentaiEpisodes.length > 0 || removedHentaiEpisodes.length > 0) ? 'from' : 'to'} the Hentai Episodes Feed.`)
+            lastUpdated.hentai.episodes = updatedAt
             console.log(`Logged a total of ${existingHentaiFeed.length + newHentaiEpisodes.length} Hentai Episodes to date.`)
         } else console.log(`No changes detected for the Hentai Episodes Feed.`)
 
@@ -237,9 +255,12 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
                 + `${modifiedEpisodes.length > 0 ? `${newEpisodes.length > 0 ? ' and ' : ''}Modified ${modifiedEpisodes.length}` : ''}`
                 + `${removedEpisodes.length > 0 ? `${(newEpisodes.length > 0 || modifiedEpisodes.length > 0) ? ' and ' : ''}Removed ${removedEpisodes.length}` : ''}`
                 + ` episode(s) ${(modifiedEpisodes.length > 0 || removedEpisodes.length > 0) ? 'from' : 'to'} the Subbed Episodes Feed.`)
+            lastUpdated.subbed.episodes = updatedAt
             console.log(`Logged a total of ${existingSubbedFeed.length + newEpisodes.length} Subbed Episodes to date.`)
         } else console.log(`No changes detected for the Subbed Episodes Feed.`)
 
+      saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+      saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
     } else console.log(`No changes detected for the Subbed or Hentai Episodes Feed.`)
 
     return changes

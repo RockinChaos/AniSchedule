@@ -73,6 +73,7 @@ export async function fetchDubSchedule() {
     // Fetch airing lists //
 
     let airingLists = writable([])
+    let updatedEpisodes = false
     const currentSchedule = loadJSON(path.join('./raw/dub-schedule.json'))
 
     console.log(`Getting dub airing schedule`)
@@ -145,6 +146,7 @@ export async function fetchDubSchedule() {
                     }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
                     saveJSON(path.join('./raw/dub-episode-feed.json'), episodeFeed)
                     saveJSON(path.join('./readable/dub-episode-feed-readable.json'), episodeFeed, true)
+                    updatedEpisodes = true
                     currentSchedule.splice(currentAiring, 1)
                 }
                 return false
@@ -190,6 +192,7 @@ export async function fetchDubSchedule() {
                         }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
                         saveJSON(path.join('./raw/dub-episode-feed.json'), episodeFeed)
                         saveJSON(path.join('./readable/dub-episode-feed-readable.json'), episodeFeed, true)
+                        updatedEpisodes = true
                     }
                 }
             } else if ((existingInAiring === -1) && entry.verified && (new Date(entry.delayedUntil) > new Date(entry.episodeDate))) {
@@ -419,8 +422,15 @@ export async function fetchDubSchedule() {
             const newFeed = Object.values([...existingDubbedFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
             saveJSON(path.join(`./raw/dub-episode-feed.json`), newFeed)
             saveJSON(path.join(`./readable/dub-episode-feed-readable.json`), newFeed, true)
+            updatedEpisodes = true
             console.log(`(Dub) Episodes have been corrected and saved...`)
         }
+        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+        const updatedAt = past(new Date(), 0, true)
+        if (updatedEpisodes) lastUpdated.dubbed.episodes = updatedAt
+        lastUpdated.dubbed.schedule = updatedAt
+        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
     } else {
         console.error('Error: Failed to resolve the dub airing schedule, it cannot be null!')
         process.exit(1)
@@ -598,8 +608,12 @@ export async function updateDubFeed(optSchedule) {
 
     const newFeed = Object.values([...newEpisodes.filter(({ id, episode }) => !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
     if (JSON.stringify(newFeed) !== JSON.stringify(exactFeed || {})) { // helps prevent rebase conflicts
+        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
         saveJSON(path.join('./raw/dub-episode-feed.json'), newFeed)
         saveJSON(path.join('./readable/dub-episode-feed-readable.json'), newFeed, true)
+        lastUpdated.dubbed.episodes = past(new Date(), 0, true)
+        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
     }
 
     if (newEpisodes.length > 0 || modifiedEpisodes.length > 0 || removedEpisodes.length > 0) {
