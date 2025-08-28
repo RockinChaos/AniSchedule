@@ -1081,37 +1081,6 @@
     }
   },
   {
-    "id": 128623,
-    "idMal": 48651,
-    "title": {
-      "romaji": "Sakusei Byoutou THE ANIMATION",
-      "english": null,
-      "native": "搾精病棟 THE ANIMATION",
-      "userPreferred": "Sakusei Byoutou THE ANIMATION"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2021,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128623-lZNUOmCDf4Uc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128623-lZNUOmCDf4Uc.jpg",
-      "color": null
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1756393200
-        }
-      ]
-    }
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -2124,10 +2093,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1756398600
-        },
-        {
           "episode": 10,
           "airingAt": 1757003400
         },
@@ -2257,10 +2222,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1756393200
-        },
         {
           "episode": 4,
           "airingAt": 1764255600
@@ -2424,10 +2385,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173335-GNOmbqSZUuBa.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756392960
-        },
         {
           "episode": 10,
           "airingAt": 1756997760
@@ -4368,10 +4325,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1756387800
-        },
-        {
           "episode": 3,
           "airingAt": 1756992600
         },
@@ -4397,6 +4350,39 @@
         }
       ]
     }
+  },
+  {
+    "id": 183414,
+    "idMal": 60773,
+    "title": {
+      "romaji": "Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive!",
+      "english": null,
+      "native": "キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
+      "userPreferred": "Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive!"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mahou Shoujo",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183414-YQT1XNrqnwGX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183414-YQT1XNrqnwGX.jpg",
+      "color": "#1a86e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1757602800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 183473,
@@ -5184,10 +5170,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1756393200
-        },
-        {
           "episode": 10,
           "airingAt": 1756998000
         },
@@ -5317,10 +5299,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1756394760
-        },
         {
           "episode": 10,
           "airingAt": 1756999560
@@ -5534,10 +5512,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756395000
-        },
-        {
           "episode": 9,
           "airingAt": 1756999800
         },
@@ -5679,10 +5653,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756398480
-        },
-        {
           "episode": 9,
           "airingAt": 1757003280
         },
@@ -5697,69 +5667,6 @@
         {
           "episode": 12,
           "airingAt": 1758817680
-        }
-      ]
-    }
-  },
-  {
-    "id": 186181,
-    "idMal": 60778,
-    "title": {
-      "romaji": "Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland",
-      "english": null,
-      "native": "不思議の国でアリスと -Dive in Wonderland-",
-      "userPreferred": "Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186181-m4vTJnKuYqje.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186181-m4vTJnKuYqje.png",
-      "color": "#e4e45d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1756393200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 186308,
-    "idMal": 61165,
-    "title": {
-      "romaji": "Amai Ijiwaru",
-      "english": null,
-      "native": "甘いイジワル",
-      "userPreferred": "Amai Ijiwaru"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186308-REUfR4DxBB18.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186308-REUfR4DxBB18.png",
-      "color": "#f1e4c9"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1756393200
         }
       ]
     }
@@ -5788,10 +5695,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1756400280
-        },
         {
           "episode": 23,
           "airingAt": 1757005080
@@ -5837,10 +5740,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1756396440
-        },
         {
           "episode": 23,
           "airingAt": 1757001240
@@ -6307,10 +6206,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1756385640
-        },
-        {
           "episode": 10,
           "airingAt": 1756990440
         },
@@ -6344,18 +6239,14 @@
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-EJQHOFjLoK2k.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189117-EJQHOFjLoK2k.png",
-      "color": "#f1931a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-TLtCXYT7JPoL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189117-TLtCXYT7JPoL.jpg",
+      "color": "#e4ae28"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189117-SEvEg0G0Rcv7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1756386000
-        },
         {
           "episode": 9,
           "airingAt": 1756990800
@@ -6504,38 +6395,6 @@
     }
   },
   {
-    "id": 192452,
-    "idMal": null,
-    "title": {
-      "romaji": "Koushoku no Chuugi Kunoichi Botan",
-      "english": null,
-      "native": "好色の忠義くノ一ぼたん",
-      "userPreferred": "Koushoku no Chuugi Kunoichi Botan"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192452-sPIuxMLvBMNT.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192452-sPIuxMLvBMNT.png",
-      "color": "#fe9350"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1756393200
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 193238,
     "idMal": 61731,
     "title": {
@@ -6604,16 +6463,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1756393200
-        },
-        {
           "episode": 2,
           "airingAt": 1761836400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 193348,
@@ -6712,16 +6566,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1756393200
-        },
-        {
           "episode": 2,
           "airingAt": 1758812400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 193883,
@@ -6966,42 +6815,6 @@
         {
           "episode": 1,
           "airingAt": 1758812400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 195068,
-    "idMal": 61935,
-    "title": {
-      "romaji": "Purepure Peropero Princess",
-      "english": null,
-      "native": "ピュアピュア ぺろぺろ プリンセス",
-      "userPreferred": "Purepure Peropero Princess"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195068-LOr1MKlDtH4Y.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195068-LOr1MKlDtH4Y.png",
-      "color": "#e4d65d"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195068-uvCtq4TatgJe.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1756393200
-        },
-        {
-          "episode": 2,
-          "airingAt": 1756393200
         }
       ]
     },
