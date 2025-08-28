@@ -2112,8 +2112,9 @@
     "romaji": "Tate no Yuusha no Nariagari 4",
     "english": "The Rising of the Shield Hero 4",
     "native": "盾の勇者の成り上がり 4",
-    "delayedFrom": "0001-01-01T12:30:00Z",
-    "delayedUntil": "0001-01-01T12:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-27T12:30:00Z",
+    "delayedUntil": "2025-09-03T12:30:00Z",
     "episodeDate": "2025-08-27T12:30:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -2153,7 +2154,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
+              "episode": 8,
               "airingAt": "2025-09-03T12:30:00Z"
             }
           ]
