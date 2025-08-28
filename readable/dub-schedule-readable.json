@@ -442,8 +442,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-08-28T16:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-09-04T16:00:00Z"
             }
           ]
         }
@@ -604,12 +604,12 @@
         "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-EJQHOFjLoK2k.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189117-EJQHOFjLoK2k.png",
-          "color": "#f1931a"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-TLtCXYT7JPoL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189117-TLtCXYT7JPoL.jpg",
+          "color": "#e4ae28"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189117-0Gq9Q6mXDYuS.jpg",
         "airingSchedule": {
           "nodes": [
             {
