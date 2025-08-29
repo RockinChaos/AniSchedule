@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1713,
-          "airingAt": 1756432500
-        },
-        {
           "episode": 1714,
           "airingAt": 1757037300
         },
@@ -642,10 +638,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 619,
-          "airingAt": 1756419000
-        },
-        {
           "episode": 620,
           "airingAt": 1757023800
         },
@@ -740,6 +732,10 @@
         {
           "episode": 643,
           "airingAt": 1770934200
+        },
+        {
+          "episode": 644,
+          "airingAt": 1771539000
         }
       ]
     }
@@ -1254,38 +1250,6 @@
         {
           "episode": 14,
           "airingAt": 1758337200
-        }
-      ]
-    }
-  },
-  {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 271,
-          "airingAt": 1756420800
         }
       ]
     }
