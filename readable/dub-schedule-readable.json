@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 18,
-              "airingAt": "2025-09-03T17:00:00Z"
+              "episode": 19,
+              "airingAt": "2025-09-10T17:00:00Z"
             }
           ]
         }
@@ -897,8 +897,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-09-03T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-09-10T17:00:00Z"
             }
           ]
         }
@@ -1353,8 +1353,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2025-09-03T17:00:00Z"
+              "episode": 15,
+              "airingAt": "2025-09-10T17:00:00Z"
             }
           ]
         }
@@ -1580,8 +1580,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 21,
-              "airingAt": "2025-09-03T17:00:00Z"
+              "episode": 22,
+              "airingAt": "2025-09-10T17:00:00Z"
             }
           ]
         }
@@ -2520,7 +2520,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 175914,
@@ -2551,8 +2551,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-09-03T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-09-10T17:00:00Z"
             }
           ]
         }
