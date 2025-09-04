@@ -2028,10 +2028,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1756988760
-        },
-        {
           "episode": 9,
           "airingAt": 1757593560
         },
@@ -2482,51 +2478,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 175035,
-    "idMal": 58953,
-    "title": {
-      "romaji": "Pokémon Concierge Part 2",
-      "english": "Pokémon Concierge: Season 1: Part 2",
-      "native": "ポケモンコンシェルジュ 2クール",
-      "userPreferred": "Pokémon Concierge: Season 1: Part 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175035-4MjdEE8Fd3Y2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175035-4MjdEE8Fd3Y2.jpg",
-      "color": "#1ad6c9"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175035-amFDJG9H5dwc.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1756969200
-        },
-        {
-          "episode": 2,
-          "airingAt": 1756969200
-        },
-        {
-          "episode": 3,
-          "airingAt": 1756969200
-        },
-        {
-          "episode": 4,
-          "airingAt": 1756969200
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 175124,
@@ -5765,10 +5716,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1756978200
-        },
         {
           "episode": 25,
           "airingAt": 1757583000
