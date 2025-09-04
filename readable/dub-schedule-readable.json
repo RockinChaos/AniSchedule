@@ -441,8 +441,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-09-04T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-09-11T16:00:00Z"
             }
           ]
         }
@@ -1764,7 +1764,8 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-09-04T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 1,
     "episodes": 4,
     "mediaTypes": [
       {
@@ -1800,8 +1801,20 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2025-09-04T07:00:00Z"
+            },
+            {
               "episode": 2,
-              "airingAt": "2025-09-11T07:00:00Z"
+              "airingAt": "2025-09-04T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-09-04T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-09-04T07:00:00Z"
             }
           ]
         }
