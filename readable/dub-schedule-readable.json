@@ -1772,7 +1772,7 @@
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 175035,
@@ -1800,8 +1800,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-09-04T07:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-09-11T07:00:00Z"
             }
           ]
         }
