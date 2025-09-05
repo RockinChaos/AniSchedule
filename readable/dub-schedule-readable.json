@@ -841,8 +841,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-09-05T19:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-09-12T19:00:00Z"
             }
           ]
         }
@@ -1258,7 +1258,8 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-09-07T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1297,6 +1298,10 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2025-09-07T07:00:00Z"
+            },
+            {
+              "episode": 2,
               "airingAt": "2025-09-07T07:00:00Z"
             }
           ]
