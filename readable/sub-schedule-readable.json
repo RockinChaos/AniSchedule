@@ -1734,10 +1734,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757079000
-        },
-        {
           "episode": 11,
           "airingAt": 1757683800
         },
@@ -2060,10 +2056,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757088000
-        },
-        {
           "episode": 11,
           "airingAt": 1757692800
         },
@@ -2245,7 +2237,7 @@
       "Drama",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 100,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-smzCQpAP6UQE.jpg",
@@ -2406,10 +2398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1757091960
-        },
-        {
           "episode": 9,
           "airingAt": 1757696760
         },
@@ -2492,10 +2480,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757082600
-        },
-        {
           "episode": 11,
           "airingAt": 1757687400
         },
@@ -2551,38 +2535,6 @@
     }
   },
   {
-    "id": 177175,
-    "idMal": 58749,
-    "title": {
-      "romaji": "Arknights: Enshin Shomei",
-      "english": "Arknights: RISE FROM EMBER",
-      "native": "アークナイツ 焔燼曙明",
-      "userPreferred": "Arknights: RISE FROM EMBER"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177175-cr5tlJIj7dEi.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177175-cr5tlJIj7dEi.jpg",
-      "color": "#febb50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177175-8obfhwGOFXuk.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757082600
-        }
-      ]
-    }
-  },
-  {
     "id": 177474,
     "idMal": 58811,
     "title": {
@@ -2608,10 +2560,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1757080800
-        },
         {
           "episode": 10,
           "airingAt": 1757685600
@@ -3490,10 +3438,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179879-LLw7UPZcd22x.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757091180
-        },
         {
           "episode": 11,
           "airingAt": 1757695980
@@ -4856,10 +4800,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1757088780
-        },
         {
           "episode": 23,
           "airingAt": 1757693580
