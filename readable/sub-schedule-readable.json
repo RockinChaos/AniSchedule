@@ -1616,10 +1616,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757170800
-        },
-        {
           "episode": 11,
           "airingAt": 1757775600
         },
@@ -2157,10 +2153,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757176200
-        },
-        {
           "episode": 11,
           "airingAt": 1757781000
         },
@@ -2199,10 +2191,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171046-PjeeUUfeaVyR.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757169000
-        },
         {
           "episode": 11,
           "airingAt": 1757773800
@@ -2719,10 +2707,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1757174160
-        },
-        {
           "episode": 10,
           "airingAt": 1757778960
         },
@@ -2762,10 +2746,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757163600
-        },
         {
           "episode": 11,
           "airingAt": 1757768400
@@ -3159,10 +3139,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757170800
-        },
-        {
           "episode": 11,
           "airingAt": 1757775600
         },
@@ -3198,10 +3174,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178754-pzQw3EJ0DYO9.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1757167200
-        },
         {
           "episode": 9,
           "airingAt": 1757772000
@@ -3468,10 +3440,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757170800
-        },
-        {
           "episode": 11,
           "airingAt": 1757775600
         },
@@ -3595,10 +3563,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180425-l3CldufhygVc.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757176200
-        },
         {
           "episode": 11,
           "airingAt": 1757781000
@@ -3760,10 +3724,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181444-SBhwJNPxjHrr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757172600
-        },
         {
           "episode": 11,
           "airingAt": 1757777400
@@ -5152,10 +5112,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1757169000
-        },
-        {
           "episode": 10,
           "airingAt": 1757773800
         },
@@ -5309,10 +5265,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757167200
-        },
         {
           "episode": 11,
           "airingAt": 1757772000
@@ -5909,6 +5861,10 @@
         {
           "episode": 12,
           "airingAt": 1758319200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1758924000
         }
       ]
     }
