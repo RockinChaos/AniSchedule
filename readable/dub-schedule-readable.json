@@ -103,8 +103,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-09-06T22:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-09-13T22:00:00Z"
             }
           ]
         }
@@ -159,8 +159,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 19,
-              "airingAt": "2025-09-06T21:30:00Z"
+              "episode": 20,
+              "airingAt": "2025-09-13T21:30:00Z"
             }
           ]
         }
@@ -212,8 +212,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 57,
-              "airingAt": "2025-09-06T22:45:00Z"
+              "episode": 58,
+              "airingAt": "2025-09-13T22:45:00Z"
             }
           ]
         }
@@ -1539,6 +1539,68 @@
     "addedAt": "2025-07-18T00:18:45Z"
   },
   {
+    "title": "NEET Kunoichi to Naze ka Dousei Hajimemashita OVA",
+    "route": "neet-kunoichi-to-naze-ka-dousei-hajimemashita-ova",
+    "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita OVAs",
+    "english": "I'm Living With a Otaku NEET Kunoichi?! Specials",
+    "native": "ニートくノ一となぜか同棲はじめました OVAs",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-09-17T17:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 2,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185992,
+        "idMal": 61271,
+        "title": {
+          "romaji": "NEET Kunoichi to Naze ka Dousei Hajimemashita OVAs",
+          "english": null,
+          "native": "ニートくノ一となぜか同棲はじめました OVAs",
+          "userPreferred": "NEET Kunoichi to Naze ka Dousei Hajimemashita OVAs"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185992-HL0It4J2Vn41.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185992-HL0It4J2Vn41.png",
+          "color": "#e41a5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-17T17:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-09-17T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-17T17:00:00Z"
+  },
+  {
     "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
     "route": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
     "romaji": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
@@ -1547,7 +1609,8 @@
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-09-03T17:00:00Z",
-    "episodeNumber": 21,
+    "episodeNumber": 22,
+    "subtractedEpisodeNumber": 21,
     "episodes": 24,
     "lengthMin": 12,
     "mediaTypes": [
@@ -1585,7 +1648,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 21,
+              "airingAt": "2025-09-03T17:00:00Z"
+            },
+            {
               "episode": 22,
+              "airingAt": "2025-09-03T17:00:00Z"
+            },
+            {
+              "episode": 23,
               "airingAt": "2025-09-10T17:00:00Z"
             }
           ]
@@ -2393,8 +2464,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 23,
-              "airingAt": "2025-09-07T00:35:00Z"
+              "episode": 24,
+              "airingAt": "2025-09-14T00:35:00Z"
             }
           ]
         }
