@@ -59,7 +59,7 @@ export async function fetchDubSchedule() {
 
     const { writeFile } = await import('node:fs/promises')
     const { writable } =  await import('simple-store-svelte')
-    const { matchKeys } = await import('./utils/anime.js')
+    const { exactMatch, matchKeys } = await import('./utils/anime.js')
     const { anilistClient } = await import('./utils/anilist.js')
     const { malDubs } = await import('./utils/animedubs.js')
     const { default: AnimeResolver } = await import('./utils/animeresolver.js')
@@ -246,7 +246,7 @@ export async function fetchDubSchedule() {
 
         if (!media || verification) { // Resolve failed routes
             console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
-            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], threshold))
+            item = airing.find(i => exactMatch(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'])) || airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], threshold))
             const altTitles = [item.romaji, item.english, item.title, item.native].filter(Boolean)
             const fallbackTitles = await AnimeResolver.findAndCacheTitle(altTitles)
             let attempt = 0
@@ -289,7 +289,7 @@ export async function fetchDubSchedule() {
                 }
             }
         } else {
-            item = airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], threshold))
+            item = airing.find(i => exactMatch(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'])) || airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], threshold))
             if (item) {
                 titles.push(parseObj.anime_title)
                 order.push({route: item.route, title: media.title.userPreferred})

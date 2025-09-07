@@ -39,6 +39,17 @@ export function matchKeys(nest, phrase, keys, threshold = 0.4) {
     })*/
 }
 
+function getByPath(obj, path) {
+    return path.split('.').reduce((acc, part) => acc?.[part], obj)
+}
+
+export function exactMatch(nest, title, keys) {
+    return keys.some(k => {
+        const val = getByPath(nest, k)
+        return val && val.toLowerCase() === title?.toLowerCase()
+    })
+}
+
 // utility method for correcting anitomyscript woes for what's needed
 export async function anitomyscript (...args) {
     // @ts-ignore
