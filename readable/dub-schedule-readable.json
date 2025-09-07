@@ -1268,7 +1268,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 181444,
@@ -1303,6 +1303,10 @@
             {
               "episode": 2,
               "airingAt": "2025-09-07T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-09-14T07:00:00Z"
             }
           ]
         }
