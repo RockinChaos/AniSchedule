@@ -326,8 +326,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-09-07T15:30:00Z"
+              "episode": 11,
+              "airingAt": "2025-09-14T15:30:00Z"
             }
           ]
         }
@@ -450,62 +450,6 @@
     },
     "verified": true,
     "addedAt": "2025-07-03T16:00:00Z"
-  },
-  {
-    "title": "Dekichau made Kon",
-    "route": "dekichau-made-kon",
-    "romaji": "Dekichau made Kon",
-    "english": "Marry Me, Let's Have a Baby!",
-    "native": "デキちゃうまで婚",
-    "delayedFrom": "2025-08-24T16:00:00Z",
-    "delayedUntil": "2025-08-31T16:00:00Z",
-    "episodeDate": "2025-09-07T16:00:00Z",
-    "episodeNumber": 8,
-    "episodes": 8,
-    "lengthMin": 7,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 193607,
-        "idMal": 61742,
-        "title": {
-          "romaji": "Dekichau made Kon",
-          "english": "Marry Me, Let's Have a Baby!",
-          "native": "デキちゃうまで婚",
-          "userPreferred": "Marry Me, Let's Have a Baby!"
-        },
-        "format": "ONA",
-        "genres": [
-          "Hentai",
-          "Romance"
-        ],
-        "duration": 7,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193607-gz99SDr9wgmq.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193607-gz99SDr9wgmq.png",
-          "color": "#f1a15d"
-        },
-        "isAdult": true,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2025-09-07T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-27T03:38:30Z"
   },
   {
     "title": "Dekin no Mogura",
