@@ -1061,10 +1061,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 105,
-          "airingAt": 1757296800
-        },
-        {
           "episode": 106,
           "airingAt": 1757901600
         },
@@ -1159,6 +1155,10 @@
         {
           "episode": 129,
           "airingAt": 1771812000
+        },
+        {
+          "episode": 130,
+          "airingAt": 1772416800
         }
       ]
     }
