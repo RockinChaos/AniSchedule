@@ -1416,10 +1416,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1757341800
-        },
-        {
           "episode": 24,
           "airingAt": 1757946600
         },
@@ -1460,10 +1456,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1757343600
-        },
         {
           "episode": 23,
           "airingAt": 1757948400
@@ -3773,10 +3765,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757336040
-        },
-        {
           "episode": 11,
           "airingAt": 1757940840
         },
@@ -3813,10 +3801,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182309-kvcHexJjshIV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757345400
-        },
         {
           "episode": 11,
           "airingAt": 1757950200
@@ -4044,10 +4028,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184237-SBj6UJvIWAOg.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757343600
-        },
         {
           "episode": 11,
           "airingAt": 1757948400
@@ -4318,10 +4298,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757347200
-        },
         {
           "episode": 11,
           "airingAt": 1757952000
@@ -5357,10 +5333,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757340000
-        },
-        {
           "episode": 11,
           "airingAt": 1757944800
         },
@@ -6374,6 +6346,47 @@
         {
           "episode": 35,
           "airingAt": 1772364600
+        }
+      ]
+    }
+  },
+  {
+    "id": 198408,
+    "idMal": 62268,
+    "title": {
+      "romaji": "Chikyuu no Latair",
+      "english": null,
+      "native": "地球のラテール",
+      "userPreferred": "Chikyuu no Latair"
+    },
+    "format": "TV_SHORT",
+    "genres": [],
+    "duration": 10,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198408-LAwH4Bbk3xkp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198408-LAwH4Bbk3xkp.png",
+      "color": "#e48650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1757670000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1758274800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1758879600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1759484400
         }
       ]
     }
