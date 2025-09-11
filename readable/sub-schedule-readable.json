@@ -2043,10 +2043,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757608200
-        },
-        {
           "episode": 12,
           "airingAt": 1758213000
         },
@@ -2299,10 +2295,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173335-GNOmbqSZUuBa.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757602560
-        },
         {
           "episode": 12,
           "airingAt": 1758207360
@@ -3852,10 +3844,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1757597400
-        },
-        {
           "episode": 5,
           "airingAt": 1758202200
         },
@@ -3873,39 +3861,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 183414,
-    "idMal": 60773,
-    "title": {
-      "romaji": "Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive!",
-      "english": null,
-      "native": "キミとアイドルプリキュア♪お待たせ！キミに届けるキラッキライブ！",
-      "userPreferred": "Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive!"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Mahou Shoujo",
-      "Music"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183414-YQT1XNrqnwGX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183414-YQT1XNrqnwGX.jpg",
-      "color": "#1a86e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1757602800
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 183473,
@@ -4605,10 +4560,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757602800
-        },
-        {
           "episode": 12,
           "airingAt": 1758207600
         }
@@ -4714,10 +4665,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757604360
-        },
         {
           "episode": 12,
           "airingAt": 1758209160
@@ -4915,10 +4862,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757604600
-        },
-        {
           "episode": 11,
           "airingAt": 1758209400
         },
@@ -5044,10 +4987,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1757608080
-        },
-        {
           "episode": 11,
           "airingAt": 1758212880
         },
@@ -5083,49 +5022,12 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1757609880
-        },
-        {
           "episode": 25,
           "airingAt": 1758214680
         },
         {
           "episode": 26,
           "airingAt": 1758819480
-        }
-      ]
-    }
-  },
-  {
-    "id": 186522,
-    "idMal": 60506,
-    "title": {
-      "romaji": "Araiguma Calcal-dan",
-      "english": null,
-      "native": "あらいぐま カルカル団",
-      "userPreferred": "Araiguma Calcal-dan"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186522-ZDp8LzI6FjuE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186522-ZDp8LzI6FjuE.jpg",
-      "color": "#e49350"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1757606040
         }
       ]
     }
@@ -5537,10 +5439,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757595240
-        },
-        {
           "episode": 12,
           "airingAt": 1758200040
         }
@@ -5574,10 +5472,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189117-SEvEg0G0Rcv7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1757595600
-        },
         {
           "episode": 11,
           "airingAt": 1758200400
@@ -5796,16 +5690,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1757602800
-        },
-        {
           "episode": 2,
           "airingAt": 1760022000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 193707,
@@ -6079,6 +5968,89 @@
     "unaired": true
   },
   {
+    "id": 195153,
+    "idMal": 61917,
+    "title": {
+      "romaji": "Towa no Yuugure",
+      "english": "Dusk Beyond the End of the World",
+      "native": "永久のユウグレ",
+      "userPreferred": "Dusk Beyond the End of the World"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195153-yiRxZP5pPJLi.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195153-yiRxZP5pPJLi.png",
+      "color": "#f1ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758813960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759418760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760023560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1760628360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761233160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1761837960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762442760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763047560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1763652360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764257160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1764861960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765466760
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766071560
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 195209,
     "idMal": 59961,
     "title": {
@@ -6308,6 +6280,42 @@
         }
       ]
     }
+  },
+  {
+    "id": 196750,
+    "idMal": 62328,
+    "title": {
+      "romaji": "Sister Breeder",
+      "english": null,
+      "native": "シスターブリーダー",
+      "userPreferred": "Sister Breeder"
+    },
+    "format": null,
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196750-qwkwqdNMXIwD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196750-qwkwqdNMXIwD.png",
+      "color": "#bb35e4"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196750-cmc0IEyZbqOj.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1758812400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1758812400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 198408,
