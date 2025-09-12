@@ -785,8 +785,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-09-12T19:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-09-19T19:00:00Z"
             }
           ]
         }
@@ -1249,6 +1249,64 @@
     },
     "verified": true,
     "addedAt": "2025-06-04T17:00:00Z"
+  },
+  {
+    "title": "Kimetsu no Yaiba Movie: Mugen Jou-hen",
+    "route": "kimetsu-no-yaiba-movie-mugen-jou-hen",
+    "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+    "english": "Demon Slayer: Infinity Castle",
+    "native": "劇場版 鬼滅の刃 無限城編",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2025-09-12T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 3,
+    "lengthMin": 155,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178788,
+        "idMal": 59192,
+        "title": {
+          "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+          "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+          "native": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+          "userPreferred": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Supernatural"
+        ],
+        "duration": 155,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-zm3gtpB9TpRt.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178788-zm3gtpB9TpRt.jpg",
+          "color": "#35bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178788-tSHb5MiaNBNL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-09-19T04:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-12T20:40:38Z"
   },
   {
     "title": "Mikadono Sanshimai wa Angai, Choroi.",
