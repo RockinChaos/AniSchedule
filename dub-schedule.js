@@ -234,6 +234,14 @@ export async function fetchDubSchedule() {
     const titles = []
     const order = []
 
+    airing.forEach((entry) => { // HACK: Stupid fixes for AniList breaking up series into multiple entries.
+        if (entry.route === 'kimetsu-no-yaiba-movie-mugen-jou-hen') { // Demon Slayer: Infinity Castle, this is broken up into three parts instead of nesting.
+            if (entry.episodeNumber === 1) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai'
+            else if (entry.episodeNumber === 2) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 2'
+            else if (entry.episodeNumber === 3) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 3'
+        }
+    })
+
     // Resolve routes as titles
     const parseObjs = await AnimeResolver.findAndCacheTitle(airing.map(item => item.romaji || item.route))
 
