@@ -927,10 +927,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 174,
-          "airingAt": 1757670000
-        },
-        {
           "episode": 175,
           "airingAt": 1758274800
         },
@@ -1025,6 +1021,10 @@
         {
           "episode": 198,
           "airingAt": 1772185200
+        },
+        {
+          "episode": 199,
+          "airingAt": 1772790000
         }
       ]
     }
@@ -1731,10 +1731,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 110,
-          "airingAt": 1757670900
-        },
-        {
           "episode": 111,
           "airingAt": 1758275700
         },
@@ -1961,10 +1957,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 97,
-          "airingAt": 1757669100
-        },
         {
           "episode": 98,
           "airingAt": 1758273900
@@ -2479,46 +2471,6 @@
         {
           "episode": 12,
           "airingAt": 1758292200
-        }
-      ]
-    }
-  },
-  {
-    "id": 176191,
-    "idMal": 58395,
-    "title": {
-      "romaji": "Neko ni Tensei Shita Oji-san",
-      "english": null,
-      "native": "ねこに転生したおじさん",
-      "userPreferred": "Neko ni Tensei Shita Oji-san"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176191-RL4lEr65YFfE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176191-RL4lEr65YFfE.jpg",
-      "color": "#e4c9ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 49,
-          "airingAt": 1757908800
-        },
-        {
-          "episode": 50,
-          "airingAt": 1758513600
-        },
-        {
-          "episode": 51,
-          "airingAt": 1759118400
         }
       ]
     }
@@ -5373,6 +5325,61 @@
     }
   },
   {
+    "id": 188884,
+    "idMal": 61300,
+    "title": {
+      "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
+      "english": null,
+      "native": "すみっコぐらし ここがおちつくんです",
+      "userPreferred": "Sumikko Gurashi: Koko ga Ochitsukun Desu"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188884-pmEMLEcpTovv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188884-pmEMLEcpTovv.png",
+      "color": "#e4c993"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 16,
+          "airingAt": 1758234600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1758839400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1759444200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1760049000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1760653800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1761258600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1761863400
+        }
+      ]
+    }
+  },
+  {
     "id": 188933,
     "idMal": 61539,
     "title": {
@@ -6331,10 +6338,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1757670000
-        },
         {
           "episode": 3,
           "airingAt": 1758274800
