@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1175,
-          "airingAt": 1757754000
-        },
-        {
           "episode": 1176,
           "airingAt": 1758358800
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1199,
           "airingAt": 1772269200
+        },
+        {
+          "episode": 1200,
+          "airingAt": 1772874000
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1301,
-          "airingAt": 1757748600
-        },
         {
           "episode": 1302,
           "airingAt": 1758353400
@@ -385,6 +381,10 @@
         {
           "episode": 1325,
           "airingAt": 1772263800
+        },
+        {
+          "episode": 1326,
+          "airingAt": 1772868600
         }
       ]
     }
@@ -759,10 +759,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 880,
-          "airingAt": 1757750400
-        },
-        {
           "episode": 881,
           "airingAt": 1758355200
         },
@@ -857,6 +853,10 @@
         {
           "episode": 904,
           "airingAt": 1772265600
+        },
+        {
+          "episode": 905,
+          "airingAt": 1772870400
         }
       ]
     }
@@ -1155,42 +1155,6 @@
         {
           "episode": 130,
           "airingAt": 1772416800
-        }
-      ]
-    }
-  },
-  {
-    "id": 137667,
-    "idMal": 49818,
-    "title": {
-      "romaji": "Guimi Zhi Zhu",
-      "english": "Lord of Mysteries",
-      "native": "诡秘之主",
-      "userPreferred": "Lord of Mysteries"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy",
-      "Mystery",
-      "Supernatural",
-      "Thriller"
-    ],
-    "duration": 35,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-zHFOF6qbpksP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137667-zHFOF6qbpksP.jpg",
-      "color": "#aed6e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137667-AhUoT3NFgbif.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1758337200
         }
       ]
     }
@@ -2559,10 +2523,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1757752200
-        },
         {
           "episode": 23,
           "airingAt": 1758357000
@@ -4206,10 +4166,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184639-fXvQzDPP4bHL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1757755560
-        },
         {
           "episode": 23,
           "airingAt": 1758360360
