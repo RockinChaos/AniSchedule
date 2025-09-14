@@ -1587,40 +1587,6 @@
     }
   },
   {
-    "id": 156092,
-    "idMal": 53447,
-    "title": {
-      "romaji": "Tu Bian Yingxiong X",
-      "english": "To Be Hero X",
-      "native": "凸变英雄X",
-      "userPreferred": "To Be Hero X"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156092-yHqgQZOF2mbg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156092-yHqgQZOF2mbg.jpg",
-      "color": "#d61a1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156092-XJ6CHMZpJ7YX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1757809800
-        }
-      ]
-    }
-  },
-  {
     "id": 156395,
     "idMal": 53512,
     "title": {
@@ -2782,10 +2748,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1757808000
-        },
-        {
           "episode": 24,
           "airingAt": 1758412800
         },
@@ -2880,6 +2842,10 @@
         {
           "episode": 47,
           "airingAt": 1772323200
+        },
+        {
+          "episode": 48,
+          "airingAt": 1772928000
         }
       ]
     }
@@ -3160,11 +3126,11 @@
       "nodes": [
         {
           "episode": 12,
-          "airingAt": 1758118500
+          "airingAt": 1758120360
         },
         {
           "episode": 13,
-          "airingAt": 1758723300
+          "airingAt": 1758725160
         }
       ]
     }
@@ -3966,10 +3932,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1757809800
-        },
-        {
           "episode": 25,
           "airingAt": 1758414600
         },
@@ -4064,6 +4026,10 @@
         {
           "episode": 48,
           "airingAt": 1772325000
+        },
+        {
+          "episode": 49,
+          "airingAt": 1772929800
         }
       ]
     }
@@ -4357,10 +4323,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 32,
-          "airingAt": 1757806200
-        },
-        {
           "episode": 33,
           "airingAt": 1758411000
         },
@@ -4550,10 +4512,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1757806080
-        },
-        {
           "episode": 25,
           "airingAt": 1758410880
         }
@@ -4620,10 +4578,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1757801760
-        },
         {
           "episode": 25,
           "airingAt": 1758406560
@@ -4719,6 +4673,10 @@
         {
           "episode": 48,
           "airingAt": 1772316960
+        },
+        {
+          "episode": 49,
+          "airingAt": 1772921760
         }
       ]
     }
@@ -6313,6 +6271,43 @@
         {
           "episode": 5,
           "airingAt": 1759484400
+        }
+      ]
+    }
+  },
+  {
+    "id": 198745,
+    "idMal": 61846,
+    "title": {
+      "romaji": "Shuukan Ranobe Anime",
+      "english": null,
+      "native": "週刊ラノベアニメ",
+      "userPreferred": "Shuukan Ranobe Anime"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "duration": 23,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198745-0coQkVMVfTCj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b198745-0coQkVMVfTCj.jpg",
+      "color": "#e4a135"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1758387600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1758992400
         }
       ]
     }
