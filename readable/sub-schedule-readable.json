@@ -503,10 +503,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2797,
-          "airingAt": 1757842200
-        },
-        {
           "episode": 2798,
           "airingAt": 1758447000
         },
@@ -601,6 +597,10 @@
         {
           "episode": 2821,
           "airingAt": 1772357400
+        },
+        {
+          "episode": 2822,
+          "airingAt": 1772962200
         }
       ]
     }
@@ -887,10 +887,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 331,
-          "airingAt": 1757840400
-        },
         {
           "episode": 332,
           "airingAt": 1758445200
@@ -3307,10 +3303,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1757836800
-        },
-        {
           "episode": 24,
           "airingAt": 1758441600
         },
@@ -3528,10 +3520,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757853000
-        },
         {
           "episode": 12,
           "airingAt": 1758457800
@@ -4709,10 +4697,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757838600
-        },
-        {
           "episode": 12,
           "airingAt": 1758443400
         }
@@ -5437,10 +5421,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757835000
-        },
-        {
           "episode": 12,
           "airingAt": 1758439800
         }
@@ -6100,10 +6080,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757849400
-        },
-        {
           "episode": 12,
           "airingAt": 1758454200
         },
@@ -6198,6 +6174,10 @@
         {
           "episode": 35,
           "airingAt": 1772364600
+        },
+        {
+          "episode": 36,
+          "airingAt": 1772969400
         }
       ]
     }
