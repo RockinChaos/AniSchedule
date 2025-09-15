@@ -1360,10 +1360,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1757946600
-        },
-        {
           "episode": 25,
           "airingAt": 1758551400
         },
@@ -3670,10 +3666,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1757940840
-        },
-        {
           "episode": 12,
           "airingAt": 1758545640
         }
@@ -3706,10 +3698,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182309-kvcHexJjshIV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757950200
-        },
         {
           "episode": 12,
           "airingAt": 1758555000
@@ -3859,38 +3847,6 @@
         {
           "episode": 13,
           "airingAt": 1759070760
-        }
-      ]
-    }
-  },
-  {
-    "id": 184237,
-    "idMal": 60285,
-    "title": {
-      "romaji": "SAKAMOTO DAYS Part 2",
-      "english": "SAKAMOTO DAYS Part 2",
-      "native": "SAKAMOTO DAYS 第２クール",
-      "userPreferred": "SAKAMOTO DAYS Part 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184237-OJAksU2fsIPx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184237-OJAksU2fsIPx.jpg",
-      "color": "#e4c943"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184237-SBj6UJvIWAOg.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757948400
         }
       ]
     }
@@ -4146,10 +4102,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757952000
-        },
         {
           "episode": 12,
           "airingAt": 1758556800
@@ -5015,6 +4967,85 @@
     }
   },
   {
+    "id": 187663,
+    "idMal": 61174,
+    "title": {
+      "romaji": "Souzai Saishuka no Isekai Ryokouki",
+      "english": "A Gatherer's Adventure in Isekai",
+      "native": "素材採取家の異世界旅行記",
+      "userPreferred": "A Gatherer's Adventure in Isekai"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-cP1vtkFc4Idp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-cP1vtkFc4Idp.png",
+      "color": "#43a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759159800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759764600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760369400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1760974200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761579000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762183800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762788600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763393400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1763998200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764603000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765207800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765812600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 188039,
     "idMal": 60689,
     "title": {
@@ -5083,10 +5114,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1757944800
-        },
         {
           "episode": 12,
           "airingAt": 1758549600
