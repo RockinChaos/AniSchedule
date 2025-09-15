@@ -852,6 +852,61 @@
     "addedAt": "2025-07-16T17:00:00Z"
   },
   {
+    "title": "Hyakuemu.",
+    "route": "hyakuemu",
+    "romaji": "Hyakuemu.",
+    "english": "100 METERS",
+    "native": "ひゃくえむ。",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2025-10-10T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 177687,
+        "idMal": 58919,
+        "title": {
+          "romaji": "Hyakuemu.",
+          "english": "100 METERS",
+          "native": "ひゃくえむ。",
+          "userPreferred": "100 METERS"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Sports"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-T4SrtVjrmW01.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177687-T4SrtVjrmW01.png",
+          "color": "#e46b5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-dLAgmKRZ5zkK.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-10T00:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-10T00:00:00Z"
+  },
+  {
     "title": "Jibaku Shounen Hanako-kun 2 Part 2",
     "route": "jibaku-shounen-hanako-kun-2-zoku-hen",
     "romaji": "Jibaku Shounen Hanako-kun 2 Part 2",
