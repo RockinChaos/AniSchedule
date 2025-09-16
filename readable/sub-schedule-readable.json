@@ -1714,10 +1714,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758040140
-        },
-        {
           "episode": 12,
           "airingAt": 1758644940
         }
@@ -2658,10 +2654,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758034800
-        },
-        {
           "episode": 12,
           "airingAt": 1758639600
         },
@@ -3098,38 +3090,6 @@
     }
   },
   {
-    "id": 179344,
-    "idMal": 59277,
-    "title": {
-      "romaji": "Kanojo, Okarishimasu 4th Season",
-      "english": "Rent-a-Girlfriend Season 4",
-      "native": "彼女、お借りします 第4期",
-      "userPreferred": "Rent-a-Girlfriend Season 4"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179344-GQzJfehpQI72.png",
-      "color": "#28c9f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758027600
-        }
-      ]
-    }
-  },
-  {
     "id": 179678,
     "idMal": 59342,
     "title": {
@@ -3192,10 +3152,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758031200
-        },
         {
           "episode": 12,
           "airingAt": 1758636000
@@ -3377,38 +3333,6 @@
         {
           "episode": 12,
           "airingAt": 1758385800
-        }
-      ]
-    }
-  },
-  {
-    "id": 180460,
-    "idMal": 59632,
-    "title": {
-      "romaji": "Mattaku Saikin no Tantei to Kitara",
-      "english": "Detectives These Days Are Crazy!",
-      "native": "まったく最近の探偵ときたら",
-      "userPreferred": "Detectives These Days Are Crazy!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Mystery"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180460-rZn4pp9YNqW0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180460-rZn4pp9YNqW0.jpg",
-      "color": "#4393e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180460-Id13IZ4FSBuf.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758033000
         }
       ]
     }
@@ -3810,6 +3734,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 183965,
+    "idMal": 60254,
+    "title": {
+      "romaji": "Yano-kun no Futsuu no Hibi",
+      "english": null,
+      "native": "矢野くんの普通の日々",
+      "userPreferred": "Yano-kun no Futsuu no Hibi"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183965-7oMzkJp4FUyP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183965-7oMzkJp4FUyP.jpg",
+      "color": "#d6ae6b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759250160
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759854540
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760459340
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761064140
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761668940
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762273740
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762878540
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763483340
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764088140
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764692940
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765297740
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765902540
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 184034,
@@ -4349,35 +4351,6 @@
         {
           "episode": 49,
           "airingAt": 1768087800
-        }
-      ]
-    }
-  },
-  {
-    "id": 185505,
-    "idMal": 60505,
-    "title": {
-      "romaji": "Necronomico no Cosmic Horror Show",
-      "english": "Necronomico and the Cosmic Horror Show",
-      "native": "ネクロノミ子のコズミックホラーショウ",
-      "userPreferred": "Necronomico and the Cosmic Horror Show"
-    },
-    "format": "TV",
-    "genres": [],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185505-l2ZcSDvdzhd8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185505-l2ZcSDvdzhd8.jpg",
-      "color": "#c943f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758033000
         }
       ]
     }
