@@ -958,8 +958,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-09-17T19:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-09-24T19:00:00Z"
             }
           ]
         }
@@ -1199,10 +1199,11 @@
     "romaji": "Kijin Gentoushou",
     "english": "Sword of the Demon Hunter: Kijin Gentosho",
     "native": "鬼人幻燈抄",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-09-03T17:00:00Z",
+    "delayedUntil": "2031-01-01T17:00:00Z",
     "episodeDate": "2025-09-17T17:00:00Z",
-    "episodeNumber": 16,
+    "episodeNumber": 14,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1211,6 +1212,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -1240,8 +1242,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 17,
-              "airingAt": "2025-09-24T17:00:00Z"
+              "episode": 14,
+              "airingAt": "2031-01-01T17:00:00Z"
             }
           ]
         }
