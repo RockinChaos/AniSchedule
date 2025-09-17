@@ -1651,6 +1651,63 @@
     "addedAt": "2025-07-16T21:14:49Z"
   },
   {
+    "title": "Ranma ½ (2024) 2nd Season",
+    "route": "ranma-2024-2nd-season",
+    "romaji": "Ranma ½ (2024) 2nd Season",
+    "english": "Ranma ½ (2024) 2nd Season",
+    "native": "らんま1/2 第2期",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-10-04T17:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 210,
+        "idMal": 210,
+        "title": {
+          "romaji": "Ranma 1/2",
+          "english": "Ranma ½",
+          "native": "らんま1/2",
+          "userPreferred": "Ranma ½"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Ecchi",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 1989,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210-qgahLDYT0t9b.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210-qgahLDYT0t9b.png",
+          "color": "#e46b5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210-apebEUbenwLc.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-04T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-04T17:00:00Z"
+  },
+  {
     "title": "Rock wa Lady no Tashinami deshite",
     "route": "rock-wa-lady-no-tashinami-deshite",
     "romaji": "Rock wa Lady no Tashina Mideshite",
