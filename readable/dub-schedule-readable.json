@@ -2343,10 +2343,11 @@
     "title": "Yu☆Gi☆Oh! Go Rush!!",
     "route": "yu-gi-oh-go-rush",
     "native": "遊☆戯☆王ゴーラッシュ!!",
-    "delayedFrom": "0001-01-01T12:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-08-16T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
     "episodeDate": "2025-09-20T12:00:00Z",
-    "episodeNumber": 37,
+    "episodeNumber": 32,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2384,7 +2385,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 37,
+              "episode": 32,
               "airingAt": "2025-09-20T12:00:00Z"
             }
           ]
