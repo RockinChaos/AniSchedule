@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 20,
-              "airingAt": "2025-09-17T17:00:00Z"
+              "episode": 21,
+              "airingAt": "2025-09-24T17:00:00Z"
             }
           ]
         }
@@ -270,8 +270,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-09-17T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-09-24T17:00:00Z"
             }
           ]
         }
@@ -841,8 +841,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-09-17T17:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-09-24T17:00:00Z"
             }
           ]
         }
@@ -1240,8 +1240,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2025-09-17T17:00:00Z"
+              "episode": 17,
+              "airingAt": "2025-09-24T17:00:00Z"
             }
           ]
         }
@@ -1383,7 +1383,7 @@
         "route": "ova"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185992,
@@ -1548,6 +1548,7 @@
     "delayedUntil": "0001-01-01T20:30:00Z",
     "episodeDate": "2025-09-17T20:30:00Z",
     "episodeNumber": 10,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1610,7 +1611,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 179694,
@@ -1638,8 +1639,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-09-17T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-09-24T17:00:00Z"
             }
           ]
         }
@@ -2325,14 +2326,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-09-17T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-09-24T17:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-09-03T17:00:00Z"
   },
   {
