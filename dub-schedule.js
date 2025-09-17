@@ -158,7 +158,7 @@ export async function fetchDubSchedule() {
         for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove un-verified episodes.
             const existingInAiring = timetables.findIndex((airingItem) => airingItem.route === entry.route)
             let newEntry = entry
-            if ((existingInAiring === -1) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
+            if (((existingInAiring === -1) || (new Date(newEntry.delayedFrom) < new Date() && new Date(newEntry.delayedFrom).getUTCFullYear() > 1 && new Date(newEntry.delayedUntil).getUTCFullYear() <= 1)) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
                 if (!entry.delayedIndefinitely) {
                     changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
                     console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
@@ -211,13 +211,11 @@ export async function fetchDubSchedule() {
                         delayedIndefinitely: true
                     }
                 } else {
-                    timetables[existingInAiring] = {
-                        ...entry
-                    }
+                    timetables[existingInAiring] = { ...entry }
                 }
             }
         }
-        airingLists.value = timetables.filter(item => item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title)) // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
+        airingLists.value = timetables.filter(item => !item.airType || item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title)) // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
         console.log(`Successfully retrieved ${airingLists.value.length} airing series...`)
     } else {
         console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!')
