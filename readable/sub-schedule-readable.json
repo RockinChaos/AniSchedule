@@ -1494,16 +1494,12 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758124800
-        },
-        {
           "episode": 12,
           "airingAt": 1758729600
         },
         {
           "episode": 13,
-          "airingAt": 1759334400
+          "airingAt": 1758731400
         }
       ]
     }
@@ -1538,38 +1534,6 @@
         {
           "episode": 12,
           "airingAt": 1758380400
-        }
-      ]
-    }
-  },
-  {
-    "id": 155838,
-    "idMal": 53397,
-    "title": {
-      "romaji": "Tsuyokute New Saga",
-      "english": "New Saga",
-      "native": "強くてニューサーガ",
-      "userPreferred": "New Saga"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155838-0zx6MTeoo5sk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155838-0zx6MTeoo5sk.jpg",
-      "color": "#fea10d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758129360
         }
       ]
     }
@@ -2022,39 +1986,6 @@
     }
   },
   {
-    "id": 169440,
-    "idMal": 56700,
-    "title": {
-      "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
-      "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
-      "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd Season",
-      "userPreferred": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169440-MhlOxaIyASRu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169440-MhlOxaIyASRu.jpg",
-      "color": "#f1a143"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758114000
-        }
-      ]
-    }
-  },
-  {
     "id": 169941,
     "idMal": 56905,
     "title": {
@@ -2084,6 +2015,85 @@
         }
       ]
     }
+  },
+  {
+    "id": 169969,
+    "idMal": 56854,
+    "title": {
+      "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
+      "english": "Hero Without a Class: Who Even Needs Skills?!",
+      "native": "無職の英雄 別にスキルなんか要らなかったんだが",
+      "userPreferred": "Hero Without a Class: Who Even Needs Skills?!"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-16Z6v22WTbO0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169969-16Z6v22WTbO0.png",
+      "color": "#f1c993"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759323600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759928400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760533200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761138000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761742800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762347600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762952400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763557200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764162000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764766800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765371600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765976400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 170113,
@@ -2902,10 +2912,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758121200
-        },
-        {
           "episode": 12,
           "airingAt": 1758726000
         }
@@ -3021,71 +3027,6 @@
     }
   },
   {
-    "id": 178869,
-    "idMal": 59205,
-    "title": {
-      "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
-      "english": "Clevatess",
-      "native": "クレバテス-魔獣の王と赤子と屍の勇者",
-      "userPreferred": "Clevatess"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178869-qiEz0gQD8H5N.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178869-qiEz0gQD8H5N.png",
-      "color": "#e43528"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178869-ZFn0hKphaLtk.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758114000
-        }
-      ]
-    }
-  },
-  {
-    "id": 178886,
-    "idMal": 59207,
-    "title": {
-      "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
-      "english": "Dealing with Mikadono Sisters Is a Breeze",
-      "native": "帝乃三姉妹は案外、チョロい。",
-      "userPreferred": "Dealing with Mikadono Sisters Is a Breeze"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-KjzSXyEB61zX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178886-KjzSXyEB61zX.jpg",
-      "color": "#f19343"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178886-wUxMvrfIuAfU.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758122400
-        }
-      ]
-    }
-  },
-  {
     "id": 179678,
     "idMal": 59342,
     "title": {
@@ -3112,10 +3053,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179678-3a0lkZVFIrlw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758120360
-        },
         {
           "episode": 13,
           "airingAt": 1758725160
@@ -3697,6 +3634,83 @@
     }
   },
   {
+    "id": 183291,
+    "idMal": 60162,
+    "title": {
+      "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
+      "english": "Pass the Monster Meat, Milady!",
+      "native": "悪食令嬢と狂血公爵　～その魔物、私が美味しくいただきます！～",
+      "userPreferred": "Pass the Monster Meat, Milady!"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-RHLPdeftGxeQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183291-RHLPdeftGxeQ.jpg",
+      "color": "#35c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759336080
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759940880
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760545680
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761150480
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761755280
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762360080
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762964880
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763569680
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764174480
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764779280
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765384080
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765988880
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 183473,
     "idMal": 60080,
     "title": {
@@ -4218,40 +4232,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185070,
-    "idMal": 60401,
-    "title": {
-      "romaji": "Uchuujin MuuMuu",
-      "english": null,
-      "native": "宇宙人ムームー",
-      "userPreferred": "Uchuujin MuuMuu"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Mystery",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185070-VKzUA4B9kmaX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185070-VKzUA4B9kmaX.jpg",
-      "color": "#e4d65d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185070-IqaCRPp4zbM9.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1758121200
-        }
-      ]
-    }
   },
   {
     "id": 185073,
@@ -4899,37 +4879,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 187387,
-    "idMal": 61150,
-    "title": {
-      "romaji": "Onmyo Kaiten Re:verse",
-      "english": "Onmyo Kaiten Re:Birth Verse",
-      "native": "陰陽廻天 Re:バース",
-      "userPreferred": "Onmyo Kaiten Re:Birth Verse"
-    },
-    "format": "TV",
-    "genres": [
-      "Action"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187387-dbi9hPNKyA35.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187387-dbi9hPNKyA35.jpg",
-      "color": "#5dbbe4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758123960
-        }
-      ]
-    }
   },
   {
     "id": 187663,
@@ -5825,6 +5774,84 @@
     }
   },
   {
+    "id": 193968,
+    "idMal": 61773,
+    "title": {
+      "romaji": "Let’s Play: Quest Darake no My Life",
+      "english": "Let’s Play",
+      "native": "Let’s Play クエストだらけのマイライフ",
+      "userPreferred": "Let’s Play"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-KqzLwFzqf3uo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193968-KqzLwFzqf3uo.jpg",
+      "color": "#f1bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759333560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759938360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760543160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761147960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761752760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762357560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762962360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763567160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764171960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764776760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765381560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765986360
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 194088,
     "idMal": 61793,
     "title": {
@@ -6040,10 +6067,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758123000
-        },
         {
           "episode": 12,
           "airingAt": 1758727800
