@@ -2255,10 +2255,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758110400
-        },
-        {
           "episode": 12,
           "airingAt": 1758715200
         }
@@ -3670,7 +3666,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183128-nMFf0c6IOs9g.jpg",
