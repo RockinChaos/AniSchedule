@@ -1194,65 +1194,6 @@
     "addedAt": "2025-09-07T15:30:00Z"
   },
   {
-    "title": "Kijin Gentoushou",
-    "route": "kijin-gentoushou",
-    "romaji": "Kijin Gentoushou",
-    "english": "Sword of the Demon Hunter: Kijin Gentosho",
-    "native": "鬼人幻燈抄",
-    "delayedText": "Delayed",
-    "delayedFrom": "2025-09-03T17:00:00Z",
-    "delayedUntil": "2031-01-01T17:00:00Z",
-    "episodeDate": "2025-09-17T17:00:00Z",
-    "episodeNumber": 14,
-    "episodes": 24,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "delayedIndefinitely": true,
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 143598,
-        "idMal": 49778,
-        "title": {
-          "romaji": "Kijin Gentoushou",
-          "english": "Sword of the Demon Hunter: Kijin Gentosho",
-          "native": "鬼人幻燈抄",
-          "userPreferred": "Sword of the Demon Hunter: Kijin Gentosho"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143598-FCvAhQJLllSP.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143598-FCvAhQJLllSP.png",
-          "color": "#e4865d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 14,
-              "airingAt": "2031-01-01T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-06-04T17:00:00Z"
-  },
-  {
     "title": "Mikadono Sanshimai wa Angai, Choroi.",
     "route": "mikadono-sanshimai-wa-angai-choroi",
     "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
@@ -1299,8 +1240,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-09-17T19:30:00Z"
+              "episode": 10,
+              "airingAt": "2025-09-24T19:30:00Z"
             }
           ]
         }
@@ -2037,8 +1978,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2025-09-17T20:00:00Z"
+              "episode": 10,
+              "airingAt": "2025-09-24T20:00:00Z"
             }
           ]
         }
