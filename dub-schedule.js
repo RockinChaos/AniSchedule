@@ -162,10 +162,18 @@ export async function fetchDubSchedule() {
                 if (!entry.delayedIndefinitely) {
                     changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
                     console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
-                    newEntry = {
-                        ...entry,
-                        delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
-                        delayedIndefinitely: true
+                    if ((existingInAiring !== -1)) {
+                        timetables[existingInAiring] = {
+                            ...timetables[existingInAiring],
+                            delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
+                            delayedIndefinitely: true
+                        }
+                    } else {
+                        newEntry = {
+                            ...entry,
+                            delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
+                            delayedIndefinitely: true
+                        }
                     }
                 }
                 timetables.push(newEntry)
