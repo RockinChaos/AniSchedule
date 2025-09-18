@@ -1,5 +1,38 @@
 [
   {
+    "id": 171627,
+    "idMal": 57555,
+    "format": "MOVIE",
+    "duration": 100,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-09-18T15:00:00Z",
+      "addedAt": "2025-09-18T15:00:14Z"
+    }
+  },
+  {
+    "id": 177687,
+    "idMal": 58919,
+    "format": "MOVIE",
+    "duration": 90,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-09-18T15:00:00Z",
+      "addedAt": "2025-09-18T15:00:14Z"
+    }
+  },
+  {
+    "id": 185544,
+    "idMal": 60523,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 12,
+      "airedAt": "2025-09-18T15:00:00Z",
+      "addedAt": "2025-09-18T15:00:14Z"
+    }
+  },
+  {
     "id": 173335,
     "idMal": 57820,
     "format": "TV",
