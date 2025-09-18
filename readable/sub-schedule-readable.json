@@ -1827,38 +1827,6 @@
     }
   },
   {
-    "id": 166215,
-    "idMal": 55689,
-    "title": {
-      "romaji": "Utagoe wa Mille-Feuille",
-      "english": "Harmony of Mille-Feuille",
-      "native": "うたごえはミルフィーユ",
-      "userPreferred": "Harmony of Mille-Feuille"
-    },
-    "format": "TV",
-    "genres": [
-      "Music",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166215-3GkidWAYu5cr.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166215-3GkidWAYu5cr.png",
-      "color": "#5dbbf1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1758198360
-        }
-      ]
-    }
-  },
-  {
     "id": 168537,
     "idMal": 56420,
     "title": {
@@ -4881,6 +4849,135 @@
     "unaired": true
   },
   {
+    "id": 187166,
+    "idMal": 61107,
+    "title": {
+      "romaji": "Ganso! Bandori-chan",
+      "english": null,
+      "native": "元祖！バンドリちゃん",
+      "userPreferred": "Ganso! Bandori-chan"
+    },
+    "format": null,
+    "genres": [
+      "Comedy",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187166-ASfp7wErGrxQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187166-ASfp7wErGrxQ.png",
+      "color": "#e4e45d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759406400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760011200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760616000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761220800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761825600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762430400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763035200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763640000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764244800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764849600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765454400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766059200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766664000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767268800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1767873600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768478400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769083200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769688000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770292800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1770897600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771502400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772107200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1772712000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773316800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1773921600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 187663,
     "idMal": 61174,
     "title": {
@@ -5076,38 +5173,6 @@
         {
           "episode": 14,
           "airingAt": 1765933200
-        }
-      ]
-    }
-  },
-  {
-    "id": 188394,
-    "idMal": 61272,
-    "title": {
-      "romaji": "PetitCure: Precure Fairies",
-      "english": null,
-      "native": "ぷちきゅあ～Precure Fairies～",
-      "userPreferred": "PetitCure: Precure Fairies"
-    },
-    "format": "ONA",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188394-4oTa98gvtw8R.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188394-4oTa98gvtw8R.jpg",
-      "color": "#f1a143"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1758187800
         }
       ]
     }
@@ -5892,6 +5957,82 @@
     }
   },
   {
+    "id": 194389,
+    "idMal": 62005,
+    "title": {
+      "romaji": "Koala Enikki",
+      "english": null,
+      "native": "コアラ絵日記",
+      "userPreferred": "Koala Enikki"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194389-DAbj4TOj5GB9.png",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759402800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760007600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760612400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761217200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761822000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762426800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763031600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763636400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764241200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764846000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765450800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766055600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 195033,
     "idMal": 61937,
     "title": {
@@ -6380,35 +6521,80 @@
     }
   },
   {
-    "id": 198948,
-    "idMal": null,
+    "id": 198921,
+    "idMal": 62504,
     "title": {
-      "romaji": "Host ni Iroiro Kiitemita",
+      "romaji": "Sylvanian Families: Freya no Wonder Days",
       "english": null,
-      "native": "ホストにいろいろ聞いてみた",
-      "userPreferred": "Host ni Iroiro Kiitemita"
+      "native": "シルバニアファミリー フレアのワンダーデイズ",
+      "userPreferred": "Sylvanian Families: Freya no Wonder Days"
     },
-    "format": "ONA",
+    "format": "TV_SHORT",
     "genres": [
-      "Comedy",
+      "Fantasy",
       "Slice of Life"
     ],
-    "duration": 4,
-    "seasonYear": null,
+    "duration": 12,
+    "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198948-L6Hq3F822VBb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b198948-L6Hq3F822VBb.jpg",
-      "color": "#e45d78"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198921-NMVQx7KSCnTd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198921-NMVQx7KSCnTd.png",
+      "color": "#4378e4"
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1759400520
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760005320
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760610120
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761214920
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761819720
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762424520
+        },
+        {
           "episode": 7,
-          "airingAt": 1758196800
+          "airingAt": 1763029320
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763634120
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764238920
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764843720
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765448520
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766053320
         }
       ]
-    }
+    },
+    "unaired": true
   }
 ]
