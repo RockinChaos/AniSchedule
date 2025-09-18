@@ -1853,10 +1853,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758213000
-        },
-        {
           "episode": 13,
           "airingAt": 1758817800
         }
@@ -2136,40 +2132,6 @@
     }
   },
   {
-    "id": 171627,
-    "idMal": 57555,
-    "title": {
-      "romaji": "Chainsaw Man: Reze-hen",
-      "english": "Chainsaw Man – The Movie: Reze Arc",
-      "native": "チェンソーマン レゼ篇",
-      "userPreferred": "Chainsaw Man – The Movie: Reze Arc"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Drama",
-      "Supernatural"
-    ],
-    "duration": 100,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-smzCQpAP6UQE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171627-smzCQpAP6UQE.jpg",
-      "color": "#e42843"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171627-7esVHhgw69rn.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1758207600
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 173335,
     "idMal": 57820,
     "title": {
@@ -2195,10 +2157,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173335-GNOmbqSZUuBa.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758207360
-        },
         {
           "episode": 13,
           "airingAt": 1758812160
@@ -2493,39 +2451,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 177687,
-    "idMal": 58919,
-    "title": {
-      "romaji": "Hyakuemu.",
-      "english": "100 METERS",
-      "native": "ひゃくえむ。",
-      "userPreferred": "100 METERS"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Sports"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-T4SrtVjrmW01.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177687-T4SrtVjrmW01.png",
-      "color": "#e46b5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-dLAgmKRZ5zkK.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1758207600
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 177689,
@@ -3559,49 +3484,6 @@
     }
   },
   {
-    "id": 183128,
-    "idMal": 60130,
-    "title": {
-      "romaji": "Muchuu sa, Kimi ni.",
-      "english": "Captivated, By You",
-      "native": "夢中さ、きみに。",
-      "userPreferred": "Captivated, By You"
-    },
-    "format": "TV",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183128-nMFf0c6IOs9g.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183128-nMFf0c6IOs9g.jpg",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1758202200
-        },
-        {
-          "episode": 6,
-          "airingAt": 1758807000
-        },
-        {
-          "episode": 7,
-          "airingAt": 1759411800
-        },
-        {
-          "episode": 8,
-          "airingAt": 1760016600
-        }
-      ]
-    }
-  },
-  {
     "id": 183291,
     "idMal": 60162,
     "title": {
@@ -3673,6 +3555,86 @@
         {
           "episode": 12,
           "airingAt": 1765988880
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 183385,
+    "idMal": 60168,
+    "title": {
+      "romaji": "Watashi wo Tabetai, Hitodenashi",
+      "english": "This Monster Wants to Eat Me",
+      "native": "私を喰べたい、ひとでなし",
+      "userPreferred": "This Monster Wants to Eat Me"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Psychological",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-CEz1owTzcSwo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183385-CEz1owTzcSwo.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759411800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760016600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760621400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761226200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761831000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762435800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763040600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763645400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764250200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764855000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765459800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766064600
         }
       ]
     },
@@ -4300,38 +4262,81 @@
     }
   },
   {
-    "id": 185544,
-    "idMal": 60523,
+    "id": 185575,
+    "idMal": 60531,
     "title": {
-      "romaji": "Tsuihousha Shokudou e Youkoso!",
-      "english": "Welcome to the Outcast's Restaurant!",
-      "native": "追放者食堂へようこそ！",
-      "userPreferred": "Welcome to the Outcast's Restaurant!"
+      "romaji": "Bukiyou na Senpai.",
+      "english": null,
+      "native": "不器用な先輩。",
+      "userPreferred": "Bukiyou na Senpai."
     },
     "format": "TV",
     "genres": [
-      "Adventure",
       "Comedy",
-      "Fantasy",
-      "Slice of Life"
+      "Romance"
     ],
-    "duration": 24,
+    "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185544-V9XoC8yJ906f.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185544-V9XoC8yJ906f.jpg",
-      "color": "#d6a11a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185575-cRHKCLmJI4Fr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185575-cRHKCLmJI4Fr.jpg",
+      "color": null
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1759410000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760014800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760619600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761224400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761829200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762434000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763038800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763643600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764248400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764853200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765458000
+        },
+        {
           "episode": 12,
-          "airingAt": 1758207600
+          "airingAt": 1766062800
         }
       ]
-    }
+    },
+    "unaired": true
   },
   {
     "id": 185584,
@@ -4391,42 +4396,6 @@
         {
           "episode": 25,
           "airingAt": 1758410880
-        }
-      ]
-    }
-  },
-  {
-    "id": 185660,
-    "idMal": 60543,
-    "title": {
-      "romaji": "Dandadan 2nd Season",
-      "english": "DAN DA DAN Season 2",
-      "native": "ダンダダン 第2期",
-      "userPreferred": "DAN DA DAN Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Romance",
-      "Sci-Fi",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185660-uB8RUMBGovGr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185660-uB8RUMBGovGr.jpg",
-      "color": "#f1ae28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185660-NdXFgzcYmcDz.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758209160
         }
       ]
     }
@@ -4617,10 +4586,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758209400
-        },
-        {
           "episode": 12,
           "airingAt": 1758814200
         },
@@ -4738,10 +4703,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758212880
-        },
-        {
           "episode": 12,
           "airingAt": 1758817680
         }
@@ -4774,11 +4735,11 @@
       "nodes": [
         {
           "episode": 25,
-          "airingAt": 1758214680
+          "airingAt": 1758819480
         },
         {
           "episode": 26,
-          "airingAt": 1758819480
+          "airingAt": 1759424280
         }
       ]
     }
@@ -4815,6 +4776,116 @@
         }
       ]
     }
+  },
+  {
+    "id": 186621,
+    "idMal": 60969,
+    "title": {
+      "romaji": "Taiyou yori mo Mabushii Hoshi",
+      "english": "A Star Brighter Than the Sun",
+      "native": "太陽よりも眩しい星",
+      "userPreferred": "A Star Brighter Than the Sun"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186621-jFeAgDQkQMUm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186621-jFeAgDQkQMUm.jpg",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759416960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760021760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760626560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761231360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761836160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762440960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763045760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763650560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764255360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764860160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765464960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766069760
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186714,
+    "idMal": 59817,
+    "title": {
+      "romaji": "GIRLS BAND CRY: Seishun Kyousoukyoku",
+      "english": null,
+      "native": "ガールズバンドクライ 青春狂走曲",
+      "userPreferred": "GIRLS BAND CRY: Seishun Kyousoukyoku"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Music",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186714-tQVs0CUEoM6Y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186714-tQVs0CUEoM6Y.jpg",
+      "color": "#e49350"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186714-J77L0veHIMWn.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759417200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186829,
@@ -5403,40 +5474,6 @@
     }
   },
   {
-    "id": 189069,
-    "idMal": 61274,
-    "title": {
-      "romaji": "Ginga Tokkyuu Milky☆Subway",
-      "english": "Milky☆Subway: The Galactic Limited Express",
-      "native": "銀河特急 ミルキー☆サブウェイ",
-      "userPreferred": "Milky☆Subway: The Galactic Limited Express"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189069-mDKZPNUNKFOD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189069-mDKZPNUNKFOD.jpg",
-      "color": "#a1f1bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189069-t19Ag9Tqyy8Q.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758200040
-        }
-      ]
-    }
-  },
-  {
     "id": 189117,
     "idMal": 61322,
     "title": {
@@ -5463,10 +5500,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189117-SEvEg0G0Rcv7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758200400
-        },
         {
           "episode": 12,
           "airingAt": 1758805200
@@ -6484,6 +6517,82 @@
     }
   },
   {
+    "id": 198561,
+    "idMal": 62144,
+    "title": {
+      "romaji": "Potion, Wagami wo Tasukeru",
+      "english": null,
+      "native": "ポーション、わが身を助ける",
+      "userPreferred": "Potion, Wagami wo Tasukeru"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198561-ugYb3oLGGdbD.png",
+      "color": "#5daef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759420800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760025600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760630400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761235200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761840000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762444800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763049600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763654400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764259200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764864000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765468800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766073600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 198745,
     "idMal": 61846,
     "title": {
@@ -6592,6 +6701,88 @@
         {
           "episode": 12,
           "airingAt": 1766053320
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 198926,
+    "idMal": null,
+    "title": {
+      "romaji": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
+      "english": null,
+      "native": "超普通マホウ少女アスミトルバース",
+      "userPreferred": "Chou Futsuu Mahou Shoujo Asumi Toruverse"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198926-J5Ml6dqNGze9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198926-J5Ml6dqNGze9.png",
+      "color": "#e46b5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759409640
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760014440
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760619240
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761224040
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761828840
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762433640
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763038440
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763643240
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764248040
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764852840
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765457640
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766062440
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766667240
         }
       ]
     },
