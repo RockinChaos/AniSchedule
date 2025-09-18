@@ -160,9 +160,9 @@ export async function fetchDubSchedule() {
             let newEntry = entry
             if (((existingInAiring === -1) || (new Date(newEntry.delayedFrom) < new Date() && new Date(newEntry.delayedFrom).getUTCFullYear() > 1 && new Date(newEntry.delayedUntil).getUTCFullYear() <= 1)) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
                 if (!entry.delayedIndefinitely) {
-                    changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
-                    console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
                     if ((existingInAiring !== -1)) {
+                        changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
+                        console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
                         timetables[existingInAiring] = {
                             ...timetables[existingInAiring],
                             delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
