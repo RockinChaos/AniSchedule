@@ -6378,5 +6378,37 @@
         }
       ]
     }
+  },
+  {
+    "id": 198948,
+    "idMal": null,
+    "title": {
+      "romaji": "Host ni Iroiro Kiitemita",
+      "english": null,
+      "native": "ホストにいろいろ聞いてみた",
+      "userPreferred": "Host ni Iroiro Kiitemita"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 4,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198948-L6Hq3F822VBb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b198948-L6Hq3F822VBb.jpg",
+      "color": "#e45d78"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1758196800
+        }
+      ]
+    }
   }
 ]
