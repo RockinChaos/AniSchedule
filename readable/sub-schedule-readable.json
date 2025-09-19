@@ -1589,10 +1589,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758288600
-        },
-        {
           "episode": 13,
           "airingAt": 1758893400
         }
@@ -1903,10 +1899,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758297600
-        },
         {
           "episode": 13,
           "airingAt": 1758902400
@@ -2274,10 +2266,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1758301560
-        },
-        {
           "episode": 11,
           "airingAt": 1758906360
         }
@@ -2316,41 +2304,6 @@
     }
   },
   {
-    "id": 175914,
-    "idMal": 58390,
-    "title": {
-      "romaji": "Yofukashi no Uta Season 2",
-      "english": "Call of the Night Season 2",
-      "native": "よふかしのうた Season 2",
-      "userPreferred": "Call of the Night Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Psychological",
-      "Romance",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175914-VsbL90WzuqoM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175914-VsbL90WzuqoM.jpg",
-      "color": "#a1d6e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175914-K0Hw6bg3Tf5i.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758292200
-        }
-      ]
-    }
-  },
-  {
     "id": 177474,
     "idMal": 58811,
     "title": {
@@ -2376,10 +2329,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758290400
-        },
         {
           "episode": 12,
           "airingAt": 1758895200
@@ -2937,6 +2886,83 @@
     }
   },
   {
+    "id": 179302,
+    "idMal": 59267,
+    "title": {
+      "romaji": "SANDA",
+      "english": null,
+      "native": "SANDA",
+      "userPreferred": "SANDA"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179302-gWWAh5BfQyl4.jpg",
+      "color": "#d61a35"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179302-hX6lxG28Nzuf.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759510380
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760115180
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760719980
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761324780
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761929580
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762534380
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763139180
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763743980
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764348780
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764953580
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765558380
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766163180
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179678,
     "idMal": 59342,
     "title": {
@@ -3003,39 +3029,6 @@
     }
   },
   {
-    "id": 179879,
-    "idMal": 59421,
-    "title": {
-      "romaji": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
-      "english": "Betrothed to My Sister's Ex",
-      "native": "ずたぼろ令嬢は姉の元婚約者に溺愛される",
-      "userPreferred": "Betrothed to My Sister's Ex"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179879-569v3MdQeVmt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179879-569v3MdQeVmt.jpg",
-      "color": "#e4ae35"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179879-LLw7UPZcd22x.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758300780
-        }
-      ]
-    }
-  },
-  {
     "id": 179885,
     "idMal": 59424,
     "title": {
@@ -3093,10 +3086,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179966-hf71VrF1zhPM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758294000
-        },
         {
           "episode": 12,
           "airingAt": 1758898800
@@ -3366,6 +3355,86 @@
         }
       ]
     }
+  },
+  {
+    "id": 181447,
+    "idMal": 59846,
+    "title": {
+      "romaji": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+      "english": "May I Ask for One Final Thing?",
+      "native": "最後にひとつだけお願いしてもよろしいでしょうか",
+      "userPreferred": "May I Ask for One Final Thing?"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-qvmoD2q82xEa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181447-qvmoD2q82xEa.jpg",
+      "color": "#50c9fe"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759503600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760108400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760713200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761318000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761922800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762527600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763132400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763737200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764342000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764946800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765551600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766156400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 181841,
@@ -3838,6 +3907,84 @@
     }
   },
   {
+    "id": 184322,
+    "idMal": 60303,
+    "title": {
+      "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "english": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
+      "userPreferred": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184322-7oXdMTH5MvOc.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184322-7oXdMTH5MvOc.jpg",
+      "color": "#43aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759501800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760106600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760711400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761316200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761921000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762525800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763130600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763735400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764340200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764945000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765549800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766154600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -4181,6 +4328,83 @@
     "unaired": true
   },
   {
+    "id": 184997,
+    "idMal": 60378,
+    "title": {
+      "romaji": "Shabake",
+      "english": "Shabake",
+      "native": "しゃばけ",
+      "userPreferred": "Shabake"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-qsU9bmfPX5kX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184997-qsU9bmfPX5kX.jpg",
+      "color": "#f1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759501800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760106600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760711400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761316200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761921000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762525800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763130600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763735400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764340200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764945000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765549800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766154600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 185073,
     "idMal": 60407,
     "title": {
@@ -4416,6 +4640,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 185694,
+    "idMal": 60551,
+    "title": {
+      "romaji": "Hyakushou Kizoku 3rd Season",
+      "english": null,
+      "native": "百姓貴族 3rd Season",
+      "userPreferred": "Hyakushou Kizoku 3rd Season"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185694-9QHeiSLvokWY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185694-9QHeiSLvokWY.png",
+      "color": "#f18635"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759496040
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760100840
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760705640
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761310440
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761915240
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762520040
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763124840
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763729640
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764334440
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764939240
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765544040
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766148840
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 185718,
@@ -6820,6 +7121,80 @@
         {
           "episode": 2,
           "airingAt": 1758812400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 198117,
+    "idMal": 62378,
+    "title": {
+      "romaji": "GANGLION",
+      "english": null,
+      "native": "ガングリオン",
+      "userPreferred": "GANGLION"
+    },
+    "format": "TV_SHORT",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198117-ms0mzmuyOw8n.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198117-ms0mzmuyOw8n.png",
+      "color": "#e45d50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759510380
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760115180
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760719980
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761324780
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761929580
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762534380
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763139180
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763743980
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764348780
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764953580
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765558380
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766163180
         }
       ]
     },
