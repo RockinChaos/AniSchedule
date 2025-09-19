@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1716,
-          "airingAt": 1758246900
-        },
-        {
           "episode": 1717,
           "airingAt": 1758851700
         },
@@ -630,10 +626,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 622,
-          "airingAt": 1758233400
-        },
-        {
           "episode": 623,
           "airingAt": 1758838200
         },
@@ -728,6 +720,10 @@
         {
           "episode": 646,
           "airingAt": 1772748600
+        },
+        {
+          "episode": 647,
+          "airingAt": 1773353400
         }
       ]
     }
@@ -1180,10 +1176,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 277,
-          "airingAt": 1758235200
-        },
         {
           "episode": 278,
           "airingAt": 1758580800
@@ -4088,9 +4080,9 @@
     "idMal": 60347,
     "title": {
       "romaji": "Cat's♥Eye (2025)",
-      "english": null,
+      "english": "Cat's Eye",
       "native": "キャッツ♥アイ (2025)",
-      "userPreferred": "Cat's♥Eye (2025)"
+      "userPreferred": "Cat's Eye"
     },
     "format": "ONA",
     "genres": [
@@ -4364,7 +4356,7 @@
       "nodes": [
         {
           "episode": 24,
-          "airingAt": 1758298380
+          "airingAt": 1758460920
         }
       ]
     }
@@ -5411,10 +5403,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1758234600
-        },
         {
           "episode": 17,
           "airingAt": 1758839400
@@ -6787,5 +6775,37 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 198948,
+    "idMal": null,
+    "title": {
+      "romaji": "Host ni Iroiro Kiitemita",
+      "english": null,
+      "native": "ホストにいろいろ聞いてみた",
+      "userPreferred": "Host ni Iroiro Kiitemita"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 4,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198948-L6Hq3F822VBb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b198948-L6Hq3F822VBb.jpg",
+      "color": "#e45d78"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 8,
+          "airingAt": 1758801600
+        }
+      ]
+    }
   }
 ]
