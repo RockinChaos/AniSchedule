@@ -919,10 +919,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 175,
-          "airingAt": 1758274800
-        },
-        {
           "episode": 176,
           "airingAt": 1758879600
         },
@@ -1017,6 +1013,10 @@
         {
           "episode": 199,
           "airingAt": 1772790000
+        },
+        {
+          "episode": 200,
+          "airingAt": 1773394800
         }
       ]
     }
@@ -1531,6 +1531,39 @@
     }
   },
   {
+    "id": 154887,
+    "idMal": 53204,
+    "title": {
+      "romaji": "Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou THE ANIMATION",
+      "english": "try all my might to enjoy it with my Erotic Skills in a DIFFERENT WORLD",
+      "native": "異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION",
+      "userPreferred": "try all my might to enjoy it with my Erotic Skills in a DIFFERENT WORLD"
+    },
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Hentai"
+    ],
+    "duration": 18,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154887-yTRXVOLMLleD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154887-yTRXVOLMLleD.jpg",
+      "color": "#f1935d"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154887-EgVW77ICmImc.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1766070000
+        }
+      ]
+    }
+  },
+  {
     "id": 156395,
     "idMal": 53512,
     "title": {
@@ -1592,10 +1625,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 111,
-          "airingAt": 1758275700
-        },
         {
           "episode": 112,
           "airingAt": 1760090100
@@ -1807,10 +1836,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 98,
-          "airingAt": 1758273900
-        },
         {
           "episode": 99,
           "airingAt": 1758878700
@@ -5318,6 +5343,134 @@
     }
   },
   {
+    "id": 188394,
+    "idMal": 61272,
+    "title": {
+      "romaji": "PetitCure: Precure Fairies",
+      "english": null,
+      "native": "ぷちきゅあ～Precure Fairies～",
+      "userPreferred": "PetitCure: Precure Fairies"
+    },
+    "format": "ONA",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188394-4oTa98gvtw8R.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188394-4oTa98gvtw8R.jpg",
+      "color": "#f1a143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 27,
+          "airingAt": 1758792600
+        },
+        {
+          "episode": 28,
+          "airingAt": 1759397400
+        },
+        {
+          "episode": 29,
+          "airingAt": 1760002200
+        },
+        {
+          "episode": 30,
+          "airingAt": 1760607000
+        },
+        {
+          "episode": 31,
+          "airingAt": 1761211800
+        },
+        {
+          "episode": 32,
+          "airingAt": 1761816600
+        },
+        {
+          "episode": 33,
+          "airingAt": 1762421400
+        },
+        {
+          "episode": 34,
+          "airingAt": 1763026200
+        },
+        {
+          "episode": 35,
+          "airingAt": 1763631000
+        },
+        {
+          "episode": 36,
+          "airingAt": 1764235800
+        },
+        {
+          "episode": 37,
+          "airingAt": 1764840600
+        },
+        {
+          "episode": 38,
+          "airingAt": 1765445400
+        },
+        {
+          "episode": 39,
+          "airingAt": 1766050200
+        },
+        {
+          "episode": 40,
+          "airingAt": 1766655000
+        },
+        {
+          "episode": 41,
+          "airingAt": 1767259800
+        },
+        {
+          "episode": 42,
+          "airingAt": 1767864600
+        },
+        {
+          "episode": 43,
+          "airingAt": 1768469400
+        },
+        {
+          "episode": 44,
+          "airingAt": 1769074200
+        },
+        {
+          "episode": 45,
+          "airingAt": 1769679000
+        },
+        {
+          "episode": 46,
+          "airingAt": 1770283800
+        },
+        {
+          "episode": 47,
+          "airingAt": 1770888600
+        },
+        {
+          "episode": 48,
+          "airingAt": 1771493400
+        },
+        {
+          "episode": 49,
+          "airingAt": 1772098200
+        },
+        {
+          "episode": 50,
+          "airingAt": 1772703000
+        },
+        {
+          "episode": 51,
+          "airingAt": 1773307800
+        }
+      ]
+    }
+  },
+  {
     "id": 188653,
     "idMal": 61290,
     "title": {
@@ -6314,6 +6467,134 @@
     }
   },
   {
+    "id": 195383,
+    "idMal": 61924,
+    "title": {
+      "romaji": "MUZIK TIGER In the Forest 2",
+      "english": null,
+      "native": "MUZIK TIGER In the Forest 第2期 ",
+      "userPreferred": "MUZIK TIGER In the Forest 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195383-v8nJ26HD0Lcd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195383-v8nJ26HD0Lcd.png",
+      "color": "#f1a135"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759316340
+        },
+        {
+          "episode": 2,
+          "airingAt": 1759921140
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760525940
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761130740
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761735540
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762340340
+        },
+        {
+          "episode": 7,
+          "airingAt": 1762945140
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763549940
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764154740
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764759540
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765364340
+        },
+        {
+          "episode": 12,
+          "airingAt": 1765969140
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766573940
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767178740
+        },
+        {
+          "episode": 15,
+          "airingAt": 1767783540
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768388340
+        },
+        {
+          "episode": 17,
+          "airingAt": 1768993140
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769597940
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770202740
+        },
+        {
+          "episode": 20,
+          "airingAt": 1770807540
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771412340
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772017140
+        },
+        {
+          "episode": 23,
+          "airingAt": 1772621940
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773226740
+        },
+        {
+          "episode": 25,
+          "airingAt": 1773831540
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 196227,
     "idMal": 62083,
     "title": {
@@ -6566,10 +6847,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1758274800
-        },
         {
           "episode": 4,
           "airingAt": 1758879600
