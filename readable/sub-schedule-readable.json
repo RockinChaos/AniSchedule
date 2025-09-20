@@ -1218,10 +1218,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 185,
-          "airingAt": 1758321000
-        },
-        {
           "episode": 186,
           "airingAt": 1758925800
         },
@@ -1316,6 +1312,10 @@
         {
           "episode": 209,
           "airingAt": 1772836200
+        },
+        {
+          "episode": 210,
+          "airingAt": 1773441000
         }
       ]
     }
@@ -3876,37 +3876,6 @@
     }
   },
   {
-    "id": 184289,
-    "idMal": 60070,
-    "title": {
-      "romaji": "Kaijuu Sekai Seifuku",
-      "english": null,
-      "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijuu Sekai Seifuku"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1758319200
-        }
-      ]
-    }
-  },
-  {
     "id": 184322,
     "idMal": 60303,
     "title": {
@@ -5796,10 +5765,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758329100
-        },
-        {
           "episode": 13,
           "airingAt": 1758933900
         },
@@ -6088,10 +6053,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1758322800
-        },
-        {
           "episode": 11,
           "airingAt": 1758927600
         },
@@ -6158,10 +6119,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758319200
-        },
         {
           "episode": 13,
           "airingAt": 1758924000
@@ -6585,6 +6542,62 @@
     "unaired": true
   },
   {
+    "id": 194832,
+    "idMal": null,
+    "title": {
+      "romaji": "Oshiri Tantei 9 Part 2",
+      "english": null,
+      "native": "おしりたんてい(第9シリーズ)",
+      "userPreferred": "Oshiri Tantei 9 Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194832-j9lUdLCYHd2N.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194832-j9lUdLCYHd2N.png",
+      "color": "#e4ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759536000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760140800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760745600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761350400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761955200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762560000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763164800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 195033,
     "idMal": 61937,
     "title": {
@@ -6730,6 +6743,82 @@
         {
           "episode": 13,
           "airingAt": 1766071560
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 195173,
+    "idMal": 61922,
+    "title": {
+      "romaji": "SHIBUYA♡HACHI Part 4",
+      "english": null,
+      "native": "SHIBUYA♡HACHI 第4クール",
+      "userPreferred": "SHIBUYA♡HACHI Part 4"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195173-xbvscaSfCe3X.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195173-xbvscaSfCe3X.png",
+      "color": "#f1e400"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759525200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760130000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760734800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761339600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761944400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762549200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763154000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763758800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764363600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764968400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765573200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766178000
         }
       ]
     },
@@ -7232,6 +7321,130 @@
         }
       ]
     }
+  },
+  {
+    "id": 198413,
+    "idMal": 62231,
+    "title": {
+      "romaji": "JOCHUM Season 2",
+      "english": null,
+      "native": "ジェオチャム シーズン2 ",
+      "userPreferred": "JOCHUM Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198413-IDC13Jyk0xYD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198413-IDC13Jyk0xYD.png",
+      "color": "#f1c950"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759525200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760130000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760734800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761339600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761944400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762549200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763154000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763758800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764363600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764968400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765573200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766178000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766782800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767387600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1767992400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768597200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769202000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769806800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770411600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771016400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771621200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772226000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1772830800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773435600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 198561,
