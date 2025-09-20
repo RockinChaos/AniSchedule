@@ -157,26 +157,22 @@ export async function fetchDubSchedule() {
 
         for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove un-verified episodes.
             const existingInAiring = timetables.findIndex((airingItem) => airingItem.route === entry.route)
-            let newEntry = entry
-            if (((existingInAiring === -1) || (new Date(newEntry.delayedFrom) < new Date() && new Date(newEntry.delayedFrom).getUTCFullYear() > 1 && new Date(newEntry.delayedUntil).getUTCFullYear() <= 1)) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
-                if (!entry.delayedIndefinitely) {
-                    if ((existingInAiring !== -1)) {
-                        changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
-                        console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
-                        timetables[existingInAiring] = {
-                            ...timetables[existingInAiring],
-                            delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
-                            delayedIndefinitely: true
-                        }
-                    } else {
-                        newEntry = {
-                            ...entry,
-                            delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
-                            delayedIndefinitely: true
-                        }
+            if (((existingInAiring === -1) || (new Date(timetables[existingInAiring].delayedFrom) < new Date() && new Date(timetables[existingInAiring].delayedFrom).getUTCFullYear() > 1 && new Date(timetables[existingInAiring].delayedUntil).getUTCFullYear() <= 1)) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
+                if ((existingInAiring !== -1) && !entry.delayedIndefinitely) {
+                    changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
+                    console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
+                    timetables[existingInAiring] = {
+                        ...timetables[existingInAiring],
+                        delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
+                        delayedIndefinitely: true
+                    }
+                } else {
+                    timetables[existingInAiring] = {
+                        ...entry,
+                        delayedUntil: (entry.delayedIndefinitely && entry.delayedUntil) || new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
+                        delayedIndefinitely: true
                     }
                 }
-                timetables.push(newEntry)
             } else if ((existingInAiring === -1) && !entry.verified && !(entry.episodeNumber < 2) && !(daysAgo(new Date(entry.episodeDate)) >= 1 && getCurrentDay() === 1)) { // highly likely someone fucked up and realized their fuck-up, but we should keep any series older than 1 day if the current day is a Monday (roll-over) as they likely are batch drops instead of weekly releases.
                 const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
                 if (!previousWeek || previousWeek.episodeNumber !== entry.episodes || !(previousWeek.subtractedEpisodeNumber <= 1)) {
@@ -207,7 +203,7 @@ export async function fetchDubSchedule() {
             } else if ((existingInAiring === -1) && entry.verified && (new Date(entry.delayedUntil) > new Date(entry.episodeDate))) {
                 changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this is likely a mistake or a bug!`)
                 console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, this is likely a mistake or a bug, series will be re-added with the assumption the schedule continues as-is.`)
-                timetables.push(newEntry)
+                timetables.push(entry)
             } else if ((existingInAiring !== -1) && (weeksDifference(timetables[existingInAiring].delayedFrom, past(new Date(), 0, true)) <= 4) && (new Date(timetables[existingInAiring].delayedFrom) > new Date(timetables[existingInAiring].delayedUntil))) { // highly likely this is an indefinitely delayed series.
                 if (!entry.delayedIndefinitely) {
                     changes.push(`(Dub) The series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber} has been delayed indefinitely`)
