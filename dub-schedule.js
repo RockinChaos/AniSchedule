@@ -159,8 +159,8 @@ export async function fetchDubSchedule() {
             const existingInAiring = timetables.findIndex((airingItem) => airingItem.route === entry.route)
             if (((existingInAiring === -1) || (new Date(timetables[existingInAiring].delayedFrom) < new Date() && new Date(timetables[existingInAiring].delayedFrom).getUTCFullYear() > 1 && new Date(timetables[existingInAiring].delayedUntil).getUTCFullYear() <= 1)) && (existingInAiring !== -1 || entry.verified) && entry.episodeNumber < (entry.episodes || Infinity)) { // highly likely this is an indefinitely delayed series.
                 if ((existingInAiring !== -1) && !entry.delayedIndefinitely) {
-                    changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
-                    console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
+                    changes.push(`The ${entry.verified ? 'verified' : 'unverified'} series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
+                    console.log(`The ${entry.verified ? 'verified' : 'unverified'} series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
                     timetables[existingInAiring] = {
                         ...timetables[existingInAiring],
                         delayedUntil: new Date(new Date().getFullYear() + 6, 0, 1).toISOString(),
