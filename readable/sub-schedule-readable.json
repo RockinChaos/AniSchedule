@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1176,
-          "airingAt": 1758358800
-        },
-        {
           "episode": 1177,
           "airingAt": 1758963600
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1200,
           "airingAt": 1772874000
+        },
+        {
+          "episode": 1201,
+          "airingAt": 1773478800
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1302,
-          "airingAt": 1758353400
-        },
         {
           "episode": 1303,
           "airingAt": 1758958200
@@ -385,6 +381,10 @@
         {
           "episode": 1326,
           "airingAt": 1772868600
+        },
+        {
+          "episode": 1327,
+          "airingAt": 1773473400
         }
       ]
     }
@@ -755,10 +755,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 881,
-          "airingAt": 1758355200
-        },
-        {
           "episode": 882,
           "airingAt": 1758960000
         },
@@ -853,6 +849,10 @@
         {
           "episode": 905,
           "airingAt": 1772870400
+        },
+        {
+          "episode": 906,
+          "airingAt": 1773475200
         }
       ]
     }
@@ -2304,6 +2304,50 @@
     }
   },
   {
+    "id": 176298,
+    "idMal": 58515,
+    "title": {
+      "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
+      "english": "Tales of Wedding Rings Season 2",
+      "native": "結婚指輪物語 第2期",
+      "userPreferred": "Tales of Wedding Rings Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176298-fK1c8bBA73WQ.jpg",
+      "color": "#1a5d78"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759581000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760185800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760790600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177474,
     "idMal": 58811,
     "title": {
@@ -2412,8 +2456,8 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1758357000
+          "episode": 24,
+          "airingAt": 1758961800
         }
       ]
     }
@@ -3538,6 +3582,131 @@
     }
   },
   {
+    "id": 182896,
+    "idMal": 60098,
+    "title": {
+      "romaji": "Boku no Hero Academia FINAL SEASON",
+      "english": "My Hero Academia FINAL SEASON",
+      "native": "僕のヒーローアカデミア FINAL SEASON",
+      "userPreferred": "My Hero Academia FINAL SEASON"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182896-mvxTVHGdDB4q.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182896-mvxTVHGdDB4q.jpg",
+      "color": "#c9d6f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759566600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760171400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760776200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761381000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761985800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762590600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763195400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763800200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764405000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765009800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765614600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766219400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766824200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767429000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768033800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768638600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769243400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769848200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770453000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771057800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771662600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772267400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1772872200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773477000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 183127,
     "idMal": 60131,
     "title": {
@@ -4201,10 +4370,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184639-fXvQzDPP4bHL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1758360360
-        },
         {
           "episode": 24,
           "airingAt": 1758965160
@@ -5171,6 +5336,116 @@
     "unaired": true
   },
   {
+    "id": 186736,
+    "idMal": null,
+    "title": {
+      "romaji": "Kagaku×Bouken Survival! 2nd Season",
+      "english": null,
+      "native": "科学×冒険サバイバル！ 第2シリーズ",
+      "userPreferred": "Kagaku×Bouken Survival! 2nd Season"
+    },
+    "format": "TV",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186736-zYDrRDuC55s5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186736-zYDrRDuC55s5.png",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759569900
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760174700
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760779500
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761384300
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761989100
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762593900
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763198700
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763803500
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764408300
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765013100
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765617900
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766222700
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766827500
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767432300
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768037100
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768641900
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769246700
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769851500
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770456300
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771061100
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771665900
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 186829,
     "idMal": 61790,
     "title": {
@@ -5482,6 +5757,84 @@
         {
           "episode": 12,
           "airingAt": 1766109600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 187940,
+    "idMal": 61209,
+    "title": {
+      "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+      "english": "Inexpressive Kashiwada and Expressive Oota",
+      "native": "顔に出ない柏田さんと顔に出る太田君",
+      "userPreferred": "Inexpressive Kashiwada and Expressive Oota"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187940-HPjWCEsfRGiW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187940-HPjWCEsfRGiW.jpg",
+      "color": "#e493bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759579200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760184000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760788800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761393600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761998400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762603200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763208000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763812800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764417600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765022400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765627200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766232000
         }
       ]
     },
