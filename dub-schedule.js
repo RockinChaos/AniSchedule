@@ -157,7 +157,7 @@ export async function fetchDubSchedule() {
 
         for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove un-verified episodes.
             const existingInAiring = timetables.findIndex((airingItem) => airingItem.route === entry.route)
-            if (((existingInAiring === -1) || (new Date(timetables[existingInAiring].delayedFrom) < new Date() && new Date(timetables[existingInAiring].delayedFrom).getUTCFullYear() > 1 && new Date(timetables[existingInAiring].delayedUntil).getUTCFullYear() <= 1)) && entry.verified && entry.episodeNumber < (entry.episodes || 0)) { // highly likely this is an indefinitely delayed series.
+            if (((existingInAiring === -1) || (new Date(timetables[existingInAiring].delayedFrom) < new Date() && new Date(timetables[existingInAiring].delayedFrom).getUTCFullYear() > 1 && new Date(timetables[existingInAiring].delayedUntil).getUTCFullYear() <= 1)) && (existingInAiring !== -1 || entry.verified) && entry.episodeNumber < (entry.episodes || Infinity)) { // highly likely this is an indefinitely delayed series.
                 if ((existingInAiring !== -1) && !entry.delayedIndefinitely) {
                     changes.push(`The verified series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber + 1} has been delayed indefinitely`)
                     console.log(`The verified series ${entry.media?.media?.title?.userPreferred} is missing from the timetables, assuming this is an indefinite delay!`)
