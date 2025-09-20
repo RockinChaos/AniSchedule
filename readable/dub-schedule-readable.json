@@ -170,6 +170,61 @@
     "addedAt": "2025-04-19T21:46:57Z"
   },
   {
+    "title": "Bâan: Otona no Kyoukai",
+    "route": "baan-otona-no-kyoukai",
+    "romaji": "Bâan: Otona no Kyoukai",
+    "english": "Bâan: The Boundary of Adulthood",
+    "native": "bâan - 大人の彊界",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-09-20T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 18,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195494,
+        "idMal": 61984,
+        "title": {
+          "romaji": "bâan: Otona no Kyoukai",
+          "english": "bâan: The Boundary of Adulthood",
+          "native": "bâan -大人の彊界-",
+          "userPreferred": "bâan: The Boundary of Adulthood"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Fantasy"
+        ],
+        "duration": 18,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195494-2siDsNQmaKym.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195494-2siDsNQmaKym.jpg",
+          "color": "#ff35e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-20T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-20T20:12:58Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
