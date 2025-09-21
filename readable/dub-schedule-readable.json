@@ -1653,6 +1653,60 @@
     "addedAt": "2025-07-09T16:00:00Z"
   },
   {
+    "title": "Ninja to Gokudou",
+    "route": "ninja-to-gokudou",
+    "romaji": "Ninja to Gokudou",
+    "english": "Ninja vs. Gokudo",
+    "native": "忍者と極道",
+    "delayedFrom": "0001-01-01T17:05:00Z",
+    "delayedUntil": "0001-01-01T17:05:00Z",
+    "episodeDate": "2025-10-07T17:05:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 186914,
+        "idMal": 61067,
+        "title": {
+          "romaji": "Ninja to Gokudou",
+          "english": "Ninja Vs. Gokudo",
+          "native": "忍者と極道",
+          "userPreferred": "Ninja Vs. Gokudo"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186914-8fVK9eu1ZOKa.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186914-8fVK9eu1ZOKa.jpg",
+          "color": "#28a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-07T17:05:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-07T17:05:00Z"
+  },
+  {
     "title": "Nyaight of the Living Cat",
     "route": "nyaight-of-the-living-cat",
     "romaji": "Nyaight of the Living Cat",
