@@ -2843,10 +2843,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1758412800
-        },
-        {
           "episode": 25,
           "airingAt": 1759017600
         },
@@ -4197,10 +4193,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1758414600
-        },
-        {
           "episode": 26,
           "airingAt": 1759019400
         },
@@ -4295,6 +4287,10 @@
         {
           "episode": 49,
           "airingAt": 1772929800
+        },
+        {
+          "episode": 50,
+          "airingAt": 1773534600
         }
       ]
     }
@@ -4615,10 +4611,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 33,
-          "airingAt": 1758411000
-        },
-        {
           "episode": 34,
           "airingAt": 1759015800
         },
@@ -4794,37 +4786,6 @@
     }
   },
   {
-    "id": 185646,
-    "idMal": 60534,
-    "title": {
-      "romaji": "Koupen-chan",
-      "english": null,
-      "native": "コウペンちゃん",
-      "userPreferred": "Koupen-chan"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185646-2eGmsnaSHiLC.jpg",
-      "color": "#aed643"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1758410880
-        }
-      ]
-    }
-  },
-  {
     "id": 185694,
     "idMal": 60551,
     "title": {
@@ -4926,10 +4887,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1758406560
-        },
-        {
           "episode": 26,
           "airingAt": 1759011360
         },
@@ -5024,6 +4981,10 @@
         {
           "episode": 49,
           "airingAt": 1772921760
+        },
+        {
+          "episode": 50,
+          "airingAt": 1773526560
         }
       ]
     }
@@ -6287,6 +6248,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 188388,
+    "idMal": 61269,
+    "title": {
+      "romaji": "DIGIMON BEATBREAK",
+      "english": null,
+      "native": "DIGIMON BEATBREAK",
+      "userPreferred": "DIGIMON BEATBREAK"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
+      "color": "#fec928"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759622400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760227200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760832000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761436800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762041600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762646400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763251200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763856000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764460800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765065600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765670400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766275200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 188394,
@@ -7839,10 +7878,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1758411000
-        },
-        {
           "episode": 4,
           "airingAt": 1760830200
         },
@@ -8008,6 +8043,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 196553,
+    "idMal": 62126,
+    "title": {
+      "romaji": "SI-VIS: The Sound of Heroes",
+      "english": "SI-VIS: The Sound of Heroes",
+      "native": "SI-VIS: The Sound of Heroes",
+      "userPreferred": "SI-VIS: The Sound of Heroes"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196553-n0cZ0oOOOkYF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196553-n0cZ0oOOOkYF.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759624200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760229000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760833800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761438600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762043400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762648200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763253000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763857800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764462600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765067400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765672200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766277000
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 196750,
