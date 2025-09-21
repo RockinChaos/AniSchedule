@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1144,
-          "airingAt": 1758464160
-        },
-        {
           "episode": 1145,
           "airingAt": 1759068960
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1168,
           "airingAt": 1772979360
+        },
+        {
+          "episode": 1169,
+          "airingAt": 1773584160
         }
       ]
     }
@@ -2370,6 +2370,83 @@
     }
   },
   {
+    "id": 173692,
+    "idMal": 57888,
+    "title": {
+      "romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "english": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+      "native": "父は英雄、母は精霊、娘の私は転生者。",
+      "userPreferred": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173692-shp7PGRQyCQl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173692-shp7PGRQyCQl.jpg",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759674600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760279400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760884200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761489000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762093800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762698600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763303400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763908200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764513000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765117800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765722600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766327400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 173780,
     "idMal": 57907,
     "title": {
@@ -2464,37 +2541,6 @@
         {
           "episode": 11,
           "airingAt": 1758906360
-        }
-      ]
-    }
-  },
-  {
-    "id": 175124,
-    "idMal": 58197,
-    "title": {
-      "romaji": "Nyaight of the Living Cat",
-      "english": "Nyaight of the Living Cat",
-      "native": "ニャイト・オブ・ザ・リビングキャット",
-      "userPreferred": "Nyaight of the Living Cat"
-    },
-    "format": "ONA",
-    "genres": [
-      "Horror"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175124-eDYbn0W5F4to.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175124-eDYbn0W5F4to.jpg",
-      "color": "#e4bb93"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175124-lxJPpMs1JGIc.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758463200
         }
       ]
     }
@@ -2867,10 +2913,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1758465000
-        },
-        {
           "episode": 12,
           "airingAt": 1759069800
         },
@@ -3114,8 +3156,8 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758461400
+          "episode": 13,
+          "airingAt": 1759066200
         }
       ]
     }
@@ -3336,6 +3378,85 @@
     }
   },
   {
+    "id": 179992,
+    "idMal": 59484,
+    "title": {
+      "romaji": "Kikaijikake no Marie",
+      "english": "Mechanical Marie",
+      "native": "機械じかけのマリー",
+      "userPreferred": "Mechanical Marie"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179992-tu21efjGADCO.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179992-tu21efjGADCO.png",
+      "color": "#e4a15d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759669200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760274000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760878800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761483600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762088400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762693200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763298000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763902800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764507600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765112400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765717200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766322000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 180367,
     "idMal": 59597,
     "title": {
@@ -3474,10 +3595,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180794-15AlhRdZMhv7.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758465000
-        },
         {
           "episode": 12,
           "airingAt": 1759069800
@@ -3656,10 +3773,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758466800
-        },
-        {
           "episode": 13,
           "airingAt": 1759071600
         }
@@ -3730,6 +3843,66 @@
         }
       ]
     }
+  },
+  {
+    "id": 182531,
+    "idMal": 62379,
+    "title": {
+      "romaji": "Guilty Hole",
+      "english": "Guilty Hole ～ Room of Guilty Pleasure",
+      "native": "ギルティホール",
+      "userPreferred": "Guilty Hole ～ Room of Guilty Pleasure"
+    },
+    "format": "ONA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 7,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182531-u1aOKnUuC9dH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182531-u1aOKnUuC9dH.png",
+      "color": "#d66bae"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759676400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760281200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760886000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1762095600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762700400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1763305200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1764514800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1765119600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 182896,
@@ -3905,9 +4078,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-RHLPdeftGxeQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183291-RHLPdeftGxeQ.jpg",
-      "color": "#35c9e4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-qm3bQT1wpmka.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183291-qm3bQT1wpmka.jpg",
+      "color": "#e45d43"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -4180,10 +4353,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758465960
-        },
-        {
           "episode": 13,
           "airingAt": 1759070760
         }
@@ -4392,73 +4561,6 @@
         {
           "episode": 50,
           "airingAt": 1773534600
-        }
-      ]
-    }
-  },
-  {
-    "id": 184574,
-    "idMal": 60315,
-    "title": {
-      "romaji": "Dekin no Mogura",
-      "english": "Dekin no Mogura: The Earthbound Mole",
-      "native": "出禁のモグラ",
-      "userPreferred": "Dekin no Mogura: The Earthbound Mole"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Mystery",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184574-Mb2qvX1e3RgG.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758459600
-        }
-      ]
-    }
-  },
-  {
-    "id": 184575,
-    "idMal": 60316,
-    "title": {
-      "romaji": "Busamen Gachi Fighter",
-      "english": "Uglymug, Epicfighter",
-      "native": "ブサメンガチファイター",
-      "userPreferred": "Uglymug, Epicfighter"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184575-hEzI5V8o818U.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184575-hEzI5V8o818U.png",
-      "color": "#43aef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758465000
         }
       ]
     }
@@ -5186,9 +5288,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185801-gYOnkTbEWbuN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185801-gYOnkTbEWbuN.jpg",
-      "color": "#f135ff"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185801-HaxWxYlkFnRg.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185801-HaxWxYlkFnRg.png",
+      "color": "#e450f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5389,6 +5491,85 @@
         }
       ]
     }
+  },
+  {
+    "id": 186190,
+    "idMal": 60781,
+    "title": {
+      "romaji": "Alma-chan wa Kazoku ni Naritai",
+      "english": "Alma-chan Wants to Be a Family!",
+      "native": "アルマちゃんは家族になりたい",
+      "userPreferred": "Alma-chan Wants to Be a Family!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186190-Ru77wfF8I61X.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186190-Ru77wfF8I61X.jpg",
+      "color": "#e45da1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759672800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760277600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760882400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761487200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762092000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762696800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763301600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763906400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764511200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765116000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765720800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766325600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186313,
@@ -5640,6 +5821,84 @@
         {
           "episode": 21,
           "airingAt": 1771665900
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186794,
+    "idMal": 61026,
+    "title": {
+      "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "english": "My Status as an Assassin Obviously Exceeds the Hero’s",
+      "native": "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが",
+      "userPreferred": "My Status as an Assassin Obviously Exceeds the Hero’s"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186794-Ns8xWNdMdOxq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186794-Ns8xWNdMdOxq.jpg",
+      "color": "#4378e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759681800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760286600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760891400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761496200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762101000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762705800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763310600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763915400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764520200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765125000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765729800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766334600
         }
       ]
     },
@@ -6321,7 +6580,7 @@
     "idMal": 61269,
     "title": {
       "romaji": "DIGIMON BEATBREAK",
-      "english": null,
+      "english": "DIGIMON BEATBREAK",
       "native": "DIGIMON BEATBREAK",
       "userPreferred": "DIGIMON BEATBREAK"
     },
@@ -7351,10 +7610,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758477000
-        },
         {
           "episode": 12,
           "airingAt": 1759081800
