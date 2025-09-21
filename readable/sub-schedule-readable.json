@@ -499,10 +499,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2798,
-          "airingAt": 1758447000
-        },
-        {
           "episode": 2799,
           "airingAt": 1759051800
         },
@@ -597,6 +593,10 @@
         {
           "episode": 2822,
           "airingAt": 1772962200
+        },
+        {
+          "episode": 2823,
+          "airingAt": 1773567000
         }
       ]
     }
@@ -884,10 +884,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 332,
-          "airingAt": 1758445200
-        },
-        {
           "episode": 333,
           "airingAt": 1759050000
         }
@@ -1039,9 +1035,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129195-OgUSSR4b79gd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129195-OgUSSR4b79gd.png",
-      "color": "#f15d86"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129195-9BT4wE1QTLj2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129195-9BT4wE1QTLj2.jpg",
+      "color": "#e45d78"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -2132,9 +2128,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-16Z6v22WTbO0.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169969-16Z6v22WTbO0.png",
-      "color": "#f1c993"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-SqCjoqYT4A6Z.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169969-SqCjoqYT4A6Z.jpg",
+      "color": "#e4c9a1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -2187,6 +2183,119 @@
         {
           "episode": 12,
           "airingAt": 1765976400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 170018,
+    "idMal": 56877,
+    "title": {
+      "romaji": "Ao no Orchestra 2nd Season",
+      "english": null,
+      "native": "青のオーケストラ 第2期",
+      "userPreferred": "Ao no Orchestra 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170018-1PqdLX68YayA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170018-1PqdLX68YayA.jpg",
+      "color": "#35aef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759651200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760256000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760860800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761465600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762070400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762675200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763280000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763884800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764489600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765094400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765699200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766304000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766908800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767513600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768118400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768723200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769328000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769932800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770537600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771142400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771747200
         }
       ]
     },
@@ -2671,8 +2780,8 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-RvUtkKg6qf4f.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177937-RvUtkKg6qf4f.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177937-Tzgg6rAdhCoH.jpg",
       "color": "#e4935d"
     },
     "isAdult": false,
@@ -3052,7 +3161,7 @@
     "idMal": 59267,
     "title": {
       "romaji": "SANDA",
-      "english": null,
+      "english": "SANDA",
       "native": "SANDA",
       "userPreferred": "SANDA"
     },
@@ -3256,10 +3365,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1758441600
-        },
-        {
           "episode": 25,
           "airingAt": 1759651200
         }
@@ -3289,7 +3394,7 @@
       "color": "#e43593"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-pWqPztnnGUce.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3406,10 +3511,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758457800
-        },
-        {
           "episode": 13,
           "airingAt": 1759062600
         }
@@ -3469,9 +3570,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-qvmoD2q82xEa.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181447-qvmoD2q82xEa.jpg",
-      "color": "#50c9fe"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181447-aCmaQmtdwuU5.jpg",
+      "color": "#43bbf1"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
@@ -4107,9 +4208,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184322-7oXdMTH5MvOc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184322-7oXdMTH5MvOc.jpg",
-      "color": "#43aee4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184322-rRkaMQ7J1zOI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184322-rRkaMQ7J1zOI.jpg",
+      "color": "#28a1e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -4523,9 +4624,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-qsU9bmfPX5kX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184997-qsU9bmfPX5kX.jpg",
-      "color": "#f1e4c9"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-CnmvTLC9JQP0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184997-CnmvTLC9JQP0.jpg",
+      "color": "#e49343"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5066,40 +5167,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185755,
-    "idMal": 60603,
-    "title": {
-      "romaji": "Puniru wa Kawaii Slime 2nd Season",
-      "english": "Puniru is a Kawaii Slime Season 2",
-      "native": "ぷにるはかわいいスライム 第2期",
-      "userPreferred": "Puniru is a Kawaii Slime Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185755-xMle6RCAPwA6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185755-xMle6RCAPwA6.png",
-      "color": "#5dc9f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185755-moB5bSDuJNm7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758443400
-        }
-      ]
-    }
   },
   {
     "id": 185801,
@@ -5834,9 +5901,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-KxObib4UA2EU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-KxObib4UA2EU.jpg",
-      "color": "#e45028"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-NJtK3VC54vPm.jpg",
+      "color": "#e4bb43"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5898,7 +5965,7 @@
     "id": 187663,
     "idMal": 61174,
     "title": {
-      "romaji": "Souzai Saishuka no Isekai Ryokouki",
+      "romaji": "Sozai Saishuka no Isekai Ryokouki",
       "english": "A Gatherer's Adventure in Isekai",
       "native": "素材採取家の異世界旅行記",
       "userPreferred": "A Gatherer's Adventure in Isekai"
@@ -5913,8 +5980,8 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-cP1vtkFc4Idp.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-cP1vtkFc4Idp.png",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-VVdpMlkhwMSh.jpg",
       "color": "#43a1e4"
     },
     "isAdult": false,
@@ -6068,9 +6135,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187940-HPjWCEsfRGiW.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187940-HPjWCEsfRGiW.jpg",
-      "color": "#e493bb"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187940-3ugUhO9h0luh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187940-3ugUhO9h0luh.jpg",
+      "color": "#bbf1f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -6780,41 +6847,6 @@
         {
           "episode": 12,
           "airingAt": 1758805200
-        }
-      ]
-    }
-  },
-  {
-    "id": 189326,
-    "idMal": 61339,
-    "title": {
-      "romaji": "Jibaku Shounen Hanako-kun 2 Part 2",
-      "english": "Toilet-Bound Hanako-kun Season 2 Part 2",
-      "native": "地縛少年花子くん２ 後編",
-      "userPreferred": "Toilet-Bound Hanako-kun Season 2 Part 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189326-kaYdWFxyyYdx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189326-kaYdWFxyyYdx.jpg",
-      "color": "#f1ae43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189326-QgANtHkolp8i.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758439800
         }
       ]
     }
@@ -7633,9 +7665,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195173-xbvscaSfCe3X.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195173-xbvscaSfCe3X.png",
-      "color": "#f1e400"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195173-vjXBdO73KocO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195173-vjXBdO73KocO.jpg",
+      "color": "#e45d78"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -7724,6 +7756,87 @@
         }
       ]
     }
+  },
+  {
+    "id": 195240,
+    "idMal": 61930,
+    "title": {
+      "romaji": "Uma Musume: Cinderella Gray Part 2",
+      "english": null,
+      "native": "ウマ娘 シンデレラグレイ 2クール",
+      "userPreferred": "Uma Musume: Cinderella Gray Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-RopaGsHkYSYi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195240-RopaGsHkYSYi.jpg",
+      "color": "#e45d86"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759649400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760254200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760859000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761463800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762068600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762673400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763278200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763883000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764487800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765092600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765697400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766302200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766907000
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 195383,
@@ -7942,10 +8055,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758454200
-        },
-        {
           "episode": 13,
           "airingAt": 1759059000
         },
@@ -8040,6 +8149,10 @@
         {
           "episode": 36,
           "airingAt": 1772969400
+        },
+        {
+          "episode": 37,
+          "airingAt": 1773574200
         }
       ]
     }
