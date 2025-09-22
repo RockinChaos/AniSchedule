@@ -1123,10 +1123,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 107,
-          "airingAt": 1758506400
-        },
-        {
           "episode": 108,
           "airingAt": 1759111200
         },
@@ -4989,6 +4985,133 @@
     }
   },
   {
+    "id": 185646,
+    "idMal": 60534,
+    "title": {
+      "romaji": "Koupen-chan",
+      "english": null,
+      "native": "コウペンちゃん",
+      "userPreferred": "Koupen-chan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185646-2eGmsnaSHiLC.jpg",
+      "color": "#aed643"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 26,
+          "airingAt": 1759015680
+        },
+        {
+          "episode": 27,
+          "airingAt": 1759620480
+        },
+        {
+          "episode": 28,
+          "airingAt": 1760225280
+        },
+        {
+          "episode": 29,
+          "airingAt": 1760830080
+        },
+        {
+          "episode": 30,
+          "airingAt": 1761434880
+        },
+        {
+          "episode": 31,
+          "airingAt": 1762039680
+        },
+        {
+          "episode": 32,
+          "airingAt": 1762644480
+        },
+        {
+          "episode": 33,
+          "airingAt": 1763249280
+        },
+        {
+          "episode": 34,
+          "airingAt": 1763854080
+        },
+        {
+          "episode": 35,
+          "airingAt": 1764458880
+        },
+        {
+          "episode": 36,
+          "airingAt": 1765063680
+        },
+        {
+          "episode": 37,
+          "airingAt": 1765668480
+        },
+        {
+          "episode": 38,
+          "airingAt": 1766273280
+        },
+        {
+          "episode": 39,
+          "airingAt": 1766878080
+        },
+        {
+          "episode": 40,
+          "airingAt": 1767482880
+        },
+        {
+          "episode": 41,
+          "airingAt": 1768087680
+        },
+        {
+          "episode": 42,
+          "airingAt": 1768692480
+        },
+        {
+          "episode": 43,
+          "airingAt": 1769297280
+        },
+        {
+          "episode": 44,
+          "airingAt": 1769902080
+        },
+        {
+          "episode": 45,
+          "airingAt": 1770506880
+        },
+        {
+          "episode": 46,
+          "airingAt": 1771111680
+        },
+        {
+          "episode": 47,
+          "airingAt": 1771716480
+        },
+        {
+          "episode": 48,
+          "airingAt": 1772321280
+        },
+        {
+          "episode": 49,
+          "airingAt": 1772926080
+        },
+        {
+          "episode": 50,
+          "airingAt": 1773530880
+        }
+      ]
+    }
+  },
+  {
     "id": 185694,
     "idMal": 60551,
     "title": {
@@ -5627,7 +5750,7 @@
       "color": "#e4a150"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
     "airingSchedule": {
       "nodes": [
         {
