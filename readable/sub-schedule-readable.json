@@ -1418,10 +1418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1758551400
-        },
-        {
           "episode": 26,
           "airingAt": 1759156200
         }
@@ -1454,10 +1450,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1758553200
-        },
         {
           "episode": 24,
           "airingAt": 1759158000
@@ -1923,6 +1915,82 @@
     "unaired": true
   },
   {
+    "id": 162890,
+    "idMal": 54757,
+    "title": {
+      "romaji": "3-nen Z-gumi Ginpachi-sensei",
+      "english": "GINTAMA - Mr. Ginpachi's Zany Class",
+      "native": "3年Z組銀八先生",
+      "userPreferred": "GINTAMA - Mr. Ginpachi's Zany Class"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-IXcik7NFdi3G.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162890-IXcik7NFdi3G.jpg",
+      "color": "#50bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759762800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760367600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760972400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761577200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762182000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762786800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763391600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763996400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764601200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765206000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765810800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766415600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -2298,6 +2366,84 @@
     "unaired": true
   },
   {
+    "id": 170936,
+    "idMal": 57189,
+    "title": {
+      "romaji": "Debu to Love to Ayamachi to!",
+      "english": "Plus-sized Misadventures in Love!",
+      "native": "デブとラブと過ちと！",
+      "userPreferred": "Plus-sized Misadventures in Love!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170936-NlDYAjV86ljm.png",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759759200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760364000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760968800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761573600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762178400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762783200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763388000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763992800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764597600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765202400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765807200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766412000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 171046,
     "idMal": 57433,
     "title": {
@@ -2364,6 +2510,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 173523,
+    "idMal": 57859,
+    "title": {
+      "romaji": "Egao no Taenai Shokuba desu.",
+      "english": "A Mangaka's Weirdly Wonderful Workplace",
+      "native": "笑顔のたえない職場です。",
+      "userPreferred": "A Mangaka's Weirdly Wonderful Workplace"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173523-wy1rDK1NaKuc.png",
+      "color": "#e4c9a1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759753800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760358600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760963400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761568200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762173000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762777800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763382600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763987400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764592200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765197000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765801800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766406600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 173692,
@@ -3776,71 +3999,6 @@
     }
   },
   {
-    "id": 181867,
-    "idMal": 59865,
-    "title": {
-      "romaji": "Shinobanai! Crypto Ninja Sakuya San no Maki",
-      "english": null,
-      "native": "忍ばない！クリプトニンジャ咲耶　参ノ巻",
-      "userPreferred": "Shinobanai! Crypto Ninja Sakuya San no Maki"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181867-mRwcaXoo0cl4.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181867-mRwcaXoo0cl4.png",
-      "color": "#f1bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758545640
-        }
-      ]
-    }
-  },
-  {
-    "id": 182309,
-    "idMal": 59986,
-    "title": {
-      "romaji": "Grand Blue Season 2",
-      "english": "Grand Blue Dreaming Season 2",
-      "native": "ぐらんぶる Season 2",
-      "userPreferred": "Grand Blue Dreaming Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182309-tThxqSRn3At1.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182309-tThxqSRn3At1.jpg",
-      "color": "#0da1fe"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182309-kvcHexJjshIV.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758555000
-        }
-      ]
-    }
-  },
-  {
     "id": 182531,
     "idMal": 62379,
     "title": {
@@ -4557,38 +4715,6 @@
         {
           "episode": 50,
           "airingAt": 1773534600
-        }
-      ]
-    }
-  },
-  {
-    "id": 184591,
-    "idMal": 60326,
-    "title": {
-      "romaji": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?)",
-      "english": "There's No Freaking Way I'll Be Your Lover! Unless...",
-      "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)",
-      "userPreferred": "There's No Freaking Way I'll Be Your Lover! Unless..."
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184591-jRXZ29bN61Zc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184591-jRXZ29bN61Zc.jpg",
-      "color": "#35bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758556800
         }
       ]
     }
@@ -6267,6 +6393,85 @@
     "unaired": true
   },
   {
+    "id": 187331,
+    "idMal": 61142,
+    "title": {
+      "romaji": "Sawaranaide Kotesashi-kun",
+      "english": "Hands off: Sawaranaide Kotesashi-kun!",
+      "native": "さわらないで小手指くん",
+      "userPreferred": "Hands off: Sawaranaide Kotesashi-kun!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187331-ylRHyvJIVPeO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187331-ylRHyvJIVPeO.jpg",
+      "color": "#e45d78"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759766760
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760371560
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760976360
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761581160
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762185960
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762790760
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763395560
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764000360
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764605160
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765209960
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765814760
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766419560
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 187464,
     "idMal": 61159,
     "title": {
@@ -6611,40 +6816,6 @@
         {
           "episode": 26,
           "airingAt": 1759272360
-        }
-      ]
-    }
-  },
-  {
-    "id": 188138,
-    "idMal": 61239,
-    "title": {
-      "romaji": "Binan Koukou Chikyuu Bouei-bu Haikara!",
-      "english": "Cute High Earth Defense Club Hi-CARA!",
-      "native": "美男高校地球防衛部ハイカラ！",
-      "userPreferred": "Cute High Earth Defense Club Hi-CARA!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Mahou Shoujo",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188138-uflx1ZZo5XsE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188138-uflx1ZZo5XsE.jpg",
-      "color": "#e4c95d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758549600
         }
       ]
     }
