@@ -1693,39 +1693,6 @@
     }
   },
   {
-    "id": 159483,
-    "idMal": 54028,
-    "title": {
-      "romaji": "Turkey!",
-      "english": "Turkey! Time to Strike",
-      "native": "Turkey!",
-      "userPreferred": "Turkey! Time to Strike"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Sports",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159483-nQKJ2EEqoo8x.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159483-nQKJ2EEqoo8x.jpg",
-      "color": "#1abbd6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159483-XG5lHavBPS0w.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758644940
-        }
-      ]
-    }
-  },
-  {
     "id": 159981,
     "idMal": 54160,
     "title": {
@@ -2356,6 +2323,84 @@
         {
           "episode": 21,
           "airingAt": 1771747200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 170577,
+    "idMal": 57025,
+    "title": {
+      "romaji": "Tondemo Skill de Isekai Hourou Meshi 2",
+      "english": "Campfire Cooking in Another World with my Absurd Skill Season 2",
+      "native": "とんでもスキルで異世界放浪メシ2",
+      "userPreferred": "Campfire Cooking in Another World with my Absurd Skill Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170577-ocYSFAcry7ty.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170577-ocYSFAcry7ty.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759849200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760454000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761058800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761663600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762268400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762873200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763478000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764082800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764687600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765292400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765897200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766502000
         }
       ]
     },
@@ -3012,10 +3057,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758639600
-        },
-        {
           "episode": 13,
           "airingAt": 1759244400
         }
@@ -3520,38 +3561,6 @@
         {
           "episode": 13,
           "airingAt": 1758725160
-        }
-      ]
-    }
-  },
-  {
-    "id": 179828,
-    "idMal": 59402,
-    "title": {
-      "romaji": "Kakkou no Iinazuke Season 2",
-      "english": "A Couple of Cuckoos Season 2",
-      "native": "カッコウの許嫁 Season2",
-      "userPreferred": "A Couple of Cuckoos Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-Yc1b1R2dxQyc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179828-Yc1b1R2dxQyc.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758636000
         }
       ]
     }
@@ -6253,6 +6262,83 @@
         {
           "episode": 1,
           "airingAt": 1758812400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 186914,
+    "idMal": 61067,
+    "title": {
+      "romaji": "Ninja to Gokudou",
+      "english": "Ninja Vs. Gokudo",
+      "native": "忍者と極道",
+      "userPreferred": "Ninja Vs. Gokudo"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186914-8fVK9eu1ZOKa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186914-8fVK9eu1ZOKa.jpg",
+      "color": "#28a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759856760
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760461140
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761065940
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761670740
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762275540
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762880340
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763485140
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764089940
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764694740
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765299540
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765904340
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766509140
         }
       ]
     },
@@ -8961,6 +9047,39 @@
         {
           "episode": 12,
           "airingAt": 1766163180
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 198312,
+    "idMal": 62428,
+    "title": {
+      "romaji": "Heika Watashi wo Wasurete Kudasai",
+      "english": null,
+      "native": "陛下わたしを忘れてください",
+      "userPreferred": "Heika Watashi wo Wasurete Kudasai"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 5,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198312-7FNrHGI29mYt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198312-7FNrHGI29mYt.jpg",
+      "color": "#f1e45d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759841700
         }
       ]
     },
