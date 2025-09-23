@@ -3672,6 +3672,83 @@
     "unaired": true
   },
   {
+    "id": 180082,
+    "idMal": 59517,
+    "title": {
+      "romaji": "Chitose-kun wa Ramune Bin no Naka",
+      "english": "Chitose Is in the Ramune Bottle",
+      "native": "千歳くんはラムネ瓶のなか",
+      "userPreferred": "Chitose Is in the Ramune Bottle"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180082-IZAlf06G2VVm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180082-IZAlf06G2VVm.png",
+      "color": "#43aeff"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180082-EoMpR2lHsD73.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759827600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760450400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761055200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761660000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762264800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762869600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763474400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764079200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764684000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765288800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765893600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766498400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 180367,
     "idMal": 59597,
     "title": {
