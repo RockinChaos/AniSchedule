@@ -1371,7 +1371,8 @@
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2025-09-24T16:00:00Z",
-    "episodeNumber": 12,
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1410,8 +1411,12 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 12,
+              "airingAt": "2025-09-24T16:00:00Z"
+            },
+            {
               "episode": 13,
-              "airingAt": "2025-10-01T16:00:00Z"
+              "airingAt": "2025-09-24T16:00:00Z"
             }
           ]
         }
@@ -1805,6 +1810,61 @@
     },
     "verified": true,
     "addedAt": "2025-07-26T19:49:49Z"
+  },
+  {
+    "title": "Shin Yaranai ka",
+    "route": "shin-yaranai-ka",
+    "romaji": "Shin Yaranai ka",
+    "english": "Junichi Yamakawa Collection",
+    "native": "新・やらないか",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-09-24T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 31,
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 170593,
+        "idMal": 54907,
+        "title": {
+          "romaji": "Shin Yaranai ka",
+          "english": "Junichi Yamakawa Collection",
+          "native": "新・やらないか",
+          "userPreferred": "Junichi Yamakawa Collection"
+        },
+        "format": "OVA",
+        "genres": [
+          "Comedy"
+        ],
+        "duration": 31,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170593-B3ftC3rFmkwv.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170593-B3ftC3rFmkwv.jpg",
+          "color": "#e4c9a1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170593-HrgXdBE5Vq2d.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-09-24T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-09-24T17:40:57Z"
   },
   {
     "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
