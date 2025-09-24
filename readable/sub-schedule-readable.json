@@ -1517,44 +1517,6 @@
     }
   },
   {
-    "id": 151799,
-    "idMal": 52293,
-    "title": {
-      "romaji": "New PANTY & STOCKING with GARTERBELT",
-      "english": "New PANTY & STOCKING with GARTERBELT",
-      "native": "New PANTY&STOCKING with GARTERBELT",
-      "userPreferred": "New PANTY & STOCKING with GARTERBELT"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Ecchi",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx151799-igwbH3AffgHc.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx151799-igwbH3AffgHc.jpg",
-      "color": "#35e4e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/151799-WsBD1zyaha5p.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758729600
-        },
-        {
-          "episode": 13,
-          "airingAt": 1758731400
-        }
-      ]
-    }
-  },
-  {
     "id": 154887,
     "idMal": 53204,
     "title": {
@@ -2164,10 +2126,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1758718800
-        },
-        {
           "episode": 2,
           "airingAt": 1759323600
         },
@@ -2212,8 +2170,7 @@
           "airingAt": 1765371600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 170018,
@@ -2773,6 +2730,84 @@
     }
   },
   {
+    "id": 174914,
+    "idMal": 58146,
+    "title": {
+      "romaji": "Tensei Akujo no Kuro Rekishi",
+      "english": "The Dark History of the Reincarnated Villainess",
+      "native": "転生悪女の黒歴史",
+      "userPreferred": "The Dark History of the Reincarnated Villainess"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174914-RfPIqbrapByY.jpg",
+      "color": "#5da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759935600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760540400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761145200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761750000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762354800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762959600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763564400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764169200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764774000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765378800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765983600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766588400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 176298,
     "idMal": 58515,
     "title": {
@@ -3316,40 +3351,6 @@
     }
   },
   {
-    "id": 178090,
-    "idMal": 59095,
-    "title": {
-      "romaji": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season",
-      "english": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
-      "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
-      "userPreferred": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178090-1OOScJqXLjRd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178090-1OOScJqXLjRd.png",
-      "color": "#78bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178090-EgKftuHoDJB7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758726000
-        }
-      ]
-    }
-  },
-  {
     "id": 178433,
     "idMal": 59130,
     "title": {
@@ -3497,40 +3498,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 179678,
-    "idMal": 59342,
-    "title": {
-      "romaji": "Jigoku Sensei Nube (2025)",
-      "english": "Hell Teacher: Jigoku Sensei Nube (2025)",
-      "native": "地獄先生ぬ～べ～ (2025)",
-      "userPreferred": "Hell Teacher: Jigoku Sensei Nube (2025)"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179678-1isykDVghv8Q.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179678-1isykDVghv8Q.png",
-      "color": "#e47843"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179678-3a0lkZVFIrlw.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1758725160
-        }
-      ]
-    }
   },
   {
     "id": 179966,
@@ -3759,6 +3726,83 @@
         }
       ]
     }
+  },
+  {
+    "id": 180436,
+    "idMal": 59623,
+    "title": {
+      "romaji": "WanDance",
+      "english": "Wandance",
+      "native": "ワンダンス",
+      "userPreferred": "Wandance"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-KbHBZdUqLV1Q.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180436-KbHBZdUqLV1Q.png",
+      "color": "#0daef1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-FHMeyqzlPeGr.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759934700
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760539500
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761144300
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761749100
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762353900
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762958700
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763563500
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764168300
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764773100
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765377900
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765982700
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766587500
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 180523,
@@ -8391,38 +8435,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 195209,
-    "idMal": 59961,
-    "title": {
-      "romaji": "Kizu darake Seijo yori Houfuku wo Komete",
-      "english": "With Vengeance, Sincerely, Your Broken Saintess",
-      "native": "傷だらけ聖女より報復をこめて",
-      "userPreferred": "With Vengeance, Sincerely, Your Broken Saintess"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 13,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b195209-IwHhCJUcmoK0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b195209-IwHhCJUcmoK0.jpg",
-      "color": "#e4c95d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758727800
-        }
-      ]
-    }
   },
   {
     "id": 195240,
