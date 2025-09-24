@@ -2145,7 +2145,7 @@
       "native": "無職の英雄 別にスキルなんか要らなかったんだが",
       "userPreferred": "Hero Without a Class: Who Even Needs Skills?!"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Adventure",
@@ -2165,51 +2165,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1759323600
+          "airingAt": 1758718800
         },
         {
           "episode": 2,
-          "airingAt": 1759928400
+          "airingAt": 1759323600
         },
         {
           "episode": 3,
-          "airingAt": 1760533200
+          "airingAt": 1759928400
         },
         {
           "episode": 4,
-          "airingAt": 1761138000
+          "airingAt": 1760533200
         },
         {
           "episode": 5,
-          "airingAt": 1761742800
+          "airingAt": 1761138000
         },
         {
           "episode": 6,
-          "airingAt": 1762347600
+          "airingAt": 1761742800
         },
         {
           "episode": 7,
-          "airingAt": 1762952400
+          "airingAt": 1762347600
         },
         {
           "episode": 8,
-          "airingAt": 1763557200
+          "airingAt": 1762952400
         },
         {
           "episode": 9,
-          "airingAt": 1764162000
+          "airingAt": 1763557200
         },
         {
           "episode": 10,
-          "airingAt": 1764766800
+          "airingAt": 1764162000
         },
         {
           "episode": 11,
-          "airingAt": 1765371600
+          "airingAt": 1764766800
         },
         {
           "episode": 12,
-          "airingAt": 1765976400
+          "airingAt": 1765371600
         }
       ]
     },
@@ -2705,39 +2705,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 173780,
-    "idMal": 57907,
-    "title": {
-      "romaji": "Tate no Yuusha no Nariagari Season 4",
-      "english": "The Rising of the Shield Hero Season 4",
-      "native": "盾の勇者の成り上がり Season 4",
-      "userPreferred": "The Rising of the Shield Hero Season 4"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173780-O7v1YfXg61JT.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173780-O7v1YfXg61JT.png",
-      "color": "#5078e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758715200
-        }
-      ]
-    }
   },
   {
     "id": 174184,
