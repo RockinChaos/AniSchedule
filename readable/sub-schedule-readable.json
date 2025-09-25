@@ -4283,38 +4283,6 @@
     "unaired": true
   },
   {
-    "id": 183127,
-    "idMal": 60131,
-    "title": {
-      "romaji": "Karaoke Iko!",
-      "english": "Let's Go Karaoke!",
-      "native": "カラオケ行こ！",
-      "userPreferred": "Let's Go Karaoke!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Music"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183127-NuhBFFae2NYe.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183127-NuhBFFae2NYe.jpg",
-      "color": "#d628e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1758803400
-        }
-      ]
-    }
-  },
-  {
     "id": 183291,
     "idMal": 60162,
     "title": {
@@ -7141,10 +7109,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1758792600
-        },
-        {
           "episode": 28,
           "airingAt": 1759397400
         },
@@ -7239,6 +7203,10 @@
         {
           "episode": 51,
           "airingAt": 1773307800
+        },
+        {
+          "episode": 52,
+          "airingAt": 1773912600
         }
       ]
     }
@@ -9486,38 +9454,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 198948,
-    "idMal": null,
-    "title": {
-      "romaji": "Host ni Iroiro Kiitemita",
-      "english": null,
-      "native": "ホストにいろいろ聞いてみた",
-      "userPreferred": "Host ni Iroiro Kiitemita"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 4,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b198948-L6Hq3F822VBb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b198948-L6Hq3F822VBb.jpg",
-      "color": "#e45d78"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1758801600
-        }
-      ]
-    }
   },
   {
     "id": 199009,
