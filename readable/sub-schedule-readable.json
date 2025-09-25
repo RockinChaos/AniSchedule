@@ -1876,39 +1876,6 @@
     }
   },
   {
-    "id": 168537,
-    "idMal": 56420,
-    "title": {
-      "romaji": "Haigakura",
-      "english": "HAIGAKURA",
-      "native": "ハイガクラ",
-      "userPreferred": "HAIGAKURA"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168537-pytXEirHtk3M.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168537-pytXEirHtk3M.jpg",
-      "color": "#ffae43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/168537-U3T6ekzUTzUZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1758817800
-        }
-      ]
-    }
-  },
-  {
     "id": 169420,
     "idMal": 56693,
     "title": {
@@ -2399,39 +2366,6 @@
         {
           "episode": 13,
           "airingAt": 1758983400
-        }
-      ]
-    }
-  },
-  {
-    "id": 173335,
-    "idMal": 57820,
-    "title": {
-      "romaji": "Kamitsubaki-shi Kensetsuchuu.",
-      "english": "KAMITSUBAKI CITY UNDER CONSTRUCTION",
-      "native": "神椿市建設中。",
-      "userPreferred": "KAMITSUBAKI CITY UNDER CONSTRUCTION"
-    },
-    "format": "TV",
-    "genres": [
-      "Music",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173335-iWDaWkuSuZW5.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173335-iWDaWkuSuZW5.jpg",
-      "color": "#f10d43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173335-GNOmbqSZUuBa.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1758812160
         }
       ]
     }
@@ -2973,6 +2907,38 @@
     }
   },
   {
+    "id": 177686,
+    "idMal": 58915,
+    "title": {
+      "romaji": "Housenka",
+      "english": "The Last Blossom",
+      "native": "ホウセンカ",
+      "userPreferred": "The Last Blossom"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 90,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177686-9CwCvp3mkDI3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177686-9CwCvp3mkDI3.jpg",
+      "color": "#f1ff43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760022000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177689,
     "idMal": 58913,
     "title": {
@@ -3259,98 +3225,94 @@
       "nodes": [
         {
           "episode": 25,
-          "airingAt": 1759017600
-        },
-        {
-          "episode": 26,
           "airingAt": 1759622400
         },
         {
-          "episode": 27,
+          "episode": 26,
           "airingAt": 1760227200
         },
         {
-          "episode": 28,
+          "episode": 27,
           "airingAt": 1760832000
         },
         {
-          "episode": 29,
+          "episode": 28,
           "airingAt": 1761436800
         },
         {
-          "episode": 30,
+          "episode": 29,
           "airingAt": 1762041600
         },
         {
-          "episode": 31,
+          "episode": 30,
           "airingAt": 1762646400
         },
         {
-          "episode": 32,
+          "episode": 31,
           "airingAt": 1763251200
         },
         {
-          "episode": 33,
+          "episode": 32,
           "airingAt": 1763856000
         },
         {
-          "episode": 34,
+          "episode": 33,
           "airingAt": 1764460800
         },
         {
-          "episode": 35,
+          "episode": 34,
           "airingAt": 1765065600
         },
         {
-          "episode": 36,
+          "episode": 35,
           "airingAt": 1765670400
         },
         {
-          "episode": 37,
+          "episode": 36,
           "airingAt": 1766275200
         },
         {
-          "episode": 38,
+          "episode": 37,
           "airingAt": 1766880000
         },
         {
-          "episode": 39,
+          "episode": 38,
           "airingAt": 1767484800
         },
         {
-          "episode": 40,
+          "episode": 39,
           "airingAt": 1768089600
         },
         {
-          "episode": 41,
+          "episode": 40,
           "airingAt": 1768694400
         },
         {
-          "episode": 42,
+          "episode": 41,
           "airingAt": 1769299200
         },
         {
-          "episode": 43,
+          "episode": 42,
           "airingAt": 1769904000
         },
         {
-          "episode": 44,
+          "episode": 43,
           "airingAt": 1770508800
         },
         {
-          "episode": 45,
+          "episode": 44,
           "airingAt": 1771113600
         },
         {
-          "episode": 46,
+          "episode": 45,
           "airingAt": 1771718400
         },
         {
-          "episode": 47,
+          "episode": 46,
           "airingAt": 1772323200
         },
         {
-          "episode": 48,
+          "episode": 47,
           "airingAt": 1772928000
         }
       ]
@@ -5689,10 +5651,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758814200
-        },
-        {
           "episode": 13,
           "airingAt": 1759419000
         },
@@ -5771,39 +5729,6 @@
         {
           "episode": 12,
           "airingAt": 1758983400
-        }
-      ]
-    }
-  },
-  {
-    "id": 186052,
-    "idMal": 60732,
-    "title": {
-      "romaji": "Mizu Zokusei no Mahou Tsukai",
-      "english": "The Water Magician",
-      "native": "水属性の魔法使い",
-      "userPreferred": "The Water Magician"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-zq8h0Qo0O0sP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186052-zq8h0Qo0O0sP.jpg",
-      "color": "#50d6e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758817680
         }
       ]
     }
@@ -5911,10 +5836,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1758819480
-        },
         {
           "episode": 26,
           "airingAt": 1759424280
@@ -6215,38 +6136,6 @@
         {
           "episode": 12,
           "airingAt": 1766334600
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 186829,
-    "idMal": 61790,
-    "title": {
-      "romaji": "Kakurenbo THE ANIMATION",
-      "english": null,
-      "native": "かくれんぼ THE ANIMATION",
-      "userPreferred": "Kakurenbo THE ANIMATION"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 30,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186829-iV3BnA5KRgvu.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186829-iV3BnA5KRgvu.png",
-      "color": "#e4ae50"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1758812400
         }
       ]
     },
@@ -7476,71 +7365,6 @@
     }
   },
   {
-    "id": 188933,
-    "idMal": 61539,
-    "title": {
-      "romaji": "Princess Burst!: Kiken-bi no Tanetsuke Haramase Shuuchi Battle!",
-      "english": null,
-      "native": "プリンセスバースト！～危険日の種付け孕ませ羞恥バトル！～",
-      "userPreferred": "Princess Burst!: Kiken-bi no Tanetsuke Haramase Shuuchi Battle!"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188933-akAyf4m11e0y.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188933-akAyf4m11e0y.png",
-      "color": "#e4785d"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1758812400
-        }
-      ]
-    }
-  },
-  {
-    "id": 189117,
-    "idMal": 61322,
-    "title": {
-      "romaji": "Dr. STONE: SCIENCE FUTURE Part 2",
-      "english": "Dr. STONE SCIENCE FUTURE Cour 2",
-      "native": "Dr.STONE SCIENCE FUTURE 2クール",
-      "userPreferred": "Dr. STONE SCIENCE FUTURE Cour 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189117-TLtCXYT7JPoL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189117-TLtCXYT7JPoL.jpg",
-      "color": "#e4ae28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189117-SEvEg0G0Rcv7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758805200
-        }
-      ]
-    }
-  },
-  {
     "id": 190840,
     "idMal": 61517,
     "title": {
@@ -7611,6 +7435,38 @@
         {
           "episode": 12,
           "airingAt": 1766243400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 191403,
+    "idMal": 61558,
+    "title": {
+      "romaji": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
+      "english": null,
+      "native": "アイカツ！×プリパラ THE MOVIE -出会いのキセキ-",
+      "userPreferred": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191403-BHyNZKR3uJHX.jpg",
+      "color": "#43c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191403-09tmfyVfaZqQ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760022000
         }
       ]
     },
@@ -7774,37 +7630,6 @@
         {
           "episode": 2,
           "airingAt": 1760022000
-        }
-      ]
-    }
-  },
-  {
-    "id": 193707,
-    "idMal": null,
-    "title": {
-      "romaji": "Mujin Eki The Animation",
-      "english": null,
-      "native": "無人駅 The Animation ",
-      "userPreferred": "Mujin Eki The Animation"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193707-kOyJ9fzeQPZC.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193707-kOyJ9fzeQPZC.png",
-      "color": "#f1bb93"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1758812400
         }
       ]
     }
@@ -8208,48 +8033,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1758812400
-        },
-        {
           "episode": 2,
           "airingAt": 1764255600
         }
       ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 195034,
-    "idMal": 61936,
-    "title": {
-      "romaji": "Korette Naani?",
-      "english": null,
-      "native": "これってナ～ニ？",
-      "userPreferred": "Korette Naani?"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195034-kh5FbK07fShG.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195034-kh5FbK07fShG.png",
-      "color": "#d678a1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1758812400
-        }
-      ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 195153,
@@ -8278,10 +8066,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1758813960
-        },
         {
           "episode": 2,
           "airingAt": 1759418760
@@ -8331,8 +8115,7 @@
           "airingAt": 1766071560
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 195173,
@@ -8620,6 +8403,44 @@
     "unaired": true
   },
   {
+    "id": 196115,
+    "idMal": null,
+    "title": {
+      "romaji": "Golden Kamuy: Sapporo Beer Koujou-hen",
+      "english": null,
+      "native": "ゴールデンカムイ 札幌ビール工場編",
+      "userPreferred": "Golden Kamuy: Sapporo Beer Koujou-hen"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196115-LSRdtIQyDRqX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b196115-LSRdtIQyDRqX.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760022000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1761836400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 196227,
     "idMal": 62083,
     "title": {
@@ -8882,42 +8703,6 @@
         {
           "episode": 12,
           "airingAt": 1766277000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 196750,
-    "idMal": 62328,
-    "title": {
-      "romaji": "Sister Breeder",
-      "english": null,
-      "native": "シスターブリーダー",
-      "userPreferred": "Sister Breeder"
-    },
-    "format": null,
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196750-qwkwqdNMXIwD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196750-qwkwqdNMXIwD.png",
-      "color": "#bb35e4"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196750-cmc0IEyZbqOj.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1758812400
-        },
-        {
-          "episode": 2,
-          "airingAt": 1758812400
         }
       ]
     },
