@@ -911,10 +911,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 176,
-          "airingAt": 1758879600
-        },
-        {
           "episode": 177,
           "airingAt": 1759484400
         },
@@ -1009,6 +1005,10 @@
         {
           "episode": 200,
           "airingAt": 1773394800
+        },
+        {
+          "episode": 201,
+          "airingAt": 1773999600
         }
       ]
     }
@@ -1833,39 +1833,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 165159,
-    "idMal": 56566,
-    "title": {
-      "romaji": "BEYBLADE X",
-      "english": "BEYBLADE X",
-      "native": "BEYBLADE X",
-      "userPreferred": "BEYBLADE X"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sports"
-    ],
-    "duration": 22,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
-      "color": "#28aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 99,
-          "airingAt": 1758878700
-        }
-      ]
-    }
   },
   {
     "id": 169420,
@@ -4801,10 +4768,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1758870000
-        },
-        {
           "episode": 2,
           "airingAt": 1759474800
         },
@@ -4849,8 +4812,7 @@
           "airingAt": 1769756400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184997,
@@ -8856,10 +8818,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1758879600
-        },
         {
           "episode": 5,
           "airingAt": 1759484400
