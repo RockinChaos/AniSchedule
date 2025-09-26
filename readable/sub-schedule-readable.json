@@ -1276,10 +1276,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 186,
-          "airingAt": 1758925800
-        },
-        {
           "episode": 187,
           "airingAt": 1759530600
         },
@@ -1374,6 +1370,10 @@
         {
           "episode": 210,
           "airingAt": 1773441000
+        },
+        {
+          "episode": 211,
+          "airingAt": 1774045800
         }
       ]
     }
@@ -7407,38 +7407,6 @@
         {
           "episode": 2,
           "airingAt": 1764255600
-        }
-      ]
-    }
-  },
-  {
-    "id": 193238,
-    "idMal": 61731,
-    "title": {
-      "romaji": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto",
-      "english": null,
-      "native": "学校では教えてくれない大切なこと",
-      "userPreferred": "Gakkou de wa Oshiete Kurenai Taisetsu na Koto"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 5,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193238-iOCgM9VCiFgo.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193238-iOCgM9VCiFgo.png",
-      "color": "#f1ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1758924000
         }
       ]
     }
