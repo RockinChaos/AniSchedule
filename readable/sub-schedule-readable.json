@@ -1542,38 +1542,6 @@
     }
   },
   {
-    "id": 156395,
-    "idMal": 53512,
-    "title": {
-      "romaji": "Busu ni Hanataba wo.",
-      "english": null,
-      "native": "ブスに花束を。",
-      "userPreferred": "Busu ni Hanataba wo."
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156395-LW98bhT54IuM.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx156395-LW98bhT54IuM.png",
-      "color": "#f1e4bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/156395-V60PSAOKauDU.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1758893400
-        }
-      ]
-    }
-  },
-  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -1861,10 +1829,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1758902400
-        },
         {
           "episode": 14,
           "airingAt": 1759507200
@@ -2515,41 +2479,6 @@
     }
   },
   {
-    "id": 174188,
-    "idMal": 57969,
-    "title": {
-      "romaji": "Nukitashi THE ANIMATION",
-      "english": "Nukitashi THE ANIMATION",
-      "native": "ぬきたし THE ANIMATION",
-      "userPreferred": "Nukitashi THE ANIMATION"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174188-fZg8iePD9Dca.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174188-fZg8iePD9Dca.jpg",
-      "color": "#4350e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/174188-zHfBIXSeesMT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1758906360
-        }
-      ]
-    }
-  },
-  {
     "id": 174914,
     "idMal": 58146,
     "title": {
@@ -2776,10 +2705,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1758895200
-        },
         {
           "episode": 13,
           "airingAt": 1759500000
@@ -3452,12 +3377,8 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1758898800
-        },
-        {
           "episode": 13,
-          "airingAt": 1759503600
+          "airingAt": 1759590000
         }
       ]
     }
@@ -5002,8 +4923,8 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185575-cRHKCLmJI4Fr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185575-cRHKCLmJI4Fr.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185575-moQeN8f5xRBv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185575-moQeN8f5xRBv.jpg",
       "color": null
     },
     "isAdult": false,
@@ -5061,37 +4982,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 185584,
-    "idMal": 60535,
-    "title": {
-      "romaji": "Everyday Host",
-      "english": null,
-      "native": "えぶりでいホスト",
-      "userPreferred": "Everyday Host"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185584-a5oABU1uknYX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185584-a5oABU1uknYX.jpg",
-      "color": "#e443bb"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1758904080
-        }
-      ]
-    }
   },
   {
     "id": 185646,
