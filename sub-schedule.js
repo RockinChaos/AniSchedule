@@ -10,6 +10,7 @@ let updatedHentaiEpisodes = false
 export async function fetchSubSchedule() {
     const { anilistClient } = await import('./utils/anilist.js')
     const { writeFile } = await import('node:fs/promises')
+    const existingSubbedSchedule = loadJSON(path.join('./raw/sub-schedule.json'))
     const changes = []
 
     const date = new Date()
@@ -95,7 +96,7 @@ export async function fetchSubSchedule() {
                 console.log(`(${type}) Episodes have been corrected and saved...`)
             }
         }
-        if (JSON.stringify(media) !== JSON.stringify(loadJSON(path.join('./raw/sub-schedule.json')))) {
+        if (JSON.stringify(media) !== existingSubbedSchedule) {
             const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
             const updatedAt = past(new Date(), 0, true)
             if (updatedHentaiEpisodes) lastUpdated.hentai.episodes = updatedAt
