@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1177,
-          "airingAt": 1758963600
-        },
-        {
           "episode": 1178,
           "airingAt": 1759568400
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1201,
           "airingAt": 1773478800
+        },
+        {
+          "episode": 1202,
+          "airingAt": 1774083600
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1303,
-          "airingAt": 1758958200
-        },
         {
           "episode": 1304,
           "airingAt": 1759563000
@@ -385,6 +381,10 @@
         {
           "episode": 1327,
           "airingAt": 1773473400
+        },
+        {
+          "episode": 1328,
+          "airingAt": 1774078200
         }
       ]
     }
@@ -751,10 +751,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 882,
-          "airingAt": 1758960000
-        },
-        {
           "episode": 883,
           "airingAt": 1759564800
         },
@@ -849,6 +845,10 @@
         {
           "episode": 906,
           "airingAt": 1773475200
+        },
+        {
+          "episode": 907,
+          "airingAt": 1774080000
         }
       ]
     }
@@ -2757,40 +2757,6 @@
     }
   },
   {
-    "id": 177476,
-    "idMal": 58812,
-    "title": {
-      "romaji": "Shin Samurai-den YAIBA",
-      "english": "YAIBA: Samurai Legend",
-      "native": "真･侍伝 YAIBA",
-      "userPreferred": "YAIBA: Samurai Legend"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177476-kduwwEfxcZtU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177476-kduwwEfxcZtU.jpg",
-      "color": "#e4c95d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177476-7hFgVbx9dD00.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1758961800
-        }
-      ]
-    }
-  },
-  {
     "id": 177686,
     "idMal": 58915,
     "title": {
@@ -4598,45 +4564,13 @@
     }
   },
   {
-    "id": 184639,
-    "idMal": 60334,
-    "title": {
-      "romaji": "Anne Shirley",
-      "english": "Anne Shirley",
-      "native": "アン・シャーリー",
-      "userPreferred": "Anne Shirley"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tmj8NbTroNeI.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184639-tmj8NbTroNeI.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184639-fXvQzDPP4bHL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1758965160
-        }
-      ]
-    }
-  },
-  {
     "id": 184718,
     "idMal": 60347,
     "title": {
       "romaji": "Cat's♥Eye (2025)",
-      "english": "Cat's Eye",
+      "english": "Cat's Eye (2025)",
       "native": "キャッツ♥アイ (2025)",
-      "userPreferred": "Cat's Eye"
+      "userPreferred": "Cat's Eye (2025)"
     },
     "format": "ONA",
     "genres": [
