@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1145,
-          "airingAt": 1759068960
-        },
-        {
           "episode": 1146,
           "airingAt": 1759673760
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1169,
           "airingAt": 1773584160
+        },
+        {
+          "episode": 1170,
+          "airingAt": 1774188960
         }
       ]
     }
@@ -1573,6 +1573,85 @@
     }
   },
   {
+    "id": 153800,
+    "idMal": 52807,
+    "title": {
+      "romaji": "One Punch Man 3",
+      "english": "One-Punch Man Season 3",
+      "native": "ワンパンマン３",
+      "userPreferred": "One-Punch Man Season 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153800-8SpzdHOaZCoU.jpg",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760280300
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760885100
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761489900
+        },
+        {
+          "episode": 4,
+          "airingAt": 1762094700
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762699500
+        },
+        {
+          "episode": 6,
+          "airingAt": 1763304300
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763909100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764513900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1765118700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765723500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1766328300
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766933100
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 154887,
     "idMal": 53204,
     "title": {
@@ -2955,10 +3034,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1759069800
-        },
-        {
           "episode": 13,
           "airingAt": 1759674600
         },
@@ -3126,42 +3201,6 @@
         {
           "episode": 47,
           "airingAt": 1772928000
-        }
-      ]
-    }
-  },
-  {
-    "id": 178433,
-    "idMal": 59130,
-    "title": {
-      "romaji": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
-      "english": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
-      "native": "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～",
-      "userPreferred": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178433-8KzNsjTmdAvw.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178433-8KzNsjTmdAvw.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1759066200
         }
       ]
     }
@@ -3618,38 +3657,6 @@
     }
   },
   {
-    "id": 180794,
-    "idMal": 59689,
-    "title": {
-      "romaji": "GaCen Shoujo to Ibunka Kouryuu",
-      "english": "Cultural Exchange with a Game Centre Girl",
-      "native": "ゲーセン少女と異文化交流",
-      "userPreferred": "Cultural Exchange with a Game Centre Girl"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-rQGxkguEc2ov.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180794-rQGxkguEc2ov.png",
-      "color": "#86f143"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180794-15AlhRdZMhv7.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1759069800
-        }
-      ]
-    }
-  },
-  {
     "id": 181447,
     "idMal": 59846,
     "title": {
@@ -3728,38 +3735,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 181841,
-    "idMal": 59898,
-    "title": {
-      "romaji": "CITY THE ANIMATION",
-      "english": "CITY THE ANIMATION",
-      "native": "CITY THE ANIMATION",
-      "userPreferred": "CITY THE ANIMATION"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 27,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181841-9TcjIyZefot2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181841-9TcjIyZefot2.jpg",
-      "color": "#0d93e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181841-aegccbKnNjxK.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1759071600
-        }
-      ]
-    }
   },
   {
     "id": 182531,
@@ -4098,6 +4073,10 @@
         {
           "episode": 12,
           "airingAt": 1766064600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766669400
         }
       ]
     },
@@ -4180,38 +4159,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 184034,
-    "idMal": 60260,
-    "title": {
-      "romaji": "Hotel Inhumans",
-      "english": "Hotel Inhumans",
-      "native": "ホテル・インヒューマンズ",
-      "userPreferred": "Hotel Inhumans"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184034-gjIi5TIHJpZv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184034-gjIi5TIHJpZv.jpg",
-      "color": "#e42843"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184034-iqhrtWaMTlwA.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1759070760
-        }
-      ]
-    }
   },
   {
     "id": 184322,
@@ -5479,6 +5426,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 186524,
+    "idMal": 60933,
+    "title": {
+      "romaji": "Chanto Suenai Kyuuketsuki-chan",
+      "english": "Li'l Miss Vampire Can't Suck Right",
+      "native": "ちゃんと吸えない吸血鬼ちゃん",
+      "userPreferred": "Li'l Miss Vampire Can't Suck Right"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186524-JSsyFR3FqTO8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186524-JSsyFR3FqTO8.jpg",
+      "color": "#f1ae50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760275800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760880600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761485400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1762090200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762695000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1763299800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763904600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764509400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1765114200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765719000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1766323800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766928600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186621,
@@ -7490,10 +7515,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1759081800
-        },
-        {
           "episode": 13,
           "airingAt": 1759686600
         }
@@ -7834,9 +7855,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-RopaGsHkYSYi.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195240-RopaGsHkYSYi.jpg",
-      "color": "#e45d86"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-hKcmllV6YHQT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195240-hKcmllV6YHQT.jpg",
+      "color": "#5093e4"
     },
     "isAdult": false,
     "bannerImage": null,
