@@ -4285,10 +4285,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 26,
-          "airingAt": 1759019400
-        },
-        {
           "episode": 27,
           "airingAt": 1759624200
         },
@@ -4383,6 +4379,10 @@
         {
           "episode": 50,
           "airingAt": 1773534600
+        },
+        {
+          "episode": 51,
+          "airingAt": 1774139400
         }
       ]
     }
@@ -4404,7 +4404,7 @@
       "Mystery",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184718-GvNnorokj1i3.jpg",
@@ -4412,7 +4412,7 @@
       "color": "#5086e4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184718-BvX97zaGTgOT.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4566,10 +4566,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185073-gKyL8oVOqMX1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 34,
-          "airingAt": 1759015800
-        },
         {
           "episode": 35,
           "airingAt": 1759620600
@@ -4813,10 +4809,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 26,
-          "airingAt": 1759015680
-        },
-        {
           "episode": 27,
           "airingAt": 1759620480
         },
@@ -5016,10 +5008,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1759011360
-        },
         {
           "episode": 27,
           "airingAt": 1759616160
@@ -6130,7 +6118,7 @@
       "native": "東島丹三郎は仮面ライダーになりたい",
       "userPreferred": "Tojima Wants to Be a Kamen Rider"
     },
-    "format": null,
+    "format": "TV",
     "genres": [
       "Action",
       "Comedy"
