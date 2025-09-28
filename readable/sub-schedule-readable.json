@@ -495,10 +495,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2799,
-          "airingAt": 1759051800
-        },
-        {
           "episode": 2800,
           "airingAt": 1759656600
         },
@@ -593,6 +589,10 @@
         {
           "episode": 2823,
           "airingAt": 1773567000
+        },
+        {
+          "episode": 2824,
+          "airingAt": 1774171800
         }
       ]
     }
@@ -880,8 +880,72 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 333,
-          "airingAt": 1759050000
+          "episode": 334,
+          "airingAt": 1759654800
+        },
+        {
+          "episode": 335,
+          "airingAt": 1760259600
+        },
+        {
+          "episode": 336,
+          "airingAt": 1760864400
+        },
+        {
+          "episode": 337,
+          "airingAt": 1761469200
+        },
+        {
+          "episode": 338,
+          "airingAt": 1762074000
+        },
+        {
+          "episode": 339,
+          "airingAt": 1762678800
+        },
+        {
+          "episode": 340,
+          "airingAt": 1763283600
+        },
+        {
+          "episode": 341,
+          "airingAt": 1763888400
+        },
+        {
+          "episode": 342,
+          "airingAt": 1764493200
+        },
+        {
+          "episode": 343,
+          "airingAt": 1765098000
+        },
+        {
+          "episode": 344,
+          "airingAt": 1765702800
+        },
+        {
+          "episode": 345,
+          "airingAt": 1766307600
+        },
+        {
+          "episode": 346,
+          "airingAt": 1766912400
+        },
+        {
+          "episode": 347,
+          "airingAt": 1767517200
+        },
+        {
+          "episode": 348,
+          "airingAt": 1768122000
+        },
+        {
+          "episode": 349,
+          "airingAt": 1768726800
+        },
+        {
+          "episode": 350,
+          "airingAt": 1769331600
         }
       ]
     }
@@ -3581,38 +3645,6 @@
         {
           "episode": 12,
           "airingAt": 1759069800
-        }
-      ]
-    }
-  },
-  {
-    "id": 180929,
-    "idMal": 59791,
-    "title": {
-      "romaji": "Ruri no Houseki",
-      "english": "Ruri Rocks",
-      "native": "瑠璃の宝石",
-      "userPreferred": "Ruri Rocks"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180929-ytdzqbrOhots.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180929-ytdzqbrOhots.jpg",
-      "color": "#5dc9f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180929-HUn5e8gpygL8.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1759062600
         }
       ]
     }
@@ -8121,10 +8153,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1759059000
-        },
-        {
           "episode": 14,
           "airingAt": 1759663800
         },
@@ -8219,6 +8247,10 @@
         {
           "episode": 37,
           "airingAt": 1773574200
+        },
+        {
+          "episode": 38,
+          "airingAt": 1774179000
         }
       ]
     }
