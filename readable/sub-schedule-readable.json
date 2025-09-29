@@ -1439,73 +1439,6 @@
     }
   },
   {
-    "id": 143200,
-    "idMal": 50694,
-    "title": {
-      "romaji": "Summer Pockets",
-      "english": "Summer Pockets",
-      "native": "Summer Pockets",
-      "userPreferred": "Summer Pockets"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143200-42OaDCS6VEy3.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143200-42OaDCS6VEy3.png",
-      "color": "#50bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143200-R0qpwS1C6b8i.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1759156200
-        }
-      ]
-    }
-  },
-  {
-    "id": 143598,
-    "idMal": 49778,
-    "title": {
-      "romaji": "Kijin Gentoushou",
-      "english": "Sword of the Demon Hunter: Kijin Gentosho",
-      "native": "鬼人幻燈抄",
-      "userPreferred": "Sword of the Demon Hunter: Kijin Gentosho"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143598-FCvAhQJLllSP.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143598-FCvAhQJLllSP.png",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143598-WWxsc0g9pVB2.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1759158000
-        }
-      ]
-    }
-  },
-  {
     "id": 144779,
     "idMal": 50855,
     "title": {
@@ -2217,7 +2150,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-SqCjoqYT4A6Z.jpg",
@@ -3741,7 +3674,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180523-FjvW1XByUNMK.jpg",
@@ -6402,7 +6335,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
@@ -6413,10 +6346,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759159800
-        },
         {
           "episode": 2,
           "airingAt": 1759764600
@@ -6462,8 +6391,7 @@
           "airingAt": 1765812600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 187860,
@@ -7741,6 +7669,84 @@
     "unaired": true
   },
   {
+    "id": 194447,
+    "idMal": 61851,
+    "title": {
+      "romaji": "Isekai Quartet 3",
+      "english": null,
+      "native": "異世界かるてっと 3",
+      "userPreferred": "Isekai Quartet 3"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194447-sgmaOpJ0VIUI.jpg",
+      "color": "#28a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760362200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760967000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761571800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1762176600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762781400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1763386200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763991000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764595800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1765200600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765805400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1766410200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1767015000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 194832,
     "idMal": null,
     "title": {
@@ -7843,7 +7849,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195153-yiRxZP5pPJLi.png",
