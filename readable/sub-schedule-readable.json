@@ -1685,6 +1685,88 @@
     }
   },
   {
+    "id": 157692,
+    "idMal": 59662,
+    "title": {
+      "romaji": "Long Zu 2",
+      "english": "Dragon Raja II -The Mourner's Eyes-",
+      "native": "龙族 第二季",
+      "userPreferred": "Dragon Raja II -The Mourner's Eyes-"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157692-lihmnuJGcbM6.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157692-lihmnuJGcbM6.png",
+      "color": "#aec9e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157692-bnduywLJZIxk.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1759417200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1760022000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1760626800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1761231600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1761836400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1762441200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1763046000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1763650800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1764255600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1764860400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1765465200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1766070000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1766674800
+        }
+      ]
+    }
+  },
+  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -1944,6 +2026,71 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 165530,
+    "idMal": 57353,
+    "title": {
+      "romaji": "Mofa Gongzhu De Xiao Fannao",
+      "english": "The Fated Magical Princess: Who Made Me a Princess",
+      "native": "魔法公主的小烦恼",
+      "userPreferred": "The Fated Magical Princess: Who Made Me a Princess"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165530-Ku7VZt2NCIgf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165530-Ku7VZt2NCIgf.jpg",
+      "color": "#fea150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1759680000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1760284800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1760889600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1761494400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1762099200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1762704000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1763308800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1763913600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1764518400
+        }
+      ]
+    }
   },
   {
     "id": 169420,
