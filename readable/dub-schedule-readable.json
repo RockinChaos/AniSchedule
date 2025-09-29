@@ -333,6 +333,63 @@
     "addedAt": "2025-09-25T15:00:00Z"
   },
   {
+    "title": "Chainsaw Man: Reze-hen",
+    "route": "chainsaw-man-movie-reze-hen",
+    "romaji": "Chainsaw Man: Reze-hen",
+    "english": "Chainsaw Man: Reze Arc",
+    "native": "チェンソーマン レゼ篇",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2025-10-24T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 100,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 171627,
+        "idMal": 57555,
+        "title": {
+          "romaji": "Chainsaw Man: Reze-hen",
+          "english": "Chainsaw Man – The Movie: Reze Arc",
+          "native": "チェンソーマン レゼ篇",
+          "userPreferred": "Chainsaw Man – The Movie: Reze Arc"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Drama",
+          "Supernatural"
+        ],
+        "duration": 100,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171627-smzCQpAP6UQE.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171627-smzCQpAP6UQE.jpg",
+          "color": "#e42843"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171627-7esVHhgw69rn.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-24T04:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-24T04:00:00Z"
+  },
+  {
     "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
     "route": "chotto-dake-ai-ga-omoi-dark-elf-ga-isekai-kara-oikaketekita",
     "romaji": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita",
@@ -376,7 +433,7 @@
           "color": "#43aee4"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180829-qKzllzjlDREL.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -495,8 +552,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-09-28T20:30:00Z"
+              "episode": 11,
+              "airingAt": "2025-10-05T20:30:00Z"
             }
           ]
         }
@@ -719,8 +776,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-09-28T22:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-10-05T22:00:00Z"
             }
           ]
         }
@@ -950,8 +1007,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-09-28T21:00:00Z"
+              "episode": 12,
+              "airingAt": "2025-10-05T21:00:00Z"
             }
           ]
         }
@@ -1577,8 +1634,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2025-09-28T19:30:00Z"
+              "episode": 12,
+              "airingAt": "2025-10-05T19:30:00Z"
             }
           ]
         }
