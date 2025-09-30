@@ -3009,38 +3009,6 @@
     "unaired": true
   },
   {
-    "id": 177880,
-    "idMal": 58996,
-    "title": {
-      "romaji": "Osomatsu-san 4",
-      "english": "Mr. Osomatsu 4th Season",
-      "native": "おそ松さん４",
-      "userPreferred": "Mr. Osomatsu 4th Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-54MNSycPEMFA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177880-54MNSycPEMFA.jpg",
-      "color": "#93d61a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177880-yxSlkbBHz1Wx.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1759244400
-        }
-      ]
-    }
-  },
-  {
     "id": 177937,
     "idMal": 59027,
     "title": {
@@ -4221,10 +4189,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759250160
-        },
-        {
           "episode": 2,
           "airingAt": 1759854540
         },
@@ -4269,8 +4233,7 @@
           "airingAt": 1765902540
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 184322,
@@ -5428,6 +5391,84 @@
         }
       ]
     }
+  },
+  {
+    "id": 186161,
+    "idMal": 60765,
+    "title": {
+      "romaji": "Kimi to Koete Koi ni Naru",
+      "english": "With You, Our Love Will Make It Through",
+      "native": "キミと越えて恋になる",
+      "userPreferred": "With You, Our Love Will Make It Through"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-rgdRQgwOJUpb.png",
+      "color": "#1aaef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760452200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1761057000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761661800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1762266600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762871400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1763476200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1764081000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764685800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1765290600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765895400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1766500200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1767105000
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 186190,
