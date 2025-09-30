@@ -1278,6 +1278,74 @@
     }
   },
   {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 281,
+          "airingAt": 1759444800
+        },
+        {
+          "episode": 282,
+          "airingAt": 1759790400
+        },
+        {
+          "episode": 283,
+          "airingAt": 1760049600
+        },
+        {
+          "episode": 284,
+          "airingAt": 1760395200
+        },
+        {
+          "episode": 285,
+          "airingAt": 1760654400
+        },
+        {
+          "episode": 286,
+          "airingAt": 1761000000
+        },
+        {
+          "episode": 287,
+          "airingAt": 1761259200
+        },
+        {
+          "episode": 288,
+          "airingAt": 1761604800
+        },
+        {
+          "episode": 289,
+          "airingAt": 1761864000
+        },
+        {
+          "episode": 290,
+          "airingAt": 1762209600
+        }
+      ]
+    }
+  },
+  {
     "id": 142274,
     "idMal": 50418,
     "title": {
@@ -6950,62 +7018,6 @@
         {
           "episode": 25,
           "airingAt": 1766191500
-        }
-      ]
-    }
-  },
-  {
-    "id": 188753,
-    "idMal": 61297,
-    "title": {
-      "romaji": "Gekkan! Nanmono Anime",
-      "english": null,
-      "native": "げっかん！なんものアニメ",
-      "userPreferred": "Gekkan! Nanmono Anime"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188753-Rkuiizca4QFD.png",
-      "color": "#f1e4c9"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188753-njd1uzJV3jp3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1759201200
-        },
-        {
-          "episode": 7,
-          "airingAt": 1761879600
-        },
-        {
-          "episode": 8,
-          "airingAt": 1764471600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1767150000
-        },
-        {
-          "episode": 10,
-          "airingAt": 1769828400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1772247600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1774926000
         }
       ]
     }
