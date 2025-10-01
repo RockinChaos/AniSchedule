@@ -6626,40 +6626,6 @@
     "unaired": true
   },
   {
-    "id": 188039,
-    "idMal": 60689,
-    "title": {
-      "romaji": "Rainbow Bubblegem 2: Secret",
-      "english": null,
-      "native": "레인보우 버블젬 2 시크릿",
-      "userPreferred": "Rainbow Bubblegem 2: Secret"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Mahou Shoujo"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188039-NwF00gTcMwyZ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188039-NwF00gTcMwyZ.png",
-      "color": "#f1ae35"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1759272360
-        }
-      ]
-    }
-  },
-  {
     "id": 188239,
     "idMal": 61258,
     "title": {
@@ -7401,10 +7367,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1759269960
-        },
-        {
           "episode": 15,
           "airingAt": 1759874760
         },
@@ -7499,6 +7461,10 @@
         {
           "episode": 38,
           "airingAt": 1773785160
+        },
+        {
+          "episode": 39,
+          "airingAt": 1774389960
         }
       ]
     }
