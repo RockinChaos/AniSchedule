@@ -1711,10 +1711,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1759417200
-        },
-        {
           "episode": 13,
           "airingAt": 1760022000
         },
@@ -1890,9 +1886,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162669-kCweQfkr6bIu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162669-kCweQfkr6bIu.jpg",
-      "color": "#e48635"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162669-FLYUTftoXgMh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162669-FLYUTftoXgMh.jpg",
+      "color": "#f1a150"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
@@ -1966,9 +1962,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-IXcik7NFdi3G.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162890-IXcik7NFdi3G.jpg",
-      "color": "#50bbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162890-vDRlo1KuRM6W.jpg",
+      "color": "#5dc9f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -2869,9 +2865,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-Lot4V9iMyPI7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177271-Lot4V9iMyPI7.jpg",
-      "color": "#c9e4f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177271-anyazmpWyX3m.jpg",
+      "color": "#e4a15d"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -4152,10 +4148,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759422480
-        },
-        {
           "episode": 2,
           "airingAt": 1760027280
         },
@@ -4200,8 +4192,7 @@
           "airingAt": 1766075280
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183384,
@@ -4253,21 +4244,17 @@
       "Romance",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-CEz1owTzcSwo.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183385-CEz1owTzcSwo.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183385-f1TgnttLckBT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183385-f1TgnttLckBT.jpg",
       "color": null
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759411800
-        },
         {
           "episode": 2,
           "airingAt": 1760016600
@@ -4317,8 +4304,7 @@
           "airingAt": 1766669400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183965,
@@ -4389,6 +4375,81 @@
         {
           "episode": 12,
           "airingAt": 1765902540
+        }
+      ]
+    }
+  },
+  {
+    "id": 184289,
+    "idMal": 60070,
+    "title": {
+      "romaji": "Kaijuu Sekai Seifuku",
+      "english": null,
+      "native": "かいじゅうせかいせいふく",
+      "userPreferred": "Kaijuu Sekai Seifuku"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
+      "color": "#5da1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 27,
+          "airingAt": 1759528800
+        },
+        {
+          "episode": 28,
+          "airingAt": 1760133600
+        },
+        {
+          "episode": 29,
+          "airingAt": 1760738400
+        },
+        {
+          "episode": 30,
+          "airingAt": 1761343200
+        },
+        {
+          "episode": 31,
+          "airingAt": 1761948000
+        },
+        {
+          "episode": 32,
+          "airingAt": 1762552800
+        },
+        {
+          "episode": 33,
+          "airingAt": 1763157600
+        },
+        {
+          "episode": 34,
+          "airingAt": 1763762400
+        },
+        {
+          "episode": 35,
+          "airingAt": 1764367200
+        },
+        {
+          "episode": 36,
+          "airingAt": 1764972000
+        },
+        {
+          "episode": 37,
+          "airingAt": 1765576800
+        },
+        {
+          "episode": 38,
+          "airingAt": 1766181600
         }
       ]
     }
@@ -4999,7 +5060,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185575-moQeN8f5xRBv.jpg",
@@ -5010,10 +5071,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759410000
-        },
         {
           "episode": 2,
           "airingAt": 1760014800
@@ -5059,8 +5116,7 @@
           "airingAt": 1766062800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185646,
@@ -5598,10 +5654,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1759419000
-        },
-        {
           "episode": 14,
           "airingAt": 1760023800
         },
@@ -5830,8 +5882,44 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 26,
-          "airingAt": 1759424280
+          "episode": 27,
+          "airingAt": 1760029080
+        },
+        {
+          "episode": 28,
+          "airingAt": 1760633880
+        },
+        {
+          "episode": 29,
+          "airingAt": 1761238680
+        },
+        {
+          "episode": 30,
+          "airingAt": 1761843480
+        },
+        {
+          "episode": 31,
+          "airingAt": 1762448280
+        },
+        {
+          "episode": 32,
+          "airingAt": 1763053080
+        },
+        {
+          "episode": 33,
+          "airingAt": 1763657880
+        },
+        {
+          "episode": 34,
+          "airingAt": 1764262680
+        },
+        {
+          "episode": 35,
+          "airingAt": 1764867480
+        },
+        {
+          "episode": 36,
+          "airingAt": 1765472280
         }
       ]
     }
@@ -5939,10 +6027,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759416960
-        },
-        {
           "episode": 2,
           "airingAt": 1760021760
         },
@@ -5987,42 +6071,7 @@
           "airingAt": 1766069760
         }
       ]
-    },
-    "unaired": true
-  },
-  {
-    "id": 186714,
-    "idMal": 59817,
-    "title": {
-      "romaji": "GIRLS BAND CRY: Seishun Kyousoukyoku",
-      "english": null,
-      "native": "ガールズバンドクライ 青春狂走曲",
-      "userPreferred": "GIRLS BAND CRY: Seishun Kyousoukyoku"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Music",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186714-tQVs0CUEoM6Y.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186714-tQVs0CUEoM6Y.jpg",
-      "color": "#e49350"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186714-J77L0veHIMWn.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759417200
-        }
-      ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186736,
@@ -6376,7 +6425,7 @@
       "native": "元祖！バンドリちゃん",
       "userPreferred": "GANSO! BanG Dream Chan"
     },
-    "format": "TV_SHORT",
+    "format": "ONA",
     "genres": [
       "Comedy",
       "Music"
@@ -7825,7 +7874,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg",
@@ -8244,10 +8293,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1759418760
-        },
         {
           "episode": 3,
           "airingAt": 1760023560
@@ -9624,10 +9669,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759420800
-        },
-        {
           "episode": 2,
           "airingAt": 1760025600
         },
@@ -9672,8 +9713,7 @@
           "airingAt": 1766073600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 198921,
@@ -9774,10 +9814,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759409640
-        },
-        {
           "episode": 2,
           "airingAt": 1760014440
         },
@@ -9826,8 +9862,7 @@
           "airingAt": 1766667240
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 199009,
@@ -9925,9 +9960,9 @@
     "duration": null,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-fg9cK44z196l.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199154-fg9cK44z196l.jpg",
-      "color": "#e4c9ae"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-uqZFZ49UJzuv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199154-uqZFZ49UJzuv.jpg",
+      "color": "#e4a15d"
     },
     "isAdult": false,
     "bannerImage": null,
