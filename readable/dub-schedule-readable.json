@@ -1881,7 +1881,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 186621,
@@ -1908,8 +1908,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-10-02T15:55:00Z"
+              "episode": 2,
+              "airingAt": "2025-10-09T15:55:00Z"
             }
           ]
         }
