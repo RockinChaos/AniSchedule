@@ -622,10 +622,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 624,
-          "airingAt": 1759443000
-        },
-        {
           "episode": 625,
           "airingAt": 1760047800
         },
@@ -720,6 +716,10 @@
         {
           "episode": 648,
           "airingAt": 1773958200
+        },
+        {
+          "episode": 649,
+          "airingAt": 1774563000
         }
       ]
     }
@@ -1336,10 +1336,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 281,
-          "airingAt": 1759444800
-        },
         {
           "episode": 282,
           "airingAt": 1759790400
@@ -4252,7 +4248,7 @@
       "color": null
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6015,7 +6011,7 @@
     "genres": [
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186621-jFeAgDQkQMUm.jpg",
@@ -7382,10 +7378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1759444200
-        },
-        {
           "episode": 19,
           "airingAt": 1760049000
         },
@@ -8009,7 +8001,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 2,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png",
@@ -9649,15 +9641,15 @@
     "idMal": 62144,
     "title": {
       "romaji": "Potion, Wagami wo Tasukeru",
-      "english": null,
+      "english": "I Saved Myself with a Potion!: Life in Another World",
       "native": "ポーション、わが身を助ける",
-      "userPreferred": "Potion, Wagami wo Tasukeru"
+      "userPreferred": "I Saved Myself with a Potion!: Life in Another World"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 13,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png",
@@ -9802,7 +9794,7 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "duration": 5,
+    "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198926-J5Ml6dqNGze9.png",
