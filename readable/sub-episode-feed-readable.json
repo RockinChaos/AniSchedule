@@ -11,17 +11,6 @@
     }
   },
   {
-    "id": 198117,
-    "idMal": 62378,
-    "format": "TV_SHORT",
-    "duration": 5,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2025-10-03T16:53:00Z",
-      "addedAt": "2025-10-03T16:53:16Z"
-    }
-  },
-  {
     "id": 169420,
     "idMal": 56693,
     "format": "TV",
@@ -84,6 +73,17 @@
       "aired": 1,
       "airedAt": "2025-10-03T14:00:00Z",
       "addedAt": "2025-10-03T14:00:21Z"
+    }
+  },
+  {
+    "id": 198117,
+    "idMal": 62378,
+    "format": "TV_SHORT",
+    "duration": 3,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-10-03T13:22:00Z",
+      "addedAt": "2025-10-03T16:53:16Z"
     }
   },
   {
@@ -189,7 +189,7 @@
     "id": 183291,
     "idMal": 60162,
     "format": "TV",
-    "duration": 25,
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2025-10-02T16:28:00Z",
