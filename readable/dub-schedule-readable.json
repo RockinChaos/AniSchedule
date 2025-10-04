@@ -1607,7 +1607,7 @@
           "native": "最後にひとつだけお願いしてもよろしいでしょうか",
           "userPreferred": "May I Ask for One Final Thing?"
         },
-        "format": "TV",
+        "format": "ONA",
         "genres": [
           "Action",
           "Comedy",
@@ -1615,7 +1615,7 @@
           "Fantasy",
           "Romance"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
