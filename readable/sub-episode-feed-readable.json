@@ -176,8 +176,19 @@
   {
     "id": 181447,
     "idMal": 59846,
-    "format": "TV",
-    "duration": 25,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-10-03T15:30:00Z",
+      "addedAt": "2025-10-04T12:46:02Z"
+    }
+  },
+  {
+    "id": 181447,
+    "idMal": 59846,
+    "format": "ONA",
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2025-10-03T15:00:00Z",

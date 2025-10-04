@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1178,
-          "airingAt": 1759568400
-        },
-        {
           "episode": 1179,
           "airingAt": 1760173200
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1202,
           "airingAt": 1774083600
+        },
+        {
+          "episode": 1203,
+          "airingAt": 1774688400
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1304,
-          "airingAt": 1759563000
-        },
         {
           "episode": 1305,
           "airingAt": 1760167800
@@ -385,6 +381,10 @@
         {
           "episode": 1328,
           "airingAt": 1774078200
+        },
+        {
+          "episode": 1329,
+          "airingAt": 1774683000
         }
       ]
     }
@@ -747,10 +747,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 883,
-          "airingAt": 1759564800
-        },
-        {
           "episode": 884,
           "airingAt": 1760169600
         },
@@ -845,6 +841,10 @@
         {
           "episode": 907,
           "airingAt": 1774080000
+        },
+        {
+          "episode": 908,
+          "airingAt": 1774684800
         }
       ]
     }
@@ -2819,10 +2819,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759581000
-        },
-        {
           "episode": 2,
           "airingAt": 1760185800
         },
@@ -2831,8 +2827,7 @@
           "airingAt": 1760790600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 177271,
@@ -3776,7 +3771,7 @@
       "native": "最後にひとつだけお願いしてもよろしいでしょうか",
       "userPreferred": "May I Ask for One Final Thing?"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Comedy",
@@ -3784,7 +3779,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
@@ -3796,48 +3791,48 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760108400
-        },
-        {
           "episode": 3,
-          "airingAt": 1760713200
+          "airingAt": 1760110200
         },
         {
           "episode": 4,
-          "airingAt": 1761318000
+          "airingAt": 1760715000
         },
         {
           "episode": 5,
-          "airingAt": 1761922800
+          "airingAt": 1761319800
         },
         {
           "episode": 6,
-          "airingAt": 1762527600
+          "airingAt": 1761924600
         },
         {
           "episode": 7,
-          "airingAt": 1763132400
+          "airingAt": 1762529400
         },
         {
           "episode": 8,
-          "airingAt": 1763737200
+          "airingAt": 1763134200
         },
         {
           "episode": 9,
-          "airingAt": 1764342000
+          "airingAt": 1763739000
         },
         {
           "episode": 10,
-          "airingAt": 1764946800
+          "airingAt": 1764343800
         },
         {
           "episode": 11,
-          "airingAt": 1765551600
+          "airingAt": 1764948600
         },
         {
           "episode": 12,
-          "airingAt": 1766156400
+          "airingAt": 1765553400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766158200
         }
       ]
     }
@@ -3997,10 +3992,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759566600
-        },
-        {
           "episode": 2,
           "airingAt": 1760171400
         },
@@ -4093,8 +4084,7 @@
           "airingAt": 1773477000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 183291,
@@ -6047,10 +6037,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759569900
-        },
-        {
           "episode": 2,
           "airingAt": 1760174700
         },
@@ -6131,8 +6117,7 @@
           "airingAt": 1771665900
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186794,
@@ -6824,10 +6809,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759579200
-        },
-        {
           "episode": 2,
           "airingAt": 1760184000
         },
@@ -6872,8 +6853,7 @@
           "airingAt": 1766232000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188034,
