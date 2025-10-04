@@ -1476,13 +1476,14 @@
     "delayedUntil": "0001-01-01T17:00:00Z",
     "episodeDate": "2025-10-04T17:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 210,
@@ -1513,8 +1514,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-10-04T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-10-11T17:00:00Z"
             }
           ]
         }
@@ -1590,6 +1591,8 @@
     "episodeDate": "2025-10-03T17:00:00Z",
     "episodeNumber": 2,
     "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1652,6 +1655,7 @@
     "delayedUntil": "0001-01-01T17:50:00Z",
     "episodeDate": "2025-10-03T17:50:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
