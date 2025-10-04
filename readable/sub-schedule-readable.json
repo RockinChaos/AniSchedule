@@ -158,103 +158,103 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1179,
+          "episode": 1178,
           "airingAt": 1760173200
         },
         {
-          "episode": 1180,
+          "episode": 1179,
           "airingAt": 1760778000
         },
         {
-          "episode": 1181,
+          "episode": 1180,
           "airingAt": 1761382800
         },
         {
-          "episode": 1182,
+          "episode": 1181,
           "airingAt": 1761987600
         },
         {
-          "episode": 1183,
+          "episode": 1182,
           "airingAt": 1762592400
         },
         {
-          "episode": 1184,
+          "episode": 1183,
           "airingAt": 1763197200
         },
         {
-          "episode": 1185,
+          "episode": 1184,
           "airingAt": 1763802000
         },
         {
-          "episode": 1186,
+          "episode": 1185,
           "airingAt": 1764406800
         },
         {
-          "episode": 1187,
+          "episode": 1186,
           "airingAt": 1765011600
         },
         {
-          "episode": 1188,
+          "episode": 1187,
           "airingAt": 1765616400
         },
         {
-          "episode": 1189,
+          "episode": 1188,
           "airingAt": 1766221200
         },
         {
-          "episode": 1190,
+          "episode": 1189,
           "airingAt": 1766826000
         },
         {
-          "episode": 1191,
+          "episode": 1190,
           "airingAt": 1767430800
         },
         {
-          "episode": 1192,
+          "episode": 1191,
           "airingAt": 1768035600
         },
         {
-          "episode": 1193,
+          "episode": 1192,
           "airingAt": 1768640400
         },
         {
-          "episode": 1194,
+          "episode": 1193,
           "airingAt": 1769245200
         },
         {
-          "episode": 1195,
+          "episode": 1194,
           "airingAt": 1769850000
         },
         {
-          "episode": 1196,
+          "episode": 1195,
           "airingAt": 1770454800
         },
         {
-          "episode": 1197,
+          "episode": 1196,
           "airingAt": 1771059600
         },
         {
-          "episode": 1198,
+          "episode": 1197,
           "airingAt": 1771664400
         },
         {
-          "episode": 1199,
+          "episode": 1198,
           "airingAt": 1772269200
         },
         {
-          "episode": 1200,
+          "episode": 1199,
           "airingAt": 1772874000
         },
         {
-          "episode": 1201,
+          "episode": 1200,
           "airingAt": 1773478800
         },
         {
-          "episode": 1202,
+          "episode": 1201,
           "airingAt": 1774083600
         },
         {
-          "episode": 1203,
+          "episode": 1202,
           "airingAt": 1774688400
         }
       ]
@@ -1100,10 +1100,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759595400
-        },
-        {
           "episode": 2,
           "airingAt": 1760200200
         },
@@ -1148,8 +1144,7 @@
           "airingAt": 1766248200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 137653,
@@ -1887,10 +1882,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759589100
-        },
-        {
           "episode": 2,
           "airingAt": 1760193900
         },
@@ -1935,8 +1926,7 @@
           "airingAt": 1766241900
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 162890,
@@ -2794,9 +2784,9 @@
     "id": 176298,
     "idMal": 58515,
     "title": {
-      "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
+      "romaji": "Kekkon Yubiwa Monogatari II",
       "english": "Tales of Wedding Rings Season 2",
-      "native": "結婚指輪物語 第2期",
+      "native": "結婚指輪物語Ⅱ",
       "userPreferred": "Tales of Wedding Rings Season 2"
     },
     "format": "TV",
@@ -2807,7 +2797,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
@@ -2825,6 +2815,46 @@
         {
           "episode": 3,
           "airingAt": 1760790600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761395400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762000200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762605000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763209800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763814600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764419400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765024200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765629000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766233800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766838600
         }
       ]
     }
@@ -3036,10 +3066,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759586400
-        },
-        {
           "episode": 2,
           "airingAt": 1760191200
         },
@@ -3084,8 +3110,7 @@
           "airingAt": 1766239200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 178025,
@@ -3389,38 +3414,6 @@
     }
   },
   {
-    "id": 179966,
-    "idMal": 59459,
-    "title": {
-      "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-      "english": "Secrets of the Silent Witch",
-      "native": "サイレント・ウィッチ 沈黙の魔女の隠しごと",
-      "userPreferred": "Secrets of the Silent Witch"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179966-g0EU7rVe2Og7.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179966-g0EU7rVe2Og7.jpg",
-      "color": "#e4c9ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179966-hf71VrF1zhPM.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1759590000
-        }
-      ]
-    }
-  },
-  {
     "id": 179992,
     "idMal": 59484,
     "title": {
@@ -3715,10 +3708,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1759584600
-        },
         {
           "episode": 3,
           "airingAt": 1760189400
@@ -5201,7 +5190,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185694-9QHeiSLvokWY.png",
@@ -5409,10 +5398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759593300
-        },
-        {
           "episode": 2,
           "airingAt": 1760198100
         },
@@ -5457,8 +5442,7 @@
           "airingAt": 1766246100
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185773,
@@ -5519,10 +5503,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759588200
-        },
-        {
           "episode": 2,
           "airingAt": 1760193000
         },
@@ -5567,8 +5547,7 @@
           "airingAt": 1766241000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185965,
@@ -5789,10 +5768,6 @@
         {
           "episode": 11,
           "airingAt": 1765720800
-        },
-        {
-          "episode": 12,
-          "airingAt": 1766325600
         }
       ]
     },
@@ -6301,10 +6276,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759591800
-        },
-        {
           "episode": 2,
           "airingAt": 1760196600
         },
@@ -6349,8 +6320,7 @@
           "airingAt": 1766244600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 187166,
@@ -6509,51 +6479,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1759766760
+          "airingAt": 1759680360
         },
         {
           "episode": 2,
-          "airingAt": 1760371560
+          "airingAt": 1760285160
         },
         {
           "episode": 3,
-          "airingAt": 1760976360
+          "airingAt": 1760889960
         },
         {
           "episode": 4,
-          "airingAt": 1761581160
+          "airingAt": 1761494760
         },
         {
           "episode": 5,
-          "airingAt": 1762185960
+          "airingAt": 1762099560
         },
         {
           "episode": 6,
-          "airingAt": 1762790760
+          "airingAt": 1762704360
         },
         {
           "episode": 7,
-          "airingAt": 1763395560
+          "airingAt": 1763309160
         },
         {
           "episode": 8,
-          "airingAt": 1764000360
+          "airingAt": 1763913960
         },
         {
           "episode": 9,
-          "airingAt": 1764605160
+          "airingAt": 1764518760
         },
         {
           "episode": 10,
-          "airingAt": 1765209960
+          "airingAt": 1765123560
         },
         {
           "episode": 11,
-          "airingAt": 1765814760
+          "airingAt": 1765728360
         },
         {
           "episode": 12,
-          "airingAt": 1766419560
+          "airingAt": 1766333160
         }
       ]
     },
@@ -6584,10 +6554,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759591800
-        },
         {
           "episode": 2,
           "airingAt": 1760196600
@@ -6633,8 +6599,7 @@
           "airingAt": 1766244600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 187663,
@@ -7049,10 +7014,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759588200
-        },
-        {
           "episode": 2,
           "airingAt": 1760193000
         },
@@ -7097,8 +7058,7 @@
           "airingAt": 1766241000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188522,
@@ -7409,10 +7369,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759590600
-        },
-        {
           "episode": 2,
           "airingAt": 1760195400
         },
@@ -7457,8 +7413,7 @@
           "airingAt": 1766243400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 191403,
