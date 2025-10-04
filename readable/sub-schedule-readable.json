@@ -1398,10 +1398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 187,
-          "airingAt": 1759530600
-        },
-        {
           "episode": 188,
           "airingAt": 1760135400
         },
@@ -1496,6 +1492,10 @@
         {
           "episode": 211,
           "airingAt": 1774045800
+        },
+        {
+          "episode": 212,
+          "airingAt": 1774650600
         }
       ]
     }
@@ -4378,10 +4378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1759528800
-        },
-        {
           "episode": 28,
           "airingAt": 1760133600
         },
@@ -7257,10 +7253,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1759538700
-        },
-        {
           "episode": 15,
           "airingAt": 1760143500
         },
@@ -7547,39 +7539,6 @@
         {
           "episode": 2,
           "airingAt": 1766674800
-        }
-      ]
-    }
-  },
-  {
-    "id": 191994,
-    "idMal": 54145,
-    "title": {
-      "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-      "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
-      "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
-      "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191994-hRBORUotkRjI.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191994-hRBORUotkRjI.jpg",
-      "color": "#ffbb43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1759532400
         }
       ]
     }
@@ -8116,10 +8075,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759536000
-        },
-        {
           "episode": 2,
           "airingAt": 1760140800
         },
@@ -8144,8 +8099,7 @@
           "airingAt": 1763164800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 194872,
@@ -8311,10 +8265,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759525200
-        },
-        {
           "episode": 2,
           "airingAt": 1760130000
         },
@@ -8359,17 +8309,16 @@
           "airingAt": 1766178000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 195240,
     "idMal": 61930,
     "title": {
       "romaji": "Uma Musume: Cinderella Gray Part 2",
-      "english": null,
+      "english": "Umamusume: Cinderella Gray 2nd Cour",
       "native": "ウマ娘 シンデレラグレイ 2クール",
-      "userPreferred": "Uma Musume: Cinderella Gray Part 2"
+      "userPreferred": "Umamusume: Cinderella Gray 2nd Cour"
     },
     "format": "TV",
     "genres": [
@@ -9425,10 +9374,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759525200
-        },
-        {
           "episode": 2,
           "airingAt": 1760130000
         },
@@ -9521,8 +9466,7 @@
           "airingAt": 1773435600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 198511,
