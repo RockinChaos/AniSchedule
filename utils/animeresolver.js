@@ -111,7 +111,7 @@ export default new class AnimeResolver {
   }
 
   async findAndCacheTitle(fileName) {
-    const parseObjs = await anitomyscript(fileName)
+    const parseObjs = await anitomyscript(this.cleanFileName(fileName))
     const TYPE_EXCLUSIONS = ['ED', 'ENDING', 'NCED', 'NCOP', 'OP', 'OPENING', 'PREVIEW', 'PV']
 
     /** @type {Record<string, import('anitomyscript').AnitomyResult>} */
@@ -125,6 +125,15 @@ export default new class AnimeResolver {
     await this.findAnimesByTitle(Object.values(uniq))
     return parseObjs
   }
+
+    cleanFileName(fileName) {
+        const cleanName = (name) => {
+            // Fix common naming issues
+            name = name.replace('1-2', '1/2').replace('1_2', '1/2').replace('½', '1/2') // Ranma 1/2 fix.
+            return name.replace(/\s+/g, ' ').trim()
+        }
+        return typeof fileName === 'string' ? cleanName(fileName) : fileName?.map(name => cleanName(name))
+    }
 
   // TODO: anidb aka true episodes need to be mapped to anilist episodes a bit better, shit like mushoku offsets caused by episode 0's in between seasons
   /**

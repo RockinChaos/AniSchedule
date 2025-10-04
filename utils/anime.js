@@ -1,4 +1,5 @@
 import _anitomyscript from 'anitomyscript'
+import AnimeResolver from './animeresolver.js'
 import Fuse from 'fuse.js'
 import path from 'path'
 import fs from 'fs'
@@ -48,7 +49,7 @@ function setNestedValue(obj, path, value) {
 
 function cleanText(text) {
     if (typeof text !== 'string') return ''
-    return text.replace(/['’]/gu, '').replace(/[^\p{L}\p{N}\p{Zs}\p{Pd}]/gu, ' ').replace(/\s+/g, ' ').trim()
+    return AnimeResolver.cleanFileName(text).replace(/['’]/gu, '').replace(/[^\p{L}\p{N}\p{Zs}\p{Pd}]/gu, ' ').replace(/\s+/g, ' ').trim()
 }
 
 /**
@@ -98,7 +99,7 @@ function getByPath(obj, path) {
 export function exactMatch(nest, title, keys) {
     return keys.some(k => {
         const val = getByPath(nest, k)
-        return val && val.toLowerCase() === title?.toLowerCase()
+        return val && AnimeResolver.cleanFileName(val.toLowerCase()) === AnimeResolver.cleanFileName(title?.toLowerCase())
     })
 }
 
