@@ -491,10 +491,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2800,
-          "airingAt": 1759656600
-        },
-        {
           "episode": 2801,
           "airingAt": 1760261400
         },
@@ -589,6 +585,10 @@
         {
           "episode": 2824,
           "airingAt": 1774171800
+        },
+        {
+          "episode": 2825,
+          "airingAt": 1774776600
         }
       ]
     }
@@ -875,10 +875,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 334,
-          "airingAt": 1759654800
-        },
         {
           "episode": 335,
           "airingAt": 1760259600
@@ -2314,10 +2310,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759651200
-        },
-        {
           "episode": 2,
           "airingAt": 1760256000
         },
@@ -2398,8 +2390,7 @@
           "airingAt": 1771747200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 170577,
@@ -3608,42 +3599,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 180367,
-    "idMal": 59597,
-    "title": {
-      "romaji": "Witch Watch",
-      "english": "WITCH WATCH",
-      "native": "ウィッチウォッチ",
-      "userPreferred": "WITCH WATCH"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180367-GlRuB2lG7Kaa.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180367-GlRuB2lG7Kaa.jpg",
-      "color": "#e4e4ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180367-Kpxveeh3Q3cm.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1759651200
-        }
-      ]
-    }
   },
   {
     "id": 180436,
@@ -8291,10 +8246,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759649400
-        },
-        {
           "episode": 2,
           "airingAt": 1760254200
         },
@@ -8343,8 +8294,7 @@
           "airingAt": 1766907000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 195360,
@@ -8676,10 +8626,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1759663800
-        },
-        {
           "episode": 15,
           "airingAt": 1760268600
         },
@@ -8774,6 +8720,10 @@
         {
           "episode": 38,
           "airingAt": 1774179000
+        },
+        {
+          "episode": 39,
+          "airingAt": 1774783800
         }
       ]
     }
@@ -9973,5 +9923,77 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 199794,
+    "idMal": 62643,
+    "title": {
+      "romaji": "Anila to Cocora",
+      "english": null,
+      "native": "アニラとココラ",
+      "userPreferred": "Anila to Cocora"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199794-DjnzEzfFG559.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1760030100
+        },
+        {
+          "episode": 3,
+          "airingAt": 1760634900
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761239700
+        },
+        {
+          "episode": 5,
+          "airingAt": 1761844500
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762449300
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763054100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1763658900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764263700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1764868500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765473300
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766078100
+        }
+      ]
+    }
   }
 ]
