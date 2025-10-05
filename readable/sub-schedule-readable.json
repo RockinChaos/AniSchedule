@@ -1924,6 +1924,46 @@
         {
           "episode": 12,
           "airingAt": 1766241900
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766846700
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767451500
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768056300
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768661100
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769265900
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769870700
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770475500
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771080300
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771685100
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772289900
         }
       ]
     }
@@ -3108,6 +3148,10 @@
         {
           "episode": 12,
           "airingAt": 1766239200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766844000
         }
       ]
     }
@@ -3215,10 +3259,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1759622400
-        },
         {
           "episode": 26,
           "airingAt": 1760227200
@@ -4502,10 +4542,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1759624200
-        },
-        {
           "episode": 28,
           "airingAt": 1760229000
         },
@@ -4841,10 +4877,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 35,
-          "airingAt": 1759620600
-        },
-        {
           "episode": 36,
           "airingAt": 1760225400
         },
@@ -5078,10 +5110,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1759620480
-        },
-        {
           "episode": 28,
           "airingAt": 1760225280
         },
@@ -5273,10 +5301,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1759616160
-        },
-        {
           "episode": 28,
           "airingAt": 1760220960
         },
@@ -5394,7 +5418,7 @@
       "color": "#d6351a"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185731-LUMIdwsqtTrX.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6677,7 +6701,7 @@
   },
   {
     "id": 187860,
-    "idMal": null,
+    "idMal": 61184,
     "title": {
       "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
       "english": null,
@@ -6936,10 +6960,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759622400
-        },
-        {
           "episode": 2,
           "airingAt": 1760227200
         },
@@ -6984,8 +7004,7 @@
           "airingAt": 1766275200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 188487,
@@ -8930,10 +8949,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759624200
-        },
-        {
           "episode": 2,
           "airingAt": 1760229000
         },
@@ -8978,8 +8993,7 @@
           "airingAt": 1766277000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 196722,
