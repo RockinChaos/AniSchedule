@@ -1985,10 +1985,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759762800
-        },
-        {
           "episode": 2,
           "airingAt": 1760367600
         },
@@ -2033,8 +2029,7 @@
           "airingAt": 1766415600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 165530,
@@ -2489,10 +2484,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759759200
-        },
-        {
           "episode": 2,
           "airingAt": 1760364000
         },
@@ -2537,8 +2528,7 @@
           "airingAt": 1766412000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 173523,
@@ -2608,6 +2598,10 @@
         {
           "episode": 12,
           "airingAt": 1766406600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1767011400
         }
       ]
     }
@@ -6067,10 +6061,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759768200
-        },
-        {
           "episode": 2,
           "airingAt": 1760373000
         },
@@ -6115,8 +6105,7 @@
           "airingAt": 1766421000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186914,
@@ -6569,10 +6558,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1759764600
-        },
         {
           "episode": 3,
           "airingAt": 1760369400
@@ -7364,7 +7349,7 @@
     "genres": [
       "Music"
     ],
-    "duration": null,
+    "duration": 75,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
