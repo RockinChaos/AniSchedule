@@ -1320,10 +1320,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 282,
-          "airingAt": 1759790400
-        },
-        {
           "episode": 283,
           "airingAt": 1760049600
         },
@@ -2275,10 +2271,10 @@
     "id": 170018,
     "idMal": 56877,
     "title": {
-      "romaji": "Ao no Orchestra 2nd Season",
+      "romaji": "Ao no Orchestra Season 2",
       "english": null,
-      "native": "青のオーケストラ 第2期",
-      "userPreferred": "Ao no Orchestra 2nd Season"
+      "native": "青のオーケストラ Season2",
+      "userPreferred": "Ao no Orchestra Season 2"
     },
     "format": "TV",
     "genres": [
@@ -5486,10 +5482,6 @@
         {
           "episode": 11,
           "airingAt": 1765636200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1766241000
         }
       ]
     }
