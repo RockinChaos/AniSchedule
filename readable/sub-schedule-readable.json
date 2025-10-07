@@ -3512,10 +3512,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759827600
-        },
-        {
           "episode": 2,
           "airingAt": 1760450400
         },
@@ -3560,8 +3556,7 @@
           "airingAt": 1766498400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180436,
@@ -9535,17 +9530,17 @@
       "native": "2200年ねこの国ニッポン",
       "userPreferred": "2200-nen Neko no Kuni Nippon"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Comedy",
       "Sci-Fi",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199009-ugf62zAk3ab9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199009-ugf62zAk3ab9.png",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199009-MxwkHEavznVW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199009-MxwkHEavznVW.jpg",
       "color": "#e4436b"
     },
     "isAdult": false,
@@ -9971,5 +9966,130 @@
         }
       ]
     }
+  },
+  {
+    "id": 199931,
+    "idMal": null,
+    "title": {
+      "romaji": "Dokodemo Makibao: World Tour",
+      "english": null,
+      "native": "どこでもマキバオー ～ワールドツアー～",
+      "userPreferred": "Dokodemo Makibao: World Tour"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199931-ieVtfDH3p6mR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199931-ieVtfDH3p6mR.png",
+      "color": "#f1c928"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1759874400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1760479200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761084000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761688800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762293600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762898400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763503200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764108000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764712800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765317600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765922400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766527200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1767132000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767736800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768341600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768946400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769551200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1770156000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770760800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771365600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771970400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772575200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1773180000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773784800
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
