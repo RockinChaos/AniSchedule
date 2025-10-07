@@ -63,9 +63,9 @@
     "romaji": "3-nen Z-gumi Ginpachi-sensei",
     "english": "GINTAMA - Mr. Ginpachi's Zany Class",
     "native": "3年Z組銀八先生",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2025-10-07T15:00:00Z",
+    "delayedFrom": "0001-01-01T02:00:00Z",
+    "delayedUntil": "0001-01-01T02:00:00Z",
+    "episodeDate": "2025-10-07T02:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "mediaTypes": [
@@ -74,7 +74,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 162890,
@@ -101,8 +101,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-10-07T15:00:00Z"
+              "episode": 2,
+              "airingAt": "2025-10-14T02:00:00Z"
             }
           ]
         }
@@ -786,6 +786,463 @@
     },
     "verified": true,
     "addedAt": "2025-07-20T23:40:40Z"
+  },
+  {
+    "title": "Gintama",
+    "route": "gintama",
+    "native": "銀魂",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2025-10-06T13:00:00Z",
+    "episodeNumber": 150,
+    "subtractedEpisodeNumber": 50,
+    "episodes": 201,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 918,
+        "idMal": 918,
+        "title": {
+          "romaji": "Gintama",
+          "english": "Gintama",
+          "native": "銀魂",
+          "userPreferred": "Gintama"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "duration": 25,
+        "seasonYear": 2006,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx918-iOaeBVUn4uK7.jpg",
+          "color": "#f1865d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/918-bljqHE1PFArH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 50,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 51,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 52,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 53,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 54,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 55,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 56,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 57,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 58,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 59,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 60,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 61,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 62,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 63,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 64,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 65,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 66,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 67,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 68,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 69,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 70,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 71,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 72,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 73,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 74,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 75,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 76,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 77,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 78,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 79,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 80,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 81,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 82,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 83,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 84,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 85,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 86,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 87,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 88,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 89,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 90,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 91,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 92,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 93,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 94,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 95,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 96,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 97,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 98,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 99,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 100,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 101,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 102,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 103,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 104,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 105,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 106,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 107,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 108,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 109,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 110,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 111,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 112,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 113,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 114,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 115,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 116,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 117,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 118,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 119,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 120,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 121,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 122,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 123,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 124,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 125,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 126,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 127,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 128,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 129,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 130,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 131,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 132,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 133,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 134,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 135,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 136,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 137,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 138,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 139,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 140,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 141,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 142,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 143,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 144,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 145,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 146,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 147,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 148,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 149,
+              "airingAt": "2025-10-06T13:00:00Z"
+            },
+            {
+              "episode": 150,
+              "airingAt": "2025-10-06T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-07T02:24:19Z"
   },
   {
     "title": "Guimi Zhi Zhu",
@@ -1745,6 +2202,61 @@
     },
     "verified": true,
     "addedAt": "2025-07-23T20:52:14Z"
+  },
+  {
+    "title": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
+    "route": "tondemo-skill-de-isekai-hourou-meshi-2nd-season",
+    "romaji": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
+    "english": "Campfire Cooking in Another World with my Absurd Skill 2nd Season",
+    "native": "とんでもスキルで異世界放浪メシ 第2期",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2025-10-07T15:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 170577,
+        "idMal": 57025,
+        "title": {
+          "romaji": "Tondemo Skill de Isekai Hourou Meshi 2",
+          "english": "Campfire Cooking in Another World with my Absurd Skill Season 2",
+          "native": "とんでもスキルで異世界放浪メシ2",
+          "userPreferred": "Campfire Cooking in Another World with my Absurd Skill Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170577-ocYSFAcry7ty.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170577-ocYSFAcry7ty.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-07T15:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-07T15:30:00Z"
   },
   {
     "title": "Tougen Anki",
