@@ -1969,7 +1969,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
@@ -2281,7 +2281,7 @@
       "Drama",
       "Music"
     ],
-    "duration": 24,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170018-1PqdLX68YayA.jpg",
@@ -2390,7 +2390,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170577-ocYSFAcry7ty.jpg",
@@ -2401,10 +2401,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759849200
-        },
         {
           "episode": 2,
           "airingAt": 1760454000
@@ -2450,8 +2446,7 @@
           "airingAt": 1766502000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 170936,
@@ -2468,7 +2463,7 @@
       "Drama",
       "Romance"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
@@ -2540,7 +2535,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png",
@@ -2616,7 +2611,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173692-shp7PGRQyCQl.jpg",
@@ -3428,7 +3423,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179992-tu21efjGADCO.png",
@@ -3554,6 +3549,10 @@
         {
           "episode": 12,
           "airingAt": 1766498400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1767085200
         }
       ]
     }
@@ -4233,10 +4232,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1759854540
-        },
         {
           "episode": 3,
           "airingAt": 1760459340
@@ -5646,7 +5641,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186190-Ru77wfF8I61X.jpg",
@@ -5763,6 +5758,38 @@
         {
           "episode": 36,
           "airingAt": 1765472280
+        }
+      ]
+    }
+  },
+  {
+    "id": 186495,
+    "idMal": null,
+    "title": {
+      "romaji": "MILGRAM Third Season",
+      "english": "MILGRAM The Third Trial",
+      "native": "ミルグラム 第三審",
+      "userPreferred": "MILGRAM The Third Trial"
+    },
+    "format": "MUSIC",
+    "genres": [
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": 3,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186495-D8i7Ru1kCxwL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186495-D8i7Ru1kCxwL.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186495-qQn7yJEHtztj.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1761058800
         }
       ]
     }
@@ -6036,7 +6063,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186794-Ns8xWNdMdOxq.jpg",
@@ -6120,10 +6147,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759856760
-        },
-        {
           "episode": 2,
           "airingAt": 1760461140
         },
@@ -6168,8 +6191,7 @@
           "airingAt": 1766509140
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186920,
@@ -6837,7 +6859,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
@@ -8789,7 +8811,7 @@
       "Action",
       "Music"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196553-n0cZ0oOOOkYF.jpg",
@@ -9049,39 +9071,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 198312,
-    "idMal": 62428,
-    "title": {
-      "romaji": "Heika Watashi wo Wasurete Kudasai",
-      "english": null,
-      "native": "陛下わたしを忘れてください",
-      "userPreferred": "Heika Watashi wo Wasurete Kudasai"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 5,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198312-7FNrHGI29mYt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198312-7FNrHGI29mYt.jpg",
-      "color": "#f1e45d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1759841700
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 198344,
@@ -9548,47 +9537,47 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
+          "episode": 3,
           "airingAt": 1760418000
         },
         {
-          "episode": 3,
+          "episode": 4,
           "airingAt": 1761022800
         },
         {
-          "episode": 4,
+          "episode": 5,
           "airingAt": 1761627600
         },
         {
-          "episode": 5,
+          "episode": 6,
           "airingAt": 1762232400
         },
         {
-          "episode": 6,
+          "episode": 7,
           "airingAt": 1762837200
         },
         {
-          "episode": 7,
+          "episode": 8,
           "airingAt": 1763442000
         },
         {
-          "episode": 8,
+          "episode": 9,
           "airingAt": 1764046800
         },
         {
-          "episode": 9,
+          "episode": 10,
           "airingAt": 1764651600
         },
         {
-          "episode": 10,
+          "episode": 11,
           "airingAt": 1765256400
         },
         {
-          "episode": 11,
+          "episode": 12,
           "airingAt": 1765861200
         },
         {
-          "episode": 12,
+          "episode": 13,
           "airingAt": 1766466000
         }
       ]
@@ -9969,7 +9958,7 @@
   },
   {
     "id": 199931,
-    "idMal": null,
+    "idMal": 62662,
     "title": {
       "romaji": "Dokodemo Makibao: World Tour",
       "english": null,
