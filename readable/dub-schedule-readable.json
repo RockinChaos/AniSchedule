@@ -679,8 +679,9 @@
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
-    "delayedFrom": "2025-07-20T15:00:00Z",
-    "delayedUntil": "2025-07-27T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-10-12T15:00:00Z",
+    "delayedUntil": "2025-10-26T15:00:00Z",
     "episodeDate": "2025-10-12T15:00:00Z",
     "episodeNumber": 14,
     "episodes": 24,
@@ -721,7 +722,7 @@
           "nodes": [
             {
               "episode": 14,
-              "airingAt": "2025-10-12T15:00:00Z"
+              "airingAt": "2025-10-26T15:00:00Z"
             }
           ]
         }
