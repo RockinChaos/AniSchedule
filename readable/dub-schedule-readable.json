@@ -1246,6 +1246,61 @@
     "addedAt": "2025-10-07T02:24:19Z"
   },
   {
+    "title": "Guilty Hole",
+    "route": "guilty-hole",
+    "romaji": "Guilty Hole",
+    "english": "Guilty Hole ～ Room of Guilty Pleasure",
+    "native": "ギルティホール",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-10-12T16:00:00Z",
+    "episodeNumber": 2,
+    "episodes": 8,
+    "lengthMin": 7,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182531,
+        "idMal": 62379,
+        "title": {
+          "romaji": "Guilty Hole",
+          "english": "Guilty Hole ～ Room of Guilty Pleasure",
+          "native": "ギルティホール",
+          "userPreferred": "Guilty Hole ～ Room of Guilty Pleasure"
+        },
+        "format": "ONA",
+        "genres": [
+          "Hentai"
+        ],
+        "duration": 7,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182531-u1aOKnUuC9dH.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182531-u1aOKnUuC9dH.png",
+          "color": "#d66bae"
+        },
+        "isAdult": true,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-12T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-07T21:39:20Z"
+  },
+  {
     "title": "Guimi Zhi Zhu",
     "route": "guimi-zhi-zhu",
     "romaji": "Guimi Zhi Zhu",
