@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "title": "Guilty Hole",
+    "route": "guilty-hole",
+    "romaji": "Guilty Hole",
+    "english": "Guilty Hole ～ Room of Guilty Pleasure",
+    "native": "ギルティホール",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Ongoing",
+    "episodeDate": "2025-10-05T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 8,
+    "lengthMin": 7,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "airingStatus": "unaired"
+  }
+]
