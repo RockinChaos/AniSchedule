@@ -2225,10 +2225,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1759928400
-        },
-        {
           "episode": 4,
           "airingAt": 1760533200
         },
@@ -2727,10 +2723,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759935600
-        },
-        {
           "episode": 2,
           "airingAt": 1760540400
         },
@@ -2775,8 +2767,7 @@
           "airingAt": 1766588400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 176298,
@@ -2884,10 +2875,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1759935600
-        },
         {
           "episode": 3,
           "airingAt": 1760540400
@@ -3583,10 +3570,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1759934700
-        },
-        {
           "episode": 2,
           "airingAt": 1760539500
         },
@@ -3631,8 +3614,7 @@
           "airingAt": 1766587500
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 180523,
@@ -7656,10 +7638,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1759938360
-        },
-        {
           "episode": 3,
           "airingAt": 1760543160
         },
@@ -9970,12 +9948,12 @@
       "Comedy",
       "Sports"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199931-ieVtfDH3p6mR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199931-ieVtfDH3p6mR.png",
-      "color": "#f1c928"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199931-EhQ6yMCbEvik.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199931-EhQ6yMCbEvik.png",
+      "color": "#fff100"
     },
     "isAdult": false,
     "bannerImage": null,
