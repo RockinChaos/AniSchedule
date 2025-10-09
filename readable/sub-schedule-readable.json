@@ -1484,38 +1484,6 @@
     }
   },
   {
-    "id": 144779,
-    "idMal": 50855,
-    "title": {
-      "romaji": "Yamato yo Towa ni: REBEL3199",
-      "english": "Star Blazers: Space Battleship Yamato 3199",
-      "native": "ヤマトよ永遠に REBEL3199",
-      "userPreferred": "Star Blazers: Space Battleship Yamato 3199"
-    },
-    "format": "OVA",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144779-WJ8aJbYk3o5t.png",
-      "color": "#4386f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1760022000
-        }
-      ]
-    }
-  },
-  {
     "id": 147622,
     "idMal": 54629,
     "title": {
@@ -1685,10 +1653,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157692-bnduywLJZIxk.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1760022000
-        },
         {
           "episode": 14,
           "airingAt": 1760626800
@@ -2992,38 +2956,6 @@
     }
   },
   {
-    "id": 177686,
-    "idMal": 58915,
-    "title": {
-      "romaji": "Housenka",
-      "english": "The Last Blossom",
-      "native": "ホウセンカ",
-      "userPreferred": "The Last Blossom"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama"
-    ],
-    "duration": 90,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177686-9CwCvp3mkDI3.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177686-9CwCvp3mkDI3.jpg",
-      "color": "#f1ff43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1760022000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 177937,
     "idMal": 59027,
     "title": {
@@ -3323,6 +3255,89 @@
     }
   },
   {
+    "id": 179062,
+    "idMal": 59229,
+    "title": {
+      "romaji": "Enen no Shouboutai: San no Shou Part 2",
+      "english": "Fire Force Season 3 Part 2",
+      "native": "炎炎ノ消防隊 参ノ章 第2クール",
+      "userPreferred": "Fire Force Season 3 Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
+      "color": "#febb28"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767977580
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768582380
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769187180
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769791980
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770396780
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771001580
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771606380
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772211180
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772815980
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773420780
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774025580
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774630380
+        },
+        {
+          "episode": 13,
+          "airingAt": 1775235180
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 179302,
     "idMal": 59267,
     "title": {
@@ -3558,7 +3573,7 @@
       "Drama",
       "Sports"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-KbHBZdUqLV1Q.png",
@@ -3765,9 +3780,9 @@
     "idMal": 59971,
     "title": {
       "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-      "english": null,
+      "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
       "native": "劇場版 転生したらスライムだった件 蒼海の涙編",
-      "userPreferred": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen"
+      "userPreferred": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
     },
     "format": "MOVIE",
     "genres": [
@@ -4030,10 +4045,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760027280
-        },
-        {
           "episode": 3,
           "airingAt": 1760632080
         },
@@ -4137,10 +4148,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760016600
-        },
         {
           "episode": 3,
           "airingAt": 1760621400
@@ -4928,10 +4935,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760014800
-        },
-        {
           "episode": 3,
           "airingAt": 1760619600
         },
@@ -5483,10 +5486,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1760023800
-        },
-        {
           "episode": 15,
           "airingAt": 1760628600
         },
@@ -5702,10 +5701,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1760029080
-        },
-        {
           "episode": 28,
           "airingAt": 1760633880
         },
@@ -5878,10 +5873,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760021760
-        },
         {
           "episode": 3,
           "airingAt": 1760626560
@@ -6274,10 +6265,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760011200
-        },
-        {
           "episode": 3,
           "airingAt": 1760616000
         },
@@ -6372,6 +6359,10 @@
         {
           "episode": 26,
           "airingAt": 1774526400
+        },
+        {
+          "episode": 27,
+          "airingAt": 1775131200
         }
       ]
     }
@@ -7328,38 +7319,6 @@
     }
   },
   {
-    "id": 191403,
-    "idMal": 61558,
-    "title": {
-      "romaji": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
-      "english": null,
-      "native": "アイカツ！×プリパラ THE MOVIE -出会いのキセキ-",
-      "userPreferred": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Music"
-    ],
-    "duration": 75,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191403-BHyNZKR3uJHX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191403-BHyNZKR3uJHX.jpg",
-      "color": "#43c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191403-09tmfyVfaZqQ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1760022000
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 191451,
     "idMal": null,
     "title": {
@@ -7448,37 +7407,6 @@
         {
           "episode": 2,
           "airingAt": 1761836400
-        }
-      ]
-    }
-  },
-  {
-    "id": 193348,
-    "idMal": 61788,
-    "title": {
-      "romaji": "Netorareta Bakunyuu Tsuma-tachi",
-      "english": null,
-      "native": "寝取られた爆乳妻たち",
-      "userPreferred": "Netorareta Bakunyuu Tsuma-tachi"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193348-uZaAeYZeAQHW.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193348-uZaAeYZeAQHW.png",
-      "color": "#e4ae93"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760022000
         }
       ]
     }
@@ -7736,10 +7664,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760007600
-        },
         {
           "episode": 3,
           "airingAt": 1760612400
@@ -8004,10 +7928,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760023560
-        },
         {
           "episode": 4,
           "airingAt": 1760628360
@@ -8356,44 +8276,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 196115,
-    "idMal": null,
-    "title": {
-      "romaji": "Golden Kamuy: Sapporo Beer Koujou-hen",
-      "english": null,
-      "native": "ゴールデンカムイ 札幌ビール工場編",
-      "userPreferred": "Golden Kamuy: Sapporo Beer Koujou-hen"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196115-LSRdtIQyDRqX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b196115-LSRdtIQyDRqX.jpg",
-      "color": "#e4bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1760022000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1761836400
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 196116,
@@ -9047,6 +8929,78 @@
     }
   },
   {
+    "id": 198312,
+    "idMal": 62428,
+    "title": {
+      "romaji": "Heika Watashi wo Wasurete Kudasai",
+      "english": null,
+      "native": "陛下わたしを忘れてください",
+      "userPreferred": "Heika Watashi wo Wasurete Kudasai"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 5,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198312-7FNrHGI29mYt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198312-7FNrHGI29mYt.jpg",
+      "color": "#f1e45d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1760446560
+        },
+        {
+          "episode": 3,
+          "airingAt": 1761051360
+        },
+        {
+          "episode": 4,
+          "airingAt": 1761656160
+        },
+        {
+          "episode": 5,
+          "airingAt": 1762260960
+        },
+        {
+          "episode": 6,
+          "airingAt": 1762865760
+        },
+        {
+          "episode": 7,
+          "airingAt": 1763470560
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764075360
+        },
+        {
+          "episode": 9,
+          "airingAt": 1764680160
+        },
+        {
+          "episode": 10,
+          "airingAt": 1765284960
+        },
+        {
+          "episode": 11,
+          "airingAt": 1765889760
+        },
+        {
+          "episode": 12,
+          "airingAt": 1766494560
+        }
+      ]
+    }
+  },
+  {
     "id": 198344,
     "idMal": null,
     "title": {
@@ -9293,10 +9247,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760025600
-        },
-        {
           "episode": 3,
           "airingAt": 1760630400
         },
@@ -9364,10 +9314,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760005320
-        },
         {
           "episode": 3,
           "airingAt": 1760610120
@@ -9437,10 +9383,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760014440
-        },
         {
           "episode": 3,
           "airingAt": 1760619240
@@ -9685,10 +9627,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1760002200
-        },
-        {
           "episode": 2,
           "airingAt": 1760607000
         },
@@ -9783,10 +9721,13 @@
         {
           "episode": 25,
           "airingAt": 1774517400
+        },
+        {
+          "episode": 26,
+          "airingAt": 1775122200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 199794,
@@ -9813,10 +9754,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760030100
-        },
         {
           "episode": 3,
           "airingAt": 1760634900
