@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1719,
-          "airingAt": 1760061300
-        },
-        {
           "episode": 1720,
           "airingAt": 1760666100
         },
@@ -618,10 +614,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 625,
-          "airingAt": 1760047800
-        },
-        {
           "episode": 626,
           "airingAt": 1760652600
         },
@@ -716,6 +708,10 @@
         {
           "episode": 649,
           "airingAt": 1774563000
+        },
+        {
+          "episode": 650,
+          "airingAt": 1775167800
         }
       ]
     }
@@ -848,6 +844,41 @@
         }
       ]
     }
+  },
+  {
+    "id": 113971,
+    "idMal": 38716,
+    "title": {
+      "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+      "english": null,
+      "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+      "userPreferred": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113971-Uhy5j0QTiO2K.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-Uhy5j0QTiO2K.jpg",
+      "color": "#c9f1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1769698800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 118123,
@@ -1319,10 +1350,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 283,
-          "airingAt": 1760049600
-        },
         {
           "episode": 284,
           "airingAt": 1760395200
@@ -2675,7 +2702,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg",
@@ -3573,7 +3600,7 @@
       "Drama",
       "Sports"
     ],
-    "duration": 24,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-KbHBZdUqLV1Q.png",
@@ -6108,7 +6135,7 @@
       "Action",
       "Drama"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186914-8fVK9eu1ZOKa.jpg",
@@ -7166,10 +7193,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1760049000
-        },
         {
           "episode": 20,
           "airingAt": 1760653800
@@ -8786,6 +8809,40 @@
         {
           "episode": 1,
           "airingAt": 1773327600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 197474,
+    "idMal": 62277,
+    "title": {
+      "romaji": "Gintama Movie 3: Yoshiwara Daienjou",
+      "english": "Gintama Movie 3: Yoshiwara in Flames",
+      "native": "新劇場版 銀魂 -吉原大炎上-",
+      "userPreferred": "Gintama Movie 3: Yoshiwara in Flames"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-JjnoYKwhmqF5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197474-JjnoYKwhmqF5.jpg",
+      "color": "#fe9328"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197474-dcJmLSLc3g10.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1770908400
         }
       ]
     },
