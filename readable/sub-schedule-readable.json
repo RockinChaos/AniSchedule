@@ -998,10 +998,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 178,
-          "airingAt": 1760089200
-        },
-        {
           "episode": 179,
           "airingAt": 1760694000
         },
@@ -1096,6 +1092,10 @@
         {
           "episode": 202,
           "airingAt": 1774604400
+        },
+        {
+          "episode": 203,
+          "airingAt": 1775209200
         }
       ]
     }
@@ -1753,10 +1753,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 112,
-          "airingAt": 1760090100
-        },
         {
           "episode": 113,
           "airingAt": 1760694900
@@ -4653,10 +4649,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184718-BvX97zaGTgOT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760079600
-        },
         {
           "episode": 4,
           "airingAt": 1760684400
@@ -8939,10 +8931,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760095800
-        },
-        {
           "episode": 3,
           "airingAt": 1760700600
         },
@@ -9660,7 +9648,7 @@
   },
   {
     "id": 199635,
-    "idMal": null,
+    "idMal": 62676,
     "title": {
       "romaji": "PetitCure: Precure Fairies Season 2",
       "english": null,
