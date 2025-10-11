@@ -307,23 +307,23 @@
     }
   },
   {
+    "id": 157692,
+    "idMal": 59662,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 15,
+      "airedAt": "2025-10-09T15:00:00Z",
+      "addedAt": "2025-10-11T01:52:48Z"
+    }
+  },
+  {
     "id": 144779,
     "idMal": 50855,
     "format": "OVA",
     "duration": 24,
     "episode": {
       "aired": 11,
-      "airedAt": "2025-10-09T15:00:00Z",
-      "addedAt": "2025-10-09T15:00:28Z"
-    }
-  },
-  {
-    "id": 157692,
-    "idMal": 59662,
-    "format": "ONA",
-    "duration": 24,
-    "episode": {
-      "aired": 13,
       "airedAt": "2025-10-09T15:00:00Z",
       "addedAt": "2025-10-09T15:00:28Z"
     }
@@ -1441,9 +1441,9 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 12,
+      "aired": 14,
       "airedAt": "2025-10-02T15:00:00Z",
-      "addedAt": "2025-10-02T15:00:22Z"
+      "addedAt": "2025-10-11T01:52:48Z"
     }
   },
   {
@@ -2310,9 +2310,9 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 11,
+      "aired": 13,
       "airedAt": "2025-09-25T15:00:00Z",
-      "addedAt": "2025-09-29T02:00:12Z"
+      "addedAt": "2025-10-09T15:00:28Z"
     }
   },
   {
@@ -3453,9 +3453,9 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 10,
+      "aired": 12,
       "airedAt": "2025-09-18T15:00:00Z",
-      "addedAt": "2025-09-29T02:00:12Z"
+      "addedAt": "2025-10-02T15:00:22Z"
     }
   },
   {
@@ -4629,7 +4629,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 9,
+      "aired": 11,
       "airedAt": "2025-09-11T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -5816,7 +5816,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 8,
+      "aired": 10,
       "airedAt": "2025-09-04T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -7035,7 +7035,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 7,
+      "aired": 9,
       "airedAt": "2025-08-28T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -8243,7 +8243,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 6,
+      "aired": 8,
       "airedAt": "2025-08-21T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -9462,7 +9462,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 5,
+      "aired": 7,
       "airedAt": "2025-08-14T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -10716,7 +10716,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 4,
+      "aired": 6,
       "airedAt": "2025-08-07T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -11968,7 +11968,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 3,
+      "aired": 5,
       "airedAt": "2025-07-31T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -13218,7 +13218,7 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
-      "aired": 2,
+      "aired": 4,
       "airedAt": "2025-07-24T15:00:00Z",
       "addedAt": "2025-09-29T02:00:12Z"
     }
@@ -14593,6 +14593,28 @@
       "aired": 3,
       "airedAt": "2025-07-17T15:26:00Z",
       "addedAt": "2025-07-17T15:26:21Z"
+    }
+  },
+  {
+    "id": 157692,
+    "idMal": 59662,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2025-07-17T15:00:00Z",
+      "addedAt": "2025-09-29T02:00:12Z"
+    }
+  },
+  {
+    "id": 157692,
+    "idMal": 59662,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-07-17T15:00:00Z",
+      "addedAt": "2025-09-29T02:00:12Z"
     }
   },
   {
