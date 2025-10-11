@@ -1127,10 +1127,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760200200
-        },
-        {
           "episode": 3,
           "airingAt": 1760805000
         },
@@ -1856,10 +1852,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760193900
-        },
         {
           "episode": 3,
           "airingAt": 1760798700
@@ -2828,6 +2820,36 @@
     }
   },
   {
+    "id": 177132,
+    "idMal": 58735,
+    "title": {
+      "romaji": "Hanarokushou ga Akeru Hi ni",
+      "english": null,
+      "native": "花緑青が明ける日に",
+      "userPreferred": "Hanarokushou ga Akeru Hi ni"
+    },
+    "format": "MOVIE",
+    "genres": [],
+    "duration": 75,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177132-5aOvggAhaxuo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177132-5aOvggAhaxuo.jpg",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177132-0HGgOyzHq7Nx.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772722800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177271,
     "idMal": 58772,
     "title": {
@@ -2993,10 +3015,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177937-jty4x7qBWG5n.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760191200
-        },
         {
           "episode": 3,
           "airingAt": 1760796000
@@ -3664,10 +3682,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760189400
-        },
         {
           "episode": 4,
           "airingAt": 1760794200
@@ -4841,10 +4855,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1760194800
-        },
-        {
           "episode": 2,
           "airingAt": 1760799600
         },
@@ -4889,8 +4899,7 @@
           "airingAt": 1766847600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 185575,
@@ -5293,10 +5302,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760198160
-        },
-        {
           "episode": 3,
           "airingAt": 1760802960
         },
@@ -5397,10 +5402,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760193000
-        },
         {
           "episode": 3,
           "airingAt": 1760797800
@@ -6168,10 +6169,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760196600
-        },
-        {
           "episode": 3,
           "airingAt": 1760801400
         },
@@ -6441,10 +6438,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760196600
-        },
         {
           "episode": 3,
           "airingAt": 1760801400
@@ -6884,10 +6877,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760193000
-        },
-        {
           "episode": 3,
           "airingAt": 1760797800
         },
@@ -7230,10 +7219,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760195400
-        },
         {
           "episode": 3,
           "airingAt": 1760800200
