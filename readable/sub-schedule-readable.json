@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1178,
-          "airingAt": 1760173200
-        },
-        {
           "episode": 1179,
           "airingAt": 1760778000
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1202,
           "airingAt": 1774688400
+        },
+        {
+          "episode": 1203,
+          "airingAt": 1775293200
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1305,
-          "airingAt": 1760167800
-        },
         {
           "episode": 1306,
           "airingAt": 1760772600
@@ -385,6 +381,10 @@
         {
           "episode": 1329,
           "airingAt": 1774683000
+        },
+        {
+          "episode": 1330,
+          "airingAt": 1775287800
         }
       ]
     }
@@ -743,10 +743,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 884,
-          "airingAt": 1760169600
-        },
-        {
           "episode": 885,
           "airingAt": 1760774400
         },
@@ -841,6 +837,10 @@
         {
           "episode": 908,
           "airingAt": 1774684800
+        },
+        {
+          "episode": 909,
+          "airingAt": 1775289600
         }
       ]
     }
@@ -2781,10 +2781,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760185800
-        },
-        {
           "episode": 3,
           "airingAt": 1760790600
         },
@@ -3931,10 +3927,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760171400
-        },
         {
           "episode": 3,
           "airingAt": 1760776200
@@ -5926,10 +5918,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760174700
-        },
-        {
           "episode": 3,
           "airingAt": 1760779500
         },
@@ -6664,10 +6652,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760184000
-        },
         {
           "episode": 3,
           "airingAt": 1760788800
@@ -9983,5 +9967,41 @@
         }
       ]
     }
+  },
+  {
+    "id": 200228,
+    "idMal": null,
+    "title": {
+      "romaji": "Oshikake! Bakunyuu Gal Harem Seikatsu",
+      "english": null,
+      "native": "おしかけ！爆乳ギャルハーレム性活",
+      "userPreferred": "Oshikake! Bakunyuu Gal Harem Seikatsu"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200228-r8Bm5BulKKOS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200228-r8Bm5BulKKOS.jpg",
+      "color": "#f143a1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200228-fta41j00DAv7.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1764255600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1764255600
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
