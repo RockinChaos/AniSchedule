@@ -1561,10 +1561,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1760280360
-        },
-        {
           "episode": 2,
           "airingAt": 1760885160
         },
@@ -1609,8 +1605,7 @@
           "airingAt": 1766933160
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 154887,
@@ -2028,10 +2023,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1760284800
-        },
         {
           "episode": 6,
           "airingAt": 1760889600
@@ -2586,10 +2577,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760279400
-        },
-        {
           "episode": 3,
           "airingAt": 1760884200
         },
@@ -3081,10 +3068,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1760279400
-        },
-        {
           "episode": 15,
           "airingAt": 1760884200
         },
@@ -3449,10 +3432,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760274000
-        },
         {
           "episode": 3,
           "airingAt": 1760878800
@@ -3873,10 +3852,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760281200
-        },
         {
           "episode": 3,
           "airingAt": 1760886000
@@ -5586,10 +5561,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760277600
-        },
-        {
           "episode": 3,
           "airingAt": 1760882400
         },
@@ -5750,10 +5721,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1760275800
-        },
-        {
           "episode": 2,
           "airingAt": 1760880600
         },
@@ -5798,8 +5765,7 @@
           "airingAt": 1766928600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186621,
@@ -6338,10 +6304,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760285160
-        },
         {
           "episode": 3,
           "airingAt": 1760889960
@@ -9146,7 +9108,7 @@
   },
   {
     "id": 198511,
-    "idMal": null,
+    "idMal": 62686,
     "title": {
       "romaji": "Seifuku wa Kita mama de",
       "english": null,
@@ -9778,10 +9740,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760285160
-        },
         {
           "episode": 3,
           "airingAt": 1760889960
