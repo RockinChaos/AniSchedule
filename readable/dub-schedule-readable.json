@@ -1264,6 +1264,64 @@
     "addedAt": "2025-07-26T19:49:49Z"
   },
   {
+    "title": "Souzai Saishuka no Isekai Ryokouki",
+    "route": "souzai-saishuka-no-isekai-ryokouki",
+    "romaji": "Souzai Saishuka no Isekai Ryokouki",
+    "english": "A Gatherer's Adventure in Isekai",
+    "native": "素材採取家の異世界旅行記",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-10-13T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187663,
+        "idMal": 61174,
+        "title": {
+          "romaji": "Sozai Saishuka no Isekai Ryokouki",
+          "english": "A Gatherer's Adventure in Isekai",
+          "native": "素材採取家の異世界旅行記",
+          "userPreferred": "A Gatherer's Adventure in Isekai"
+        },
+        "format": "ONA",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-VVdpMlkhwMSh.jpg",
+          "color": "#43a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-20T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-13T20:10:45Z"
+  },
+  {
     "title": "Star Wars: Visions Volume 3",
     "route": "star-wars-visions-volume-3",
     "native": "スター・ウォーズ：ビジョンズ Volume 3",
