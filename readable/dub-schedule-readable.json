@@ -620,6 +620,87 @@
     "addedAt": "2025-09-20T20:17:06Z"
   },
   {
+    "title": "Fujimoto Tatsuki 17-26",
+    "route": "fujimoto-tatsuki-17-26",
+    "romaji": "Fujimoto Tatsuki 17-26",
+    "english": "Tatsuki Fujimoto 17-26",
+    "native": "藤本タツキ 17-26",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-11-07T23:00:00Z",
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 8,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 198188,
+        "idMal": 62405,
+        "title": {
+          "romaji": "Fujimoto Tatsuki 17-26",
+          "english": "Tatsuki Fujimoto 17-26",
+          "native": "藤本タツキ 17-26",
+          "userPreferred": "Tatsuki Fujimoto 17-26"
+        },
+        "format": "MOVIE",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-h3w6uICVNhqh.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198188-h3w6uICVNhqh.png",
+          "color": "#e4d650"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-11-07T23:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-11-07T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-07T23:00:00Z"
+  },
+  {
     "title": "Fumetsu no Anata e 3",
     "route": "fumetsu-no-anata-e-3",
     "romaji": "Fumetsu no Anata e 3",
