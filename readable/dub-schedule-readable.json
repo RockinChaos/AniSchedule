@@ -7,8 +7,8 @@
     "native": "2.5次元の誘惑",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-08T17:00:00Z",
-    "episodeNumber": 23,
+    "episodeDate": "2025-10-15T17:00:00Z",
+    "episodeNumber": 24,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -65,8 +65,8 @@
     "native": "3年Z組銀八先生",
     "delayedFrom": "0001-01-01T02:00:00Z",
     "delayedUntil": "0001-01-01T02:00:00Z",
-    "episodeDate": "2025-10-07T02:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-10-14T02:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -113,62 +113,6 @@
     "addedAt": "2025-10-07T02:00:00Z"
   },
   {
-    "title": "Anne Shirley",
-    "route": "anne-shirley",
-    "romaji": "Anne Shirley",
-    "english": "Anne Shirley",
-    "native": "アン・シャーリー",
-    "delayedFrom": "2025-08-23T21:30:00Z",
-    "delayedUntil": "2025-09-06T21:30:00Z",
-    "episodeDate": "2025-10-11T21:30:00Z",
-    "episodeNumber": 24,
-    "episodes": 24,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 184639,
-        "idMal": 60334,
-        "title": {
-          "romaji": "Anne Shirley",
-          "english": "Anne Shirley",
-          "native": "アン・シャーリー",
-          "userPreferred": "Anne Shirley"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184639-tmj8NbTroNeI.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184639-tmj8NbTroNeI.jpg",
-          "color": "#5daee4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184639-fXvQzDPP4bHL.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 24,
-              "airingAt": "2025-10-11T21:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-04-19T21:46:57Z"
-  },
-  {
     "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
     "route": "ansatsusha-de-aru-ore-no-status-ga-yuusha-yori-mo-akiraka-ni-tsuyoi-no-da-ga",
     "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
@@ -176,8 +120,8 @@
     "native": "暗殺者である俺のステータスが勇者よりも明らかに強いのだが",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-06T17:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-10-13T17:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -230,8 +174,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2025-10-11T22:45:00Z",
-    "episodeNumber": 62,
+    "episodeDate": "2025-10-18T22:45:00Z",
+    "episodeNumber": 63,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -284,8 +228,8 @@
     "native": "キャッツ❤︎アイ",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-10-10T07:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-10-17T07:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -400,8 +344,8 @@
     "native": "ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-08T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-10-15T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 12,
     "mediaTypes": [
@@ -449,65 +393,6 @@
     },
     "verified": true,
     "addedAt": "2025-09-10T17:00:00Z"
-  },
-  {
-    "title": "Dekin no Mogura",
-    "route": "dekin-no-mogura",
-    "romaji": "Dekin no Mogura",
-    "english": "Dekin no Mogura: The Earthbound Mole",
-    "native": "出禁のモグラ",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-10-12T20:30:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 184574,
-        "idMal": 60315,
-        "title": {
-          "romaji": "Dekin no Mogura",
-          "english": "Dekin no Mogura: The Earthbound Mole",
-          "native": "出禁のモグラ",
-          "userPreferred": "Dekin no Mogura: The Earthbound Mole"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Mystery",
-          "Slice of Life",
-          "Supernatural"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184574-Mb2qvX1e3RgG.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184574-Mb2qvX1e3RgG.jpg",
-          "color": "#5daee4"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-12T20:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-27T21:13:40Z"
   },
   {
     "title": "Disney: Twisted-Wonderland",
@@ -708,8 +593,8 @@
     "native": "不滅のあなたへ3",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-10-11T20:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-10-18T20:00:00Z",
+    "episodeNumber": 3,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -766,7 +651,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2025-10-12T15:00:00Z",
     "delayedUntil": "2025-10-26T15:00:00Z",
-    "episodeDate": "2025-10-12T15:00:00Z",
+    "episodeDate": "2025-10-19T15:00:00Z",
     "episodeNumber": 14,
     "episodes": 24,
     "lengthMin": 24,
@@ -814,519 +699,6 @@
     },
     "verified": true,
     "addedAt": "2025-07-06T15:00:00Z"
-  },
-  {
-    "title": "Game Center Shoujo to Ibunka Kouryuu",
-    "route": "game-center-shoujo-to-ibunka-kouryuu",
-    "romaji": "Game Center Shoujo to Ibunka Kouryuu",
-    "english": "Cultural Exchange With a Game Centre Girl",
-    "native": "ゲーセン少女と異文化交流",
-    "delayedFrom": "2025-08-31T22:00:00Z",
-    "delayedUntil": "2025-09-07T22:00:00Z",
-    "episodeDate": "2025-10-12T22:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 180794,
-        "idMal": 59689,
-        "title": {
-          "romaji": "GaCen Shoujo to Ibunka Kouryuu",
-          "english": "Cultural Exchange with a Game Centre Girl",
-          "native": "ゲーセン少女と異文化交流",
-          "userPreferred": "Cultural Exchange with a Game Centre Girl"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180794-rQGxkguEc2ov.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180794-rQGxkguEc2ov.png",
-          "color": "#86f143"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180794-15AlhRdZMhv7.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-12T22:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-20T23:40:40Z"
-  },
-  {
-    "title": "Gintama",
-    "route": "gintama",
-    "native": "銀魂",
-    "delayedFrom": "0001-01-01T13:00:00Z",
-    "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2025-10-06T13:00:00Z",
-    "episodeNumber": 150,
-    "subtractedEpisodeNumber": 50,
-    "episodes": 201,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 918,
-        "idMal": 918,
-        "title": {
-          "romaji": "Gintama",
-          "english": "Gintama",
-          "native": "銀魂",
-          "userPreferred": "Gintama"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Drama",
-          "Sci-Fi"
-        ],
-        "duration": 25,
-        "seasonYear": 2006,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx918-iOaeBVUn4uK7.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx918-iOaeBVUn4uK7.jpg",
-          "color": "#f1865d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/918-bljqHE1PFArH.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 50,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 51,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 52,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 53,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 54,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 55,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 56,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 57,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 58,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 59,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 60,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 61,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 62,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 63,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 64,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 65,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 66,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 67,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 68,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 69,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 70,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 71,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 72,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 73,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 74,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 75,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 76,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 77,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 78,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 79,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 80,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 81,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 82,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 83,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 84,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 85,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 86,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 87,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 88,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 89,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 90,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 91,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 92,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 93,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 94,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 95,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 96,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 97,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 98,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 99,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 100,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 101,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 102,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 103,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 104,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 105,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 106,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 107,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 108,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 109,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 110,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 111,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 112,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 113,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 114,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 115,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 116,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 117,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 118,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 119,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 120,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 121,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 122,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 123,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 124,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 125,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 126,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 127,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 128,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 129,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 130,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 131,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 132,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 133,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 134,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 135,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 136,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 137,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 138,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 139,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 140,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 141,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 142,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 143,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 144,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 145,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 146,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 147,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 148,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 149,
-              "airingAt": "2025-10-06T13:00:00Z"
-            },
-            {
-              "episode": 150,
-              "airingAt": "2025-10-06T13:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-10-07T02:24:19Z"
   },
   {
     "title": "Guilty Hole",
@@ -1382,66 +754,6 @@
     },
     "verified": false,
     "addedAt": "2025-10-07T21:39:20Z"
-  },
-  {
-    "title": "Guimi Zhi Zhu",
-    "route": "guimi-zhi-zhu",
-    "romaji": "Guimi Zhi Zhu",
-    "english": "Lord of Mysteries",
-    "native": "诡秘之主",
-    "delayedFrom": "0001-01-01T19:00:00Z",
-    "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2025-10-10T19:00:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 35,
-    "mediaTypes": [
-      {
-        "name": "ONA (Chinese)",
-        "route": "ona-chinese"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 137667,
-        "idMal": 49818,
-        "title": {
-          "romaji": "Guimi Zhi Zhu",
-          "english": "Lord of Mysteries",
-          "native": "诡秘之主",
-          "userPreferred": "Lord of Mysteries"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Drama",
-          "Fantasy",
-          "Mystery",
-          "Supernatural",
-          "Thriller"
-        ],
-        "duration": 35,
-        "seasonYear": null,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137667-zHFOF6qbpksP.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137667-zHFOF6qbpksP.jpg",
-          "color": "#aed6e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137667-AhUoT3NFgbif.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2025-10-10T19:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-25T19:38:48Z"
   },
   {
     "title": "Hyakuemu.",
@@ -1500,118 +812,6 @@
     "addedAt": "2025-10-13T04:00:00Z"
   },
   {
-    "title": "Kakkou no Iinazuke 2nd Season",
-    "route": "kakkou-no-iinazuke-2nd-season",
-    "romaji": "Kakkou no Iinazuke 2nd Season",
-    "english": "A Couple of Cuckoos 2nd Season",
-    "native": "カッコウの許嫁 第2期",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-10-07T21:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179828,
-        "idMal": 59402,
-        "title": {
-          "romaji": "Kakkou no Iinazuke Season 2",
-          "english": "A Couple of Cuckoos Season 2",
-          "native": "カッコウの許嫁 Season2",
-          "userPreferred": "A Couple of Cuckoos Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179828-Yc1b1R2dxQyc.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179828-Yc1b1R2dxQyc.jpg",
-          "color": null
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-07T21:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-22T22:06:47Z"
-  },
-  {
-    "title": "Kanojo, Okarishimasu 4",
-    "route": "kanojo-okarishimasu-4",
-    "romaji": "Kanojo, Okarishimasu 4",
-    "english": "Rent-a-Girlfriend 4",
-    "native": "彼女、お借りします 第4期",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-10-07T20:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179344,
-        "idMal": 59277,
-        "title": {
-          "romaji": "Kanojo, Okarishimasu 4th Season",
-          "english": "Rent-a-Girlfriend Season 4",
-          "native": "彼女、お借りします 第4期",
-          "userPreferred": "Rent-a-Girlfriend Season 4"
-        },
-        "format": "ONA",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179344-GQzJfehpQI72.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179344-GQzJfehpQI72.png",
-          "color": "#28c9f1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179344-YMB1VbnqclMb.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-07T20:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-22T20:33:25Z"
-  },
-  {
     "title": "Kaoru Hana wa Rin to Saku",
     "route": "kaoru-hana-wa-rin-to-saku",
     "romaji": "Kaoru Hana wa Rin to Saku",
@@ -1619,8 +819,8 @@
     "native": "薫る花は凛と咲く",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-10-12T07:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-10-19T07:00:00Z",
+    "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1676,8 +876,8 @@
     "native": "鬼人幻燈抄",
     "delayedFrom": "2025-09-03T17:00:00Z",
     "delayedUntil": "2025-10-01T17:00:00Z",
-    "episodeDate": "2025-10-08T17:00:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2025-10-15T17:00:00Z",
+    "episodeNumber": 16,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1726,120 +926,6 @@
     "addedAt": "2025-09-17T21:11:33Z"
   },
   {
-    "title": "Mikadono Sanshimai wa Angai, Choroi.",
-    "route": "mikadono-sanshimai-wa-angai-choroi",
-    "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
-    "english": "Dealing with Mikadono Sisters Is a Breeze",
-    "native": "帝乃三姉妹は案外、チョロい。",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T19:30:00Z",
-    "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-10-08T19:30:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 178886,
-        "idMal": 59207,
-        "title": {
-          "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
-          "english": "Dealing with Mikadono Sisters Is a Breeze",
-          "native": "帝乃三姉妹は案外、チョロい。",
-          "userPreferred": "Dealing with Mikadono Sisters Is a Breeze"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178886-KjzSXyEB61zX.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178886-KjzSXyEB61zX.jpg",
-          "color": "#f19343"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178886-wUxMvrfIuAfU.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-08T19:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-30T20:33:03Z"
-  },
-  {
-    "title": "Mizu Zokusei no Mahoutsukai",
-    "route": "mizu-zokusei-no-mahoutsukai",
-    "romaji": "Mizu Zokusei no Mahoutsukai",
-    "english": "The Water Magician",
-    "native": "水属性の魔法使い",
-    "delayedFrom": "2025-08-21T22:00:00Z",
-    "delayedUntil": "2025-08-28T22:00:00Z",
-    "episodeDate": "2025-10-09T22:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 186052,
-        "idMal": 60732,
-        "title": {
-          "romaji": "Mizu Zokusei no Mahou Tsukai",
-          "english": "The Water Magician",
-          "native": "水属性の魔法使い",
-          "userPreferred": "The Water Magician"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186052-zq8h0Qo0O0sP.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186052-zq8h0Qo0O0sP.jpg",
-          "color": "#50d6e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186052-SHiNjpnalGWy.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-09T22:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-18T00:18:45Z"
-  },
-  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
@@ -1847,8 +933,8 @@
     "native": "忍者と極道",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-10-07T17:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-10-14T17:30:00Z",
+    "episodeNumber": 2,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1902,8 +988,8 @@
     "native": "らんま1/2 (2024) 第2期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-11T17:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-10-18T17:00:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1958,8 +1044,8 @@
     "native": "ロックは淑女の嗜みでして",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-08T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-10-15T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2014,8 +1100,8 @@
     "native": "最後にひとつだけお願いしてもよろしいでしょうか",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-10T17:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-10-17T17:00:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2070,8 +1156,8 @@
     "route": "sanda",
     "delayedFrom": "0001-01-01T17:50:00Z",
     "delayedUntil": "0001-01-01T17:50:00Z",
-    "episodeDate": "2025-10-10T17:50:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-10-17T17:50:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2126,8 +1212,8 @@
     "native": "青春ブタ野郎はサンタクロースの夢を見ない",
     "delayedFrom": "0001-01-01T19:30:00Z",
     "delayedUntil": "0001-01-01T19:30:00Z",
-    "episodeDate": "2025-10-11T19:30:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2025-10-18T19:30:00Z",
+    "episodeNumber": 13,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2239,8 +1325,8 @@
     "native": "太陽よりも眩しい星",
     "delayedFrom": "0001-01-01T15:55:00Z",
     "delayedUntil": "0001-01-01T15:55:00Z",
-    "episodeDate": "2025-10-09T15:55:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-10-16T15:55:00Z",
+    "episodeNumber": 3,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2286,65 +1372,6 @@
     "addedAt": "2025-10-02T15:55:00Z"
   },
   {
-    "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
-    "route": "tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season",
-    "romaji": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
-    "english": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability 2nd Season",
-    "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-10-08T20:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 178090,
-        "idMal": 59095,
-        "title": {
-          "romaji": "Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season",
-          "english": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
-          "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期",
-          "userPreferred": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178090-1OOScJqXLjRd.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178090-1OOScJqXLjRd.png",
-          "color": "#78bbe4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178090-EgKftuHoDJB7.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2025-10-08T20:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-07-23T20:52:14Z"
-  },
-  {
     "title": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
     "route": "tondemo-skill-de-isekai-hourou-meshi-2nd-season",
     "romaji": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
@@ -2352,8 +1379,8 @@
     "native": "とんでもスキルで異世界放浪メシ 第2期",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-10-07T15:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-10-14T15:30:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "mediaTypes": [
       {
@@ -2406,8 +1433,8 @@
     "native": "桃源暗鬼",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2025-10-10T15:30:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2025-10-17T15:30:00Z",
+    "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2464,8 +1491,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T22:00:00Z",
     "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2025-10-10T22:00:00Z",
-    "episodeNumber": 13,
+    "episodeDate": "2025-10-17T22:00:00Z",
+    "episodeNumber": 14,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2521,8 +1548,8 @@
     "native": "ウィッチウォッチ",
     "delayedFrom": "2025-09-28T08:30:00Z",
     "delayedUntil": "2025-10-05T08:30:00Z",
-    "episodeDate": "2025-10-12T08:30:00Z",
-    "episodeNumber": 24,
+    "episodeDate": "2025-10-19T08:30:00Z",
+    "episodeNumber": 25,
     "episodes": 25,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2581,8 +1608,8 @@
     "native": "よふかしのうた 第2期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-10-08T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-10-15T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
