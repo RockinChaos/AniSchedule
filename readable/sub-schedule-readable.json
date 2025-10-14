@@ -1495,6 +1495,50 @@
     }
   },
   {
+    "id": 144779,
+    "idMal": 50855,
+    "title": {
+      "romaji": "Yamato yo Towa ni: REBEL3199",
+      "english": "Star Blazers: Space Battleship Yamato 3199",
+      "native": "ヤマトよ永遠に REBEL3199",
+      "userPreferred": "Star Blazers: Space Battleship Yamato 3199"
+    },
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144779-WJ8aJbYk3o5t.png",
+      "color": "#4386f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1771513200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1771513200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1771513200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1771513200
+        }
+      ]
+    }
+  },
+  {
     "id": 147622,
     "idMal": 54629,
     "title": {
@@ -2343,10 +2387,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760454000
-        },
         {
           "episode": 3,
           "airingAt": 1761058800
@@ -3481,10 +3521,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1760450400
-        },
-        {
           "episode": 3,
           "airingAt": 1761055200
         },
@@ -4177,10 +4213,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760459340
-        },
         {
           "episode": 4,
           "airingAt": 1761064140
@@ -5462,10 +5494,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1760452200
-        },
-        {
           "episode": 2,
           "airingAt": 1761057000
         },
@@ -5510,8 +5538,7 @@
           "airingAt": 1767105000
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 186190,
@@ -6009,10 +6036,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760461140
-        },
         {
           "episode": 3,
           "airingAt": 1761065940
@@ -6890,9 +6913,9 @@
     "idMal": 61254,
     "title": {
       "romaji": "Ugoku! Neko Mukashi Banashi",
-      "english": null,
+      "english": "Cat Tales",
       "native": "うごく！ねこむかしばなし",
-      "userPreferred": "Ugoku! Neko Mukashi Banashi"
+      "userPreferred": "Cat Tales"
     },
     "format": "ONA",
     "genres": [
@@ -8840,10 +8863,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1760446560
-        },
         {
           "episode": 3,
           "airingAt": 1761051360
