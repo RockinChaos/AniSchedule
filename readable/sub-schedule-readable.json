@@ -1339,10 +1339,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 284,
-          "airingAt": 1760395200
-        },
-        {
           "episode": 285,
           "airingAt": 1760654400
         },
@@ -7604,7 +7600,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
