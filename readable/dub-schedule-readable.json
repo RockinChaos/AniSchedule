@@ -926,6 +926,62 @@
     "addedAt": "2025-09-17T21:11:33Z"
   },
   {
+    "title": "Let’s Play: Quest Darake no My Life",
+    "route": "lets-play",
+    "romaji": "Let’s Play: Quest Darake no My Life",
+    "english": "Let’s Play",
+    "native": "Let's Play クエストだらけのマイライフ",
+    "delayedFrom": "0001-01-01T16:15:00Z",
+    "delayedUntil": "0001-01-01T16:15:00Z",
+    "episodeDate": "2025-10-15T16:15:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 193968,
+        "idMal": 61773,
+        "title": {
+          "romaji": "Let’s Play: Quest Darake no My Life",
+          "english": "Let’s Play",
+          "native": "Let’s Play クエストだらけのマイライフ",
+          "userPreferred": "Let’s Play"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193968-tXbbqBOTuClj.jpg",
+          "color": "#e41a43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193968-o6WaB851sYMt.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-22T16:15:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-15T18:14:11Z"
+  },
+  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
@@ -1539,6 +1595,61 @@
     },
     "verified": true,
     "addedAt": "2025-07-11T15:30:00Z"
+  },
+  {
+    "title": "WanDance",
+    "route": "wondance",
+    "romaji": "WanDance",
+    "english": "Wandance",
+    "native": "ワンダンス",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-10-15T07:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 180436,
+        "idMal": 59623,
+        "title": {
+          "romaji": "WanDance",
+          "english": "Wandance",
+          "native": "ワンダンス",
+          "userPreferred": "Wandance"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Sports"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-KbHBZdUqLV1Q.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180436-KbHBZdUqLV1Q.png",
+          "color": "#0daef1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-FHMeyqzlPeGr.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-22T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-15T18:14:11Z"
   },
   {
     "title": "Watari-kun no xx ga Houkai Sunzen",
