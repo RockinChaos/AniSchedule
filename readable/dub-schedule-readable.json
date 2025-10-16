@@ -812,6 +812,64 @@
     "addedAt": "2025-10-13T04:00:00Z"
   },
   {
+    "title": "Kakuriyo no Yadomeshi 2",
+    "route": "kakuriyo-no-yadomeshi-2",
+    "romaji": "Kakuriyo no Yadomeshi 2",
+    "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
+    "native": "かくりよの宿飯 第２期",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-10-15T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177271,
+        "idMal": 58772,
+        "title": {
+          "romaji": "Kakuriyo no Yadomeshi 2nd Season",
+          "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
+          "native": "かくりよの宿飯 第２期",
+          "userPreferred": "Kakuriyo -Bed & Breakfast for Spirits- 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Romance",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177271-anyazmpWyX3m.jpg",
+          "color": "#e4a15d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-22T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-16T05:09:32Z"
+  },
+  {
     "title": "Kaoru Hana wa Rin to Saku",
     "route": "kaoru-hana-wa-rin-to-saku",
     "romaji": "Kaoru Hana wa Rin to Saku",
