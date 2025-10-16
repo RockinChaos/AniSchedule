@@ -1704,10 +1704,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1760626800
-        },
-        {
           "episode": 17,
           "airingAt": 1761231600
         },
@@ -4021,10 +4017,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760632080
-        },
-        {
           "episode": 4,
           "airingAt": 1761236880
         },
@@ -4124,10 +4116,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760621400
-        },
         {
           "episode": 4,
           "airingAt": 1761226200
@@ -4878,10 +4866,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760619600
-        },
-        {
           "episode": 4,
           "airingAt": 1761224400
         },
@@ -5409,10 +5393,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1760628600
-        },
-        {
           "episode": 16,
           "airingAt": 1761233400
         },
@@ -5615,10 +5595,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 28,
-          "airingAt": 1760633880
-        },
-        {
           "episode": 29,
           "airingAt": 1761238680
         },
@@ -5782,10 +5758,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760626560
-        },
         {
           "episode": 4,
           "airingAt": 1761231360
@@ -6158,10 +6130,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760619600
-        },
-        {
           "episode": 4,
           "airingAt": 1761224400
         },
@@ -6256,6 +6224,10 @@
         {
           "episode": 27,
           "airingAt": 1775134800
+        },
+        {
+          "episode": 28,
+          "airingAt": 1775739600
         }
       ]
     }
@@ -7485,45 +7457,13 @@
     }
   },
   {
-    "id": 194353,
-    "idMal": 62316,
-    "title": {
-      "romaji": "Choro Mesu Days",
-      "english": null,
-      "native": "ちょろ・めす・でいず",
-      "userPreferred": "Choro Mesu Days"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194353-DYQodQxpFuXD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194353-DYQodQxpFuXD.png",
-      "color": "#e4c9a1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1760626800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 194389,
     "idMal": 62005,
     "title": {
       "romaji": "Koala Enikki",
-      "english": null,
+      "english": "Koala's Diary",
       "native": "コアラ絵日記",
-      "userPreferred": "Koala Enikki"
+      "userPreferred": "Koala's Diary"
     },
     "format": "ONA",
     "genres": [
@@ -7700,40 +7640,6 @@
     }
   },
   {
-    "id": 194872,
-    "idMal": 61834,
-    "title": {
-      "romaji": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga",
-      "english": null,
-      "native": "ゴールデンカムイ 稲妻強盗と蝮のお銀 / シマエナガ",
-      "userPreferred": "Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga"
-    },
-    "format": "OVA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194872-J11fIWuuU6T4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194872-J11fIWuuU6T4.jpg",
-      "color": "#e4a11a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1760626800
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 195033,
     "idMal": 61937,
     "title": {
@@ -7791,10 +7697,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1760628360
-        },
         {
           "episode": 5,
           "airingAt": 1761233160
@@ -8124,6 +8026,39 @@
         {
           "episode": 26,
           "airingAt": 1774436340
+        }
+      ]
+    }
+  },
+  {
+    "id": 196115,
+    "idMal": null,
+    "title": {
+      "romaji": "Golden Kamuy: Sapporo Beer Koujou-hen",
+      "english": null,
+      "native": "ゴールデンカムイ 札幌ビール工場編",
+      "userPreferred": "Golden Kamuy: Sapporo Beer Koujou-hen"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196115-LSRdtIQyDRqX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b196115-LSRdtIQyDRqX.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1761836400
         }
       ]
     }
@@ -9116,10 +9051,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760630400
-        },
-        {
           "episode": 4,
           "airingAt": 1761235200
         },
@@ -9611,10 +9542,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760634900
-        },
         {
           "episode": 4,
           "airingAt": 1761239700
