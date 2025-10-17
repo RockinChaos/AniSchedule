@@ -1659,8 +1659,9 @@
     "title": "Tougen Anki",
     "route": "tougen-anki",
     "native": "桃源暗鬼",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-10-17T15:30:00Z",
+    "delayedUntil": "2025-10-24T15:30:00Z",
     "episodeDate": "2025-10-17T15:30:00Z",
     "episodeNumber": 15,
     "episodes": 24,
@@ -1701,7 +1702,7 @@
           "nodes": [
             {
               "episode": 15,
-              "airingAt": "2025-10-17T15:30:00Z"
+              "airingAt": "2025-10-24T15:30:00Z"
             }
           ]
         }
