@@ -6995,6 +6995,58 @@
     }
   },
   {
+    "id": 188753,
+    "idMal": 61297,
+    "title": {
+      "romaji": "Gekkan! Nanmono Anime",
+      "english": null,
+      "native": "げっかん！なんものアニメ",
+      "userPreferred": "Gekkan! Nanmono Anime"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188753-Rkuiizca4QFD.png",
+      "color": "#f1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188753-njd1uzJV3jp3.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1761879600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1764471600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1767150000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1769828400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1772247600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774926000
+        }
+      ]
+    }
+  },
+  {
     "id": 188884,
     "idMal": 61300,
     "title": {
