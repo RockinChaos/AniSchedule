@@ -990,10 +990,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 179,
-          "airingAt": 1760694000
-        },
-        {
           "episode": 180,
           "airingAt": 1761298800
         },
@@ -1088,6 +1084,10 @@
         {
           "episode": 203,
           "airingAt": 1775209200
+        },
+        {
+          "episode": 204,
+          "airingAt": 1775814000
         }
       ]
     }
@@ -1765,10 +1765,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 113,
-          "airingAt": 1760694900
-        },
-        {
           "episode": 114,
           "airingAt": 1761299700
         },
@@ -2101,10 +2097,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1760716800
-        },
         {
           "episode": 17,
           "airingAt": 1761321600
@@ -2921,10 +2913,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1760709600
-        },
-        {
           "episode": 16,
           "airingAt": 1761314400
         },
@@ -3359,10 +3347,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760719980
-        },
-        {
           "episode": 4,
           "airingAt": 1761324780
         },
@@ -3704,10 +3688,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1760715000
-        },
         {
           "episode": 5,
           "airingAt": 1761319800
@@ -4310,10 +4290,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760711400
-        },
-        {
           "episode": 4,
           "airingAt": 1761316200
         },
@@ -4567,10 +4543,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1760684400
-        },
-        {
           "episode": 5,
           "airingAt": 1761289200
         },
@@ -4630,10 +4602,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760711400
-        },
         {
           "episode": 4,
           "airingAt": 1761316200
@@ -5036,10 +5004,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760705640
-        },
         {
           "episode": 4,
           "airingAt": 1761310440
@@ -6485,10 +6449,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760709600
-        },
         {
           "episode": 4,
           "airingAt": 1761314400
@@ -8738,10 +8698,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760700600
-        },
-        {
           "episode": 4,
           "airingAt": 1761305400
         },
@@ -9910,37 +9866,5 @@
         }
       ]
     }
-  },
-  {
-    "id": 200560,
-    "idMal": null,
-    "title": {
-      "romaji": "Kasukana Yuuhi",
-      "english": null,
-      "native": "微かな夕陽",
-      "userPreferred": "Kasukana Yuuhi"
-    },
-    "format": "MUSIC",
-    "genres": [
-      "Mahou Shoujo"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200560-7MUgrfscNmaE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200560-7MUgrfscNmaE.png",
-      "color": "#f135a1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200560-KagYxYC6GFT4.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1760701200
-        }
-      ]
-    },
-    "unaired": true
   }
 ]
