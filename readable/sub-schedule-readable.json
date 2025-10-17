@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1720,
-          "airingAt": 1760666100
-        },
-        {
           "episode": 1721,
           "airingAt": 1761270900
         },
@@ -614,10 +610,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 626,
-          "airingAt": 1760652600
-        },
-        {
           "episode": 627,
           "airingAt": 1761257400
         },
@@ -712,6 +704,10 @@
         {
           "episode": 650,
           "airingAt": 1775167800
+        },
+        {
+          "episode": 651,
+          "airingAt": 1775772600
         }
       ]
     }
@@ -1338,10 +1334,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 285,
-          "airingAt": 1760654400
-        },
         {
           "episode": 286,
           "airingAt": 1761000000
@@ -7027,10 +7019,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1760653800
-        },
-        {
           "episode": 21,
           "airingAt": 1761258600
         },
@@ -9870,5 +9858,37 @@
         }
       ]
     }
+  },
+  {
+    "id": 200560,
+    "idMal": null,
+    "title": {
+      "romaji": "Kasukana Yuuhi",
+      "english": null,
+      "native": "微かな夕陽",
+      "userPreferred": "Kasukana Yuuhi"
+    },
+    "format": "MUSIC",
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200560-7MUgrfscNmaE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200560-7MUgrfscNmaE.png",
+      "color": "#f135a1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200560-KagYxYC6GFT4.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1760701200
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
