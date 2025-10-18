@@ -268,8 +268,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 63,
-              "airingAt": "2025-10-18T22:45:00Z"
+              "episode": 64,
+              "airingAt": "2025-10-25T22:45:00Z"
             }
           ]
         }
@@ -1036,6 +1036,65 @@
     },
     "verified": true,
     "addedAt": "2025-09-07T15:30:00Z"
+  },
+  {
+    "title": "Kekkon Yubiwa Monogatari 2nd Season",
+    "route": "kekkon-yubiwa-monogatari-2nd-season",
+    "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
+    "english": "Tales of Wedding Rings 2nd Season",
+    "native": "結婚指輪物語 第2期",
+    "delayedFrom": "0001-01-01T20:30:00Z",
+    "delayedUntil": "0001-01-01T20:30:00Z",
+    "episodeDate": "2025-10-18T20:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 176298,
+        "idMal": 58515,
+        "title": {
+          "romaji": "Kekkon Yubiwa Monogatari II",
+          "english": "Tales of Wedding Rings Season 2",
+          "native": "結婚指輪物語Ⅱ",
+          "userPreferred": "Tales of Wedding Rings Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176298-fK1c8bBA73WQ.jpg",
+          "color": "#1a5d78"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-25T20:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-18T23:08:11Z"
   },
   {
     "title": "Kijin Gentoushou",
