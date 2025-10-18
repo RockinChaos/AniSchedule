@@ -1094,6 +1094,63 @@
     "addedAt": "2025-10-15T18:14:11Z"
   },
   {
+    "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+    "route": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu",
+    "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
+    "english": "The Banished Court Magician Aims to Become the Strongest",
+    "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2025-10-18T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188487,
+        "idMal": 61276,
+        "title": {
+          "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+          "english": "The Banished Court Magician Aims to Become the Strongest",
+          "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指",
+          "userPreferred": "The Banished Court Magician Aims to Become the Strongest"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188487-gewgvReLVli9.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188487-gewgvReLVli9.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-25T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-18T18:11:16Z"
+  },
+  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
@@ -1708,6 +1765,61 @@
     },
     "verified": true,
     "addedAt": "2025-07-11T15:30:00Z"
+  },
+  {
+    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "route": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+    "english": "Tojima Wants to Be a Kamen Rider",
+    "native": "東島丹三郎は仮面ライダーになりたい",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-10-18T17:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187464,
+        "idMal": 61159,
+        "title": {
+          "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+          "english": "Tojima Wants to Be a Kamen Rider",
+          "native": "東島丹三郎は仮面ライダーになりたい",
+          "userPreferred": "Tojima Wants to Be a Kamen Rider"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-NJtK3VC54vPm.jpg",
+          "color": "#e4bb43"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-25T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-18T18:11:16Z"
   },
   {
     "title": "WanDance",
