@@ -279,6 +279,61 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "Boku no Hero Academia: Final Season",
+    "route": "boku-no-hero-academia-final-season",
+    "romaji": "Boku no Hero Academia: Final Season",
+    "english": "My Hero Academia Final Season",
+    "native": "僕のヒーローアカデミア FINAL SEASON",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-10-18T19:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182896,
+        "idMal": 60098,
+        "title": {
+          "romaji": "Boku no Hero Academia FINAL SEASON",
+          "english": "My Hero Academia FINAL SEASON",
+          "native": "僕のヒーローアカデミア FINAL SEASON",
+          "userPreferred": "My Hero Academia FINAL SEASON"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182896-mvxTVHGdDB4q.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182896-mvxTVHGdDB4q.jpg",
+          "color": "#c9d6f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-25T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-18T20:08:43Z"
+  },
+  {
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
@@ -690,8 +745,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-10-18T20:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-10-25T20:00:00Z"
             }
           ]
         }
@@ -1545,6 +1600,61 @@
     },
     "verified": false,
     "addedAt": "2025-10-13T20:10:45Z"
+  },
+  {
+    "title": "SPY×FAMILY Season 3",
+    "route": "spy-x-family-season-3",
+    "delayedFrom": "0001-01-01T19:30:00Z",
+    "delayedUntil": "0001-01-01T19:30:00Z",
+    "episodeDate": "2025-10-18T19:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177937,
+        "idMal": 59027,
+        "title": {
+          "romaji": "SPY×FAMILY Season 3",
+          "english": "SPY x FAMILY Season 3",
+          "native": "SPY×FAMILY Season 3",
+          "userPreferred": "SPY x FAMILY Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177937-Tzgg6rAdhCoH.jpg",
+          "color": "#e4935d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177937-jty4x7qBWG5n.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-25T19:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-18T20:08:43Z"
   },
   {
     "title": "Star Wars: Visions Volume 3",
