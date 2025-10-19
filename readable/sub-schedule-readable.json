@@ -3109,10 +3109,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1760832000
-        },
-        {
           "episode": 28,
           "airingAt": 1761436800
         },
@@ -4330,10 +4326,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 29,
-          "airingAt": 1760833800
-        },
-        {
           "episode": 30,
           "airingAt": 1761438600
         },
@@ -4649,10 +4641,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 37,
-          "airingAt": 1760830200
-        },
-        {
           "episode": 38,
           "airingAt": 1761435000
         },
@@ -4861,10 +4849,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 29,
-          "airingAt": 1760830080
-        },
-        {
           "episode": 30,
           "airingAt": 1761434880
         },
@@ -5039,10 +5023,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 29,
-          "airingAt": 1760825760
-        },
         {
           "episode": 30,
           "airingAt": 1761430560
@@ -6621,10 +6601,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1760832000
-        },
-        {
           "episode": 4,
           "airingAt": 1761436800
         },
@@ -8056,10 +8032,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1760830200
-        },
-        {
           "episode": 5,
           "airingAt": 1763249400
         },
@@ -8379,23 +8351,20 @@
     "format": "TV",
     "genres": [
       "Action",
-      "Music"
+      "Music",
+      "Sci-Fi"
     ],
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196553-n0cZ0oOOOkYF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196553-n0cZ0oOOOkYF.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196553-9whoPCB5gyKB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196553-9whoPCB5gyKB.jpg",
       "color": null
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1760833800
-        },
         {
           "episode": 4,
           "airingAt": 1761438600
@@ -8431,6 +8400,54 @@
         {
           "episode": 12,
           "airingAt": 1766277000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1766881800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767486600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768091400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768696200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769301000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769905800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770510600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771115400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771720200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772325000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1772929800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773534600
         }
       ]
     }
