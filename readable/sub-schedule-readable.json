@@ -3711,6 +3711,84 @@
     "unaired": true
   },
   {
+    "id": 182255,
+    "idMal": 59978,
+    "title": {
+      "romaji": "Sousou no Frieren 2nd Season",
+      "english": "Frieren: Beyond Journey’s End Season 2",
+      "native": "葬送のフリーレン 第２期",
+      "userPreferred": "Frieren: Beyond Journey’s End Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg",
+      "color": "#5dc9f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-eGmzBcmadFsK.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768572000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1769176800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769781600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1770386400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770991200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771596000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1772200800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772805600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1773410400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1774015200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774620000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1775224800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 182317,
     "idMal": 59985,
     "title": {
@@ -6373,6 +6451,41 @@
     }
   },
   {
+    "id": 187892,
+    "idMal": 61192,
+    "title": {
+      "romaji": "ALL YOU NEED IS KILL",
+      "english": "ALL YOU NEED IS KILL",
+      "native": "ALL YOU NEED IS KILL",
+      "userPreferred": "ALL YOU NEED IS KILL"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural",
+      "Thriller"
+    ],
+    "duration": 82,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187892-8xwQPygNv9SG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
+      "color": "#e4785d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767884400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 187940,
     "idMal": 61209,
     "title": {
@@ -6936,6 +7049,82 @@
         {
           "episode": 1,
           "airingAt": 1764860400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 189258,
+    "idMal": 61333,
+    "title": {
+      "romaji": "Ao no Miburo: Serizawa Ansatsu-hen",
+      "english": null,
+      "native": "青のミブロ 芹沢暗殺編",
+      "userPreferred": "Ao no Miburo: Serizawa Ansatsu-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189258-K40NjhZeuaBL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b189258-K40NjhZeuaBL.png",
+      "color": "#5dbbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1766219400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1766824200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1767429000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1768033800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1768638600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1769243400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1769848200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1770453000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1771057800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1771662600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1772267400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1772872200
         }
       ]
     },
