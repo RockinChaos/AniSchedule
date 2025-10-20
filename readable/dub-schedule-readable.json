@@ -1991,6 +1991,61 @@
     "addedAt": "2025-10-18T18:11:16Z"
   },
   {
+    "title": "Virgin Punk: Clockwork Girl",
+    "route": "virgin-punk",
+    "native": "ヴァージン・パンク",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2025-11-11T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 35,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 181449,
+        "idMal": 59848,
+        "title": {
+          "romaji": "Virgin Punk: Clockwork Girl",
+          "english": "VIRGIN PUNK Clockwork Girl",
+          "native": "ヴァージン・パンク Clockwork Girl",
+          "userPreferred": "VIRGIN PUNK Clockwork Girl"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 40,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181449-OciICz3Pgl29.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181449-OciICz3Pgl29.jpg",
+          "color": "#4393e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181449-qsSswZzHUdmX.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-11T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-11T15:00:00Z"
+  },
+  {
     "title": "WanDance",
     "route": "wondance",
     "native": "ワンダンス",
