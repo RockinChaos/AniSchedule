@@ -1205,6 +1205,64 @@
     "addedAt": "2025-10-18T18:11:16Z"
   },
   {
+    "title": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
+    "route": "mushoku-no-eiyuu-betsu-ni-skill-nanka-ira-nakkatan-daga",
+    "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
+    "english": "Hero Without a Class: Who Even Needs Skills?!",
+    "native": "無職の英雄 別にスキルなんか要らなかったんだが",
+    "delayedFrom": "0001-01-01T18:00:00Z",
+    "delayedUntil": "0001-01-01T18:00:00Z",
+    "episodeDate": "2025-11-05T18:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 169969,
+        "idMal": 56854,
+        "title": {
+          "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
+          "english": "Hero Without a Class: Who Even Needs Skills?!",
+          "native": "無職の英雄 別にスキルなんか要らなかったんだが",
+          "userPreferred": "Hero Without a Class: Who Even Needs Skills?!"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-SqCjoqYT4A6Z.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169969-SqCjoqYT4A6Z.jpg",
+          "color": "#e4c9a1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-05T18:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-05T18:00:00Z"
+  },
+  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
@@ -1256,7 +1314,7 @@
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2025-10-07T17:05:00Z"
   },
   {
