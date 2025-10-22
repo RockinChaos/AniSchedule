@@ -1817,6 +1817,63 @@
     "addedAt": "2025-10-02T15:55:00Z"
   },
   {
+    "title": "Tensei Akujo no Kuro Rekishi",
+    "route": "tensei-akujo-no-kuro-rekishi",
+    "romaji": "Tensei Akujo no Kuro Rekishi",
+    "english": "The Dark History of the Reincarnated Villainess",
+    "native": "転生悪女の黒歴史",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-10-22T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 174914,
+        "idMal": 58146,
+        "title": {
+          "romaji": "Tensei Akujo no Kuro Rekishi",
+          "english": "The Dark History of the Reincarnated Villainess",
+          "native": "転生悪女の黒歴史",
+          "userPreferred": "The Dark History of the Reincarnated Villainess"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174914-RfPIqbrapByY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174914-RfPIqbrapByY.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-10-29T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-22T18:14:41Z"
+  },
+  {
     "title": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
     "route": "tondemo-skill-de-isekai-hourou-meshi-2nd-season",
     "romaji": "Tondemo Skill de Isekai Hourou Meshi 2nd Season",
