@@ -223,6 +223,60 @@
     "addedAt": "2025-10-06T17:00:00Z"
   },
   {
+    "title": "Bad Girl",
+    "route": "bad-girl",
+    "native": "ばっどがーる",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-10-29T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178675,
+        "idMal": 59161,
+        "title": {
+          "romaji": "Bad Girl",
+          "english": "Bad Girl",
+          "native": "ばっどがーる",
+          "userPreferred": "Bad Girl"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178675-cTYMOedSpXsJ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178675-cTYMOedSpXsJ.jpg",
+          "color": "#bbe450"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-29T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-29T17:00:00Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
@@ -1210,9 +1264,9 @@
     "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
     "english": "Hero Without a Class: Who Even Needs Skills?!",
     "native": "無職の英雄 別にスキルなんか要らなかったんだが",
-    "delayedFrom": "0001-01-01T18:00:00Z",
-    "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-11-05T18:00:00Z",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-11-05T17:00:00Z",
     "episodeNumber": 1,
     "episodes": 12,
     "lengthMin": 24,
@@ -1253,7 +1307,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-11-05T18:00:00Z"
+              "airingAt": "2025-11-05T17:00:00Z"
             }
           ]
         }
@@ -2026,8 +2080,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2025-10-22T07:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-10-29T07:00:00Z"
             }
           ]
         }
