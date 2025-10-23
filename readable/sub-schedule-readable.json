@@ -1264,40 +1264,6 @@
     }
   },
   {
-    "id": 140337,
-    "idMal": 50159,
-    "title": {
-      "romaji": "Zombieland Saga: Yume Ginga Paradise",
-      "english": null,
-      "native": "ゾンビランドサガ ゆめぎんがパラダイス",
-      "userPreferred": "Zombieland Saga: Yume Ginga Paradise"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Music",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140337-8EtbiPurofcC.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140337-8EtbiPurofcC.jpg",
-      "color": "#e44335"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140337-4bbYMgRfHPEe.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1761231600
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 140842,
     "idMal": 50250,
     "title": {
@@ -1675,10 +1641,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157692-bnduywLJZIxk.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1761231600
-        },
         {
           "episode": 18,
           "airingAt": 1761836400
@@ -3967,10 +3929,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761236880
-        },
-        {
           "episode": 5,
           "airingAt": 1761841680
         },
@@ -4066,10 +4024,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761226200
-        },
         {
           "episode": 5,
           "airingAt": 1761831000
@@ -4712,7 +4666,7 @@
       "color": "#43aee4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4783,10 +4737,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761224400
-        },
         {
           "episode": 5,
           "airingAt": 1761829200
@@ -5291,10 +5241,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1761233400
-        },
-        {
           "episode": 17,
           "airingAt": 1761838200
         },
@@ -5485,10 +5431,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 29,
-          "airingAt": 1761238680
-        },
-        {
           "episode": 30,
           "airingAt": 1761843480
         },
@@ -5612,10 +5554,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761231360
-        },
         {
           "episode": 5,
           "airingAt": 1761836160
@@ -5968,10 +5906,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761224400
-        },
-        {
           "episode": 5,
           "airingAt": 1761829200
         },
@@ -6066,6 +6000,10 @@
         {
           "episode": 28,
           "airingAt": 1775739600
+        },
+        {
+          "episode": 29,
+          "airingAt": 1776344400
         }
       ]
     }
@@ -7712,10 +7650,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1761233160
-        },
-        {
           "episode": 6,
           "airingAt": 1761837960
         },
@@ -7894,16 +7828,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1761231600
-        },
-        {
           "episode": 2,
           "airingAt": 1764860400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 195383,
@@ -8530,42 +8459,6 @@
     }
   },
   {
-    "id": 196722,
-    "idMal": 62315,
-    "title": {
-      "romaji": "Reika wa Karei na Boku no Joou THE ANIMATION",
-      "english": null,
-      "native": "レイカは華麗な僕の女王 THE ANIMATION",
-      "userPreferred": "Reika wa Karei na Boku no Joou THE ANIMATION"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196722-mpsggThw5jFv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196722-mpsggThw5jFv.png",
-      "color": "#5093e4"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1761231600
-        },
-        {
-          "episode": 2,
-          "airingAt": 1761231600
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 197097,
     "idMal": 62193,
     "title": {
@@ -9061,10 +8954,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761235200
-        },
-        {
           "episode": 5,
           "airingAt": 1761840000
         },
@@ -9540,10 +9429,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761239700
-        },
         {
           "episode": 5,
           "airingAt": 1761844500
