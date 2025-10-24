@@ -385,6 +385,72 @@
     "addedAt": "2025-10-18T20:08:43Z"
   },
   {
+    "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+    "route": "cardfight-vanguard-divinez-deluxe-kesshou-hen",
+    "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+    "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
+    "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-10-24T23:00:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 191994,
+        "idMal": 54145,
+        "title": {
+          "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+          "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
+          "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
+          "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191994-hRBORUotkRjI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191994-hRBORUotkRjI.jpg",
+          "color": "#ffbb43"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-24T23:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-10-24T23:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-10-24T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-24T23:00:00Z"
+  },
+  {
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
@@ -431,8 +497,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-10-24T07:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-10-31T07:00:00Z"
             }
           ]
         }
@@ -459,7 +525,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 171627,
@@ -562,9 +628,9 @@
     "title": "Disney: Twisted-Wonderland",
     "route": "disney-twisted-wonderland",
     "native": "ディズニー ツイステッドワンダーランド",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-10-29T07:00:00Z",
+    "delayedFrom": "0001-01-01T05:00:00Z",
+    "delayedUntil": "0001-01-01T05:00:00Z",
+    "episodeDate": "2025-10-29T05:00:00Z",
     "episodeNumber": 1,
     "episodes": 8,
     "mediaTypes": [
@@ -602,7 +668,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-10-29T07:00:00Z"
+              "airingAt": "2025-10-29T05:00:00Z"
             }
           ]
         }
