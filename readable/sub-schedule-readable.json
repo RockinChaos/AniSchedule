@@ -287,10 +287,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1307,
-          "airingAt": 1761377400
-        },
-        {
           "episode": 1308,
           "airingAt": 1761982200
         },
@@ -385,6 +381,10 @@
         {
           "episode": 1331,
           "airingAt": 1775892600
+        },
+        {
+          "episode": 1332,
+          "airingAt": 1776497400
         }
       ]
     }
@@ -735,10 +735,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 886,
-          "airingAt": 1761379200
-        },
-        {
           "episode": 887,
           "airingAt": 1761984000
         },
@@ -833,6 +829,10 @@
         {
           "episode": 910,
           "airingAt": 1775894400
+        },
+        {
+          "episode": 911,
+          "airingAt": 1776499200
         }
       ]
     }
@@ -2630,10 +2630,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761395400
-        },
-        {
           "episode": 5,
           "airingAt": 1762000200
         },
@@ -3788,10 +3784,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761381000
-        },
         {
           "episode": 5,
           "airingAt": 1761985800
@@ -5564,10 +5556,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761384300
-        },
-        {
           "episode": 5,
           "airingAt": 1761989100
         },
@@ -6305,10 +6293,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761393600
-        },
         {
           "episode": 5,
           "airingAt": 1761998400
@@ -7559,6 +7543,37 @@
     }
   },
   {
+    "id": 195034,
+    "idMal": 61936,
+    "title": {
+      "romaji": "Korette Naani?",
+      "english": null,
+      "native": "これってナ～ニ？",
+      "userPreferred": "Korette Naani?"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195034-kh5FbK07fShG.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195034-kh5FbK07fShG.png",
+      "color": "#d678a1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1769698800
+        }
+      ]
+    }
+  },
+  {
     "id": 195153,
     "idMal": 61917,
     "title": {
@@ -8236,6 +8251,10 @@
         {
           "episode": 1,
           "airingAt": 1761836400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1769698800
         }
       ]
     },
@@ -9665,5 +9684,37 @@
         }
       ]
     }
+  },
+  {
+    "id": 201153,
+    "idMal": null,
+    "title": {
+      "romaji": "Seikou Senki Pony Celes",
+      "english": null,
+      "native": "聖光閃姫ポニーセレス",
+      "userPreferred": "Seikou Senki Pony Celes"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201153-WhtXnRoHMW0k.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201153-WhtXnRoHMW0k.jpg",
+      "color": "#35aef1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1769698800
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
