@@ -479,10 +479,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2803,
-          "airingAt": 1761471000
-        },
-        {
           "episode": 2804,
           "airingAt": 1762075800
         },
@@ -577,6 +573,10 @@
         {
           "episode": 2827,
           "airingAt": 1775986200
+        },
+        {
+          "episode": 2828,
+          "airingAt": 1776591000
         }
       ]
     }
@@ -898,10 +898,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 337,
-          "airingAt": 1761469200
-        },
         {
           "episode": 338,
           "airingAt": 1762074000
@@ -2160,10 +2156,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761465600
-        },
         {
           "episode": 5,
           "airingAt": 1762070400
@@ -4067,6 +4059,82 @@
         }
       ]
     }
+  },
+  {
+    "id": 183984,
+    "idMal": 60255,
+    "title": {
+      "romaji": "Arne no Jikenbo",
+      "english": null,
+      "native": "アルネの事件簿",
+      "userPreferred": "Arne no Jikenbo"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183984-GVYwxxL9l0cZ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183984-GVYwxxL9l0cZ.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767716940
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768321740
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768926540
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769531340
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770136140
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770740940
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771345740
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771950540
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772555340
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773160140
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773764940
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774369740
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 184289,
@@ -7985,10 +8053,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1761478200
-        },
         {
           "episode": 18,
           "airingAt": 1762083000
