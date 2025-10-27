@@ -1169,10 +1169,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 112,
-          "airingAt": 1761530400
-        },
-        {
           "episode": 113,
           "airingAt": 1762135200
         },
@@ -3202,6 +3198,41 @@
         }
       ]
     }
+  },
+  {
+    "id": 179930,
+    "idMal": 59435,
+    "title": {
+      "romaji": "Undead Unluck: Winter-hen",
+      "english": null,
+      "native": "アンデッドアンラック Winter編",
+      "userPreferred": "Undead Unluck: Winter-hen"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "duration": 60,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179930-6jU0xJ5xvFTb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179930-6jU0xJ5xvFTb.jpg",
+      "color": "#ffd600"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179930-zFY4rcN45RK1.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1766588400
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 179992,
