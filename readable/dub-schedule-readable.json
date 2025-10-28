@@ -2355,10 +2355,10 @@
     "route": "wondance",
     "native": "ワンダンス",
     "delayedText": "Delayed",
-    "delayedFrom": "2025-10-22T07:00:00Z",
-    "delayedUntil": "2031-01-01T07:00:00Z",
-    "episodeDate": "2025-10-22T07:00:00Z",
-    "episodeNumber": 2,
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-11-02T07:00:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2366,7 +2366,6 @@
         "route": "tv"
       }
     ],
-    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -2395,8 +2394,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2031-01-01T07:00:00Z"
+              "episode": 3,
+              "airingAt": "2025-11-02T07:00:00Z"
             }
           ]
         }
