@@ -2027,7 +2027,8 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2025-10-29T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 9,
+    "subtractedEpisodeNumber": 1,
     "episodes": 9,
     "mediaTypes": [
       {
@@ -2065,6 +2066,38 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-10-29T07:00:00Z"
+            },
+            {
+              "episode": 9,
               "airingAt": "2025-10-29T07:00:00Z"
             }
           ]
