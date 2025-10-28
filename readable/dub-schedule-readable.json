@@ -860,6 +860,63 @@
     "addedAt": "2025-10-07T21:39:20Z"
   },
   {
+    "title": "Isekai Quartet 3",
+    "route": "isekai-quartet-3rd-season",
+    "romaji": "Isekai Quartet 3",
+    "english": "Isekai Quartet 3",
+    "native": "異世界かるてっと3",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2025-10-27T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 11,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 194447,
+        "idMal": 61851,
+        "title": {
+          "romaji": "Isekai Quartet 3",
+          "english": "Isekai Quartet 3",
+          "native": "異世界かるてっと 3",
+          "userPreferred": "Isekai Quartet 3"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 12,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194447-sgmaOpJ0VIUI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194447-sgmaOpJ0VIUI.jpg",
+          "color": "#28a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194447-Z7rcoAFZuBsS.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-11-03T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-28T04:11:43Z"
+  },
+  {
     "title": "Kakuriyo no Yadomeshi 2",
     "route": "kakuriyo-no-yadomeshi-2",
     "romaji": "Kakuriyo no Yadomeshi 2",
@@ -1313,6 +1370,101 @@
     },
     "verified": true,
     "addedAt": "2025-10-07T17:05:00Z"
+  },
+  {
+    "title": "Pokémon Horizons: The Series",
+    "route": "pokemon-2023",
+    "native": "ポケットモンスター (2023)",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-10-27T07:00:00Z",
+    "episodeNumber": 100,
+    "subtractedEpisodeNumber": 90,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 158871,
+        "idMal": 53876,
+        "title": {
+          "romaji": "Pocket Monsters (2023)",
+          "english": "Pokémon Horizons: The Series",
+          "native": "ポケットモンスター (2023)",
+          "userPreferred": "Pokémon Horizons: The Series"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg",
+          "color": "#e4bb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 90,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 91,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 92,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 93,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 94,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 95,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 96,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 97,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 98,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 99,
+              "airingAt": "2025-10-27T07:00:00Z"
+            },
+            {
+              "episode": 100,
+              "airingAt": "2025-10-27T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-28T04:11:43Z"
   },
   {
     "title": "Ranma ½ (2024) 2nd Season",
