@@ -1148,6 +1148,63 @@
     "addedAt": "2025-09-17T21:11:33Z"
   },
   {
+    "title": "Kimi to Koete Koi ni Naru",
+    "route": "kimi-to-koete-koi-ni-naru",
+    "romaji": "Kimi to Koete Koi ni Naru",
+    "english": "With You, Our Love Will Make It Through",
+    "native": "キミと越えて恋になる",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2025-10-28T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 186161,
+        "idMal": 60765,
+        "title": {
+          "romaji": "Kimi to Koete Koi ni Naru",
+          "english": "With You, Our Love Will Make It Through",
+          "native": "キミと越えて恋になる",
+          "userPreferred": "With You, Our Love Will Make It Through"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-rgdRQgwOJUpb.png",
+          "color": "#1aaef1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2025-11-04T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-28T19:02:11Z"
+  },
+  {
     "title": "Let's Play: Quest Darake no My Life",
     "route": "lets-play",
     "native": "Let's Play クエストだらけのマイライフ",
@@ -2175,8 +2232,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2025-10-28T19:00:00Z"
+              "episode": 5,
+              "airingAt": "2025-11-04T19:00:00Z"
             }
           ]
         }
