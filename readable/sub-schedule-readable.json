@@ -2234,10 +2234,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761663600
-        },
-        {
           "episode": 5,
           "airingAt": 1762268400
         },
@@ -3306,10 +3302,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1761660000
-        },
-        {
           "episode": 5,
           "airingAt": 1762264800
         },
@@ -4021,10 +4013,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1761668940
-        },
-        {
           "episode": 6,
           "airingAt": 1762273740
         },
@@ -4362,72 +4350,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 184642,
-    "idMal": 60336,
-    "title": {
-      "romaji": "Star Wars: Visions Volume 3",
-      "english": "Star Wars: Visions Volume 3",
-      "native": "スターウォーズビジョンズ Volume 3",
-      "userPreferred": "Star Wars: Visions Volume 3"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184642-tIIbvVKE5KSW.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184642-tIIbvVKE5KSW.jpg",
-      "color": "#f15050"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 2,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 3,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 4,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 5,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 6,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 7,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 8,
-          "airingAt": 1761663600
-        },
-        {
-          "episode": 9,
-          "airingAt": 1761663600
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 184718,
@@ -5261,10 +5183,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1761661800
-        },
-        {
           "episode": 4,
           "airingAt": 1762266600
         },
@@ -5719,10 +5637,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761670740
-        },
         {
           "episode": 5,
           "airingAt": 1762275540
@@ -8145,10 +8059,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1761660000
-        },
-        {
           "episode": 3,
           "airingAt": 1762264800
         },
@@ -8586,10 +8496,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1761656160
-        },
         {
           "episode": 5,
           "airingAt": 1762260960
