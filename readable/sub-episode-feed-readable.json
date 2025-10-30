@@ -1,5 +1,37 @@
 [
   {
+    "id": 157692,
+    "idMal": 59662,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 18,
+      "airedAt": "2025-10-30T15:00:00Z",
+      "addedAt": "2025-10-30T15:00:20Z"
+    }
+  },
+  {
+    "id": 188522,
+    "idMal": 61278,
+    "format": "MOVIE",
+    "duration": 90,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-10-30T15:00:00Z",
+      "addedAt": "2025-10-30T15:00:21Z"
+    }
+  },
+  {
+    "id": 196115,
+    "format": "MOVIE",
+    "duration": 90,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-10-30T15:00:00Z",
+      "addedAt": "2025-10-30T15:00:21Z"
+    }
+  },
+  {
     "id": 186621,
     "idMal": 60969,
     "format": "TV",
