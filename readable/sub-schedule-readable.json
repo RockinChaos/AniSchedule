@@ -1968,10 +1968,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1761926400
-        },
-        {
           "episode": 19,
           "airingAt": 1762531200
         },
@@ -2676,10 +2672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1761919200
-        },
-        {
           "episode": 17,
           "airingAt": 1762524000
         },
@@ -3086,10 +3078,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1761929580
-        },
-        {
           "episode": 6,
           "airingAt": 1762534380
         },
@@ -3426,10 +3414,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1761924600
-        },
         {
           "episode": 7,
           "airingAt": 1762529400
@@ -4134,10 +4118,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1761921000
-        },
-        {
           "episode": 6,
           "airingAt": 1762525800
         },
@@ -4360,10 +4340,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1761921000
-        },
         {
           "episode": 6,
           "airingAt": 1762525800
@@ -6003,10 +5979,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1761919200
-        },
         {
           "episode": 6,
           "airingAt": 1762524000
@@ -9174,6 +9146,79 @@
         {
           "episode": 13,
           "airingAt": 1766660400
+        }
+      ]
+    }
+  },
+  {
+    "id": 201151,
+    "idMal": null,
+    "title": {
+      "romaji": "THE LENTICULARS",
+      "english": "THE LENTICULARS",
+      "native": "ザ・レンチキュラーズ",
+      "userPreferred": "THE LENTICULARS"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": 6,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201151-DA2N96rmqFsS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201151-DA2N96rmqFsS.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1762513200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1763118000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1763722800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1764327600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1764932400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1765537200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1766142000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1766746800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1767351600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1767956400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1768561200
         }
       ]
     }
