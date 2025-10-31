@@ -415,10 +415,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1722,
-          "airingAt": 1761875700
-        },
-        {
           "episode": 1723,
           "airingAt": 1762480500
         },
@@ -606,10 +602,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 628,
-          "airingAt": 1761862200
-        },
-        {
           "episode": 629,
           "airingAt": 1762467000
         },
@@ -704,6 +696,10 @@
         {
           "episode": 652,
           "airingAt": 1776377400
+        },
+        {
+          "episode": 653,
+          "airingAt": 1776982200
         }
       ]
     }
@@ -1272,10 +1268,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 289,
-          "airingAt": 1761864000
-        },
         {
           "episode": 290,
           "airingAt": 1762209600
@@ -6608,37 +6600,6 @@
         {
           "episode": 12,
           "airingAt": 1774926000
-        }
-      ]
-    }
-  },
-  {
-    "id": 188884,
-    "idMal": 61300,
-    "title": {
-      "romaji": "Sumikko Gurashi: Koko ga Ochitsukun Desu",
-      "english": null,
-      "native": "すみっコぐらし ここがおちつくんです",
-      "userPreferred": "Sumikko Gurashi: Koko ga Ochitsukun Desu"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188884-pmEMLEcpTovv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188884-pmEMLEcpTovv.png",
-      "color": "#e4c993"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1761863400
         }
       ]
     }
