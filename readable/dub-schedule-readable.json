@@ -805,6 +805,60 @@
     "addedAt": "2025-07-06T15:00:00Z"
   },
   {
+    "title": "Gnosia",
+    "route": "gnosia",
+    "native": "グノーシア",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2025-11-01T16:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 26,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185116,
+        "idMal": 60427,
+        "title": {
+          "romaji": "Gnosia",
+          "english": "GNOSIA",
+          "native": "グノーシア",
+          "userPreferred": "GNOSIA"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
+          "color": "#43aee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-01T16:30:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-01T16:30:00Z"
+  },
+  {
     "title": "Guilty Hole",
     "route": "guilty-hole",
     "romaji": "Guilty Hole",
