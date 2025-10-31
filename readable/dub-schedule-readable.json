@@ -860,6 +860,110 @@
     "addedAt": "2025-10-07T21:39:20Z"
   },
   {
+    "title": "Hikaru ga Shinda Natsu",
+    "route": "hikaru-ga-shinda-natsu",
+    "romaji": "Hikaru ga Shinda Natsu",
+    "english": "The Summer Hikaru Died",
+    "native": "光が死んだ夏",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2025-10-31T07:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177689,
+        "idMal": 58913,
+        "title": {
+          "romaji": "Hikaru ga Shinda Natsu",
+          "english": "The Summer Hikaru Died",
+          "native": "光が死んだ夏",
+          "userPreferred": "The Summer Hikaru Died"
+        },
+        "format": "TV",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Psychological",
+          "Supernatural",
+          "Thriller"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177689-d0mB5nYgdnhi.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177689-d0mB5nYgdnhi.jpg",
+          "color": "#50aec9"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177689-hbCQDYraujAG.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-10-31T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-10-31T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-10-31T08:20:26Z"
+  },
+  {
     "title": "Isekai Quartet 3",
     "route": "isekai-quartet-3rd-season",
     "romaji": "Isekai Quartet 3",
