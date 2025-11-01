@@ -819,7 +819,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185116,
@@ -848,8 +848,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-11-01T16:30:00Z"
+              "episode": 2,
+              "airingAt": "2025-11-08T16:30:00Z"
             }
           ]
         }
@@ -1727,8 +1727,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-11-01T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-11-08T17:00:00Z"
             }
           ]
         }
@@ -2533,8 +2533,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-11-01T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-11-08T17:00:00Z"
             }
           ]
         }
