@@ -525,12 +525,12 @@
           "native": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」",
           "userPreferred": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL"
         },
-        "format": "TV",
+        "format": "ONA",
         "genres": [
           "Adventure",
           "Fantasy"
         ],
-        "duration": null,
+        "duration": 25,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140291-RAwYjwC9vWDR.png",
@@ -538,7 +538,7 @@
           "color": "#f1a143"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140291-raHo98Y0NfZn.jpg",
         "airingSchedule": {
           "nodes": [
             {
