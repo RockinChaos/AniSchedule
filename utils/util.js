@@ -176,13 +176,14 @@ export function getDSTStartEndDates() {
         for (let day = 1; day <= 7; day++) {
             const testDate = new Date(year, month, day, 2, 0, 0)
             if (testDate.getMonth() !== month) break
-            if (testDate.getDay() === 0 && testDate.getTimezoneOffset() > standardOffset) {
+            if (testDate.getDay() === 0 && testDate.getTimezoneOffset() === standardOffset) {
                 dstEnd = testDate
                 break
             }
         }
         if (dstEnd) break
     }
+    if (dstStart && new Date() > dstEnd) dstStart = null
     return { dstStart, dstEnd }
 }
 
