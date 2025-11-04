@@ -1428,6 +1428,63 @@
     "addedAt": "2025-11-05T18:00:00Z"
   },
   {
+    "title": "Natsume Yuujinchou Shichi Special",
+    "route": "natsume-yuujinchou-shichi-special",
+    "romaji": "Natsume Yuujinchou Shichi Special",
+    "english": "Natsume’s Book of Friends Season 7 Special",
+    "native": "夏目友人帳 漆 特別編",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-11-03T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 184762,
+        "idMal": 60302,
+        "title": {
+          "romaji": "Natsume Yuujinchou Shichi Special",
+          "english": null,
+          "native": "夏目友人帳 漆 特別編",
+          "userPreferred": "Natsume Yuujinchou Shichi Special"
+        },
+        "format": "SPECIAL",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184762-VBTlKw5YH3CI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184762-VBTlKw5YH3CI.jpg",
+          "color": "#d6431a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-03T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-04T20:14:27Z"
+  },
+  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
@@ -2137,8 +2194,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-11-04T20:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-11-11T20:00:00Z"
             }
           ]
         }
