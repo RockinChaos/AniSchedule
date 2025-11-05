@@ -1257,10 +1257,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1762329600
-        },
-        {
           "episode": 3,
           "airingAt": 1762934400
         },
@@ -6319,10 +6315,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1762340400
-        },
-        {
           "episode": 5,
           "airingAt": 1762945200
         },
@@ -7285,10 +7277,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762340340
-        },
         {
           "episode": 7,
           "airingAt": 1762945140
@@ -9098,6 +9086,38 @@
         {
           "episode": 1,
           "airingAt": 1769698800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 201903,
+    "idMal": null,
+    "title": {
+      "romaji": "Chou Kaguya-hime!",
+      "english": "Cosmis Princess Kaguya!",
+      "native": "超かぐや姫！",
+      "userPreferred": "Cosmis Princess Kaguya!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201903-qomgdBUH9qKY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201903-qomgdBUH9qKY.png",
+      "color": "#7886e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1769007600
         }
       ]
     },
