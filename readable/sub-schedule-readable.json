@@ -3286,9 +3286,9 @@
     "duration": 23,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-KbHBZdUqLV1Q.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180436-KbHBZdUqLV1Q.png",
-      "color": "#0daef1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180436-zR0dJuKGZNOK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180436-zR0dJuKGZNOK.jpg",
+      "color": "#1a93d6"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-FHMeyqzlPeGr.jpg",
@@ -6693,10 +6693,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1762293960
-        },
-        {
           "episode": 20,
           "airingAt": 1762898760
         },
@@ -6791,6 +6787,10 @@
         {
           "episode": 43,
           "airingAt": 1776809160
+        },
+        {
+          "episode": 44,
+          "airingAt": 1777413960
         }
       ]
     }
@@ -8823,10 +8823,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1762293600
-        },
         {
           "episode": 6,
           "airingAt": 1762898400
