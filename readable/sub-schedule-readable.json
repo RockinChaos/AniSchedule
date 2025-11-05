@@ -2113,10 +2113,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1762347600
-        },
-        {
           "episode": 8,
           "airingAt": 1762952400
         },
@@ -2488,10 +2484,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1762354800
-        },
-        {
           "episode": 6,
           "airingAt": 1762959600
         },
@@ -2642,10 +2634,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762354800
-        },
         {
           "episode": 7,
           "airingAt": 1762959600
@@ -3290,10 +3278,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-FHMeyqzlPeGr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1762353900
-        },
         {
           "episode": 6,
           "airingAt": 1762958700
@@ -6814,10 +6798,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762357560
-        },
-        {
           "episode": 7,
           "airingAt": 1762962360
         },
@@ -9096,13 +9076,15 @@
     "idMal": null,
     "title": {
       "romaji": "Chou Kaguya-hime!",
-      "english": "Cosmis Princess Kaguya!",
+      "english": "Cosmic Princess Kaguya!",
       "native": "超かぐや姫！",
-      "userPreferred": "Cosmis Princess Kaguya!"
+      "userPreferred": "Cosmic Princess Kaguya!"
     },
     "format": "ONA",
     "genres": [
-      "Music"
+      "Fantasy",
+      "Music",
+      "Sci-Fi"
     ],
     "duration": null,
     "seasonYear": 2026,
@@ -9117,7 +9099,7 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1769007600
+          "airingAt": 1769068800
         }
       ]
     },
