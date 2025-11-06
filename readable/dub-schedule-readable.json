@@ -914,6 +914,108 @@
     "addedAt": "2025-10-07T21:39:20Z"
   },
   {
+    "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+    "route": "hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-wo-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite",
+    "romaji": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+    "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+    "native": "外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-11-06T23:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 178100,
+        "idMal": 59002,
+        "title": {
+          "romaji": "Hazure Skill «Kinomi Master»: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
+          "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+          "native": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~",
+          "userPreferred": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 25,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178100-GF4dKSrkdByJ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178100-GF4dKSrkdByJ.jpg",
+          "color": "#50c9e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-11-06T23:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-11-06T23:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-06T23:56:49Z"
+  },
+  {
     "title": "Isekai Quartet 3",
     "route": "isekai-quartet-3rd-season",
     "romaji": "Isekai Quartet 3",
