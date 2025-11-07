@@ -508,6 +508,7 @@
     "episodeDate": "2025-11-05T07:00:00Z",
     "episodeNumber": 2,
     "episodes": 8,
+    "lengthMin": 25,
     "mediaTypes": [
       {
         "name": "TV",
@@ -641,7 +642,7 @@
         },
         "format": "MOVIE",
         "genres": [],
-        "duration": null,
+        "duration": 18,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198188-h3w6uICVNhqh.png",
@@ -1369,6 +1370,7 @@
     "delayedUntil": "0001-01-01T17:15:00Z",
     "episodeDate": "2025-11-05T17:15:00Z",
     "episodeNumber": 4,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1803,8 +1805,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-11-07T17:30:00Z"
+              "episode": 8,
+              "airingAt": "2025-11-14T17:30:00Z"
             }
           ]
         }
@@ -1856,8 +1858,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-11-07T17:50:00Z"
+              "episode": 7,
+              "airingAt": "2025-11-14T17:50:00Z"
             }
           ]
         }
