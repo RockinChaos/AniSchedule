@@ -615,19 +615,20 @@
     "romaji": "Fujimoto Tatsuki 17-26",
     "english": "Tatsuki Fujimoto 17-26",
     "native": "藤本タツキ 17-26",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2025-11-07T23:00:00Z",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2025-11-07T14:00:00Z",
     "episodeNumber": 8,
     "subtractedEpisodeNumber": 1,
     "episodes": 8,
+    "lengthMin": 17,
     "mediaTypes": [
       {
         "name": "ONA",
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 198188,
@@ -653,35 +654,35 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 2,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 3,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 4,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 5,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 6,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2025-11-07T23:00:00Z"
+              "airingAt": "2025-11-07T14:00:00Z"
             }
           ]
         }
@@ -2351,8 +2352,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 17,
-              "airingAt": "2025-11-07T17:00:00Z"
+              "episode": 18,
+              "airingAt": "2025-11-14T17:00:00Z"
             }
           ]
         }
