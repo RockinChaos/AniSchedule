@@ -966,10 +966,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 182,
-          "airingAt": 1762508400
-        },
-        {
           "episode": 183,
           "airingAt": 1763113200
         },
@@ -1064,6 +1060,10 @@
         {
           "episode": 206,
           "airingAt": 1777023600
+        },
+        {
+          "episode": 207,
+          "airingAt": 1777628400
         }
       ]
     }
@@ -1719,10 +1719,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 116,
-          "airingAt": 1762509300
-        },
-        {
           "episode": 117,
           "airingAt": 1763114100
         },
@@ -2007,10 +2003,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1762531200
-        },
         {
           "episode": 20,
           "airingAt": 1763136000
@@ -2676,10 +2668,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1762524000
-        },
-        {
           "episode": 18,
           "airingAt": 1763128800
         },
@@ -3070,10 +3058,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762534380
-        },
-        {
           "episode": 7,
           "airingAt": 1763139180
         },
@@ -3378,10 +3362,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1762529400
-        },
         {
           "episode": 8,
           "airingAt": 1763134200
@@ -4025,10 +4005,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762525800
-        },
-        {
           "episode": 7,
           "airingAt": 1763130600
         },
@@ -4243,10 +4219,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762525800
-        },
         {
           "episode": 7,
           "airingAt": 1763130600
@@ -4593,10 +4565,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762520040
-        },
         {
           "episode": 7,
           "airingAt": 1763124840
@@ -5806,10 +5774,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762524000
-        },
         {
           "episode": 7,
           "airingAt": 1763128800
@@ -7828,10 +7792,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762515000
-        },
-        {
           "episode": 7,
           "airingAt": 1763119800
         },
@@ -8896,10 +8856,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1762513200
-        },
-        {
           "episode": 3,
           "airingAt": 1763118000
         },
@@ -9003,6 +8959,70 @@
         {
           "episode": 1,
           "airingAt": 1769068800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 201974,
+    "idMal": null,
+    "title": {
+      "romaji": "Kegareboshi Ao",
+      "english": null,
+      "native": "ケガレボシ・青",
+      "userPreferred": "Kegareboshi Ao"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1766674800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 201975,
+    "idMal": null,
+    "title": {
+      "romaji": "Kegareboshi Aka",
+      "english": null,
+      "native": "ケガレボシ・赤",
+      "userPreferred": "Kegareboshi Aka"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1766674800
         }
       ]
     },
