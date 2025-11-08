@@ -1362,10 +1362,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 192,
-          "airingAt": 1762554600
-        },
-        {
           "episode": 193,
           "airingAt": 1763159400
         },
@@ -1460,6 +1456,10 @@
         {
           "episode": 216,
           "airingAt": 1777069800
+        },
+        {
+          "episode": 217,
+          "airingAt": 1777674600
         }
       ]
     }
@@ -2493,6 +2493,87 @@
         }
       ]
     }
+  },
+  {
+    "id": 176276,
+    "idMal": 58505,
+    "title": {
+      "romaji": "Mato Seihei no Slave 2",
+      "english": null,
+      "native": "魔都精兵のスレイブ2",
+      "userPreferred": "Mato Seihei no Slave 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176276-rtF8mYd2OWw2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176276-rtF8mYd2OWw2.png",
+      "color": "#f1505d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767884400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768489200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769094000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769698800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770303600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770908400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771513200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772118000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772722800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773327600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773932400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 176298,
@@ -3947,10 +4028,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 32,
-          "airingAt": 1762552800
-        },
         {
           "episode": 33,
           "airingAt": 1763157600
@@ -6253,10 +6330,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1762562700
-        },
-        {
           "episode": 20,
           "airingAt": 1763167500
         },
@@ -6856,10 +6929,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762560000
-        },
-        {
           "episode": 7,
           "airingAt": 1763164800
         }
@@ -7006,10 +7075,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762549200
-        },
         {
           "episode": 7,
           "airingAt": 1763154000
@@ -7969,10 +8034,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762549200
-        },
         {
           "episode": 7,
           "airingAt": 1763154000
