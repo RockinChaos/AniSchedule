@@ -1091,13 +1091,9 @@
       "color": "#e45d78"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129195-lX3k3Fh14MP5.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762619400
-        },
         {
           "episode": 7,
           "airingAt": 1763224200
@@ -1805,10 +1801,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762613100
-        },
         {
           "episode": 7,
           "airingAt": 1763217900
@@ -2776,6 +2768,85 @@
     }
   },
   {
+    "id": 177580,
+    "idMal": 58861,
+    "title": {
+      "romaji": "Hanazakari no Kimitachi e",
+      "english": "Hana-Kimi",
+      "native": "花ざかりの君たちへ",
+      "userPreferred": "Hana-Kimi"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177580-ALhTqZABLp6D.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177580-ALhTqZABLp6D.jpg",
+      "color": "#fff193"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767529800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768134600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768739400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769344200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769949000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770553800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771158600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771763400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772368200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772973000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773577800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774182600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 177937,
     "idMal": 59027,
     "title": {
@@ -2802,10 +2873,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177937-jty4x7qBWG5n.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762610400
-        },
         {
           "episode": 7,
           "airingAt": 1763215200
@@ -3384,10 +3451,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1762608600
-        },
         {
           "episode": 8,
           "airingAt": 1763213400
@@ -4264,6 +4327,85 @@
     }
   },
   {
+    "id": 184951,
+    "idMal": 60371,
+    "title": {
+      "romaji": "Seihantai na Kimi to Boku",
+      "english": "You and I Are Polar Opposites",
+      "native": "正反対な君と僕",
+      "userPreferred": "You and I Are Polar Opposites"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184951-Unu28gPBUcRf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-Unu28gPBUcRf.jpg",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768118400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768723200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769328000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769932800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770537600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771142400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771747200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772352000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772956800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773561600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774166400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774771200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 184997,
     "idMal": 60378,
     "title": {
@@ -4419,10 +4561,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1762614000
-        },
         {
           "episode": 6,
           "airingAt": 1763218800
@@ -4791,10 +4929,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762617360
-        },
-        {
           "episode": 7,
           "airingAt": 1763222160
         },
@@ -4879,10 +5013,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762612200
-        },
         {
           "episode": 7,
           "airingAt": 1763217000
@@ -5456,10 +5586,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762612200
-        },
-        {
           "episode": 7,
           "airingAt": 1763217000
         },
@@ -5729,10 +5855,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762615800
-        },
         {
           "episode": 7,
           "airingAt": 1763220600
@@ -6200,10 +6322,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762612200
-        },
-        {
           "episode": 7,
           "airingAt": 1763217000
         },
@@ -6502,10 +6620,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762614600
-        },
         {
           "episode": 7,
           "airingAt": 1763219400
