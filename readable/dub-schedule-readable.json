@@ -586,7 +586,14 @@
           "userPreferred": "Tatsuki Fujimoto 17-26"
         },
         "format": "MOVIE",
-        "genres": [],
+        "genres": [
+          "Action",
+          "Drama",
+          "Psychological",
+          "Romance",
+          "Sci-Fi",
+          "Thriller"
+        ],
         "duration": 18,
         "seasonYear": 2025,
         "coverImage": {
