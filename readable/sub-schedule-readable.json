@@ -2198,10 +2198,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762873200
-        },
-        {
           "episode": 7,
           "airingAt": 1763478000
         },
@@ -3849,10 +3845,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1762878540
-        },
-        {
           "episode": 8,
           "airingAt": 1763483340
         },
@@ -4990,10 +4982,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1762871400
-        },
-        {
           "episode": 6,
           "airingAt": 1763476200
         },
@@ -5392,10 +5380,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1762880340
-        },
         {
           "episode": 7,
           "airingAt": 1763485140
@@ -6851,6 +6835,48 @@
     }
   },
   {
+    "id": 194712,
+    "idMal": null,
+    "title": {
+      "romaji": "Nukitashi THE ANIMATION OVAs",
+      "english": null,
+      "native": null,
+      "userPreferred": "Nukitashi THE ANIMATION OVAs"
+    },
+    "format": "OVA",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1764082800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1764082800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1766502000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1766502000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 194832,
     "idMal": null,
     "title": {
@@ -7123,6 +7149,10 @@
         {
           "episode": 2,
           "airingAt": 1764860400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1772118000
         }
       ]
     }
@@ -7504,10 +7534,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1762869600
-        },
-        {
           "episode": 5,
           "airingAt": 1763474400
         },
@@ -7876,10 +7902,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1762865760
-        },
-        {
           "episode": 7,
           "airingAt": 1763470560
         },
@@ -8090,7 +8112,7 @@
       "Hentai"
     ],
     "duration": 20,
-    "seasonYear": 2025,
+    "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198511-R3bEhSgsbCxr.png",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198511-R3bEhSgsbCxr.png",
@@ -8102,7 +8124,11 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1765465200
+          "airingAt": 1769698800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1772722800
         }
       ]
     },
