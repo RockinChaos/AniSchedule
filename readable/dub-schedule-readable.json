@@ -488,8 +488,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2025-11-12T08:00:00Z"
+              "episode": 4,
+              "airingAt": "2025-11-19T08:00:00Z"
             }
           ]
         }
@@ -2293,6 +2293,102 @@
     },
     "verified": true,
     "addedAt": "2025-07-18T22:14:31Z"
+  },
+  {
+    "title": "Wu Liuqi: Zhiji Yisui Pian",
+    "route": "wu-liuqi-zhiji-yisui-pian",
+    "romaji": "Wu Liuqi: Jiyi Suipian",
+    "english": "Scissor Seven Season 5",
+    "native": "伍六七之记忆碎片",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2025-11-12T04:00:00Z",
+    "episodeNumber": 10,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 10,
+    "lengthMin": 15,
+    "mediaTypes": [
+      {
+        "name": "ONA (Chinese)",
+        "route": "ona-chinese"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 182445,
+        "idMal": 59150,
+        "title": {
+          "romaji": "Wu Liuqi: Jiyi Suipian",
+          "english": null,
+          "native": "伍六七之记忆碎片",
+          "userPreferred": "Wu Liuqi: Jiyi Suipian"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 15,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182445-pHkLtguNcxWC.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182445-pHkLtguNcxWC.png",
+          "color": "#f1ae50"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-11-12T04:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-11-12T04:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-12T08:16:34Z"
   },
   {
     "title": "Yofukashi no Uta 2nd Season",
