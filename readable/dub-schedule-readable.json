@@ -2128,9 +2128,9 @@
     "title": "Virgin Punk: Clockwork Girl",
     "route": "virgin-punk",
     "native": "ヴァージン・パンク",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2025-11-11T15:00:00Z",
+    "delayedFrom": "0001-01-01T05:00:00Z",
+    "delayedUntil": "0001-01-01T05:00:00Z",
+    "episodeDate": "2025-11-13T05:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 35,
@@ -2140,7 +2140,7 @@
         "route": "movie"
       }
     ],
-    "unaired": false,
+    "unaired": true,
     "media": {
       "media": {
         "id": 181449,
@@ -2154,6 +2154,7 @@
         "format": "MOVIE",
         "genres": [
           "Action",
+          "Drama",
           "Fantasy",
           "Sci-Fi"
         ],
@@ -2170,7 +2171,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2025-11-11T15:00:00Z"
+              "airingAt": "2025-11-13T05:00:00Z"
             }
           ]
         }
