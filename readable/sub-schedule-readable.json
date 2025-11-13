@@ -1638,10 +1638,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1763046000
-        },
-        {
           "episode": 21,
           "airingAt": 1763650800
         },
@@ -3713,10 +3709,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763051280
-        },
-        {
           "episode": 8,
           "airingAt": 1763656080
         },
@@ -3767,10 +3759,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763040600
-        },
         {
           "episode": 8,
           "airingAt": 1763645400
@@ -4474,10 +4462,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763038800
-        },
-        {
           "episode": 8,
           "airingAt": 1763643600
         },
@@ -4909,10 +4893,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1763047800
-        },
-        {
           "episode": 20,
           "airingAt": 1763652600
         },
@@ -5067,10 +5047,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 32,
-          "airingAt": 1763053080
-        },
-        {
           "episode": 33,
           "airingAt": 1763657880
         },
@@ -5170,10 +5146,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763045760
-        },
         {
           "episode": 8,
           "airingAt": 1763650560
@@ -5466,10 +5438,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763038800
-        },
-        {
           "episode": 8,
           "airingAt": 1763643600
         },
@@ -5564,6 +5532,10 @@
         {
           "episode": 31,
           "airingAt": 1777554000
+        },
+        {
+          "episode": 32,
+          "airingAt": 1778158800
         }
       ]
     }
@@ -6969,10 +6941,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763047560
-        },
-        {
           "episode": 9,
           "airingAt": 1763652360
         },
@@ -7921,16 +7889,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1763046000
-        },
-        {
           "episode": 2,
           "airingAt": 1770303600
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 198373,
@@ -8127,10 +8090,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763049600
-        },
-        {
           "episode": 8,
           "airingAt": 1763654400
         },
@@ -8306,40 +8265,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 199154,
-    "idMal": null,
-    "title": {
-      "romaji": "GIRLS BAND CRY: Naa, Mirai.",
-      "english": null,
-      "native": "ガールズバンドクライ なぁ、未来。",
-      "userPreferred": "GIRLS BAND CRY: Naa, Mirai."
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Music",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199154-uqZFZ49UJzuv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199154-uqZFZ49UJzuv.jpg",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1763046000
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 199162,
@@ -8554,10 +8479,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763054100
-        },
         {
           "episode": 8,
           "airingAt": 1763658900
