@@ -1087,10 +1087,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763224200
-        },
-        {
           "episode": 8,
           "airingAt": 1763829000
         },
@@ -1765,10 +1761,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763217900
-        },
         {
           "episode": 8,
           "airingAt": 1763822700
@@ -2786,10 +2778,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763215200
-        },
-        {
           "episode": 8,
           "airingAt": 1763820000
         },
@@ -3344,10 +3332,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763213400
-        },
-        {
           "episode": 9,
           "airingAt": 1763818200
         },
@@ -3365,6 +3349,82 @@
         }
       ]
     }
+  },
+  {
+    "id": 181443,
+    "idMal": 59853,
+    "title": {
+      "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+      "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+      "native": "DARK MOON　-黒の月: 月の祭壇-",
+      "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+    },
+    "format": "TV",
+    "genres": [
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-vcnhsgKRF6qO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181443-vcnhsgKRF6qO.jpg",
+      "color": "#fe3528"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767970800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768575600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769180400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769785200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770390000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770994800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771599600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772204400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772809200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773414000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774018800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774623600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 181447,
@@ -4358,10 +4418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1763218800
-        },
-        {
           "episode": 7,
           "airingAt": 1763823600
         },
@@ -4709,10 +4765,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763222160
-        },
-        {
           "episode": 8,
           "airingAt": 1763826960
         },
@@ -4794,10 +4846,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763217000
-        },
-        {
           "episode": 8,
           "airingAt": 1763821800
         },
@@ -4878,7 +4926,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
@@ -5330,10 +5378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763217000
-        },
-        {
           "episode": 8,
           "airingAt": 1763821800
         },
@@ -5595,10 +5639,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763220600
-        },
         {
           "episode": 8,
           "airingAt": 1763825400
@@ -6046,10 +6086,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763217000
-        },
-        {
           "episode": 8,
           "airingAt": 1763821800
         },
@@ -6340,10 +6376,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763219400
-        },
         {
           "episode": 8,
           "airingAt": 1763824200
