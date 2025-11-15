@@ -1334,10 +1334,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 193,
-          "airingAt": 1763159400
-        },
-        {
           "episode": 194,
           "airingAt": 1763764200
         },
@@ -1432,6 +1428,10 @@
         {
           "episode": 217,
           "airingAt": 1777674600
+        },
+        {
+          "episode": 218,
+          "airingAt": 1778279400
         }
       ]
     }
@@ -3908,10 +3908,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 33,
-          "airingAt": 1763157600
-        },
-        {
           "episode": 34,
           "airingAt": 1763762400
         },
@@ -6172,10 +6168,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1763167500
-        },
-        {
           "episode": 21,
           "airingAt": 1763772300
         },
@@ -6777,37 +6769,6 @@
     "unaired": true
   },
   {
-    "id": 194832,
-    "idMal": null,
-    "title": {
-      "romaji": "Oshiri Tantei 9 Part 2",
-      "english": null,
-      "native": "おしりたんてい(第9シリーズ)",
-      "userPreferred": "Oshiri Tantei 9 Part 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194832-j9lUdLCYHd2N.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194832-j9lUdLCYHd2N.png",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763164800
-        }
-      ]
-    }
-  },
-  {
     "id": 195033,
     "idMal": 61937,
     "title": {
@@ -6943,10 +6904,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763154000
-        },
         {
           "episode": 8,
           "airingAt": 1763758800
@@ -7906,10 +7863,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763154000
-        },
         {
           "episode": 8,
           "airingAt": 1763758800
