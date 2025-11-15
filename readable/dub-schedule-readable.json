@@ -1102,7 +1102,7 @@
           "Fantasy",
           "Romance"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2025,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
@@ -1226,8 +1226,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-11-15T16:00:00Z"
+              "episode": 6,
+              "airingAt": "2025-11-22T16:00:00Z"
             }
           ]
         }
@@ -2321,9 +2321,9 @@
         "idMal": 59150,
         "title": {
           "romaji": "Wu Liuqi: Jiyi Suipian",
-          "english": null,
+          "english": "Scissor Seven Season 5",
           "native": "伍六七之记忆碎片",
-          "userPreferred": "Wu Liuqi: Jiyi Suipian"
+          "userPreferred": "Scissor Seven Season 5"
         },
         "format": "ONA",
         "genres": [
