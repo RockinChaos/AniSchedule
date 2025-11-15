@@ -158,10 +158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1182,
-          "airingAt": 1763197200
-        },
-        {
           "episode": 1183,
           "airingAt": 1763802000
         },
@@ -256,6 +252,10 @@
         {
           "episode": 1206,
           "airingAt": 1777712400
+        },
+        {
+          "episode": 1207,
+          "airingAt": 1778317200
         }
       ]
     }
@@ -286,10 +286,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1310,
-          "airingAt": 1763191800
-        },
         {
           "episode": 1311,
           "airingAt": 1763796600
@@ -385,6 +381,10 @@
         {
           "episode": 1334,
           "airingAt": 1777707000
+        },
+        {
+          "episode": 1335,
+          "airingAt": 1778311800
         }
       ]
     }
@@ -723,10 +723,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 889,
-          "airingAt": 1763193600
-        },
-        {
           "episode": 890,
           "airingAt": 1763798400
         },
@@ -821,6 +817,10 @@
         {
           "episode": 913,
           "airingAt": 1777708800
+        },
+        {
+          "episode": 914,
+          "airingAt": 1778313600
         }
       ]
     }
@@ -2271,7 +2271,7 @@
       "color": "#e4c9a1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173523-m3DvdxCNwX9N.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2519,10 +2519,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763209800
-        },
         {
           "episode": 8,
           "airingAt": 1763814600
@@ -3632,10 +3628,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763195400
-        },
         {
           "episode": 8,
           "airingAt": 1763800200
@@ -5148,10 +5140,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1763198700
-        },
-        {
           "episode": 8,
           "airingAt": 1763803500
         },
@@ -5793,10 +5781,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763208000
-        },
         {
           "episode": 8,
           "airingAt": 1763812800
