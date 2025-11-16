@@ -467,10 +467,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2806,
-          "airingAt": 1763285400
-        },
-        {
           "episode": 2807,
           "airingAt": 1763890200
         },
@@ -565,6 +561,10 @@
         {
           "episode": 2830,
           "airingAt": 1777800600
+        },
+        {
+          "episode": 2831,
+          "airingAt": 1778405400
         }
       ]
     }
@@ -886,10 +886,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 340,
-          "airingAt": 1763283600
-        },
         {
           "episode": 341,
           "airingAt": 1763888400
@@ -2072,10 +2068,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1763280000
-        },
         {
           "episode": 8,
           "airingAt": 1763884800
@@ -7306,10 +7298,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1763292600
-        },
         {
           "episode": 21,
           "airingAt": 1763897400
