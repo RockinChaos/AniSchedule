@@ -842,10 +842,11 @@
     "romaji": "Kakuriyo no Yadomeshi 2",
     "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
     "native": "かくりよの宿飯 第２期",
-    "delayedFrom": "2025-11-12T20:00:00Z",
-    "delayedUntil": "2025-11-19T20:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
     "episodeDate": "2025-11-19T20:00:00Z",
-    "episodeNumber": 5,
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -884,8 +885,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2025-11-19T20:00:00Z"
+              "episode": 7,
+              "airingAt": "2025-11-26T20:00:00Z"
             }
           ]
         }
