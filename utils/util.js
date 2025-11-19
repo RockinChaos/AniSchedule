@@ -94,24 +94,40 @@ export function getWeeksInYear(year) {
     return ((new Date(year, 0, 1).getDay() === 4) || (new Date(year, 11, 31).getDay() === 4)) ? 53 : 52
 }
 
+// Works great but the API only allows for about a month of future data.
+// export function calculateWeeksToFetch() {
+//     const { year, week} = getCurrentYearAndWeek()
+//     const weeksInCurrentYear = getWeeksInYear(year)
+//     const remainingWeeksThisYear = weeksInCurrentYear - week
+//
+//     if (remainingWeeksThisYear >= 26) {
+//         return { startYear: year, startWeek: week, endYear: year, endWeek: weeksInCurrentYear }
+//     } else {
+//         const extraWeeks = 26 - remainingWeeksThisYear
+//         const nextYear = year + 1
+//         const weeksInNextYear = getWeeksInYear(nextYear)
+//
+//         return {
+//             startYear: year,
+//             startWeek: week,
+//             endYear: nextYear,
+//             endWeek: Math.min(extraWeeks, weeksInNextYear),
+//         }
+//     }
+// }
+
 export function calculateWeeksToFetch() {
-    const { year, week} = getCurrentYearAndWeek()
+    const { year, week } = getCurrentYearAndWeek()
     const weeksInCurrentYear = getWeeksInYear(year)
-    const remainingWeeksThisYear = weeksInCurrentYear - week
-
-    if (remainingWeeksThisYear >= 26) {
-        return { startYear: year, startWeek: week, endYear: year, endWeek: weeksInCurrentYear }
+    const totalToFetch = 6
+    const endWeekRaw = week + (totalToFetch - 1)
+    if (endWeekRaw <= weeksInCurrentYear) {
+        return { startYear: year, startWeek: week, endYear: year, endWeek: endWeekRaw }
     } else {
-        const extraWeeks = 26 - remainingWeeksThisYear
         const nextYear = year + 1
+        const endWeekNextYear = endWeekRaw - weeksInCurrentYear
         const weeksInNextYear = getWeeksInYear(nextYear)
-
-        return {
-            startYear: year,
-            startWeek: week,
-            endYear: nextYear,
-            endWeek: Math.min(extraWeeks, weeksInNextYear),
-        }
+        return { startYear: year, startWeek: week, endYear: nextYear, endWeek: Math.min(endWeekNextYear, weeksInNextYear) }
     }
 }
 
