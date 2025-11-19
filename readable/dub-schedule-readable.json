@@ -1350,6 +1350,99 @@
     "addedAt": "2025-10-07T17:05:00Z"
   },
   {
+    "title": "One Piece",
+    "route": "one-piece",
+    "native": "ワンピース",
+    "delayedFrom": "0001-01-01T21:00:00Z",
+    "delayedUntil": "0001-01-01T21:00:00Z",
+    "episodeDate": "2025-11-25T21:00:00Z",
+    "episodeNumber": 1143,
+    "subtractedEpisodeNumber": 1134,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 21,
+        "idMal": 21,
+        "title": {
+          "romaji": "ONE PIECE",
+          "english": "ONE PIECE",
+          "native": "ONE PIECE",
+          "userPreferred": "ONE PIECE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1999,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1134,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1135,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1136,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1137,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1138,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1139,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1140,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1141,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1142,
+              "airingAt": "2025-11-25T21:00:00Z"
+            },
+            {
+              "episode": 1143,
+              "airingAt": "2025-11-25T21:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-19T02:29:12Z"
+  },
+  {
     "title": "Ranma ½ (2024) 2nd Season",
     "route": "ranma-2024-2nd-season",
     "romaji": "Ranma ½ (2024) 2nd Season",
