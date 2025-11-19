@@ -1,6 +1,5 @@
 import fs from 'fs'
 import path from 'path'
-import { hasZeroEpisode, getMediaMaxEp } from './anime.js'
 
 export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.())
 
@@ -264,6 +263,7 @@ function ensureDirectoryExists(filePath) {
  * @param {Array} changes - Array to push change messages to
  */
 export async function correctZeroEpisodes(type, mediaList, existingSchedule, existingFeed, changes) {
+    const { hasZeroEpisode, getMediaMaxEp } = await import('./anime.js')
     for (const entry of mediaList) {
         const existingEntry = existingSchedule?.find(media => media.id === entry.id)
         let isZeroEpisode = existingEntry?.zeroEpisode

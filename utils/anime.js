@@ -1,3 +1,4 @@
+import _anitomyscript from 'anitomyscript'
 import AnimeResolver from './animeresolver.js'
 import Bottleneck from 'bottleneck'
 import { sleep } from './util.js'
@@ -107,7 +108,6 @@ export function exactMatch(nest, title, keys) {
 // utility method for correcting anitomyscript woes for what's needed
 export async function anitomyscript (...args) {
     // @ts-ignore
-    const { default: _anitomyscript } = await import('anitomyscript')
     const res = await _anitomyscript(...args)
 
     const parseObjs = Array.isArray(res) ? res : [res]
