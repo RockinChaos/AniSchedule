@@ -1,5 +1,8 @@
 import fs from 'fs'
 import path from 'path'
+import { hasZeroEpisode, getMediaMaxEp } from './anime.js'
+
+export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.())
 
 /**
  * @template T
@@ -250,6 +253,72 @@ function ensureDirectoryExists(filePath) {
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir, { recursive: true })
     }
+}
+
+/**
+ * Corrects zero episode series by adjusting episode numbers and updating feeds
+ * @param {string} type - Dub or Sub.
+ * @param {Array} mediaList - List of media to check and correct
+ * @param {Array} existingSchedule - Existing schedule to check previous zero episode status
+ * @param {Array} existingFeed - Existing feed to be checked and modified.
+ * @param {Array} changes - Array to push change messages to
+ */
+export async function correctZeroEpisodes(type, mediaList, existingSchedule, existingFeed, changes) {
+    for (const entry of mediaList) {
+        const existingEntry = existingSchedule?.find(media => media.id === entry.id)
+        let isZeroEpisode = existingEntry?.zeroEpisode
+        if (isZeroEpisode === undefined) {
+            console.log(`(${type}) Detected series ${entry.title.userPreferred} is missing zeroEpisode result, checking for zero episodes...`)
+            const zeroEpisodeResult = await hasZeroEpisode(entry, null)
+            isZeroEpisode = zeroEpisodeResult !== null && zeroEpisodeResult.length > 0
+            if (!isZeroEpisode && getMediaMaxEp(entry, true) >= 4) entry.zeroEpisode = false
+        }
+        if (isZeroEpisode) {
+            if (!entry.airingSchedule?.nodes?.some(node => node.episode === 0) && entry.airingSchedule?.nodes?.some(node => node.episode >= 1)) {
+                console.log(`(${type}) Zero episode series detected for ${entry.title.userPreferred}, correcting episode numbers...`)
+                entry.airingSchedule.nodes.forEach(node => {
+                    const oldEpisode = node.episode
+                    node.episode = node.episode - 1
+                    console.log(`(${type}) Correcting ${entry.title.userPreferred} Episode ${oldEpisode} -> ${node.episode}`)
+                })
+            }
+        }
+        if (isZeroEpisode || existingEntry?.zeroEpisode !== null) entry.zeroEpisode = isZeroEpisode ?? existingEntry?.zeroEpisode
+    }
+    let feedChanged = false
+    for (const entry of mediaList.filter(m => m.zeroEpisode)) {
+        const previousEntry = existingSchedule?.find(media => media.id === entry.id)
+        if (previousEntry?.zeroEpisode === undefined) {
+            const episodesToCorrect = existingFeed.filter(episode => episode.id === entry.id)
+            if (episodesToCorrect.length > 0) {
+                const hasEpZero = episodesToCorrect.some(episode => episode.episode.aired === 0)
+                if (!hasEpZero && episodesToCorrect.some(ep => ep.episode.aired >= 1)) {
+                    console.log(`(${type}) Correcting existing episodes feed for zero episode series: ${entry.title.userPreferred}`)
+                    episodesToCorrect.forEach(ep => {
+                        if (ep.episode.aired >= 1) {
+                            const oldEpisode = ep.episode.aired
+                            ep.episode.aired = ep.episode.aired - 1
+                            console.log(`(${type}) Corrected episode ${oldEpisode} -> ${ep.episode.aired} for ${entry.title.userPreferred}`)
+                            changes.push(`(${type}) Corrected episode ${oldEpisode} -> ${ep.episode.aired} for ${entry.title.userPreferred}`)
+                        }
+                    })
+                    feedChanged = true
+                }
+            }
+        }
+    }
+    if (feedChanged) {
+        const newFeed = Object.values([...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc; }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
+        saveJSON(path.join(`./raw/${type.toLowerCase()}-episode-feed.json`), newFeed)
+        saveJSON(path.join(`./readable/${type.toLowerCase()}-episode-feed-readable.json`), newFeed, true)
+        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+        const updatedAt = past(new Date(), 0, true)
+        if (type === 'Sub') lastUpdated.subbed.episodes = updatedAt
+        else lastUpdated.dubbed.episodes = updatedAt
+        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+    }
+    return mediaList
 }
 
 export function saveJSON(filePath, data, prettyPrint = false) {

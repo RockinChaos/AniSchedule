@@ -1,5 +1,6 @@
 import lavenshtein from 'js-levenshtein'
 import Bottleneck from 'bottleneck'
+import { sleep } from './util.js'
 
 const queryObjects = /* js */`
 id,
@@ -114,8 +115,6 @@ function getDistanceFromTitle (media, name) {
         return media
     }
 }
-
-export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.())
 
 class AnilistClient {
 

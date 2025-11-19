@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { past, loadJSON, saveJSON, durationMap } from './utils/util.js'
+import { past, loadJSON, saveJSON, durationMap, correctZeroEpisodes } from './utils/util.js'
 import path from 'path'
 
 let updatedSubbedEpisodes = false
@@ -15,7 +15,7 @@ export async function fetchSubSchedule() {
 
     const date = new Date()
     const seasons = ['WINTER', 'SPRING', 'SUMMER', 'FALL']
-    const years = [date.getFullYear(), date.getFullYear() - 1, date.getFullYear() - 2, date.getFullYear() - 3, date.getFullYear() - 4, date.getFullYear() - 5]
+    const years = [date.getFullYear(), date.getFullYear() - 1, date.getFullYear() - 2, date.getFullYear() - 3]
     const currentSeason = seasons[Math.floor((date.getMonth() / 12) * 4) % 4]
     const results = { data: { Page: { media: [], pageInfo: { hasNextPage: false } } } }
 
@@ -63,15 +63,17 @@ export async function fetchSubSchedule() {
     results.data.Page.media = results.data.Page.media.filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index).sort((a, b) => a.id - b.id)
 	//.sort((a, b) => a.airingSchedule.nodes[0].episode - b.airingSchedule.nodes[0].episode).sort((a, b) => a.airingSchedule.nodes[0].airingAt - b.airingSchedule.nodes[0].airingAt) // probably best to retire sorting like this. It will help reduce the number of line changes in a commit, reducing complexity.
 
-    const media = results?.data?.Page?.media
+    let media = results?.data?.Page?.media
     media.forEach((a) => { if (new Date(a.airingSchedule.nodes[0].airingAt).getTime() > (new Date().getTime() / 1000) && !(a.airingSchedule.nodes[0].episode > 1)) a.unaired = true })
     if (media?.length > 0) {
+        let existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
+        media = await correctZeroEpisodes('Sub', media, existingSubbedSchedule, existingSubbedFeed, changes)
         console.log(`Successfully resolved ${media.length} airing, saving...`)
         await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
         await writeFile('./readable/sub-schedule-readable.json', JSON.stringify(media, null, 2))
-        changes.push(...await updateSubFeed(false, (await anilistClient.searchAllIDS({ id: media.map((entry) => entry.id), aired: true }))?.data?.Page?.media)) // find any missing for the currently scheduled media.
+        changes.push(...await updateSubFeed(false, await correctZeroEpisodes('Sub', (await anilistClient.searchAllIDS({ id: media.map((entry) => entry.id), aired: true }))?.data?.Page?.media, media, existingSubbedFeed, changes))) // find any missing for the currently scheduled media.
         changes.push(...await findMissingEpisodes())
-        const existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
+        existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
         const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
         for (const type of ['Sub', 'Hentai']) {
             let modified = false
@@ -120,6 +122,7 @@ async function findMissingEpisodes() {
     const currentTime = Math.floor(new Date().getTime() / 1000)
 
     const airingSchedule = await anilistClient.fetchAiringSchedule({ from: (currentTime - 4 * 24 * 60 * 60), to: currentTime })
+    const existingSubbedSchedule = loadJSON(path.join('./raw/sub-schedule.json'))
     const existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
     const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
 
@@ -127,16 +130,25 @@ async function findMissingEpisodes() {
         let missingEpisodes = []
         airingSchedule.data.Page.airingSchedules.filter((entry) => entry.media.seasonYear >= (new Date().getFullYear() - 1)).forEach((entry) => {
             if (((type !== 'Hentai' && !entry.media.genres?.includes('Hentai')) || (type === 'Hentai' && entry.media.genres?.includes('Hentai')))) {
-                if ((entry.airingAt <= currentTime) && !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some((ep) => ep.id === entry.media.id && ep.episode.aired === entry.episode)) { // episode has aired and is missing from existing feed.
-                    changes.push(`(${type}) Added Missing Episode ${entry.episode} for ${entry.media.title.userPreferred}`)
-                    console.log(`(${type}) Adding Missing Episode ${entry.episode} for ${entry.media.title.userPreferred} to the episode feed.`)
+                // Check if this is a zero episode series and correct the episode number
+                let correctedEpisode = entry.episode
+                if (type !== 'Hentai') { // Only check for Sub, Hentai never has zero episodes
+                    if (existingSubbedSchedule?.find(media => media.id === entry.media.id)?.zeroEpisode) {
+                        correctedEpisode = entry.episode - 1
+                        console.log(`(Sub) Zero episode series detected for ${entry.media.title.userPreferred}, correcting episode ${entry.episode} -> ${correctedEpisode}`)
+                    }
+                }
+
+                if ((entry.airingAt <= currentTime) && !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some((ep) => ep.id === entry.media.id && ep.episode.aired === correctedEpisode)) { // episode has aired and is missing from existing feed.
+                    changes.push(`(${type}) Added Missing Episode ${correctedEpisode} for ${entry.media.title.userPreferred}`)
+                    console.log(`(${type}) Adding Missing Episode ${correctedEpisode} for ${entry.media.title.userPreferred} to the episode feed.`)
                     const missingEpisode = {
-                        id:entry.media.id,
+                        id: entry.media.id,
                         ...(entry.media.idMal ? { idMal: entry.media.idMal } : {}),
                         format: entry.media.format,
                         duration: entry.media.duration ? entry.media.duration : durationMap[entry.media.format],
                         episode: {
-                            aired: entry.episode,
+                            aired: correctedEpisode,
                             airedAt: past(new Date(entry.airingAt * 1000), 0, false),
                             addedAt: past(new Date(), 0, true)
                         }
