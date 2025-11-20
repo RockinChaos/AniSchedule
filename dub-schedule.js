@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -411,10 +411,11 @@ export async function fetchDubSchedule() {
             changes.push(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
             console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
         }
+        const existingDubbedFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
+        combinedResults = await correctZeroEpisodes('Dub', combinedResults, exactSchedule, existingDubbedFeed, changes)
         console.log(`Successfully resolved ${combinedResults.length} airing, saving...`)
         await writeFile('./raw/dub-schedule.json', JSON.stringify(combinedResults))
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(combinedResults, null, 2))
-        const existingDubbedFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
         let modified = false
         combinedResults.forEach(entry => {
             existingDubbedFeed.filter(media => media.id === entry.media.media.id).forEach(episode => {

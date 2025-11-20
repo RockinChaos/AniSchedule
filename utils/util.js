@@ -264,8 +264,10 @@ function ensureDirectoryExists(filePath) {
  */
 export async function correctZeroEpisodes(type, mediaList, existingSchedule, existingFeed, changes) {
     const { hasZeroEpisode, getMediaMaxEp } = await import('./anime.js')
-    for (const entry of mediaList) {
-        const existingEntry = existingSchedule?.find(media => media.id === entry.id)
+    for (const _entry of mediaList) {
+        const entry = _entry?.media?.media ?? _entry
+        const foundEntry = existingSchedule?.find(media => (media?.media?.media ?? media).id === entry.id)
+        const existingEntry = foundEntry?.media?.media ?? foundEntry
         let isZeroEpisode = existingEntry?.zeroEpisode
         if (isZeroEpisode === undefined) {
             console.log(`(${type}) Detected series ${entry.title.userPreferred} is missing zeroEpisode result, checking for zero episodes...`)
@@ -286,8 +288,10 @@ export async function correctZeroEpisodes(type, mediaList, existingSchedule, exi
         if (isZeroEpisode || existingEntry?.zeroEpisode !== null) entry.zeroEpisode = isZeroEpisode ?? existingEntry?.zeroEpisode
     }
     let feedChanged = false
-    for (const entry of mediaList.filter(m => m.zeroEpisode)) {
-        const previousEntry = existingSchedule?.find(media => media.id === entry.id)
+    for (const _entry of mediaList.filter(media => (media?.media?.media ?? media).zeroEpisode)) {
+        const entry = _entry?.media?.media ?? _entry
+        const foundEntry = existingSchedule?.find(media => (media?.media?.media ?? media).id === entry.id)
+        const previousEntry = foundEntry?.media?.media ?? foundEntry
         if (previousEntry?.zeroEpisode === undefined) {
             const episodesToCorrect = existingFeed.filter(episode => episode.id === entry.id)
             if (episodesToCorrect.length > 0) {
