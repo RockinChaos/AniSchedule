@@ -420,10 +420,10 @@ export async function fetchDubSchedule() {
         combinedResults.forEach(entry => {
             existingDubbedFeed.filter(media => media.id === entry.media.media.id).forEach(episode => {
                 const media = entry.media.media
-                if ((media.idMal && (episode.idMal !== media.idMal)) || (episode.format !== (media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route))) || (episode.duration !== (media.duration ? media.duration : (entry.lengthMin || durationMap[media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route)])))) {
+                if ((media.idMal && (episode.idMal !== media.idMal && episode.episode.aired !== 0)) || (episode.format !== (media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route))) || (episode.duration !== (media.duration ? media.duration : (entry.lengthMin || durationMap[media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route)])))) {
                     changes.push(`(Dub) Updated Episode ${episode.episode.aired} for ${media.title.userPreferred} to correct its idMal, format, and duration.`)
                     console.log(`(Dub) Updated Episode ${episode.episode.aired} for ${media.title.userPreferred} to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
-                    if (media.idMal) episode.idMal = media.idMal
+                    if (media.idMal && episode.episode.aired !== 0) episode.idMal = media.idMal
                     episode.format = media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route)
                     episode.duration = media.duration ? media.duration : (entry.lengthMin || durationMap[media.format || mediaTypeMap(entry?.mediaTypes?.[0]?.route)])
                     modified = true
