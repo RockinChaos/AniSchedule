@@ -1625,10 +1625,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1763650800
-        },
-        {
           "episode": 22,
           "airingAt": 1764255600
         },
@@ -1697,39 +1693,6 @@
         {
           "episode": 122,
           "airingAt": 1766138100
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 161680,
-    "idMal": 55003,
-    "title": {
-      "romaji": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
-      "english": null,
-      "native": "1LDK＋JK いきなり同居？密着！？初エッチ！！？",
-      "userPreferred": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai",
-      "Romance"
-    ],
-    "duration": 16,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161680-NjggzN5hw0UL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161680-NjggzN5hw0UL.jpg",
-      "color": "#e4c9ae"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1763650800
         }
       ]
     },
@@ -3790,10 +3753,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763656080
-        },
-        {
           "episode": 9,
           "airingAt": 1764260880
         },
@@ -3841,10 +3800,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1763645400
-        },
         {
           "episode": 9,
           "airingAt": 1764250200
@@ -4527,10 +4482,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763643600
-        },
-        {
           "episode": 9,
           "airingAt": 1764248400
         },
@@ -4842,39 +4793,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185773,
-    "idMal": 60610,
-    "title": {
-      "romaji": "Hateshinaki Scarlet",
-      "english": "Scarlet",
-      "native": "果てしなきスカーレット",
-      "userPreferred": "Scarlet"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185773-N7dLeWyB14VA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185773-N7dLeWyB14VA.png",
-      "color": "#5da1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185773-oshTxFDv12LH.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1763650800
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 185801,
     "idMal": 60619,
     "title": {
@@ -4944,10 +4862,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185965-9YtD3BC30w26.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1763652600
-        },
         {
           "episode": 21,
           "airingAt": 1764257400
@@ -5094,10 +5008,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 33,
-          "airingAt": 1763657880
-        },
-        {
           "episode": 34,
           "airingAt": 1764262680
         },
@@ -5191,10 +5101,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1763650560
-        },
         {
           "episode": 9,
           "airingAt": 1764255360
@@ -5472,10 +5378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763643600
-        },
-        {
           "episode": 9,
           "airingAt": 1764248400
         },
@@ -5570,6 +5472,10 @@
         {
           "episode": 32,
           "airingAt": 1778158800
+        },
+        {
+          "episode": 33,
+          "airingAt": 1778763600
         }
       ]
     },
@@ -6965,10 +6871,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763652360
-        },
-        {
           "episode": 9,
           "airingAt": 1764257160
         },
@@ -8100,10 +8002,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763654400
-        },
-        {
           "episode": 9,
           "airingAt": 1764259200
         },
@@ -8480,10 +8378,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1763658900
-        },
         {
           "episode": 9,
           "airingAt": 1764263700
