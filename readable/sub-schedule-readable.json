@@ -1892,10 +1892,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1763740800
-        },
-        {
           "episode": 22,
           "airingAt": 1764345600
         },
@@ -2574,10 +2570,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1763733600
-        },
-        {
           "episode": 20,
           "airingAt": 1764338400
         },
@@ -3022,10 +3014,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763743980
-        },
-        {
           "episode": 9,
           "airingAt": 1764348780
         },
@@ -3460,10 +3448,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1763739000
-        },
         {
           "episode": 10,
           "airingAt": 1764343800
@@ -4010,10 +3994,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763735400
-        },
-        {
           "episode": 9,
           "airingAt": 1764340200
         },
@@ -4295,10 +4275,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1763735400
-        },
         {
           "episode": 9,
           "airingAt": 1764340200
@@ -5748,10 +5724,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1763733600
-        },
         {
           "episode": 9,
           "airingAt": 1764338400
@@ -8077,6 +8049,81 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 198720,
+    "idMal": null,
+    "title": {
+      "romaji": "Hokuto no Ken: Ken'ougun Zako-tachi no Banka",
+      "english": null,
+      "native": "北斗の拳 拳王軍ザコたちの挽歌",
+      "userPreferred": "Hokuto no Ken: Ken'ougun Zako-tachi no Banka"
+    },
+    "format": "TV_SHORT",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198720-QSeGpof5InK5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198720-QSeGpof5InK5.jpg",
+      "color": "#865d28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767610800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768215600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768820400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769425200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770030000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770634800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771239600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771844400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772449200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773054000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773658800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774263600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
