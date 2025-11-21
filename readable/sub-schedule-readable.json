@@ -959,10 +959,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 184,
-          "airingAt": 1763718000
-        },
-        {
           "episode": 185,
           "airingAt": 1764322800
         },
@@ -1057,6 +1053,10 @@
         {
           "episode": 208,
           "airingAt": 1778233200
+        },
+        {
+          "episode": 209,
+          "airingAt": 1778838000
         }
       ]
     },
@@ -1666,10 +1666,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 118,
-          "airingAt": 1763718900
-        },
         {
           "episode": 119,
           "airingAt": 1764323700
@@ -4615,10 +4611,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763729640
-        },
-        {
           "episode": 9,
           "airingAt": 1764334440
         },
@@ -4782,6 +4774,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 185753,
+    "idMal": 60602,
+    "title": {
+      "romaji": "MF Ghost 3rd Season",
+      "english": null,
+      "native": "MFゴースト 3rd Season",
+      "userPreferred": "MF Ghost 3rd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Sci-Fi",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
+      "color": "#35aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767537000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768141800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768746600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769351400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769956200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770561000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771165800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771770600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772375400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772980200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773585000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774189800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7696,10 +7766,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1763724600
-        },
-        {
           "episode": 9,
           "airingAt": 1764329400
         },
@@ -8650,10 +8716,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1763722800
-        },
         {
           "episode": 5,
           "airingAt": 1764327600
