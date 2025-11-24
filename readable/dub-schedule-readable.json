@@ -2317,6 +2317,65 @@
     "addedAt": "2025-10-18T18:11:16Z"
   },
   {
+    "title": "Towa no Yuugure",
+    "route": "towa-no-yuugure",
+    "romaji": "Towa no Yuugure",
+    "english": "Dusk Beyond the End of the World",
+    "native": "永久のユウグレ",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-12-17T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 195153,
+        "idMal": 61917,
+        "title": {
+          "romaji": "Towa no Yuugure",
+          "english": "Dusk Beyond the End of the World",
+          "native": "永久のユウグレ",
+          "userPreferred": "Dusk Beyond the End of the World"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Romance",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195153-yiRxZP5pPJLi.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195153-yiRxZP5pPJLi.png",
+          "color": "#f1ae5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195153-W9fU1Xo7qMCY.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 0,
+              "airingAt": "2025-12-17T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": true
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-12-17T17:00:00Z"
+  },
+  {
     "title": "WanDance",
     "route": "wondance",
     "native": "ワンダンス",
