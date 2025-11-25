@@ -1,5 +1,36 @@
 [
   {
+    "id": 170577,
+    "idMal": 57025,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 8,
+      "airedAt": "2025-11-25T15:00:00Z",
+      "addedAt": "2025-11-25T15:00:26Z"
+    }
+  },
+  {
+    "id": 194712,
+    "format": "OVA",
+    "duration": 25,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2025-11-25T15:00:00Z",
+      "addedAt": "2025-11-25T15:00:26Z"
+    }
+  },
+  {
+    "id": 194712,
+    "format": "OVA",
+    "duration": 25,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2025-11-25T15:00:00Z",
+      "addedAt": "2025-11-25T15:00:26Z"
+    }
+  },
+  {
     "id": 186161,
     "idMal": 60765,
     "format": "TV",
