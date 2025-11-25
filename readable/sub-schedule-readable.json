@@ -2066,10 +2066,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1764082800
-        },
-        {
           "episode": 9,
           "airingAt": 1764687600
         },
@@ -3985,10 +3981,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764088140
-        },
-        {
           "episode": 10,
           "airingAt": 1764692940
         },
@@ -5077,10 +5069,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1764081000
-        },
-        {
           "episode": 8,
           "airingAt": 1764685800
         },
@@ -5430,10 +5418,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1764089940
-        },
         {
           "episode": 9,
           "airingAt": 1764694740
@@ -6919,49 +6903,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 194712,
-    "idMal": null,
-    "title": {
-      "romaji": "Nukitashi THE ANIMATION OVAs",
-      "english": null,
-      "native": null,
-      "userPreferred": "Nukitashi THE ANIMATION OVAs"
-    },
-    "format": "OVA",
-    "genres": [],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1764082800
-        },
-        {
-          "episode": 2,
-          "airingAt": 1764082800
-        },
-        {
-          "episode": 3,
-          "airingAt": 1766502000
-        },
-        {
-          "episode": 4,
-          "airingAt": 1766502000
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 195033,
     "idMal": 61937,
     "title": {
@@ -7553,10 +7494,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1764079200
-        },
         {
           "episode": 7,
           "airingAt": 1764684000
