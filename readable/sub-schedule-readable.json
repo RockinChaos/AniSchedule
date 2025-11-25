@@ -1266,10 +1266,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 296,
-          "airingAt": 1764024000
-        },
-        {
           "episode": 297,
           "airingAt": 1764283200
         },
@@ -1512,7 +1508,7 @@
       "color": "#e4ae50"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153800-bgkLxE9SHmUi.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3112,7 +3108,7 @@
       "color": "#e4a15d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179992-ioBTPOAqH4ld.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3876,6 +3872,86 @@
         {
           "episode": 12,
           "airingAt": 1774773000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 183661,
+    "idMal": 60226,
+    "title": {
+      "romaji": "Isekai no Sata wa Shachiku Shidai",
+      "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+      "native": "異世界の沙汰は社畜次第",
+      "userPreferred": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183661-upLCXuPsSDDR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183661-upLCXuPsSDDR.png",
+      "color": "#e45d86"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767708000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768312800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768917600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769522400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770127200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770732000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771336800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771941600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772546400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773151200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773756000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774360800
         }
       ]
     },
@@ -6837,10 +6913,6 @@
         {
           "episode": 11,
           "airingAt": 1766410200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1767015000
         }
       ]
     },
@@ -7895,7 +7967,7 @@
   },
   {
     "id": 198373,
-    "idMal": null,
+    "idMal": 62421,
     "title": {
       "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
       "english": null,
