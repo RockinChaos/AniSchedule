@@ -1221,10 +1221,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1764144000
-        },
-        {
           "episode": 6,
           "airingAt": 1764748800
         },
@@ -6186,10 +6182,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1764154800
-        },
-        {
           "episode": 8,
           "airingAt": 1764759600
         },
@@ -6492,6 +6484,69 @@
         {
           "episode": 12,
           "airingAt": 1772872200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 189259,
+    "idMal": null,
+    "title": {
+      "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+      "english": "Ren Arisugawa Is Actually a Girl",
+      "native": "有栖川煉ってホントは女なんだよね。",
+      "userPreferred": "Ren Arisugawa Is Actually a Girl"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189259-vXGvEI1QcJS0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189259-vXGvEI1QcJS0.png",
+      "color": "#ffd693"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767452400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768057200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768662000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769871600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770476400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771081200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1772290800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772895600
         }
       ]
     },
@@ -7162,10 +7217,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764154740
-        },
         {
           "episode": 10,
           "airingAt": 1764759540
@@ -7872,7 +7923,7 @@
   },
   {
     "id": 198344,
-    "idMal": null,
+    "idMal": 62537,
     "title": {
       "romaji": "Mesu wo Karu Mura",
       "english": null,
@@ -8931,9 +8982,9 @@
     "duration": 16,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
-      "color": null
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201974-sK67F7OMBUdq.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201974-sK67F7OMBUdq.png",
+      "color": "#d6c9f1"
     },
     "isAdult": true,
     "bannerImage": null,
@@ -8964,9 +9015,9 @@
     "duration": 16,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
-      "color": null
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201975-qSaLXSKe4xsV.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201975-qSaLXSKe4xsV.png",
+      "color": "#e42878"
     },
     "isAdult": true,
     "bannerImage": null,
@@ -8975,6 +9026,72 @@
         {
           "episode": 1,
           "airingAt": 1766674800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 202893,
+    "idMal": null,
+    "title": {
+      "romaji": "L'amour fou de l'automate",
+      "english": null,
+      "native": "L'amour fou de l'automate",
+      "userPreferred": "L'amour fou de l'automate"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202893-z1PqTjt3fvEm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202893-z1PqTjt3fvEm.png",
+      "color": "#50aee4"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772118000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 202894,
+    "idMal": null,
+    "title": {
+      "romaji": "Ken Oni Virgo",
+      "english": null,
+      "native": "剣鬼バルゴ",
+      "userPreferred": "Ken Oni Virgo"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202894-vv6EPa1MKCmD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202894-vv6EPa1MKCmD.png",
+      "color": "#e45035"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772118000
         }
       ]
     },
