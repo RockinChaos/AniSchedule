@@ -1081,10 +1081,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764433800
-        },
-        {
           "episode": 10,
           "airingAt": 1765038600
         },
@@ -1642,10 +1638,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764427500
-        },
         {
           "episode": 10,
           "airingAt": 1765032300
@@ -2616,10 +2608,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764424800
-        },
-        {
           "episode": 10,
           "airingAt": 1765029600
         },
@@ -3135,10 +3123,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1764423000
-        },
         {
           "episode": 11,
           "airingAt": 1765027800
@@ -4377,7 +4361,8 @@
     "genres": [
       "Drama",
       "Mystery",
-      "Sci-Fi"
+      "Sci-Fi",
+      "Thriller"
     ],
     "duration": null,
     "seasonYear": 2025,
@@ -4390,10 +4375,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1764428400
-        },
         {
           "episode": 9,
           "airingAt": 1765033200
@@ -4707,10 +4688,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764431760
-        },
-        {
           "episode": 10,
           "airingAt": 1765036560
         },
@@ -4830,10 +4807,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764426600
-        },
         {
           "episode": 10,
           "airingAt": 1765031400
@@ -5297,10 +5270,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764426600
-        },
-        {
           "episode": 10,
           "airingAt": 1765031400
         },
@@ -5550,10 +5519,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764430200
-        },
         {
           "episode": 10,
           "airingAt": 1765035000
@@ -5965,10 +5930,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764426600
-        },
         {
           "episode": 10,
           "airingAt": 1765031400
@@ -6432,10 +6393,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764429000
-        },
         {
           "episode": 10,
           "airingAt": 1765033800
@@ -8795,6 +8752,83 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 203127,
+    "idMal": null,
+    "title": {
+      "romaji": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus",
+      "english": null,
+      "native": "プリンセス・プリンシパル Crown Handler 第4章「Fabulous Platypus」",
+      "userPreferred": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus"
+    },
+    "format": "OVA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 6,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203127-cJqnhI0w5WEk.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203127-cJqnhI0w5WEk.png",
+      "color": "#e4c986"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1769526000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 203146,
+    "idMal": 63013,
+    "title": {
+      "romaji": "Atashin'chi NEXT 2",
+      "english": null,
+      "native": "あたしンちNEXT 第2期",
+      "userPreferred": "Atashin'chi NEXT 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 10,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203146-6Zx7wl6hOEFH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203146-6Zx7wl6hOEFH.png",
+      "color": "#ffbb00"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1766179800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768858200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1771536600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1773955800
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
