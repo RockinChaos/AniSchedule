@@ -1264,6 +1264,113 @@
     "addedAt": "2025-11-05T18:00:00Z"
   },
   {
+    "title": "Nageki no Bourei wa Intai shitai",
+    "route": "nageki-no-bourei-wa-intai-shitai",
+    "romaji": "Nageki no Bourei wa Intai shitai",
+    "english": "Let This Grieving Soul Retire!",
+    "native": "嘆きの亡霊は引退したい",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-11-29T23:00:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 175019,
+        "idMal": 58172,
+        "title": {
+          "romaji": "Nageki no Bourei wa Intai Shitai",
+          "english": "Let This Grieving Soul Retire",
+          "native": "嘆きの亡霊は引退したい ",
+          "userPreferred": "Let This Grieving Soul Retire"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx175019-8lLRmHID5fMd.jpg",
+          "color": "#4393e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175019-D36g2OEKdAnU.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-11-29T23:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-11-29T23:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-11-30T00:11:52Z"
+  },
+  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
