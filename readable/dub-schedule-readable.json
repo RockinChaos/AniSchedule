@@ -1371,6 +1371,64 @@
     "addedAt": "2025-11-30T00:11:52Z"
   },
   {
+    "title": "Nageki no Bourei wa Intai shitai 2nd Season",
+    "route": "nageki-no-bourei-wa-intai-shitai-2nd-season",
+    "romaji": "Nageki no Bourei wa Intai shitai 2nd Season",
+    "english": "Let This Grieving Soul Retire 2nd Season",
+    "native": "嘆きの亡霊は引退したい 第2クールの",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-12-06T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 11,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185801,
+        "idMal": 60619,
+        "title": {
+          "romaji": "Nageki no Bourei wa Intai shitai 2",
+          "english": "Let This Grieving Soul Retire Cour 2",
+          "native": "嘆きの亡霊は引退したい 2",
+          "userPreferred": "Let This Grieving Soul Retire Cour 2"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185801-HaxWxYlkFnRg.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185801-HaxWxYlkFnRg.png",
+          "color": "#e450f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-12-06T23:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-12-06T23:00:00Z"
+  },
+  {
     "title": "Ninja to Gokudou",
     "route": "ninja-to-gokudou",
     "romaji": "Ninja to Gokudou",
