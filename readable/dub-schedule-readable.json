@@ -672,8 +672,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 19,
-              "airingAt": "2025-11-30T16:30:00Z"
+              "episode": 20,
+              "airingAt": "2025-12-07T16:30:00Z"
             }
           ]
         },
@@ -1538,7 +1538,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 153800,
@@ -1568,8 +1568,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2025-11-30T16:15:00Z"
+              "episode": 2,
+              "airingAt": "2025-12-07T16:15:00Z"
             }
           ]
         },
