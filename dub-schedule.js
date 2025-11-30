@@ -262,10 +262,11 @@ export async function fetchDubSchedule() {
             let attempt = 0
             for (const parseObjAlt of fallbackTitles) {
                 attempt++
+                const usedRoutes = new Set(order.map(o => o.route))
                 const mediaAlt = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObjAlt)]
                 const altVerification = !matchKeys(mediaAlt, parseObjAlt.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], threshold)
                 console.log(`Resolving ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred} which is ${altVerification ? 'needs verification' : 'verified'}`)
-                if (mediaAlt && !altVerification) {
+                if (mediaAlt && !altVerification && !usedRoutes.has(item.route)) {
                     titles.push(parseObjAlt.anime_title)
                     order.push({route: item.route, title: mediaAlt.title.userPreferred})
                     console.log(`Resolved alternative title ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred}`)
@@ -280,7 +281,8 @@ export async function fetchDubSchedule() {
                         if (match) { // thank god there is at least one url...
                             console.log(`Found ID ${match[1]} from URL ${url}, attempting to locate media for ${parseObj?.anime_title}`)
                             const res = await anilistClient.searchIDS({...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] })})
-                            const media = res?.data?.Page?.media[0]
+                            const usedRoutes = new Set(order.map(o => o.route))
+                            const media = !usedRoutes.has(item.route) && res?.data?.Page?.media[0]
                             if (media) { // yippie the impossible was made possible.
                                 AnimeResolver.cacheAnimeName(media.title.userPreferred, media)
                                 titles.push(media.title.userPreferred)
@@ -299,11 +301,12 @@ export async function fetchDubSchedule() {
                 }
             }
         } else {
-            item = airing.find(i => exactMatch(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'])) || airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], threshold))
+            const usedRoutes = new Set(order.map(o => o.route))
+            item = airing.find(i => !usedRoutes.has(i.route) && exactMatch(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'])) || airing.find(i => !usedRoutes.has(i.route) && matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], threshold))
             if (item) {
                 titles.push(parseObj.anime_title)
                 order.push({route: item.route, title: media.title.userPreferred})
-                console.log(`Resolved route ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
+                console.log(`Resolved route ${item.route}: ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
             } else { // anilist is sometimes just crap at resolving some titles as they use weird uni characters in the name or some titles just have a very similar name and anilist just doesn't check itself...
                 console.log(`Failed to resolve route ${parseObj?.anime_title}, trying to fetch database URL's directly`)
                 let fallback = false
@@ -314,7 +317,8 @@ export async function fetchDubSchedule() {
                     if (match) { // thank god there is at least one url...
                         console.log(`Found ID ${match[1]} from URL ${url}, attempting to locate media for ${parseObj?.anime_title}`)
                         const res = await anilistClient.searchIDS({...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] })})
-                        const media = res?.data?.Page?.media[0]
+                        const usedRoutes = new Set(order.map(o => o.route))
+                        const media = !usedRoutes.has(item.route) && res?.data?.Page?.media[0]
                         if (media) { // yippie the impossible was made possible.
                             AnimeResolver.cacheAnimeName(media.title.userPreferred, media)
                             titles.push(media.title.userPreferred)
