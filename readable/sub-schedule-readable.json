@@ -1120,10 +1120,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 117,
-          "airingAt": 1764554400
-        },
-        {
           "episode": 118,
           "airingAt": 1765159200
         },
@@ -1725,6 +1721,182 @@
         {
           "episode": 12,
           "airingAt": 1766415600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 165159,
+    "idMal": 56566,
+    "title": {
+      "romaji": "BEYBLADE X",
+      "english": "BEYBLADE X",
+      "native": "BEYBLADE X",
+      "userPreferred": "BEYBLADE X"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sports"
+    ],
+    "duration": 22,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165159-aCFC9Sng7t4M.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165159-aCFC9Sng7t4M.png",
+      "color": "#28aee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 107,
+          "airingAt": 1764926700
+        },
+        {
+          "episode": 108,
+          "airingAt": 1765531500
+        },
+        {
+          "episode": 109,
+          "airingAt": 1766136300
+        },
+        {
+          "episode": 110,
+          "airingAt": 1766741100
+        },
+        {
+          "episode": 111,
+          "airingAt": 1767345900
+        },
+        {
+          "episode": 112,
+          "airingAt": 1767950700
+        },
+        {
+          "episode": 113,
+          "airingAt": 1768555500
+        },
+        {
+          "episode": 114,
+          "airingAt": 1769160300
+        },
+        {
+          "episode": 115,
+          "airingAt": 1769765100
+        },
+        {
+          "episode": 116,
+          "airingAt": 1770369900
+        },
+        {
+          "episode": 117,
+          "airingAt": 1770974700
+        },
+        {
+          "episode": 118,
+          "airingAt": 1771579500
+        },
+        {
+          "episode": 119,
+          "airingAt": 1772184300
+        },
+        {
+          "episode": 120,
+          "airingAt": 1772789100
+        },
+        {
+          "episode": 121,
+          "airingAt": 1773393900
+        },
+        {
+          "episode": 122,
+          "airingAt": 1773998700
+        },
+        {
+          "episode": 123,
+          "airingAt": 1774603500
+        },
+        {
+          "episode": 124,
+          "airingAt": 1775208300
+        },
+        {
+          "episode": 125,
+          "airingAt": 1775813100
+        },
+        {
+          "episode": 126,
+          "airingAt": 1776417900
+        },
+        {
+          "episode": 127,
+          "airingAt": 1777022700
+        },
+        {
+          "episode": 128,
+          "airingAt": 1777627500
+        },
+        {
+          "episode": 129,
+          "airingAt": 1778232300
+        },
+        {
+          "episode": 130,
+          "airingAt": 1778837100
+        },
+        {
+          "episode": 131,
+          "airingAt": 1779441900
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 165530,
+    "idMal": 57353,
+    "title": {
+      "romaji": "Mofa Gongzhu De Xiao Fannao",
+      "english": "The Fated Magical Princess: Who Made Me a Princess",
+      "native": "魔法公主的小烦恼",
+      "userPreferred": "The Fated Magical Princess: Who Made Me a Princess"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165530-Ku7VZt2NCIgf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx165530-Ku7VZt2NCIgf.jpg",
+      "color": "#fea150"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165530-i4Wdldb0zmBf.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1765143600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1765748400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1766353200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1766958000
         }
       ]
     },
@@ -3763,7 +3935,7 @@
       "color": "#d6ae6b"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6688,7 +6860,7 @@
       "color": "#5093e4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195240-HcuZvXcdT5aX.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6867,6 +7039,86 @@
         {
           "episode": 1,
           "airingAt": 1767884400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 195515,
+    "idMal": 61983,
+    "title": {
+      "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+      "english": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+      "native": "勇者パーティーにかわいい子がいたので、告白してみた。",
+      "userPreferred": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-Ct7cgY22htvL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-Ct7cgY22htvL.jpg",
+      "color": "#1abbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767708000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768312800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768917600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769522400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770127200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770732000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771336800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771941600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772546400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773151200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773756000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774360800
         }
       ]
     },
