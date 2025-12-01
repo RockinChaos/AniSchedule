@@ -455,6 +455,330 @@
     "addedAt": "2025-09-10T17:00:00Z"
   },
   {
+    "title": "Digimon Ghost Game",
+    "route": "digimon-ghost-game",
+    "native": "デジモンゴーストゲーム",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2025-12-01T08:00:00Z",
+    "episodeNumber": 67,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 67,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 137309,
+        "idMal": 49515,
+        "title": {
+          "romaji": "Digimon Ghost Game",
+          "english": "Digimon Ghost Game",
+          "native": "デジモンゴーストゲーム",
+          "userPreferred": "Digimon Ghost Game"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Horror",
+          "Mystery",
+          "Sci-Fi"
+        ],
+        "duration": 23,
+        "seasonYear": 2021,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137309-1TTkC932WbYn.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137309-1TTkC932WbYn.jpg",
+          "color": "#78e443"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137309-FY8EoCpLsbHJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 20,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 21,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 23,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 24,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 25,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 26,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 27,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 28,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 29,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 30,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 31,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 32,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 33,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 34,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 35,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 36,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 37,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 38,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 39,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 40,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 41,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 42,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 43,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 44,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 45,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 46,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 47,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 48,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 49,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 50,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 51,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 52,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 53,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 54,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 55,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 56,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 57,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 58,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 59,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 60,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 61,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 62,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 63,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 64,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 65,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 66,
+              "airingAt": "2025-12-01T08:00:00Z"
+            },
+            {
+              "episode": 67,
+              "airingAt": "2025-12-01T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-12-01T08:00:00Z"
+  },
+  {
     "title": "Disney: Twisted-Wonderland",
     "route": "disney-twisted-wonderland",
     "native": "ディズニー ツイステッドワンダーランド",
