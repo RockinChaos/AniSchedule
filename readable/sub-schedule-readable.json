@@ -1707,10 +1707,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764601200
-        },
-        {
           "episode": 10,
           "airingAt": 1765206000
         },
@@ -1900,6 +1896,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 166521,
+    "idMal": 55772,
+    "title": {
+      "romaji": "Golden Kamuy: Saishuushou",
+      "english": null,
+      "native": "ゴールデンカムイ 最終章",
+      "userPreferred": "Golden Kamuy: Saishuushou"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166521-C43c7jzYmEUw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166521-C43c7jzYmEUw.jpg",
+      "color": "#f1785d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767621600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768226400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768831200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769436000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770040800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770645600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771250400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771855200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772460000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773064800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773669600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774274400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2137,10 +2212,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1764597600
-        },
         {
           "episode": 10,
           "airingAt": 1765202400
@@ -5335,10 +5406,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764606600
-        },
-        {
           "episode": 10,
           "airingAt": 1765211400
         },
@@ -5714,10 +5781,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1764603000
-        },
         {
           "episode": 11,
           "airingAt": 1765207800
@@ -6778,10 +6841,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1764595800
-        },
-        {
           "episode": 9,
           "airingAt": 1765200600
         },
@@ -7406,7 +7465,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196230-I74EkzFm3FYK.png",
@@ -7432,14 +7491,6 @@
         {
           "episode": 10,
           "airingAt": 1766498400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1767103200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1767708000
         }
       ]
     },
