@@ -2262,10 +2262,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1764592200
-        },
-        {
           "episode": 10,
           "airingAt": 1765197000
         },
@@ -2500,6 +2496,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 176370,
+    "idMal": 58524,
+    "title": {
+      "romaji": "Hime-sama, \"Goumon\" no Jikan desu 2nd Season",
+      "english": "'Tis Time for \"Torture,\" Princess Season 2",
+      "native": "姫様“拷問”の時間です 第2期",
+      "userPreferred": "'Tis Time for \"Torture,\" Princess Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176370-hz2H4TUeyGgt.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176370-hz2H4TUeyGgt.png",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768228200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768833000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769437800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1770042600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770647400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771252200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771857000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772461800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1773066600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773671400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774276200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774881000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8008,6 +8082,69 @@
         {
           "episode": 12,
           "airingAt": 1774263600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 198767,
+    "idMal": 62897,
+    "title": {
+      "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+      "english": "Ichigo Aika: Strawberry Elegy",
+      "native": "イチゴ哀歌～雑で生イキな妹と割り切れない兄～",
+      "userPreferred": "Ichigo Aika: Strawberry Elegy"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198767-Ju5PMJ9NHsSJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198767-Ju5PMJ9NHsSJ.jpg",
+      "color": "#e44350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767542760
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768147560
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768752360
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769357160
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769961960
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770566760
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771171560
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771776360
         }
       ]
     },
