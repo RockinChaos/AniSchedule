@@ -1071,8 +1071,8 @@
     "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
     "native": "かくりよの宿飯 第２期",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T20:00:00Z",
-    "delayedUntil": "0001-01-01T20:00:00Z",
+    "delayedFrom": "2025-12-03T20:00:00Z",
+    "delayedUntil": "2031-01-01T20:00:00Z",
     "episodeDate": "2025-12-03T20:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -1083,6 +1083,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -1114,7 +1115,7 @@
           "nodes": [
             {
               "episode": 8,
-              "airingAt": "2025-12-03T20:00:00Z"
+              "airingAt": "2031-01-01T20:00:00Z"
             }
           ]
         },
