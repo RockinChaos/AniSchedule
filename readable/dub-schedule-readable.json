@@ -1190,8 +1190,9 @@
     "romaji": "Kijin Gentoushou",
     "english": "Sword of the Demon Hunter: Kijin Gentosho",
     "native": "鬼人幻燈抄",
-    "delayedFrom": "2025-09-03T17:00:00Z",
-    "delayedUntil": "2025-10-01T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-03T17:00:00Z",
     "episodeNumber": 23,
     "episodes": 24,
@@ -1231,7 +1232,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 24,
+              "episode": 23,
               "airingAt": "2025-12-10T17:00:00Z"
             }
           ]
@@ -1305,8 +1306,9 @@
     "title": "Let's Play: Quest Darake no My Life",
     "route": "lets-play",
     "native": "Let's Play クエストだらけのマイライフ",
-    "delayedFrom": "0001-01-01T17:15:00Z",
-    "delayedUntil": "0001-01-01T17:15:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-03T17:15:00Z",
+    "delayedUntil": "2025-12-10T17:15:00Z",
     "episodeDate": "2025-12-03T17:15:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -1346,7 +1348,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
+              "episode": 8,
               "airingAt": "2025-12-10T17:15:00Z"
             }
           ]
@@ -2166,8 +2168,9 @@
     "romaji": "Tensei Akujo no Kuro Rekishi",
     "english": "The Dark History of the Reincarnated Villainess",
     "native": "転生悪女の黒歴史",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-03T17:00:00Z",
+    "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-03T17:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -2207,7 +2210,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2025-12-10T17:00:00Z"
             }
           ]
