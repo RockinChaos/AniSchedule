@@ -6608,6 +6608,150 @@
     "zeroEpisode": false
   },
   {
+    "id": 191967,
+    "idMal": 61608,
+    "title": {
+      "romaji": "Jigoku Sensei Nube (2025) Part 2",
+      "english": null,
+      "native": "地獄先生ぬ～べ～ (2025) 第2クール",
+      "userPreferred": "Jigoku Sensei Nube (2025) Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191967-fLWqssc0gPI4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191967-fLWqssc0gPI4.jpg",
+      "color": "#e4ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767753960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768358760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768963560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769568360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770173160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770777960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771382760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771987560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772592360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773197160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773801960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774406760
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 192867,
+    "idMal": 61694,
+    "title": {
+      "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "english": null,
+      "native": "アンドロイドは経験人数に入りますか？？",
+      "userPreferred": "Android wa Keiken Ninzuu ni Hairimasu ka??"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-upOgGlFfbAwx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192867-upOgGlFfbAwx.png",
+      "color": "#e41a93"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767974400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768579200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769184000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769788800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770393600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770998400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771603200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772208000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 193883,
     "idMal": 61765,
     "title": {
