@@ -418,10 +418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1727,
-          "airingAt": 1764899700
-        },
-        {
           "episode": 1728,
           "airingAt": 1765504500
         },
@@ -591,10 +587,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 633,
-          "airingAt": 1764886200
-        },
-        {
           "episode": 634,
           "airingAt": 1765491000
         },
@@ -689,6 +681,10 @@
         {
           "episode": 657,
           "airingAt": 1779401400
+        },
+        {
+          "episode": 658,
+          "airingAt": 1780006200
         }
       ]
     },
@@ -1241,10 +1237,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 299,
-          "airingAt": 1764888000
-        },
         {
           "episode": 300,
           "airingAt": 1765233600
@@ -5113,7 +5105,7 @@
       "color": "#1aaef1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -7358,6 +7350,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 195518,
+    "idMal": 62000,
+    "title": {
+      "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+      "english": null,
+      "native": "悪役令嬢は隣国の王太子に溺愛される",
+      "userPreferred": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195518-XXcYHi6tXM6v.jpg",
+      "color": "#5d86e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768140000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768744800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769349600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769954400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770559200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771164000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771768800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772373600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772978400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773583200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774188000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774792800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 196116,
     "idMal": 62353,
     "title": {
@@ -8363,6 +8433,80 @@
         {
           "episode": 13,
           "airingAt": 1766667240
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199005,
+    "idMal": 62521,
+    "title": {
+      "romaji": "#Kanagawa ni Sunderu Elf",
+      "english": null,
+      "native": "#神奈川に住んでるエルフ ",
+      "userPreferred": "#Kanagawa ni Sunderu Elf"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": 4,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199005-64XpgeaCMfir.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199005-64XpgeaCMfir.jpg",
+      "color": "#50a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1765422000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1766026800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1766631600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1767236400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1767841200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1768446000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1769050800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1769655600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1770260400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1770865200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1771470000
         }
       ]
     },
