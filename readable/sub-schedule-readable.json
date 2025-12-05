@@ -2029,10 +2029,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1764950400
-        },
-        {
           "episode": 24,
           "airingAt": 1765555200
         },
@@ -2756,10 +2752,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1764943200
-        },
-        {
           "episode": 22,
           "airingAt": 1765548000
         },
@@ -3176,10 +3168,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1764953580
-        },
-        {
           "episode": 11,
           "airingAt": 1765558380
         },
@@ -3578,10 +3566,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1764948600
-        },
         {
           "episode": 12,
           "airingAt": 1765553400
@@ -4235,10 +4219,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1764945000
-        },
-        {
           "episode": 11,
           "airingAt": 1765549800
         },
@@ -4504,10 +4484,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1764945000
-        },
         {
           "episode": 11,
           "airingAt": 1765549800
@@ -5192,6 +5168,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 186333,
+    "idMal": 60810,
+    "title": {
+      "romaji": "Majutsushi Kunon wa Mieteiru",
+      "english": "Kunon the Sorcerer Can See",
+      "native": "魔術師クノンは見えている",
+      "userPreferred": "Kunon the Sorcerer Can See"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186333-32qDHxLkndpg.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186333-32qDHxLkndpg.png",
+      "color": "#5da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767531600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768136400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768741200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769346000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769950800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770555600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771160400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771765200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772370000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772974800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773579600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774184400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 186524,
     "idMal": 60933,
     "title": {
@@ -5782,10 +5837,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1764943200
-        },
         {
           "episode": 11,
           "airingAt": 1765548000
@@ -6639,6 +6690,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 192507,
+    "idMal": 61663,
+    "title": {
+      "romaji": "Uruwashi no Yoi no Tsuki",
+      "english": null,
+      "native": "うるわしの宵の月",
+      "userPreferred": "Uruwashi no Yoi no Tsuki"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192507-dkEzMbiqTkLL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-dkEzMbiqTkLL.png",
+      "color": "#e4aea1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768116600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768721400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769326200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769931000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770535800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771140600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771745400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772350200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772955000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773559800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774164600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774769400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 192867,
     "idMal": 61694,
     "title": {
@@ -6867,6 +6996,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 194028,
+    "idMal": 61782,
+    "title": {
+      "romaji": "Kirei ni Shitemoraemasu ka.",
+      "english": null,
+      "native": "綺麗にしてもらえますか。",
+      "userPreferred": "Kirei ni Shitemoraemasu ka."
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194028-ASKnzjS1ily7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
+      "color": "#e45d43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767618000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768222800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768827600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769432400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770037200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770642000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771246800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771851600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772456400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773061200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773666000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774270800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
