@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1184,
-          "airingAt": 1765011600
-        },
-        {
           "episode": 1185,
           "airingAt": 1765616400
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1208,
           "airingAt": 1779526800
+        },
+        {
+          "episode": 1209,
+          "airingAt": 1780131600
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1313,
-          "airingAt": 1765006200
-        },
         {
           "episode": 1314,
           "airingAt": 1765611000
@@ -387,6 +383,10 @@
         {
           "episode": 1337,
           "airingAt": 1779521400
+        },
+        {
+          "episode": 1338,
+          "airingAt": 1780126200
         }
       ]
     },
@@ -717,10 +717,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 892,
-          "airingAt": 1765008000
-        },
-        {
           "episode": 893,
           "airingAt": 1765612800
         },
@@ -815,6 +811,10 @@
         {
           "episode": 916,
           "airingAt": 1779523200
+        },
+        {
+          "episode": 917,
+          "airingAt": 1780128000
         }
       ]
     },
@@ -2638,10 +2638,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765024200
-        },
-        {
           "episode": 11,
           "airingAt": 1765629000
         },
@@ -3865,10 +3861,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765009800
-        },
         {
           "episode": 11,
           "airingAt": 1765614600
@@ -5427,10 +5419,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765013100
-        },
-        {
           "episode": 11,
           "airingAt": 1765617900
         },
@@ -5987,10 +5975,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765022400
-        },
         {
           "episode": 11,
           "airingAt": 1765627200
@@ -8816,7 +8800,7 @@
   },
   {
     "id": 199162,
-    "idMal": null,
+    "idMal": 62578,
     "title": {
       "romaji": "Cool de M",
       "english": null,
@@ -8849,12 +8833,12 @@
   },
   {
     "id": 199164,
-    "idMal": null,
+    "idMal": 62577,
     "title": {
-      "romaji": "Hijiri Houshou Hana Saint Lime VN: VeasTube Eroero Haishin Edition♪",
+      "romaji": "Seihou Shouka Saint Lime VN: VeasTube Eroero Haishin Edition♪",
       "english": null,
       "native": "聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～",
-      "userPreferred": "Hijiri Houshou Hana Saint Lime VN: VeasTube Eroero Haishin Edition♪"
+      "userPreferred": "Seihou Shouka Saint Lime VN: VeasTube Eroero Haishin Edition♪"
     },
     "format": "OVA",
     "genres": [
