@@ -1312,10 +1312,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 196,
-          "airingAt": 1764973800
-        },
-        {
           "episode": 197,
           "airingAt": 1765578600
         },
@@ -1410,6 +1406,10 @@
         {
           "episode": 220,
           "airingAt": 1779489000
+        },
+        {
+          "episode": 221,
+          "airingAt": 1780093800
         }
       ]
     },
@@ -1995,6 +1995,86 @@
         {
           "episode": 12,
           "airingAt": 1774274400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 166613,
+    "idMal": 55825,
+    "title": {
+      "romaji": "Jigokuraku 2nd Season",
+      "english": "Hell’s Paradise Season 2",
+      "native": "地獄楽 第二期",
+      "userPreferred": "Hell’s Paradise Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166613-uHB8q3D4qbon.jpg",
+      "color": "#e49328"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166613-drS86exJlIjG.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768142640
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768747440
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769352240
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769957040
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770561840
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771166640
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771771440
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772376240
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772981040
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773585840
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774190640
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774795440
         }
       ]
     },
@@ -4177,10 +4257,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 36,
-          "airingAt": 1764972000
-        },
-        {
           "episode": 37,
           "airingAt": 1765576800
         },
@@ -6241,10 +6317,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1764981900
-        },
-        {
           "episode": 24,
           "airingAt": 1765586700
         },
@@ -7251,10 +7323,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1764968400
-        },
-        {
           "episode": 11,
           "airingAt": 1765573200
         },
@@ -8050,10 +8118,10 @@
     "id": 197474,
     "idMal": 62277,
     "title": {
-      "romaji": "Gintama Movie 3: Yoshiwara Daienjou",
-      "english": "Gintama Movie 3: Yoshiwara in Flames",
+      "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
+      "english": null,
       "native": "新劇場版 銀魂 -吉原大炎上-",
-      "userPreferred": "Gintama Movie 3: Yoshiwara in Flames"
+      "userPreferred": "Shin Gintama Movie: Yoshiwara Daienjou"
     },
     "format": "MOVIE",
     "genres": [
@@ -8280,10 +8348,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1764968400
-        },
         {
           "episode": 11,
           "airingAt": 1765573200
@@ -9501,6 +9565,83 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203472,
+    "idMal": null,
+    "title": {
+      "romaji": "Himitsu Kessha Taka no Tsume XX",
+      "english": null,
+      "native": "秘密結社 鷹の爪XX（ダブルエックス）",
+      "userPreferred": "Himitsu Kessha Taka no Tsume XX"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203472-MJDpus1DWo3Z.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203472-MJDpus1DWo3Z.png",
+      "color": "#f1ae00"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767650400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768255200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768860000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769464800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770674400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771279200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771884000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1773093600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1773698400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1774303200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774908000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1775512800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   }
 ]
