@@ -1073,10 +1073,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765038600
-        },
-        {
           "episode": 11,
           "airingAt": 1765643400
         },
@@ -1651,10 +1647,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765032300
-        },
-        {
           "episode": 11,
           "airingAt": 1765637100
         },
@@ -1744,6 +1736,86 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 163144,
+    "idMal": 54863,
+    "title": {
+      "romaji": "TRIGUN STARGAZE",
+      "english": "TRIGUN STARGAZE",
+      "native": "TRIGUN STARGAZE",
+      "userPreferred": "TRIGUN STARGAZE"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163144-XdVwFRxPGY6j.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg",
+      "color": "#e4bb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768053600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768658400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769263200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769868000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770472800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771077600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771682400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772287200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772892000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773496800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774101600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774706400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2075,6 +2147,91 @@
         {
           "episode": 12,
           "airingAt": 1774795440
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 166617,
+    "idMal": 55830,
+    "title": {
+      "romaji": "Fate/strange Fake",
+      "english": "Fate/strange Fake",
+      "native": "Fate/strange Fake",
+      "userPreferred": "Fate/strange Fake"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 25,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166617-34fpC9y47tTx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166617-34fpC9y47tTx.png",
+      "color": "#1a1af1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767450600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768055400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768660200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769265000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769869800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770474600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771079400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771684200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772289000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772893800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773498600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774103400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774708200
         }
       ]
     },
@@ -2951,10 +3108,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765029600
-        },
-        {
           "episode": 11,
           "airingAt": 1765634400
         },
@@ -3446,10 +3599,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765027800
-        },
         {
           "episode": 12,
           "airingAt": 1765632600
@@ -4655,10 +4804,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1765033200
-        },
-        {
           "episode": 10,
           "airingAt": 1765638000
         },
@@ -4951,10 +5096,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765036560
-        },
-        {
           "episode": 11,
           "airingAt": 1765641360
         },
@@ -5070,10 +5211,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765031400
-        },
         {
           "episode": 11,
           "airingAt": 1765636200
@@ -5576,10 +5713,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765031400
-        },
-        {
           "episode": 11,
           "airingAt": 1765636200
         },
@@ -5822,10 +5955,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765035000
-        },
-        {
           "episode": 11,
           "airingAt": 1765639800
         },
@@ -6066,6 +6195,135 @@
     "zeroEpisode": false
   },
   {
+    "id": 187989,
+    "idMal": 61217,
+    "title": {
+      "romaji": "Yuusha no Kuzu",
+      "english": null,
+      "native": "勇者のクズ",
+      "userPreferred": "Yuusha no Kuzu"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187989-oVeNMdtMh04i.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-oVeNMdtMh04i.png",
+      "color": "#e4ae86"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768060560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768665360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769270160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769874960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770479760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771084560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771689360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772294160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772898960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773503760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774108560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774713360
+        },
+        {
+          "episode": 13,
+          "airingAt": 1775318160
+        },
+        {
+          "episode": 14,
+          "airingAt": 1775922960
+        },
+        {
+          "episode": 15,
+          "airingAt": 1776527760
+        },
+        {
+          "episode": 16,
+          "airingAt": 1777132560
+        },
+        {
+          "episode": 17,
+          "airingAt": 1777737360
+        },
+        {
+          "episode": 18,
+          "airingAt": 1778342160
+        },
+        {
+          "episode": 19,
+          "airingAt": 1778946960
+        },
+        {
+          "episode": 20,
+          "airingAt": 1779551760
+        },
+        {
+          "episode": 21,
+          "airingAt": 1780156560
+        },
+        {
+          "episode": 22,
+          "airingAt": 1780761360
+        },
+        {
+          "episode": 23,
+          "airingAt": 1781366160
+        },
+        {
+          "episode": 24,
+          "airingAt": 1781970960
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 188034,
     "idMal": 61227,
     "title": {
@@ -6216,10 +6474,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765031400
-        },
         {
           "episode": 11,
           "airingAt": 1765636200
@@ -6618,10 +6872,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765033800
-        },
-        {
           "episode": 11,
           "airingAt": 1765638600
         },
@@ -7014,6 +7264,41 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 193923,
+    "idMal": 61770,
+    "title": {
+      "romaji": "Kono Hon wo Nusumu Mono wa",
+      "english": null,
+      "native": "この本を盗む者は",
+      "userPreferred": "Kono Hon wo Nusumu Mono wa"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193923-BJPyMB55Q4WC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193923-BJPyMB55Q4WC.jpg",
+      "color": "#f1a143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1766674800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
