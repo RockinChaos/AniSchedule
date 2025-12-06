@@ -882,8 +882,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2025-12-06T21:00:00Z"
+              "episode": 11,
+              "airingAt": "2025-12-13T21:00:00Z"
             }
           ]
         },
@@ -953,8 +953,9 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
+    "delayedText": "Delayed ",
+    "delayedFrom": "2025-12-06T17:30:00Z",
+    "delayedUntil": "2025-12-13T17:30:00Z",
     "episodeDate": "2025-12-06T17:30:00Z",
     "episodeNumber": 6,
     "lengthMin": 26,
@@ -994,7 +995,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2025-12-13T17:30:00Z"
             }
           ]
@@ -2095,8 +2096,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-06T20:30:00Z"
+              "episode": 9,
+              "airingAt": "2025-12-13T20:30:00Z"
             }
           ]
         },
