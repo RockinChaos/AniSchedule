@@ -338,6 +338,73 @@
     "addedAt": "2025-10-18T20:08:43Z"
   },
   {
+    "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+    "route": "cardfight-vanguard-divinez-deluxe-kesshou-hen",
+    "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+    "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
+    "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2025-12-05T23:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 10,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 191994,
+        "idMal": 54145,
+        "title": {
+          "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+          "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
+          "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
+          "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191994-hRBORUotkRjI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191994-hRBORUotkRjI.jpg",
+          "color": "#ffbb43"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 10,
+              "airingAt": "2025-12-05T23:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2025-12-05T23:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2025-12-05T23:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2025-12-07T08:15:19Z"
+  },
+  {
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
