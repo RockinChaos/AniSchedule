@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1152,
-          "airingAt": 1765116960
-        },
-        {
           "episode": 1153,
           "airingAt": 1765721760
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1176,
           "airingAt": 1779632160
+        },
+        {
+          "episode": 1177,
+          "airingAt": 1780236960
         }
       ]
     },
@@ -1480,10 +1480,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1765118760
-        },
-        {
           "episode": 10,
           "airingAt": 1765723560
         },
@@ -2619,10 +2615,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765117800
-        },
-        {
           "episode": 11,
           "airingAt": 1765722600
         },
@@ -2707,51 +2699,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1767884400
+          "airingAt": 1767880800
         },
         {
           "episode": 2,
-          "airingAt": 1768489200
+          "airingAt": 1768485600
         },
         {
           "episode": 3,
-          "airingAt": 1769094000
+          "airingAt": 1769090400
         },
         {
           "episode": 4,
-          "airingAt": 1769698800
+          "airingAt": 1769695200
         },
         {
           "episode": 5,
-          "airingAt": 1770303600
+          "airingAt": 1770300000
         },
         {
           "episode": 6,
-          "airingAt": 1770908400
+          "airingAt": 1770904800
         },
         {
           "episode": 7,
-          "airingAt": 1771513200
+          "airingAt": 1771509600
         },
         {
           "episode": 8,
-          "airingAt": 1772118000
+          "airingAt": 1772114400
         },
         {
           "episode": 9,
-          "airingAt": 1772722800
+          "airingAt": 1772719200
         },
         {
           "episode": 10,
-          "airingAt": 1773327600
+          "airingAt": 1773324000
         },
         {
           "episode": 11,
-          "airingAt": 1773932400
+          "airingAt": 1773928800
         },
         {
           "episode": 12,
-          "airingAt": 1774537200
+          "airingAt": 1774533600
         }
       ]
     },
@@ -3142,10 +3134,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1765117800
-        },
-        {
           "episode": 23,
           "airingAt": 1765722600
         },
@@ -3459,10 +3447,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179992-ioBTPOAqH4ld.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765112400
-        },
         {
           "episode": 11,
           "airingAt": 1765717200
@@ -3939,38 +3923,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 182531,
-    "idMal": 62379,
-    "title": {
-      "romaji": "Guilty Hole",
-      "english": "Guilty Hole ～ Room of Guilty Pleasure",
-      "native": "ギルティホール",
-      "userPreferred": "Guilty Hole ～ Room of Guilty Pleasure"
-    },
-    "format": "ONA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 7,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182531-u1aOKnUuC9dH.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182531-u1aOKnUuC9dH.png",
-      "color": "#d66bae"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1765119600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5301,10 +5253,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765116000
-        },
-        {
           "episode": 11,
           "airingAt": 1765720800
         }
@@ -5449,10 +5397,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1765114200
-        },
         {
           "episode": 10,
           "airingAt": 1765719000
@@ -5852,10 +5796,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765123560
-        },
         {
           "episode": 11,
           "airingAt": 1765728360
@@ -9283,10 +9223,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765123560
-        },
-        {
           "episode": 11,
           "airingAt": 1765728360
         },
@@ -9426,6 +9362,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 200556,
+    "idMal": 62804,
+    "title": {
+      "romaji": "High School! Kimengumi (2026)",
+      "english": null,
+      "native": "ハイスクール！奇面組 (2026)",
+      "userPreferred": "High School! Kimengumi (2026)"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-17KOwGKDtL3U.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200556-17KOwGKDtL3U.jpg",
+      "color": "#a150fe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767925800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768530600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769135400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769740200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770345000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770949800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771554600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772159400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772764200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773369000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773973800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774578600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
