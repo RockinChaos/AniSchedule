@@ -1707,7 +1707,7 @@
       "color": "#5dc9f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162890-VwVyF6sue03L.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2562,10 +2562,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765197000
-        },
-        {
           "episode": 11,
           "airingAt": 1765801800
         },
@@ -3097,6 +3093,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 178005,
+    "idMal": 59047,
+    "title": {
+      "romaji": "Tamon-kun Ima Docchi!?",
+      "english": null,
+      "native": "多聞くん今どっち！？",
+      "userPreferred": "Tamon-kun Ima Docchi!?"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178005-Yf9MrIu6gJMb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178005-Yf9MrIu6gJMb.jpg",
+      "color": "#e4355d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767279600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1767884400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768489200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769094000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769698800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770303600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1770908400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771513200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772118000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772722800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773327600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1773932400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5934,9 +6008,9 @@
     "idMal": 61184,
     "title": {
       "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
-      "english": null,
+      "english": "Style of Hiroshi Nohara's Lunch",
       "native": "野原ひろし 昼メシの流儀",
-      "userPreferred": "Nohara Hiroshi: Hiru Meshi no Ryuugi"
+      "userPreferred": "Style of Hiroshi Nohara's Lunch"
     },
     "format": "TV",
     "genres": [
@@ -6746,7 +6820,10 @@
       "userPreferred": "Kusunoki no Bannin"
     },
     "format": "MOVIE",
-    "genres": [],
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
@@ -6801,6 +6878,88 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 191205,
+    "idMal": 61549,
+    "title": {
+      "romaji": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei",
+      "english": null,
+      "native": "お気楽領主の楽しい領地防衛",
+      "userPreferred": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191205-7ynaX3pgIckx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191205-7ynaX3pgIckx.png",
+      "color": "#78a128"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767790800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768395600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769000400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769605200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770210000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770814800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771419600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772024400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772629200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773234000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773838800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774443600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
