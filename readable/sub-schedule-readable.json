@@ -1711,10 +1711,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765206000
-        },
-        {
           "episode": 11,
           "airingAt": 1765810800
         },
@@ -2305,9 +2301,9 @@
     "idMal": 56877,
     "title": {
       "romaji": "Ao no Orchestra Season 2",
-      "english": null,
+      "english": "Blue Orchestra Season 2",
       "native": "青のオーケストラ Season2",
-      "userPreferred": "Ao no Orchestra Season 2"
+      "userPreferred": "Blue Orchestra Season 2"
     },
     "format": "TV",
     "genres": [
@@ -2441,10 +2437,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765202400
-        },
         {
           "episode": 11,
           "airingAt": 1765807200
@@ -5632,10 +5624,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765211400
-        },
-        {
           "episode": 11,
           "airingAt": 1765816200
         },
@@ -5991,10 +5979,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765207800
-        },
         {
           "episode": 12,
           "airingAt": 1765812600
@@ -7075,6 +7059,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 192261,
+    "idMal": 61637,
+    "title": {
+      "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+      "english": "The Daily Life of a Single 29-Year-Old Adventurer",
+      "native": "29歳独身中堅冒険者の日常",
+      "userPreferred": "The Daily Life of a Single 29-Year-Old Adventurer"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b192261-HOItVoojFk0G.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b192261-HOItVoojFk0G.jpg",
+      "color": "#f1f186"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767789000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768393800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768998600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769603400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770208200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770813000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771417800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772022600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772627400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773232200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773837000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774441800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 192507,
     "idMal": 61663,
     "title": {
@@ -7560,10 +7623,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1765200600
-        },
-        {
           "episode": 10,
           "airingAt": 1765805400
         },
@@ -7573,6 +7632,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 194742,
+    "idMal": 61884,
+    "title": {
+      "romaji": "Maou no Musume wa Yasashi Sugiru!!",
+      "english": null,
+      "native": "魔王の娘は優しすぎる!!",
+      "userPreferred": "Maou no Musume wa Yasashi Sugiru!!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194742-Cw08T4vIfD3y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194742-Cw08T4vIfD3y.jpg",
+      "color": "#e45d50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767704400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1767704400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768309200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1768914000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769518800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770123600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1770728400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771333200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1771938000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772542800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773147600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1773752400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
