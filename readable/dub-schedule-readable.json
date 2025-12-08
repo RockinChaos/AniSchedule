@@ -5,10 +5,9 @@
     "romaji": "3-nen Z-gumi Ginpachi-sensei",
     "english": "GINTAMA - Mr. Ginpachi's Zany Class",
     "native": "3年Z組銀八先生",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-01T17:00:00Z",
     "delayedUntil": "2025-12-08T17:00:00Z",
-    "episodeDate": "2025-12-01T17:00:00Z",
+    "episodeDate": "2025-12-08T17:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -64,8 +63,8 @@
     "native": "悪食令嬢と狂血公爵",
     "delayedFrom": "0001-01-01T18:00:00Z",
     "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-12-04T18:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-11T18:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -121,8 +120,8 @@
     "native": "暗殺者である俺のステータスが勇者よりも明らかに強いのだが",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-01T17:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-08T17:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -177,8 +176,8 @@
     "native": "ばっどがーる",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-03T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-12-10T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -231,8 +230,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2025-12-06T22:45:00Z",
-    "episodeNumber": 70,
+    "episodeDate": "2025-12-13T22:45:00Z",
+    "episodeNumber": 71,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -288,8 +287,8 @@
     "native": "僕のヒーローアカデミア FINAL SEASON",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-06T20:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-13T20:00:00Z",
+    "episodeNumber": 9,
     "episodes": 11,
     "lengthMin": 23,
     "mediaTypes": [
@@ -338,80 +337,13 @@
     "addedAt": "2025-10-18T20:08:43Z"
   },
   {
-    "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-    "route": "cardfight-vanguard-divinez-deluxe-kesshou-hen",
-    "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-    "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
-    "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2025-12-05T23:00:00Z",
-    "episodeNumber": 12,
-    "subtractedEpisodeNumber": 10,
-    "episodes": 12,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 191994,
-        "idMal": 54145,
-        "title": {
-          "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
-          "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
-          "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編",
-          "userPreferred": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191994-hRBORUotkRjI.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191994-hRBORUotkRjI.jpg",
-          "color": "#ffbb43"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 10,
-              "airingAt": "2025-12-05T23:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-12-05T23:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-12-05T23:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-12-07T08:15:19Z"
-  },
-  {
     "title": "Cat's♥Eye (2025)",
     "route": "cats-eye-2025",
     "native": "キャッツ❤︎アイ",
     "delayedText": "Paused",
     "delayedFrom": "2025-11-07T07:00:00Z",
     "delayedUntil": "2025-12-26T07:00:00Z",
-    "episodeDate": "2025-12-05T07:00:00Z",
+    "episodeDate": "2025-12-12T07:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
@@ -464,337 +396,13 @@
     "addedAt": "2025-09-25T15:00:00Z"
   },
   {
-    "title": "Digimon Ghost Game",
-    "route": "digimon-ghost-game",
-    "native": "デジモンゴーストゲーム",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2025-12-01T08:00:00Z",
-    "episodeNumber": 67,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 67,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 137309,
-        "idMal": 49515,
-        "title": {
-          "romaji": "Digimon Ghost Game",
-          "english": "Digimon Ghost Game",
-          "native": "デジモンゴーストゲーム",
-          "userPreferred": "Digimon Ghost Game"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Horror",
-          "Mystery",
-          "Sci-Fi"
-        ],
-        "duration": 23,
-        "seasonYear": 2021,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137309-1TTkC932WbYn.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137309-1TTkC932WbYn.jpg",
-          "color": "#78e443"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137309-FY8EoCpLsbHJ.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 13,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 14,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 15,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 16,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 17,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 18,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 19,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 20,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 21,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 22,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 23,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 24,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 25,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 26,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 27,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 28,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 29,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 30,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 31,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 32,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 33,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 34,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 35,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 36,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 37,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 38,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 39,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 40,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 41,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 42,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 43,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 44,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 45,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 46,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 47,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 48,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 49,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 50,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 51,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 52,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 53,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 54,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 55,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 56,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 57,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 58,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 59,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 60,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 61,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 62,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 63,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 64,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 65,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 66,
-              "airingAt": "2025-12-01T08:00:00Z"
-            },
-            {
-              "episode": 67,
-              "airingAt": "2025-12-01T08:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-12-01T08:00:00Z"
-  },
-  {
     "title": "Disney: Twisted-Wonderland",
     "route": "disney-twisted-wonderland",
     "native": "ディズニー ツイステッドワンダーランド",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2025-12-03T08:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-12-10T08:00:00Z",
+    "episodeNumber": 7,
     "episodes": 8,
     "lengthMin": 25,
     "mediaTypes": [
@@ -908,8 +516,8 @@
     "native": "不滅のあなたへ3",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-12-06T21:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-13T21:00:00Z",
+    "episodeNumber": 11,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -966,8 +574,8 @@
     "native": "ガチアクタ",
     "delayedFrom": "2025-10-12T16:30:00Z",
     "delayedUntil": "2025-10-26T16:30:00Z",
-    "episodeDate": "2025-12-07T16:30:00Z",
-    "episodeNumber": 20,
+    "episodeDate": "2025-12-14T16:30:00Z",
+    "episodeNumber": 21,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1020,10 +628,9 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedText": "Delayed ",
     "delayedFrom": "2025-12-06T17:30:00Z",
     "delayedUntil": "2025-12-13T17:30:00Z",
-    "episodeDate": "2025-12-06T17:30:00Z",
+    "episodeDate": "2025-12-13T17:30:00Z",
     "episodeNumber": 6,
     "lengthMin": 26,
     "mediaTypes": [
@@ -1079,10 +686,9 @@
     "romaji": "Isekai Quartet 3",
     "english": "Isekai Quartet 3",
     "native": "異世界かるてっと3",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-01T20:00:00Z",
     "delayedUntil": "2025-12-08T20:00:00Z",
-    "episodeDate": "2025-12-01T20:00:00Z",
+    "episodeDate": "2025-12-08T20:00:00Z",
     "episodeNumber": 6,
     "episodes": 11,
     "lengthMin": 12,
@@ -1138,10 +744,9 @@
     "romaji": "Kakuriyo no Yadomeshi 2",
     "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
     "native": "かくりよの宿飯 第２期",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-03T20:00:00Z",
     "delayedUntil": "2025-12-10T20:00:00Z",
-    "episodeDate": "2025-12-03T20:00:00Z",
+    "episodeDate": "2025-12-10T20:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -1200,8 +805,8 @@
     "native": "結婚指輪物語 第2期",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-12-06T21:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-13T21:30:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1258,10 +863,9 @@
     "romaji": "Kijin Gentoushou",
     "english": "Sword of the Demon Hunter: Kijin Gentosho",
     "native": "鬼人幻燈抄",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-03T17:00:00Z",
     "delayedUntil": "2025-12-10T17:00:00Z",
-    "episodeDate": "2025-12-03T17:00:00Z",
+    "episodeDate": "2025-12-10T17:00:00Z",
     "episodeNumber": 23,
     "episodes": 24,
     "lengthMin": 24,
@@ -1317,10 +921,9 @@
     "romaji": "Kimi to Koete Koi ni Naru",
     "english": "With You, Our Love Will Make It Through",
     "native": "キミと越えて恋になる",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-02T16:00:00Z",
     "delayedUntil": "2025-12-09T16:00:00Z",
-    "episodeDate": "2025-12-02T16:00:00Z",
+    "episodeDate": "2025-12-09T16:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
@@ -1374,10 +977,9 @@
     "title": "Let's Play: Quest Darake no My Life",
     "route": "lets-play",
     "native": "Let's Play クエストだらけのマイライフ",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-03T17:15:00Z",
     "delayedUntil": "2025-12-10T17:15:00Z",
-    "episodeDate": "2025-12-03T17:15:00Z",
+    "episodeDate": "2025-12-10T17:15:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -1436,8 +1038,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-12-06T16:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-13T16:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1494,8 +1096,8 @@
     "native": "無職の英雄 別にスキルなんか要らなかったんだが",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-03T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2025-12-10T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1553,8 +1155,8 @@
     "native": "嘆きの亡霊は引退したい 第2クールの",
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2025-12-06T23:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2025-12-13T23:00:00Z",
+    "episodeNumber": 2,
     "episodes": 11,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1611,8 +1213,8 @@
     "native": "忍者と極道",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-12-02T17:30:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-09T17:30:00Z",
+    "episodeNumber": 10,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1665,8 +1267,8 @@
     "native": "ワンパンマン３",
     "delayedFrom": "0001-01-01T16:15:00Z",
     "delayedUntil": "0001-01-01T16:15:00Z",
-    "episodeDate": "2025-12-07T16:15:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-12-14T16:15:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1724,8 +1326,8 @@
     "native": "らんま1/2 (2024) 第2期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-06T17:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-13T17:00:00Z",
+    "episodeNumber": 11,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1781,8 +1383,8 @@
     "native": "ロックは淑女の嗜みでして",
     "delayedFrom": "0001-01-01T18:00:00Z",
     "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-12-03T18:00:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2025-12-10T18:00:00Z",
+    "episodeNumber": 13,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1838,8 +1440,8 @@
     "native": "最後にひとつだけお願いしてもよろしいでしょうか",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-12-05T17:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-12-12T17:30:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1895,8 +1497,8 @@
     "route": "sanda",
     "delayedFrom": "0001-01-01T17:50:00Z",
     "delayedUntil": "0001-01-01T17:50:00Z",
-    "episodeDate": "2025-12-05T17:50:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-12T17:50:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1952,8 +1554,8 @@
     "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します!",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-03T17:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-12-10T17:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2067,8 +1669,8 @@
     "native": "素材採取家の異世界旅行記",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-01T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-08T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2123,8 +1725,8 @@
     "route": "spy-x-family-season-3",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-12-06T20:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-13T20:30:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2182,8 +1784,8 @@
     "native": "太陽よりも眩しい星",
     "delayedFrom": "0001-01-01T15:55:00Z",
     "delayedUntil": "0001-01-01T15:55:00Z",
-    "episodeDate": "2025-12-04T15:55:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-11T15:55:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2236,10 +1838,9 @@
     "romaji": "Tensei Akujo no Kuro Rekishi",
     "english": "The Dark History of the Reincarnated Villainess",
     "native": "転生悪女の黒歴史",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-03T17:00:00Z",
     "delayedUntil": "2025-12-10T17:00:00Z",
-    "episodeDate": "2025-12-03T17:00:00Z",
+    "episodeDate": "2025-12-10T17:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
@@ -2297,8 +1898,8 @@
     "native": "とんでもスキルで異世界放浪メシ 第2期",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-02T20:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-09T20:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2353,8 +1954,8 @@
     "native": "桃源暗鬼",
     "delayedFrom": "2025-10-17T17:00:00Z",
     "delayedUntil": "2025-10-24T17:00:00Z",
-    "episodeDate": "2025-12-05T17:00:00Z",
-    "episodeNumber": 21,
+    "episodeDate": "2025-12-12T17:00:00Z",
+    "episodeNumber": 22,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2411,8 +2012,8 @@
     "native": "東島丹三郎は仮面ライダーになりたい",
     "delayedFrom": "0001-01-01T18:00:00Z",
     "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-12-06T18:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-13T18:00:00Z",
+    "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2525,8 +2126,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-12-03T07:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2025-12-10T07:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2580,10 +2181,9 @@
     "romaji": "Watari-kun no xx ga Houkai Sunzen",
     "english": "Watari-kun's ****** Is about to Collapse",
     "native": "渡くんの××が崩壊寸前",
-    "delayedText": "Delayed",
     "delayedFrom": "2025-12-05T23:00:00Z",
     "delayedUntil": "2025-12-12T23:00:00Z",
-    "episodeDate": "2025-12-05T23:00:00Z",
+    "episodeDate": "2025-12-12T23:00:00Z",
     "episodeNumber": 21,
     "episodes": 26,
     "lengthMin": 23,
