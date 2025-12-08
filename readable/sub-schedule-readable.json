@@ -1108,10 +1108,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 118,
-          "airingAt": 1765159200
-        },
-        {
           "episode": 119,
           "airingAt": 1765764000
         },
@@ -1967,10 +1963,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1765143600
-        },
-        {
           "episode": 14,
           "airingAt": 1765748400
         },
@@ -2404,7 +2396,7 @@
       "color": "#e4bb5d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170577-mqPZCZFbZRHK.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -5451,7 +5443,7 @@
   },
   {
     "id": 186736,
-    "idMal": null,
+    "idMal": 60983,
     "title": {
       "romaji": "Kagaku×Bouken Survival! 2nd Season",
       "english": null,
@@ -5472,48 +5464,68 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765617900
-        },
-        {
-          "episode": 12,
-          "airingAt": 1766222700
-        },
-        {
-          "episode": 13,
-          "airingAt": 1766827500
-        },
-        {
-          "episode": 14,
-          "airingAt": 1767432300
-        },
-        {
-          "episode": 15,
+          "episode": 10,
           "airingAt": 1768037100
         },
         {
-          "episode": 16,
+          "episode": 11,
           "airingAt": 1768641900
         },
         {
-          "episode": 17,
+          "episode": 12,
           "airingAt": 1769246700
         },
         {
-          "episode": 18,
+          "episode": 13,
           "airingAt": 1769851500
         },
         {
-          "episode": 19,
+          "episode": 14,
           "airingAt": 1770456300
         },
         {
-          "episode": 20,
+          "episode": 15,
           "airingAt": 1771061100
         },
         {
-          "episode": 21,
+          "episode": 16,
           "airingAt": 1771665900
+        },
+        {
+          "episode": 17,
+          "airingAt": 1772270700
+        },
+        {
+          "episode": 18,
+          "airingAt": 1772875500
+        },
+        {
+          "episode": 19,
+          "airingAt": 1773480300
+        },
+        {
+          "episode": 20,
+          "airingAt": 1774085100
+        },
+        {
+          "episode": 21,
+          "airingAt": 1774689900
+        },
+        {
+          "episode": 22,
+          "airingAt": 1775294700
+        },
+        {
+          "episode": 23,
+          "airingAt": 1775899500
+        },
+        {
+          "episode": 24,
+          "airingAt": 1776504300
+        },
+        {
+          "episode": 25,
+          "airingAt": 1777109100
         }
       ]
     },
@@ -7546,6 +7558,90 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 195322,
+    "idMal": 61942,
+    "title": {
+      "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+      "english": "My Hero Academia: Vigilantes Season 2",
+      "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+      "userPreferred": "My Hero Academia: Vigilantes Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767618000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768222800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768827600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769432400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770037200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770642000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771246800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771851600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772456400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773061200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773666000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774270800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774875600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
