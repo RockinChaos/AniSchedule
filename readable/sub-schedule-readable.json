@@ -8550,6 +8550,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 198368,
+    "idMal": 62508,
+    "title": {
+      "romaji": "Doraemon: Shin Nobita no Kaitei Kiganjou",
+      "english": null,
+      "native": "映画ドラえもん 新・のび太の海底鬼岩城",
+      "userPreferred": "Doraemon: Shin Nobita no Kaitei Kiganjou"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198368-uQ4yo55q9teU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198368-uQ4yo55q9teU.jpg",
+      "color": "#28bbfe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772118000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 198373,
     "idMal": 62421,
     "title": {
