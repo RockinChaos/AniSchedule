@@ -2392,10 +2392,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765292400
-        },
-        {
           "episode": 11,
           "airingAt": 1765897200
         },
@@ -3617,10 +3613,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1765288800
-        },
-        {
           "episode": 8,
           "airingAt": 1765893600
         },
@@ -4437,10 +4429,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765297740
-        },
         {
           "episode": 12,
           "airingAt": 1765902540
@@ -5498,10 +5486,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1765290600
-        },
-        {
           "episode": 10,
           "airingAt": 1765895400
         },
@@ -5894,10 +5878,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765299540
-        },
         {
           "episode": 11,
           "airingAt": 1765904340
@@ -8105,6 +8085,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 194712,
+    "idMal": 63046,
+    "title": {
+      "romaji": "Nukitashi THE ANIMATION OVAs",
+      "english": null,
+      "native": null,
+      "userPreferred": "Nukitashi THE ANIMATION OVAs"
+    },
+    "format": "OVA",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1766502000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1766502000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 194742,
     "idMal": 61884,
     "title": {
@@ -8981,10 +8995,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1765288800
-        },
         {
           "episode": 9,
           "airingAt": 1765893600
@@ -10513,9 +10523,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201153-WhtXnRoHMW0k.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201153-WhtXnRoHMW0k.jpg",
-      "color": "#35aef1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201153-9xwz47bJi3wp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201153-9xwz47bJi3wp.png",
+      "color": "#e45086"
     },
     "isAdult": true,
     "bannerImage": null,
