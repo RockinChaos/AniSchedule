@@ -7108,6 +7108,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 189275,
+    "idMal": 61335,
+    "title": {
+      "romaji": "Medalist 2nd Season",
+      "english": null,
+      "native": "メダリスト 第2期",
+      "userPreferred": "Medalist 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-4Mvph3WBrWae.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-4Mvph3WBrWae.png",
+      "color": "#bb5035"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1769272200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1769877000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1770481800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1771086600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1771691400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1772296200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1772901000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1773505800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1774110600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1774715400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1775320200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1775925000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 189565,
     "idMal": 61359,
     "title": {
@@ -8098,6 +8177,42 @@
         {
           "episode": 12,
           "airingAt": 1773752400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 194884,
+    "idMal": 61903,
+    "title": {
+      "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
+      "english": null,
+      "native": "かぐや様は告らせたい 大人への階段",
+      "userPreferred": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy",
+      "Psychological",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194884-rHgGAzKSCEWz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194884-rHgGAzKSCEWz.jpg",
+      "color": "#1a78ff"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767186000
         }
       ]
     },
@@ -9266,10 +9381,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765284960
-        },
         {
           "episode": 11,
           "airingAt": 1765889760
