@@ -1226,10 +1226,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 300,
-          "airingAt": 1765233600
-        },
-        {
           "episode": 301,
           "airingAt": 1765492800
         },
@@ -3092,9 +3088,9 @@
     "idMal": 59047,
     "title": {
       "romaji": "Tamon-kun Ima Docchi!?",
-      "english": null,
+      "english": "Tamon's B-Side",
       "native": "多聞くん今どっち！？",
-      "userPreferred": "Tamon-kun Ima Docchi!?"
+      "userPreferred": "Tamon's B-Side"
     },
     "format": "ONA",
     "genres": [
@@ -4748,19 +4744,19 @@
         },
         {
           "episode": 46,
-          "airingAt": 1766878200
-        },
-        {
-          "episode": 47,
           "airingAt": 1767483000
         },
         {
-          "episode": 48,
+          "episode": 47,
           "airingAt": 1768087800
         },
         {
-          "episode": 49,
+          "episode": 48,
           "airingAt": 1768692600
+        },
+        {
+          "episode": 49,
+          "airingAt": 1769297400
         }
       ]
     },
