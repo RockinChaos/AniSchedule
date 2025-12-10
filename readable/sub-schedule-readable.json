@@ -1189,10 +1189,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1765353600
-        },
-        {
           "episode": 8,
           "airingAt": 1765958400
         }
@@ -2258,41 +2254,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 169969,
-    "idMal": 56854,
-    "title": {
-      "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
-      "english": "Hero Without a Class: Who Even Needs Skills?!",
-      "native": "無職の英雄 別にスキルなんか要らなかったんだが",
-      "userPreferred": "Hero Without a Class: Who Even Needs Skills?!"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169969-SqCjoqYT4A6Z.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169969-SqCjoqYT4A6Z.jpg",
-      "color": "#e4c9a1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1765371600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 170018,
     "idMal": 56877,
     "title": {
@@ -2625,10 +2586,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765378800
-        },
-        {
           "episode": 11,
           "airingAt": 1765983600
         },
@@ -2645,9 +2602,9 @@
     "idMal": 58505,
     "title": {
       "romaji": "Mato Seihei no Slave 2",
-      "english": null,
+      "english": "Chained Soldier Season 2",
       "native": "魔都精兵のスレイブ2",
-      "userPreferred": "Mato Seihei no Slave 2"
+      "userPreferred": "Chained Soldier Season 2"
     },
     "format": "TV",
     "genres": [
@@ -2902,10 +2859,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765378800
-        },
         {
           "episode": 12,
           "airingAt": 1765983600
@@ -3541,7 +3494,7 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1766588400
+          "airingAt": 1766675400
         }
       ]
     },
@@ -3653,10 +3606,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-FHMeyqzlPeGr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765377900
-        },
         {
           "episode": 11,
           "airingAt": 1765982700
@@ -5032,6 +4981,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 185262,
+    "idMal": 60460,
+    "title": {
+      "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
+      "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+      "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
+      "userPreferred": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185262-lRq0EYXeO4c7.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-lRq0EYXeO4c7.png",
+      "color": "#e4bb43"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767976500
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768581300
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769186100
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769790900
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770395700
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771000500
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771605300
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772210100
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772814900
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773419700
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774024500
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774629300
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 185575,
     "idMal": 60531,
     "title": {
@@ -6062,9 +6090,9 @@
     "idMal": 61128,
     "title": {
       "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou",
-      "english": null,
+      "english": "Jack-of-All-Trades, Party of None",
       "native": "勇者パーティを追い出された器用貧乏",
-      "userPreferred": "Yuusha Party wo Oidasareta Kiyou Binbou"
+      "userPreferred": "Jack-of-All-Trades, Party of None"
     },
     "format": "ONA",
     "genres": [
@@ -6075,9 +6103,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-7cqcsLfrtYWP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-7cqcsLfrtYWP.jpg",
-      "color": "#e4355d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
+      "color": "#e49350"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -6376,7 +6404,7 @@
       "color": "#bbf1f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187940-BufBLkl64XYB.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6782,10 +6810,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1765364400
-        },
-        {
           "episode": 10,
           "airingAt": 1765969200
         },
@@ -6963,9 +6987,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189258-K40NjhZeuaBL.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b189258-K40NjhZeuaBL.png",
-      "color": "#5dbbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189258-qhtrra5ebBm6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189258-qhtrra5ebBm6.jpg",
+      "color": "#50bbe4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -7920,10 +7944,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765381560
-        },
-        {
           "episode": 12,
           "airingAt": 1765986360
         }
@@ -8521,10 +8541,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765364340
-        },
         {
           "episode": 12,
           "airingAt": 1765969140
