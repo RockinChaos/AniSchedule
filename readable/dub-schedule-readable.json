@@ -796,8 +796,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-10T20:00:00Z"
+              "episode": 9,
+              "airingAt": "2025-12-17T20:00:00Z"
             }
           ]
         },
@@ -999,7 +999,8 @@
     "delayedFrom": "2025-12-03T17:15:00Z",
     "delayedUntil": "2025-12-10T17:15:00Z",
     "episodeDate": "2025-12-10T17:15:00Z",
-    "episodeNumber": 8,
+    "episodeNumber": 9,
+    "subtractedEpisodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1037,7 +1038,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 8,
+              "airingAt": "2025-12-10T17:15:00Z"
+            },
+            {
               "episode": 9,
+              "airingAt": "2025-12-10T17:15:00Z"
+            },
+            {
+              "episode": 10,
               "airingAt": "2025-12-17T17:15:00Z"
             }
           ]
@@ -1919,7 +1928,8 @@
     "delayedFrom": "2025-12-03T17:00:00Z",
     "delayedUntil": "2025-12-10T17:00:00Z",
     "episodeDate": "2025-12-10T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1957,7 +1967,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 7,
+              "airingAt": "2025-12-10T17:00:00Z"
+            },
+            {
               "episode": 8,
+              "airingAt": "2025-12-10T17:00:00Z"
+            },
+            {
+              "episode": 9,
               "airingAt": "2025-12-17T17:00:00Z"
             }
           ]
