@@ -4291,9 +4291,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183661-upLCXuPsSDDR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183661-upLCXuPsSDDR.png",
-      "color": "#e45d86"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183661-3muPFi4LtHmK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183661-3muPFi4LtHmK.jpg",
+      "color": "#c9e478"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5085,10 +5085,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765458000
-        },
-        {
           "episode": 12,
           "airingAt": 1766062800
         }
@@ -5505,9 +5501,9 @@
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-rgdRQgwOJUpb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-rgdRQgwOJUpb.png",
-      "color": "#1aaef1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-YijWl9vZKmFI.jpg",
+      "color": "#43bbf1"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
@@ -5936,9 +5932,9 @@
     "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186920-nrYITcE4TEuk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186920-nrYITcE4TEuk.jpg",
-      "color": "#f1a128"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186920-sDg7ZRCXOdxM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186920-sDg7ZRCXOdxM.jpg",
+      "color": "#1ad6f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5981,10 +5977,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765458000
-        },
         {
           "episode": 12,
           "airingAt": 1766062800
@@ -6080,6 +6072,10 @@
         {
           "episode": 35,
           "airingAt": 1779973200
+        },
+        {
+          "episode": 36,
+          "airingAt": 1780578000
         }
       ]
     },
@@ -6421,6 +6417,84 @@
         {
           "episode": 1,
           "airingAt": 1767884400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 187901,
+    "idMal": 61196,
+    "title": {
+      "romaji": "Dead Account",
+      "english": null,
+      "native": "デッドアカウント",
+      "userPreferred": "Dead Account"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187901-T91HmZAaNwOF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187901-T91HmZAaNwOF.jpg",
+      "color": "#35bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768055400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768660200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769265000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769869800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770474600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771079400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771684200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772289000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772893800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773498600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774103400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774708200
         }
       ]
     },
@@ -8100,10 +8174,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765450800
-        },
         {
           "episode": 12,
           "airingAt": 1766055600
@@ -9887,10 +9957,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765448520
-        },
-        {
           "episode": 12,
           "airingAt": 1766053320
         }
@@ -9924,10 +9990,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765457640
-        },
         {
           "episode": 12,
           "airingAt": 1766062440
@@ -10139,10 +10201,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765445400
-        },
         {
           "episode": 11,
           "airingAt": 1766050200
@@ -10413,10 +10471,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765450800
-        },
         {
           "episode": 12,
           "airingAt": 1766055600
