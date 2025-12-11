@@ -6274,6 +6274,52 @@
     "zeroEpisode": false
   },
   {
+    "id": 187508,
+    "idMal": 61119,
+    "title": {
+      "romaji": "Duel Masters LOST: Boukyaku no Taiyou",
+      "english": null,
+      "native": "Duel Masters LOST ～忘却の太陽～",
+      "userPreferred": "Duel Masters LOST: Boukyaku no Taiyou"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187508-kFWf3Fq0wl56.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187508-kFWf3Fq0wl56.png",
+      "color": "#4393e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1770375600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1770980400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1771585200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1772190000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 187663,
     "idMal": 61174,
     "title": {
