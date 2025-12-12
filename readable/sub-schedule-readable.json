@@ -418,10 +418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1728,
-          "airingAt": 1765504500
-        },
-        {
           "episode": 1729,
           "airingAt": 1766109300
         },
@@ -587,10 +583,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 634,
-          "airingAt": 1765491000
-        },
-        {
           "episode": 635,
           "airingAt": 1766095800
         },
@@ -685,6 +677,10 @@
         {
           "episode": 658,
           "airingAt": 1780006200
+        },
+        {
+          "episode": 659,
+          "airingAt": 1780611000
         }
       ]
     },
@@ -1221,10 +1217,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 301,
-          "airingAt": 1765492800
-        },
         {
           "episode": 302,
           "airingAt": 1765838400
@@ -10947,6 +10939,49 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203296,
+    "idMal": 62649,
+    "title": {
+      "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+      "english": null,
+      "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "userPreferred": "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203296-vbUuv1ECuJ4b.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203296-vbUuv1ECuJ4b.jpg",
+      "color": "#e4505d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767999600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768604400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769209200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
