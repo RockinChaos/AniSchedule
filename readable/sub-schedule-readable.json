@@ -935,10 +935,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 187,
-          "airingAt": 1765532400
-        },
-        {
           "episode": 188,
           "airingAt": 1766137200
         },
@@ -1033,6 +1029,10 @@
         {
           "episode": 211,
           "airingAt": 1780047600
+        },
+        {
+          "episode": 212,
+          "airingAt": 1780652400
         }
       ]
     },
@@ -1575,10 +1575,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 121,
-          "airingAt": 1765533300
-        },
-        {
           "episode": 122,
           "airingAt": 1766138100
         }
@@ -1809,10 +1805,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 108,
-          "airingAt": 1765531500
-        },
-        {
           "episode": 109,
           "airingAt": 1766136300
         },
@@ -1907,6 +1899,10 @@
         {
           "episode": 132,
           "airingAt": 1780046700
+        },
+        {
+          "episode": 133,
+          "airingAt": 1780651500
         }
       ]
     },
@@ -3056,6 +3052,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 177679,
+    "idMal": 58886,
+    "title": {
+      "romaji": "Darwin Jihen",
+      "english": "The Darwin Incident",
+      "native": "ダーウィン事変",
+      "userPreferred": "The Darwin Incident"
+    },
+    "format": "TV",
+    "genres": [
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177679-BgsgE0fQk3qN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
+      "color": "#1a436b"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767711600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768316400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768921200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769526000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770130800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770735600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771340400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771945200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772550000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773154800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773759600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774364400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 177937,
     "idMal": 59027,
     "title": {
@@ -4187,9 +4261,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183660-MLo9txbeEQS6.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183660-MLo9txbeEQS6.jpg",
-      "color": "#e4785d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183660-B6o9cMfSfScX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183660-B6o9cMfSfScX.jpg",
+      "color": "#f15d35"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5177,10 +5251,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765544040
-        },
         {
           "episode": 12,
           "airingAt": 1766148840
@@ -6661,9 +6731,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187989-oVeNMdtMh04i.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-oVeNMdtMh04i.png",
-      "color": "#e4ae86"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187989-IjVYJxi0bEcr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
+      "color": "#d6a178"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -7597,6 +7667,87 @@
     "zeroEpisode": false
   },
   {
+    "id": 191718,
+    "idMal": 61587,
+    "title": {
+      "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+      "english": "ROLL OVER AND DIE",
+      "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+      "userPreferred": "ROLL OVER AND DIE"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
+      "color": "#28bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767886200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768491000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769095800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769700600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770305400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770910200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771515000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772119800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772724600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773329400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773934200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774539000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 191967,
     "idMal": 61608,
     "title": {
@@ -7694,9 +7845,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b192261-HOItVoojFk0G.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b192261-HOItVoojFk0G.jpg",
-      "color": "#f1f186"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
+      "color": "#bbe4f1"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8794,9 +8945,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-Ct7cgY22htvL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-Ct7cgY22htvL.jpg",
-      "color": "#1abbe4"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195515-gzMfqppBNiz1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-gzMfqppBNiz1.jpg",
+      "color": "#f1bb50"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -9506,10 +9657,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765539000
-        },
         {
           "episode": 12,
           "airingAt": 1766143800
@@ -10512,9 +10659,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-17KOwGKDtL3U.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200556-17KOwGKDtL3U.jpg",
-      "color": "#a150fe"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-TezRfCQCFLbA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200556-TezRfCQCFLbA.png",
+      "color": "#00feff"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -10599,10 +10746,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1765537200
-        },
         {
           "episode": 8,
           "airingAt": 1766142000
