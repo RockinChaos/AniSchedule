@@ -1284,10 +1284,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 197,
-          "airingAt": 1765578600
-        },
-        {
           "episode": 198,
           "airingAt": 1766183400
         },
@@ -1382,6 +1378,10 @@
         {
           "episode": 221,
           "airingAt": 1780093800
+        },
+        {
+          "episode": 222,
+          "airingAt": 1780698600
         }
       ]
     },
@@ -1504,45 +1504,6 @@
         {
           "episode": 7,
           "airingAt": 1766070000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 157692,
-    "idMal": 59662,
-    "title": {
-      "romaji": "Long Zu 2",
-      "english": "Dragon Raja II -The Mourner's Eyes-",
-      "native": "龙族 第二季",
-      "userPreferred": "Dragon Raja II -The Mourner's Eyes-"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157692-lihmnuJGcbM6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx157692-lihmnuJGcbM6.png",
-      "color": "#aec9e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157692-bnduywLJZIxk.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1766070000
-        },
-        {
-          "episode": 26,
-          "airingAt": 1766674800
         }
       ]
     },
@@ -4522,10 +4483,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 37,
-          "airingAt": 1765576800
-        },
-        {
           "episode": 38,
           "airingAt": 1766181600
         }
@@ -7036,10 +6993,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1765586700
-        },
-        {
           "episode": 25,
           "airingAt": 1766191500
         }
@@ -8608,10 +8561,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765573200
-        },
-        {
           "episode": 12,
           "airingAt": 1766178000
         }
@@ -9800,10 +9749,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765573200
-        },
-        {
           "episode": 12,
           "airingAt": 1766178000
         },
@@ -10012,7 +9957,7 @@
       "native": "イチゴ哀歌～雑で生イキな妹と割り切れない兄～",
       "userPreferred": "Ichigo Aika: Strawberry Elegy"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Comedy",
       "Ecchi",
@@ -10031,35 +9976,35 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1767542760
+          "airingAt": 1767538800
         },
         {
           "episode": 2,
-          "airingAt": 1768147560
+          "airingAt": 1768143600
         },
         {
           "episode": 3,
-          "airingAt": 1768752360
+          "airingAt": 1768748400
         },
         {
           "episode": 4,
-          "airingAt": 1769357160
+          "airingAt": 1769958000
         },
         {
           "episode": 5,
-          "airingAt": 1769961960
+          "airingAt": 1770562800
         },
         {
           "episode": 6,
-          "airingAt": 1770566760
+          "airingAt": 1771167600
         },
         {
           "episode": 7,
-          "airingAt": 1771171560
+          "airingAt": 1772377200
         },
         {
           "episode": 8,
-          "airingAt": 1771776360
+          "airingAt": 1772982000
         }
       ]
     },
