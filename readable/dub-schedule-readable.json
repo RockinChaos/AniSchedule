@@ -2439,7 +2439,8 @@
     "delayedFrom": "2025-12-05T23:00:00Z",
     "delayedUntil": "2025-12-12T23:00:00Z",
     "episodeDate": "2025-12-12T23:00:00Z",
-    "episodeNumber": 21,
+    "episodeNumber": 22,
+    "subtractedEpisodeNumber": 21,
     "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2478,7 +2479,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 21,
+              "airingAt": "2025-12-12T23:00:00Z"
+            },
+            {
               "episode": 22,
+              "airingAt": "2025-12-12T23:00:00Z"
+            },
+            {
+              "episode": 23,
               "airingAt": "2025-12-19T23:00:00Z"
             }
           ]
