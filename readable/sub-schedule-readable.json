@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1185,
-          "airingAt": 1765616400
-        },
-        {
           "episode": 1186,
           "airingAt": 1766221200
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1209,
           "airingAt": 1780131600
+        },
+        {
+          "episode": 1210,
+          "airingAt": 1780736400
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1314,
-          "airingAt": 1765611000
-        },
         {
           "episode": 1315,
           "airingAt": 1766215800
@@ -387,6 +383,10 @@
         {
           "episode": 1338,
           "airingAt": 1780126200
+        },
+        {
+          "episode": 1339,
+          "airingAt": 1780731000
         }
       ]
     },
@@ -713,10 +713,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 893,
-          "airingAt": 1765612800
-        },
-        {
           "episode": 894,
           "airingAt": 1766217600
         },
@@ -811,6 +807,10 @@
         {
           "episode": 917,
           "airingAt": 1780128000
+        },
+        {
+          "episode": 918,
+          "airingAt": 1780732800
         }
       ]
     },
@@ -2156,6 +2156,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 167152,
+    "idMal": 56009,
+    "title": {
+      "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "english": "Sentenced to Be a Hero",
+      "native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
+      "userPreferred": "Sentenced to Be a Hero"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-u0cBZkqDowHP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167152-u0cBZkqDowHP.jpg",
+      "color": "#f1935d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167152-6QxZG8Dmf1EL.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767445200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768483800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769088600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769693400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770298200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770903000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771507800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772112600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772717400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773322200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773927000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774531800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 169420,
     "idMal": 56693,
     "title": {
@@ -2648,10 +2728,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765629000
-        },
         {
           "episode": 12,
           "airingAt": 1766233800
@@ -3152,51 +3228,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1767279600
+          "airingAt": 1767193200
         },
         {
           "episode": 2,
-          "airingAt": 1767884400
+          "airingAt": 1767798000
         },
         {
           "episode": 3,
-          "airingAt": 1768489200
+          "airingAt": 1768402800
         },
         {
           "episode": 4,
-          "airingAt": 1769094000
+          "airingAt": 1769007600
         },
         {
           "episode": 5,
-          "airingAt": 1769698800
+          "airingAt": 1769612400
         },
         {
           "episode": 6,
-          "airingAt": 1770303600
+          "airingAt": 1770217200
         },
         {
           "episode": 7,
-          "airingAt": 1770908400
+          "airingAt": 1770822000
         },
         {
           "episode": 8,
-          "airingAt": 1771513200
+          "airingAt": 1771426800
         },
         {
           "episode": 9,
-          "airingAt": 1772118000
+          "airingAt": 1772031600
         },
         {
           "episode": 10,
-          "airingAt": 1772722800
+          "airingAt": 1772636400
         },
         {
           "episode": 11,
-          "airingAt": 1773327600
+          "airingAt": 1773241200
         },
         {
           "episode": 12,
-          "airingAt": 1773932400
+          "airingAt": 1773846000
         }
       ]
     },
@@ -3471,6 +3547,38 @@
         {
           "episode": 12,
           "airingAt": 1766163180
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 179823,
+    "idMal": 59407,
+    "title": {
+      "romaji": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi Animation",
+      "english": null,
+      "native": "入り浸りギャルにま〇こ使わせて貰う話 Animation",
+      "userPreferred": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi Animation"
+    },
+    "format": "ONA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 17,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179823-bRAv7uaS8mxl.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179823-bRAv7uaS8mxl.png",
+      "color": "#e4c9a1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1765983600
         }
       ]
     },
@@ -3999,39 +4107,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 182896,
-    "idMal": 60098,
-    "title": {
-      "romaji": "Boku no Hero Academia FINAL SEASON",
-      "english": "My Hero Academia FINAL SEASON",
-      "native": "僕のヒーローアカデミア FINAL SEASON",
-      "userPreferred": "My Hero Academia FINAL SEASON"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182896-mvxTVHGdDB4q.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182896-mvxTVHGdDB4q.jpg",
-      "color": "#c9d6f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182896-iJt79hYTpv8w.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765614600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5396,7 +5471,7 @@
     "id": 185801,
     "idMal": 60619,
     "title": {
-      "romaji": "Nageki no Bourei wa Intai shitai 2",
+      "romaji": "Nageki no Bourei wa Intai Shitai 2",
       "english": "Let This Grieving Soul Retire Cour 2",
       "native": "嘆きの亡霊は引退したい 2",
       "userPreferred": "Let This Grieving Soul Retire Cour 2"
@@ -6550,10 +6625,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187940-BufBLkl64XYB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765627200
-        },
         {
           "episode": 12,
           "airingAt": 1766232000
