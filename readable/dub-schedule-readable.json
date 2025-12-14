@@ -6,9 +6,9 @@
     "english": "GINTAMA - Mr. Ginpachi's Zany Class",
     "native": "3年Z組銀八先生",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-08T17:00:00Z",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-12-08T16:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
@@ -46,7 +46,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-12-15T17:00:00Z"
+              "airingAt": "2025-12-15T16:00:00Z"
             }
           ]
         },
@@ -62,9 +62,9 @@
     "romaji": "Akujiki Reijou to Kyouketsu Koushaku",
     "english": "Pass the Monster Meat, Milady!",
     "native": "悪食令嬢と狂血公爵",
-    "delayedFrom": "0001-01-01T18:00:00Z",
-    "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-12-11T18:00:00Z",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-12-11T17:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -103,7 +103,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-18T18:00:00Z"
+              "airingAt": "2025-12-18T17:00:00Z"
             }
           ]
         },
@@ -573,9 +573,9 @@
     "title": "Gachiakuta",
     "route": "gachiakuta",
     "native": "ガチアクタ",
-    "delayedFrom": "2025-10-12T16:30:00Z",
-    "delayedUntil": "2025-10-26T16:30:00Z",
-    "episodeDate": "2025-12-14T16:30:00Z",
+    "delayedFrom": "2025-10-12T15:30:00Z",
+    "delayedUntil": "2025-10-26T15:30:00Z",
+    "episodeDate": "2025-12-14T15:30:00Z",
     "episodeNumber": 21,
     "episodes": 24,
     "lengthMin": 24,
@@ -615,7 +615,7 @@
           "nodes": [
             {
               "episode": 21,
-              "airingAt": "2025-12-14T16:30:00Z"
+              "airingAt": "2025-12-14T15:30:00Z"
             }
           ]
         },
@@ -629,10 +629,11 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "2025-12-06T17:30:00Z",
-    "delayedUntil": "2025-12-13T17:30:00Z",
-    "episodeDate": "2025-12-13T17:30:00Z",
-    "episodeNumber": 6,
+    "delayedFrom": "2025-12-06T16:30:00Z",
+    "delayedUntil": "2025-12-13T16:30:00Z",
+    "episodeDate": "2025-12-13T16:30:00Z",
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 6,
     "lengthMin": 26,
     "mediaTypes": [
       {
@@ -670,8 +671,16 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 6,
+              "airingAt": "2025-12-13T16:30:00Z"
+            },
+            {
               "episode": 7,
-              "airingAt": "2025-12-20T17:30:00Z"
+              "airingAt": "2025-12-13T16:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2025-12-20T16:30:00Z"
             }
           ]
         },
@@ -940,9 +949,9 @@
     "romaji": "Kimi to Koete Koi ni Naru",
     "english": "With You, Our Love Will Make It Through",
     "native": "キミと越えて恋になる",
-    "delayedFrom": "2025-12-02T16:00:00Z",
-    "delayedUntil": "2025-12-09T16:00:00Z",
-    "episodeDate": "2025-12-09T16:00:00Z",
+    "delayedFrom": "2025-12-02T15:00:00Z",
+    "delayedUntil": "2025-12-09T15:00:00Z",
+    "episodeDate": "2025-12-09T15:00:00Z",
     "episodeNumber": 7,
     "subtractedEpisodeNumber": 6,
     "episodes": 12,
@@ -983,15 +992,15 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2025-12-09T16:00:00Z"
+              "airingAt": "2025-12-09T15:00:00Z"
             },
             {
               "episode": 7,
-              "airingAt": "2025-12-09T16:00:00Z"
+              "airingAt": "2025-12-09T15:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2025-12-16T16:00:00Z"
+              "airingAt": "2025-12-16T15:00:00Z"
             }
           ]
         },
@@ -1223,9 +1232,9 @@
     "english": "The Banished Court Magician Aims to Become the Strongest",
     "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-12-13T16:00:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2025-12-13T15:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
@@ -1265,7 +1274,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-20T16:00:00Z"
+              "airingAt": "2025-12-20T15:00:00Z"
             }
           ]
         },
@@ -1452,9 +1461,9 @@
     "title": "One Punch Man 3",
     "route": "one-punch-man-3",
     "native": "ワンパンマン３",
-    "delayedFrom": "0001-01-01T16:15:00Z",
-    "delayedUntil": "0001-01-01T16:15:00Z",
-    "episodeDate": "2025-12-14T16:15:00Z",
+    "delayedFrom": "0001-01-01T15:15:00Z",
+    "delayedUntil": "0001-01-01T15:15:00Z",
+    "episodeDate": "2025-12-14T15:15:00Z",
     "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
@@ -1495,7 +1504,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2025-12-14T16:15:00Z"
+              "airingAt": "2025-12-14T15:15:00Z"
             }
           ]
         },
@@ -1625,9 +1634,9 @@
     "romaji": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
     "english": "May I Ask for One Final Thing?",
     "native": "最後にひとつだけお願いしてもよろしいでしょうか",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-12-12T17:30:00Z",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2025-12-12T16:30:00Z",
     "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
@@ -1669,7 +1678,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2025-12-19T17:30:00Z"
+              "airingAt": "2025-12-19T16:30:00Z"
             }
           ]
         },
@@ -1913,9 +1922,9 @@
     "romaji": "Sozai Saishuka no Isekai Ryokouki",
     "english": "A Gatherer's Adventure in Isekai",
     "native": "素材採取家の異世界旅行記",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-08T17:00:00Z",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2025-12-08T16:00:00Z",
     "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
@@ -1956,7 +1965,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-15T17:00:00Z"
+              "airingAt": "2025-12-15T16:00:00Z"
             }
           ]
         },
@@ -2084,9 +2093,9 @@
     "romaji": "Tensei Akujo no Kuro Rekishi",
     "english": "The Dark History of the Reincarnated Villainess",
     "native": "転生悪女の黒歴史",
-    "delayedFrom": "2025-12-03T17:00:00Z",
-    "delayedUntil": "2025-12-10T17:00:00Z",
-    "episodeDate": "2025-12-10T17:00:00Z",
+    "delayedFrom": "2025-12-03T16:00:00Z",
+    "delayedUntil": "2025-12-10T16:00:00Z",
+    "episodeDate": "2025-12-10T16:00:00Z",
     "episodeNumber": 8,
     "subtractedEpisodeNumber": 7,
     "episodes": 12,
@@ -2127,15 +2136,15 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2025-12-10T17:00:00Z"
+              "airingAt": "2025-12-10T16:00:00Z"
             },
             {
               "episode": 8,
-              "airingAt": "2025-12-10T17:00:00Z"
+              "airingAt": "2025-12-10T16:00:00Z"
             },
             {
               "episode": 9,
-              "airingAt": "2025-12-17T17:00:00Z"
+              "airingAt": "2025-12-17T16:00:00Z"
             }
           ]
         },
@@ -2207,9 +2216,9 @@
     "title": "Tougen Anki",
     "route": "tougen-anki",
     "native": "桃源暗鬼",
-    "delayedFrom": "2025-10-17T17:00:00Z",
-    "delayedUntil": "2025-10-24T17:00:00Z",
-    "episodeDate": "2025-12-12T17:00:00Z",
+    "delayedFrom": "2025-10-17T16:00:00Z",
+    "delayedUntil": "2025-10-24T16:00:00Z",
+    "episodeDate": "2025-12-12T16:00:00Z",
     "episodeNumber": 22,
     "episodes": 24,
     "lengthMin": 24,
@@ -2249,7 +2258,7 @@
           "nodes": [
             {
               "episode": 23,
-              "airingAt": "2025-12-19T17:00:00Z"
+              "airingAt": "2025-12-19T16:00:00Z"
             }
           ]
         },
@@ -2265,9 +2274,9 @@
     "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "english": "Tojima Wants to Be a Kamen Rider",
     "native": "東島丹三郎は仮面ライダーになりたい",
-    "delayedFrom": "0001-01-01T18:00:00Z",
-    "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-12-13T18:00:00Z",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2025-12-13T17:00:00Z",
     "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2305,7 +2314,7 @@
           "nodes": [
             {
               "episode": 10,
-              "airingAt": "2025-12-20T18:00:00Z"
+              "airingAt": "2025-12-20T17:00:00Z"
             }
           ]
         },
