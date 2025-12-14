@@ -455,10 +455,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2810,
-          "airingAt": 1765704600
-        },
-        {
           "episode": 2811,
           "airingAt": 1766309400
         },
@@ -553,6 +549,10 @@
         {
           "episode": 2834,
           "airingAt": 1780219800
+        },
+        {
+          "episode": 2835,
+          "airingAt": 1780824600
         }
       ]
     },
@@ -878,10 +878,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 344,
-          "airingAt": 1765702800
-        },
         {
           "episode": 345,
           "airingAt": 1766307600
@@ -2291,10 +2287,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765699200
-        },
         {
           "episode": 12,
           "airingAt": 1766304000
@@ -6518,6 +6510,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 187941,
+    "idMal": 61207,
+    "title": {
+      "romaji": "Tensei Shitara Dragon no Tamago Datta",
+      "english": "Reincarnated as a Dragon Hatchling",
+      "native": "転生したらドラゴンの卵だった",
+      "userPreferred": "Reincarnated as a Dragon Hatchling"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187941-16Gd2tJccUmT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-16Gd2tJccUmT.jpg",
+      "color": "#ffa11a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768048200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768653000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769257800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769862600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770467400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771072200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771677000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772281800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772886600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773491400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774096200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774701000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 187942,
     "idMal": 61211,
     "title": {
@@ -8537,10 +8608,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1765697400
-        },
-        {
           "episode": 10,
           "airingAt": 1766302200
         }
@@ -9065,10 +9132,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1765711800
-        },
         {
           "episode": 25,
           "airingAt": 1766316600
@@ -9657,6 +9720,87 @@
         {
           "episode": 1,
           "airingAt": 1773932400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 198374,
+    "idMal": null,
+    "title": {
+      "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+      "english": null,
+      "native": "人外教室の人間嫌い教師",
+      "userPreferred": "Jingai Kyoushitsu no Ningengirai Kyoushi"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-oQD9yWa5M3Xo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198374-oQD9yWa5M3Xo.jpg",
+      "color": "#50a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768057200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768662000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769266800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769871600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770476400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771081200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771686000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772290800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772895600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773500400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774105200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774710000
         }
       ]
     },
