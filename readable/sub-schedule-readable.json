@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1153,
-          "airingAt": 1765721760
-        },
-        {
           "episode": 1154,
           "airingAt": 1766326560
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1177,
           "airingAt": 1780236960
+        },
+        {
+          "episode": 1178,
+          "airingAt": 1780841760
         }
       ]
     },
@@ -1452,10 +1452,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765723560
-        },
-        {
           "episode": 11,
           "airingAt": 1766328360
         },
@@ -2553,10 +2549,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765722600
-        },
-        {
           "episode": 12,
           "airingAt": 1766327400
         }
@@ -3286,10 +3278,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1765722600
-        },
-        {
           "episode": 24,
           "airingAt": 1766327400
         }
@@ -3623,10 +3611,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179992-ioBTPOAqH4ld.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765717200
-        },
         {
           "episode": 12,
           "airingAt": 1766322000
@@ -5460,41 +5444,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 186190,
-    "idMal": 60781,
-    "title": {
-      "romaji": "Alma-chan wa Kazoku ni Naritai",
-      "english": "Alma-chan Wants to Be a Family!",
-      "native": "アルマちゃんは家族になりたい",
-      "userPreferred": "Alma-chan Wants to Be a Family!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186190-Ru77wfF8I61X.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186190-Ru77wfF8I61X.jpg",
-      "color": "#e45da1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765720800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 186313,
     "idMal": 60947,
     "title": {
@@ -5687,10 +5636,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765719000
-        },
         {
           "episode": 11,
           "airingAt": 1766323800
@@ -6169,10 +6114,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765728360
-        },
         {
           "episode": 12,
           "airingAt": 1766333160
@@ -10508,10 +10449,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765728360
-        },
         {
           "episode": 12,
           "airingAt": 1766333160
