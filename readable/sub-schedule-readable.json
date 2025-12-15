@@ -4028,6 +4028,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 182771,
+    "idMal": 60071,
+    "title": {
+      "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
+      "english": "A Gentle Noble's Vacation Recommendation",
+      "native": "穏やか貴族の休暇のすすめ。",
+      "userPreferred": "A Gentle Noble's Vacation Recommendation"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182771-KVq712ii32fJ.jpg",
+      "color": "#f1d6c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767798000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768402800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769007600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769612400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770217200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770822000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771426800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772031600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772636400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773241200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773846000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774450800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 183270,
     "idMal": 60151,
     "title": {
@@ -6169,7 +6248,7 @@
       "color": "#e4bb43"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-hKvfyQ2VWlYt.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -7704,9 +7783,9 @@
     "idMal": 61637,
     "title": {
       "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-      "english": "The Daily Life of a Single 29-Year-Old Adventurer",
+      "english": "An Adventurer’s Daily Grind at Age 29",
       "native": "29歳独身中堅冒険者の日常",
-      "userPreferred": "The Daily Life of a Single 29-Year-Old Adventurer"
+      "userPreferred": "An Adventurer’s Daily Grind at Age 29"
     },
     "format": "TV",
     "genres": [
@@ -8064,7 +8143,7 @@
       "Fantasy",
       "Mystery"
     ],
-    "duration": null,
+    "duration": 85,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193923-BJPyMB55Q4WC.jpg",
@@ -9642,9 +9721,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-nAuAHQLTaDBg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198373-nAuAHQLTaDBg.jpg",
-      "color": "#e45043"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198373-bJ7PYyknp4ln.jpg",
+      "color": "#f15d5d"
     },
     "isAdult": false,
     "bannerImage": null,
