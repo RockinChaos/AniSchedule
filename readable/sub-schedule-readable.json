@@ -1628,10 +1628,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765810800
-        },
-        {
           "episode": 12,
           "airingAt": 1766415600
         }
@@ -2383,10 +2379,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765807200
-        },
         {
           "episode": 12,
           "airingAt": 1766412000
@@ -5933,10 +5925,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765816200
-        },
-        {
           "episode": 12,
           "airingAt": 1766421000
         }
@@ -6368,41 +6356,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 187663,
-    "idMal": 61174,
-    "title": {
-      "romaji": "Sozai Saishuka no Isekai Ryokouki",
-      "english": "A Gatherer's Adventure in Isekai",
-      "native": "素材採取家の異世界旅行記",
-      "userPreferred": "A Gatherer's Adventure in Isekai"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-VVdpMlkhwMSh.jpg",
-      "color": "#43a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1765812600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -8399,10 +8352,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194447-Z7rcoAFZuBsS.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1765805400
-        },
         {
           "episode": 11,
           "airingAt": 1766410200
