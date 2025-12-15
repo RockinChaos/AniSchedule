@@ -8,8 +8,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-12-08T16:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-15T16:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -64,8 +64,8 @@
     "native": "悪食令嬢と狂血公爵",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-11T17:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-18T17:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -121,8 +121,8 @@
     "native": "暗殺者である俺のステータスが勇者よりも明らかに強いのだが",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-08T17:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-15T17:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -177,8 +177,8 @@
     "native": "ばっどがーる",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-10T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-12-17T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -231,8 +231,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2025-12-13T22:45:00Z",
-    "episodeNumber": 71,
+    "episodeDate": "2025-12-20T22:45:00Z",
+    "episodeNumber": 72,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -288,8 +288,8 @@
     "native": "僕のヒーローアカデミア FINAL SEASON",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-13T20:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-20T20:00:00Z",
+    "episodeNumber": 10,
     "episodes": 11,
     "lengthMin": 23,
     "mediaTypes": [
@@ -344,7 +344,7 @@
     "delayedText": "Paused",
     "delayedFrom": "2025-11-07T07:00:00Z",
     "delayedUntil": "2025-12-26T07:00:00Z",
-    "episodeDate": "2025-12-12T07:00:00Z",
+    "episodeDate": "2025-12-19T07:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
@@ -402,8 +402,8 @@
     "native": "ディズニー ツイステッドワンダーランド",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2025-12-10T08:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2025-12-17T08:00:00Z",
+    "episodeNumber": 8,
     "episodes": 8,
     "lengthMin": 25,
     "mediaTypes": [
@@ -517,8 +517,8 @@
     "native": "不滅のあなたへ3",
     "delayedFrom": "0001-01-01T21:00:00Z",
     "delayedUntil": "0001-01-01T21:00:00Z",
-    "episodeDate": "2025-12-13T21:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-12-20T21:00:00Z",
+    "episodeNumber": 12,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -575,8 +575,8 @@
     "native": "ガチアクタ",
     "delayedFrom": "2025-10-12T15:30:00Z",
     "delayedUntil": "2025-10-26T15:30:00Z",
-    "episodeDate": "2025-12-14T15:30:00Z",
-    "episodeNumber": 21,
+    "episodeDate": "2025-12-21T15:30:00Z",
+    "episodeNumber": 22,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -631,9 +631,8 @@
     "native": "グノーシア",
     "delayedFrom": "2025-12-06T16:30:00Z",
     "delayedUntil": "2025-12-13T16:30:00Z",
-    "episodeDate": "2025-12-13T16:30:00Z",
-    "episodeNumber": 7,
-    "subtractedEpisodeNumber": 6,
+    "episodeDate": "2025-12-20T16:30:00Z",
+    "episodeNumber": 8,
     "lengthMin": 26,
     "mediaTypes": [
       {
@@ -671,14 +670,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-12-13T16:30:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-12-13T16:30:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2025-12-20T16:30:00Z"
             }
@@ -698,9 +689,8 @@
     "native": "異世界かるてっと3",
     "delayedFrom": "2025-12-01T20:00:00Z",
     "delayedUntil": "2025-12-08T20:00:00Z",
-    "episodeDate": "2025-12-08T20:00:00Z",
-    "episodeNumber": 7,
-    "subtractedEpisodeNumber": 6,
+    "episodeDate": "2025-12-15T20:00:00Z",
+    "episodeNumber": 8,
     "episodes": 11,
     "lengthMin": 12,
     "mediaTypes": [
@@ -738,14 +728,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-12-08T20:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-12-08T20:00:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2025-12-15T20:00:00Z"
             }
@@ -765,9 +747,8 @@
     "native": "かくりよの宿飯 第２期",
     "delayedFrom": "2025-12-03T20:00:00Z",
     "delayedUntil": "2025-12-10T20:00:00Z",
-    "episodeDate": "2025-12-10T20:00:00Z",
-    "episodeNumber": 9,
-    "subtractedEpisodeNumber": 8,
+    "episodeDate": "2025-12-17T20:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -806,14 +787,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-10T20:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-12-10T20:00:00Z"
-            },
-            {
               "episode": 10,
               "airingAt": "2025-12-17T20:00:00Z"
             }
@@ -833,8 +806,8 @@
     "native": "結婚指輪物語 第2期",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2025-12-13T21:30:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-20T21:30:00Z",
+    "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -893,8 +866,8 @@
     "native": "鬼人幻燈抄",
     "delayedFrom": "2025-12-03T17:00:00Z",
     "delayedUntil": "2025-12-10T17:00:00Z",
-    "episodeDate": "2025-12-10T17:00:00Z",
-    "episodeNumber": 23,
+    "episodeDate": "2025-12-17T17:00:00Z",
+    "episodeNumber": 24,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -951,9 +924,8 @@
     "native": "キミと越えて恋になる",
     "delayedFrom": "2025-12-02T15:00:00Z",
     "delayedUntil": "2025-12-09T15:00:00Z",
-    "episodeDate": "2025-12-09T15:00:00Z",
-    "episodeNumber": 7,
-    "subtractedEpisodeNumber": 6,
+    "episodeDate": "2025-12-16T15:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -991,14 +963,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2025-12-09T15:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-12-09T15:00:00Z"
-            },
-            {
               "episode": 8,
               "airingAt": "2025-12-16T15:00:00Z"
             }
@@ -1016,9 +980,8 @@
     "native": "Let's Play クエストだらけのマイライフ",
     "delayedFrom": "2025-12-03T17:15:00Z",
     "delayedUntil": "2025-12-10T17:15:00Z",
-    "episodeDate": "2025-12-10T17:15:00Z",
-    "episodeNumber": 9,
-    "subtractedEpisodeNumber": 8,
+    "episodeDate": "2025-12-17T17:15:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1056,14 +1019,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2025-12-10T17:15:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-12-10T17:15:00Z"
-            },
-            {
               "episode": 10,
               "airingAt": "2025-12-17T17:15:00Z"
             }
@@ -1076,156 +1031,6 @@
     "addedAt": "2025-10-15T18:14:11Z"
   },
   {
-    "title": "Magic Kaito 1412",
-    "route": "magic-kaito-1412",
-    "native": "まじっく快斗1412",
-    "delayedFrom": "0001-01-01T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2025-12-12T04:00:00Z",
-    "episodeNumber": 24,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 24,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 20790,
-        "idMal": 25517,
-        "title": {
-          "romaji": "Magic Kaito 1412",
-          "english": "Magic Kaito 1412",
-          "native": "まじっく快斗1412",
-          "userPreferred": "Magic Kaito 1412"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Mystery"
-        ],
-        "duration": 24,
-        "seasonYear": 2014,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20790-ZOXZWSlvlN1W.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx20790-ZOXZWSlvlN1W.jpg",
-          "color": "#f1d600"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20790-sOvsLAJ6x53e.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 13,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 14,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 15,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 16,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 17,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 18,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 19,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 20,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 21,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 22,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 23,
-              "airingAt": "2025-12-12T04:00:00Z"
-            },
-            {
-              "episode": 24,
-              "airingAt": "2025-12-12T04:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-12-12T10:14:05Z"
-  },
-  {
     "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
     "route": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu",
     "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu",
@@ -1234,8 +1039,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2025-12-13T15:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-20T15:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1292,8 +1097,8 @@
     "native": "無職の英雄 別にスキルなんか要らなかったんだが",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-10T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2025-12-17T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1351,8 +1156,8 @@
     "native": "嘆きの亡霊は引退したい 第2クール",
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2025-12-13T23:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2025-12-20T23:00:00Z",
+    "episodeNumber": 3,
     "episodes": 11,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1409,8 +1214,8 @@
     "native": "忍者と極道",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2025-12-09T17:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-16T17:30:00Z",
+    "episodeNumber": 11,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1463,8 +1268,8 @@
     "native": "ワンパンマン３",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2025-12-14T15:15:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2025-12-21T15:15:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1522,8 +1327,8 @@
     "native": "らんま1/2 (2024) 第2期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-13T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-12-20T17:00:00Z",
+    "episodeNumber": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1572,63 +1377,6 @@
     "addedAt": "2025-10-04T17:00:00Z"
   },
   {
-    "title": "Rock wa Lady no Tashinami deshite",
-    "route": "rock-wa-lady-no-tashinami-deshite",
-    "romaji": "Rock wa Lady no Tashina Mideshite",
-    "english": "Rock is a Lady's Modesty",
-    "native": "ロックは淑女の嗜みでして",
-    "delayedFrom": "0001-01-01T18:00:00Z",
-    "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2025-12-10T18:00:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179694,
-        "idMal": 59360,
-        "title": {
-          "romaji": "Rock wa Lady no Tashinami Deshite",
-          "english": "Rock is a Lady’s Modesty",
-          "native": "ロックは淑女の嗜みでして",
-          "userPreferred": "Rock is a Lady’s Modesty"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Music"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179694-7zhc0T6IImor.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179694-7zhc0T6IImor.jpg",
-          "color": "#e45d50"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179694-wEDYf9cMXKSm.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2025-12-10T18:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-09-17T17:00:00Z"
-  },
-  {
     "title": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
     "route": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka",
     "romaji": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
@@ -1636,8 +1384,8 @@
     "native": "最後にひとつだけお願いしてもよろしいでしょうか",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2025-12-12T16:30:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2025-12-19T16:30:00Z",
+    "episodeNumber": 13,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1693,8 +1441,8 @@
     "route": "sanda",
     "delayedFrom": "0001-01-01T17:50:00Z",
     "delayedUntil": "0001-01-01T17:50:00Z",
-    "episodeDate": "2025-12-12T17:50:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-12-19T17:50:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1750,8 +1498,8 @@
     "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します!",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-10T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2025-12-17T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1801,122 +1549,6 @@
     "addedAt": "2025-11-19T17:00:00Z"
   },
   {
-    "title": "Shuumatsu no Walküre 3",
-    "route": "shuumatsu-no-walkure-iii",
-    "romaji": "Shuumatsu no Walküre 3",
-    "english": "Record of Ragnarok 3",
-    "native": "終末のワルキューレIII",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2025-12-10T08:00:00Z",
-    "episodeNumber": 15,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 15,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187921,
-        "idMal": 61200,
-        "title": {
-          "romaji": "Shuumatsu no Valkyrie III",
-          "english": "Record of Ragnarok III",
-          "native": "終末のワルキューレ III",
-          "userPreferred": "Record of Ragnarok III"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Drama",
-          "Fantasy",
-          "Supernatural"
-        ],
-        "duration": 25,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187921-VhGf8qgbb9z7.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187921-VhGf8qgbb9z7.png",
-          "color": "#6b28e4"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 13,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 14,
-              "airingAt": "2025-12-10T08:00:00Z"
-            },
-            {
-              "episode": 15,
-              "airingAt": "2025-12-10T08:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2025-12-10T08:00:00Z"
-  },
-  {
     "title": "Sozai Saishuka no Isekai Ryokouki",
     "route": "souzai-saishuka-no-isekai-ryokouki",
     "romaji": "Sozai Saishuka no Isekai Ryokouki",
@@ -1924,8 +1556,8 @@
     "native": "素材採取家の異世界旅行記",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2025-12-08T16:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-15T16:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1980,8 +1612,8 @@
     "route": "spy-x-family-season-3",
     "delayedFrom": "0001-01-01T20:30:00Z",
     "delayedUntil": "0001-01-01T20:30:00Z",
-    "episodeDate": "2025-12-13T20:30:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-20T20:30:00Z",
+    "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2039,8 +1671,8 @@
     "native": "太陽よりも眩しい星",
     "delayedFrom": "0001-01-01T15:55:00Z",
     "delayedUntil": "0001-01-01T15:55:00Z",
-    "episodeDate": "2025-12-11T15:55:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2025-12-18T15:55:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2095,9 +1727,8 @@
     "native": "転生悪女の黒歴史",
     "delayedFrom": "2025-12-03T16:00:00Z",
     "delayedUntil": "2025-12-10T16:00:00Z",
-    "episodeDate": "2025-12-10T16:00:00Z",
-    "episodeNumber": 8,
-    "subtractedEpisodeNumber": 7,
+    "episodeDate": "2025-12-17T16:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2135,14 +1766,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2025-12-10T16:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2025-12-10T16:00:00Z"
-            },
-            {
               "episode": 9,
               "airingAt": "2025-12-17T16:00:00Z"
             }
@@ -2162,8 +1785,8 @@
     "native": "とんでもスキルで異世界放浪メシ 第2期",
     "delayedFrom": "0001-01-01T20:00:00Z",
     "delayedUntil": "0001-01-01T20:00:00Z",
-    "episodeDate": "2025-12-09T20:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2025-12-16T20:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2218,8 +1841,8 @@
     "native": "桃源暗鬼",
     "delayedFrom": "2025-10-17T16:00:00Z",
     "delayedUntil": "2025-10-24T16:00:00Z",
-    "episodeDate": "2025-12-12T16:00:00Z",
-    "episodeNumber": 22,
+    "episodeDate": "2025-12-19T16:00:00Z",
+    "episodeNumber": 23,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2276,8 +1899,8 @@
     "native": "東島丹三郎は仮面ライダーになりたい",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2025-12-13T17:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-20T17:00:00Z",
+    "episodeNumber": 10,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2390,8 +2013,8 @@
     "delayedText": "Delayed",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2025-12-10T07:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2025-12-17T07:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2447,9 +2070,8 @@
     "native": "渡くんの××が崩壊寸前",
     "delayedFrom": "2025-12-05T23:00:00Z",
     "delayedUntil": "2025-12-12T23:00:00Z",
-    "episodeDate": "2025-12-12T23:00:00Z",
-    "episodeNumber": 22,
-    "subtractedEpisodeNumber": 21,
+    "episodeDate": "2025-12-19T23:00:00Z",
+    "episodeNumber": 23,
     "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2487,14 +2109,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169420-jdvNFYe9Oa4v.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 21,
-              "airingAt": "2025-12-12T23:00:00Z"
-            },
-            {
-              "episode": 22,
-              "airingAt": "2025-12-12T23:00:00Z"
-            },
             {
               "episode": 23,
               "airingAt": "2025-12-19T23:00:00Z"
