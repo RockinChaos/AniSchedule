@@ -2338,10 +2338,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765897200
-        },
-        {
           "episode": 12,
           "airingAt": 1766502000
         }
@@ -3621,10 +3617,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1765893600
-        },
-        {
           "episode": 9,
           "airingAt": 1766498400
         },
@@ -4401,40 +4393,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 183965,
-    "idMal": 60254,
-    "title": {
-      "romaji": "Yano-kun no Futsuu no Hibi",
-      "english": "Yano-kun's Ordinary Days",
-      "native": "矢野くんの普通の日々",
-      "userPreferred": "Yano-kun's Ordinary Days"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 22,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183965-7oMzkJp4FUyP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183965-7oMzkJp4FUyP.jpg",
-      "color": "#d6ae6b"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1765902540
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5631,10 +5589,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765895400
-        },
-        {
           "episode": 11,
           "airingAt": 1766500200
         },
@@ -6032,10 +5986,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765904340
-        },
         {
           "episode": 12,
           "airingAt": 1766509140
@@ -9326,10 +9276,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1765893600
-        },
         {
           "episode": 10,
           "airingAt": 1766498400
