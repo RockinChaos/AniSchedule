@@ -1206,10 +1206,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 302,
-          "airingAt": 1765838400
-        },
-        {
           "episode": 304,
           "airingAt": 1766443200
         },
@@ -5084,6 +5080,85 @@
         {
           "episode": 12,
           "airingAt": 1774629300
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 185514,
+    "idMal": 60509,
+    "title": {
+      "romaji": "Champignon no Majo",
+      "english": null,
+      "native": "シャンピニオンの魔女",
+      "userPreferred": "Champignon no Majo"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-AHVhgj4AzMPa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185514-AHVhgj4AzMPa.jpg",
+      "color": "#e49350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767891480
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768496280
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769101080
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769705880
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770310680
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770915480
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771520280
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772125080
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772729880
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773334680
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773939480
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774544280
         }
       ]
     },
