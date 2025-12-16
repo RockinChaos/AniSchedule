@@ -9715,10 +9715,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765889760
-        },
-        {
           "episode": 12,
           "airingAt": 1766494560
         }
@@ -10331,40 +10327,6 @@
         {
           "episode": 12,
           "airingAt": 1771470000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199009,
-    "idMal": 62496,
-    "title": {
-      "romaji": "2200-nen Neko no Kuni Nippon",
-      "english": null,
-      "native": "2200年ねこの国ニッポン",
-      "userPreferred": "2200-nen Neko no Kuni Nippon"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199009-MxwkHEavznVW.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199009-MxwkHEavznVW.jpg",
-      "color": "#e4436b"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766466000
         }
       ]
     },
@@ -11291,6 +11253,104 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 203953,
+    "idMal": null,
+    "title": {
+      "romaji": "Mu Shen Ji 3",
+      "english": null,
+      "native": "牧神记3",
+      "userPreferred": "Mu Shen Ji 3"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 20,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203953-0o0WnauWOeQO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203953-0o0WnauWOeQO.jpg",
+      "color": "#e45d5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1766242800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1766847600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1767452400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1768057200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1768662000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1769266800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1769871600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1770476400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1771081200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1771686000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1772290800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1772895600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1773500400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1774105200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1774710000
+        },
+        {
+          "episode": 25,
+          "airingAt": 1775314800
+        },
+        {
+          "episode": 26,
+          "airingAt": 1775919600
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
