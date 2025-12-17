@@ -278,6 +278,7 @@ export async function correctZeroEpisodes(type, mediaList, existingSchedule, exi
         if (isZeroEpisode) {
             if (!entry.airingSchedule?.nodes?.some(node => node.episode === 0) && entry.airingSchedule?.nodes?.some(node => node.episode >= 1)) {
                 console.log(`(${type}) Zero episode series detected for ${entry.title.userPreferred}, correcting episode numbers...`)
+                if (_entry?.episodeNumber !== undefined) _entry.episodeNumber = _entry.episodeNumber - 1
                 entry.airingSchedule.nodes.forEach(node => {
                     const oldEpisode = node.episode
                     node.episode = node.episode - 1

@@ -558,7 +558,7 @@ export async function updateDubFeed(optSchedule) {
         // handle double-header (multi-header) releases
         const latestEpisode = entry.episodeNumber
         const existingEpisodes = existingFeed.filter(media => media.id === entry.media?.media?.id)
-        const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), 0)
+        const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), -1)
         let episodeType = 0
         if ((entry.unaired && new Date(entry.episodeDate) > new Date()) || (((new Date(entry.delayedUntil) > new Date()) || (new Date(entry.episodeDate) > new Date())) && entry.subtractedEpisodeNumber && (lastFeedEpisode === (entry.subtractedEpisodeNumber - 1)))) return newEpisodes
         for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
