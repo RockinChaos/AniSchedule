@@ -21,7 +21,18 @@ coverImage {
   color
 },
 isAdult,
-bannerImage`
+bannerImage,
+relations {
+  edges {
+    relationType(version:2),
+    node {
+      id,
+      type,
+      format,
+      seasonYear
+    }
+  }
+}`
 
 const queryAiringObjects = /* js */`
 airingSchedule(page: 1, perPage: 50, notYetAired: true) {

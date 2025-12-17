@@ -60,7 +60,10 @@ export async function fetchSubSchedule() {
     })
 
     results.data.Page.media.forEach(media => media?.airingSchedule?.nodes?.sort((a, b) => a.airingAt - b.airingAt || a.episode - b.episode))
-    results.data.Page.media = results.data.Page.media.filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index).sort((a, b) => a.id - b.id)
+    results.data.Page.media = results.data.Page.media.filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index).map(media => {
+        const { relations, ...cleanMedia } = media
+        return cleanMedia
+    }).sort((a, b) => a.id - b.id)
 	//.sort((a, b) => a.airingSchedule.nodes[0].episode - b.airingSchedule.nodes[0].episode).sort((a, b) => a.airingSchedule.nodes[0].airingAt - b.airingSchedule.nodes[0].airingAt) // probably best to retire sorting like this. It will help reduce the number of line changes in a commit, reducing complexity.
 
     let media = results?.data?.Page?.media

@@ -353,17 +353,19 @@ export async function fetchDubSchedule() {
     let combinedResults = airing.map(({ donghua, status, airType, imageVersionRoute, streams, airingStatus, ...airingItem }) => {
         // Find the resolved media match for the current airing item
         const entry = order.find(o => o.route === airingItem.route)
-        const mediaMatch = results?.find(result => result.media?.title?.userPreferred === entry?.title)
+        const cachedTitle = AnimeResolver.animeNameCache[order.find(o => o.route === airingItem.route)?.route]?.title?.userPreferred
+        const mediaMatch = results?.find(result => result.media?.title?.userPreferred === cachedTitle) || results?.find(result => result.media?.title?.userPreferred === entry?.title)
         const numberOfEpisodes = airingItem.subtractedEpisodeNumber ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 1
         const predictedEpisode = airingItem.episodeNumber + ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired ? 0 : ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) && (!airingItem.episodes || (airingItem.episodeNumber < airingItem.episodes)) ? ((airingItem.subtractedEpisodeNumber >= 1 && (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) > 1 ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 0) + 1) : 0))
         const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i)
+        const stripRelations = ({ relations, ...rest }) => rest
 
         return {
             ...airingItem, // Include all original airing list data
             ...(mediaMatch && {
                 media: {
                     media: {
-                        ...mediaMatch.media,
+                        ...stripRelations(mediaMatch.media),
                         airingSchedule: {
                             nodes: range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode).map((ep) => ({
                                 episode: ep,

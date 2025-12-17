@@ -150,6 +150,19 @@ export default new class AnimeResolver {
       let episode
       let media = this.animeNameCache[this.getCacheKeyForTitle(parseObj)]
       let needsVerification = !media || !matchKeys(media, parseObj?.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)
+      if (!needsVerification && media?.format === 'OVA') {
+          const types = parseObj.anime_type ? (Array.isArray(parseObj.anime_type) ? parseObj.anime_type : [parseObj.anime_type]).map(type => String(type).toUpperCase()) : []
+          if (!types.includes('OVA')) {
+              const altMedia = this.findEdge(media, 'PREQUEL')?.node || this.findEdge(media, 'PARENT')?.node
+              if (altMedia && altMedia.format !== 'OVA') {
+                  const fetchedMedia = await this.getAnimeById(altMedia.id)
+                  if (matchKeys(fetchedMedia, parseObj?.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], 0.3)) {
+                      media = fetchedMedia
+                      this.animeNameCache[this.getCacheKeyForTitle(parseObj)] = fetchedMedia
+                  }
+              }
+          }
+      }
       // resolve episode, if movie, dont.
       let maxep = media?.nextAiringEpisode?.episode || media?.episodes
       console.log(`Resolving ${parseObj?.anime_title} ${parseObj?.episode_number} ${maxep} ${media?.title?.userPreferred} ${media?.format}`)
