@@ -1148,39 +1148,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 140291,
-    "idMal": 50139,
-    "title": {
-      "romaji": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL",
-      "english": null,
-      "native": "ディズニー ツイステッドワンダーランド ザ アニメーション シーズン1「エピソード オブ ハーツラビュル」",
-      "userPreferred": "Disney Twisted-Wonderland: THE ANIMATION  - Season 1: EPISODE of HEARTSLABYUL"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140291-RAwYjwC9vWDR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140291-RAwYjwC9vWDR.png",
-      "color": "#f1a143"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140291-raHo98Y0NfZn.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1765958400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 140842,
     "idMal": 50250,
     "title": {
@@ -7022,10 +6989,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1765969200
-        },
-        {
           "episode": 11,
           "airingAt": 1766574000
         },
@@ -7064,6 +7027,10 @@
         {
           "episode": 25,
           "airingAt": 1766191500
+        },
+        {
+          "episode": 26,
+          "airingAt": 1766796300
         }
       ]
     },
@@ -8852,10 +8819,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1765969140
-        },
-        {
           "episode": 13,
           "airingAt": 1766573940
         },
@@ -9466,6 +9429,42 @@
         {
           "episode": 24,
           "airingAt": 1773534600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 196750,
+    "idMal": 62328,
+    "title": {
+      "romaji": "Sister Breeder",
+      "english": null,
+      "native": "シスターブリーダー",
+      "userPreferred": "Sister Breeder"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196750-qwkwqdNMXIwD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196750-qwkwqdNMXIwD.png",
+      "color": "#bb35e4"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196750-cmc0IEyZbqOj.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1772118000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1772118000
         }
       ]
     },
