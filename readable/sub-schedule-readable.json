@@ -2522,10 +2522,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1765983600
-        },
-        {
           "episode": 12,
           "airingAt": 1766588400
         }
@@ -2762,41 +2758,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 177271,
-    "idMal": 58772,
-    "title": {
-      "romaji": "Kakuriyo no Yadomeshi 2nd Season",
-      "english": "Kakuriyo -Bed & Breakfast for Spirits- 2",
-      "native": "かくりよの宿飯 第２期",
-      "userPreferred": "Kakuriyo -Bed & Breakfast for Spirits- 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177271-anyazmpWyX3m.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177271-anyazmpWyX3m.jpg",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1765983600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -3456,38 +3417,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 179823,
-    "idMal": 59407,
-    "title": {
-      "romaji": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi Animation",
-      "english": null,
-      "native": "入り浸りギャルにま〇こ使わせて貰う話 Animation",
-      "userPreferred": "Iribitari Gal ni Manko Tsukawasete Morau Hanashi Animation"
-    },
-    "format": "ONA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 17,
-    "seasonYear": 2024,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179823-bRAv7uaS8mxl.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179823-bRAv7uaS8mxl.png",
-      "color": "#e4c9a1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1765983600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 179930,
     "idMal": 59435,
     "title": {
@@ -3620,10 +3549,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180436-FHMeyqzlPeGr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1765982700
-        },
         {
           "episode": 12,
           "airingAt": 1766587500
@@ -8212,40 +8137,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 193968,
-    "idMal": 61773,
-    "title": {
-      "romaji": "Let’s Play: Quest Darake no My Life",
-      "english": "Let’s Play",
-      "native": "Let’s Play クエストだらけのマイライフ",
-      "userPreferred": "Let’s Play"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193968-tXbbqBOTuClj.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193968-tXbbqBOTuClj.jpg",
-      "color": "#e41a43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193968-o6WaB851sYMt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1765986360
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
