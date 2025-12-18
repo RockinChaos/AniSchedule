@@ -5455,6 +5455,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 185993,
+    "idMal": 60692,
+    "title": {
+      "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+      "english": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "native": "貴族転生 ～恵まれた生まれから最強の力を得る～",
+      "userPreferred": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185993-BecPUaWfZJgR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185993-BecPUaWfZJgR.png",
+      "color": "#50a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-l6mkA8DPzdQc.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767538800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768143600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768748400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769353200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769958000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770562800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771167600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771772400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772377200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772982000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773586800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774191600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 186161,
     "idMal": 60765,
     "title": {
@@ -8243,8 +8322,52 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1766055600
+          "episode": 13,
+          "airingAt": 1766660400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1767265200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1767870000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1768474800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769079600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1769684400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1770289200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1770894000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1771498800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772103600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1772708400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1773313200
         }
       ]
     },
@@ -10069,39 +10192,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198921,
-    "idMal": 62504,
-    "title": {
-      "romaji": "Sylvanian Families: Freya no Wonder Days",
-      "english": null,
-      "native": "シルバニアファミリー フレアのワンダーデイズ",
-      "userPreferred": "Sylvanian Families: Freya no Wonder Days"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 12,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198921-NMVQx7KSCnTd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198921-NMVQx7KSCnTd.png",
-      "color": "#4378e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766053320
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198926,
     "idMal": 62522,
     "title": {
@@ -10127,10 +10217,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766062440
-        },
         {
           "episode": 13,
           "airingAt": 1766667240
@@ -10296,10 +10382,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1766050200
-        },
         {
           "episode": 12,
           "airingAt": 1766655000
@@ -10554,10 +10636,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766055600
-        },
         {
           "episode": 13,
           "airingAt": 1766660400
