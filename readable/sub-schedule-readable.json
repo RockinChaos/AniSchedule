@@ -835,9 +835,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113971-Uhy5j0QTiO2K.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-Uhy5j0QTiO2K.jpg",
-      "color": "#c9f1f1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113971-y2wxyDYUqiHz.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-y2wxyDYUqiHz.png",
+      "color": "#35a1ae"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -1417,40 +1417,6 @@
         {
           "episode": 12,
           "airingAt": 1766933160
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 154887,
-    "idMal": 53204,
-    "title": {
-      "romaji": "Isekai Kita node Sukebe Skill de Zenryoku Ouka Shiyou to Omou THE ANIMATION",
-      "english": "try all my might to enjoy it with my Erotic Skills in a DIFFERENT WORLD",
-      "native": "異世界来たのでスケベスキルで全力謳歌しようと思う THE ANIMATION",
-      "userPreferred": "try all my might to enjoy it with my Erotic Skills in a DIFFERENT WORLD"
-    },
-    "format": "OVA",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Hentai"
-    ],
-    "duration": 18,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154887-yTRXVOLMLleD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx154887-yTRXVOLMLleD.jpg",
-      "color": "#f1935d"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154887-EgVW77ICmImc.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1766070000
         }
       ]
     },
@@ -4056,39 +4022,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 183291,
-    "idMal": 60162,
-    "title": {
-      "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
-      "english": "Pass the Monster Meat, Milady!",
-      "native": "悪食令嬢と狂血公爵　～その魔物、私が美味しくいただきます！～",
-      "userPreferred": "Pass the Monster Meat, Milady!"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183291-qm3bQT1wpmka.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183291-qm3bQT1wpmka.jpg",
-      "color": "#e45d43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766075280
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 183385,
     "idMal": 60168,
     "title": {
@@ -4116,10 +4049,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183385-tK0LdiABACjw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766064600
-        },
         {
           "episode": 13,
           "airingAt": 1766669400
@@ -5016,39 +4945,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185575,
-    "idMal": 60531,
-    "title": {
-      "romaji": "Bukiyou na Senpai.",
-      "english": "My Awkward Senpai",
-      "native": "不器用な先輩。",
-      "userPreferred": "My Awkward Senpai"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185575-moQeN8f5xRBv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185575-moQeN8f5xRBv.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766062800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185646,
     "idMal": 60534,
     "title": {
@@ -5423,38 +5319,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185965,
-    "idMal": 60665,
-    "title": {
-      "romaji": "Futari Solo Camp",
-      "english": "Solo Camping for Two",
-      "native": "ふたりソロキャンプ",
-      "userPreferred": "Solo Camping for Two"
-    },
-    "format": "TV",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185965-LlzTLSTBUbEA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185965-LlzTLSTBUbEA.jpg",
-      "color": "#e4a11a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185965-9YtD3BC30w26.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1766071800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185993,
     "idMal": 60692,
     "title": {
@@ -5595,10 +5459,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1766077080
-        },
         {
           "episode": 38,
           "airingAt": 1766681880
@@ -5771,38 +5631,6 @@
         {
           "episode": 12,
           "airingAt": 1766928600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 186621,
-    "idMal": 60969,
-    "title": {
-      "romaji": "Taiyou yori mo Mabushii Hoshi",
-      "english": "A Star Brighter Than the Sun",
-      "native": "太陽よりも眩しい星",
-      "userPreferred": "A Star Brighter Than the Sun"
-    },
-    "format": "TV",
-    "genres": [
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186621-jFeAgDQkQMUm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186621-jFeAgDQkQMUm.jpg",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186621-uk4MCyfZK9hV.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766069760
         }
       ]
     },
@@ -6025,10 +5853,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1766062800
-        },
-        {
           "episode": 13,
           "airingAt": 1766667600
         },
@@ -6123,6 +5947,10 @@
         {
           "episode": 36,
           "airingAt": 1780578000
+        },
+        {
+          "episode": 37,
+          "airingAt": 1781182800
         }
       ]
     },
@@ -8589,41 +8417,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 195153,
-    "idMal": 61917,
-    "title": {
-      "romaji": "Towa no Yuugure",
-      "english": "Dusk Beyond the End of the World",
-      "native": "永久のユウグレ",
-      "userPreferred": "Dusk Beyond the End of the World"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195153-yiRxZP5pPJLi.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195153-yiRxZP5pPJLi.png",
-      "color": "#f1ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195153-W9fU1Xo7qMCY.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766071560
-        }
-      ]
-    },
-    "zeroEpisode": true
-  },
-  {
     "id": 195173,
     "idMal": 61922,
     "title": {
@@ -9109,10 +8902,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1766070000
-        },
-        {
           "episode": 3,
           "airingAt": 1769698800
         }
@@ -9329,38 +9118,6 @@
         {
           "episode": 2,
           "airingAt": 1769698800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 196547,
-    "idMal": 62145,
-    "title": {
-      "romaji": "H na Gishi Series The Animation",
-      "english": null,
-      "native": "Hな義姉シリーズ The Animation",
-      "userPreferred": "H na Gishi Series The Animation"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196547-hXnKykN7Ky4Z.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196547-hXnKykN7Ky4Z.png",
-      "color": "#e4ae50"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1766070000
         }
       ]
     },
@@ -10022,38 +9779,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198561,
-    "idMal": 62144,
-    "title": {
-      "romaji": "Potion, Wagami wo Tasukeru",
-      "english": "I Saved Myself with a Potion!: Life in Another World",
-      "native": "ポーション、わが身を助ける",
-      "userPreferred": "I Saved Myself with a Potion!: Life in Another World"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 13,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198561-ugYb3oLGGdbD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198561-ugYb3oLGGdbD.png",
-      "color": "#5daef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766073600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198720,
     "idMal": null,
     "title": {
@@ -10292,6 +10017,56 @@
     "zeroEpisode": false
   },
   {
+    "id": 199112,
+    "idMal": 62543,
+    "title": {
+      "romaji": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine!",
+      "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
+      "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜",
+      "userPreferred": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-VPWYryw0fkz8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199112-VPWYryw0fkz8.jpg",
+      "color": "#d6c978"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767196800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1767198600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1767200400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1767202200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1767204000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 199162,
     "idMal": 62578,
     "title": {
@@ -10457,39 +10232,6 @@
         {
           "episode": 30,
           "airingAt": 1777541400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199794,
-    "idMal": 62643,
-    "title": {
-      "romaji": "Anila to Cocora",
-      "english": null,
-      "native": "アニラとココラ",
-      "userPreferred": "Anila to Cocora"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199794-DjnzEzfFG559.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766078100
         }
       ]
     },
