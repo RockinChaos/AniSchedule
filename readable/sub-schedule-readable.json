@@ -418,10 +418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1729,
-          "airingAt": 1766109300
-        },
-        {
           "episode": 1730,
           "airingAt": 1766714100
         }
@@ -583,10 +579,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 635,
-          "airingAt": 1766095800
-        },
-        {
           "episode": 636,
           "airingAt": 1766700600
         },
@@ -681,6 +673,10 @@
         {
           "episode": 659,
           "airingAt": 1780611000
+        },
+        {
+          "episode": 660,
+          "airingAt": 1781215800
         }
       ]
     },
@@ -2709,9 +2705,9 @@
     "duration": 75,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177132-5aOvggAhaxuo.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177132-5aOvggAhaxuo.jpg",
-      "color": "#e4c95d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177132-V5P7e5f5OzNB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177132-V5P7e5f5OzNB.jpg",
+      "color": "#43bbe4"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177132-0HGgOyzHq7Nx.jpg",
