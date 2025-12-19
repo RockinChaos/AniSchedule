@@ -927,10 +927,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 188,
-          "airingAt": 1766137200
-        },
-        {
           "episode": 189,
           "airingAt": 1766742000
         },
@@ -1025,6 +1021,10 @@
         {
           "episode": 212,
           "airingAt": 1780652400
+        },
+        {
+          "episode": 213,
+          "airingAt": 1781257200
         }
       ]
     },
@@ -1419,40 +1419,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 158871,
-    "idMal": 53876,
-    "title": {
-      "romaji": "Pocket Monsters (2023)",
-      "english": "Pokémon Horizons: The Series",
-      "native": "ポケットモンスター (2023)",
-      "userPreferred": "Pokémon Horizons: The Series"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2023,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg",
-      "color": "#e4bb28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 122,
-          "airingAt": 1766138100
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 162669,
     "idMal": 54703,
     "title": {
@@ -1667,10 +1633,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 109,
-          "airingAt": 1766136300
-        },
-        {
           "episode": 110,
           "airingAt": 1766741100
         },
@@ -1765,6 +1727,10 @@
         {
           "episode": 133,
           "airingAt": 1780651500
+        },
+        {
+          "episode": 134,
+          "airingAt": 1781256300
         }
       ]
     },
@@ -5021,39 +4987,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185694,
-    "idMal": 60551,
-    "title": {
-      "romaji": "Hyakushou Kizoku 3rd Season",
-      "english": null,
-      "native": "百姓貴族 3rd Season",
-      "userPreferred": "Hyakushou Kizoku 3rd Season"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185694-9QHeiSLvokWY.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185694-9QHeiSLvokWY.png",
-      "color": "#f18635"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766148840
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185718,
     "idMal": 60596,
     "title": {
@@ -5176,7 +5109,7 @@
       "native": "MFゴースト 3rd Season",
       "userPreferred": "MF GHOST Season 3"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Sci-Fi",
       "Sports"
@@ -5194,51 +5127,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1767537000
+          "airingAt": 1767277800
         },
         {
           "episode": 2,
-          "airingAt": 1768141800
+          "airingAt": 1767882600
         },
         {
           "episode": 3,
-          "airingAt": 1768746600
+          "airingAt": 1768487400
         },
         {
           "episode": 4,
-          "airingAt": 1769351400
+          "airingAt": 1769092200
         },
         {
           "episode": 5,
-          "airingAt": 1769956200
+          "airingAt": 1769697000
         },
         {
           "episode": 6,
-          "airingAt": 1770561000
+          "airingAt": 1770301800
         },
         {
           "episode": 7,
-          "airingAt": 1771165800
+          "airingAt": 1770906600
         },
         {
           "episode": 8,
-          "airingAt": 1771770600
+          "airingAt": 1771511400
         },
         {
           "episode": 9,
-          "airingAt": 1772375400
+          "airingAt": 1772116200
         },
         {
           "episode": 10,
-          "airingAt": 1772980200
+          "airingAt": 1772721000
         },
         {
           "episode": 11,
-          "airingAt": 1773585000
+          "airingAt": 1773325800
         },
         {
           "episode": 12,
-          "airingAt": 1774189800
+          "airingAt": 1773930600
         }
       ]
     },
@@ -9413,36 +9346,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198117,
-    "idMal": 62378,
-    "title": {
-      "romaji": "GANGLION",
-      "english": null,
-      "native": "ガングリオン",
-      "userPreferred": "GANGLION"
-    },
-    "format": "TV_SHORT",
-    "genres": [],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198117-ms0mzmuyOw8n.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198117-ms0mzmuyOw8n.png",
-      "color": "#e45d50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766143800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198312,
     "idMal": 62428,
     "title": {
@@ -10458,56 +10361,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 201151,
-    "idMal": null,
-    "title": {
-      "romaji": "THE LENTICULARS",
-      "english": "THE LENTICULARS",
-      "native": "ザ・レンチキュラーズ",
-      "userPreferred": "THE LENTICULARS"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 6,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201151-DA2N96rmqFsS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201151-DA2N96rmqFsS.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1766142000
-        },
-        {
-          "episode": 9,
-          "airingAt": 1766746800
-        },
-        {
-          "episode": 10,
-          "airingAt": 1767351600
-        },
-        {
-          "episode": 11,
-          "airingAt": 1767956400
-        },
-        {
-          "episode": 12,
-          "airingAt": 1768561200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
