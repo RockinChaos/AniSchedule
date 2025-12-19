@@ -2126,10 +2126,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1766160000
-        },
-        {
           "episode": 26,
           "airingAt": 1766764800
         }
@@ -2793,10 +2789,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1766152800
-        },
-        {
           "episode": 24,
           "airingAt": 1766757600
         }
@@ -3312,39 +3304,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 179302,
-    "idMal": 59267,
-    "title": {
-      "romaji": "SANDA",
-      "english": "SANDA",
-      "native": "SANDA",
-      "userPreferred": "SANDA"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179302-gWWAh5BfQyl4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179302-gWWAh5BfQyl4.jpg",
-      "color": "#d61a35"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179302-hX6lxG28Nzuf.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766163180
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 179930,
     "idMal": 59435,
     "title": {
@@ -3635,42 +3594,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 181447,
-    "idMal": 59846,
-    "title": {
-      "romaji": "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
-      "english": "May I Ask for One Final Thing?",
-      "native": "最後にひとつだけお願いしてもよろしいでしょうか",
-      "userPreferred": "May I Ask for One Final Thing?"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181447-aCmaQmtdwuU5.jpg",
-      "color": "#43bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766158200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -4288,40 +4211,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 184322,
-    "idMal": 60303,
-    "title": {
-      "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
-      "english": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
-      "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！",
-      "userPreferred": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184322-rRkaMQ7J1zOI.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184322-rRkaMQ7J1zOI.jpg",
-      "color": "#28a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766154600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -4567,10 +4456,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766154600
-        },
         {
           "episode": 13,
           "airingAt": 1766759400
@@ -6109,39 +5994,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 187860,
-    "idMal": 61184,
-    "title": {
-      "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
-      "english": "Style of Hiroshi Nohara's Lunch",
-      "native": "野原ひろし 昼メシの流儀",
-      "userPreferred": "Style of Hiroshi Nohara's Lunch"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187860-R1IHWJGSL4EB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187860-R1IHWJGSL4EB.jpg",
-      "color": "#f1505d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766152800
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
