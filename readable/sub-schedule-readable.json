@@ -1231,10 +1231,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 198,
-          "airingAt": 1766183400
-        },
-        {
           "episode": 199,
           "airingAt": 1766788200
         },
@@ -1329,6 +1325,10 @@
         {
           "episode": 222,
           "airingAt": 1780698600
+        },
+        {
+          "episode": 223,
+          "airingAt": 1781303400
         }
       ]
     },
@@ -1413,6 +1413,136 @@
         {
           "episode": 12,
           "airingAt": 1766933160
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 158871,
+    "idMal": 53876,
+    "title": {
+      "romaji": "Pocket Monsters (2023)",
+      "english": "Pokémon Horizons: The Series",
+      "native": "ポケットモンスター (2023)",
+      "userPreferred": "Pokémon Horizons: The Series"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158871-GBM9AMDfDRSu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158871-GBM9AMDfDRSu.jpg",
+      "color": "#e4bb28"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158871-jKfsW5HCGA3K.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 123,
+          "airingAt": 1767952500
+        },
+        {
+          "episode": 124,
+          "airingAt": 1768557300
+        },
+        {
+          "episode": 125,
+          "airingAt": 1769162100
+        },
+        {
+          "episode": 126,
+          "airingAt": 1769766900
+        },
+        {
+          "episode": 127,
+          "airingAt": 1770371700
+        },
+        {
+          "episode": 128,
+          "airingAt": 1770976500
+        },
+        {
+          "episode": 129,
+          "airingAt": 1771581300
+        },
+        {
+          "episode": 130,
+          "airingAt": 1772186100
+        },
+        {
+          "episode": 131,
+          "airingAt": 1772790900
+        },
+        {
+          "episode": 132,
+          "airingAt": 1773395700
+        },
+        {
+          "episode": 133,
+          "airingAt": 1774000500
+        },
+        {
+          "episode": 134,
+          "airingAt": 1774605300
+        },
+        {
+          "episode": 135,
+          "airingAt": 1775210100
+        },
+        {
+          "episode": 136,
+          "airingAt": 1775814900
+        },
+        {
+          "episode": 137,
+          "airingAt": 1776419700
+        },
+        {
+          "episode": 138,
+          "airingAt": 1777024500
+        },
+        {
+          "episode": 139,
+          "airingAt": 1777629300
+        },
+        {
+          "episode": 140,
+          "airingAt": 1778234100
+        },
+        {
+          "episode": 141,
+          "airingAt": 1778838900
+        },
+        {
+          "episode": 142,
+          "airingAt": 1779443700
+        },
+        {
+          "episode": 143,
+          "airingAt": 1780048500
+        },
+        {
+          "episode": 144,
+          "airingAt": 1780653300
+        },
+        {
+          "episode": 145,
+          "airingAt": 1781258100
+        },
+        {
+          "episode": 146,
+          "airingAt": 1781862900
+        },
+        {
+          "episode": 147,
+          "airingAt": 1782467700
         }
       ]
     },
@@ -4179,38 +4309,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 184289,
-    "idMal": 60070,
-    "title": {
-      "romaji": "Kaijuu Sekai Seifuku",
-      "english": null,
-      "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijuu Sekai Seifuku"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 38,
-          "airingAt": 1766181600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -6638,10 +6736,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1766191500
-        },
-        {
           "episode": 26,
           "airingAt": 1766796300
         }
@@ -7129,6 +7223,43 @@
         {
           "episode": 1,
           "airingAt": 1769698800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 190327,
+    "idMal": 61469,
+    "title": {
+      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
+      "english": "STEEL BALL RUN JoJo's Bizarre Adventure",
+      "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン",
+      "userPreferred": "STEEL BALL RUN JoJo's Bizarre Adventure"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-fIfMy1LTkdGP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-fIfMy1LTkdGP.jpg",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190327-bXr8tFZUdxOw.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1773903600
         }
       ]
     },
@@ -8192,38 +8323,6 @@
         {
           "episode": 2,
           "airingAt": 1769698800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 195173,
-    "idMal": 61922,
-    "title": {
-      "romaji": "SHIBUYA♡HACHI Part 4",
-      "english": null,
-      "native": "SHIBUYA♡HACHI 第4クール",
-      "userPreferred": "SHIBUYA♡HACHI Part 4"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195173-vjXBdO73KocO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195173-vjXBdO73KocO.jpg",
-      "color": "#e45d78"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766178000
         }
       ]
     },
@@ -9437,10 +9536,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1766178000
-        },
-        {
           "episode": 13,
           "airingAt": 1766782800
         },
@@ -10505,10 +10600,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1766179800
-        },
         {
           "episode": 3,
           "airingAt": 1768858200
