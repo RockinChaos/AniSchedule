@@ -1031,40 +1031,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 129195,
-    "idMal": 47158,
-    "title": {
-      "romaji": "Tomodachi no Imouto ga Ore ni dake Uzai",
-      "english": "My Friend's Little Sister Has It In for Me!",
-      "native": "友達の妹が俺にだけウザい",
-      "userPreferred": "My Friend's Little Sister Has It In for Me!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx129195-9BT4wE1QTLj2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx129195-9BT4wE1QTLj2.jpg",
-      "color": "#e45d78"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/129195-lX3k3Fh14MP5.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766248200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -1576,10 +1542,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162669-SvOE44IccAT0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766241900
-        },
         {
           "episode": 13,
           "airingAt": 1766846700
@@ -3107,10 +3069,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177937-jty4x7qBWG5n.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766239200
-        },
         {
           "episode": 13,
           "airingAt": 1766844000
@@ -4716,10 +4674,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1766242800
-        },
-        {
           "episode": 12,
           "airingAt": 1766847600
         }
@@ -5040,40 +4994,6 @@
         {
           "episode": 50,
           "airingAt": 1773526560
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 185731,
-    "idMal": 60564,
-    "title": {
-      "romaji": "Ranma 1/2 (2024) 2nd Season",
-      "english": "Ranma1/2 (2024) Season 2",
-      "native": "らんま1/2 (2024) 第2期",
-      "userPreferred": "Ranma1/2 (2024) Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185731-PJ6WKcFDUI4B.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185731-PJ6WKcFDUI4B.jpg",
-      "color": "#d6351a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185731-LUMIdwsqtTrX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766246160
         }
       ]
     },
@@ -5702,40 +5622,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 186920,
-    "idMal": 61072,
-    "title": {
-      "romaji": "Shuumatsu Touring",
-      "english": "Touring After the Apocalypse",
-      "native": "終末ツーリング",
-      "userPreferred": "Touring After the Apocalypse"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186920-sDg7ZRCXOdxM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186920-sDg7ZRCXOdxM.jpg",
-      "color": "#1ad6f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766241000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 187166,
     "idMal": 61107,
     "title": {
@@ -6037,8 +5923,52 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1766244600
+          "episode": 13,
+          "airingAt": 1766849400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1768059000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768663800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1769268600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1769873400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1770478200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1771083000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1771687800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1772292600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1772897400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1773502200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1774107000
         }
       ]
     },
@@ -6598,40 +6528,6 @@
         {
           "episode": 12,
           "airingAt": 1766275200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 188487,
-    "idMal": 61276,
-    "title": {
-      "romaji": "Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
-      "english": "The Banished Court Magician Aims to Become the Strongest",
-      "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す",
-      "userPreferred": "The Banished Court Magician Aims to Become the Strongest"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188487-gewgvReLVli9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188487-gewgvReLVli9.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766241000
         }
       ]
     },
@@ -7221,38 +7117,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 190840,
-    "idMal": 61517,
-    "title": {
-      "romaji": "Kingdom 6th Season",
-      "english": "Kingdom Season 6",
-      "native": "キングダム 第6シリーズ",
-      "userPreferred": "Kingdom Season 6"
-    },
-    "format": "TV",
-    "genres": [
-      "Action"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190840-CvKAz6aWHB21.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190840-CvKAz6aWHB21.png",
-      "color": "#50aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766243400
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -9936,6 +9800,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 199446,
+    "idMal": null,
+    "title": {
+      "romaji": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!",
+      "english": null,
+      "native": "最推しの義兄を愛でるため、長生きします！",
+      "userPreferred": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!"
+    },
+    "format": null,
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199446-2jYnGrTItjyu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg",
+      "color": "#4393c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767445200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768050000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768654800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769259600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769864400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770469200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771074000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771678800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772283600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772888400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773493200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774098000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 199635,
     "idMal": 62676,
     "title": {
@@ -10752,10 +10694,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1766242800
-        },
         {
           "episode": 11,
           "airingAt": 1766847600
