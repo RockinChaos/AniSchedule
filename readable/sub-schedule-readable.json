@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1186,
-          "airingAt": 1766221200
-        },
-        {
           "episode": 1187,
           "airingAt": 1766826000
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1210,
           "airingAt": 1780736400
+        },
+        {
+          "episode": 1211,
+          "airingAt": 1781341200
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1315,
-          "airingAt": 1766215800
-        },
         {
           "episode": 1316,
           "airingAt": 1766820600
@@ -387,6 +383,10 @@
         {
           "episode": 1339,
           "airingAt": 1780731000
+        },
+        {
+          "episode": 1340,
+          "airingAt": 1781335800
         }
       ]
     },
@@ -709,10 +709,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 894,
-          "airingAt": 1766217600
-        },
-        {
           "episode": 895,
           "airingAt": 1766822400
         },
@@ -807,6 +803,10 @@
         {
           "episode": 918,
           "airingAt": 1780732800
+        },
+        {
+          "episode": 919,
+          "airingAt": 1781337600
         }
       ]
     },
@@ -2693,10 +2693,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766233800
-        },
         {
           "episode": 13,
           "airingAt": 1766838600
@@ -6209,40 +6205,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187940,
-    "idMal": 61209,
-    "title": {
-      "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
-      "english": "Inexpressive Kashiwada and Expressive Oota",
-      "native": "顔に出ない柏田さんと顔に出る太田君",
-      "userPreferred": "Inexpressive Kashiwada and Expressive Oota"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187940-3ugUhO9h0luh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187940-3ugUhO9h0luh.jpg",
-      "color": "#bbf1f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187940-BufBLkl64XYB.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766232000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 187941,
     "idMal": 61207,
     "title": {
@@ -6923,10 +6885,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1766219400
-        },
-        {
           "episode": 2,
           "airingAt": 1766824200
         },
@@ -6972,7 +6930,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9170,9 +9127,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-JjnoYKwhmqF5.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197474-JjnoYKwhmqF5.jpg",
-      "color": "#fe9328"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-jTeY1G9gtD8i.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197474-jTeY1G9gtD8i.jpg",
+      "color": "#f1781a"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197474-dcJmLSLc3g10.jpg",
@@ -10078,6 +10035,39 @@
         {
           "episode": 30,
           "airingAt": 1777541400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199794,
+    "idMal": 62643,
+    "title": {
+      "romaji": "Anila to Cocora",
+      "english": null,
+      "native": "アニラとココラ",
+      "userPreferred": "Anila to Cocora"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199794-DjnzEzfFG559.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1766682900
         }
       ]
     },
