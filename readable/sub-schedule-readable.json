@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1154,
-          "airingAt": 1766326560
-        },
-        {
           "episode": 1155,
           "airingAt": 1766931360
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1178,
           "airingAt": 1780841760
+        },
+        {
+          "episode": 1179,
+          "airingAt": 1781446560
         }
       ]
     },
@@ -1369,10 +1369,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1766328360
-        },
-        {
           "episode": 12,
           "airingAt": 1766933160
         }
@@ -2471,39 +2467,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 173692,
-    "idMal": 57888,
-    "title": {
-      "romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
-      "english": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
-      "native": "父は英雄、母は精霊、娘の私は転生者。",
-      "userPreferred": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173692-shp7PGRQyCQl.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173692-shp7PGRQyCQl.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173692-oU1QT5lg76H3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766327400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 174914,
     "idMal": 58146,
     "title": {
@@ -3148,40 +3111,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 178025,
-    "idMal": 59062,
-    "title": {
-      "romaji": "Gachiakuta",
-      "english": "Gachiakuta",
-      "native": "ガチアクタ",
-      "userPreferred": "Gachiakuta"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178025-cWJKEsZynkil.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178025-cWJKEsZynkil.jpg",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178025-KH3NSrRChfGy.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1766327400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 178052,
     "idMal": 59078,
     "title": {
@@ -3413,41 +3342,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 179992,
-    "idMal": 59484,
-    "title": {
-      "romaji": "Kikaijikake no Marie",
-      "english": "Mechanical Marie",
-      "native": "機械じかけのマリー",
-      "userPreferred": "Mechanical Marie"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Romance",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179992-tu21efjGADCO.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179992-tu21efjGADCO.png",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179992-ioBTPOAqH4ld.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766322000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5421,10 +5315,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1766323800
-        },
-        {
           "episode": 12,
           "airingAt": 1766928600
         }
@@ -5795,41 +5685,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 187331,
-    "idMal": 61142,
-    "title": {
-      "romaji": "Sawaranaide Kotesashi-kun",
-      "english": "Hands off: Sawaranaide Kotesashi-kun!",
-      "native": "さわらないで小手指くん",
-      "userPreferred": "Hands off: Sawaranaide Kotesashi-kun!"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance",
-      "Sports"
-    ],
-    "duration": 12,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187331-ylRHyvJIVPeO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187331-ylRHyvJIVPeO.jpg",
-      "color": "#e45d78"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766333160
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -10009,41 +9864,6 @@
         {
           "episode": 13,
           "airingAt": 1766682900
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199812,
-    "idMal": 62682,
-    "title": {
-      "romaji": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
-      "english": "Hands off: Sawaranaide Kotesashi-kun! Mini Anime",
-      "native": "さわらないで小手指くんミニアニメ劇場",
-      "userPreferred": "Hands off: Sawaranaide Kotesashi-kun! Mini Anime"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance",
-      "Sports"
-    ],
-    "duration": 12,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199812-88EBKcwBqQjG.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199812-88EBKcwBqQjG.png",
-      "color": "#ffe4a1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766333160
         }
       ]
     },
