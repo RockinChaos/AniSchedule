@@ -451,10 +451,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2811,
-          "airingAt": 1766309400
-        },
-        {
           "episode": 2812,
           "airingAt": 1766914200
         },
@@ -549,6 +545,10 @@
         {
           "episode": 2835,
           "airingAt": 1780824600
+        },
+        {
+          "episode": 2836,
+          "airingAt": 1781429400
         }
       ]
     },
@@ -874,10 +874,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 345,
-          "airingAt": 1766307600
-        },
         {
           "episode": 346,
           "airingAt": 1766912400
@@ -2250,10 +2246,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766304000
-        },
         {
           "episode": 13,
           "airingAt": 1766908800
@@ -8202,39 +8194,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 195240,
-    "idMal": 61930,
-    "title": {
-      "romaji": "Uma Musume: Cinderella Gray Part 2",
-      "english": "Umamusume: Cinderella Gray 2nd Cour",
-      "native": "ウマ娘 シンデレラグレイ 第2クール",
-      "userPreferred": "Umamusume: Cinderella Gray 2nd Cour"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195240-hKcmllV6YHQT.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195240-hKcmllV6YHQT.jpg",
-      "color": "#5093e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195240-HcuZvXcdT5aX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1766302200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 195322,
     "idMal": 61942,
     "title": {
@@ -8739,10 +8698,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1766316600
-        },
         {
           "episode": 26,
           "airingAt": 1766921400
