@@ -10572,5 +10572,38 @@
       ]
     },
     "zeroEpisode": false
+  },
+  {
+    "id": 204463,
+    "idMal": null,
+    "title": {
+      "romaji": "Hebi to Kumo",
+      "english": null,
+      "native": "蛇と蜘蛛",
+      "userPreferred": "Hebi to Kumo"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204463-2QQfFwEZL77K.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204463-2QQfFwEZL77K.png",
+      "color": "#f1d6bb"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
