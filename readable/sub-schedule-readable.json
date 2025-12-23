@@ -7273,9 +7273,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192507-dkEzMbiqTkLL.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-dkEzMbiqTkLL.png",
-      "color": "#e4aea1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192507-SCmImUlUnpAD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
+      "color": "#5086e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8816,39 +8816,6 @@
         {
           "episode": 2,
           "airingAt": 1772118000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 198312,
-    "idMal": 62428,
-    "title": {
-      "romaji": "Heika Watashi wo Wasurete Kudasai",
-      "english": null,
-      "native": "陛下わたしを忘れてください",
-      "userPreferred": "Heika Watashi wo Wasurete Kudasai"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 5,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198312-7FNrHGI29mYt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198312-7FNrHGI29mYt.jpg",
-      "color": "#f1e45d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766494560
         }
       ]
     },
