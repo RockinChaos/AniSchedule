@@ -6374,7 +6374,7 @@
     "genres": [
       "Drama"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189258-qhtrra5ebBm6.jpg",
@@ -7519,10 +7519,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766660400
-        },
         {
           "episode": 14,
           "airingAt": 1767265200
@@ -9038,40 +9034,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198926,
-    "idMal": 62522,
-    "title": {
-      "romaji": "Chou Futsuu Mahou Shoujo Asumi Toruverse",
-      "english": null,
-      "native": "超普通マホウ少女アスミトルバース",
-      "userPreferred": "Chou Futsuu Mahou Shoujo Asumi Toruverse"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Mahou Shoujo"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198926-J5Ml6dqNGze9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198926-J5Ml6dqNGze9.png",
-      "color": "#e46b5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766667240
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 199005,
     "idMal": 62521,
     "title": {
@@ -9361,10 +9323,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1766655000
-        },
-        {
           "episode": 13,
           "airingAt": 1767259800
         },
@@ -9545,39 +9503,6 @@
         {
           "episode": 24,
           "airingAt": 1773784800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 200374,
-    "idMal": 62674,
-    "title": {
-      "romaji": "Kikaijikake no Marie Mini Anime",
-      "english": null,
-      "native": "機械じかけのマリーミニアニメ",
-      "userPreferred": "Kikaijikake no Marie Mini Anime"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200374-ga7euuzgL1Hr.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200374-ga7euuzgL1Hr.png",
-      "color": "#e486a1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766660400
         }
       ]
     },
