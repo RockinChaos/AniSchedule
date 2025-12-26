@@ -393,39 +393,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 1960,
-    "idMal": 1960,
-    "title": {
-      "romaji": "Sore Ike! Anpanman",
-      "english": null,
-      "native": "それいけ!アンパンマン",
-      "userPreferred": "Sore Ike! Anpanman"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 1988,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1960-ueSmUxBXWuFK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx1960-ueSmUxBXWuFK.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1960-9Vx6QVIU8z4Z.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1730,
-          "airingAt": 1766714100
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 2406,
     "idMal": 2406,
     "title": {
@@ -579,10 +546,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 636,
-          "airingAt": 1766700600
-        },
-        {
           "episode": 637,
           "airingAt": 1767305400
         },
@@ -677,6 +640,10 @@
         {
           "episode": 660,
           "airingAt": 1781215800
+        },
+        {
+          "episode": 661,
+          "airingAt": 1781820600
         }
       ]
     },
@@ -1126,10 +1093,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 305,
-          "airingAt": 1766702400
-        },
         {
           "episode": 306,
           "airingAt": 1767048000
@@ -3883,6 +3846,38 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 184289,
+    "idMal": 60070,
+    "title": {
+      "romaji": "Kaijuu Sekai Seifuku",
+      "english": null,
+      "native": "かいじゅうせかいせいふく",
+      "userPreferred": "Kaijuu Sekai Seifuku"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
+      "color": "#5da1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 39,
+          "airingAt": 1766786400
+        }
+      ]
+    },
     "zeroEpisode": false
   },
   {
@@ -8449,6 +8444,64 @@
     "zeroEpisode": false
   },
   {
+    "id": 198117,
+    "idMal": 62378,
+    "title": {
+      "romaji": "GANGLION",
+      "english": null,
+      "native": "ガングリオン",
+      "userPreferred": "GANGLION"
+    },
+    "format": "TV_SHORT",
+    "genres": [],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198117-ms0mzmuyOw8n.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198117-ms0mzmuyOw8n.png",
+      "color": "#e45d50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1767964920
+        },
+        {
+          "episode": 14,
+          "airingAt": 1768569720
+        },
+        {
+          "episode": 15,
+          "airingAt": 1769174520
+        },
+        {
+          "episode": 16,
+          "airingAt": 1769779320
+        },
+        {
+          "episode": 17,
+          "airingAt": 1770384120
+        },
+        {
+          "episode": 18,
+          "airingAt": 1770988920
+        },
+        {
+          "episode": 19,
+          "airingAt": 1771593720
+        },
+        {
+          "episode": 20,
+          "airingAt": 1772198520
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 198344,
     "idMal": 62537,
     "title": {
@@ -8624,6 +8677,10 @@
         {
           "episode": 12,
           "airingAt": 1774710000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1775314800
         }
       ]
     },
@@ -9922,7 +9979,7 @@
   },
   {
     "id": 204463,
-    "idMal": null,
+    "idMal": 63158,
     "title": {
       "romaji": "Hebi to Kumo",
       "english": null,
