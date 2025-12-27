@@ -1490,10 +1490,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1766846700
-        },
-        {
           "episode": 14,
           "airingAt": 1767451500
         },
@@ -2706,41 +2702,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 177937,
-    "idMal": 59027,
-    "title": {
-      "romaji": "SPY×FAMILY Season 3",
-      "english": "SPY x FAMILY Season 3",
-      "native": "SPY×FAMILY Season 3",
-      "userPreferred": "SPY x FAMILY Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177937-Tzgg6rAdhCoH.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177937-Tzgg6rAdhCoH.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177937-jty4x7qBWG5n.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766844000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 178005,
     "idMal": 59047,
     "title": {
@@ -3348,6 +3309,82 @@
     "zeroEpisode": false
   },
   {
+    "id": 182587,
+    "idMal": 60058,
+    "title": {
+      "romaji": "[Oshi no Ko] 3rd Season",
+      "english": "【OSHI NO KO】Season 3",
+      "native": "【推しの子】第3期",
+      "userPreferred": "【OSHI NO KO】Season 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182587-fsU8LOjmd7oj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182587-fsU8LOjmd7oj.jpg",
+      "color": "#e45df1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182587-SLNmuinewbUF.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768399200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1769004000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769608800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1770213600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770818400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771423200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1772028000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772632800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1773237600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773842400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774447200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 182771,
     "idMal": 60071,
     "title": {
@@ -3744,6 +3781,82 @@
     "zeroEpisode": false
   },
   {
+    "id": 184289,
+    "idMal": 60070,
+    "title": {
+      "romaji": "Kaijuu Sekai Seifuku",
+      "english": null,
+      "native": "かいじゅうせかいせいふく",
+      "userPreferred": "Kaijuu Sekai Seifuku"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
+      "color": "#5da1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 40,
+          "airingAt": 1767996000
+        },
+        {
+          "episode": 41,
+          "airingAt": 1768600800
+        },
+        {
+          "episode": 42,
+          "airingAt": 1769205600
+        },
+        {
+          "episode": 43,
+          "airingAt": 1769810400
+        },
+        {
+          "episode": 44,
+          "airingAt": 1770415200
+        },
+        {
+          "episode": 45,
+          "airingAt": 1771020000
+        },
+        {
+          "episode": 46,
+          "airingAt": 1771624800
+        },
+        {
+          "episode": 47,
+          "airingAt": 1772229600
+        },
+        {
+          "episode": 48,
+          "airingAt": 1772834400
+        },
+        {
+          "episode": 49,
+          "airingAt": 1773439200
+        },
+        {
+          "episode": 50,
+          "airingAt": 1774044000
+        },
+        {
+          "episode": 51,
+          "airingAt": 1774648800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -4094,7 +4207,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
@@ -4106,8 +4219,52 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1766847600
+          "episode": 13,
+          "airingAt": 1768057200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1768662000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1769266800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1769871600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1770476400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1771081200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1771686000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1772290800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1772895600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1773500400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1774105200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1774710000
         }
       ]
     },
@@ -5228,10 +5385,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-hKvfyQ2VWlYt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766849400
-        },
         {
           "episode": 14,
           "airingAt": 1768059000
@@ -6425,38 +6578,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 190840,
-    "idMal": 61517,
-    "title": {
-      "romaji": "Kingdom 6th Season",
-      "english": "Kingdom Season 6",
-      "native": "キングダム 第6シリーズ",
-      "userPreferred": "Kingdom Season 6"
-    },
-    "format": "TV",
-    "genres": [
-      "Action"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190840-CvKAz6aWHB21.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190840-CvKAz6aWHB21.png",
-      "color": "#50aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766848200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 191205,
     "idMal": 61549,
     "title": {
@@ -7561,7 +7682,7 @@
       "Horror",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 125,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195384-mi810JewTu08.jpg",
@@ -7574,7 +7695,7 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1767884400
+          "airingAt": 1767193200
         }
       ]
     },
@@ -9696,10 +9817,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1766847600
-        },
-        {
           "episode": 12,
           "airingAt": 1767452400
         },
@@ -9832,7 +9949,7 @@
   },
   {
     "id": 204656,
-    "idMal": null,
+    "idMal": 63151,
     "title": {
       "romaji": "mofusand",
       "english": null,
