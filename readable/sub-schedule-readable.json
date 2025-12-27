@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1186,
-          "airingAt": 1766826000
-        },
-        {
           "episode": 1187,
           "airingAt": 1767430800
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1210,
           "airingAt": 1781341200
+        },
+        {
+          "episode": 1211,
+          "airingAt": 1781946000
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1316,
-          "airingAt": 1766820600
-        },
         {
           "episode": 1317,
           "airingAt": 1767425400
@@ -387,6 +383,10 @@
         {
           "episode": 1340,
           "airingAt": 1781335800
+        },
+        {
+          "episode": 1341,
+          "airingAt": 1781940600
         }
       ]
     },
@@ -676,10 +676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 895,
-          "airingAt": 1766822400
-        },
-        {
           "episode": 896,
           "airingAt": 1767427200
         },
@@ -774,6 +770,10 @@
         {
           "episode": 919,
           "airingAt": 1781337600
+        },
+        {
+          "episode": 920,
+          "airingAt": 1781942400
         }
       ]
     },
@@ -2361,42 +2361,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 176298,
-    "idMal": 58515,
-    "title": {
-      "romaji": "Kekkon Yubiwa Monogatari II",
-      "english": "Tales of Wedding Rings Season 2",
-      "native": "結婚指輪物語Ⅱ",
-      "userPreferred": "Tales of Wedding Rings Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Ecchi",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176298-fK1c8bBA73WQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176298-fK1c8bBA73WQ.jpg",
-      "color": "#1a5d78"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1766838600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 176370,
     "idMal": 58524,
     "title": {
@@ -3062,7 +3026,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180082-IZAlf06G2VVm.png",
@@ -6125,10 +6089,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1766824200
-        },
         {
           "episode": 3,
           "airingAt": 1767429000
