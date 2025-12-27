@@ -644,8 +644,9 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
-    "delayedFrom": "0001-01-01T21:00:00Z",
-    "delayedUntil": "0001-01-01T21:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-27T21:00:00Z",
+    "delayedUntil": "2026-01-10T21:00:00Z",
     "episodeDate": "2025-12-27T21:00:00Z",
     "episodeNumber": 13,
     "episodes": 22,
@@ -688,7 +689,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2025-12-27T21:00:00Z"
+              "airingAt": "2026-01-10T21:00:00Z"
             }
           ]
         },
@@ -1683,8 +1684,9 @@
   {
     "title": "SPY×FAMILY Season 3",
     "route": "spy-x-family-season-3",
-    "delayedFrom": "0001-01-01T20:30:00Z",
-    "delayedUntil": "0001-01-01T20:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2025-12-27T20:30:00Z",
+    "delayedUntil": "2026-01-10T20:30:00Z",
     "episodeDate": "2025-12-27T20:30:00Z",
     "episodeNumber": 11,
     "episodes": 13,
@@ -1726,7 +1728,7 @@
           "nodes": [
             {
               "episode": 11,
-              "airingAt": "2025-12-27T20:30:00Z"
+              "airingAt": "2026-01-10T20:30:00Z"
             }
           ]
         },
