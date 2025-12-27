@@ -1148,10 +1148,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 199,
-          "airingAt": 1766788200
-        },
-        {
           "episode": 200,
           "airingAt": 1767393000
         },
@@ -1246,6 +1242,10 @@
         {
           "episode": 223,
           "airingAt": 1781303400
+        },
+        {
+          "episode": 224,
+          "airingAt": 1781908200
         }
       ]
     },
@@ -3780,38 +3780,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 184289,
-    "idMal": 60070,
-    "title": {
-      "romaji": "Kaijuu Sekai Seifuku",
-      "english": null,
-      "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijuu Sekai Seifuku"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 39,
-          "airingAt": 1766786400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -5604,9 +5572,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187942-Zd8lQfWnOpVH.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-Zd8lQfWnOpVH.jpg",
-      "color": "#e4a150"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187942-c2cZvunJGfiE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
+      "color": "#f1ae5d"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5973,38 +5941,6 @@
         {
           "episode": 12,
           "airingAt": 1767178800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 188653,
-    "idMal": 61290,
-    "title": {
-      "romaji": "Punirunes Puni 3",
-      "english": null,
-      "native": "ぷにるんず ぷに３",
-      "userPreferred": "Punirunes Puni 3"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 12,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188653-B24R4Eo7GMi2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188653-B24R4Eo7GMi2.jpg",
-      "color": "#e4d65d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1766796300
         }
       ]
     },
@@ -8606,10 +8542,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1766782800
-        },
-        {
           "episode": 14,
           "airingAt": 1767387600
         },
@@ -9584,7 +9516,7 @@
   },
   {
     "id": 203148,
-    "idMal": null,
+    "idMal": 63106,
     "title": {
       "romaji": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
       "english": null,
@@ -9596,9 +9528,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203148-lkY8BAQXaceX.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203148-lkY8BAQXaceX.png",
-      "color": "#5daef1"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203148-fMhz9uyA6HEK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203148-fMhz9uyA6HEK.jpg",
+      "color": "#1a93d6"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -9936,6 +9868,126 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 204656,
+    "idMal": null,
+    "title": {
+      "romaji": "mofusand",
+      "english": null,
+      "native": "mofusand ",
+      "userPreferred": "mofusand"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b204656-KXjxVB4bBhl8.jpg",
+      "color": "#c9e443"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1767740400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768345200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1768950000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1769554800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770159600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1770764400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771369200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1771945200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772578800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773183600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1773788400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774393200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1774998000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1775602800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1776178800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1776812400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1777417200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1778022000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1778626800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1779231600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1779836400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1780441200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1781046000
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
