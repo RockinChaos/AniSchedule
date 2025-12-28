@@ -4453,10 +4453,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 39,
-          "airingAt": 1766878080
-        },
-        {
           "episode": 40,
           "airingAt": 1767482880
         },
@@ -4528,10 +4524,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 39,
-          "airingAt": 1766873760
-        },
         {
           "episode": 40,
           "airingAt": 1767478560
@@ -8092,10 +8084,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1766881800
-        },
-        {
           "episode": 14,
           "airingAt": 1767486600
         },
@@ -10065,6 +10053,83 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 204698,
+    "idMal": null,
+    "title": {
+      "romaji": "Gelpiyo",
+      "english": null,
+      "native": "ゲルぴよ",
+      "userPreferred": "Gelpiyo"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 6,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204698-6v7aAq92mKFl.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204698-6v7aAq92mKFl.png",
+      "color": "#f1c95d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768956840
+        },
+        {
+          "episode": 2,
+          "airingAt": 1769561640
+        },
+        {
+          "episode": 3,
+          "airingAt": 1770166440
+        },
+        {
+          "episode": 4,
+          "airingAt": 1770771240
+        },
+        {
+          "episode": 5,
+          "airingAt": 1771376040
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771980840
+        },
+        {
+          "episode": 7,
+          "airingAt": 1772585640
+        },
+        {
+          "episode": 8,
+          "airingAt": 1773190440
+        },
+        {
+          "episode": 9,
+          "airingAt": 1773795240
+        },
+        {
+          "episode": 10,
+          "airingAt": 1774400040
+        },
+        {
+          "episode": 11,
+          "airingAt": 1775004840
+        },
+        {
+          "episode": 12,
+          "airingAt": 1775609640
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   }
 ]
