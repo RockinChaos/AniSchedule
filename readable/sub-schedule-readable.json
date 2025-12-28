@@ -1,137 +1,5 @@
 [
   {
-    "id": 21,
-    "idMal": 21,
-    "title": {
-      "romaji": "ONE PIECE",
-      "english": "ONE PIECE",
-      "native": "ONE PIECE",
-      "userPreferred": "ONE PIECE"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 1999,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
-      "color": "#e49335"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1155,
-          "airingAt": 1766931360
-        },
-        {
-          "episode": 1156,
-          "airingAt": 1767536160
-        },
-        {
-          "episode": 1157,
-          "airingAt": 1768140960
-        },
-        {
-          "episode": 1158,
-          "airingAt": 1768745760
-        },
-        {
-          "episode": 1159,
-          "airingAt": 1769350560
-        },
-        {
-          "episode": 1160,
-          "airingAt": 1769955360
-        },
-        {
-          "episode": 1161,
-          "airingAt": 1770560160
-        },
-        {
-          "episode": 1162,
-          "airingAt": 1771164960
-        },
-        {
-          "episode": 1163,
-          "airingAt": 1771769760
-        },
-        {
-          "episode": 1164,
-          "airingAt": 1772374560
-        },
-        {
-          "episode": 1165,
-          "airingAt": 1772979360
-        },
-        {
-          "episode": 1166,
-          "airingAt": 1773584160
-        },
-        {
-          "episode": 1167,
-          "airingAt": 1774188960
-        },
-        {
-          "episode": 1168,
-          "airingAt": 1774793760
-        },
-        {
-          "episode": 1169,
-          "airingAt": 1775398560
-        },
-        {
-          "episode": 1170,
-          "airingAt": 1776003360
-        },
-        {
-          "episode": 1171,
-          "airingAt": 1776608160
-        },
-        {
-          "episode": 1172,
-          "airingAt": 1777212960
-        },
-        {
-          "episode": 1173,
-          "airingAt": 1777817760
-        },
-        {
-          "episode": 1174,
-          "airingAt": 1778422560
-        },
-        {
-          "episode": 1175,
-          "airingAt": 1779027360
-        },
-        {
-          "episode": 1176,
-          "airingAt": 1779632160
-        },
-        {
-          "episode": 1177,
-          "airingAt": 1780236960
-        },
-        {
-          "episode": 1178,
-          "airingAt": 1780841760
-        },
-        {
-          "episode": 1179,
-          "airingAt": 1781446560
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 235,
     "idMal": 235,
     "title": {
@@ -1293,41 +1161,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 153800,
-    "idMal": 52807,
-    "title": {
-      "romaji": "One Punch Man 3",
-      "english": "One-Punch Man Season 3",
-      "native": "ワンパンマン３",
-      "userPreferred": "One-Punch Man Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153800-8SpzdHOaZCoU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153800-8SpzdHOaZCoU.jpg",
-      "color": "#e4ae50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/153800-bgkLxE9SHmUi.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766933160
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -1486,39 +1319,35 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1767451500
-        },
-        {
-          "episode": 15,
+          "episode": 13,
           "airingAt": 1768056300
         },
         {
-          "episode": 16,
+          "episode": 14,
           "airingAt": 1768661100
         },
         {
-          "episode": 17,
+          "episode": 15,
           "airingAt": 1769265900
         },
         {
-          "episode": 18,
+          "episode": 16,
           "airingAt": 1769870700
         },
         {
-          "episode": 19,
+          "episode": 17,
           "airingAt": 1770475500
         },
         {
-          "episode": 20,
+          "episode": 18,
           "airingAt": 1771080300
         },
         {
-          "episode": 21,
+          "episode": 19,
           "airingAt": 1771685100
         },
         {
-          "episode": 22,
+          "episode": 20,
           "airingAt": 1772289900
         }
       ]
@@ -4980,40 +4809,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 186524,
-    "idMal": 60933,
-    "title": {
-      "romaji": "Chanto Suenai Kyuuketsuki-chan",
-      "english": "Li'l Miss Vampire Can't Suck Right",
-      "native": "ちゃんと吸えない吸血鬼ちゃん",
-      "userPreferred": "Li'l Miss Vampire Can't Suck Right"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186524-JSsyFR3FqTO8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186524-JSsyFR3FqTO8.jpg",
-      "color": "#f1ae50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1766928600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 186736,
     "idMal": 60983,
     "title": {
@@ -8072,48 +7867,52 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
+          "episode": 13,
           "airingAt": 1767486600
         },
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1768091400
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1768696200
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1769301000
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1769905800
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1770510600
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1771115400
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1771720200
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1772325000
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1772929800
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1773534600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1774139400
         }
       ]
     },
