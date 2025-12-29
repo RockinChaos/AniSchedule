@@ -454,6 +454,64 @@
     "addedAt": "2025-09-25T15:00:00Z"
   },
   {
+    "title": "Chou Kaguya-hime!",
+    "route": "chou-kaguya-hime",
+    "romaji": "Chou Kaguya-hime!",
+    "english": "Cosmic Princess Kaguya!",
+    "native": "超かぐや姫！",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-01-22T08:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 143,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 201903,
+        "idMal": 62896,
+        "title": {
+          "romaji": "Chou Kaguya-hime!",
+          "english": "Cosmic Princess Kaguya!",
+          "native": "超かぐや姫！",
+          "userPreferred": "Cosmic Princess Kaguya!"
+        },
+        "format": "ONA",
+        "genres": [
+          "Fantasy",
+          "Music",
+          "Sci-Fi"
+        ],
+        "duration": 140,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201903-v43gxQKw8Tc8.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201903-v43gxQKw8Tc8.jpg",
+          "color": "#e46b35"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201903-Y20yLk06W45T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-22T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-22T08:00:00Z"
+  },
+  {
     "title": "Darwin Jihen",
     "route": "darwin-jihen",
     "romaji": "Darwin Jihen",
