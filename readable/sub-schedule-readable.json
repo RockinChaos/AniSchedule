@@ -9843,5 +9843,41 @@
     },
     "unaired": true,
     "zeroEpisode": false
+  },
+  {
+    "id": 204949,
+    "idMal": null,
+    "title": {
+      "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
+      "english": null,
+      "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+      "userPreferred": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-aLHdk5zHtnXv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-aLHdk5zHtnXv.jpg",
+      "color": "#1a6b50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1770303600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
