@@ -5693,8 +5693,20 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1767178800
+          "episode": 13,
+          "airingAt": 1767783600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1768388400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1768993200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1769598000
         }
       ]
     },
@@ -7205,10 +7217,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1767178740
-        },
-        {
           "episode": 15,
           "airingAt": 1767783540
         },
@@ -8509,7 +8517,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg",
