@@ -954,23 +954,19 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 307,
-          "airingAt": 1767307200
-        },
-        {
-          "episode": 308,
+          "episode": 306,
           "airingAt": 1767652800
         },
         {
-          "episode": 309,
+          "episode": 307,
           "airingAt": 1767912000
         },
         {
-          "episode": 310,
+          "episode": 308,
           "airingAt": 1768257600
         },
         {
-          "episode": 311,
+          "episode": 309,
           "airingAt": 1768516800
         }
       ]
@@ -2477,10 +2473,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767193200
-        },
-        {
           "episode": 2,
           "airingAt": 1767798000
         },
@@ -2526,7 +2518,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4912,10 +4903,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767193200
-        },
-        {
           "episode": 2,
           "airingAt": 1767798000
         },
@@ -4961,7 +4948,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7005,42 +6991,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 194884,
-    "idMal": 61903,
-    "title": {
-      "romaji": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
-      "english": null,
-      "native": "かぐや様は告らせたい 大人への階段",
-      "userPreferred": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Comedy",
-      "Psychological",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194884-rHgGAzKSCEWz.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194884-rHgGAzKSCEWz.jpg",
-      "color": "#1a78ff"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767186000
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 195034,
     "idMal": 61936,
     "title": {
@@ -7266,40 +7216,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 195384,
-    "idMal": 61964,
-    "title": {
-      "romaji": "Meikyuu no Shiori",
-      "english": "LABYRINTH",
-      "native": "迷宮のしおり",
-      "userPreferred": "LABYRINTH"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Horror",
-      "Sci-Fi"
-    ],
-    "duration": 125,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195384-mi810JewTu08.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195384-mi810JewTu08.jpg",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767193200
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8501,56 +8417,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199112,
-    "idMal": 62543,
-    "title": {
-      "romaji": "Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine!",
-      "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
-      "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜",
-      "userPreferred": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199112-WyGPtcAI5QZp.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199112-WyGPtcAI5QZp.jpg",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767196800
-        },
-        {
-          "episode": 2,
-          "airingAt": 1767198600
-        },
-        {
-          "episode": 3,
-          "airingAt": 1767200400
-        },
-        {
-          "episode": 4,
-          "airingAt": 1767202200
-        },
-        {
-          "episode": 5,
-          "airingAt": 1767204000
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
