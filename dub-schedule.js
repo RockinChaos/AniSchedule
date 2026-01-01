@@ -559,9 +559,10 @@ export async function updateDubFeed(optSchedule) {
         const latestEpisode = entry.episodeNumber
         const existingEpisodes = existingFeed.filter(media => media.id === entry.media?.media?.id)
         const lastFeedEpisode = existingEpisodes.reduce((max, ep) => Math.max(max, ep.episode.aired), -1)
+        const minEpisode = entry.media?.media?.zeroEpisode ? 0 : 1
         let episodeType = 0
         if ((entry.unaired && new Date(entry.episodeDate) > new Date()) || (((new Date(entry.delayedUntil) > new Date()) || (new Date(entry.episodeDate) > new Date())) && entry.subtractedEpisodeNumber && (lastFeedEpisode === (entry.subtractedEpisodeNumber - 1)))) return newEpisodes
-        for (let episodeNum = lastFeedEpisode + 1; episodeNum < latestEpisode; episodeNum++) {
+        for (let episodeNum = Math.max(lastFeedEpisode + 1, minEpisode); episodeNum < latestEpisode; episodeNum++) {
             let baseEpisode = existingEpisodes.find(ep => ep.episode.aired <= episodeNum) || existingEpisodes.find(ep => ep.episode.aired === lastFeedEpisode)
             const previousWeek = (await fetchPreviousWeek()).find((airingItem) => airingItem.route === entry.route)
             const multiHeader =  entry.subtractedEpisodeNumber || (previousWeek && previousWeek.subtractedEpisodeNumber)  //|| (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2)))) -- probably don't need this since these cases should never happen.
