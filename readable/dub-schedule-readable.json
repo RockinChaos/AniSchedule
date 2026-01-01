@@ -682,6 +682,63 @@
     "addedAt": "2025-11-01T16:30:00Z"
   },
   {
+    "title": "Hyakuemu.",
+    "route": "hyakuemu",
+    "romaji": "Hyakuemu.",
+    "english": "100 METERS",
+    "native": "ひゃくえむ。",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-01-01T08:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 106,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177687,
+        "idMal": 58919,
+        "title": {
+          "romaji": "Hyakuemu.",
+          "english": "100 METERS",
+          "native": "ひゃくえむ。",
+          "userPreferred": "100 METERS"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Sports"
+        ],
+        "duration": 106,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177687-T4SrtVjrmW01.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177687-T4SrtVjrmW01.png",
+          "color": "#e46b5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177687-24ePtQwAUb7n.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-01T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-01T08:18:13Z"
+  },
+  {
     "title": "Isekai Quartet 3",
     "route": "isekai-quartet-3rd-season",
     "romaji": "Isekai Quartet 3",
