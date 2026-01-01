@@ -974,136 +974,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 142274,
-    "idMal": 50418,
-    "title": {
-      "romaji": "Ninjala",
-      "english": "Ninjala the Animation",
-      "native": "ニンジャラ",
-      "userPreferred": "Ninjala the Animation"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": 23,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142274-qPfkeKk4caKI.png",
-      "color": "#f1bb43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 200,
-          "airingAt": 1769207400
-        },
-        {
-          "episode": 201,
-          "airingAt": 1769812200
-        },
-        {
-          "episode": 202,
-          "airingAt": 1770417000
-        },
-        {
-          "episode": 203,
-          "airingAt": 1771021800
-        },
-        {
-          "episode": 204,
-          "airingAt": 1771626600
-        },
-        {
-          "episode": 205,
-          "airingAt": 1772231400
-        },
-        {
-          "episode": 206,
-          "airingAt": 1772836200
-        },
-        {
-          "episode": 207,
-          "airingAt": 1773441000
-        },
-        {
-          "episode": 208,
-          "airingAt": 1774045800
-        },
-        {
-          "episode": 209,
-          "airingAt": 1774650600
-        },
-        {
-          "episode": 210,
-          "airingAt": 1775255400
-        },
-        {
-          "episode": 211,
-          "airingAt": 1775860200
-        },
-        {
-          "episode": 212,
-          "airingAt": 1776465000
-        },
-        {
-          "episode": 213,
-          "airingAt": 1777069800
-        },
-        {
-          "episode": 214,
-          "airingAt": 1777674600
-        },
-        {
-          "episode": 215,
-          "airingAt": 1778279400
-        },
-        {
-          "episode": 216,
-          "airingAt": 1778884200
-        },
-        {
-          "episode": 217,
-          "airingAt": 1779489000
-        },
-        {
-          "episode": 218,
-          "airingAt": 1780093800
-        },
-        {
-          "episode": 219,
-          "airingAt": 1780698600
-        },
-        {
-          "episode": 220,
-          "airingAt": 1781303400
-        },
-        {
-          "episode": 221,
-          "airingAt": 1781908200
-        },
-        {
-          "episode": 222,
-          "airingAt": 1782513000
-        },
-        {
-          "episode": 223,
-          "airingAt": 1783117800
-        },
-        {
-          "episode": 224,
-          "airingAt": 1783722600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 144779,
     "idMal": 50855,
     "title": {
@@ -2461,7 +2331,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178005-pCEReATswrup.jpg",
@@ -2737,7 +2607,7 @@
       "color": "#50c9fe"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-nE8oNlObIEBG.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3717,7 +3587,7 @@
       "color": "#f1ae28"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4891,7 +4761,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
@@ -5699,38 +5569,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 188928,
-    "idMal": 62406,
-    "title": {
-      "romaji": "Natsu to Hako",
-      "english": null,
-      "native": "夏と箱",
-      "userPreferred": "Natsu to Hako"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188928-qzOaoEWGmpIA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188928-qzOaoEWGmpIA.png",
-      "color": "#e4865d"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1770303600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 189137,
     "idMal": 61325,
     "title": {
@@ -5962,7 +5800,7 @@
       "color": "#bb5035"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6863,10 +6701,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1767265200
-        },
         {
           "episode": 15,
           "airingAt": 1767870000
@@ -8583,10 +8417,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1767259800
-        },
-        {
           "episode": 14,
           "airingAt": 1767864600
         },
@@ -8753,7 +8583,7 @@
       "color": "#00feff"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg",
     "airingSchedule": {
       "nodes": [
         {
