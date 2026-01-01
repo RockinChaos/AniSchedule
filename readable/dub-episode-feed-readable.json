@@ -1,5 +1,16 @@
 [
   {
+    "id": 177687,
+    "idMal": 58919,
+    "format": "MOVIE",
+    "duration": 106,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-01-01T08:00:00Z",
+      "addedAt": "2026-01-01T08:18:39Z"
+    }
+  },
+  {
     "id": 174188,
     "idMal": 57969,
     "format": "TV",
@@ -206,6 +217,17 @@
       "aired": 7,
       "airedAt": "2025-12-26T08:00:00Z",
       "addedAt": "2025-12-26T08:00:13Z"
+    }
+  },
+  {
+    "id": 177687,
+    "idMal": 58919,
+    "format": "MOVIE",
+    "duration": 106,
+    "episode": {
+      "aired": 0,
+      "airedAt": "2025-12-25T08:00:00Z",
+      "addedAt": "2026-01-01T08:18:39Z"
     }
   },
   {
@@ -6619,17 +6641,6 @@
       "aired": 1,
       "airedAt": "2025-10-13T16:00:00Z",
       "addedAt": "2025-10-13T20:11:17Z"
-    }
-  },
-  {
-    "id": 177687,
-    "idMal": 58919,
-    "format": "MOVIE",
-    "duration": 106,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2025-10-13T04:00:00Z",
-      "addedAt": "2025-10-13T04:00:30Z"
     }
   },
   {
