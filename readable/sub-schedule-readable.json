@@ -730,134 +730,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 120325,
-    "idMal": 42295,
-    "title": {
-      "romaji": "Fushigi Dagashiya: Zenitendou",
-      "english": null,
-      "native": "ふしぎ駄菓子屋 銭天堂",
-      "userPreferred": "Fushigi Dagashiya: Zenitendou"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Mystery"
-    ],
-    "duration": 9,
-    "seasonYear": 2020,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120325-ubMgHRUT5dgJ.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx120325-ubMgHRUT5dgJ.png",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 190,
-          "airingAt": 1767346800
-        },
-        {
-          "episode": 191,
-          "airingAt": 1767951600
-        },
-        {
-          "episode": 192,
-          "airingAt": 1768556400
-        },
-        {
-          "episode": 193,
-          "airingAt": 1769161200
-        },
-        {
-          "episode": 194,
-          "airingAt": 1769766000
-        },
-        {
-          "episode": 195,
-          "airingAt": 1770370800
-        },
-        {
-          "episode": 196,
-          "airingAt": 1770975600
-        },
-        {
-          "episode": 197,
-          "airingAt": 1771580400
-        },
-        {
-          "episode": 198,
-          "airingAt": 1772185200
-        },
-        {
-          "episode": 199,
-          "airingAt": 1772790000
-        },
-        {
-          "episode": 200,
-          "airingAt": 1773394800
-        },
-        {
-          "episode": 201,
-          "airingAt": 1773999600
-        },
-        {
-          "episode": 202,
-          "airingAt": 1774604400
-        },
-        {
-          "episode": 203,
-          "airingAt": 1775209200
-        },
-        {
-          "episode": 204,
-          "airingAt": 1775814000
-        },
-        {
-          "episode": 205,
-          "airingAt": 1776418800
-        },
-        {
-          "episode": 206,
-          "airingAt": 1777023600
-        },
-        {
-          "episode": 207,
-          "airingAt": 1777628400
-        },
-        {
-          "episode": 208,
-          "airingAt": 1778233200
-        },
-        {
-          "episode": 209,
-          "airingAt": 1778838000
-        },
-        {
-          "episode": 210,
-          "airingAt": 1779442800
-        },
-        {
-          "episode": 211,
-          "airingAt": 1780047600
-        },
-        {
-          "episode": 212,
-          "airingAt": 1780652400
-        },
-        {
-          "episode": 213,
-          "airingAt": 1781257200
-        },
-        {
-          "episode": 214,
-          "airingAt": 1781862000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -4164,7 +4036,7 @@
       "Sci-Fi",
       "Sports"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
@@ -4175,10 +4047,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767277800
-        },
         {
           "episode": 2,
           "airingAt": 1767882600
@@ -4225,7 +4093,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4394,54 +4261,50 @@
       "nodes": [
         {
           "episode": 39,
-          "airingAt": 1767286680
-        },
-        {
-          "episode": 40,
           "airingAt": 1767891480
         },
         {
-          "episode": 41,
+          "episode": 40,
           "airingAt": 1768496280
         },
         {
-          "episode": 42,
+          "episode": 41,
           "airingAt": 1769101080
         },
         {
-          "episode": 43,
+          "episode": 42,
           "airingAt": 1769705880
         },
         {
-          "episode": 44,
+          "episode": 43,
           "airingAt": 1770310680
         },
         {
-          "episode": 45,
+          "episode": 44,
           "airingAt": 1770915480
         },
         {
-          "episode": 46,
+          "episode": 45,
           "airingAt": 1771520280
         },
         {
-          "episode": 47,
+          "episode": 46,
           "airingAt": 1772125080
         },
         {
-          "episode": 48,
+          "episode": 47,
           "airingAt": 1772729880
         },
         {
-          "episode": 49,
+          "episode": 48,
           "airingAt": 1773334680
         },
         {
-          "episode": 50,
+          "episode": 49,
           "airingAt": 1773939480
         },
         {
-          "episode": 51,
+          "episode": 50,
           "airingAt": 1774544280
         }
       ]
@@ -8314,6 +8177,41 @@
     "zeroEpisode": false
   },
   {
+    "id": 199436,
+    "idMal": 60574,
+    "title": {
+      "romaji": "Shen Kong Bian",
+      "english": null,
+      "native": "深空彼岸",
+      "userPreferred": "Shen Kong Bian"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199436-n2n9CRIeNwtg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199436-n2n9CRIeNwtg.jpg",
+      "color": "#f1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768489200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 199446,
     "idMal": 61969,
     "title": {
@@ -8417,71 +8315,71 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
+          "episode": 13,
           "airingAt": 1767864600
         },
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1768469400
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1769074200
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1769679000
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1770283800
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1770888600
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1771493400
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1772098200
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1772703000
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1773307800
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1773912600
         },
         {
-          "episode": 25,
+          "episode": 24,
           "airingAt": 1774517400
         },
         {
-          "episode": 26,
+          "episode": 25,
           "airingAt": 1775122200
         },
         {
-          "episode": 27,
+          "episode": 26,
           "airingAt": 1775727000
         },
         {
-          "episode": 28,
+          "episode": 27,
           "airingAt": 1776331800
         },
         {
-          "episode": 29,
+          "episode": 28,
           "airingAt": 1776936600
         },
         {
-          "episode": 30,
+          "episode": 29,
           "airingAt": 1777541400
         }
       ]
@@ -9353,7 +9251,7 @@
   },
   {
     "id": 204698,
-    "idMal": null,
+    "idMal": 63216,
     "title": {
       "romaji": "Gelpiyo",
       "english": null,
