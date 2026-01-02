@@ -414,10 +414,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 637,
-          "airingAt": 1767305400
-        },
-        {
           "episode": 638,
           "airingAt": 1767910200
         },
@@ -512,6 +508,10 @@
         {
           "episode": 661,
           "airingAt": 1781820600
+        },
+        {
+          "episode": 662,
+          "airingAt": 1782425400
         }
       ]
     },
@@ -9253,10 +9253,10 @@
     "id": 204698,
     "idMal": 63216,
     "title": {
-      "romaji": "Gelpiyo",
+      "romaji": "GelPiyo",
       "english": null,
       "native": "ゲルぴよ",
-      "userPreferred": "Gelpiyo"
+      "userPreferred": "GelPiyo"
     },
     "format": "TV_SHORT",
     "genres": [
