@@ -1959,5 +1959,63 @@
     },
     "verified": true,
     "addedAt": "2025-01-14T10:13:35Z"
+  },
+  {
+    "title": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "route": "yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku",
+    "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+    "english": "Sentenced to Be a Hero",
+    "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
+    "delayedFrom": "2026-01-08T13:30:00Z",
+    "delayedUntil": "2026-01-15T13:30:00Z",
+    "episodeDate": "2026-01-03T13:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 167152,
+        "idMal": 56009,
+        "title": {
+          "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+          "english": "Sentenced to Be a Hero",
+          "native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
+          "userPreferred": "Sentenced to Be a Hero"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-u0cBZkqDowHP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167152-u0cBZkqDowHP.jpg",
+          "color": "#f1935d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167152-6QxZG8Dmf1EL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-15T13:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-03T15:11:44Z"
   }
 ]
