@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1187,
-          "airingAt": 1767430800
-        },
-        {
           "episode": 1188,
           "airingAt": 1768035600
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1211,
           "airingAt": 1781946000
+        },
+        {
+          "episode": 1212,
+          "airingAt": 1782550800
         }
       ]
     },
@@ -156,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1317,
-          "airingAt": 1767425400
-        },
         {
           "episode": 1318,
           "airingAt": 1768030200
@@ -255,6 +251,10 @@
         {
           "episode": 1341,
           "airingAt": 1781940600
+        },
+        {
+          "episode": 1342,
+          "airingAt": 1782545400
         }
       ]
     },
@@ -544,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 896,
-          "airingAt": 1767427200
-        },
-        {
           "episode": 897,
           "airingAt": 1768032000
         },
@@ -642,6 +638,10 @@
         {
           "episode": 920,
           "airingAt": 1781942400
+        },
+        {
+          "episode": 921,
+          "airingAt": 1782547200
         }
       ]
     },
@@ -5530,10 +5530,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1767429000
-        },
-        {
           "episode": 4,
           "airingAt": 1768033800
         },
@@ -9430,37 +9426,6 @@
         {
           "episode": 1,
           "airingAt": 1770303600
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 205307,
-    "idMal": null,
-    "title": {
-      "romaji": "Shirube",
-      "english": null,
-      "native": "シルべ",
-      "userPreferred": "Shirube"
-    },
-    "format": "MUSIC",
-    "genres": [],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205307-mm7qSnMk2gb0.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205307-mm7qSnMk2gb0.png",
-      "color": "#3543c9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767441600
         }
       ]
     },
