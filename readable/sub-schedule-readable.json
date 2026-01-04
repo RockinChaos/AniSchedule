@@ -1949,7 +1949,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177385-TBpvkGdF28R7.png",
@@ -1960,10 +1960,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767538800
-        },
         {
           "episode": 2,
           "airingAt": 1768143600
@@ -2010,7 +2006,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2029,7 +2024,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177580-ujQw6Ws3oVCi.jpg",
@@ -4124,7 +4119,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185993-BecPUaWfZJgR.png",
@@ -4135,10 +4130,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-l6mkA8DPzdQc.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767538800
-        },
         {
           "episode": 2,
           "airingAt": 1768143600
@@ -4185,7 +4176,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4273,13 +4263,13 @@
       "native": "魔術師クノンは見えている",
       "userPreferred": "Kunon the Sorcerer Can See"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186333-32qDHxLkndpg.png",
@@ -4291,56 +4281,47 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767531600
-        },
-        {
-          "episode": 2,
+          "episode": 3,
           "airingAt": 1768136400
         },
         {
-          "episode": 3,
+          "episode": 4,
           "airingAt": 1768741200
         },
         {
-          "episode": 4,
+          "episode": 5,
           "airingAt": 1769346000
         },
         {
-          "episode": 5,
+          "episode": 6,
           "airingAt": 1769950800
         },
         {
-          "episode": 6,
+          "episode": 7,
           "airingAt": 1770555600
         },
         {
-          "episode": 7,
+          "episode": 8,
           "airingAt": 1771160400
         },
         {
-          "episode": 8,
+          "episode": 9,
           "airingAt": 1771765200
         },
         {
-          "episode": 9,
+          "episode": 10,
           "airingAt": 1772370000
         },
         {
-          "episode": 10,
+          "episode": 11,
           "airingAt": 1772974800
         },
         {
-          "episode": 11,
-          "airingAt": 1773579600
-        },
-        {
           "episode": 12,
-          "airingAt": 1774184400
+          "airingAt": 1773579600
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6485,6 +6466,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 194318,
+    "idMal": 61830,
+    "title": {
+      "romaji": "Yoroi Shinden Samurai Troopers",
+      "english": "Yoroi-Shinden Samurai Troopers",
+      "native": "鎧真伝サムライトルーパー",
+      "userPreferred": "Yoroi-Shinden Samurai Troopers"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194318-V3STmm4wutVQ.jpg",
+      "color": "#e4781a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1767709800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768314600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1768919400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769524200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770129000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770733800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771338600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771943400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772548200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773153000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773757800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774362600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 194389,
     "idMal": 62005,
     "title": {
@@ -7403,7 +7463,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197731-6E0qjPFaNjC6.jpg",
@@ -7414,10 +7474,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767540600
-        },
         {
           "episode": 2,
           "airingAt": 1768145400
@@ -7464,7 +7520,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7950,40 +8005,35 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767538800
-        },
-        {
           "episode": 2,
-          "airingAt": 1768143600
+          "airingAt": 1768147500
         },
         {
           "episode": 3,
-          "airingAt": 1768748400
+          "airingAt": 1768752300
         },
         {
           "episode": 4,
-          "airingAt": 1769958000
+          "airingAt": 1769357100
         },
         {
           "episode": 5,
-          "airingAt": 1770562800
+          "airingAt": 1769961900
         },
         {
           "episode": 6,
-          "airingAt": 1771167600
+          "airingAt": 1770566700
         },
         {
           "episode": 7,
-          "airingAt": 1772377200
+          "airingAt": 1771171500
         },
         {
           "episode": 8,
-          "airingAt": 1772982000
+          "airingAt": 1771776300
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8526,6 +8576,83 @@
         {
           "episode": 1,
           "airingAt": 1769068800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 202419,
+    "idMal": 62864,
+    "title": {
+      "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
+      "english": null,
+      "native": "お前はまだグンマを知らない～令和版～ ",
+      "userPreferred": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202419-BmPPSzsegbcv.png",
+      "color": "#e4505d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1768048200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1768653000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769257800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769862600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770467400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771072200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771677000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772281800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772886600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773491400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774096200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774701000
         }
       ]
     },
