@@ -3130,9 +3130,9 @@
     "idMal": 60255,
     "title": {
       "romaji": "Arne no Jikenbo",
-      "english": null,
+      "english": "The Case Book of Arne",
       "native": "アルネの事件簿",
-      "userPreferred": "Arne no Jikenbo"
+      "userPreferred": "The Case Book of Arne"
     },
     "format": "TV",
     "genres": [
@@ -4127,7 +4127,7 @@
       "color": "#50a1e4"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-l6mkA8DPzdQc.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-6H7wGuRpwoSL.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6413,10 +6413,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767618000
-        },
-        {
           "episode": 2,
           "airingAt": 1768222800
         },
@@ -6462,7 +6458,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6751,10 +6746,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767618000
-        },
-        {
           "episode": 2,
           "airingAt": 1768222800
         },
@@ -6804,7 +6795,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7926,10 +7916,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767610800
-        },
-        {
           "episode": 2,
           "airingAt": 1768215600
         },
@@ -7975,7 +7961,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
