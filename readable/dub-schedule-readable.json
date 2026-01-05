@@ -1662,6 +1662,65 @@
     "addedAt": "2025-12-17T17:00:00Z"
   },
   {
+    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
+    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+    "english": "My Hero Academia: Vigilantes 2nd Season",
+    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-05T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 195322,
+        "idMal": 61942,
+        "title": {
+          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+          "english": "My Hero Academia: Vigilantes Season 2",
+          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
+          "userPreferred": "My Hero Academia: Vigilantes Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
+          "color": "#e4bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-12T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-05T19:46:08Z"
+  },
+  {
     "title": "Watari-kun no xx ga Houkai Sunzen",
     "route": "watari-kun-no-xx-ga-houkai-sunzen",
     "romaji": "Watari-kun no xx ga Houkai Sunzen",
