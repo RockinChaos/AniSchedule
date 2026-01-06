@@ -1952,5 +1952,61 @@
     },
     "verified": false,
     "addedAt": "2026-01-03T15:11:44Z"
+  },
+  {
+    "title": "Zombieland Saga: Yume Ginga Paradise",
+    "route": "zombieland-saga-movie",
+    "native": "ゾンビランドサガ",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-01-19T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 120,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 140337,
+        "idMal": 50159,
+        "title": {
+          "romaji": "Zombie Land Saga: Yume Ginga Paradise",
+          "english": null,
+          "native": "ゾンビランドサガ ゆめぎんがパラダイス",
+          "userPreferred": "Zombie Land Saga: Yume Ginga Paradise"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Comedy",
+          "Music",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140337-8EtbiPurofcC.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140337-8EtbiPurofcC.jpg",
+          "color": "#e44335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140337-4bbYMgRfHPEe.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-19T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-19T17:00:00Z"
   }
 ]
