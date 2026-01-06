@@ -818,10 +818,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 306,
-          "airingAt": 1767652800
-        },
-        {
           "episode": 307,
           "airingAt": 1767912000
         },
@@ -1301,7 +1297,7 @@
       "Adventure",
       "Comedy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166521-PNf7tRAlJJI6.jpg",
@@ -1355,6 +1351,10 @@
         {
           "episode": 12,
           "airingAt": 1774274400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774879200
         }
       ]
     },
@@ -5653,7 +5653,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
@@ -6391,7 +6391,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": 23,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194028-ASKnzjS1ily7.jpg",
@@ -6724,7 +6724,7 @@
       "Drama",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
@@ -7885,16 +7885,18 @@
   },
   {
     "id": 198720,
-    "idMal": null,
+    "idMal": 62987,
     "title": {
-      "romaji": "Hokuto no Ken: Ken'ougun Zako-tachi no Banka",
+      "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka",
       "english": null,
       "native": "北斗の拳 拳王軍ザコたちの挽歌",
-      "userPreferred": "Hokuto no Ken: Ken'ougun Zako-tachi no Banka"
+      "userPreferred": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka"
     },
     "format": "TV_SHORT",
-    "genres": [],
-    "duration": null,
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 4,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198720-khTq51fpDDUZ.jpg",
@@ -8949,10 +8951,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767650400
-        },
-        {
           "episode": 2,
           "airingAt": 1768255200
         },
@@ -8998,7 +8996,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
