@@ -2173,10 +2173,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1767798000
-        },
-        {
           "episode": 3,
           "airingAt": 1768402800
         },
@@ -2445,10 +2441,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767794400
-        },
-        {
           "episode": 2,
           "airingAt": 1768399200
         },
@@ -2490,7 +2482,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2811,7 +2802,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg",
@@ -2822,10 +2813,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767798000
-        },
         {
           "episode": 2,
           "airingAt": 1768402800
@@ -2872,7 +2859,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4628,10 +4614,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1767798000
-        },
-        {
           "episode": 3,
           "airingAt": 1768402800
         },
@@ -5817,7 +5799,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191205-ALhucRyrwOW1.jpg",
@@ -5985,10 +5967,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767797160
-        },
-        {
           "episode": 2,
           "airingAt": 1768401960
         },
@@ -6034,7 +6012,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6052,7 +6029,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
