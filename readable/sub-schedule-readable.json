@@ -2708,7 +2708,7 @@
       "color": "#ae5de4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -5852,12 +5852,8 @@
     },
     "format": "ONA",
     "genres": [
-      "Action",
       "Adventure",
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance"
+      "Fantasy"
     ],
     "duration": null,
     "seasonYear": 2026,
@@ -5928,9 +5924,9 @@
     "idMal": 61587,
     "title": {
       "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-      "english": "ROLL OVER AND DIE",
+      "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
       "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-      "userPreferred": "ROLL OVER AND DIE"
+      "userPreferred": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
     },
     "format": "TV",
     "genres": [
@@ -6032,10 +6028,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767753960
-        },
-        {
           "episode": 2,
           "airingAt": 1768358760
         },
@@ -6081,7 +6073,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
