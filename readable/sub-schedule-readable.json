@@ -5263,40 +5263,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 188239,
-    "idMal": 61258,
-    "title": {
-      "romaji": "Transformers: Wild King",
-      "english": null,
-      "native": "トランスフォーマー ワイルドキング",
-      "userPreferred": "Transformers: Wild King"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188239-ktV7LXrb8yHH.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188239-ktV7LXrb8yHH.png",
-      "color": "#f1c935"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1768352400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 188388,
     "idMal": 61269,
     "title": {
@@ -5394,10 +5360,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1767783600
-        },
         {
           "episode": 14,
           "airingAt": 1768388400
@@ -5867,10 +5829,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767790800
-        },
-        {
           "episode": 2,
           "airingAt": 1768395600
         },
@@ -5916,7 +5874,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6028,51 +5985,56 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1767797160
+        },
+        {
           "episode": 2,
-          "airingAt": 1768358760
+          "airingAt": 1768401960
         },
         {
           "episode": 3,
-          "airingAt": 1768963560
+          "airingAt": 1769006760
         },
         {
           "episode": 4,
-          "airingAt": 1769568360
+          "airingAt": 1769611560
         },
         {
           "episode": 5,
-          "airingAt": 1770173160
+          "airingAt": 1770216360
         },
         {
           "episode": 6,
-          "airingAt": 1770777960
+          "airingAt": 1770821160
         },
         {
           "episode": 7,
-          "airingAt": 1771382760
+          "airingAt": 1771425960
         },
         {
           "episode": 8,
-          "airingAt": 1771987560
+          "airingAt": 1772030760
         },
         {
           "episode": 9,
-          "airingAt": 1772592360
+          "airingAt": 1772635560
         },
         {
           "episode": 10,
-          "airingAt": 1773197160
+          "airingAt": 1773240360
         },
         {
           "episode": 11,
-          "airingAt": 1773801960
+          "airingAt": 1773845160
         },
         {
           "episode": 12,
-          "airingAt": 1774406760
+          "airingAt": 1774449960
         }
       ]
     },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6101,10 +6063,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767789000
-        },
         {
           "episode": 2,
           "airingAt": 1768393800
@@ -6151,7 +6109,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6878,10 +6835,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1767783540
-        },
         {
           "episode": 15,
           "airingAt": 1768388340
@@ -9284,91 +9237,91 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
+          "episode": 2,
           "airingAt": 1768345200
         },
         {
-          "episode": 4,
+          "episode": 3,
           "airingAt": 1768950000
         },
         {
-          "episode": 5,
+          "episode": 4,
           "airingAt": 1769554800
         },
         {
-          "episode": 6,
+          "episode": 5,
           "airingAt": 1770159600
         },
         {
-          "episode": 7,
+          "episode": 6,
           "airingAt": 1770764400
         },
         {
-          "episode": 8,
+          "episode": 7,
           "airingAt": 1771369200
         },
         {
-          "episode": 9,
+          "episode": 8,
           "airingAt": 1771945200
         },
         {
-          "episode": 10,
+          "episode": 9,
           "airingAt": 1772578800
         },
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1773183600
         },
         {
-          "episode": 12,
+          "episode": 11,
           "airingAt": 1773788400
         },
         {
-          "episode": 13,
+          "episode": 12,
           "airingAt": 1774393200
         },
         {
-          "episode": 14,
+          "episode": 13,
           "airingAt": 1774998000
         },
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1775602800
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1776178800
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1776812400
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1777417200
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1778022000
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1778626800
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1779231600
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1779836400
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1780441200
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1781046000
         }
       ]
