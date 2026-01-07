@@ -114,6 +114,64 @@
     "addedAt": "2026-01-16T17:00:00Z"
   },
   {
+    "title": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+    "route": "arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne",
+    "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+    "english": "Ren Arisugawa Is Actually a Girl",
+    "native": "有栖川煉ってホントは女なんだよね。",
+    "delayedFrom": "0001-01-01T16:05:00Z",
+    "delayedUntil": "0001-01-01T16:05:00Z",
+    "episodeDate": "2026-01-11T16:05:00Z",
+    "episodeNumber": 2,
+    "episodes": 8,
+    "lengthMin": 7,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189259,
+        "idMal": 63096,
+        "title": {
+          "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
+          "english": "Ren Arisugawa Is Actually a Girl",
+          "native": "有栖川煉ってホントは女なんだよね。",
+          "userPreferred": "Ren Arisugawa Is Actually a Girl"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Hentai"
+        ],
+        "duration": 7,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189259-vXGvEI1QcJS0.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189259-vXGvEI1QcJS0.png",
+          "color": "#ffd693"
+        },
+        "isAdult": true,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-11T16:05:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-07T04:03:03Z"
+  },
+  {
     "title": "Bad Girl",
     "route": "bad-girl",
     "native": "ばっどがーる",
@@ -736,6 +794,63 @@
     },
     "verified": false,
     "addedAt": "2026-01-04T18:43:12Z"
+  },
+  {
+    "title": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+    "route": "ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani",
+    "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+    "english": "Ichigo Aika: Strawberry Elegy",
+    "native": "イチゴ哀歌～雑で生イキな妹と割り切れない兄～",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-11T16:00:00Z",
+    "episodeNumber": 2,
+    "lengthMin": 7,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198767,
+        "idMal": 62897,
+        "title": {
+          "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
+          "english": "Ichigo Aika: Strawberry Elegy",
+          "native": "イチゴ哀歌～雑で生イキな妹と割り切れない兄～",
+          "userPreferred": "Ichigo Aika: Strawberry Elegy"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Hentai",
+          "Romance"
+        ],
+        "duration": 7,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198767-PoG84HHFXTit.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198767-PoG84HHFXTit.jpg",
+          "color": "#e45d5d"
+        },
+        "isAdult": true,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-11T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-07T04:03:03Z"
   },
   {
     "title": "Isekai Quartet 3",
