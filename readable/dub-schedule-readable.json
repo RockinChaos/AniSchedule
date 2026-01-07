@@ -60,9 +60,9 @@
     "title": "ALL YOU NEED IS KILL",
     "route": "all-you-need-is-kill",
     "native": "オール ユー ニード イズ キル",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-16T17:00:00Z",
+    "delayedFrom": "0001-01-01T05:00:00Z",
+    "delayedUntil": "0001-01-01T05:00:00Z",
+    "episodeDate": "2026-01-16T05:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 82,
@@ -103,7 +103,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-01-16T17:00:00Z"
+              "airingAt": "2026-01-16T05:00:00Z"
             }
           ]
         },
@@ -1545,6 +1545,63 @@
     "addedAt": "2026-01-15T08:00:00Z"
   },
   {
+    "title": "Shibou Yuugi de Meshi wo Kuu.",
+    "route": "shibou-yuugi-de-meshi-wo-kuu",
+    "romaji": "Shibou Yuugi de Meshi wo Kuu.",
+    "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+    "native": "死亡遊戯で飯を食う。",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-01-07T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 11,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 180746,
+        "idMal": 59711,
+        "title": {
+          "romaji": "Shibou Yuugi de Meshi wo Kuu.",
+          "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+          "native": "死亡遊戯で飯を食う。",
+          "userPreferred": "SHIBOYUGI: Playing Death Games to Put Food on the Table"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-eqDiHbzoHMFh.jpg",
+          "color": "#50c9fe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-nE8oNlObIEBG.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-07T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-07T15:00:00Z"
+  },
+  {
     "title": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
     "route": "shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu-and-zamaa-shimasu",
     "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
@@ -2072,9 +2129,9 @@
     "title": "Zombieland Saga: Yume Ginga Paradise",
     "route": "zombieland-saga-movie",
     "native": "ゾンビランドサガ",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-19T17:00:00Z",
+    "delayedFrom": "0001-01-01T05:00:00Z",
+    "delayedUntil": "0001-01-01T05:00:00Z",
+    "episodeDate": "2026-01-19T05:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 120,
@@ -2114,7 +2171,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-01-19T17:00:00Z"
+              "airingAt": "2026-01-19T05:00:00Z"
             }
           ]
         },
