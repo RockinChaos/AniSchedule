@@ -648,6 +648,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 110694,
+    "idMal": 37290,
+    "title": {
+      "romaji": "ANI x PARA: Anata no Hero wa Dare desu ka",
+      "english": "Animation × Paralympic: Who Is Your Hero?",
+      "native": "アニ×パラ〜あなたのヒーローは誰ですか〜",
+      "userPreferred": "Animation × Paralympic: Who Is Your Hero?"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Sports"
+    ],
+    "duration": 5,
+    "seasonYear": 2017,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110694-h0RmA1JtT14f.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b110694-h0RmA1JtT14f.jpg",
+      "color": "#e4e45d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 20,
+          "airingAt": 1768184700
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 113971,
     "idMal": 38716,
     "title": {
@@ -1679,60 +1711,51 @@
       "color": "#a14328"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767885960
-        },
-        {
-          "episode": 2,
+          "episode": 3,
           "airingAt": 1768490760
         },
         {
-          "episode": 3,
+          "episode": 4,
           "airingAt": 1769095560
         },
         {
-          "episode": 4,
+          "episode": 5,
           "airingAt": 1769700360
         },
         {
-          "episode": 5,
+          "episode": 6,
           "airingAt": 1770305160
         },
         {
-          "episode": 6,
+          "episode": 7,
           "airingAt": 1770909960
         },
         {
-          "episode": 7,
+          "episode": 8,
           "airingAt": 1771514760
         },
         {
-          "episode": 8,
+          "episode": 9,
           "airingAt": 1772119560
         },
         {
-          "episode": 9,
+          "episode": 10,
           "airingAt": 1772724360
         },
         {
-          "episode": 10,
+          "episode": 11,
           "airingAt": 1773329160
         },
         {
-          "episode": 11,
-          "airingAt": 1773933960
-        },
-        {
           "episode": 12,
-          "airingAt": 1774538760
+          "airingAt": 1773933960
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -1753,7 +1776,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176276-rtF8mYd2OWw2.png",
@@ -1764,10 +1787,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767880800
-        },
         {
           "episode": 2,
           "airingAt": 1768485600
@@ -1814,7 +1833,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2878,7 +2896,7 @@
       "Romance",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183270-CmZikKu34WPd.jpg",
@@ -2889,10 +2907,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767884160
-        },
         {
           "episode": 2,
           "airingAt": 1768488960
@@ -2939,7 +2953,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3460,7 +3473,7 @@
       "Romance",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185039-rVofxrbEyaL9.jpg",
@@ -3471,10 +3484,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185039-Lh6EIwvvwGaL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767882600
-        },
         {
           "episode": 2,
           "airingAt": 1768487400
@@ -3521,7 +3530,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3740,7 +3748,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-mfJqhtz22l1Z.jpg",
@@ -3752,56 +3760,47 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767891480
-        },
-        {
-          "episode": 2,
+          "episode": 3,
           "airingAt": 1768496280
         },
         {
-          "episode": 3,
+          "episode": 4,
           "airingAt": 1769101080
         },
         {
-          "episode": 4,
+          "episode": 5,
           "airingAt": 1769705880
         },
         {
-          "episode": 5,
+          "episode": 6,
           "airingAt": 1770310680
         },
         {
-          "episode": 6,
+          "episode": 7,
           "airingAt": 1770915480
         },
         {
-          "episode": 7,
+          "episode": 8,
           "airingAt": 1771520280
         },
         {
-          "episode": 8,
+          "episode": 9,
           "airingAt": 1772125080
         },
         {
-          "episode": 9,
+          "episode": 10,
           "airingAt": 1772729880
         },
         {
-          "episode": 10,
+          "episode": 11,
           "airingAt": 1773334680
         },
         {
-          "episode": 11,
-          "airingAt": 1773939480
-        },
-        {
           "episode": 12,
-          "airingAt": 1774544280
+          "airingAt": 1773939480
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3965,10 +3964,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1767882600
-        },
         {
           "episode": 3,
           "airingAt": 1768487400
@@ -4168,10 +4163,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 39,
-          "airingAt": 1767891480
-        },
         {
           "episode": 40,
           "airingAt": 1768496280
@@ -4810,42 +4801,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187892,
-    "idMal": 61192,
-    "title": {
-      "romaji": "ALL YOU NEED IS KILL",
-      "english": "ALL YOU NEED IS KILL",
-      "native": "ALL YOU NEED IS KILL",
-      "userPreferred": "ALL YOU NEED IS KILL"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Sci-Fi",
-      "Supernatural",
-      "Thriller"
-    ],
-    "duration": 82,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187892-8xwQPygNv9SG.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187892-8xwQPygNv9SG.jpg",
-      "color": "#e4785d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767884400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 187901,
     "idMal": 61196,
     "title": {
@@ -5359,6 +5314,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 188928,
+    "idMal": 62406,
+    "title": {
+      "romaji": "Natsu to Hako",
+      "english": null,
+      "native": "夏と箱",
+      "userPreferred": "Natsu to Hako"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188928-qzOaoEWGmpIA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188928-qzOaoEWGmpIA.png",
+      "color": "#e4865d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1770303600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 189137,
     "idMal": 61325,
     "title": {
@@ -5372,7 +5359,7 @@
       "Drama",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189137-cCXaEiX0bJb4.jpg",
@@ -5383,10 +5370,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767889680
-        },
         {
           "episode": 2,
           "airingAt": 1768494480
@@ -5433,7 +5416,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5875,7 +5857,7 @@
       "Fantasy",
       "Horror"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
@@ -5886,10 +5868,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767886200
-        },
         {
           "episode": 2,
           "airingAt": 1768491000
@@ -5936,7 +5914,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8384,51 +8361,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1767925800
+          "airingAt": 1767969000
         },
         {
           "episode": 2,
-          "airingAt": 1768530600
+          "airingAt": 1768573800
         },
         {
           "episode": 3,
-          "airingAt": 1769135400
+          "airingAt": 1769178600
         },
         {
           "episode": 4,
-          "airingAt": 1769740200
+          "airingAt": 1769783400
         },
         {
           "episode": 5,
-          "airingAt": 1770345000
+          "airingAt": 1770388200
         },
         {
           "episode": 6,
-          "airingAt": 1770949800
+          "airingAt": 1770993000
         },
         {
           "episode": 7,
-          "airingAt": 1771554600
+          "airingAt": 1771597800
         },
         {
           "episode": 8,
-          "airingAt": 1772159400
+          "airingAt": 1772202600
         },
         {
           "episode": 9,
-          "airingAt": 1772764200
+          "airingAt": 1772807400
         },
         {
           "episode": 10,
-          "airingAt": 1773369000
+          "airingAt": 1773412200
         },
         {
           "episode": 11,
-          "airingAt": 1773973800
+          "airingAt": 1774017000
         },
         {
           "episode": 12,
-          "airingAt": 1774578600
+          "airingAt": 1774621800
         }
       ]
     },
