@@ -1657,6 +1657,63 @@
     "addedAt": "2026-01-15T08:00:00Z"
   },
   {
+    "title": "Seihantai na Kimi to Boku",
+    "route": "seihantai-na-kimi-to-boku",
+    "romaji": "Seihantai na Kimi to Boku",
+    "english": "You and I Are Polar Opposites",
+    "native": "正反対な君と僕",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-01-11T08:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 184951,
+        "idMal": 60371,
+        "title": {
+          "romaji": "Seihantai na Kimi to Boku",
+          "english": "You and I Are Polar Opposites",
+          "native": "正反対な君と僕",
+          "userPreferred": "You and I Are Polar Opposites"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184951-s8Lg2muPBhdX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
+          "color": "#f1ae28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-11T08:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-11T08:30:00Z"
+  },
+  {
     "title": "Shibou Yuugi de Meshi wo Kuu.",
     "route": "shibou-yuugi-de-meshi-wo-kuu",
     "romaji": "Shibou Yuugi de Meshi wo Kuu.",
