@@ -5567,9 +5567,9 @@
     "idMal": 61335,
     "title": {
       "romaji": "Medalist 2nd Season",
-      "english": null,
+      "english": "Medalist Season 2",
       "native": "メダリスト 第2期",
-      "userPreferred": "Medalist 2nd Season"
+      "userPreferred": "Medalist Season 2"
     },
     "format": "TV",
     "genres": [
@@ -8326,43 +8326,43 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1768341600
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1768946400
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1769551200
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1770156000
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1770760800
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1771365600
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1771970400
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1772575200
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1773180000
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1773784800
         }
       ]
@@ -8895,7 +8895,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 5,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203472-MJDpus1DWo3Z.png",
@@ -9416,6 +9416,126 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 205676,
+    "idMal": null,
+    "title": {
+      "romaji": "Black Jack Yanen",
+      "english": null,
+      "native": "ブラックジャックやねん",
+      "userPreferred": "Black Jack Yanen"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205676-VlzcdwHYdJCe.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205676-VlzcdwHYdJCe.png",
+      "color": "#f15d93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1768428000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1769032800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1769637600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770242400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1770847200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771452000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772056800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772661600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773266400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1773871200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774476000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1775080800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1775685600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1776290400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1776895200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1777500000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1778104800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1778709600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1779314400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1779919200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1780524000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1781128800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1781733600
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
