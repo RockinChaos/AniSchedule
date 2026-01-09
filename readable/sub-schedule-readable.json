@@ -934,103 +934,103 @@
       "nodes": [
         {
           "episode": 124,
-          "airingAt": 1768557300
-        },
-        {
-          "episode": 125,
           "airingAt": 1769162100
         },
         {
-          "episode": 126,
+          "episode": 125,
           "airingAt": 1769766900
         },
         {
-          "episode": 127,
+          "episode": 126,
           "airingAt": 1770371700
         },
         {
-          "episode": 128,
+          "episode": 127,
           "airingAt": 1770976500
         },
         {
-          "episode": 129,
+          "episode": 128,
           "airingAt": 1771581300
         },
         {
-          "episode": 130,
+          "episode": 129,
           "airingAt": 1772186100
         },
         {
-          "episode": 131,
+          "episode": 130,
           "airingAt": 1772790900
         },
         {
-          "episode": 132,
+          "episode": 131,
           "airingAt": 1773395700
         },
         {
-          "episode": 133,
+          "episode": 132,
           "airingAt": 1774000500
         },
         {
-          "episode": 134,
+          "episode": 133,
           "airingAt": 1774605300
         },
         {
-          "episode": 135,
+          "episode": 134,
           "airingAt": 1775210100
         },
         {
-          "episode": 136,
+          "episode": 135,
           "airingAt": 1775814900
         },
         {
-          "episode": 137,
+          "episode": 136,
           "airingAt": 1776419700
         },
         {
-          "episode": 138,
+          "episode": 137,
           "airingAt": 1777024500
         },
         {
-          "episode": 139,
+          "episode": 138,
           "airingAt": 1777629300
         },
         {
-          "episode": 140,
+          "episode": 139,
           "airingAt": 1778234100
         },
         {
-          "episode": 141,
+          "episode": 140,
           "airingAt": 1778838900
         },
         {
-          "episode": 142,
+          "episode": 141,
           "airingAt": 1779443700
         },
         {
-          "episode": 143,
+          "episode": 142,
           "airingAt": 1780048500
         },
         {
-          "episode": 144,
+          "episode": 143,
           "airingAt": 1780653300
         },
         {
-          "episode": 145,
+          "episode": 144,
           "airingAt": 1781258100
         },
         {
-          "episode": 146,
+          "episode": 145,
           "airingAt": 1781862900
         },
         {
-          "episode": 147,
+          "episode": 146,
           "airingAt": 1782467700
         },
         {
-          "episode": 148,
+          "episode": 147,
           "airingAt": 1783072500
+        },
+        {
+          "episode": 148,
+          "airingAt": 1783677300
         }
       ]
     },
@@ -1699,7 +1699,7 @@
       "Drama",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-pNl29lVrhwZ2.jpg",
@@ -2372,10 +2372,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767977580
-        },
-        {
           "episode": 2,
           "airingAt": 1768582380
         },
@@ -2425,7 +2421,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2511,7 +2506,7 @@
     "genres": [
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
@@ -2522,10 +2517,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767970800
-        },
         {
           "episode": 2,
           "airingAt": 1768575600
@@ -2572,7 +2563,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3661,7 +3651,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185262-95wbx3Y9hCwm.jpg",
@@ -3672,10 +3662,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767976500
-        },
         {
           "episode": 2,
           "airingAt": 1768581300
@@ -3722,7 +3708,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6151,7 +6136,7 @@
       "Romance",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 5,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
@@ -6162,10 +6147,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192867-r3UitttEQv8C.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767974400
-        },
         {
           "episode": 2,
           "airingAt": 1768579200
@@ -6196,7 +6177,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7482,10 +7462,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1767964920
-        },
-        {
           "episode": 14,
           "airingAt": 1768569720
         },
@@ -8340,7 +8316,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200556-TezRfCQCFLbA.png",
@@ -8351,10 +8327,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1767969000
-        },
         {
           "episode": 2,
           "airingAt": 1768573800
@@ -8401,7 +8373,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
