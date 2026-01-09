@@ -407,13 +407,14 @@
     "episodeDate": "2026-01-09T16:30:00Z",
     "episodeNumber": 1,
     "episodes": 12,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 181443,
@@ -428,7 +429,7 @@
         "genres": [
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181443-Df41Nlf7xjgI.jpg",
@@ -440,8 +441,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-01-09T16:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-01-16T16:30:00Z"
             }
           ]
         },
@@ -461,6 +462,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-01-06T15:30:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
