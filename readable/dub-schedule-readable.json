@@ -631,13 +631,15 @@
     "delayedUntil": "0001-01-01T17:30:00Z",
     "episodeDate": "2026-01-09T17:30:00Z",
     "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 179062,
@@ -667,8 +669,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-01-09T17:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-01-16T17:30:00Z"
             }
           ]
         },
@@ -1726,6 +1728,7 @@
     "episodeDate": "2026-01-07T14:00:00Z",
     "episodeNumber": 1,
     "episodes": 11,
+    "lengthMin": 25,
     "mediaTypes": [
       {
         "name": "TV",
