@@ -862,6 +862,136 @@
     "zeroEpisode": false
   },
   {
+    "id": 142274,
+    "idMal": 50418,
+    "title": {
+      "romaji": "Ninjala",
+      "english": "Ninjala the Animation",
+      "native": "ニンジャラ",
+      "userPreferred": "Ninjala the Animation"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": 23,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx142274-qPfkeKk4caKI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx142274-qPfkeKk4caKI.png",
+      "color": "#f1bb43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 200,
+          "airingAt": 1769207400
+        },
+        {
+          "episode": 201,
+          "airingAt": 1769812200
+        },
+        {
+          "episode": 202,
+          "airingAt": 1770417000
+        },
+        {
+          "episode": 203,
+          "airingAt": 1771021800
+        },
+        {
+          "episode": 204,
+          "airingAt": 1771626600
+        },
+        {
+          "episode": 205,
+          "airingAt": 1772231400
+        },
+        {
+          "episode": 206,
+          "airingAt": 1772836200
+        },
+        {
+          "episode": 207,
+          "airingAt": 1773441000
+        },
+        {
+          "episode": 208,
+          "airingAt": 1774045800
+        },
+        {
+          "episode": 209,
+          "airingAt": 1774650600
+        },
+        {
+          "episode": 210,
+          "airingAt": 1775255400
+        },
+        {
+          "episode": 211,
+          "airingAt": 1775860200
+        },
+        {
+          "episode": 212,
+          "airingAt": 1776465000
+        },
+        {
+          "episode": 213,
+          "airingAt": 1777069800
+        },
+        {
+          "episode": 214,
+          "airingAt": 1777674600
+        },
+        {
+          "episode": 215,
+          "airingAt": 1778279400
+        },
+        {
+          "episode": 216,
+          "airingAt": 1778884200
+        },
+        {
+          "episode": 217,
+          "airingAt": 1779489000
+        },
+        {
+          "episode": 218,
+          "airingAt": 1780093800
+        },
+        {
+          "episode": 219,
+          "airingAt": 1780698600
+        },
+        {
+          "episode": 220,
+          "airingAt": 1781303400
+        },
+        {
+          "episode": 221,
+          "airingAt": 1781908200
+        },
+        {
+          "episode": 222,
+          "airingAt": 1782513000
+        },
+        {
+          "episode": 223,
+          "airingAt": 1783117800
+        },
+        {
+          "episode": 224,
+          "airingAt": 1783722600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 144779,
     "idMal": 50855,
     "title": {
@@ -1702,9 +1832,9 @@
     "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-pNl29lVrhwZ2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172463-pNl29lVrhwZ2.jpg",
-      "color": "#a14328"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-YRX9lR2ggWo8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172463-YRX9lR2ggWo8.jpg",
+      "color": "#4386c9"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
@@ -2436,7 +2566,8 @@
     "genres": [
       "Action",
       "Drama",
-      "Mystery"
+      "Mystery",
+      "Thriller"
     ],
     "duration": null,
     "seasonYear": 2026,
@@ -3191,10 +3322,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 40,
-          "airingAt": 1767996000
-        },
         {
           "episode": 41,
           "airingAt": 1768600800
@@ -7704,10 +7831,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1767992400
-        },
-        {
           "episode": 16,
           "airingAt": 1768597200
         },
@@ -8702,8 +8825,11 @@
       "userPreferred": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu"
     },
     "format": "TV",
-    "genres": [],
-    "duration": null,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203148-fMhz9uyA6HEK.jpg",
@@ -8715,56 +8841,51 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1768032000
-        },
-        {
           "episode": 2,
-          "airingAt": 1768636800
+          "airingAt": 1768593600
         },
         {
           "episode": 3,
-          "airingAt": 1769241600
+          "airingAt": 1769198400
         },
         {
           "episode": 4,
-          "airingAt": 1769846400
+          "airingAt": 1769803200
         },
         {
           "episode": 5,
-          "airingAt": 1770451200
+          "airingAt": 1770408000
         },
         {
           "episode": 6,
-          "airingAt": 1771056000
+          "airingAt": 1771012800
         },
         {
           "episode": 7,
-          "airingAt": 1771660800
+          "airingAt": 1771617600
         },
         {
           "episode": 8,
-          "airingAt": 1772265600
+          "airingAt": 1772222400
         },
         {
           "episode": 9,
-          "airingAt": 1772870400
+          "airingAt": 1772827200
         },
         {
           "episode": 10,
-          "airingAt": 1773475200
+          "airingAt": 1773432000
         },
         {
           "episode": 11,
-          "airingAt": 1774080000
+          "airingAt": 1774036800
         },
         {
           "episode": 12,
-          "airingAt": 1774684800
+          "airingAt": 1774641600
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8794,10 +8915,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1767999600
-        },
-        {
           "episode": 2,
           "airingAt": 1768604400
         },
@@ -8807,7 +8924,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
