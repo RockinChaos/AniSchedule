@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1188,
-          "airingAt": 1768035600
-        },
-        {
           "episode": 1189,
           "airingAt": 1768640400
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1212,
           "airingAt": 1782550800
+        },
+        {
+          "episode": 1213,
+          "airingAt": 1783155600
         }
       ]
     },
@@ -156,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1318,
-          "airingAt": 1768030200
-        },
         {
           "episode": 1319,
           "airingAt": 1768635000
@@ -255,6 +251,10 @@
         {
           "episode": 1342,
           "airingAt": 1782545400
+        },
+        {
+          "episode": 1343,
+          "airingAt": 1783150200
         }
       ]
     },
@@ -544,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 897,
-          "airingAt": 1768032000
-        },
-        {
           "episode": 898,
           "airingAt": 1768636800
         },
@@ -642,6 +638,10 @@
         {
           "episode": 921,
           "airingAt": 1782547200
+        },
+        {
+          "episode": 922,
+          "airingAt": 1783152000
         }
       ]
     },
@@ -2629,9 +2629,9 @@
     "idMal": 59853,
     "title": {
       "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
-      "english": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN",
+      "english": "DARK MOON: THE BLOOD ALTAR",
       "native": "DARK MOON　-黒の月: 月の祭壇-",
-      "userPreferred": "DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN"
+      "userPreferred": "DARK MOON: THE BLOOD ALTAR"
     },
     "format": "TV",
     "genres": [
@@ -2645,7 +2645,7 @@
       "color": "#d6281a"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181443-Euz60QKDzsLs.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4408,10 +4408,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1768037100
-        },
-        {
           "episode": 11,
           "airingAt": 1768641900
         },
@@ -5009,10 +5005,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1768048200
-        },
-        {
           "episode": 2,
           "airingAt": 1768653000
         },
@@ -5058,7 +5050,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5546,10 +5537,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1768033800
-        },
         {
           "episode": 4,
           "airingAt": 1768638600
@@ -8430,7 +8417,7 @@
     "idMal": 62804,
     "title": {
       "romaji": "High School! Kimengumi (2026)",
-      "english": null,
+      "english": "High School! Kimengumi (2026)",
       "native": "ハイスクール！奇面組 (2026)",
       "userPreferred": "High School! Kimengumi (2026)"
     },
@@ -8591,10 +8578,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1768048200
-        },
-        {
           "episode": 2,
           "airingAt": 1768653000
         },
@@ -8640,7 +8623,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
