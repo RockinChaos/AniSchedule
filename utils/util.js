@@ -140,10 +140,11 @@ export function calculateWeeksToFetch() {
  * - The month when DST **started** (e.g., March in the U.S.).
  * - The month when DST **ended** (e.g., November in the U.S.).
  *
+ * @param {string} date Optional date to check if it is in the DST transition month, otherwise fallback to current date.
  * @returns {boolean} `true` if the current month is the start or end month of DST, otherwise `false`.
  */
-export function isDSTTransitionMonth() {
-    const now = new Date()
+export function isDSTTransitionMonth(date = null) {
+    const now = date ? new Date(date) : new Date()
     const year = now.getFullYear()
     const standardOffset = Math.max(new Date(year, 0, 1).getTimezoneOffset(), new Date(year, 6, 1).getTimezoneOffset())
     let dstStartMonth = null
@@ -203,6 +204,18 @@ export function getDSTStartEndDates() {
     }
     if (dstStart && new Date() > dstEnd) dstStart = null
     return { dstStart, dstEnd }
+}
+
+/**
+ * Checks if two dates fall on opposite sides of a Daylight Saving Time (DST) change.
+ *
+ * @param {Date} previousDate The earlier date.
+ * @param {Date} currentDate The later date.
+ * @returns {boolean} True if the timezone offset differs, indicating a DST transition.
+ */
+export function crossesDSTBoundary(previousDate, currentDate) {
+    if (!previousDate || !currentDate) return false
+    return new Date(previousDate).getTimezoneOffset() !== new Date(currentDate).getTimezoneOffset()
 }
 
 /**

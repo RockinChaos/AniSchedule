@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -521,11 +521,16 @@ export async function updateDubFeed(optSchedule) {
             if ((entry.episodeNumber < 4 && !isInDSTTransition) || (!isInDSTTransition && daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) <= 8)) {
                 console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
                 const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
+                let ignoreCorrection = false
                 let correctedDate = -1
                 let usePredict = false
                 let zeroIndexDate
                 mediaEpisodes.forEach((episode, index) => {
                     const prevDate = episode.episode.airedAt
+                    if (ignoreCorrection || isDSTTransitionMonth(prevDate) || crossesDSTBoundary(prevDate, originalAiredAt[index - 1])) {
+                        ignoreCorrection = true
+                        return
+                    }
                     const predictDate = new Date(fixTime(new Date(prevDate), new Date(entry.episodeDate), true))
                     if (index !== 0) correctedDate = correctedDate - weeksDifference(prevDate, originalAiredAt[index - 1]) + (usePredict && index === 1 ? 1 : 0)
                     else {
