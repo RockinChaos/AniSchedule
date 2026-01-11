@@ -1144,6 +1144,64 @@
     "addedAt": "2025-10-16T05:09:32Z"
   },
   {
+    "title": "Kaya-chan wa Kowakunai",
+    "route": "kaya-chan-wa-kowakunai",
+    "romaji": "Kaya-chan wa Kowakunai",
+    "english": "Kaya-chan Isn't Scary",
+    "native": "カヤちゃんはコワくない",
+    "delayedFrom": "0001-01-01T09:00:00Z",
+    "delayedUntil": "0001-01-01T09:00:00Z",
+    "episodeDate": "2026-01-11T09:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 183660,
+        "idMal": 60223,
+        "title": {
+          "romaji": "Kaya-chan wa Kowakunai",
+          "english": "Kaya-chan Isn't Scary",
+          "native": "カヤちゃんはコワくない",
+          "userPreferred": "Kaya-chan Isn't Scary"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Horror",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183660-B6o9cMfSfScX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183660-B6o9cMfSfScX.jpg",
+          "color": "#f15d35"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-18T09:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-11T17:11:04Z"
+  },
+  {
     "title": "Kekkon Yubiwa Monogatari 2nd Season",
     "route": "kekkon-yubiwa-monogatari-2nd-season",
     "romaji": "Kekkon Yubiwa Monogatari 2nd Season",
