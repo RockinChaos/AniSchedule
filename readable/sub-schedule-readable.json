@@ -2079,7 +2079,7 @@
       "color": "#aee4e4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2377,10 +2377,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1768089600
-        },
         {
           "episode": 38,
           "airingAt": 1768694400
@@ -3383,10 +3379,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 40,
-          "airingAt": 1768091400
-        },
-        {
           "episode": 41,
           "airingAt": 1768696200
         },
@@ -3656,10 +3648,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 47,
-          "airingAt": 1768087800
-        },
-        {
           "episode": 48,
           "airingAt": 1768692600
         },
@@ -3915,10 +3903,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 41,
-          "airingAt": 1768087680
-        },
-        {
           "episode": 42,
           "airingAt": 1768692480
         },
@@ -3982,10 +3966,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 40,
-          "airingAt": 1768083360
-        },
         {
           "episode": 41,
           "airingAt": 1768688160
@@ -5289,10 +5269,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1768089600
-        },
         {
           "episode": 15,
           "airingAt": 1768694400
@@ -7269,10 +7245,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1768091400
-        },
-        {
           "episode": 15,
           "airingAt": 1768696200
         },
@@ -8522,11 +8494,11 @@
       "native": "お前はまだグンマを知らない～令和版～ ",
       "userPreferred": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 6,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png",
