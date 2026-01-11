@@ -97,20 +97,23 @@ export async function fetchSubSchedule() {
                 saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
                 saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
                 if (type === 'Hentai') updatedHentaiEpisodes = true
-                else updatedSubbedEpisodes = false
+                else updatedSubbedEpisodes = true
                 console.log(`(${type}) Episodes have been corrected and saved...`)
             }
         }
-        if (JSON.stringify(media) !== JSON.stringify(existingSubbedSchedule)) {
-            const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
-            const updatedAt = past(new Date(), 0, true)
-            if (updatedHentaiEpisodes) lastUpdated.hentai.episodes = updatedAt
-            if (updatedSubbedEpisodes) lastUpdated.subbed.episodes = updatedAt
+        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+        const updatedAt = past(new Date(), 0, true)
+        const scheduleChanged = JSON.stringify(media) !== JSON.stringify(existingSubbedSchedule)
+        if (updatedHentaiEpisodes) lastUpdated.hentai.episodes = updatedAt
+        if (updatedSubbedEpisodes) lastUpdated.subbed.episodes = updatedAt
+        if (scheduleChanged) {
             lastUpdated.subbed.schedule = updatedAt
-            saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
-            saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
             console.log(`${media.length} airing series have been saved to the schedule.`)
         } else console.log(`${media.length} airing series, no changes were detected... keeping previous schedule`)
+        if (updatedHentaiEpisodes || updatedSubbedEpisodes || scheduleChanged) {
+            saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+            saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+        }
     } else {
         console.error('Error: Failed to resolve the sub airing schedule, it cannot be null!')
         process.exit(1)
@@ -121,6 +124,7 @@ export async function fetchSubSchedule() {
 // find and add any releases not found in the fetched airingSchedule, this should rarely ever be needed... //
 async function findMissingEpisodes() {
     const { anilistClient } = await import('./utils/anilist.js')
+    const { getAniMappings } = await import('./utils/anime.js')
     const changes = []
     const currentTime = Math.floor(new Date().getTime() / 1000)
 
@@ -171,6 +175,97 @@ async function findMissingEpisodes() {
             console.log(`No missing ${type} Episode(s) were found in the airing schedule.`)
         }
     }
+
+    // Check for gap episodes in existingSubbedSchedule
+    console.log('Checking for missing episodes in the episode feed based on the next scheduled episode(s)...')
+    const gapEpisodes = []
+    const nonHentaiSchedule = existingSubbedSchedule.filter(entry => !entry.genres?.includes('Hentai')) // Filter out Hentai since mappings RARELY has info on these.
+    for (const entry of nonHentaiSchedule) {
+        if (!entry.airingSchedule?.nodes?.length) continue
+        const scheduledEpisodes = entry.airingSchedule.nodes.map(node => node.episode).sort((a, b) => a - b)
+        const lowestScheduledEpisode = scheduledEpisodes[0]
+        const feedEpisodes = existingSubbedFeed.filter(media => media.id === entry.id).map(media => media.episode.aired).sort((a, b) => a - b)
+        if (feedEpisodes.length === 0) continue
+        const highestFeedEpisode = feedEpisodes[feedEpisodes.length - 1]
+        const previousEpisode = lowestScheduledEpisode - 1
+        if (previousEpisode > 0 && !feedEpisodes.includes(previousEpisode)) {
+            const missingEpisodes = []
+            for (let ep = highestFeedEpisode + 1; ep < lowestScheduledEpisode; ep++) missingEpisodes.push(ep);
+            if (missingEpisodes.length > 0) {
+                console.log(`Found gap for ${entry.title.userPreferred} (ID: ${entry.id}): Missing episodes ${missingEpisodes.join(', ')} between ${highestFeedEpisode} and ${lowestScheduledEpisode}`)
+                gapEpisodes.push({
+                    id: entry.id,
+                    idMal: entry.idMal,
+                    title: entry.title.userPreferred,
+                    format: entry.format,
+                    duration: entry.duration ? entry.duration : durationMap[entry.format],
+                    missingEpisodes,
+                    scheduledTime: entry.airingSchedule.nodes[0].airingAt,
+                    existingFeedEpisodes: existingSubbedFeed.filter(media => media.id === entry.id)
+                })
+            }
+        }
+    }
+
+    // Fetch mappings for gap episodes and add them to the feed
+    if (gapEpisodes.length > 0) {
+        console.log(`Found ${gapEpisodes.length} anime with missing episodes based on the schedule, fetching mappings...`)
+        let missingEpisodes = 0
+        const currentDate = new Date()
+        for (const gap of gapEpisodes) {
+            const aniMappings = await getAniMappings(gap.id)
+            const sortedExistingEpisodes = gap.existingFeedEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)
+            const highestExistingEpisode = sortedExistingEpisodes[0]
+            const minAirdate = highestExistingEpisode ? new Date(highestExistingEpisode.episode.airedAt) : null
+            for (const episodeNum of gap.missingEpisodes) {
+                const episodeData = aniMappings.episodes?.[episodeNum.toString()]
+                if (episodeData?.airdate) {
+                    let airdate = new Date(episodeData.airdate)
+                    const existingEpisodeOnSameDate = gap.existingFeedEpisodes.find(ep => new Date(ep.episode.airedAt).toISOString().split('T')[0] === airdate.toISOString().split('T')[0])
+                    if (existingEpisodeOnSameDate) {
+                        const existingDate = new Date(existingEpisodeOnSameDate.episode.airedAt)
+                        airdate.setHours(existingDate.getHours(), existingDate.getMinutes(), existingDate.getSeconds())
+                    } else {
+                        const scheduledDate = new Date(gap.scheduledTime * 1000)
+                        airdate.setHours(scheduledDate.getHours(), scheduledDate.getMinutes(), scheduledDate.getSeconds())
+                    }
+                    if (minAirdate && airdate < minAirdate) {
+                        console.log(`(Sub) Warning: Episode ${episodeNum} of ${gap.title} has airdate ${airdate.toISOString()} which is before the highest existing episode ${minAirdate.toISOString()}.`)
+                        airdate = new Date(minAirdate)
+                    }
+                    if (airdate > currentDate) {
+                        console.log(`(Sub) Skipping Episode ${episodeNum} for ${gap.title} as it has not aired yet (airdate: ${past(airdate, 0, false)})`)
+                        continue
+                    }
+                    const missingEpisode = {
+                        id: gap.id,
+                        ...(gap.idMal ? { idMal: gap.idMal } : {}),
+                        format: gap.format,
+                        duration: gap.duration,
+                        episode: {
+                            aired: episodeNum,
+                            airedAt: past(airdate, 0, false),
+                            addedAt: past(new Date(), 0, true)
+                        }
+                    }
+                    if (!existingSubbedFeed.some(ep => ep.id === gap.id && ep.episode.aired === episodeNum)) {
+                        missingEpisodes++
+                        existingSubbedFeed.push(missingEpisode)
+                        changes.push(`(Sub) Added Missing Episode ${episodeNum} for ${gap.title} (between existing episodes)`)
+                        console.log(`(Sub) Added Missing Episode ${episodeNum} for ${gap.title} with airdate ${past(airdate, 0, false)}`)
+                    }
+                } else console.log(`(Sub) Warning: No mappings found for episode ${episodeNum} of ${gap.title}... will try again later.`)
+            }
+        }
+
+        if (missingEpisodes) {
+            const updatedFeed = Object.values([...existingSubbedFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
+            saveJSON(path.join('./raw/sub-episode-feed.json'), updatedFeed)
+            saveJSON(path.join('./readable/sub-episode-feed-readable.json'), updatedFeed, true)
+            updatedSubbedEpisodes = true
+            console.log(`Added ${missingEpisodes} Missing Episode(s) from the Sub feed!`)
+        }
+    } else console.log(`No missing Sub Episode(s) were found in the episode feed.`)
     return changes
 }
 
