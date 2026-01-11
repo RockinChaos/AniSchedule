@@ -433,6 +433,17 @@
     "format": "TV",
     "duration": 24,
     "episode": {
+      "aired": 2,
+      "airedAt": "2026-01-08T16:58:00Z",
+      "addedAt": "2026-01-11T02:40:56Z"
+    }
+  },
+  {
+    "id": 185514,
+    "idMal": 60509,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
       "aired": 1,
       "airedAt": "2026-01-08T16:58:00Z",
       "addedAt": "2026-01-08T16:58:30Z"
@@ -14539,6 +14550,39 @@
       "aired": 15,
       "airedAt": "2025-10-09T15:00:00Z",
       "addedAt": "2025-10-11T01:52:48Z"
+    }
+  },
+  {
+    "id": 144779,
+    "idMal": 50855,
+    "format": "OVA",
+    "duration": 24,
+    "episode": {
+      "aired": 14,
+      "airedAt": "2025-10-09T15:00:00Z",
+      "addedAt": "2026-01-11T02:40:56Z"
+    }
+  },
+  {
+    "id": 144779,
+    "idMal": 50855,
+    "format": "OVA",
+    "duration": 24,
+    "episode": {
+      "aired": 13,
+      "airedAt": "2025-10-09T15:00:00Z",
+      "addedAt": "2026-01-11T02:40:56Z"
+    }
+  },
+  {
+    "id": 144779,
+    "idMal": 50855,
+    "format": "OVA",
+    "duration": 24,
+    "episode": {
+      "aired": 12,
+      "airedAt": "2025-10-09T15:00:00Z",
+      "addedAt": "2026-01-11T02:40:56Z"
     }
   },
   {
