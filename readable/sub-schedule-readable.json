@@ -1521,7 +1521,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg",
@@ -1532,10 +1532,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166613-drS86exJlIjG.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1768142640
-        },
         {
           "episode": 2,
           "airingAt": 1768747440
@@ -1582,7 +1578,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2074,10 +2069,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768143600
-        },
         {
           "episode": 3,
           "airingAt": 1768748400
@@ -4133,10 +4124,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768143600
-        },
-        {
           "episode": 3,
           "airingAt": 1768748400
         },
@@ -4278,10 +4265,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1768136400
-        },
         {
           "episode": 4,
           "airingAt": 1768741200
@@ -4434,10 +4417,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1768141800
-        },
-        {
           "episode": 2,
           "airingAt": 1768746600
         },
@@ -4483,7 +4462,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5522,10 +5500,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768147200
-        },
         {
           "episode": 3,
           "airingAt": 1768752000
@@ -6926,7 +6900,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195518-XXcYHi6tXM6v.jpg",
@@ -6937,10 +6911,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1768140000
-        },
         {
           "episode": 2,
           "airingAt": 1768744800
@@ -6987,7 +6957,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7379,10 +7348,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768145400
-        },
         {
           "episode": 3,
           "airingAt": 1768750200
@@ -7893,10 +7858,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768147500
-        },
         {
           "episode": 3,
           "airingAt": 1768752300
@@ -9033,10 +8994,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1768152000
-        },
-        {
           "episode": 2,
           "airingAt": 1768756800
         },
@@ -9086,7 +9043,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
