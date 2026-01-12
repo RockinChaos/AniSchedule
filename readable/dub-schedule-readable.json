@@ -1673,7 +1673,8 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-01-15T08:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 20,
+    "subtractedEpisodeNumber": 1,
     "episodes": 20,
     "mediaTypes": [
       {
@@ -1709,6 +1710,82 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-01-15T08:00:00Z"
+            },
+            {
+              "episode": 20,
               "airingAt": "2026-01-15T08:00:00Z"
             }
           ]
