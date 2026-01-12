@@ -781,10 +781,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 123,
-          "airingAt": 1768183200
-        },
-        {
           "episode": 124,
           "airingAt": 1768788000
         },
@@ -8604,7 +8600,7 @@
       "color": "#f1c943"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
     "airingSchedule": {
       "nodes": [
         {
