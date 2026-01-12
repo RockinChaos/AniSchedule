@@ -648,38 +648,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 110694,
-    "idMal": 37290,
-    "title": {
-      "romaji": "ANI x PARA: Anata no Hero wa Dare desu ka",
-      "english": "Animation × Paralympic: Who Is Your Hero?",
-      "native": "アニ×パラ〜あなたのヒーローは誰ですか〜",
-      "userPreferred": "Animation × Paralympic: Who Is Your Hero?"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Sports"
-    ],
-    "duration": 5,
-    "seasonYear": 2017,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b110694-h0RmA1JtT14f.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b110694-h0RmA1JtT14f.jpg",
-      "color": "#e4e45d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1768227960
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 113971,
     "idMal": 38716,
     "title": {
@@ -1450,10 +1418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768226400
-        },
-        {
           "episode": 3,
           "airingAt": 1768831200
         },
@@ -1945,7 +1909,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176370-hz2H4TUeyGgt.png",
@@ -1956,10 +1920,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1768228200
-        },
         {
           "episode": 2,
           "airingAt": 1768833000
@@ -2006,7 +1966,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4401,7 +4360,7 @@
       "Action",
       "Drama"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187062-JuXPEjrLQSeO.png",
@@ -5628,10 +5587,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768230000
-        },
         {
           "episode": 3,
           "airingAt": 1768834800
@@ -8966,7 +8921,7 @@
       "Horror",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203939-F8YG2X9LgfAX.png",
