@@ -2438,6 +2438,63 @@
     "addedAt": "2026-01-03T15:11:44Z"
   },
   {
+    "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
+    "route": "yuusha-party-wo-oidasareta-kiyoubinbou",
+    "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
+    "english": "Jack-of-All-Trades, Party of None",
+    "native": "勇者パーティを追い出された器用貧乏",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-01-14T15:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 187264,
+        "idMal": 61128,
+        "title": {
+          "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou",
+          "english": "Jack-of-All-Trades, Party of None",
+          "native": "勇者パーティを追い出された器用貧乏",
+          "userPreferred": "Jack-of-All-Trades, Party of None"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
+          "color": "#e49350"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-14T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-14T15:00:00Z"
+  },
+  {
     "title": "Zombieland Saga: Yume Ginga Paradise",
     "route": "zombieland-saga-movie",
     "native": "ゾンビランドサガ",
