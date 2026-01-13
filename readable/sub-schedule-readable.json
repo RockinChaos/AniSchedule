@@ -810,10 +810,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 308,
-          "airingAt": 1768257600
-        },
-        {
           "episode": 309,
           "airingAt": 1768516800
         }
@@ -1917,7 +1913,7 @@
       "color": "#e4ae50"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176370-rTxiCqbzG0DQ.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8860,10 +8856,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768255200
-        },
-        {
           "episode": 3,
           "airingAt": 1768860000
         },
@@ -9364,7 +9356,7 @@
   },
   {
     "id": 205676,
-    "idMal": null,
+    "idMal": 63275,
     "title": {
       "romaji": "Black Jack Yanen",
       "english": null,
