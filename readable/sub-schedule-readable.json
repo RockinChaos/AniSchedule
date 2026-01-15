@@ -3178,6 +3178,44 @@
     "zeroEpisode": false
   },
   {
+    "id": 184280,
+    "idMal": 60294,
+    "title": {
+      "romaji": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
+      "english": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary",
+      "native": "天穂のサクナヒメ ココロワ稲作日誌",
+      "userPreferred": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184280-FA1sWge8Wp5b.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184280-FA1sWge8Wp5b.jpg",
+      "color": "#e4bb0d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1771141500
+        },
+        {
+          "episode": 2,
+          "airingAt": 1771746300
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 184289,
     "idMal": 60070,
     "title": {
@@ -9297,10 +9335,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768428000
-        },
         {
           "episode": 3,
           "airingAt": 1769032800
