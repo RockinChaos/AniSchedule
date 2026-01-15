@@ -722,6 +722,42 @@
     "zeroEpisode": false
   },
   {
+    "id": 132203,
+    "idMal": 48755,
+    "title": {
+      "romaji": "Imaizumin-chi wa Douyara Gal no Tamariba ni Natteru Rashii",
+      "english": "Imaizumi's house seems to be a gathering place for gals",
+      "native": "今泉ん家はどうやらギャルの溜まり場になってるらしい",
+      "userPreferred": "Imaizumi's house seems to be a gathering place for gals"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 17,
+    "seasonYear": 2021,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx132203-s7yzfJv6d48L.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx132203-s7yzfJv6d48L.jpg",
+      "color": "#f1bba1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/132203-Vks73Lishg1I.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1769698800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1769698800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -1640,10 +1676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768483800
-        },
-        {
           "episode": 3,
           "airingAt": 1769088600
         },
@@ -1771,10 +1803,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1768490760
-        },
-        {
           "episode": 4,
           "airingAt": 1769095560
         },
@@ -1843,10 +1871,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768485600
-        },
         {
           "episode": 3,
           "airingAt": 1769090400
@@ -2917,10 +2941,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768488960
-        },
-        {
           "episode": 3,
           "airingAt": 1769093760
         },
@@ -3502,10 +3522,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768487400
-        },
-        {
           "episode": 3,
           "airingAt": 1769092200
         },
@@ -3764,10 +3780,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1768496280
-        },
-        {
           "episode": 4,
           "airingAt": 1769101080
         },
@@ -3961,10 +3973,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1768487400
-        },
-        {
           "episode": 4,
           "airingAt": 1769092200
         },
@@ -4151,10 +4159,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 40,
-          "airingAt": 1768496280
-        },
         {
           "episode": 41,
           "airingAt": 1769101080
@@ -5311,10 +5315,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768494480
-        },
-        {
           "episode": 3,
           "airingAt": 1769099280
         },
@@ -5792,10 +5792,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768491000
-        },
         {
           "episode": 3,
           "airingAt": 1769095800
@@ -7894,41 +7890,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199436,
-    "idMal": 60574,
-    "title": {
-      "romaji": "Shen Kong Bian",
-      "english": null,
-      "native": "深空彼岸",
-      "userPreferred": "Shen Kong Bian"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199436-n2n9CRIeNwtg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199436-n2n9CRIeNwtg.jpg",
-      "color": "#f1e4c9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1768489200
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
