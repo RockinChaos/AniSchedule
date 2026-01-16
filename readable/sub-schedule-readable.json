@@ -414,10 +414,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 639,
-          "airingAt": 1768515000
-        },
-        {
           "episode": 640,
           "airingAt": 1769119800
         },
@@ -512,6 +508,10 @@
         {
           "episode": 663,
           "airingAt": 1783030200
+        },
+        {
+          "episode": 664,
+          "airingAt": 1783635000
         }
       ]
     },
@@ -652,9 +652,9 @@
     "idMal": 38716,
     "title": {
       "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
-      "english": null,
+      "english": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
       "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
-      "userPreferred": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo"
+      "userPreferred": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe"
     },
     "format": "MOVIE",
     "genres": [
@@ -846,8 +846,100 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 309,
-          "airingAt": 1768516800
+          "episode": 310,
+          "airingAt": 1768862400
+        },
+        {
+          "episode": 311,
+          "airingAt": 1769121600
+        },
+        {
+          "episode": 312,
+          "airingAt": 1769467200
+        },
+        {
+          "episode": 313,
+          "airingAt": 1769726400
+        },
+        {
+          "episode": 314,
+          "airingAt": 1770072000
+        },
+        {
+          "episode": 315,
+          "airingAt": 1770331200
+        },
+        {
+          "episode": 316,
+          "airingAt": 1770676800
+        },
+        {
+          "episode": 317,
+          "airingAt": 1770936000
+        },
+        {
+          "episode": 318,
+          "airingAt": 1771281600
+        },
+        {
+          "episode": 319,
+          "airingAt": 1771540800
+        },
+        {
+          "episode": 320,
+          "airingAt": 1771886400
+        },
+        {
+          "episode": 321,
+          "airingAt": 1772145600
+        },
+        {
+          "episode": 322,
+          "airingAt": 1772491200
+        },
+        {
+          "episode": 323,
+          "airingAt": 1772750400
+        },
+        {
+          "episode": 324,
+          "airingAt": 1773096000
+        },
+        {
+          "episode": 325,
+          "airingAt": 1773355200
+        },
+        {
+          "episode": 326,
+          "airingAt": 1773700800
+        },
+        {
+          "episode": 327,
+          "airingAt": 1773960000
+        },
+        {
+          "episode": 328,
+          "airingAt": 1774305600
+        },
+        {
+          "episode": 329,
+          "airingAt": 1774564800
+        },
+        {
+          "episode": 330,
+          "airingAt": 1774910400
+        },
+        {
+          "episode": 331,
+          "airingAt": 1775169600
+        },
+        {
+          "episode": 332,
+          "airingAt": 1775515200
+        },
+        {
+          "episode": 333,
+          "airingAt": 1775774400
         }
       ]
     },
@@ -1242,7 +1334,7 @@
       "color": "#e4bb50"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-rDlabhbRqqIz.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -1664,7 +1756,7 @@
       "Drama",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-u0cBZkqDowHP.jpg",
