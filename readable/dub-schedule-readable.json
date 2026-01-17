@@ -2095,7 +2095,8 @@
     "delayedFrom": "2025-12-27T17:00:00Z",
     "delayedUntil": "2026-01-10T17:00:00Z",
     "episodeDate": "2026-01-17T17:00:00Z",
-    "episodeNumber": 12,
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2132,7 +2133,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 12,
+              "airingAt": "2026-01-17T17:00:00Z"
+            },
+            {
               "episode": 13,
+              "airingAt": "2026-01-17T17:00:00Z"
+            },
+            {
+              "episode": 14,
               "airingAt": "2026-01-24T17:00:00Z"
             }
           ]
