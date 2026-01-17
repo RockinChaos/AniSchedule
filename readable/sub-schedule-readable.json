@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1189,
-          "airingAt": 1768640400
-        },
-        {
           "episode": 1190,
           "airingAt": 1769245200
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1213,
           "airingAt": 1783155600
+        },
+        {
+          "episode": 1214,
+          "airingAt": 1783760400
         }
       ]
     },
@@ -156,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1319,
-          "airingAt": 1768635000
-        },
         {
           "episode": 1320,
           "airingAt": 1769239800
@@ -255,6 +251,10 @@
         {
           "episode": 1343,
           "airingAt": 1783150200
+        },
+        {
+          "episode": 1344,
+          "airingAt": 1783755000
         }
       ]
     },
@@ -544,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 898,
-          "airingAt": 1768636800
-        },
-        {
           "episode": 899,
           "airingAt": 1769241600
         },
@@ -642,6 +638,10 @@
         {
           "episode": 922,
           "airingAt": 1783152000
+        },
+        {
+          "episode": 923,
+          "airingAt": 1783756800
         }
       ]
     },
@@ -4351,10 +4351,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1768641900
-        },
-        {
           "episode": 12,
           "airingAt": 1769246700
         },
@@ -4930,10 +4926,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768653000
-        },
-        {
           "episode": 3,
           "airingAt": 1769257800
         },
@@ -5483,10 +5475,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1768638600
-        },
-        {
           "episode": 5,
           "airingAt": 1769243400
         },
@@ -5594,9 +5582,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-4Mvph3WBrWae.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-4Mvph3WBrWae.png",
-      "color": "#bb5035"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
+      "color": "#50a1e4"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
@@ -8364,10 +8352,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768653000
-        },
         {
           "episode": 3,
           "airingAt": 1769257800
