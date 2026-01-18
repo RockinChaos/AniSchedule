@@ -821,6 +821,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 137671,
+    "idMal": 51289,
+    "title": {
+      "romaji": "Zhe Tian",
+      "english": "Shrouding the Heavens",
+      "native": "遮天",
+      "userPreferred": "Shrouding the Heavens"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": 22,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137671-PzYKwpStSLIF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137671-PzYKwpStSLIF.png",
+      "color": "#e4c9a1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137671-Ifs5ZdWoDusy.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 145,
+          "airingAt": 1768960800
+        },
+        {
+          "episode": 146,
+          "airingAt": 1769565600
+        },
+        {
+          "episode": 147,
+          "airingAt": 1770170400
+        },
+        {
+          "episode": 148,
+          "airingAt": 1770775200
+        },
+        {
+          "episode": 149,
+          "airingAt": 1771380000
+        },
+        {
+          "episode": 150,
+          "airingAt": 1771984800
+        },
+        {
+          "episode": 151,
+          "airingAt": 1772589600
+        },
+        {
+          "episode": 152,
+          "airingAt": 1773194400
+        },
+        {
+          "episode": 153,
+          "airingAt": 1773799200
+        },
+        {
+          "episode": 154,
+          "airingAt": 1774404000
+        },
+        {
+          "episode": 155,
+          "airingAt": 1775008800
+        },
+        {
+          "episode": 156,
+          "airingAt": 1775613600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 140842,
     "idMal": 50250,
     "title": {
@@ -4060,10 +4138,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1768705200
-        },
         {
           "episode": 8,
           "airingAt": 1769310000
@@ -9326,6 +9400,124 @@
         {
           "episode": 24,
           "airingAt": 1781733600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 205905,
+    "idMal": 62340,
+    "title": {
+      "romaji": "Guangyin Zhi Wai",
+      "english": "Beyond Time's Gaze",
+      "native": "光阴之外",
+      "userPreferred": "Beyond Time's Gaze"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205905-lbDVh7foIfjt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205905-lbDVh7foIfjt.jpg",
+      "color": "#50a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1769306400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1769911200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1770516000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1771120800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1771725600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1772330400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1772935200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1773540000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774144800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1774749600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1775354400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1775959200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1776564000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1777168800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1777773600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1778378400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1778983200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1779588000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1780192800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1780797600
+        },
+        {
+          "episode": 25,
+          "airingAt": 1781402400
+        },
+        {
+          "episode": 26,
+          "airingAt": 1782007200
         }
       ]
     },
