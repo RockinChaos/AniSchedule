@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2815,
-          "airingAt": 1768728600
-        },
-        {
           "episode": 2816,
           "airingAt": 1769333400
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2839,
           "airingAt": 1783243800
+        },
+        {
+          "episode": 2840,
+          "airingAt": 1783848600
         }
       ]
     },
@@ -710,10 +710,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 349,
-          "airingAt": 1768726800
-        },
-        {
           "episode": 350,
           "airingAt": 1769331600
         }
@@ -893,6 +889,117 @@
         {
           "episode": 156,
           "airingAt": 1775613600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 137683,
+    "idMal": 51836,
+    "title": {
+      "romaji": "Douluo Dalu 2: Jueshi Tangmen",
+      "english": "Soul Land 2: The Peerless Tang Clan",
+      "native": "斗罗大陆2绝世唐门",
+      "userPreferred": "Soul Land 2: The Peerless Tang Clan"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 20,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137683-IMuvIECdZNBh.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137683-IMuvIECdZNBh.png",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 137,
+          "airingAt": 1769220000
+        },
+        {
+          "episode": 138,
+          "airingAt": 1769824800
+        },
+        {
+          "episode": 139,
+          "airingAt": 1770429600
+        },
+        {
+          "episode": 140,
+          "airingAt": 1771034400
+        },
+        {
+          "episode": 141,
+          "airingAt": 1771639200
+        },
+        {
+          "episode": 142,
+          "airingAt": 1772244000
+        },
+        {
+          "episode": 143,
+          "airingAt": 1772848800
+        },
+        {
+          "episode": 144,
+          "airingAt": 1773453600
+        },
+        {
+          "episode": 145,
+          "airingAt": 1774058400
+        },
+        {
+          "episode": 146,
+          "airingAt": 1774663200
+        },
+        {
+          "episode": 147,
+          "airingAt": 1775268000
+        },
+        {
+          "episode": 148,
+          "airingAt": 1775872800
+        },
+        {
+          "episode": 149,
+          "airingAt": 1776477600
+        },
+        {
+          "episode": 150,
+          "airingAt": 1777082400
+        },
+        {
+          "episode": 151,
+          "airingAt": 1777687200
+        },
+        {
+          "episode": 152,
+          "airingAt": 1778292000
+        },
+        {
+          "episode": 153,
+          "airingAt": 1778896800
+        },
+        {
+          "episode": 154,
+          "airingAt": 1779501600
+        },
+        {
+          "episode": 155,
+          "airingAt": 1780106400
+        },
+        {
+          "episode": 156,
+          "airingAt": 1780711200
         }
       ]
     },
@@ -1903,10 +2010,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1768723200
-        },
-        {
           "episode": 16,
           "airingAt": 1769328000
         },
@@ -2277,10 +2380,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1768739400
-        },
         {
           "episode": 5,
           "airingAt": 1769344200
@@ -3144,10 +3243,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768725000
-        },
-        {
           "episode": 3,
           "airingAt": 1769329800
         },
@@ -3568,10 +3663,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1768723200
-        },
         {
           "episode": 3,
           "airingAt": 1769328000
@@ -6113,10 +6204,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1768721400
-        },
-        {
           "episode": 3,
           "airingAt": 1769326200
         },
@@ -7067,10 +7154,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 29,
-          "airingAt": 1768735800
-        },
-        {
           "episode": 30,
           "airingAt": 1769340600
         },
@@ -7211,6 +7294,136 @@
         {
           "episode": 24,
           "airingAt": 1774139400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 196613,
+    "idMal": null,
+    "title": {
+      "romaji": "Dou Po Cangqiong: Nian Fan 4",
+      "english": null,
+      "native": "斗破苍穹 年番4",
+      "userPreferred": "Dou Po Cangqiong: Nian Fan 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196613-20kz65bVsHl7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196613-20kz65bVsHl7.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 26,
+          "airingAt": 1769306400
+        },
+        {
+          "episode": 27,
+          "airingAt": 1769911200
+        },
+        {
+          "episode": 28,
+          "airingAt": 1770516000
+        },
+        {
+          "episode": 29,
+          "airingAt": 1771120800
+        },
+        {
+          "episode": 30,
+          "airingAt": 1771725600
+        },
+        {
+          "episode": 31,
+          "airingAt": 1772330400
+        },
+        {
+          "episode": 32,
+          "airingAt": 1772935200
+        },
+        {
+          "episode": 33,
+          "airingAt": 1773540000
+        },
+        {
+          "episode": 34,
+          "airingAt": 1774144800
+        },
+        {
+          "episode": 35,
+          "airingAt": 1774749600
+        },
+        {
+          "episode": 36,
+          "airingAt": 1775354400
+        },
+        {
+          "episode": 37,
+          "airingAt": 1775959200
+        },
+        {
+          "episode": 38,
+          "airingAt": 1776564000
+        },
+        {
+          "episode": 39,
+          "airingAt": 1777168800
+        },
+        {
+          "episode": 40,
+          "airingAt": 1777773600
+        },
+        {
+          "episode": 41,
+          "airingAt": 1778378400
+        },
+        {
+          "episode": 42,
+          "airingAt": 1778983200
+        },
+        {
+          "episode": 43,
+          "airingAt": 1779588000
+        },
+        {
+          "episode": 44,
+          "airingAt": 1780192800
+        },
+        {
+          "episode": 45,
+          "airingAt": 1780797600
+        },
+        {
+          "episode": 46,
+          "airingAt": 1781402400
+        },
+        {
+          "episode": 47,
+          "airingAt": 1782007200
+        },
+        {
+          "episode": 48,
+          "airingAt": 1782612000
+        },
+        {
+          "episode": 49,
+          "airingAt": 1783216800
+        },
+        {
+          "episode": 50,
+          "airingAt": 1783821600
         }
       ]
     },
