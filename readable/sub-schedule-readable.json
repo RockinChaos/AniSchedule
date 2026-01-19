@@ -781,10 +781,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 124,
-          "airingAt": 1768788000
-        },
-        {
           "episode": 125,
           "airingAt": 1769392800
         },
@@ -1687,6 +1683,43 @@
         {
           "episode": 137,
           "airingAt": 1783675500
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 166219,
+    "idMal": 56524,
+    "title": {
+      "romaji": "Tunshi Xingkong 4",
+      "english": null,
+      "native": "吞噬星空 第四季",
+      "userPreferred": "Tunshi Xingkong 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": 21,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166219-tREIb5l5huVe.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166219-tREIb5l5huVe.png",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 122,
+          "airingAt": 1768874400
+        },
+        {
+          "episode": 123,
+          "airingAt": 1769479200
         }
       ]
     },
