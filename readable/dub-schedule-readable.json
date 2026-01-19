@@ -911,6 +911,64 @@
     "addedAt": "2025-11-01T16:30:00Z"
   },
   {
+    "title": "Golden Kamuy: Saishuushou",
+    "route": "golden-kamuy-saishuu-shou",
+    "romaji": "Golden Kamuy: Saishuushou",
+    "english": "Golden Kamuy Final Season",
+    "native": "ゴールデンカムイ 最終章",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-01-19T14:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 166521,
+        "idMal": 55772,
+        "title": {
+          "romaji": "Golden Kamuy: Saishuushou",
+          "english": "Golden Kamuy Final Season",
+          "native": "ゴールデンカムイ 最終章",
+          "userPreferred": "Golden Kamuy Final Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166521-PNf7tRAlJJI6.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166521-PNf7tRAlJJI6.jpg",
+          "color": "#f16b50"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-19T14:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-19T14:30:00Z"
+  },
+  {
     "title": "Hanazakari no Kimitachi e",
     "route": "hanazakari-no-kimitachi-e",
     "romaji": "Hanazakari no Kimitachi e",
@@ -1666,6 +1724,63 @@
     "addedAt": "2025-11-30T16:15:00Z"
   },
   {
+    "title": "Osananajimi to wa Love Comedy ni Naranai",
+    "route": "osananajimi-to-wa-love-comedy-ni-naranai",
+    "romaji": "Osananajimi to wa Love Comedy ni Naranai",
+    "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+    "native": "幼馴染とはラブコメにならない",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-01-19T15:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 189565,
+        "idMal": 61359,
+        "title": {
+          "romaji": "Osananajimi to wa Love Comedy ni Naranai",
+          "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+          "native": "幼馴染とはラブコメにならない",
+          "userPreferred": "You Can't Be In a Rom-Com with Your Childhood Friends!"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189565-OHhadYSsd0Bg.jpg",
+          "color": "#e4ae78"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-19T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-19T15:30:00Z"
+  },
+  {
     "title": "Prism Rondo",
     "route": "prism-rondo",
     "romaji": "Prism Rondo",
@@ -1960,7 +2075,7 @@
           "color": "#28a1e4"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184322-ICF5cScm8Wbj.jpg",
         "airingSchedule": {
           "nodes": [
             {
