@@ -1093,6 +1093,63 @@
     "addedAt": "2025-10-28T19:02:11Z"
   },
   {
+    "title": "Mayonaka Heart Tune",
+    "route": "mayonaka-heart-tune",
+    "romaji": "Mayonaka Heart Tune",
+    "english": "Tune In to the Midnight Heart",
+    "native": "真夜中ハートチューン",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-01-20T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 187942,
+        "idMal": 61211,
+        "title": {
+          "romaji": "Mayonaka Heart Tune",
+          "english": "Tune In to the Midnight Heart",
+          "native": "真夜中ハートチューン",
+          "userPreferred": "Tune In to the Midnight Heart"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187942-c2cZvunJGfiE.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
+          "color": "#f1ae5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-20T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-20T14:00:00Z"
+  },
+  {
     "title": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
     "route": "mushoku-no-eiyuu-betsu-ni-skill-nanka-ira-nakkatan-daga",
     "romaji": "Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga",
