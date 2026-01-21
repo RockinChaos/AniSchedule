@@ -1,5 +1,63 @@
 [
   {
+    "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "route": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+    "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+    "english": "An Adventurer's Daily Grind at Age 29",
+    "native": "29歳独身中堅冒険者の日常",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-01-21T13:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192261,
+        "idMal": 61637,
+        "title": {
+          "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+          "english": "An Adventurer’s Daily Grind at Age 29",
+          "native": "29歳独身中堅冒険者の日常",
+          "userPreferred": "An Adventurer’s Daily Grind at Age 29"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192261-oaqwOjlr64ki.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192261-oaqwOjlr64ki.jpg",
+          "color": "#bbe4f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-21T13:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-21T13:00:00Z"
+  },
+  {
     "title": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
     "route": "arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne",
     "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
