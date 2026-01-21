@@ -5387,10 +5387,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1768993200
-        },
-        {
           "episode": 16,
           "airingAt": 1769598000
         }
@@ -5879,10 +5875,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1769000400
-        },
-        {
           "episode": 4,
           "airingAt": 1769605200
         },
@@ -6091,10 +6083,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1768998600
-        },
         {
           "episode": 4,
           "airingAt": 1769603400
@@ -6509,6 +6497,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 194353,
+    "idMal": 62316,
+    "title": {
+      "romaji": "Choro Mesu Days",
+      "english": null,
+      "native": "ちょろ・めす・でいず",
+      "userPreferred": "Choro Mesu Days"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194353-DYQodQxpFuXD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194353-DYQodQxpFuXD.png",
+      "color": "#e4c9a1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1776351600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 194389,
     "idMal": 62005,
     "title": {
@@ -6793,10 +6813,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1768993140
-        },
         {
           "episode": 17,
           "airingAt": 1769597940
