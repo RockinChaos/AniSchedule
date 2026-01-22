@@ -1294,6 +1294,135 @@
     "zeroEpisode": false
   },
   {
+    "id": 155723,
+    "idMal": null,
+    "title": {
+      "romaji": "Wushen Zhuzai: Da Wei Pian",
+      "english": null,
+      "native": "武神主宰 大威篇",
+      "userPreferred": "Wushen Zhuzai: Da Wei Pian"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": 7,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx155723-hM261Imc5yfd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx155723-hM261Imc5yfd.png",
+      "color": "#c9f1f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 349,
+          "airingAt": 1769306400
+        },
+        {
+          "episode": 350,
+          "airingAt": 1769479200
+        },
+        {
+          "episode": 351,
+          "airingAt": 1769911200
+        },
+        {
+          "episode": 352,
+          "airingAt": 1770084000
+        },
+        {
+          "episode": 353,
+          "airingAt": 1770516000
+        },
+        {
+          "episode": 354,
+          "airingAt": 1770688800
+        },
+        {
+          "episode": 355,
+          "airingAt": 1771120800
+        },
+        {
+          "episode": 356,
+          "airingAt": 1771293600
+        },
+        {
+          "episode": 357,
+          "airingAt": 1771725600
+        },
+        {
+          "episode": 358,
+          "airingAt": 1771898400
+        },
+        {
+          "episode": 359,
+          "airingAt": 1772330400
+        },
+        {
+          "episode": 360,
+          "airingAt": 1772503200
+        },
+        {
+          "episode": 361,
+          "airingAt": 1772935200
+        },
+        {
+          "episode": 362,
+          "airingAt": 1773108000
+        },
+        {
+          "episode": 363,
+          "airingAt": 1773540000
+        },
+        {
+          "episode": 364,
+          "airingAt": 1773712800
+        },
+        {
+          "episode": 365,
+          "airingAt": 1774144800
+        },
+        {
+          "episode": 366,
+          "airingAt": 1774317600
+        },
+        {
+          "episode": 367,
+          "airingAt": 1774749600
+        },
+        {
+          "episode": 368,
+          "airingAt": 1774922400
+        },
+        {
+          "episode": 369,
+          "airingAt": 1775354400
+        },
+        {
+          "episode": 370,
+          "airingAt": 1775527200
+        },
+        {
+          "episode": 371,
+          "airingAt": 1775959200
+        },
+        {
+          "episode": 372,
+          "airingAt": 1776132000
+        },
+        {
+          "episode": 373,
+          "airingAt": 1776564000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -9410,10 +9539,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769032800
-        },
         {
           "episode": 4,
           "airingAt": 1769637600
