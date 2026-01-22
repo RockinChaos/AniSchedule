@@ -1,5 +1,65 @@
 [
   {
+    "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+    "route": "omae-gotoki-ga-maou-ni-kateru-to-omouna-to-yuusha-party-wo-tsuihou-sareta-node-outo-de-kimama-ni-kurashitai",
+    "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+    "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+    "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-01-22T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 191718,
+        "idMal": 61587,
+        "title": {
+          "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
+          "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+          "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
+          "userPreferred": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Horror"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-22T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-22T16:00:00Z"
+  },
+  {
     "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "route": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
@@ -451,6 +511,63 @@
     },
     "verified": true,
     "addedAt": "2025-12-27T22:00:00Z"
+  },
+  {
+    "title": "Douse, Koishite Shimaunda. 2nd Season",
+    "route": "douse-koishite-shimaunda-2nd-season",
+    "romaji": "Douse, Koishite Shimaunda. 2nd Season",
+    "english": "Anyway, I'm Falling in Love with You. 2nd Season",
+    "native": "どうせ、恋してしまうんだ。2nd Season",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-01-22T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 189137,
+        "idMal": 61325,
+        "title": {
+          "romaji": "Douse, Koishite Shimaunda. Season 2",
+          "english": "Anyway, I'm Falling in Love with You. Season 2",
+          "native": "どうせ、恋してしまうんだ。Season 2",
+          "userPreferred": "Anyway, I'm Falling in Love with You. Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189137-cCXaEiX0bJb4.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189137-cCXaEiX0bJb4.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-22T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-22T17:00:00Z"
   },
   {
     "title": "Dungeons & Television",
