@@ -1100,7 +1100,8 @@
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
     "episodeDate": "2026-01-22T16:30:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1138,7 +1139,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2026-01-22T16:30:00Z"
+            },
+            {
               "episode": 2,
+              "airingAt": "2026-01-22T16:30:00Z"
+            },
+            {
+              "episode": 3,
               "airingAt": "2026-01-29T16:30:00Z"
             }
           ]
@@ -2076,6 +2085,62 @@
     },
     "verified": true,
     "addedAt": "2025-12-17T17:00:00Z"
+  },
+  {
+    "title": "TRIGUN STARGAZE",
+    "route": "trigun-stampede-kanketsu-hen",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-01-24T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 163144,
+        "idMal": 54863,
+        "title": {
+          "romaji": "TRIGUN STARGAZE",
+          "english": "TRIGUN STARGAZE",
+          "native": "TRIGUN STARGAZE",
+          "userPreferred": "TRIGUN STARGAZE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163144-XdVwFRxPGY6j.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163144-XdVwFRxPGY6j.jpg",
+          "color": "#e4bb50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-uEb9basY0kUb.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-24T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-24T15:00:00Z"
   },
   {
     "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
