@@ -4732,10 +4732,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1769086800
-        },
-        {
           "episode": 17,
           "airingAt": 1769691600
         },
@@ -4830,6 +4826,10 @@
         {
           "episode": 40,
           "airingAt": 1783602000
+        },
+        {
+          "episode": 41,
+          "airingAt": 1784206800
         }
       ]
     },
@@ -6658,10 +6658,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1769079600
-        },
-        {
           "episode": 18,
           "airingAt": 1769684400
         },
@@ -8316,10 +8312,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1769074200
-        },
-        {
           "episode": 16,
           "airingAt": 1769679000
         },
@@ -8536,41 +8528,6 @@
         {
           "episode": 1,
           "airingAt": 1769698800
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 201903,
-    "idMal": 62896,
-    "title": {
-      "romaji": "Chou Kaguya-hime!",
-      "english": "Cosmic Princess Kaguya!",
-      "native": "超かぐや姫！",
-      "userPreferred": "Cosmic Princess Kaguya!"
-    },
-    "format": "ONA",
-    "genres": [
-      "Fantasy",
-      "Music",
-      "Sci-Fi"
-    ],
-    "duration": 140,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201903-v43gxQKw8Tc8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201903-v43gxQKw8Tc8.jpg",
-      "color": "#e46b35"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201903-Y20yLk06W45T.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1769068800
         }
       ]
     },
