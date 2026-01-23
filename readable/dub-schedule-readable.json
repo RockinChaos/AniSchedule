@@ -318,6 +318,8 @@
         },
         "format": "ONA",
         "genres": [
+          "Action",
+          "Comedy",
           "Fantasy",
           "Music",
           "Sci-Fi"
@@ -1965,6 +1967,85 @@
     },
     "verified": true,
     "addedAt": "2025-10-18T20:08:43Z"
+  },
+  {
+    "title": "Takopii no Genzai",
+    "route": "takopii-no-genzai",
+    "romaji": "Takopii no Genzai",
+    "english": "Takopi's Original Sin",
+    "native": "タコピーの原罪",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2026-01-22T23:00:00Z",
+    "episodeNumber": 6,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 6,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185407,
+        "idMal": 60489,
+        "title": {
+          "romaji": "Takopii no Genzai",
+          "english": "Takopi's Original Sin",
+          "native": "タコピーの原罪",
+          "userPreferred": "Takopi's Original Sin"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sci-Fi"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185407-7uzY4fA3hokP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185407-7uzY4fA3hokP.jpg",
+          "color": "#e4435d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185407-WOKgyadY4Pr1.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-22T23:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-01-22T23:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-01-22T23:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-01-22T23:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-01-22T23:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-01-22T23:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-23T03:26:07Z"
   },
   {
     "title": "Tensei Akujo no Kuro Rekishi",
