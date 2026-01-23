@@ -2396,6 +2396,63 @@
     "addedAt": "2025-07-18T22:14:31Z"
   },
   {
+    "title": "Xian Wang de Richang Shenghuo 5",
+    "route": "xian-wang-de-richang-shenghuo-5",
+    "romaji": "Xian Wang de Richang Shenghuo 5",
+    "english": "The Daily Life of the Immortal King 5",
+    "native": "仙王的日常生活 第五季",
+    "delayedFrom": "0001-01-01T22:30:00Z",
+    "delayedUntil": "0001-01-01T22:30:00Z",
+    "episodeDate": "2026-01-24T22:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 18,
+    "mediaTypes": [
+      {
+        "name": "ONA (Chinese)",
+        "route": "ona-chinese"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185857,
+        "idMal": 60560,
+        "title": {
+          "romaji": "Xian Wang de Richang Shenghuo 5",
+          "english": "The Daily Life of the Immortal King Season 5",
+          "native": "仙王的日常生活 第五季",
+          "userPreferred": "The Daily Life of the Immortal King Season 5"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b185857-NIhDZe5olAzV.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b185857-NIhDZe5olAzV.png",
+          "color": "#a1d6e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-24T22:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-24T22:30:00Z"
+  },
+  {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
     "route": "yu-gi-oh-go-rush",
     "native": "遊☆戯☆王ゴーラッシュ!!",
