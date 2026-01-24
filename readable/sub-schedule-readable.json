@@ -1573,10 +1573,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1769265900
-        },
-        {
           "episode": 16,
           "airingAt": 1769870700
         },
@@ -1627,10 +1623,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-uEb9basY0kUb.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769263200
-        },
         {
           "episode": 4,
           "airingAt": 1769868000
@@ -2003,10 +1995,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769265000
-        },
         {
           "episode": 5,
           "airingAt": 1769869800
@@ -3898,10 +3886,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1769266800
-        },
-        {
           "episode": 16,
           "airingAt": 1769871600
         },
@@ -4888,10 +4872,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1769268600
-        },
-        {
           "episode": 17,
           "airingAt": 1769873400
         },
@@ -4998,10 +4978,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769265000
-        },
         {
           "episode": 4,
           "airingAt": 1769869800
@@ -5201,10 +5177,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769270160
-        },
         {
           "episode": 4,
           "airingAt": 1769874960
@@ -5702,10 +5674,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1769272200
-        },
-        {
           "episode": 2,
           "airingAt": 1769877000
         },
@@ -5739,7 +5707,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7087,79 +7054,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 196229,
-    "idMal": 62046,
-    "title": {
-      "romaji": "Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)",
-      "english": null,
-      "native": "トミカヒーローズ ジョブレイバー 特装合体ロボ (TV)",
-      "userPreferred": "Tomica Heroes Jobraver: Tokusou Gattai Robo (TV)"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Action",
-      "Mecha"
-    ],
-    "duration": 12,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196229-5QTc73K7LoV8.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196229-5QTc73K7LoV8.png",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 30,
-          "airingAt": 1769340600
-        },
-        {
-          "episode": 31,
-          "airingAt": 1769945400
-        },
-        {
-          "episode": 32,
-          "airingAt": 1770550200
-        },
-        {
-          "episode": 33,
-          "airingAt": 1771155000
-        },
-        {
-          "episode": 34,
-          "airingAt": 1771759800
-        },
-        {
-          "episode": 35,
-          "airingAt": 1772364600
-        },
-        {
-          "episode": 36,
-          "airingAt": 1772969400
-        },
-        {
-          "episode": 37,
-          "airingAt": 1773574200
-        },
-        {
-          "episode": 38,
-          "airingAt": 1774179000
-        },
-        {
-          "episode": 39,
-          "airingAt": 1774783800
-        },
-        {
-          "episode": 40,
-          "airingAt": 1775388600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 196540,
     "idMal": 62314,
     "title": {
@@ -7761,10 +7655,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1769266800
-        },
-        {
           "episode": 4,
           "airingAt": 1769871600
         },
@@ -8150,10 +8040,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769259600
-        },
         {
           "episode": 5,
           "airingAt": 1769864400
@@ -9057,10 +8943,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1769266800
-        },
         {
           "episode": 16,
           "airingAt": 1769871600
