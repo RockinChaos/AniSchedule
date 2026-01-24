@@ -461,6 +461,61 @@
     "addedAt": "2026-01-06T15:30:00Z"
   },
   {
+    "title": "Dead Account",
+    "route": "dead-account",
+    "native": "デッドアカウント",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-01-24T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 187901,
+        "idMal": 61196,
+        "title": {
+          "romaji": "Dead Account",
+          "english": "Dead Account",
+          "native": "デッドアカウント",
+          "userPreferred": "Dead Account"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187901-T91HmZAaNwOF.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187901-T91HmZAaNwOF.jpg",
+          "color": "#35bbf1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-31T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-24T19:10:24Z"
+  },
+  {
     "title": "Digimon BeatBreak",
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
