@@ -218,8 +218,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 77,
-              "airingAt": "2026-01-24T22:45:00Z"
+              "episode": 78,
+              "airingAt": "2026-01-31T22:45:00Z"
             }
           ]
         },
@@ -1510,6 +1510,61 @@
     "addedAt": "2026-01-20T14:00:00Z"
   },
   {
+    "title": "Medalist 2nd Season",
+    "route": "medalist-2nd-season",
+    "native": "メダリスト 第2期",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-01-24T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 9,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189275,
+        "idMal": 61335,
+        "title": {
+          "romaji": "Medalist 2nd Season",
+          "english": "Medalist Season 2",
+          "native": "メダリスト 第2期",
+          "userPreferred": "Medalist Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sports"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-01-31T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-24T23:12:26Z"
+  },
+  {
     "title": "MF Ghost 3rd Season",
     "route": "mf-ghost-3rd-season",
     "native": "MFゴースト 3rd Season",
@@ -1669,8 +1724,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-01-24T23:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-01-31T23:00:00Z"
             }
           ]
         },
@@ -2529,7 +2584,7 @@
         "route": "ona-chinese"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185857,
@@ -2557,8 +2612,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-01-24T22:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-01-31T22:30:00Z"
             }
           ]
         },
