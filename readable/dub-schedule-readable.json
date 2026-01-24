@@ -1094,6 +1094,66 @@
     "addedAt": "2025-10-28T04:11:43Z"
   },
   {
+    "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+    "route": "jingai-kyoushitsu-no-ningengirai-kyoushi",
+    "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+    "english": "A Misanthrope Teaches a Class for Demi-Humans",
+    "native": "人外教室の人間嫌い教師",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-01-24T15:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 198374,
+        "idMal": 62432,
+        "title": {
+          "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+          "english": "A Misanthrope Teaches a Class for Demi-Humans",
+          "native": "人外教室の人間嫌い教師",
+          "userPreferred": "A Misanthrope Teaches a Class for Demi-Humans"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198374-ROZU3qJGX4uS.jpg",
+          "color": "#4386ff"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-24T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-24T15:30:00Z"
+  },
+  {
     "title": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "route": "jujutsu-kaisen-shimetsu-kaiyuu",
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
