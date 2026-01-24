@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1190,
-          "airingAt": 1769245200
-        },
-        {
           "episode": 1191,
           "airingAt": 1769850000
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1214,
           "airingAt": 1783760400
+        },
+        {
+          "episode": 1215,
+          "airingAt": 1784365200
         }
       ]
     },
@@ -156,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1320,
-          "airingAt": 1769239800
-        },
         {
           "episode": 1321,
           "airingAt": 1769844600
@@ -255,6 +251,10 @@
         {
           "episode": 1344,
           "airingAt": 1783755000
+        },
+        {
+          "episode": 1345,
+          "airingAt": 1784359800
         }
       ]
     },
@@ -544,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 899,
-          "airingAt": 1769241600
-        },
-        {
           "episode": 900,
           "airingAt": 1769846400
         },
@@ -642,6 +638,10 @@
         {
           "episode": 923,
           "airingAt": 1783756800
+        },
+        {
+          "episode": 924,
+          "airingAt": 1784361600
         }
       ]
     },
@@ -4514,10 +4514,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1769246700
-        },
-        {
           "episode": 13,
           "airingAt": 1769851500
         },
@@ -5073,10 +5069,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1769257800
-        },
-        {
           "episode": 4,
           "airingAt": 1769862600
         },
@@ -5601,10 +5593,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1769243400
-        },
         {
           "episode": 6,
           "airingAt": 1769848200
@@ -8471,10 +8459,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1769257800
-        },
-        {
           "episode": 4,
           "airingAt": 1769862600
         },
@@ -8839,6 +8823,72 @@
         {
           "episode": 12,
           "airingAt": 1774641600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203296,
+    "idMal": 62649,
+    "title": {
+      "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+      "english": null,
+      "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
+      "userPreferred": "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203296-LYXWSdP4N4YF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203296-LYXWSdP4N4YF.jpg",
+      "color": "#4393e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1769814000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1770418800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1771023600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1771628400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1772233200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1772838000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1773442800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1774047600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774652400
         }
       ]
     },
@@ -9247,7 +9297,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": 6,
+    "duration": 4,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204698-6v7aAq92mKFl.png",
