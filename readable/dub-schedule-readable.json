@@ -865,8 +865,9 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "2025-12-06T16:30:00Z",
-    "delayedUntil": "2025-12-13T16:30:00Z",
+    "delayedText": "Delayed ",
+    "delayedFrom": "2026-01-24T16:30:00Z",
+    "delayedUntil": "2026-01-31T16:30:00Z",
     "episodeDate": "2026-01-24T16:30:00Z",
     "episodeNumber": 13,
     "lengthMin": 25,
@@ -906,7 +907,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
+              "episode": 13,
               "airingAt": "2026-01-31T16:30:00Z"
             }
           ]
@@ -1148,6 +1149,65 @@
     },
     "verified": true,
     "addedAt": "2025-10-28T04:11:43Z"
+  },
+  {
+    "title": "Jigokuraku 2nd Season",
+    "route": "jigokuraku-2nd-season",
+    "romaji": "Jigokuraku 2nd Season",
+    "english": "Hell's Paradise 2nd Season",
+    "native": "地獄楽 第二期",
+    "delayedFrom": "0001-01-01T15:15:00Z",
+    "delayedUntil": "0001-01-01T15:15:00Z",
+    "episodeDate": "2026-01-25T15:15:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 166613,
+        "idMal": 55825,
+        "title": {
+          "romaji": "Jigokuraku 2nd Season",
+          "english": "Hell’s Paradise Season 2",
+          "native": "地獄楽 第二期",
+          "userPreferred": "Hell’s Paradise Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166613-uHB8q3D4qbon.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166613-uHB8q3D4qbon.jpg",
+          "color": "#e49328"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166613-drS86exJlIjG.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-25T15:15:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-25T15:15:00Z"
   },
   {
     "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
@@ -2447,6 +2507,62 @@
     },
     "verified": false,
     "addedAt": "2026-01-24T15:00:00Z"
+  },
+  {
+    "title": "Uruwashi no Yoi no Tsuki",
+    "route": "uruwashi-no-yoi-no-tsuki",
+    "romaji": "Uruwashi no Yoi no Tsuki",
+    "english": "In the Clear Moonlit Dusk",
+    "native": "うるわしの宵の月",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-01-25T08:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192507,
+        "idMal": 61663,
+        "title": {
+          "romaji": "Uruwashi no Yoi no Tsuki",
+          "english": "In the Clear Moonlit Dusk",
+          "native": "うるわしの宵の月",
+          "userPreferred": "In the Clear Moonlit Dusk"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192507-SCmImUlUnpAD.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
+          "color": "#5086e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-25T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-25T08:00:00Z"
   },
   {
     "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
