@@ -1511,6 +1511,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 160701,
+    "idMal": 54353,
+    "title": {
+      "romaji": "Kokuhaku...",
+      "english": null,
+      "native": "告白……",
+      "userPreferred": "Kokuhaku..."
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 24,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160701-UuWLpshlhjVG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160701-UuWLpshlhjVG.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1776956400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 162669,
     "idMal": 54703,
     "title": {
@@ -1889,10 +1921,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166613-drS86exJlIjG.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769352240
-        },
         {
           "episode": 4,
           "airingAt": 1769957040
@@ -2373,10 +2401,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769353200
-        },
         {
           "episode": 5,
           "airingAt": 1769958000
@@ -4205,10 +4229,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769353200
-        },
-        {
           "episode": 5,
           "airingAt": 1769958000
         },
@@ -4335,10 +4355,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1769346000
-        },
-        {
           "episode": 6,
           "airingAt": 1769950800
         },
@@ -4365,6 +4381,10 @@
         {
           "episode": 12,
           "airingAt": 1773579600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774184400
         }
       ]
     },
@@ -4473,10 +4493,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769351400
-        },
         {
           "episode": 4,
           "airingAt": 1769956200
@@ -5553,7 +5569,7 @@
       "Psychological",
       "Sports"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
@@ -6478,7 +6494,7 @@
       "color": "#e45d50"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194742-EUZsH4CqYFB5.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6816,10 +6832,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769349600
-        },
         {
           "episode": 4,
           "airingAt": 1769954400
@@ -7291,10 +7303,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769355000
-        },
-        {
           "episode": 5,
           "airingAt": 1769959800
         },
@@ -7765,10 +7773,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769357100
-        },
-        {
           "episode": 5,
           "airingAt": 1769961900
         },
@@ -8197,6 +8201,10 @@
         {
           "episode": 1,
           "airingAt": 1769698800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776956400
         }
       ]
     },
@@ -8304,10 +8312,10 @@
     "id": 202894,
     "idMal": null,
     "title": {
-      "romaji": "Ken Oni Virgo",
+      "romaji": "Kenki Virgo",
       "english": null,
       "native": "剣鬼バルゴ",
-      "userPreferred": "Ken Oni Virgo"
+      "userPreferred": "Kenki Virgo"
     },
     "format": "OVA",
     "genres": [
@@ -8752,10 +8760,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769361600
-        },
         {
           "episode": 4,
           "airingAt": 1769966400
