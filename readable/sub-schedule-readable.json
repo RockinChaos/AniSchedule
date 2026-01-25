@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2816,
-          "airingAt": 1769333400
-        },
-        {
           "episode": 2817,
           "airingAt": 1769938200
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2840,
           "airingAt": 1783848600
+        },
+        {
+          "episode": 2841,
+          "airingAt": 1784453400
         }
       ]
     },
@@ -681,40 +681,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 118123,
-    "idMal": 44042,
-    "title": {
-      "romaji": "Holo no Graffiti",
-      "english": null,
-      "native": "ホロのぐらふぃてぃ",
-      "userPreferred": "Holo no Graffiti"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "duration": 2,
-    "seasonYear": 2019,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 350,
-          "airingAt": 1769331600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -2128,10 +2094,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1769328000
-        },
-        {
           "episode": 17,
           "airingAt": 1769932800
         },
@@ -2482,10 +2444,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1769344200
-        },
         {
           "episode": 6,
           "airingAt": 1769949000
@@ -3305,10 +3263,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1769329800
-        },
-        {
           "episode": 4,
           "airingAt": 1769934600
         },
@@ -3705,10 +3659,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769328000
-        },
         {
           "episode": 4,
           "airingAt": 1769932800
@@ -6077,10 +6027,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1769326200
-        },
         {
           "episode": 4,
           "airingAt": 1769931000
