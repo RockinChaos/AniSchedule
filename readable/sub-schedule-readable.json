@@ -1311,10 +1311,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 349,
-          "airingAt": 1769306400
-        },
-        {
           "episode": 350,
           "airingAt": 1769479200
         },
@@ -1409,6 +1405,10 @@
         {
           "episode": 373,
           "airingAt": 1776564000
+        },
+        {
+          "episode": 374,
+          "airingAt": 1776736800
         }
       ]
     },
@@ -2675,10 +2675,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 39,
-          "airingAt": 1769299200
-        },
-        {
           "episode": 40,
           "airingAt": 1769904000
         },
@@ -3611,10 +3607,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 42,
-          "airingAt": 1769301000
-        },
-        {
           "episode": 43,
           "airingAt": 1769905800
         },
@@ -3818,41 +3810,6 @@
         {
           "episode": 12,
           "airingAt": 1774535400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 185073,
-    "idMal": 60407,
-    "title": {
-      "romaji": "Kimi to Idol Precure♪",
-      "english": "You and Idol Precure ♪",
-      "native": "キミとアイドルプリキュア♪",
-      "userPreferred": "You and Idol Precure ♪"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Mahou Shoujo",
-      "Music"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185073-m4QzzXcEqmvb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185073-m4QzzXcEqmvb.png",
-      "color": "#5078fe"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185073-gKyL8oVOqMX1.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 49,
-          "airingAt": 1769297400
         }
       ]
     },
@@ -4078,10 +4035,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 43,
-          "airingAt": 1769297280
-        },
-        {
           "episode": 44,
           "airingAt": 1769902080
         },
@@ -4137,10 +4090,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 42,
-          "airingAt": 1769292960
-        },
         {
           "episode": 43,
           "airingAt": 1769897760
@@ -5331,10 +5280,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1769299200
-        },
         {
           "episode": 17,
           "airingAt": 1769904000
@@ -7112,10 +7057,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1769301000
-        },
-        {
           "episode": 17,
           "airingAt": 1769905800
         },
@@ -7177,10 +7118,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1769306400
-        },
         {
           "episode": 27,
           "airingAt": 1769911200
@@ -7276,6 +7213,10 @@
         {
           "episode": 50,
           "airingAt": 1783821600
+        },
+        {
+          "episode": 51,
+          "airingAt": 1784426400
         }
       ]
     },
@@ -9412,10 +9353,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1769306400
-        },
         {
           "episode": 6,
           "airingAt": 1769911200
