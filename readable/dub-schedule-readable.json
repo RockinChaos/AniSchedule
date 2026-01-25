@@ -519,8 +519,9 @@
     "title": "Digimon BeatBreak",
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
+    "delayedText": "Delayed",
     "delayedFrom": "2026-01-04T04:00:00Z",
-    "delayedUntil": "2026-01-25T04:00:00Z",
+    "delayedUntil": "2032-01-01T04:00:00Z",
     "episodeDate": "2026-01-25T04:00:00Z",
     "episodeNumber": 6,
     "lengthMin": 23,
@@ -530,6 +531,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -559,8 +561,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-02-01T04:00:00Z"
+              "episode": 6,
+              "airingAt": "2032-01-01T04:00:00Z"
             }
           ]
         },
