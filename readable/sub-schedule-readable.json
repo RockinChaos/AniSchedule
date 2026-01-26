@@ -684,6 +684,124 @@
     "zeroEpisode": false
   },
   {
+    "id": 118123,
+    "idMal": 44042,
+    "title": {
+      "romaji": "Holo no Graffiti",
+      "english": null,
+      "native": "ホロのぐらふぃてぃ",
+      "userPreferred": "Holo no Graffiti"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2019,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png",
+      "color": "#e4ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 351,
+          "airingAt": 1769936400
+        },
+        {
+          "episode": 352,
+          "airingAt": 1770541200
+        },
+        {
+          "episode": 353,
+          "airingAt": 1771146000
+        },
+        {
+          "episode": 354,
+          "airingAt": 1771750800
+        },
+        {
+          "episode": 355,
+          "airingAt": 1772355600
+        },
+        {
+          "episode": 356,
+          "airingAt": 1772960400
+        },
+        {
+          "episode": 357,
+          "airingAt": 1773565200
+        },
+        {
+          "episode": 358,
+          "airingAt": 1774170000
+        },
+        {
+          "episode": 359,
+          "airingAt": 1774774800
+        },
+        {
+          "episode": 360,
+          "airingAt": 1775379600
+        },
+        {
+          "episode": 361,
+          "airingAt": 1775984400
+        },
+        {
+          "episode": 362,
+          "airingAt": 1776589200
+        },
+        {
+          "episode": 363,
+          "airingAt": 1777194000
+        },
+        {
+          "episode": 364,
+          "airingAt": 1777798800
+        },
+        {
+          "episode": 365,
+          "airingAt": 1778403600
+        },
+        {
+          "episode": 366,
+          "airingAt": 1779008400
+        },
+        {
+          "episode": 367,
+          "airingAt": 1779613200
+        },
+        {
+          "episode": 368,
+          "airingAt": 1780218000
+        },
+        {
+          "episode": 369,
+          "airingAt": 1780822800
+        },
+        {
+          "episode": 370,
+          "airingAt": 1781427600
+        },
+        {
+          "episode": 371,
+          "airingAt": 1782032400
+        },
+        {
+          "episode": 372,
+          "airingAt": 1782637200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 132203,
     "idMal": 48755,
     "title": {
@@ -746,10 +864,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 125,
-          "airingAt": 1769392800
-        },
         {
           "episode": 126,
           "airingAt": 1769997600
@@ -9385,6 +9499,39 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 206857,
+    "idMal": 62690,
+    "title": {
+      "romaji": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku",
+      "english": null,
+      "native": "おしり前マン～復活のおしり前帝国～ ",
+      "userPreferred": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206857-as3nDbOyIu7t.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206857-as3nDbOyIu7t.png",
+      "color": "#e4a15d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1773932400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   }
 ]
