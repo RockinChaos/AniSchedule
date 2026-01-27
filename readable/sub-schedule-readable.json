@@ -2415,6 +2415,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 176509,
+    "idMal": 58573,
+    "title": {
+      "romaji": "BAKI-DOU",
+      "english": "BAKI-DOU: The Invincible Samurai",
+      "native": "刃牙道",
+      "userPreferred": "BAKI-DOU: The Invincible Samurai"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176509-GRUa4fzyAM9u.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176509-GRUa4fzyAM9u.jpg",
+      "color": "#d61a1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772031600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 177132,
     "idMal": 58735,
     "title": {
