@@ -2629,10 +2629,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769526000
-        },
-        {
           "episode": 5,
           "airingAt": 1770130800
         },
@@ -3457,10 +3453,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769522400
-        },
-        {
           "episode": 5,
           "airingAt": 1770127200
         },
@@ -3520,10 +3512,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769531340
-        },
         {
           "episode": 5,
           "airingAt": 1770136140
@@ -5124,10 +5112,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769522400
-        },
-        {
           "episode": 5,
           "airingAt": 1770127200
         },
@@ -6439,10 +6423,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769524200
-        },
-        {
           "episode": 5,
           "airingAt": 1770129000
         },
@@ -6850,10 +6830,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769522400
-        },
         {
           "episode": 5,
           "airingAt": 1770127200
@@ -8548,39 +8524,6 @@
         {
           "episode": 25,
           "airingAt": 1784417400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 203127,
-    "idMal": null,
-    "title": {
-      "romaji": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus",
-      "english": null,
-      "native": "プリンセス・プリンシパル Crown Handler 第4章「Fabulous Platypus」",
-      "userPreferred": "Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus"
-    },
-    "format": "OVA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 6,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203127-cJqnhI0w5WEk.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203127-cJqnhI0w5WEk.png",
-      "color": "#e4c986"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1769526000
         }
       ]
     },
