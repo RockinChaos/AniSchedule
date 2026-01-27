@@ -6593,10 +6593,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1769518800
-        },
-        {
           "episode": 6,
           "airingAt": 1770123600
         },
@@ -9626,6 +9622,72 @@
         {
           "episode": 1,
           "airingAt": 1773932400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206915,
+    "idMal": null,
+    "title": {
+      "romaji": "Kegareboshi Murasaki",
+      "english": null,
+      "native": "ケガレボシ 紫",
+      "userPreferred": "Kegareboshi Murasaki"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206915-e41ZMPyvF3RA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206915-e41ZMPyvF3RA.png",
+      "color": "#f1785d"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206916,
+    "idMal": null,
+    "title": {
+      "romaji": "Kegareboshi Kuro",
+      "english": null,
+      "native": "ケガレボシ 黒",
+      "userPreferred": "Kegareboshi Kuro"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206916-fXU6ZIYPO4Q5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206916-fXU6ZIYPO4Q5.png",
+      "color": "#f150a1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774537200
         }
       ]
     },
