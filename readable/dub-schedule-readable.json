@@ -65,8 +65,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedFrom": "0001-01-01T13:00:00Z",
-    "delayedUntil": "0001-01-01T13:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-01-28T13:00:00Z",
+    "delayedUntil": "2026-02-04T13:00:00Z",
     "episodeDate": "2026-01-28T13:00:00Z",
     "episodeNumber": 2,
     "episodes": 12,
@@ -106,7 +107,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
+              "episode": 2,
               "airingAt": "2026-02-04T13:00:00Z"
             }
           ]
@@ -2536,8 +2537,9 @@
     "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "english": "Jack-of-All-Trades, Party of None",
     "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-01-28T15:00:00Z",
+    "delayedUntil": "2026-02-04T15:00:00Z",
     "episodeDate": "2026-01-28T15:00:00Z",
     "episodeNumber": 3,
     "lengthMin": 23,
@@ -2576,7 +2578,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
+              "episode": 3,
               "airingAt": "2026-02-04T15:00:00Z"
             }
           ]
