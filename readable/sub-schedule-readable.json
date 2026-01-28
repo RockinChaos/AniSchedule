@@ -3134,7 +3134,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 102,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182317-zzpOnAECrM2o.png",
@@ -5362,38 +5362,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 188529,
-    "idMal": 61254,
-    "title": {
-      "romaji": "Ugoku! Neko Mukashi Banashi",
-      "english": "Cat Tales",
-      "native": "うごく！ねこむかしばなし",
-      "userPreferred": "Cat Tales"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188529-6o9byjahRpEx.jpg",
-      "color": "#e46b5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1769598000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 188753,
     "idMal": 61297,
     "title": {
@@ -5857,10 +5825,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769605200
-        },
-        {
           "episode": 5,
           "airingAt": 1770210000
         },
@@ -6057,10 +6021,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769603400
-        },
         {
           "episode": 5,
           "airingAt": 1770208200
@@ -6755,10 +6715,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 17,
-          "airingAt": 1769597940
-        },
         {
           "episode": 18,
           "airingAt": 1770202740
