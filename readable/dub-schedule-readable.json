@@ -175,6 +175,61 @@
     "addedAt": "2026-01-25T19:36:49Z"
   },
   {
+    "title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+    "route": "aldnoah-zero-ame-no-danshou-the-penultimate-truth",
+    "romaji": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+    "english": "Aldnoah.Zero: Fragment of Rain - The Penultimate Truth",
+    "native": "アルドノア・ゼロ EP24.5:雨の断章 -The Penultimate Truth-",
+    "delayedFrom": "0001-01-01T23:00:00Z",
+    "delayedUntil": "0001-01-01T23:00:00Z",
+    "episodeDate": "2026-01-27T23:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181440,
+        "idMal": 59843,
+        "title": {
+          "romaji": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
+          "english": null,
+          "native": "アルドノア・ゼロ 雨の断章 -The Penultimate Truth-",
+          "userPreferred": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth"
+        },
+        "format": "OVA",
+        "genres": [
+          "Sci-Fi"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181440-YfrrFmLHwFBR.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181440-YfrrFmLHwFBR.jpg",
+          "color": "#e4a15d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-01-27T23:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-01-28T07:19:10Z"
+  },
+  {
     "title": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
     "route": "arisugawa-ren-tte-honto-wa-onna-nanda-yo-ne",
     "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
@@ -297,6 +352,7 @@
     "episodeDate": "2026-02-19T00:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
+    "lengthMin": 105,
     "mediaTypes": [
       {
         "name": "Movie",
