@@ -576,10 +576,12 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-07T15:00:00Z",
     "episodeDate": "2026-01-31T15:00:00Z",
-    "episodeNumber": 2,
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -617,7 +619,11 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-31T15:00:00Z"
+              "airingAt": "2026-02-07T15:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-02-07T15:00:00Z"
             }
           ]
         },
@@ -694,7 +700,8 @@
     "delayedFrom": "2026-01-29T17:00:00Z",
     "delayedUntil": "2026-02-05T17:00:00Z",
     "episodeDate": "2026-01-29T17:00:00Z",
-    "episodeNumber": 2,
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -732,6 +739,10 @@
           "nodes": [
             {
               "episode": 2,
+              "airingAt": "2026-02-05T17:00:00Z"
+            },
+            {
+              "episode": 3,
               "airingAt": "2026-02-05T17:00:00Z"
             }
           ]
@@ -1038,10 +1049,11 @@
     "romaji": "Golden Kamuy: Saishuushou",
     "english": "Golden Kamuy Final Season",
     "native": "ゴールデンカムイ 最終章",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-01-26T14:30:00Z",
-    "episodeNumber": 2,
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-02-02T14:30:00Z",
+    "delayedUntil": "2026-02-09T14:30:00Z",
+    "episodeDate": "2026-02-02T14:30:00Z",
+    "episodeNumber": 3,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1080,7 +1092,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2026-02-02T14:30:00Z"
+              "airingAt": "2026-02-09T14:30:00Z"
             }
           ]
         },
@@ -1271,8 +1283,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-01-31T15:30:00Z",
+    "delayedUntil": "2026-02-07T15:30:00Z",
     "episodeDate": "2026-01-31T15:30:00Z",
     "episodeNumber": 2,
     "episodes": 13,
@@ -1315,7 +1328,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-31T15:30:00Z"
+              "airingAt": "2026-02-07T15:30:00Z"
             }
           ]
         },
@@ -1845,10 +1858,11 @@
     "romaji": "Osananajimi to wa Love Comedy ni Naranai",
     "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
     "native": "幼馴染とはラブコメにならない",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-01-26T15:30:00Z",
-    "episodeNumber": 2,
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-02-02T15:30:00Z",
+    "delayedUntil": "2026-02-09T15:30:00Z",
+    "episodeDate": "2026-02-02T15:30:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1886,7 +1900,7 @@
           "nodes": [
             {
               "episode": 3,
-              "airingAt": "2026-02-02T15:30:00Z"
+              "airingAt": "2026-02-09T15:30:00Z"
             }
           ]
         },
@@ -2073,6 +2087,64 @@
     "addedAt": "2025-11-19T17:00:00Z"
   },
   {
+    "title": "Sousou no Frieren 2nd Season",
+    "route": "sousou-no-frieren-2nd-season",
+    "romaji": "Sousou no Frieren 2nd Season",
+    "english": "Frieren: Beyond Journey's End 2nd Season",
+    "native": "葬送のフリーレン 第2期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-02-06T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 10,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182255,
+        "idMal": 59978,
+        "title": {
+          "romaji": "Sousou no Frieren 2nd Season",
+          "english": "Frieren: Beyond Journey’s End Season 2",
+          "native": "葬送のフリーレン 第2期",
+          "userPreferred": "Frieren: Beyond Journey’s End Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182255-butzrqd4I0aC.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182255-butzrqd4I0aC.jpg",
+          "color": "#5dc9f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-02-06T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-02-06T15:00:00Z"
+  },
+  {
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "route": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
     "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
@@ -2191,10 +2263,11 @@
   {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-01-31T15:00:00Z",
-    "episodeNumber": 2,
+    "delayedFrom": "2026-01-31T15:00:00Z",
+    "delayedUntil": "2026-02-05T15:00:00Z",
+    "episodeDate": "2026-02-05T15:00:00Z",
+    "episodeNumber": 3,
+    "subtractedEpisodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2234,7 +2307,11 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-01-31T15:00:00Z"
+              "airingAt": "2026-02-05T15:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-02-05T15:00:00Z"
             }
           ]
         },
