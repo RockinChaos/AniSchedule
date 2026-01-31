@@ -524,6 +524,7 @@ export async function updateDubFeed(optSchedule) {
                 let ignoreCorrection = false
                 let correctedDate = -1
                 let usePredict = false
+                let ignored = true
                 let zeroIndexDate
                 mediaEpisodes.forEach((episode, index) => {
                     const prevDate = episode.episode.airedAt
@@ -537,11 +538,16 @@ export async function updateDubFeed(optSchedule) {
                         zeroIndexDate = episode.episode.aired === entry.episodeNumber || (entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber)) ? new Date(entry.episodeDate) : weeksDifference(entry.delayedFrom, past(new Date(), 0, true)) <= 1 ? new Date(entry.delayedFrom) : predictDate
                         usePredict = past(new Date(predictDate), 0, true) === past(new Date(zeroIndexDate), 0, true)
                     }
-                    episode.episode.airedAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
-                    changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt}`)
-                    console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
-                    modifiedEpisodes.push(episode)
+                    const newAiredAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
+                    if (episode.episode.airedAt !== newAiredAt) {
+                        episode.episode.airedAt = newAiredAt
+                        changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt}`)
+                        console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed with aired date from ${prevDate} to ${episode.episode.airedAt}`)
+                        modifiedEpisodes.push(episode)
+                        ignored = false
+                    }
                 })
+                if (ignored) console.log(`Skipped modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed... nothing has changed.`)
             } else if (isInDSTTransition) { // dst is active, and likely it was recent... only adjust the latest episode SINCE DST was active.
                 const latestEpisode = mediaEpisodes[0]
                 if (latestEpisode) {
