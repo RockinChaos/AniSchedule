@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2817,
-          "airingAt": 1769938200
-        },
-        {
           "episode": 2818,
           "airingAt": 1770543000
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2841,
           "airingAt": 1784453400
+        },
+        {
+          "episode": 2842,
+          "airingAt": 1785058200
         }
       ]
     },
@@ -673,10 +673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 351,
-          "airingAt": 1769936400
-        },
         {
           "episode": 352,
           "airingAt": 1770541200
@@ -2103,10 +2099,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 17,
-          "airingAt": 1769932800
-        },
-        {
           "episode": 18,
           "airingAt": 1770537600
         },
@@ -2471,10 +2463,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1769949000
-        },
         {
           "episode": 7,
           "airingAt": 1770553800
@@ -3250,10 +3238,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1769934600
-        },
-        {
           "episode": 5,
           "airingAt": 1770539400
         },
@@ -3594,10 +3578,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769932800
-        },
         {
           "episode": 5,
           "airingAt": 1770537600
@@ -4229,10 +4209,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1769950800
-        },
         {
           "episode": 7,
           "airingAt": 1770555600
@@ -5743,10 +5719,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1769931000
-        },
         {
           "episode": 5,
           "airingAt": 1770535800
@@ -7869,12 +7841,12 @@
       "Mahou Shoujo",
       "Mystery"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202957-GsMaw8TNPyhZ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-GsMaw8TNPyhZ.jpg",
-      "color": "#f1c943"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202957-fxZGgJTvwXzP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202957-fxZGgJTvwXzP.jpg",
+      "color": "#d6ae1a"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
