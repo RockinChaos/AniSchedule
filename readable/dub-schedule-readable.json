@@ -5,10 +5,9 @@
     "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
     "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-01-29T16:00:00Z",
     "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-01-29T16:00:00Z",
+    "episodeDate": "2026-02-05T16:00:00Z",
     "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
@@ -66,10 +65,9 @@
     "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
     "english": "An Adventurer's Daily Grind at Age 29",
     "native": "29歳独身中堅冒険者の日常",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-01-28T13:00:00Z",
     "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-01-28T13:00:00Z",
+    "episodeDate": "2026-02-04T13:00:00Z",
     "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
@@ -127,8 +125,8 @@
     "native": "悪役令嬢は隣国の王太子に溺愛される",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-02-01T14:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-08T14:30:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -175,61 +173,6 @@
     },
     "verified": false,
     "addedAt": "2026-01-25T19:36:49Z"
-  },
-  {
-    "title": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
-    "route": "aldnoah-zero-ame-no-danshou-the-penultimate-truth",
-    "romaji": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
-    "english": "Aldnoah.Zero: Fragment of Rain - The Penultimate Truth",
-    "native": "アルドノア・ゼロ EP24.5:雨の断章 -The Penultimate Truth-",
-    "delayedFrom": "0001-01-01T23:00:00Z",
-    "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2026-01-27T23:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "mediaTypes": [
-      {
-        "name": "OVA",
-        "route": "ova"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 181440,
-        "idMal": 59843,
-        "title": {
-          "romaji": "Aldnoah.Zero: Ame no Danshou - The Penultimate Truth",
-          "english": "ALDNOAH.ZERO: The Penultimate Truth",
-          "native": "アルドノア・ゼロ 雨の断章 -The Penultimate Truth-",
-          "userPreferred": "ALDNOAH.ZERO: The Penultimate Truth"
-        },
-        "format": "OVA",
-        "genres": [
-          "Sci-Fi"
-        ],
-        "duration": 23,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181440-YfrrFmLHwFBR.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181440-YfrrFmLHwFBR.jpg",
-          "color": "#e4a15d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-01-27T23:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-01-28T07:19:10Z"
   },
   {
     "title": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
@@ -393,8 +336,8 @@
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
     "delayedUntil": "0001-01-01T22:45:00Z",
-    "episodeDate": "2026-01-31T22:45:00Z",
-    "episodeNumber": 78,
+    "episodeDate": "2026-02-07T22:45:00Z",
+    "episodeNumber": 79,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -501,64 +444,6 @@
     "addedAt": "2026-02-19T00:00:00Z"
   },
   {
-    "title": "Cat's♥Eye (2025)",
-    "route": "cats-eye-2025",
-    "native": "キャッツ❤︎アイ",
-    "delayedFrom": "2025-11-07T08:00:00Z",
-    "delayedUntil": "2025-12-26T08:00:00Z",
-    "episodeDate": "2026-01-30T08:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 184718,
-        "idMal": 60347,
-        "title": {
-          "romaji": "Cat's♥Eye (2025)",
-          "english": "Cat's Eye (2025)",
-          "native": "キャッツ♥アイ (2025)",
-          "userPreferred": "Cat's Eye (2025)"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Mystery",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184718-GvNnorokj1i3.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184718-GvNnorokj1i3.jpg",
-          "color": "#5086e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184718-BvX97zaGTgOT.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-01-30T08:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-09-25T15:00:00Z"
-  },
-  {
     "title": "Dark Moon: Tsuki no Saidan",
     "route": "dark-moon-tsuki-no-saidan",
     "romaji": "Dark Moon: Tsuki no Saidan",
@@ -566,8 +451,8 @@
     "native": "DARK MOON　-黒の月: 月の祭壇-",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-01-30T16:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-06T16:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -622,8 +507,8 @@
     "native": "ダーウィン事変",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-01-27T15:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-03T15:30:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -675,10 +560,9 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-01-31T15:00:00Z",
     "delayedUntil": "2026-02-07T15:00:00Z",
-    "episodeDate": "2026-01-31T15:00:00Z",
+    "episodeDate": "2026-02-07T15:00:00Z",
     "episodeNumber": 3,
     "subtractedEpisodeNumber": 2,
     "episodes": 12,
@@ -733,108 +617,14 @@
     "addedAt": "2026-01-24T19:10:24Z"
   },
   {
-    "title": "Digimon BeatBreak",
-    "route": "digimon-beatbreak",
-    "native": "デジモンビートブレイク",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T03:00:00Z",
-    "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2026-02-01T03:00:00Z",
-    "episodeNumber": 10,
-    "subtractedEpisodeNumber": 6,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188388,
-        "idMal": 61269,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK",
-          "english": "DIGIMON BEATBREAK",
-          "native": "DIGIMON BEATBREAK",
-          "userPreferred": "DIGIMON BEATBREAK"
-        },
-        "format": "TV",
-        "genres": [
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-          "color": "#fec928"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 6,
-              "airingAt": "2026-02-01T03:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2026-02-01T03:00:00Z"
-            },
-            {
-              "episode": 8,
-              "airingAt": "2026-02-01T03:00:00Z"
-            },
-            {
-              "episode": 9,
-              "airingAt": "2026-02-01T03:00:00Z"
-            },
-            {
-              "episode": 10,
-              "airingAt": "2026-02-01T03:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2026-02-08T03:00:00Z"
-            },
-            {
-              "episode": 12,
-              "airingAt": "2026-02-08T03:00:00Z"
-            },
-            {
-              "episode": 13,
-              "airingAt": "2026-02-08T03:00:00Z"
-            },
-            {
-              "episode": 14,
-              "airingAt": "2026-02-08T03:00:00Z"
-            },
-            {
-              "episode": 15,
-              "airingAt": "2026-02-08T03:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-12-27T22:00:00Z"
-  },
-  {
     "title": "Douse, Koishite Shimaunda. 2nd Season",
     "route": "douse-koishite-shimaunda-2nd-season",
     "romaji": "Douse, Koishite Shimaunda. 2nd Season",
     "english": "Anyway, I'm Falling in Love with You. 2nd Season",
     "native": "どうせ、恋してしまうんだ。2nd Season",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-01-29T17:00:00Z",
     "delayedUntil": "2026-02-05T17:00:00Z",
-    "episodeDate": "2026-01-29T17:00:00Z",
+    "episodeDate": "2026-02-05T17:00:00Z",
     "episodeNumber": 3,
     "subtractedEpisodeNumber": 2,
     "episodes": 12,
@@ -954,8 +744,8 @@
     "native": "炎炎ノ消防隊 参ノ章",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2026-01-30T17:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-06T17:30:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1010,8 +800,8 @@
     "route": "fate-strange-fake",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-01-31T16:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-02-07T16:00:00Z",
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1068,10 +858,11 @@
     "romaji": "Fumetsu no Anata e 3",
     "english": "To Your Eternity 3",
     "native": "不滅のあなたへ3",
+    "delayedText": "Delayed",
     "delayedFrom": "2026-02-07T15:45:00Z",
     "delayedUntil": "2026-02-28T15:45:00Z",
-    "episodeDate": "2026-01-31T15:45:00Z",
-    "episodeNumber": 16,
+    "episodeDate": "2026-02-07T15:45:00Z",
+    "episodeNumber": 17,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1111,7 +902,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
+              "episode": 17,
               "airingAt": "2026-02-28T15:45:00Z"
             }
           ]
@@ -1128,8 +919,8 @@
     "native": "グノーシア",
     "delayedFrom": "2026-01-24T16:30:00Z",
     "delayedUntil": "2026-01-31T16:30:00Z",
-    "episodeDate": "2026-01-31T16:30:00Z",
-    "episodeNumber": 13,
+    "episodeDate": "2026-02-07T16:30:00Z",
+    "episodeNumber": 14,
     "lengthMin": 25,
     "mediaTypes": [
       {
@@ -1245,8 +1036,8 @@
     "native": "花ざかりの君たちへ",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-02-01T14:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-02-08T14:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1361,8 +1152,8 @@
     "native": "地獄楽 第二期",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2026-02-01T15:15:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-08T15:15:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1418,10 +1209,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-01-31T15:30:00Z",
     "delayedUntil": "2026-02-07T15:30:00Z",
-    "episodeDate": "2026-01-31T15:30:00Z",
+    "episodeDate": "2026-02-07T15:30:00Z",
     "episodeNumber": 2,
     "episodes": 13,
     "lengthMin": 24,
@@ -1481,8 +1271,8 @@
     "native": "呪術廻戦 死滅回游 前編",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-01-29T16:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-02-05T16:30:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1539,8 +1329,8 @@
     "native": "カヤちゃんはコワくない",
     "delayedFrom": "0001-01-01T09:00:00Z",
     "delayedUntil": "0001-01-01T09:00:00Z",
-    "episodeDate": "2026-02-01T09:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-08T09:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1590,64 +1380,6 @@
     "addedAt": "2026-01-11T17:11:04Z"
   },
   {
-    "title": "Kimi to Koete Koi ni Naru",
-    "route": "kimi-to-koete-koi-ni-naru",
-    "romaji": "Kimi to Koete Koi ni Naru",
-    "english": "With You, Our Love Will Make It Through",
-    "native": "キミと越えて恋になる",
-    "delayedFrom": "2025-12-23T15:00:00Z",
-    "delayedUntil": "2026-01-06T15:00:00Z",
-    "episodeDate": "2026-01-27T15:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 186161,
-        "idMal": 60765,
-        "title": {
-          "romaji": "Kimi to Koete Koi ni Naru",
-          "english": "With You, Our Love Will Make It Through",
-          "native": "キミと越えて恋になる",
-          "userPreferred": "With You, Our Love Will Make It Through"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186161-YijWl9vZKmFI.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-YijWl9vZKmFI.jpg",
-          "color": "#43bbf1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-01-27T15:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-28T19:02:11Z"
-  },
-  {
     "title": "Mayonaka Heart Tune",
     "route": "mayonaka-heart-tune",
     "romaji": "Mayonaka Heart Tune",
@@ -1655,8 +1387,8 @@
     "native": "真夜中ハートチューン",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-01-27T14:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-03T14:00:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1710,8 +1442,8 @@
     "native": "メダリスト 第2期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-31T17:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-07T17:00:00Z",
+    "episodeNumber": 3,
     "episodes": 9,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1766,8 +1498,8 @@
     "native": "MFゴースト 3rd Season",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-01-29T14:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-05T14:30:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1822,8 +1554,8 @@
     "native": "嘆きの亡霊は引退したい 第2クール",
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2026-01-31T23:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-02-07T23:00:00Z",
+    "episodeNumber": 10,
     "episodes": 11,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1878,8 +1610,8 @@
     "native": "ぬきたし THE ANIMATION",
     "delayedFrom": "0001-01-01T18:00:00Z",
     "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2026-01-28T18:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-02-04T18:00:00Z",
+    "episodeNumber": 8,
     "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1936,8 +1668,8 @@
     "native": "ワンパンマン３",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2026-02-01T15:15:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-02-08T15:15:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2053,8 +1785,8 @@
     "native": "正反対な君と僕",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2026-02-01T08:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-08T08:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2112,8 +1844,8 @@
     "native": "死亡遊戯で飯を食う。",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-01-28T15:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-04T15:30:00Z",
+    "episodeNumber": 5,
     "episodes": 11,
     "lengthMin": 25,
     "mediaTypes": [
@@ -2171,8 +1903,8 @@
     "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します!",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-28T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-02-04T17:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2287,8 +2019,8 @@
     "native": "東島丹三郎は仮面ライダーになりたい",
     "delayedFrom": "2025-12-27T17:00:00Z",
     "delayedUntil": "2026-01-10T17:00:00Z",
-    "episodeDate": "2026-01-31T17:00:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2026-02-07T17:00:00Z",
+    "episodeNumber": 16,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2344,8 +2076,8 @@
     "native": "永久のユウグレ",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-01-28T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-02-04T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2464,8 +2196,8 @@
     "native": "うるわしの宵の月",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-02-01T08:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-08T08:00:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2520,8 +2252,8 @@
     "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-01-26T14:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-02T14:00:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2579,8 +2311,8 @@
     "native": "仙王的日常生活 第五季",
     "delayedFrom": "0001-01-01T22:30:00Z",
     "delayedUntil": "0001-01-01T22:30:00Z",
-    "episodeDate": "2026-01-31T22:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-02-07T22:30:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 18,
     "mediaTypes": [
@@ -2694,8 +2426,8 @@
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
     "delayedFrom": "2026-01-08T14:00:00Z",
     "delayedUntil": "2026-01-15T14:00:00Z",
-    "episodeDate": "2026-01-29T14:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-02-05T14:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 25,
     "mediaTypes": [
@@ -2751,10 +2483,9 @@
     "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
     "english": "Jack-of-All-Trades, Party of None",
     "native": "勇者パーティを追い出された器用貧乏",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-01-28T15:00:00Z",
     "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-01-28T15:00:00Z",
+    "episodeDate": "2026-02-04T15:00:00Z",
     "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
