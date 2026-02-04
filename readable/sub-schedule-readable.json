@@ -5410,10 +5410,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1770210000
-        },
-        {
           "episode": 6,
           "airingAt": 1770814800
         },
@@ -5598,10 +5594,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770208200
-        },
         {
           "episode": 6,
           "airingAt": 1770813000
@@ -6229,10 +6221,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1770202740
-        },
-        {
           "episode": 19,
           "airingAt": 1770807540
         },
@@ -6619,6 +6607,42 @@
         {
           "episode": 52,
           "airingAt": 1785031200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 196722,
+    "idMal": 62315,
+    "title": {
+      "romaji": "Reika wa Karei na Boku no Joou THE ANIMATION",
+      "english": null,
+      "native": "レイカは華麗な僕の女王 THE ANIMATION",
+      "userPreferred": "Reika wa Karei na Boku no Joou THE ANIMATION"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 20,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196722-mpsggThw5jFv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196722-mpsggThw5jFv.png",
+      "color": "#5093e4"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1776956400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1779980400
         }
       ]
     },
@@ -8036,35 +8060,35 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
+          "episode": 6,
           "airingAt": 1770674400
         },
         {
-          "episode": 6,
+          "episode": 7,
           "airingAt": 1771279200
         },
         {
-          "episode": 7,
+          "episode": 8,
           "airingAt": 1771884000
         },
         {
-          "episode": 8,
+          "episode": 9,
           "airingAt": 1773093600
         },
         {
-          "episode": 9,
+          "episode": 10,
           "airingAt": 1773698400
         },
         {
-          "episode": 10,
+          "episode": 11,
           "airingAt": 1774303200
         },
         {
-          "episode": 11,
+          "episode": 12,
           "airingAt": 1774908000
         },
         {
-          "episode": 12,
+          "episode": 13,
           "airingAt": 1775512800
         }
       ]
