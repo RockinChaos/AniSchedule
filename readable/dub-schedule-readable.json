@@ -48,15 +48,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-02-05T16:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-02-12T16:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T16:00:00Z"
   },
   {
@@ -1308,15 +1308,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-02-05T16:30:00Z"
+              "episode": 5,
+              "airingAt": "2026-02-12T16:30:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-01-22T16:30:00Z"
   },
   {
