@@ -2018,10 +2018,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1770298200
-        },
-        {
           "episode": 6,
           "airingAt": 1770903000
         },
@@ -2125,10 +2121,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770305160
-        },
-        {
           "episode": 7,
           "airingAt": 1770909960
         },
@@ -2185,10 +2177,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770300000
-        },
         {
           "episode": 6,
           "airingAt": 1770904800
@@ -3128,10 +3116,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1770303360
-        },
-        {
           "episode": 6,
           "airingAt": 1770908160
         },
@@ -3585,10 +3569,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1770301800
-        },
-        {
           "episode": 6,
           "airingAt": 1770906600
         },
@@ -3772,10 +3752,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770310680
-        },
-        {
           "episode": 7,
           "airingAt": 1770915480
         },
@@ -3933,10 +3909,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770301800
-        },
-        {
           "episode": 7,
           "airingAt": 1770906600
         },
@@ -4087,10 +4059,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 43,
-          "airingAt": 1770310680
-        },
         {
           "episode": 44,
           "airingAt": 1770915480
@@ -5022,38 +4990,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 188928,
-    "idMal": 62406,
-    "title": {
-      "romaji": "Natsu to Hako",
-      "english": null,
-      "native": "夏と箱",
-      "userPreferred": "Natsu to Hako"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188928-qzOaoEWGmpIA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188928-qzOaoEWGmpIA.png",
-      "color": "#e4865d"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1770303600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 189137,
     "idMal": 61325,
     "title": {
@@ -5078,10 +5014,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770308880
-        },
         {
           "episode": 6,
           "airingAt": 1770913680
@@ -5449,10 +5381,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770305400
-        },
         {
           "episode": 6,
           "airingAt": 1770910200
@@ -6847,38 +6775,6 @@
         {
           "episode": 20,
           "airingAt": 1772198520
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 198344,
-    "idMal": 62537,
-    "title": {
-      "romaji": "Mesu wo Karu Mura",
-      "english": null,
-      "native": "牝を狩る村",
-      "userPreferred": "Mesu wo Karu Mura"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198344-LVBMXsAdeHU5.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198344-LVBMXsAdeHU5.png",
-      "color": "#e45d5d"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1770303600
         }
       ]
     },
@@ -8544,42 +8440,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 204949,
-    "idMal": 62518,
-    "title": {
-      "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
-      "english": null,
-      "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-      "userPreferred": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-aLHdk5zHtnXv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-aLHdk5zHtnXv.jpg",
-      "color": "#1a6b50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1770303600
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
