@@ -157,103 +157,103 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1323,
+          "episode": 1322,
           "airingAt": 1771054200
         },
         {
-          "episode": 1324,
+          "episode": 1323,
           "airingAt": 1771659000
         },
         {
-          "episode": 1325,
+          "episode": 1324,
           "airingAt": 1772263800
         },
         {
-          "episode": 1326,
+          "episode": 1325,
           "airingAt": 1772868600
         },
         {
-          "episode": 1327,
+          "episode": 1326,
           "airingAt": 1773473400
         },
         {
-          "episode": 1328,
+          "episode": 1327,
           "airingAt": 1774078200
         },
         {
-          "episode": 1329,
+          "episode": 1328,
           "airingAt": 1774683000
         },
         {
-          "episode": 1330,
+          "episode": 1329,
           "airingAt": 1775287800
         },
         {
-          "episode": 1331,
+          "episode": 1330,
           "airingAt": 1775892600
         },
         {
-          "episode": 1332,
+          "episode": 1331,
           "airingAt": 1776497400
         },
         {
-          "episode": 1333,
+          "episode": 1332,
           "airingAt": 1777102200
         },
         {
-          "episode": 1334,
+          "episode": 1333,
           "airingAt": 1777707000
         },
         {
-          "episode": 1335,
+          "episode": 1334,
           "airingAt": 1778311800
         },
         {
-          "episode": 1336,
+          "episode": 1335,
           "airingAt": 1778916600
         },
         {
-          "episode": 1337,
+          "episode": 1336,
           "airingAt": 1779521400
         },
         {
-          "episode": 1338,
+          "episode": 1337,
           "airingAt": 1780126200
         },
         {
-          "episode": 1339,
+          "episode": 1338,
           "airingAt": 1780731000
         },
         {
-          "episode": 1340,
+          "episode": 1339,
           "airingAt": 1781335800
         },
         {
-          "episode": 1341,
+          "episode": 1340,
           "airingAt": 1781940600
         },
         {
-          "episode": 1342,
+          "episode": 1341,
           "airingAt": 1782545400
         },
         {
-          "episode": 1343,
+          "episode": 1342,
           "airingAt": 1783150200
         },
         {
-          "episode": 1344,
+          "episode": 1343,
           "airingAt": 1783755000
         },
         {
-          "episode": 1345,
+          "episode": 1344,
           "airingAt": 1784359800
         },
         {
-          "episode": 1346,
+          "episode": 1345,
           "airingAt": 1784964600
         },
         {
-          "episode": 1347,
+          "episode": 1346,
           "airingAt": 1785569400
         }
       ]
@@ -1871,10 +1871,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1770561840
-        },
-        {
           "episode": 6,
           "airingAt": 1771166640
         },
@@ -2332,10 +2328,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1770562800
-        },
         {
           "episode": 7,
           "airingAt": 1771167600
@@ -3920,10 +3912,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770562800
-        },
-        {
           "episode": 7,
           "airingAt": 1771167600
         },
@@ -4156,10 +4144,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770561000
-        },
         {
           "episode": 6,
           "airingAt": 1771165800
@@ -4873,6 +4857,70 @@
     "zeroEpisode": false
   },
   {
+    "id": 188529,
+    "idMal": 61254,
+    "title": {
+      "romaji": "Ugoku! Neko Mukashi Banashi",
+      "english": "Cat Tales",
+      "native": "うごく！ねこむかしばなし",
+      "userPreferred": "Cat Tales"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188529-6o9byjahRpEx.jpg",
+      "color": "#e46b5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 18,
+          "airingAt": 1770807600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1771412400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1772017200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1772622000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1773226800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1773831600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1774436400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1775041200
+        },
+        {
+          "episode": 26,
+          "airingAt": 1775646000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 189137,
     "idMal": 61325,
     "title": {
@@ -5003,10 +5051,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770566400
-        },
         {
           "episode": 6,
           "airingAt": 1771171200
@@ -6108,10 +6152,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1770559200
-        },
-        {
           "episode": 6,
           "airingAt": 1771164000
         },
@@ -6534,10 +6574,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770564600
-        },
-        {
           "episode": 7,
           "airingAt": 1771169400
         },
@@ -6930,10 +6966,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1770566700
-        },
         {
           "episode": 7,
           "airingAt": 1771171500
@@ -7928,10 +7960,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1770571200
-        },
         {
           "episode": 6,
           "airingAt": 1771176000
