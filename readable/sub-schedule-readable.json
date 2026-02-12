@@ -2069,10 +2069,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1770910560
-        },
-        {
           "episode": 8,
           "airingAt": 1772119560
         },
@@ -2125,10 +2121,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1770904800
-        },
         {
           "episode": 7,
           "airingAt": 1771509600
@@ -2241,7 +2233,7 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1772031600
+          "airingAt": 1772092800
         }
       ]
     },
@@ -2844,41 +2836,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 182317,
-    "idMal": 59985,
-    "title": {
-      "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
-      "english": "The Dangers in My Heart: The Movie",
-      "native": "劇場版 僕の心のヤバイやつ",
-      "userPreferred": "The Dangers in My Heart: The Movie"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 102,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182317-zzpOnAECrM2o.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182317-zzpOnAECrM2o.png",
-      "color": "#ae5de4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1770908400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 182587,
     "idMal": 60058,
     "title": {
@@ -3015,10 +2972,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1770908160
-        },
         {
           "episode": 7,
           "airingAt": 1771512960
@@ -3445,10 +3398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770906600
-        },
-        {
           "episode": 7,
           "airingAt": 1771511400
         },
@@ -3620,10 +3569,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1770915480
-        },
-        {
           "episode": 8,
           "airingAt": 1771520280
         },
@@ -3769,10 +3714,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1770906600
-        },
-        {
           "episode": 8,
           "airingAt": 1771511400
         },
@@ -3911,10 +3852,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 44,
-          "airingAt": 1770915480
-        },
         {
           "episode": 45,
           "airingAt": 1771520280
@@ -4336,7 +4273,7 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1772809200
+          "airingAt": 1772870400
         }
       ]
     },
@@ -4922,10 +4859,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1770913680
-        },
-        {
           "episode": 7,
           "airingAt": 1771518480
         },
@@ -5268,10 +5201,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1770910200
-        },
         {
           "episode": 7,
           "airingAt": 1771515000
@@ -6436,41 +6365,6 @@
         {
           "episode": 1,
           "airingAt": 1773327600
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 197474,
-    "idMal": 62277,
-    "title": {
-      "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
-      "english": null,
-      "native": "新劇場版 銀魂 -吉原大炎上-",
-      "userPreferred": "Shin Gintama Movie: Yoshiwara Daienjou"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-jTeY1G9gtD8i.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197474-jTeY1G9gtD8i.jpg",
-      "color": "#f1781a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197474-dcJmLSLc3g10.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1770908400
         }
       ]
     },
@@ -7680,6 +7574,39 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203367,
+    "idMal": 63074,
+    "title": {
+      "romaji": "Mou Ichido, Shitemitai.",
+      "english": null,
+      "native": "もう一度、してみたい。",
+      "userPreferred": "Mou Ichido, Shitemitai."
+    },
+    "format": null,
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203367-4TejHeBRRVYu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203367-4TejHeBRRVYu.png",
+      "color": "#f18600"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772118000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
