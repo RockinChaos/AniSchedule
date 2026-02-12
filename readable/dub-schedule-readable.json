@@ -344,6 +344,60 @@
     "addedAt": "2026-02-26T08:00:00Z"
   },
   {
+    "title": "BEASTARS FINAL SEASON Part 2",
+    "route": "beastars-final-season-part-2",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-03-07T08:00:00Z",
+    "episodeNumber": 0,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 187267,
+        "idMal": 61114,
+        "title": {
+          "romaji": "BEASTARS FINAL SEASON Part 2",
+          "english": "BEASTARS Final Season Part 2",
+          "native": "BEASTARS FINAL SEASON Part 2",
+          "userPreferred": "BEASTARS Final Season Part 2"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Psychological",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-39FEmVe4zkZC.png",
+          "color": "#e48650"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 0,
+              "airingAt": "2026-03-07T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-07T08:00:00Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedFrom": "0001-01-01T22:45:00Z",
