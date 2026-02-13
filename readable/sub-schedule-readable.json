@@ -1385,10 +1385,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 127,
-          "airingAt": 1770976500
-        },
-        {
           "episode": 128,
           "airingAt": 1771581300
         },
@@ -1483,6 +1479,10 @@
         {
           "episode": 151,
           "airingAt": 1785491700
+        },
+        {
+          "episode": 152,
+          "airingAt": 1786096500
         }
       ]
     },
@@ -1662,10 +1662,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 116,
-          "airingAt": 1770974700
-        },
-        {
           "episode": 117,
           "airingAt": 1771579500
         },
@@ -1760,6 +1756,10 @@
         {
           "episode": 140,
           "airingAt": 1785489900
+        },
+        {
+          "episode": 141,
+          "airingAt": 1786094700
         }
       ]
     },
@@ -4388,10 +4388,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1770980400
-        },
-        {
           "episode": 3,
           "airingAt": 1771585200
         },
@@ -5863,58 +5859,6 @@
         {
           "episode": 4,
           "airingAt": 1774537200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 195383,
-    "idMal": 61924,
-    "title": {
-      "romaji": "MUZIK TIGER In the Forest 2",
-      "english": null,
-      "native": "MUZIK TIGER In the Forest 第2期 ",
-      "userPreferred": "MUZIK TIGER In the Forest 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195383-v8nJ26HD0Lcd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195383-v8nJ26HD0Lcd.png",
-      "color": "#f1a135"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1771412340
-        },
-        {
-          "episode": 21,
-          "airingAt": 1772017140
-        },
-        {
-          "episode": 22,
-          "airingAt": 1772621940
-        },
-        {
-          "episode": 23,
-          "airingAt": 1773226740
-        },
-        {
-          "episode": 24,
-          "airingAt": 1773831540
-        },
-        {
-          "episode": 25,
-          "airingAt": 1774436340
         }
       ]
     },
