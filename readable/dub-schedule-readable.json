@@ -1568,8 +1568,9 @@
     "title": "Medalist 2nd Season",
     "route": "medalist-2nd-season",
     "native": "メダリスト 第2期",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-02-14T17:00:00Z",
+    "delayedUntil": "2026-02-21T17:00:00Z",
     "episodeDate": "2026-02-14T17:00:00Z",
     "episodeNumber": 4,
     "episodes": 9,
@@ -1609,7 +1610,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
+              "episode": 4,
               "airingAt": "2026-02-21T17:00:00Z"
             }
           ]
