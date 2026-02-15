@@ -1116,10 +1116,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 355,
-          "airingAt": 1771120800
-        },
-        {
           "episode": 356,
           "airingAt": 1771293600
         },
@@ -1214,6 +1210,10 @@
         {
           "episode": 379,
           "airingAt": 1778378400
+        },
+        {
+          "episode": 380,
+          "airingAt": 1778551200
         }
       ]
     },
@@ -2361,10 +2361,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 42,
-          "airingAt": 1771113600
-        },
-        {
           "episode": 43,
           "airingAt": 1771718400
         },
@@ -3118,10 +3114,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 45,
-          "airingAt": 1771115400
-        },
-        {
           "episode": 46,
           "airingAt": 1771720200
         },
@@ -3259,61 +3251,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185116,
-    "idMal": 60427,
-    "title": {
-      "romaji": "Gnosia",
-      "english": "GNOSIA",
-      "native": "グノーシア",
-      "userPreferred": "GNOSIA"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
-      "color": "#43aee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1771686000
-        },
-        {
-          "episode": 20,
-          "airingAt": 1772290800
-        },
-        {
-          "episode": 21,
-          "airingAt": 1772895600
-        },
-        {
-          "episode": 22,
-          "airingAt": 1773500400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1774105200
-        },
-        {
-          "episode": 24,
-          "airingAt": 1774710000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185262,
     "idMal": 60460,
     "title": {
@@ -3442,10 +3379,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 46,
-          "airingAt": 1771111680
-        },
-        {
           "episode": 47,
           "airingAt": 1771716480
         },
@@ -3489,10 +3422,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 45,
-          "airingAt": 1771107360
-        },
         {
           "episode": 46,
           "airingAt": 1771712160
@@ -3587,10 +3516,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1771124400
-        },
         {
           "episode": 12,
           "airingAt": 1771729200
@@ -4546,10 +4471,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1771113600
-        },
         {
           "episode": 20,
           "airingAt": 1771718400
@@ -5839,10 +5760,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1771111800
-        },
-        {
           "episode": 9,
           "airingAt": 1773531000
         },
@@ -5888,10 +5805,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196553-RfPJobQ0VMkf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1771115400
-        },
         {
           "episode": 20,
           "airingAt": 1771720200
@@ -5942,10 +5855,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 29,
-          "airingAt": 1771120800
-        },
         {
           "episode": 30,
           "airingAt": 1771725600
@@ -7072,10 +6981,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1771111800
-        },
-        {
           "episode": 4,
           "airingAt": 1771716600
         },
@@ -7170,6 +7075,10 @@
         {
           "episode": 27,
           "airingAt": 1785627000
+        },
+        {
+          "episode": 28,
+          "airingAt": 1786231800
         }
       ]
     },
@@ -7996,10 +7905,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1771120800
-        },
         {
           "episode": 9,
           "airingAt": 1771725600
