@@ -1735,6 +1735,57 @@
     "addedAt": "2025-12-06T23:00:00Z"
   },
   {
+    "title": "Niwatori Fighter",
+    "route": "niwatori-fighter",
+    "romaji": "Niwatori Fighter",
+    "english": "Rooster Fighter",
+    "native": "ニワトリ・ファイター",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-03-15T04:00:00Z",
+    "episodeNumber": 1,
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 179813,
+        "idMal": 59393,
+        "title": {
+          "romaji": "Niwatori Fighter",
+          "english": "Rooster Fighter",
+          "native": "ニワトリ・ファイター",
+          "userPreferred": "Rooster Fighter"
+        },
+        "format": null,
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-JL2TJQ5HXTSE.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-JL2TJQ5HXTSE.jpg",
+          "color": "#ffa143"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-03-15T04:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-15T04:00:00Z"
+  },
+  {
     "title": "Nukitashi THE ANIMATION",
     "route": "nukitashi-the-animation",
     "native": "ぬきたし THE ANIMATION",
