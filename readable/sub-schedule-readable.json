@@ -848,10 +848,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 318,
-          "airingAt": 1771281600
-        },
-        {
           "episode": 319,
           "airingAt": 1771540800
         },
@@ -1108,10 +1104,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 356,
-          "airingAt": 1771293600
-        },
-        {
           "episode": 357,
           "airingAt": 1771725600
         },
@@ -1206,6 +1198,10 @@
         {
           "episode": 380,
           "airingAt": 1778551200
+        },
+        {
+          "episode": 381,
+          "airingAt": 1778983200
         }
       ]
     },
@@ -4399,6 +4395,7 @@
     },
     "format": "TV",
     "genres": [
+      "Action",
       "Adventure",
       "Fantasy",
       "Sci-Fi"
@@ -7191,10 +7188,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771279200
-        },
         {
           "episode": 8,
           "airingAt": 1771884000
