@@ -2263,10 +2263,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1771426800
-        },
-        {
           "episode": 9,
           "airingAt": 1772031600
         },
@@ -2491,10 +2487,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1771425000
-        },
-        {
           "episode": 8,
           "airingAt": 1772029800
         },
@@ -2680,10 +2672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1771423200
-        },
-        {
           "episode": 7,
           "airingAt": 1772028000
         },
@@ -2733,10 +2721,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182771-93HQnmbLFYbE.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771426800
-        },
         {
           "episode": 8,
           "airingAt": 1772031600
@@ -3917,10 +3901,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1771426800
-        },
-        {
           "episode": 9,
           "airingAt": 1772031600
         },
@@ -4938,10 +4918,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771425960
-        },
         {
           "episode": 8,
           "airingAt": 1772030760
@@ -7871,6 +7847,37 @@
         {
           "episode": 1,
           "airingAt": 1773932400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206889,
+    "idMal": 63411,
+    "title": {
+      "romaji": "Fukufuku no Chizu",
+      "english": null,
+      "native": "ふくふくの地図",
+      "userPreferred": "Fukufuku no Chizu"
+    },
+    "format": "SPECIAL",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206889-tFp183WYntKw.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206889-tFp183WYntKw.jpg",
+      "color": "#e48650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772636400
         }
       ]
     },
