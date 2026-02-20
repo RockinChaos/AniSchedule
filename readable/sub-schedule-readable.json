@@ -1026,6 +1026,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 144779,
+    "idMal": 50855,
+    "title": {
+      "romaji": "Yamato yo Towa ni: REBEL3199",
+      "english": "Star Blazers: Space Battleship Yamato 3199",
+      "native": "ヤマトよ永遠に REBEL3199",
+      "userPreferred": "Star Blazers: Space Battleship Yamato 3199"
+    },
+    "format": "OVA",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": 24,
+    "seasonYear": 2024,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx144779-WJ8aJbYk3o5t.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx144779-WJ8aJbYk3o5t.png",
+      "color": "#4386f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 19,
+          "airingAt": 1782399600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 155723,
     "idMal": null,
     "title": {
@@ -1181,10 +1214,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 128,
-          "airingAt": 1771581300
-        },
-        {
           "episode": 129,
           "airingAt": 1772186100
         },
@@ -1279,6 +1308,10 @@
         {
           "episode": 152,
           "airingAt": 1786096500
+        },
+        {
+          "episode": 153,
+          "airingAt": 1786701300
         }
       ]
     },
@@ -1454,10 +1487,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 117,
-          "airingAt": 1771579500
-        },
-        {
           "episode": 118,
           "airingAt": 1772184300
         },
@@ -1552,6 +1581,10 @@
         {
           "episode": 141,
           "airingAt": 1786094700
+        },
+        {
+          "episode": 142,
+          "airingAt": 1786699500
         }
       ]
     },
@@ -1886,7 +1919,7 @@
       "color": "#f1505d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176276-ES97CHqKSrLg.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3954,10 +3987,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1771585200
-        },
         {
           "episode": 4,
           "airingAt": 1772190000
