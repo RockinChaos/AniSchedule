@@ -1556,10 +1556,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1771682400
-        },
-        {
           "episode": 8,
           "airingAt": 1772287200
         },
@@ -1850,10 +1846,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1771684200
-        },
         {
           "episode": 9,
           "airingAt": 1772289000
@@ -3245,6 +3237,49 @@
     "zeroEpisode": false
   },
   {
+    "id": 185116,
+    "idMal": 60427,
+    "title": {
+      "romaji": "Gnosia",
+      "english": "GNOSIA",
+      "native": "グノーシア",
+      "userPreferred": "GNOSIA"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "duration": 25,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
+      "color": "#43aee4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 19,
+          "airingAt": 1772290800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1772895600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1773500400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 185262,
     "idMal": 60460,
     "title": {
@@ -4042,10 +4077,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1771687800
-        },
-        {
           "episode": 21,
           "airingAt": 1772292600
         },
@@ -4123,10 +4154,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771684200
-        },
         {
           "episode": 8,
           "airingAt": 1772289000
@@ -4278,10 +4305,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771689360
-        },
         {
           "episode": 8,
           "airingAt": 1772294160
@@ -4687,10 +4710,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1771691400
-        },
         {
           "episode": 6,
           "airingAt": 1772296200
@@ -6148,10 +6167,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1771686000
-        },
-        {
           "episode": 8,
           "airingAt": 1772290800
         },
@@ -7296,10 +7311,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1771686000
-        },
         {
           "episode": 20,
           "airingAt": 1772290800
