@@ -1,5 +1,136 @@
 [
   {
+    "id": 235,
+    "idMal": 235,
+    "title": {
+      "romaji": "Meitantei Conan",
+      "english": "Case Closed",
+      "native": "名探偵コナン",
+      "userPreferred": "Case Closed"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": 25,
+    "seasonYear": 1996,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg",
+      "color": "#28a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1192,
+          "airingAt": 1772874000
+        },
+        {
+          "episode": 1193,
+          "airingAt": 1773478800
+        },
+        {
+          "episode": 1194,
+          "airingAt": 1774083600
+        },
+        {
+          "episode": 1195,
+          "airingAt": 1774688400
+        },
+        {
+          "episode": 1196,
+          "airingAt": 1775293200
+        },
+        {
+          "episode": 1197,
+          "airingAt": 1775898000
+        },
+        {
+          "episode": 1198,
+          "airingAt": 1776502800
+        },
+        {
+          "episode": 1199,
+          "airingAt": 1777107600
+        },
+        {
+          "episode": 1200,
+          "airingAt": 1777712400
+        },
+        {
+          "episode": 1201,
+          "airingAt": 1778317200
+        },
+        {
+          "episode": 1202,
+          "airingAt": 1778922000
+        },
+        {
+          "episode": 1203,
+          "airingAt": 1779526800
+        },
+        {
+          "episode": 1204,
+          "airingAt": 1780131600
+        },
+        {
+          "episode": 1205,
+          "airingAt": 1780736400
+        },
+        {
+          "episode": 1206,
+          "airingAt": 1781341200
+        },
+        {
+          "episode": 1207,
+          "airingAt": 1781946000
+        },
+        {
+          "episode": 1208,
+          "airingAt": 1782550800
+        },
+        {
+          "episode": 1209,
+          "airingAt": 1783155600
+        },
+        {
+          "episode": 1210,
+          "airingAt": 1783760400
+        },
+        {
+          "episode": 1211,
+          "airingAt": 1784365200
+        },
+        {
+          "episode": 1212,
+          "airingAt": 1784970000
+        },
+        {
+          "episode": 1213,
+          "airingAt": 1785574800
+        },
+        {
+          "episode": 1214,
+          "airingAt": 1786179600
+        },
+        {
+          "episode": 1215,
+          "airingAt": 1786784400
+        },
+        {
+          "episode": 1216,
+          "airingAt": 1787389200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 966,
     "idMal": 966,
     "title": {
@@ -25,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1323,
-          "airingAt": 1771659000
-        },
         {
           "episode": 1324,
           "airingAt": 1772263800
@@ -124,6 +251,10 @@
         {
           "episode": 1347,
           "airingAt": 1786174200
+        },
+        {
+          "episode": 1348,
+          "airingAt": 1786779000
         }
       ]
     },
@@ -413,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 903,
-          "airingAt": 1771660800
-        },
-        {
           "episode": 904,
           "airingAt": 1772265600
         },
@@ -511,6 +638,10 @@
         {
           "episode": 927,
           "airingAt": 1786176000
+        },
+        {
+          "episode": 928,
+          "airingAt": 1786780800
         }
       ]
     },
@@ -3545,10 +3676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 16,
-          "airingAt": 1771665900
-        },
-        {
           "episode": 17,
           "airingAt": 1772270700
         },
@@ -4051,10 +4178,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1771677000
-        },
-        {
           "episode": 8,
           "airingAt": 1772281800
         },
@@ -4484,10 +4607,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1771662600
-        },
         {
           "episode": 10,
           "airingAt": 1772267400
@@ -6304,10 +6423,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1771678800
-        },
-        {
           "episode": 9,
           "airingAt": 1772283600
         },
@@ -6546,10 +6661,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771677000
-        },
         {
           "episode": 8,
           "airingAt": 1772281800
