@@ -1491,8 +1491,9 @@
     "title": "Medalist 2nd Season",
     "route": "medalist-2nd-season",
     "native": "メダリスト 第2期",
+    "delayedText": "Delayed",
     "delayedFrom": "2026-02-14T17:00:00Z",
-    "delayedUntil": "2026-02-21T17:00:00Z",
+    "delayedUntil": "2032-01-01T17:00:00Z",
     "episodeDate": "2026-02-21T17:00:00Z",
     "episodeNumber": 4,
     "episodes": 9,
@@ -1503,6 +1504,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -1532,8 +1534,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-02-28T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2032-01-01T17:00:00Z"
             }
           ]
         },
