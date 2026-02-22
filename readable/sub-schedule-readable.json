@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2820,
-          "airingAt": 1771752600
-        },
-        {
           "episode": 2821,
           "airingAt": 1772357400
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2844,
           "airingAt": 1786267800
+        },
+        {
+          "episode": 2845,
+          "airingAt": 1786872600
         }
       ]
     },
@@ -673,10 +673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 354,
-          "airingAt": 1771750800
-        },
         {
           "episode": 355,
           "airingAt": 1772355600
@@ -1947,10 +1943,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1771747200
-        },
-        {
           "episode": 21,
           "airingAt": 1772352000
         }
@@ -2259,10 +2251,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1771763400
-        },
         {
           "episode": 10,
           "airingAt": 1772368200
@@ -2871,10 +2859,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1771749000
-        },
-        {
           "episode": 8,
           "airingAt": 1772353800
         },
@@ -2992,39 +2976,6 @@
         {
           "episode": 12,
           "airingAt": 1774369740
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 184280,
-    "idMal": 60294,
-    "title": {
-      "romaji": "Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi",
-      "english": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary",
-      "native": "天穂のサクナヒメ ココロワ稲作日誌",
-      "userPreferred": "Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Action",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184280-FA1sWge8Wp5b.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184280-FA1sWge8Wp5b.jpg",
-      "color": "#e4bb0d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1771746300
         }
       ]
     },
@@ -3150,10 +3101,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771747200
-        },
         {
           "episode": 8,
           "airingAt": 1772352000
@@ -3615,10 +3562,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1771765200
-        },
         {
           "episode": 10,
           "airingAt": 1772370000
@@ -4990,10 +4933,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1771745400
-        },
         {
           "episode": 8,
           "airingAt": 1772350200
