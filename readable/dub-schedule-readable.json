@@ -1315,6 +1315,64 @@
     "addedAt": "2026-01-24T15:30:00Z"
   },
   {
+    "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run",
+    "route": "jojo-no-kimyou-na-bouken-part-7-steel-ball-run",
+    "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
+    "english": "JoJo's Bizarre Adventure: STEEL BALL RUN",
+    "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-19T07:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190327,
+        "idMal": 61469,
+        "title": {
+          "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run",
+          "english": "STEEL BALL RUN JoJo's Bizarre Adventure",
+          "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン",
+          "userPreferred": "STEEL BALL RUN JoJo's Bizarre Adventure"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-fIfMy1LTkdGP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-fIfMy1LTkdGP.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190327-bXr8tFZUdxOw.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-03-19T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-19T07:00:00Z"
+  },
+  {
     "title": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "route": "jujutsu-kaisen-shimetsu-kaiyuu",
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
