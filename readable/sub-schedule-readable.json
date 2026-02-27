@@ -2389,10 +2389,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1772211180
-        },
-        {
           "episode": 9,
           "airingAt": 1772815980
         },
@@ -2414,6 +2410,42 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 179813,
+    "idMal": 59393,
+    "title": {
+      "romaji": "Niwatori Fighter",
+      "english": "Rooster Fighter",
+      "native": "ニワトリ・ファイター",
+      "userPreferred": "Rooster Fighter"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-WQ153lF3pDH6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-WQ153lF3pDH6.jpg",
+      "color": "#e45d43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1773421200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2484,10 +2516,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1772204400
-        },
-        {
           "episode": 9,
           "airingAt": 1772809200
         },
@@ -2533,10 +2561,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1772200800
-        },
         {
           "episode": 7,
           "airingAt": 1772805600
@@ -3098,10 +3122,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772210100
-        },
         {
           "episode": 9,
           "airingAt": 1772814900
@@ -4723,41 +4743,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 192867,
-    "idMal": 61694,
-    "title": {
-      "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??",
-      "english": "Does it Count if You Lose Your Innocence to an Android?",
-      "native": "アンドロイドは経験人数に入りますか？？",
-      "userPreferred": "Does it Count if You Lose Your Innocence to an Android?"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance",
-      "Sci-Fi"
-    ],
-    "duration": 5,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192867-AXAu2LP7YA7Y.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192867-AXAu2LP7YA7Y.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192867-r3UitttEQv8C.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772208000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 193883,
     "idMal": 61765,
     "title": {
@@ -5581,10 +5566,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1772198520
-        },
-        {
           "episode": 21,
           "airingAt": 1772803320
         },
@@ -6086,10 +6067,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772202600
-        },
         {
           "episode": 9,
           "airingAt": 1772807400
@@ -7340,6 +7317,37 @@
         {
           "episode": 1,
           "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 208370,
+    "idMal": null,
+    "title": {
+      "romaji": "Chatter Chatter",
+      "english": null,
+      "native": "Chatter Chatter",
+      "userPreferred": "Chatter Chatter"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208370-LbL9h5DqyI3F.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208370-LbL9h5DqyI3F.png",
+      "color": "#e450c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772284560
         }
       ]
     },
