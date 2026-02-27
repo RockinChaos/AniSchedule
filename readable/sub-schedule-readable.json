@@ -414,10 +414,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 645,
-          "airingAt": 1772143800
-        },
-        {
           "episode": 646,
           "airingAt": 1772748600
         },
@@ -512,6 +508,10 @@
         {
           "episode": 669,
           "airingAt": 1786659000
+        },
+        {
+          "episode": 670,
+          "airingAt": 1787263800
         }
       ]
     },
@@ -958,10 +958,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 321,
-          "airingAt": 1772145600
-        },
         {
           "episode": 322,
           "airingAt": 1772491200
