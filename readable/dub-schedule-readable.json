@@ -1468,8 +1468,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-03-01T09:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-03-08T09:00:00Z"
             }
           ]
         },
@@ -2024,8 +2024,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-03-01T08:30:00Z"
+              "episode": 9,
+              "airingAt": "2026-03-08T08:30:00Z"
             }
           ]
         },
@@ -2209,6 +2209,64 @@
     },
     "verified": false,
     "addedAt": "2026-03-18T16:00:00Z"
+  },
+  {
+    "title": "Tenshi no Tamago",
+    "route": "tenshi-no-tamago",
+    "romaji": "Tenshi no Tamago",
+    "english": "Angel's Egg",
+    "native": "天使のたまご",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-03-01T08:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 71,
+    "mediaTypes": [
+      {
+        "name": "OVA",
+        "route": "ova"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 885,
+        "idMal": 885,
+        "title": {
+          "romaji": "Tenshi no Tamago",
+          "english": "Angel's Egg",
+          "native": "天使のたまご",
+          "userPreferred": "Angel's Egg"
+        },
+        "format": "OVA",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Psychological"
+        ],
+        "duration": 71,
+        "seasonYear": 1985,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx885-UqlerD6tJKxs.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx885-UqlerD6tJKxs.png",
+          "color": "#f1c9ae"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/885-T7WYeSNHEile.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-03-01T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-01T09:20:50Z"
   },
   {
     "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
