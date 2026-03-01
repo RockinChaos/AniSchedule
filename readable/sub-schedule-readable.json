@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2821,
-          "airingAt": 1772357400
-        },
-        {
           "episode": 2822,
           "airingAt": 1772962200
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2845,
           "airingAt": 1786872600
+        },
+        {
+          "episode": 2846,
+          "airingAt": 1787477400
         }
       ]
     },
@@ -673,10 +673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 355,
-          "airingAt": 1772355600
-        },
         {
           "episode": 356,
           "airingAt": 1772960400
@@ -1520,7 +1516,7 @@
       "color": "#e4bb50"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-uEb9basY0kUb.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -1870,39 +1866,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 170018,
-    "idMal": 56877,
-    "title": {
-      "romaji": "Ao no Orchestra Season 2",
-      "english": "Blue Orchestra Season 2",
-      "native": "青のオーケストラ Season2",
-      "userPreferred": "Blue Orchestra Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170018-1PqdLX68YayA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170018-1PqdLX68YayA.jpg",
-      "color": "#35aef1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1772352000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 172463,
     "idMal": 57658,
     "title": {
@@ -2153,10 +2116,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1772368200
-        },
         {
           "episode": 11,
           "airingAt": 1772973000
@@ -2725,10 +2684,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1772353800
-        },
-        {
           "episode": 9,
           "airingAt": 1772958600
         },
@@ -2951,10 +2906,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772352000
-        },
         {
           "episode": 9,
           "airingAt": 1772956800
@@ -3376,10 +3327,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1772370000
-        },
         {
           "episode": 11,
           "airingAt": 1772974800
@@ -4085,15 +4032,15 @@
       "nodes": [
         {
           "episode": 22,
-          "airingAt": 1772928000
-        },
-        {
-          "episode": 23,
           "airingAt": 1773532800
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1774137600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1774742400
         }
       ]
     },
@@ -4605,10 +4552,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772350200
-        },
         {
           "episode": 9,
           "airingAt": 1772955000
