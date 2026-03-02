@@ -336,7 +336,7 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-03-07T08:00:00Z",
-    "episodeNumber": 0,
+    "episodeNumber": 1,
     "mediaTypes": [
       {
         "name": "ONA",
@@ -373,7 +373,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 0,
+              "episode": 1,
               "airingAt": "2026-03-07T08:00:00Z"
             }
           ]
@@ -1814,6 +1814,108 @@
     },
     "verified": true,
     "addedAt": "2025-12-17T21:47:31Z"
+  },
+  {
+    "title": "One Piece",
+    "route": "one-piece",
+    "native": "ワンピース",
+    "delayedFrom": "0001-01-01T20:00:00Z",
+    "delayedUntil": "0001-01-01T20:00:00Z",
+    "episodeDate": "2026-03-24T20:00:00Z",
+    "episodeNumber": 1155,
+    "subtractedEpisodeNumber": 1144,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 21,
+        "idMal": 21,
+        "title": {
+          "romaji": "ONE PIECE",
+          "english": "ONE PIECE",
+          "native": "ONE PIECE",
+          "userPreferred": "ONE PIECE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 1999,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
+          "color": "#e49335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1144,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1145,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1146,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1147,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1148,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1149,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1150,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1151,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1152,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1153,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1154,
+              "airingAt": "2026-03-24T20:00:00Z"
+            },
+            {
+              "episode": 1155,
+              "airingAt": "2026-03-24T20:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-02T01:14:17Z"
   },
   {
     "title": "Osananajimi to wa Love Comedy ni Naranai",
