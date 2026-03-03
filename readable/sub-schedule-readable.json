@@ -781,6 +781,65 @@
     "zeroEpisode": false
   },
   {
+    "id": 137662,
+    "idMal": 62927,
+    "title": {
+      "romaji": "Fangkai Nage Nüwu",
+      "english": "Release that Witch",
+      "native": "放开那个女巫",
+      "userPreferred": "Release that Witch"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 22,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137662-iZigHTc71wi7.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137662-iZigHTc71wi7.png",
+      "color": "#e4a128"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1773079200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1773684000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1774288800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1774893600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1775498400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1776103200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1776708000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 137671,
     "idMal": 51289,
     "title": {
@@ -946,10 +1005,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 322,
-          "airingAt": 1772491200
-        },
         {
           "episode": 323,
           "airingAt": 1772750400
@@ -1171,10 +1226,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 360,
-          "airingAt": 1772503200
-        },
-        {
           "episode": 361,
           "airingAt": 1772935200
         },
@@ -1269,6 +1320,10 @@
         {
           "episode": 384,
           "airingAt": 1779760800
+        },
+        {
+          "episode": 385,
+          "airingAt": 1780192800
         }
       ]
     },
@@ -7061,10 +7116,10 @@
     "id": 208517,
     "idMal": 63330,
     "title": {
-      "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka?? ONA",
+      "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??: 5-kakan Tsuzukete......?",
       "english": null,
-      "native": "アンドロイドは経験人数に入りますか？？ ONA",
-      "userPreferred": "Android wa Keiken Ninzuu ni Hairimasu ka?? ONA"
+      "native": "アンドロイドは経験人数に入りますか？？ 5日間続けて……？",
+      "userPreferred": "Android wa Keiken Ninzuu ni Hairimasu ka??: 5-kakan Tsuzukete......?"
     },
     "format": "ONA",
     "genres": [
