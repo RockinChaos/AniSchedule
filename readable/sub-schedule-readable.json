@@ -4871,10 +4871,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1772542800
-        },
-        {
           "episode": 11,
           "airingAt": 1773147600
         },
@@ -7142,6 +7138,37 @@
         {
           "episode": 1,
           "airingAt": 1772812800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 208551,
+    "idMal": null,
+    "title": {
+      "romaji": "Fashion Beat",
+      "english": null,
+      "native": "ファッションビート",
+      "userPreferred": "Fashion Beat"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208551-nvLDdaR7B7Rj.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208551-nvLDdaR7B7Rj.png",
+      "color": "#e450bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1772716020
         }
       ]
     },
