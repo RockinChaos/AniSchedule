@@ -1271,8 +1271,9 @@
     "romaji": "Jujutsu Kaisen Shimetsu Kaiyuu - Zenpen",
     "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
     "native": "呪術廻戦 死滅回游 前編",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-05T16:30:00Z",
+    "delayedUntil": "2026-03-12T16:30:00Z",
     "episodeDate": "2026-03-05T16:30:00Z",
     "episodeNumber": 8,
     "episodes": 12,
@@ -1312,7 +1313,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
+              "episode": 8,
               "airingAt": "2026-03-12T16:30:00Z"
             }
           ]
