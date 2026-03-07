@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1192,
-          "airingAt": 1772874000
-        },
-        {
           "episode": 1193,
           "airingAt": 1773478800
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1216,
           "airingAt": 1787389200
+        },
+        {
+          "episode": 1217,
+          "airingAt": 1787994000
         }
       ]
     },
@@ -156,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1325,
-          "airingAt": 1772868600
-        },
         {
           "episode": 1326,
           "airingAt": 1773473400
@@ -255,6 +251,10 @@
         {
           "episode": 1349,
           "airingAt": 1787383800
+        },
+        {
+          "episode": 1350,
+          "airingAt": 1787988600
         }
       ]
     },
@@ -544,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 905,
-          "airingAt": 1772870400
-        },
-        {
           "episode": 906,
           "airingAt": 1773475200
         },
@@ -642,6 +638,10 @@
         {
           "episode": 929,
           "airingAt": 1787385600
+        },
+        {
+          "episode": 930,
+          "airingAt": 1787990400
         }
       ]
     },
@@ -3270,10 +3270,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1772875500
-        },
-        {
           "episode": 19,
           "airingAt": 1773480300
         },
@@ -3522,42 +3518,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187267,
-    "idMal": 61114,
-    "title": {
-      "romaji": "BEASTARS FINAL SEASON Part 2",
-      "english": "BEASTARS Final Season Part 2",
-      "native": "BEASTARS FINAL SEASON Part 2",
-      "userPreferred": "BEASTARS Final Season Part 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Psychological",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-39FEmVe4zkZC.png",
-      "color": "#e48650"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1772870400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 187375,
     "idMal": 61156,
     "title": {
@@ -3702,10 +3662,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1772886600
-        },
         {
           "episode": 10,
           "airingAt": 1773491400
@@ -4047,10 +4003,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1772872200
-        },
         {
           "episode": 12,
           "airingAt": 1773477000
@@ -5507,10 +5459,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1772888400
-        },
-        {
           "episode": 11,
           "airingAt": 1773493200
         },
@@ -5754,10 +5702,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1772886600
-        },
         {
           "episode": 10,
           "airingAt": 1773491400
