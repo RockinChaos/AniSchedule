@@ -269,9 +269,9 @@
         "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-39FEmVe4zkZC.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-39FEmVe4zkZC.png",
-          "color": "#e48650"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187267-clvlTabOPdPo.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187267-clvlTabOPdPo.jpg",
+          "color": "#e4935d"
         },
         "isAdult": false,
         "bannerImage": null,
@@ -554,6 +554,80 @@
     },
     "verified": true,
     "addedAt": "2026-01-24T19:10:24Z"
+  },
+  {
+    "title": "Digimon BeatBreak",
+    "route": "digimon-beatbreak",
+    "native": "デジモンビートブレイク",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-03-08T03:00:00Z",
+    "episodeNumber": 15,
+    "subtractedEpisodeNumber": 11,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188388,
+        "idMal": 61269,
+        "title": {
+          "romaji": "DIGIMON BEATBREAK",
+          "english": "DIGIMON BEATBREAK",
+          "native": "DIGIMON BEATBREAK",
+          "userPreferred": "DIGIMON BEATBREAK"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
+          "color": "#fec928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 11,
+              "airingAt": "2026-03-08T03:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-03-08T03:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-03-08T03:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-03-08T03:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2026-03-08T03:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-07T21:13:13Z"
   },
   {
     "title": "Douse, Koishite Shimaunda. 2nd Season",
