@@ -1910,8 +1910,9 @@
     "romaji": "Seihantai na Kimi to Boku",
     "english": "You and I Are Polar Opposites",
     "native": "正反対な君と僕",
-    "delayedFrom": "0001-01-01T08:30:00Z",
-    "delayedUntil": "0001-01-01T08:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-03-08T08:30:00Z",
+    "delayedUntil": "2026-03-15T08:30:00Z",
     "episodeDate": "2026-03-08T08:30:00Z",
     "episodeNumber": 9,
     "episodes": 12,
@@ -1952,7 +1953,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 9,
               "airingAt": "2026-03-15T08:30:00Z"
             }
           ]
