@@ -1766,10 +1766,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1772981040
-        },
-        {
           "episode": 10,
           "airingAt": 1773585840
         },
@@ -2029,10 +2025,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177385-lzz3yIhQhQdB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1772982000
-        },
         {
           "episode": 11,
           "airingAt": 1773586800
@@ -3143,10 +3135,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1772982000
-        },
-        {
           "episode": 11,
           "airingAt": 1773586800
         },
@@ -3315,10 +3303,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772980200
-        },
         {
           "episode": 9,
           "airingAt": 1773585000
@@ -3983,40 +3967,6 @@
         {
           "episode": 12,
           "airingAt": 1773477000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 189259,
-    "idMal": 63096,
-    "title": {
-      "romaji": "Arisugawa Ren tte Honto wa Onna Nanda yo ne.",
-      "english": "Ren Arisugawa Is Actually a Girl",
-      "native": "有栖川煉ってホントは女なんだよね。",
-      "userPreferred": "Ren Arisugawa Is Actually a Girl"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Hentai"
-    ],
-    "duration": 7,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189259-vXGvEI1QcJS0.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189259-vXGvEI1QcJS0.png",
-      "color": "#ffd693"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1772985600
         }
       ]
     },
@@ -4780,10 +4730,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1772978400
-        },
-        {
           "episode": 10,
           "airingAt": 1773583200
         },
@@ -5087,10 +5033,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1772983800
-        },
-        {
           "episode": 11,
           "airingAt": 1773588600
         },
@@ -5323,8 +5265,12 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1772985900
+          "episode": 11,
+          "airingAt": 1773590700
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774195500
         }
       ]
     },
@@ -6206,10 +6152,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1772990400
-        },
         {
           "episode": 10,
           "airingAt": 1773595200
