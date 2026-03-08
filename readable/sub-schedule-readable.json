@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2822,
-          "airingAt": 1772962200
-        },
-        {
           "episode": 2823,
           "airingAt": 1773567000
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2846,
           "airingAt": 1787477400
+        },
+        {
+          "episode": 2847,
+          "airingAt": 1788082200
         }
       ]
     },
@@ -673,10 +673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 356,
-          "airingAt": 1772960400
-        },
         {
           "episode": 357,
           "airingAt": 1773565200
@@ -2081,10 +2077,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1772973000
-        },
-        {
           "episode": 12,
           "airingAt": 1773577800
         }
@@ -2329,6 +2321,47 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 180082,
+    "idMal": 59517,
+    "title": {
+      "romaji": "Chitose-kun wa Ramune Bin no Naka",
+      "english": "Chitose Is in the Ramune Bottle",
+      "native": "千歳くんはラムネ瓶のなか",
+      "userPreferred": "Chitose Is in the Ramune Bottle"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180082-IZAlf06G2VVm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180082-IZAlf06G2VVm.png",
+      "color": "#43aeff"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180082-EoMpR2lHsD73.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1774881000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1774947600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774949400
+        }
+      ]
+    },
     "zeroEpisode": false
   },
   {
@@ -2608,10 +2641,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1772958600
-        },
-        {
           "episode": 10,
           "airingAt": 1773563400
         },
@@ -2814,10 +2843,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1772956800
-        },
         {
           "episode": 10,
           "airingAt": 1773561600
@@ -3199,10 +3224,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1772974800
-        },
         {
           "episode": 12,
           "airingAt": 1773579600
@@ -4312,10 +4333,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1772955000
-        },
         {
           "episode": 10,
           "airingAt": 1773559800
