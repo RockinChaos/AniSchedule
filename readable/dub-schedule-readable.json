@@ -1466,6 +1466,62 @@
     "addedAt": "2026-01-11T17:11:04Z"
   },
   {
+    "title": "Koori no Jouheki",
+    "route": "koori-no-jouheki",
+    "romaji": "Koori no Jouheki",
+    "english": "The Ramparts of Ice",
+    "native": "氷の城壁",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-04-02T15:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 186497,
+        "idMal": 60852,
+        "title": {
+          "romaji": "Koori no Jouheki",
+          "english": "The Ramparts of Ice",
+          "native": "氷の城壁",
+          "userPreferred": "The Ramparts of Ice"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186497-uwPrNPphXvjP.jpg",
+          "color": "#e49343"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-02T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-02T15:30:00Z"
+  },
+  {
     "title": "Mato Seihei no Slave 2nd Season",
     "route": "mato-seihei-no-slave-2nd-season",
     "romaji": "Mato Seihei no Slave 2nd Season",
@@ -1693,6 +1749,60 @@
     },
     "verified": true,
     "addedAt": "2026-01-23T00:59:19Z"
+  },
+  {
+    "title": "Nippon Sangoku",
+    "route": "nippon-sangoku",
+    "native": "日本三國",
+    "delayedFrom": "0001-01-01T12:00:00Z",
+    "delayedUntil": "0001-01-01T12:00:00Z",
+    "episodeDate": "2026-04-05T12:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 206914,
+        "idMal": 63375,
+        "title": {
+          "romaji": "Nippon Sangoku",
+          "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+          "native": "日本三國",
+          "userPreferred": "NIPPON SANGOKU: The Three Nations of the Crimson Sun"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
+          "color": "#fec90d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-05T12:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-05T12:00:00Z"
   },
   {
     "title": "Niwatori Fighter",
