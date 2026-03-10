@@ -1444,64 +1444,6 @@
     "addedAt": "2026-01-20T14:00:00Z"
   },
   {
-    "title": "Medalist 2nd Season",
-    "route": "medalist-2nd-season",
-    "native": "メダリスト 第2期",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-02-28T17:00:00Z",
-    "delayedUntil": "2032-01-01T17:00:00Z",
-    "episodeDate": "2026-03-07T17:00:00Z",
-    "episodeNumber": 5,
-    "episodes": 9,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "delayedIndefinitely": true,
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 189275,
-        "idMal": 61335,
-        "title": {
-          "romaji": "Medalist 2nd Season",
-          "english": "Medalist Season 2",
-          "native": "メダリスト 第2期",
-          "userPreferred": "Medalist Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sports"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-          "color": "#50a1e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 5,
-              "airingAt": "2032-01-01T17:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-24T23:12:26Z"
-  },
-  {
     "title": "MF Ghost 3rd Season",
     "route": "mf-ghost-3rd-season",
     "native": "MFゴースト 3rd Season",
