@@ -1560,6 +1560,12 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-03-15T04:00:00Z",
     "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
     "unaired": true,
     "media": {
       "media": {
