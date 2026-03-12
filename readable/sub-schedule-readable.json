@@ -3266,10 +3266,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1773320400
-        },
-        {
           "episode": 24,
           "airingAt": 1773925200
         },
@@ -3364,6 +3360,10 @@
         {
           "episode": 47,
           "airingAt": 1787835600
+        },
+        {
+          "episode": 48,
+          "airingAt": 1788440400
         }
       ]
     },
@@ -4386,38 +4386,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 194389,
-    "idMal": 62005,
-    "title": {
-      "romaji": "Koala Enikki",
-      "english": "Koala's Diary",
-      "native": "コアラ絵日記",
-      "userPreferred": "Koala's Diary"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194389-DAbj4TOj5GB9.png",
-      "color": "#e47843"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1773313200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 194742,
     "idMal": 61884,
     "title": {
@@ -5264,10 +5232,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1773307800
-        },
-        {
           "episode": 23,
           "airingAt": 1773912600
         },
@@ -5900,10 +5864,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1773313200
-        },
         {
           "episode": 21,
           "airingAt": 1773918000
