@@ -1802,10 +1802,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773322200
-        },
-        {
           "episode": 11,
           "airingAt": 1773927000
         },
@@ -1843,10 +1839,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773329160
-        },
         {
           "episode": 11,
           "airingAt": 1773933960
@@ -1888,10 +1880,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176276-ES97CHqKSrLg.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773324000
-        },
         {
           "episode": 11,
           "airingAt": 1773928800
@@ -2516,10 +2504,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773327360
-        },
-        {
           "episode": 11,
           "airingAt": 1773932160
         },
@@ -2795,10 +2779,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773325800
-        },
-        {
           "episode": 11,
           "airingAt": 1773930600
         },
@@ -2914,10 +2894,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773334680
-        },
-        {
           "episode": 12,
           "airingAt": 1773939480
         }
@@ -3014,12 +2990,12 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773325800
-        },
-        {
           "episode": 12,
           "airingAt": 1773930600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774535400
         }
       ]
     },
@@ -3087,10 +3063,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 48,
-          "airingAt": 1773334680
-        },
         {
           "episode": 49,
           "airingAt": 1773939480
@@ -3830,10 +3802,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773332880
-        },
-        {
           "episode": 11,
           "airingAt": 1773937680
         },
@@ -3990,6 +3958,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 190668,
+    "idMal": 61492,
+    "title": {
+      "romaji": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai",
+      "english": null,
+      "native": "えんとつ町のプペル 〜約束の時計台〜",
+      "userPreferred": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190668-8r3mK40eIm3E.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190668-8r3mK40eIm3E.png",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 191205,
     "idMal": 61549,
     "title": {
@@ -4054,10 +4055,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773329400
-        },
         {
           "episode": 11,
           "airingAt": 1773934200
@@ -4808,37 +4805,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 197097,
-    "idMal": 62193,
-    "title": {
-      "romaji": "Paris ni Saku Étoile",
-      "english": null,
-      "native": "パリに咲くエトワール",
-      "userPreferred": "Paris ni Saku Étoile"
-    },
-    "format": "MOVIE",
-    "genres": [],
-    "duration": 119,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197097-adHgYO4T73vA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197097-adHgYO4T73vA.jpg",
-      "color": "#e46b5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1773327600
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5637,39 +5603,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 203100,
-    "idMal": 63033,
-    "title": {
-      "romaji": "Himitsu no AiPri: Mankai Buzzrium Live!",
-      "english": null,
-      "native": "ひみつのアイプリ まんかいバズリウムライブ！",
-      "userPreferred": "Himitsu no AiPri: Mankai Buzzrium Live!"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Music"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203100-RBKJFcTcGS82.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203100-RBKJFcTcGS82.jpg",
-      "color": "#50bbfe"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1773327600
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
