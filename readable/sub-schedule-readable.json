@@ -1441,10 +1441,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1773499500
-        },
-        {
           "episode": 20,
           "airingAt": 1774104300
         },
@@ -1487,10 +1483,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773496800
-        },
         {
           "episode": 11,
           "airingAt": 1774101600
@@ -1746,10 +1738,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773498600
-        },
         {
           "episode": 12,
           "airingAt": 1774103400
@@ -2727,41 +2715,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185116,
-    "idMal": 60427,
-    "title": {
-      "romaji": "Gnosia",
-      "english": "GNOSIA",
-      "native": "グノーシア",
-      "userPreferred": "GNOSIA"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "duration": 25,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
-      "color": "#43aee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 21,
-          "airingAt": 1773500400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185262,
     "idMal": 60460,
     "title": {
@@ -3326,10 +3279,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1773502200
-        },
-        {
           "episode": 24,
           "airingAt": 1774107000
         }
@@ -3362,10 +3311,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773498600
-        },
         {
           "episode": 11,
           "airingAt": 1774103400
@@ -3481,10 +3426,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773503760
-        },
         {
           "episode": 11,
           "airingAt": 1774108560
@@ -3728,10 +3669,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1773505800
-        },
-        {
           "episode": 9,
           "airingAt": 1774110600
         }
@@ -3774,6 +3711,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 190143,
+    "idMal": 61443,
+    "title": {
+      "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+      "english": null,
+      "native": "春夏秋冬代行者 春の舞",
+      "userPreferred": "Shunkashuutou Daikousha: Haru no Mai"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-XJRBTaN5nlLP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-XJRBTaN5nlLP.jpg",
+      "color": "#e4865d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774710000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775314800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1775919600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776524400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777129200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1777734000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778338800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1778943600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779548400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780153200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1780758000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781362800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4798,10 +4814,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773500400
-        },
-        {
           "episode": 11,
           "airingAt": 1774105200
         },
@@ -5744,10 +5756,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1773500400
-        },
         {
           "episode": 23,
           "airingAt": 1774105200
