@@ -870,10 +870,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 144,
-          "airingAt": 1773453600
-        },
-        {
           "episode": 145,
           "airingAt": 1774058400
         },
@@ -1012,10 +1008,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 207,
-          "airingAt": 1773441000
-        },
         {
           "episode": 208,
           "airingAt": 1774045800
@@ -2604,10 +2596,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 49,
-          "airingAt": 1773439200
-        },
         {
           "episode": 50,
           "airingAt": 1774044000
@@ -4870,38 +4858,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198413,
-    "idMal": 62231,
-    "title": {
-      "romaji": "JOCHUM Season 2",
-      "english": null,
-      "native": "ジェオチャム シーズン2 ",
-      "userPreferred": "JOCHUM Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198413-IDC13Jyk0xYD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198413-IDC13Jyk0xYD.png",
-      "color": "#f1c950"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1773435600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198720,
     "idMal": 62987,
     "title": {
@@ -5563,10 +5519,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773432000
-        },
-        {
           "episode": 11,
           "airingAt": 1774036800
         },
@@ -5604,10 +5556,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1773442800
-        },
         {
           "episode": 9,
           "airingAt": 1774047600
