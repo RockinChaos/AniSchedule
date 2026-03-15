@@ -454,6 +454,63 @@
     "addedAt": "2026-01-22T17:00:00Z"
   },
   {
+    "title": "Dragon Heart: Reikai Tanbouki",
+    "route": "dragon-heart-reikai-tanbouki",
+    "romaji": "Dragon Heart: Reikai Tanbouki",
+    "english": "Dragon Heart: Adventures Beyond This World",
+    "native": "ドラゴン・ハート―霊界探訪記―",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-14T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 119,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 186935,
+        "idMal": 61077,
+        "title": {
+          "romaji": "Dragon Heart: Reikai Tanbouki",
+          "english": null,
+          "native": "ドラゴン・ハート―霊界探訪記―",
+          "userPreferred": "Dragon Heart: Reikai Tanbouki"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Fantasy",
+          "Supernatural"
+        ],
+        "duration": 119,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186935-WPDw5KNiCSGb.png",
+          "color": "#f1bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-03-14T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-03-15T06:57:42Z"
+  },
+  {
     "title": "Dungeons & Television",
     "route": "dungeons-and-television",
     "romaji": "Dungeons & Television",
@@ -1557,9 +1614,9 @@
     "romaji": "Niwatori Fighter",
     "english": "Rooster Fighter",
     "native": "ニワトリ・ファイター",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-03-15T07:00:00Z",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-03-15T04:00:00Z",
     "episodeNumber": 1,
     "mediaTypes": [
       {
@@ -1567,7 +1624,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 179813,
@@ -1597,8 +1654,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-03-15T07:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-03-22T04:00:00Z"
             }
           ]
         },
