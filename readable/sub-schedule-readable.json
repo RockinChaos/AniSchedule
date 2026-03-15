@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2823,
-          "airingAt": 1773567000
-        },
-        {
           "episode": 2824,
           "airingAt": 1774171800
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2847,
           "airingAt": 1788082200
+        },
+        {
+          "episode": 2848,
+          "airingAt": 1788687000
         }
       ]
     },
@@ -673,10 +673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 357,
-          "airingAt": 1773565200
-        },
         {
           "episode": 358,
           "airingAt": 1774170000
@@ -1951,41 +1947,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 177580,
-    "idMal": 58861,
-    "title": {
-      "romaji": "Hanazakari no Kimitachi e",
-      "english": "Hana-Kimi",
-      "native": "花ざかりの君たちへ",
-      "userPreferred": "Hana-Kimi"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177580-ujQw6Ws3oVCi.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177580-ujQw6Ws3oVCi.jpg",
-      "color": "#fff193"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1773577800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 177679,
     "idMal": 58886,
     "title": {
@@ -2466,10 +2427,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773563400
-        },
-        {
           "episode": 11,
           "airingAt": 1774168200
         },
@@ -2653,10 +2610,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773561600
-        },
-        {
           "episode": 11,
           "airingAt": 1774166400
         },
@@ -2779,6 +2732,42 @@
     "zeroEpisode": false
   },
   {
+    "id": 185646,
+    "idMal": 60534,
+    "title": {
+      "romaji": "Koupen-chan",
+      "english": null,
+      "native": "コウペンちゃん",
+      "userPreferred": "Koupen-chan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185646-2eGmsnaSHiLC.jpg",
+      "color": "#aed643"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 51,
+          "airingAt": 1774135680
+        },
+        {
+          "episode": 52,
+          "airingAt": 1774740480
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 185753,
     "idMal": 60602,
     "title": {
@@ -2878,10 +2867,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1773579600
-        },
         {
           "episode": 13,
           "airingAt": 1774184400
@@ -3965,10 +3950,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773559800
-        },
         {
           "episode": 11,
           "airingAt": 1774164600
