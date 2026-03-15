@@ -345,9 +345,9 @@
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
-    "delayedFrom": "2026-01-31T15:00:00Z",
-    "delayedUntil": "2026-02-07T15:00:00Z",
-    "episodeDate": "2026-03-14T15:00:00Z",
+    "delayedFrom": "2026-01-31T14:00:00Z",
+    "delayedUntil": "2026-02-07T14:00:00Z",
+    "episodeDate": "2026-03-14T14:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -386,7 +386,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-21T15:00:00Z"
+              "airingAt": "2026-03-21T14:00:00Z"
             }
           ]
         },
@@ -691,9 +691,10 @@
     "title": "Gnosia",
     "route": "gnosia",
     "native": "グノーシア",
-    "delayedFrom": "2026-01-24T16:30:00Z",
-    "delayedUntil": "2026-01-31T16:30:00Z",
-    "episodeDate": "2026-03-14T16:30:00Z",
+    "delayedText": "Delayed ",
+    "delayedFrom": "2026-03-14T15:30:00Z",
+    "delayedUntil": "2026-03-21T15:30:00Z",
+    "episodeDate": "2026-03-14T15:30:00Z",
     "episodeNumber": 19,
     "episodes": 21,
     "lengthMin": 25,
@@ -733,8 +734,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 20,
-              "airingAt": "2026-03-21T16:30:00Z"
+              "episode": 19,
+              "airingAt": "2026-03-21T15:30:00Z"
             }
           ]
         },
@@ -1041,9 +1042,9 @@
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "english": "A Misanthrope Teaches a Class for Demi-Humans",
     "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T15:30:00Z",
-    "delayedUntil": "2026-02-07T15:30:00Z",
-    "episodeDate": "2026-03-14T15:30:00Z",
+    "delayedFrom": "2026-01-31T14:30:00Z",
+    "delayedUntil": "2026-02-07T14:30:00Z",
+    "episodeDate": "2026-03-14T14:30:00Z",
     "episodeNumber": 8,
     "episodes": 13,
     "lengthMin": 24,
@@ -1085,7 +1086,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-21T15:30:00Z"
+              "airingAt": "2026-03-21T14:30:00Z"
             }
           ]
         },
@@ -1556,9 +1557,9 @@
     "romaji": "Niwatori Fighter",
     "english": "Rooster Fighter",
     "native": "ニワトリ・ファイター",
-    "delayedFrom": "0001-01-01T04:00:00Z",
-    "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-03-15T04:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-03-15T07:00:00Z",
     "episodeNumber": 1,
     "mediaTypes": [
       {
@@ -1566,7 +1567,7 @@
         "route": "tv"
       }
     ],
-    "unaired": false,
+    "unaired": true,
     "media": {
       "media": {
         "id": 179813,
@@ -1596,8 +1597,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-03-22T04:00:00Z"
+              "episode": 1,
+              "airingAt": "2026-03-15T07:00:00Z"
             }
           ]
         },
@@ -2006,9 +2007,9 @@
     "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
     "english": "Tojima Wants to Be a Kamen Rider",
     "native": "東島丹三郎は仮面ライダーになりたい",
-    "delayedFrom": "2025-12-27T17:00:00Z",
-    "delayedUntil": "2026-01-10T17:00:00Z",
-    "episodeDate": "2026-03-14T17:00:00Z",
+    "delayedFrom": "2025-12-27T16:00:00Z",
+    "delayedUntil": "2026-01-10T16:00:00Z",
+    "episodeDate": "2026-03-14T16:00:00Z",
     "episodeNumber": 21,
     "episodes": 24,
     "lengthMin": 23,
@@ -2047,7 +2048,7 @@
           "nodes": [
             {
               "episode": 22,
-              "airingAt": "2026-03-21T17:00:00Z"
+              "airingAt": "2026-03-21T16:00:00Z"
             }
           ]
         },
@@ -2119,9 +2120,9 @@
   {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
-    "delayedFrom": "2026-01-31T15:00:00Z",
-    "delayedUntil": "2026-02-07T15:00:00Z",
-    "episodeDate": "2026-03-14T15:00:00Z",
+    "delayedFrom": "2026-01-31T14:00:00Z",
+    "delayedUntil": "2026-02-07T14:00:00Z",
+    "episodeDate": "2026-03-14T14:00:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
@@ -2162,7 +2163,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-21T15:00:00Z"
+              "airingAt": "2026-03-21T14:00:00Z"
             }
           ]
         },
@@ -2294,9 +2295,9 @@
     "romaji": "Xian Wang de Richang Shenghuo 5",
     "english": "The Daily Life of the Immortal King 5",
     "native": "仙王的日常生活 第五季",
-    "delayedFrom": "0001-01-01T22:30:00Z",
-    "delayedUntil": "0001-01-01T22:30:00Z",
-    "episodeDate": "2026-03-14T22:30:00Z",
+    "delayedFrom": "0001-01-01T21:30:00Z",
+    "delayedUntil": "0001-01-01T21:30:00Z",
+    "episodeDate": "2026-03-14T21:30:00Z",
     "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 18,
@@ -2336,7 +2337,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-03-21T22:30:00Z"
+              "airingAt": "2026-03-21T21:30:00Z"
             }
           ]
         },
