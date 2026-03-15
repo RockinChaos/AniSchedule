@@ -1,5 +1,16 @@
 [
   {
+    "id": 179813,
+    "idMal": 59393,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-03-15T04:00:00Z",
+      "addedAt": "2026-03-15T06:58:05Z"
+    }
+  },
+  {
     "id": 165159,
     "idMal": 56566,
     "format": "TV",
@@ -85,6 +96,17 @@
       "aired": 8,
       "airedAt": "2026-03-14T14:00:00Z",
       "addedAt": "2026-03-14T15:00:16Z"
+    }
+  },
+  {
+    "id": 186935,
+    "idMal": 61077,
+    "format": "MOVIE",
+    "duration": 119,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-03-14T07:00:00Z",
+      "addedAt": "2026-03-15T06:58:05Z"
     }
   },
   {
