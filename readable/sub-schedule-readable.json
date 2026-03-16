@@ -765,10 +765,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1773684000
-        },
-        {
           "episode": 4,
           "airingAt": 1774288800
         },
@@ -1648,10 +1644,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773669600
-        },
-        {
           "episode": 12,
           "airingAt": 1774274400
         },
@@ -1885,10 +1877,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176370-rTxiCqbzG0DQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773671400
-        },
         {
           "episode": 11,
           "airingAt": 1774276200
@@ -3601,6 +3589,82 @@
     "zeroEpisode": false
   },
   {
+    "id": 189258,
+    "idMal": 61333,
+    "title": {
+      "romaji": "Ao no Miburo: Serizawa Ansatsu-hen",
+      "english": "Blue Miburo Season 2",
+      "native": "青のミブロ 芹沢暗殺編",
+      "userPreferred": "Blue Miburo Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189258-qhtrra5ebBm6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189258-qhtrra5ebBm6.jpg",
+      "color": "#50bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1774081800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1774686600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1775291400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1775896200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1776501000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1777105800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1777710600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1778315400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1778920200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1779525000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1780129800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1780734600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 189275,
     "idMal": 61335,
     "title": {
@@ -3659,10 +3723,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773673200
-        },
         {
           "episode": 12,
           "airingAt": 1774278000
