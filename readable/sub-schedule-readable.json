@@ -2126,6 +2126,81 @@
     "zeroEpisode": false
   },
   {
+    "id": 179813,
+    "idMal": 59393,
+    "title": {
+      "romaji": "Niwatori Fighter",
+      "english": "Rooster Fighter",
+      "native": "ニワトリ・ファイター",
+      "userPreferred": "Rooster Fighter"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-WQ153lF3pDH6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-WQ153lF3pDH6.jpg",
+      "color": "#e45d43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1774026000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1774630800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1775235600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1775840400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1776445200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1777050000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1777654800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1778259600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1778864400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1779469200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1780074000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 180082,
     "idMal": 59517,
     "title": {
@@ -3591,7 +3666,7 @@
       "color": "#e4ae78"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3624,12 +3699,12 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-XJRBTaN5nlLP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-XJRBTaN5nlLP.jpg",
-      "color": "#e4865d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
+      "color": "#e4785d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
     "airingSchedule": {
       "nodes": [
         {
