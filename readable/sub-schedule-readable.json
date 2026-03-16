@@ -1970,6 +1970,10 @@
         {
           "episode": 12,
           "airingAt": 1774364400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1774969200
         }
       ]
     },
@@ -2835,6 +2839,42 @@
     "zeroEpisode": false
   },
   {
+    "id": 185718,
+    "idMal": 60596,
+    "title": {
+      "romaji": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
+      "english": null,
+      "native": "最強王図鑑 ～The Ultimate Tournament～",
+      "userPreferred": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action"
+    ],
+    "duration": 11,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185718-luZZKvM7pOZ2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185718-luZZKvM7pOZ2.png",
+      "color": "#1aaed6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 49,
+          "airingAt": 1774131360
+        },
+        {
+          "episode": 50,
+          "airingAt": 1774736160
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 185753,
     "idMal": 60602,
     "title": {
@@ -2933,56 +2973,6 @@
         {
           "episode": 13,
           "airingAt": 1774184400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 186736,
-    "idMal": 60983,
-    "title": {
-      "romaji": "Kagaku×Bouken Survival! 2nd Season",
-      "english": null,
-      "native": "科学×冒険サバイバル！ 第2シリーズ",
-      "userPreferred": "Kagaku×Bouken Survival! 2nd Season"
-    },
-    "format": "TV",
-    "genres": [],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186736-zYDrRDuC55s5.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186736-zYDrRDuC55s5.png",
-      "color": "#e4bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 20,
-          "airingAt": 1774085100
-        },
-        {
-          "episode": 21,
-          "airingAt": 1774689900
-        },
-        {
-          "episode": 22,
-          "airingAt": 1775294700
-        },
-        {
-          "episode": 23,
-          "airingAt": 1775899500
-        },
-        {
-          "episode": 24,
-          "airingAt": 1776504300
-        },
-        {
-          "episode": 25,
-          "airingAt": 1777109100
         }
       ]
     },
@@ -3941,6 +3931,10 @@
         {
           "episode": 12,
           "airingAt": 1774449960
+        },
+        {
+          "episode": 13,
+          "airingAt": 1775054760
         }
       ]
     },
@@ -4137,10 +4131,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773666000
-        },
-        {
           "episode": 12,
           "airingAt": 1774270800
         }
@@ -4279,10 +4269,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773666000
-        },
         {
           "episode": 12,
           "airingAt": 1774270800
@@ -4798,10 +4784,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773658800
-        },
-        {
           "episode": 12,
           "airingAt": 1774263600
         }
@@ -4838,6 +4820,46 @@
         {
           "episode": 12,
           "airingAt": 1774195500
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199008,
+    "idMal": 62523,
+    "title": {
+      "romaji": "Uso Tantei Tomanto",
+      "english": null,
+      "native": "うそ探偵トマント",
+      "userPreferred": "Uso Tantei Tomanto"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199008-P45zksUSzTWD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199008-P45zksUSzTWD.png",
+      "color": "#e4865d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 24,
+          "airingAt": 1774141200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1774746000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1775350800
         }
       ]
     },
@@ -5449,7 +5471,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203296-LYXWSdP4N4YF.jpg",
