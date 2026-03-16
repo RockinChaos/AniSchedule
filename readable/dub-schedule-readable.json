@@ -978,6 +978,65 @@
     "addedAt": "2026-03-04T17:00:00Z"
   },
   {
+    "title": "Hokuto no Ken: Fist of the North Star",
+    "route": "hokuto-no-ken-fist-of-the-north-star",
+    "native": "北斗の拳 -FIST OF THE NORTH STAR-",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-04-10T16:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 169228,
+        "idMal": 56646,
+        "title": {
+          "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
+          "english": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
+          "native": "北斗の拳 -FIST OF THE NORTH STAR-",
+          "userPreferred": "FIST OF THE NORTH STAR: HOKUTO NO KEN"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169228-4MsNkVygvkIs.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169228-4MsNkVygvkIs.jpg",
+          "color": "#e4bb50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169228-L0wA8BGp54fa.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-10T16:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-04-10T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-10T16:00:00Z"
+  },
+  {
     "title": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
     "route": "ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani",
     "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
@@ -1764,7 +1823,7 @@
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-03-02T01:14:17Z"
   },
   {
