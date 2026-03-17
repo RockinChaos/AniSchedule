@@ -1770,6 +1770,42 @@
     "zeroEpisode": false
   },
   {
+    "id": 170110,
+    "idMal": 56906,
+    "title": {
+      "romaji": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
+      "english": null,
+      "native": "異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～",
+      "userPreferred": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170110-MzWm7RaFxAnu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170110-MzWm7RaFxAnu.png",
+      "color": "#bb43e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774796400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 172463,
     "idMal": 57658,
     "title": {
@@ -3538,6 +3574,39 @@
         {
           "episode": 26,
           "airingAt": 1775646000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 188753,
+    "idMal": 61297,
+    "title": {
+      "romaji": "Gekkan! Nanmono Anime",
+      "english": null,
+      "native": "げっかん！なんものアニメ",
+      "userPreferred": "Gekkan! Nanmono Anime"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188753-Rkuiizca4QFD.png",
+      "color": "#f1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188753-njd1uzJV3jp3.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1774926000
         }
       ]
     },
