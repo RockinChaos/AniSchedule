@@ -939,10 +939,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 326,
-          "airingAt": 1773700800
-        },
-        {
           "episode": 327,
           "airingAt": 1773960000
         },
@@ -1139,10 +1135,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 364,
-          "airingAt": 1773712800
-        },
-        {
           "episode": 365,
           "airingAt": 1774144800
         },
@@ -1237,6 +1229,10 @@
         {
           "episode": 388,
           "airingAt": 1780970400
+        },
+        {
+          "episode": 389,
+          "airingAt": 1781402400
         }
       ]
     },
@@ -2851,10 +2847,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 49,
-          "airingAt": 1774131360
-        },
-        {
           "episode": 50,
           "airingAt": 1774736160
         }
@@ -4269,6 +4261,50 @@
     "zeroEpisode": false
   },
   {
+    "id": 194389,
+    "idMal": 62005,
+    "title": {
+      "romaji": "Koala Enikki",
+      "english": "Koala's Diary",
+      "native": "コアラ絵日記",
+      "userPreferred": "Koala's Diary"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194389-DAbj4TOj5GB9.png",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 25,
+          "airingAt": 1773918000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1774522800
+        },
+        {
+          "episode": 27,
+          "airingAt": 1775127600
+        },
+        {
+          "episode": 28,
+          "airingAt": 1775732400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 194742,
     "idMal": 61884,
     "title": {
@@ -5586,10 +5622,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1773698400
-        },
         {
           "episode": 11,
           "airingAt": 1774303200
