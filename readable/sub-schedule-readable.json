@@ -815,10 +815,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 153,
-          "airingAt": 1773799200
-        },
-        {
           "episode": 154,
           "airingAt": 1774404000
         },
@@ -4240,10 +4236,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 38,
-          "airingAt": 1773785160
-        },
-        {
           "episode": 39,
           "airingAt": 1774389960
         },
@@ -4847,6 +4839,87 @@
     "zeroEpisode": false
   },
   {
+    "id": 197868,
+    "idMal": 62342,
+    "title": {
+      "romaji": "Maid-san wa Taberu dake",
+      "english": null,
+      "native": "メイドさんは食べるだけ",
+      "userPreferred": "Maid-san wa Taberu dake"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197868-sm5jcjPKWhNL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197868-sm5jcjPKWhNL.png",
+      "color": "#e49343"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774969200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775394000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1775998800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776603600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777208400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1777813200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778418000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779022800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779627600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780232400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1780837200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781442000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782046800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 198117,
     "idMal": 62378,
     "title": {
@@ -5004,7 +5077,7 @@
     "format": "ONA",
     "genres": [
       "Comedy",
-      "Hentai",
+      "Ecchi",
       "Romance"
     ],
     "duration": 7,
@@ -5221,39 +5294,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 199931,
-    "idMal": 62662,
-    "title": {
-      "romaji": "Dokodemo Makibao: World Tour",
-      "english": null,
-      "native": "どこでもマキバオー ～ワールドツアー～",
-      "userPreferred": "Dokodemo Makibao: World Tour"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 4,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199931-EhQ6yMCbEvik.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199931-EhQ6yMCbEvik.png",
-      "color": "#fff100"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1773784800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 200556,
     "idMal": 62804,
     "title": {
@@ -5354,42 +5394,6 @@
         {
           "episode": 2,
           "airingAt": 1776956400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 202419,
-    "idMal": 62864,
-    "title": {
-      "romaji": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
-      "english": null,
-      "native": "お前はまだグンマを知らない～令和版～ ",
-      "userPreferred": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 6,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202419-BmPPSzsegbcv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202419-BmPPSzsegbcv.png",
-      "color": "#e4505d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774096200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1774701000
         }
       ]
     },
@@ -6023,10 +6027,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773788400
-        },
-        {
           "episode": 12,
           "airingAt": 1774393200
         },
@@ -6102,10 +6102,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1773795240
-        },
         {
           "episode": 10,
           "airingAt": 1774400040
