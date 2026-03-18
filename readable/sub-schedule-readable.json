@@ -1840,6 +1840,88 @@
     "zeroEpisode": false
   },
   {
+    "id": 173172,
+    "idMal": 57779,
+    "title": {
+      "romaji": "Dorohedoro Season 2",
+      "english": "Dorohedoro Season 2",
+      "native": "ドロヘドロ Season 2",
+      "userPreferred": "Dorohedoro Season 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Horror",
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173172-404XnuOS0DhR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173172-404XnuOS0DhR.jpg",
+      "color": "#e4861a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173172-tkPQqLzfnxYN.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775052000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775656800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776261600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776866400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777471200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778076000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778680800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779285600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779890400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780495200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781100000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781704800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 176276,
     "idMal": 58505,
     "title": {
@@ -2016,10 +2098,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178005-X4Tr7p0sCQbx.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1773846000
-        },
         {
           "episode": 13,
           "airingAt": 1774450800
@@ -2258,6 +2336,89 @@
     "zeroEpisode": false
   },
   {
+    "id": 180228,
+    "idMal": 59551,
+    "title": {
+      "romaji": "Ganbare! Nakamura-kun!!",
+      "english": "Go For It, Nakamura-kun!!",
+      "native": "ガンバレ！中村くん！！",
+      "userPreferred": "Go For It, Nakamura-kun!!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180228-MuZ7adbGiYVj.jpg",
+      "color": "#f15086"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775057400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775057460
+        },
+        {
+          "episode": 3,
+          "airingAt": 1775660400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776267000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1776871800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1777476600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778081400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1778686200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779291000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1779895800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1780500600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781105400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1781710200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 180745,
     "idMal": 59708,
     "title": {
@@ -2349,41 +2510,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 180746,
-    "idMal": 59711,
-    "title": {
-      "romaji": "Shibou Yuugi de Meshi wo Kuu.",
-      "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-      "native": "死亡遊戯で飯を食う。",
-      "userPreferred": "SHIBOYUGI: Playing Death Games to Put Food on the Table"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Mystery",
-      "Thriller"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180746-eqDiHbzoHMFh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-eqDiHbzoHMFh.jpg",
-      "color": "#50c9fe"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180746-AyfiOMkuHegF.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773844200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -2488,10 +2614,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1773842400
-        },
-        {
           "episode": 11,
           "airingAt": 1774447200
         }
@@ -2525,10 +2647,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182771-93HQnmbLFYbE.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773846000
-        },
         {
           "episode": 12,
           "airingAt": 1774450800
@@ -3243,40 +3361,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187264,
-    "idMal": 61128,
-    "title": {
-      "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou",
-      "english": "Jack-of-All-Trades, Party of None",
-      "native": "勇者パーティを追い出された器用貧乏",
-      "userPreferred": "Jack-of-All-Trades, Party of None"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
-      "color": "#e49350"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1773846000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 187375,
     "idMal": 61156,
     "title": {
@@ -3961,8 +4045,8 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-fIfMy1LTkdGP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-fIfMy1LTkdGP.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190327-riJNCFL7w9y4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190327-riJNCFL7w9y4.jpg",
       "color": "#5daee4"
     },
     "isAdult": false,
@@ -4111,10 +4195,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773845160
-        },
         {
           "episode": 12,
           "airingAt": 1774449960
@@ -4315,6 +4395,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "title": {
+      "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "english": "The Beginning After the End Season 2",
+      "native": "最強の王様、二度目の人生は 何をする? 第2期",
+      "userPreferred": "The Beginning After the End Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-FxQ1HysOYsLF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-FxQ1HysOYsLF.jpg",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775053800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775658600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776263400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776868200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777473000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778077800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778682600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779287400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779892200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780497000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781101800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781706600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5398,6 +5557,90 @@
     "zeroEpisode": false
   },
   {
+    "id": 200769,
+    "idMal": 62825,
+    "title": {
+      "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "english": null,
+      "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
+      "userPreferred": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-Bko65gHRS2hh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200769-Bko65gHRS2hh.jpg",
+      "color": "#2893e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775055600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775309400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1775914200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776519000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777123800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1777728600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778333400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1778938200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779543000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780147800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1780752600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781357400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1781962200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 200930,
     "idMal": 63159,
     "title": {
@@ -5464,6 +5707,88 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 201817,
+    "idMal": 62893,
+    "title": {
+      "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "english": null,
+      "native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
+      "userPreferred": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201817-pyfL9F8muPeq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201817-pyfL9F8muPeq.jpg",
+      "color": "#5dbbf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775055600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775660400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776265200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776870000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777474800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778079600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778684400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779289200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779894000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780498800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781103600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781708400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782313200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
