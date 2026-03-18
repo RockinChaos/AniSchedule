@@ -3634,10 +3634,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1773831600
-        },
-        {
           "episode": 24,
           "airingAt": 1774436400
         },
@@ -4041,10 +4037,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773838800
-        },
-        {
           "episode": 12,
           "airingAt": 1774443600
         }
@@ -4161,10 +4153,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192261-ccBYYYrlx24B.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773837000
-        },
         {
           "episode": 12,
           "airingAt": 1774441800
@@ -5097,6 +5085,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 198939,
+    "idMal": 62512,
+    "title": {
+      "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "english": null,
+      "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
+      "userPreferred": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+    },
+    "format": null,
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198939-95aqzBr0Lzcv.jpg",
+      "color": "#e49328"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775048400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775653200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776258000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776862800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777467600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778072400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778677200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779282000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779886800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780491600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781096400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781701200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
