@@ -1754,10 +1754,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773927000
-        },
-        {
           "episode": 12,
           "airingAt": 1774531800
         }
@@ -1827,10 +1823,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773933960
-        },
         {
           "episode": 12,
           "airingAt": 1774538760
@@ -1950,10 +1942,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176276-ES97CHqKSrLg.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773928800
-        },
         {
           "episode": 12,
           "airingAt": 1774533600
@@ -2295,6 +2283,72 @@
     "zeroEpisode": false
   },
   {
+    "id": 179950,
+    "idMal": 59443,
+    "title": {
+      "romaji": "Reincarnation no Kaben",
+      "english": "Petals of Reincarnation",
+      "native": "リィンカーネーションの花弁",
+      "userPreferred": "Petals of Reincarnation"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179950-g95odyBfYEbU.jpg",
+      "color": "#0d8686"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775143800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775748600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776353400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776958200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777563000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778167800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778772600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779377400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779982200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 180082,
     "idMal": 59517,
     "title": {
@@ -2513,6 +2567,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 181284,
+    "idMal": 59835,
+    "title": {
+      "romaji": "Kirio Fanclub",
+      "english": null,
+      "native": "霧尾ファンクラブ",
+      "userPreferred": "Kirio Fanclub"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181284-JJafhd5gDT53.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181284-JJafhd5gDT53.jpg",
+      "color": "#5da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775143560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775748360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776353160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776957960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777562760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778167560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778772360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779377160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779981960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780586760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781191560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781796360
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 181443,
     "idMal": 59853,
     "title": {
@@ -2683,10 +2816,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773932160
-        },
         {
           "episode": 12,
           "airingAt": 1774536960
@@ -2931,10 +3060,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773930600
-        },
-        {
           "episode": 12,
           "airingAt": 1774535400
         }
@@ -2975,40 +3100,6 @@
         {
           "episode": 12,
           "airingAt": 1774629300
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 185514,
-    "idMal": 60509,
-    "title": {
-      "romaji": "Champignon no Majo",
-      "english": "Champignon Witch",
-      "native": "シャンピニオンの魔女",
-      "userPreferred": "Champignon Witch"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185514-mfJqhtz22l1Z.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185514-mfJqhtz22l1Z.jpg",
-      "color": "#f16b35"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185514-I19hOYFDzU1X.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1773939480
         }
       ]
     },
@@ -3107,10 +3198,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1773930600
-        },
-        {
           "episode": 13,
           "airingAt": 1774535400
         }
@@ -3184,6 +3271,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 186497,
+    "idMal": 60852,
+    "title": {
+      "romaji": "Koori no Jouheki",
+      "english": "The Ramparts of Ice",
+      "native": "氷の城壁",
+      "userPreferred": "The Ramparts of Ice"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186497-uwPrNPphXvjP.jpg",
+      "color": "#e49343"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775141760
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775746560
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776351360
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776956160
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777560960
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778165760
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778770560
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779375360
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779980160
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780584960
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781189760
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781794560
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3788,10 +3954,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1773937680
-        },
-        {
           "episode": 12,
           "airingAt": 1774542480
         }
@@ -4115,10 +4277,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1773934200
-        },
         {
           "episode": 12,
           "airingAt": 1774539000
@@ -4578,6 +4736,40 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 195333,
+    "idMal": 61943,
+    "title": {
+      "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
+      "english": null,
+      "native": "灰原くんの強くて青春ニューゲーム",
+      "userPreferred": "Haibara-kun no Tsuyokute Seishun New Game"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195333-KUIF1eqOdVdd.png",
+      "color": "#1aa1ff"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775147280
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5053,42 +5245,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 198373,
-    "idMal": 62421,
-    "title": {
-      "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
-      "english": null,
-      "native": "暗殺教室 みんなの時間",
-      "userPreferred": "Ansatsu Kyoushitsu: Minna no Jikan"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Sci-Fi",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198373-bJ7PYyknp4ln.jpg",
-      "color": "#f15d5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1773932400
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5696,16 +5852,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1773932400
-        },
-        {
           "episode": 2,
           "airingAt": 1779980400
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5816,6 +5967,85 @@
         {
           "episode": 13,
           "airingAt": 1782313200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 202381,
+    "idMal": 62964,
+    "title": {
+      "romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+      "english": null,
+      "native": "また殺されてしまったのですね、探偵様",
+      "userPreferred": "Mata Korosarete Shimatta no desu ne, Tantei-sama"
+    },
+    "format": "TV",
+    "genres": [
+      "Mystery",
+      "Psychological",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202381-bxgyUXGtGtZj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202381-bxgyUXGtGtZj.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775149080
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775753880
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776358680
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776963480
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777568280
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778173080
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778777880
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779382680
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779987480
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780592280
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781197080
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781801880
         }
       ]
     },
@@ -6538,6 +6768,41 @@
     "zeroEpisode": false
   },
   {
+    "id": 205054,
+    "idMal": null,
+    "title": {
+      "romaji": "Tensei Akujo no Kuro Rekishi OVA",
+      "english": null,
+      "native": "転生悪女の黒歴史 OVA",
+      "userPreferred": "Tensei Akujo no Kuro Rekishi OVA"
+    },
+    "format": "OVA",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205054-yDlMfYNpj3M1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205054-yDlMfYNpj3M1.jpg",
+      "color": "#fff143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775142000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 205676,
     "idMal": 63275,
     "title": {
@@ -6701,39 +6966,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 206857,
-    "idMal": 62690,
-    "title": {
-      "romaji": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku",
-      "english": null,
-      "native": "おしり前マン～復活のおしり前帝国～ ",
-      "userPreferred": "Oshirimae Man: Fukkatsu no Oshirimae Teikoku"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206857-as3nDbOyIu7t.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206857-as3nDbOyIu7t.png",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1773932400
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
