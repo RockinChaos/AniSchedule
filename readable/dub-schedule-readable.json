@@ -1171,7 +1171,7 @@
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 190327,
@@ -1202,8 +1202,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-03-19T07:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-03-26T07:00:00Z"
             }
           ]
         },
