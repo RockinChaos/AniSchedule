@@ -1758,6 +1758,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 170019,
+    "idMal": 56876,
+    "title": {
+      "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
+      "english": null,
+      "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
+      "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-mykW503vsoNe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-mykW503vsoNe.jpg",
+      "color": "#e4d635"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775223000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775827800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776432600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777037400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777642200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778247000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778851800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779456600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780061400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780666200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781271000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781875800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 170110,
     "idMal": 56906,
     "title": {
@@ -2188,10 +2266,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774025580
-        },
-        {
           "episode": 12,
           "airingAt": 1774630380
         },
@@ -2230,10 +2304,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1774026000
-        },
         {
           "episode": 3,
           "airingAt": 1774630800
@@ -2666,15 +2736,139 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774018800
-        },
-        {
           "episode": 12,
           "airingAt": 1774623600
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 182205,
+    "idMal": 59970,
+    "title": {
+      "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+      "english": "That Time I Got Reincarnated as a Slime Season 4",
+      "native": "転生したらスライムだった件 第4期",
+      "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
+      "color": "#1abbd6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775224800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775829600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776434400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777039200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777644000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778248800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778853600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779458400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780063200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780668000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781272800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781877600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782482400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783087200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783692000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784296800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784901600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785506400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786111200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786716000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787320800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1787925600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788530400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789135200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2703,10 +2897,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182255-wyHvp6zJbWsO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1774015200
-        },
         {
           "episode": 10,
           "airingAt": 1774620000
@@ -3089,10 +3279,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185262-6EExIkvGk1dI.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774024500
-        },
         {
           "episode": 12,
           "airingAt": 1774629300
@@ -4877,6 +5063,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 196144,
+    "idMal": 62068,
+    "title": {
+      "romaji": "Snowball Earth",
+      "english": null,
+      "native": "スノウボールアース",
+      "userPreferred": "Snowball Earth"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-UqVOcMjThkqa.jpg",
+      "color": "#f1c950"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775226600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775831400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776436200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777041000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777645800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778250600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778855400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779460200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780065000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780669800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781274600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781879400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 196227,
     "idMal": 62083,
     "title": {
@@ -5231,10 +5496,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1774012920
-        },
         {
           "episode": 24,
           "airingAt": 1774617720
@@ -5674,10 +5935,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200556-vp7XJGhTNK6j.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774017000
-        },
         {
           "episode": 12,
           "airingAt": 1774621800
