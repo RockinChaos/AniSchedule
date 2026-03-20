@@ -414,10 +414,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 648,
-          "airingAt": 1773958200
-        },
-        {
           "episode": 649,
           "airingAt": 1774563000
         },
@@ -512,6 +508,10 @@
         {
           "episode": 672,
           "airingAt": 1788473400
+        },
+        {
+          "episode": 673,
+          "airingAt": 1789078200
         }
       ]
     },
@@ -934,10 +934,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 327,
-          "airingAt": 1773960000
-        },
         {
           "episode": 328,
           "airingAt": 1774305600
@@ -5654,59 +5650,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 199635,
-    "idMal": 62676,
-    "title": {
-      "romaji": "PetitCure: Precure Fairies Season 2",
-      "english": null,
-      "native": "ぷちきゅあ～Precure Fairies～ シーズン２",
-      "userPreferred": "PetitCure: Precure Fairies Season 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199635-rgif9o9VWMrt.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199635-rgif9o9VWMrt.png",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1774517400
-        },
-        {
-          "episode": 25,
-          "airingAt": 1775122200
-        },
-        {
-          "episode": 26,
-          "airingAt": 1775727000
-        },
-        {
-          "episode": 27,
-          "airingAt": 1776331800
-        },
-        {
-          "episode": 28,
-          "airingAt": 1776936600
-        },
-        {
-          "episode": 29,
-          "airingAt": 1777541400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 200556,
     "idMal": 62804,
     "title": {
@@ -6240,38 +6183,6 @@
         {
           "episode": 32,
           "airingAt": 1788651000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 203146,
-    "idMal": 63013,
-    "title": {
-      "romaji": "Atashin'chi NEXT 2",
-      "english": null,
-      "native": "あたしンちNEXT 第2期",
-      "userPreferred": "Atashin'chi NEXT 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 10,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203146-6Zx7wl6hOEFH.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203146-6Zx7wl6hOEFH.png",
-      "color": "#ffbb00"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1773955800
         }
       ]
     },
@@ -7059,6 +6970,128 @@
         {
           "episode": 1,
           "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 209541,
+    "idMal": null,
+    "title": {
+      "romaji": "PetitCure: Precure Fairies Season 3",
+      "english": null,
+      "native": "ぷちきゅあ～Precure Fairies～ シーズン3",
+      "userPreferred": "PetitCure: Precure Fairies Season 3"
+    },
+    "format": "ONA",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209541-p9YKR3vE0Fx6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209541-p9YKR3vE0Fx6.jpg",
+      "color": "#d6e4a1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774474200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775079000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1775683800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776288600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1776893400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1777498200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778103000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1778707800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779312600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1779917400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1780522200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781127000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1781731800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1782336600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1782941400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1783546200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784151000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1784755800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1785360600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1785965400
+        },
+        {
+          "episode": 21,
+          "airingAt": 1786570200
+        },
+        {
+          "episode": 22,
+          "airingAt": 1787175000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1787779800
         }
       ]
     },
