@@ -858,10 +858,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 145,
-          "airingAt": 1774058400
-        },
-        {
           "episode": 146,
           "airingAt": 1774663200
         },
@@ -988,10 +984,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 208,
-          "airingAt": 1774045800
-        },
         {
           "episode": 209,
           "airingAt": 1774650600
@@ -2305,44 +2297,16 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 2,
+          "airingAt": 1774152000
+        },
+        {
           "episode": 3,
-          "airingAt": 1774630800
+          "airingAt": 1774760400
         },
         {
           "episode": 4,
-          "airingAt": 1775235600
-        },
-        {
-          "episode": 5,
-          "airingAt": 1775840400
-        },
-        {
-          "episode": 6,
-          "airingAt": 1776445200
-        },
-        {
-          "episode": 7,
-          "airingAt": 1777050000
-        },
-        {
-          "episode": 8,
-          "airingAt": 1777654800
-        },
-        {
-          "episode": 9,
-          "airingAt": 1778259600
-        },
-        {
-          "episode": 10,
-          "airingAt": 1778864400
-        },
-        {
-          "episode": 11,
-          "airingAt": 1779469200
-        },
-        {
-          "episode": 12,
-          "airingAt": 1780074000
+          "airingAt": 1775365200
         }
       ]
     },
@@ -2975,6 +2939,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 183231,
+    "idMal": null,
+    "title": {
+      "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+      "english": null,
+      "native": "リラックマ ～ごゆるり夢の旅～",
+      "userPreferred": "Rilakkuma: Goyururi Yume no Tabi"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183231-nqc56OPthHii.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183231-nqc56OPthHii.jpg",
+      "color": "#43d6e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775262360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775867160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776471960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777076760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777681560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778286360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778891160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779495960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780100760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780705560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781310360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781915160
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 183270,
     "idMal": 60151,
     "title": {
@@ -3110,38 +3152,6 @@
         {
           "episode": 12,
           "airingAt": 1774369740
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 184289,
-    "idMal": 60070,
-    "title": {
-      "romaji": "Kaijuu Sekai Seifuku",
-      "english": null,
-      "native": "かいじゅうせかいせいふく",
-      "userPreferred": "Kaijuu Sekai Seifuku"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184289-v85FJN0O4S1j.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184289-v85FJN0O4S1j.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 50,
-          "airingAt": 1774044000
         }
       ]
     },
@@ -5549,6 +5559,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 198411,
+    "idMal": 62495,
+    "title": {
+      "romaji": "Nezumi-kun no Chokki (TV)",
+      "english": null,
+      "native": "ねずみくんのチョッキ (TV)",
+      "userPreferred": "Nezumi-kun no Chokki (TV)"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198411-FuPLk3KBEoFH.png",
+      "color": "#c95050"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775262600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775867400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776472200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777077000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777681800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778286600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778891400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779496200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780101000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780705800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781310600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781915400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 198720,
     "idMal": 62987,
     "title": {
@@ -6471,10 +6558,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774036800
-        },
-        {
           "episode": 12,
           "airingAt": 1774641600
         }
@@ -6508,10 +6591,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1774047600
-        },
         {
           "episode": 10,
           "airingAt": 1774652400
