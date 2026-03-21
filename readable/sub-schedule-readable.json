@@ -27,10 +27,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1194,
-          "airingAt": 1774083600
-        },
-        {
           "episode": 1195,
           "airingAt": 1774688400
         },
@@ -125,6 +121,10 @@
         {
           "episode": 1218,
           "airingAt": 1788598800
+        },
+        {
+          "episode": 1219,
+          "airingAt": 1789203600
         }
       ]
     },
@@ -156,10 +156,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1327,
-          "airingAt": 1774078200
-        },
         {
           "episode": 1328,
           "airingAt": 1774683000
@@ -255,6 +251,10 @@
         {
           "episode": 1351,
           "airingAt": 1788593400
+        },
+        {
+          "episode": 1352,
+          "airingAt": 1789198200
         }
       ]
     },
@@ -544,10 +544,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 907,
-          "airingAt": 1774080000
-        },
-        {
           "episode": 908,
           "airingAt": 1774684800
         },
@@ -642,6 +638,10 @@
         {
           "episode": 931,
           "airingAt": 1788595200
+        },
+        {
+          "episode": 932,
+          "airingAt": 1789200000
         }
       ]
     },
@@ -1385,6 +1385,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 161680,
+    "idMal": 55003,
+    "title": {
+      "romaji": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?",
+      "english": null,
+      "native": "1LDK＋JK いきなり同居？密着！？初エッチ！！？",
+      "userPreferred": "1LDK+JK Ikinari Doukyo? Micchaku!? Hatsu Ecchi!!?"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai",
+      "Romance"
+    ],
+    "duration": 16,
+    "seasonYear": 2023,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx161680-NjggzN5hw0UL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx161680-NjggzN5hw0UL.jpg",
+      "color": "#e4c9ae"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1781190000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 162669,
     "idMal": 54703,
     "title": {
@@ -1857,6 +1890,133 @@
         {
           "episode": 1,
           "airingAt": 1774796400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 171110,
+    "idMal": 57466,
+    "title": {
+      "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+      "english": null,
+      "native": "本好きの下剋上 領主の養女",
+      "userPreferred": "Honzuki no Gekokujou: Ryoushu no Youjo"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171110-7zOdInS6DQNL.jpg",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775291400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775896200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776501000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777105800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777710600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778315400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778920200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779525000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780129800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780734600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781339400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781944200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782549000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783153800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783758600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784363400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784968200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785573000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786177800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786782600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787387400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1787992200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788597000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789201800
         }
       ]
     },
@@ -3191,6 +3351,133 @@
     "zeroEpisode": false
   },
   {
+    "id": 184492,
+    "idMal": 60310,
+    "title": {
+      "romaji": "Mairimashita! Iruma-kun 4",
+      "english": "Welcome to Demon School! Iruma-kun Season 4",
+      "native": "魔入りました！入間くん 第4シリーズ",
+      "userPreferred": "Welcome to Demon School! Iruma-kun Season 4"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184492-KUVFGieuMaOx.jpg",
+      "color": "#f1bb28"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775294760
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775899560
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776504360
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777109160
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777713960
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778318760
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778923560
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779528360
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780133160
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780737960
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781342760
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781947560
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782552360
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783157160
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783761960
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784366760
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784971560
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785576360
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786181160
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786785960
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787390760
+        },
+        {
+          "episode": 22,
+          "airingAt": 1787995560
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788600360
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789205160
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 184951,
     "idMal": 60371,
     "title": {
@@ -3844,10 +4131,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774096200
-        },
-        {
           "episode": 12,
           "airingAt": 1774701000
         }
@@ -4177,10 +4460,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1774081800
-        },
         {
           "episode": 14,
           "airingAt": 1774686600
@@ -5962,39 +6241,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 199446,
-    "idMal": 61969,
-    "title": {
-      "romaji": "Saioshi no Gikei Mederu Tame, Nagaikishimasu!",
-      "english": "I'll Live a Long Life to Dote on My Favorite Stepbrother!",
-      "native": "最推しの義兄を愛でるため、長生きします！",
-      "userPreferred": "I'll Live a Long Life to Dote on My Favorite Stepbrother!"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 4,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199446-2jYnGrTItjyu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg",
-      "color": "#4393c9"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774098000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
