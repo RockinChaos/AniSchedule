@@ -1446,10 +1446,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1774104300
-        },
-        {
           "episode": 21,
           "airingAt": 1774709100
         },
@@ -1488,10 +1484,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163144-e6vGlARSvwyE.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774101600
-        },
         {
           "episode": 12,
           "airingAt": 1774706400
@@ -1735,10 +1727,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166617-P4w3p0H4lE1O.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774103400
-        },
         {
           "episode": 13,
           "airingAt": 1774708200
@@ -4035,39 +4023,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187464,
-    "idMal": 61159,
-    "title": {
-      "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-      "english": "Tojima Wants to Be a Kamen Rider",
-      "native": "東島丹三郎は仮面ライダーになりたい",
-      "userPreferred": "Tojima Wants to Be a Kamen Rider"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-NJtK3VC54vPm.jpg",
-      "color": "#e4bb43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-JRW0ASx02H83.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1774107000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 187901,
     "idMal": 61196,
     "title": {
@@ -4092,10 +4047,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774103400
-        },
         {
           "episode": 12,
           "airingAt": 1774708200
@@ -4199,10 +4150,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ELfQpRahhT3L.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774108560
-        },
         {
           "episode": 12,
           "airingAt": 1774713360
@@ -4463,80 +4410,6 @@
         {
           "episode": 14,
           "airingAt": 1774686600
-        },
-        {
-          "episode": 15,
-          "airingAt": 1775291400
-        },
-        {
-          "episode": 16,
-          "airingAt": 1775896200
-        },
-        {
-          "episode": 17,
-          "airingAt": 1776501000
-        },
-        {
-          "episode": 18,
-          "airingAt": 1777105800
-        },
-        {
-          "episode": 19,
-          "airingAt": 1777710600
-        },
-        {
-          "episode": 20,
-          "airingAt": 1778315400
-        },
-        {
-          "episode": 21,
-          "airingAt": 1778920200
-        },
-        {
-          "episode": 22,
-          "airingAt": 1779525000
-        },
-        {
-          "episode": 23,
-          "airingAt": 1780129800
-        },
-        {
-          "episode": 24,
-          "airingAt": 1780734600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 189275,
-    "idMal": 61335,
-    "title": {
-      "romaji": "Medalist 2nd Season",
-      "english": "Medalist Season 2",
-      "native": "メダリスト 第2期",
-      "userPreferred": "Medalist Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Psychological",
-      "Sports"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-      "color": "#50a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1774110600
         }
       ]
     },
@@ -4681,6 +4554,86 @@
         {
           "episode": 1,
           "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 190704,
+    "idMal": 61501,
+    "title": {
+      "romaji": "Kanan-sama wa Akumade Choroi",
+      "english": null,
+      "native": "カナン様はあくまでチョロい",
+      "userPreferred": "Kanan-sama wa Akumade Choroi"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-PgNSGpti6EOL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190704-PgNSGpti6EOL.jpg",
+      "color": "#e450c9"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775318400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775923200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776528000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777132800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777737600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778342400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778947200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779552000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780156800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780761600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781366400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781971200
         }
       ]
     },
@@ -5352,6 +5305,218 @@
     "zeroEpisode": false
   },
   {
+    "id": 195600,
+    "idMal": 62001,
+    "title": {
+      "romaji": "Yomi no Tsugai",
+      "english": "Daemons of the Shadow Realm",
+      "native": "黄泉のツガイ",
+      "userPreferred": "Daemons of the Shadow Realm"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195600-moI0UFArtOme.jpg",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775313000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775917800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776522600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777127400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777732200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778337000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778941800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779546600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780151400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780756200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781361000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781965800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 196012,
+    "idMal": 62048,
+    "title": {
+      "romaji": "MAO",
+      "english": null,
+      "native": "MAO",
+      "userPreferred": "MAO"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-kawFEw6XhYMh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-kawFEw6XhYMh.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775313960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775918760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776523560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777128360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777733160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778337960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778942760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779547560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780152360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780757160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781361960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781966760
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782571560
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783176360
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783781160
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784385960
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784990760
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785595560
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786200360
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786805160
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787409960
+        },
+        {
+          "episode": 22,
+          "airingAt": 1788014760
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788619560
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789224360
+        },
+        {
+          "episode": 25,
+          "airingAt": 1789829160
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 196144,
     "idMal": 62068,
     "title": {
@@ -5651,6 +5816,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 196935,
+    "idMal": 62164,
+    "title": {
+      "romaji": "Akane-banashi",
+      "english": null,
+      "native": "あかね噺",
+      "userPreferred": "Akane-banashi"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196935-RnLWBsEvNp8M.jpg",
+      "color": "#e4785d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775313000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775917800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776522600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777127400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777732200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778337000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778941800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779546600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780151400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780756200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781361000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781965800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 197731,
     "idMal": 61886,
     "title": {
@@ -5821,10 +6063,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774105200
-        },
         {
           "episode": 12,
           "airingAt": 1774710000
@@ -6507,6 +6745,90 @@
     "zeroEpisode": false
   },
   {
+    "id": 202102,
+    "idMal": 62913,
+    "title": {
+      "romaji": "NEEDY GIRL OVERDOSE",
+      "english": "NEEDY GIRL OVERDOSE",
+      "native": "NEEDY GIRL OVERDOSE",
+      "userPreferred": "NEEDY GIRL OVERDOSE"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202102-7qDmTI7eT5xF.png",
+      "color": "#c950f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775316600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775921400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776526200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777131000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777735800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778340600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778945400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779550200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780155000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780759800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781364600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781969400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782574200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 202381,
     "idMal": 62964,
     "title": {
@@ -7057,10 +7379,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1774105200
-        },
         {
           "episode": 24,
           "airingAt": 1774710000
