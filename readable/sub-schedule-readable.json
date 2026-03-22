@@ -1,5 +1,137 @@
 [
   {
+    "id": 21,
+    "idMal": 21,
+    "title": {
+      "romaji": "ONE PIECE",
+      "english": "ONE PIECE",
+      "native": "ONE PIECE",
+      "userPreferred": "ONE PIECE"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 1999,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1156,
+          "airingAt": 1775398560
+        },
+        {
+          "episode": 1157,
+          "airingAt": 1776003360
+        },
+        {
+          "episode": 1158,
+          "airingAt": 1776608160
+        },
+        {
+          "episode": 1159,
+          "airingAt": 1777212960
+        },
+        {
+          "episode": 1160,
+          "airingAt": 1777817760
+        },
+        {
+          "episode": 1161,
+          "airingAt": 1778422560
+        },
+        {
+          "episode": 1162,
+          "airingAt": 1779027360
+        },
+        {
+          "episode": 1163,
+          "airingAt": 1779632160
+        },
+        {
+          "episode": 1164,
+          "airingAt": 1780236960
+        },
+        {
+          "episode": 1165,
+          "airingAt": 1780841760
+        },
+        {
+          "episode": 1166,
+          "airingAt": 1781446560
+        },
+        {
+          "episode": 1167,
+          "airingAt": 1782051360
+        },
+        {
+          "episode": 1168,
+          "airingAt": 1782656160
+        },
+        {
+          "episode": 1169,
+          "airingAt": 1783260960
+        },
+        {
+          "episode": 1170,
+          "airingAt": 1783865760
+        },
+        {
+          "episode": 1171,
+          "airingAt": 1784470560
+        },
+        {
+          "episode": 1172,
+          "airingAt": 1785075360
+        },
+        {
+          "episode": 1173,
+          "airingAt": 1785680160
+        },
+        {
+          "episode": 1174,
+          "airingAt": 1786284960
+        },
+        {
+          "episode": 1175,
+          "airingAt": 1786889760
+        },
+        {
+          "episode": 1176,
+          "airingAt": 1787494560
+        },
+        {
+          "episode": 1177,
+          "airingAt": 1788099360
+        },
+        {
+          "episode": 1178,
+          "airingAt": 1788704160
+        },
+        {
+          "episode": 1179,
+          "airingAt": 1789308960
+        },
+        {
+          "episode": 1180,
+          "airingAt": 1789913760
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 235,
     "idMal": 235,
     "title": {
@@ -1719,10 +1851,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774190640
-        },
-        {
           "episode": 12,
           "airingAt": 1774795440
         }
@@ -2258,10 +2386,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1774191600
-        },
-        {
           "episode": 13,
           "airingAt": 1774796400
         }
@@ -2483,6 +2607,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 178749,
+    "idMal": 59176,
+    "title": {
+      "romaji": "Mahou no Shimai Lulutto Lilly",
+      "english": null,
+      "native": "魔法の姉妹ルルットリリィ",
+      "userPreferred": "Mahou no Shimai Lulutto Lilly"
+    },
+    "format": "TV",
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-c0tx9p13PVJy.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178749-c0tx9p13PVJy.png",
+      "color": "#435de4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178749-55kXPhUDKYvQ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775395800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776000600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776605400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777210200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777815000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778419800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779024600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779629400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780234200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780839000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781443800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782048600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 179062,
     "idMal": 59229,
     "title": {
@@ -2545,7 +2746,7 @@
       "color": "#e45d43"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2979,7 +3180,7 @@
       "color": "#1abbd6"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3761,40 +3962,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185993,
-    "idMal": 60692,
-    "title": {
-      "romaji": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
-      "english": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-      "native": "貴族転生 ～恵まれた生まれから最強の力を得る～",
-      "userPreferred": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185993-BecPUaWfZJgR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185993-BecPUaWfZJgR.png",
-      "color": "#50a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185993-6H7wGuRpwoSL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774191600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 186497,
     "idMal": 60852,
     "title": {
@@ -3898,10 +4065,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1774189800
-        },
         {
           "episode": 11,
           "airingAt": 1774794600
@@ -5339,10 +5502,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774188000
-        },
-        {
           "episode": 12,
           "airingAt": 1774792800
         }
@@ -5931,38 +6090,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 197731,
-    "idMal": 61886,
-    "title": {
-      "romaji": "Goumon Baito-kun no Nichijou",
-      "english": "The Daily Life of a Part-time Torturer",
-      "native": "拷問バイトくんの日常",
-      "userPreferred": "The Daily Life of a Part-time Torturer"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197731-6E0qjPFaNjC6.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197731-6E0qjPFaNjC6.jpg",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774193400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 197868,
     "idMal": 62342,
     "title": {
@@ -6217,40 +6344,6 @@
         {
           "episode": 12,
           "airingAt": 1774263600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 198767,
-    "idMal": 62897,
-    "title": {
-      "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
-      "english": "Ichigo Aika: Strawberry Elegy",
-      "native": "イチゴ哀歌～雑で生イキな妹と割り切れない兄～",
-      "userPreferred": "Ichigo Aika: Strawberry Elegy"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": 7,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198767-PoG84HHFXTit.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198767-PoG84HHFXTit.jpg",
-      "color": "#e45d5d"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774195500
         }
       ]
     },
@@ -6665,6 +6758,89 @@
     "zeroEpisode": false
   },
   {
+    "id": 201090,
+    "idMal": null,
+    "title": {
+      "romaji": "Ghost Concert: missing Songs",
+      "english": null,
+      "native": "ゴーストコンサート: missing Songs",
+      "userPreferred": "Ghost Concert: missing Songs"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Music",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201090-HzQKUjjvde32.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201090-HzQKUjjvde32.jpg",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201090-YIO0HtbUiCwC.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775403000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776007800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776612600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777217400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777822200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778427000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779031800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779636600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780241400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780846200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781451000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782055800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782660600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 201153,
     "idMal": 63084,
     "title": {
@@ -6942,6 +7118,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 202523,
+    "idMal": 62983,
+    "title": {
+      "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
+      "english": "Marika's Love Meter Malfunction",
+      "native": "茉莉花ちゃんの好感度はぶっ壊れている",
+      "userPreferred": "Marika's Love Meter Malfunction"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": 6,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202523-NHeyiypiPnGP.jpg",
+      "color": "#e44378"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775404800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776009600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776614400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777219200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777824000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778428800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779033600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779638400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780243200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780848000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781452800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782057600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 202893,
     "idMal": 63027,
     "title": {
@@ -7171,10 +7427,10 @@
     "id": 203296,
     "idMal": 62649,
     "title": {
-      "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
-      "english": null,
+      "romaji": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen",
+      "english": "CARDFIGHT!! VANGUARD Divinez Parallactic Clash",
       "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編",
-      "userPreferred": "Cardfight!! Vanguard: Divinez Genma Seisen-hen"
+      "userPreferred": "CARDFIGHT!! VANGUARD Divinez Parallactic Clash"
     },
     "format": "TV",
     "genres": [
@@ -7372,10 +7628,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774200000
-        },
-        {
           "episode": 12,
           "airingAt": 1774804800
         },
@@ -7427,6 +7679,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 204319,
+    "idMal": 63248,
+    "title": {
+      "romaji": "Ookii Onnanoko wa Suki desu ka?",
+      "english": "Do You Like Big Girls?",
+      "native": "大きい女の子は好きですか？",
+      "userPreferred": "Do You Like Big Girls?"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Ecchi",
+      "Romance",
+      "Sports"
+    ],
+    "duration": 4,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204319-qhw2yBXBUgJT.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204319-qhw2yBXBUgJT.png",
+      "color": "#e4bb35"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775405100
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776009900
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776614700
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777219500
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777824300
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778429100
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779033900
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779638700
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780243500
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780848300
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781453100
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782057900
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8116,7 +8447,7 @@
   },
   {
     "id": 209541,
-    "idMal": null,
+    "idMal": 63773,
     "title": {
       "romaji": "PetitCure: Precure Fairies Season 3",
       "english": null,
