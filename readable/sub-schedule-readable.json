@@ -286,10 +286,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2824,
-          "airingAt": 1774171800
-        },
-        {
           "episode": 2825,
           "airingAt": 1774776600
         },
@@ -384,6 +380,10 @@
         {
           "episode": 2848,
           "airingAt": 1788687000
+        },
+        {
+          "episode": 2849,
+          "airingAt": 1789291800
         }
       ]
     },
@@ -673,10 +673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 358,
-          "airingAt": 1774170000
-        },
         {
           "episode": 359,
           "airingAt": 1774774800
@@ -1623,6 +1619,41 @@
     "zeroEpisode": false
   },
   {
+    "id": 166437,
+    "idMal": 61626,
+    "title": {
+      "romaji": "Soushen Ji",
+      "english": null,
+      "native": "搜神记",
+      "userPreferred": "Soushen Ji"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166437-JPRcijBCDv28.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166437-JPRcijBCDv28.jpg",
+      "color": "#e4bb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1774400400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 166521,
     "idMal": 55772,
     "title": {
@@ -1907,7 +1938,7 @@
       "color": "#5daee4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -2236,6 +2267,83 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 177634,
+    "idMal": 58877,
+    "title": {
+      "romaji": "Diamond no Ace act II: Second Season",
+      "english": null,
+      "native": "ダイヤのA actII -Second Season-",
+      "userPreferred": "Diamond no Ace act II: Second Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177634-jYdKdbPOwWhR.png",
+      "color": "#1aa1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775377800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775982600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776587400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777192200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777797000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778401800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779006600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779611400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780216200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780821000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781425800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782030600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3219,10 +3327,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1774168200
-        },
-        {
           "episode": 12,
           "airingAt": 1774773000
         }
@@ -3292,6 +3396,39 @@
         {
           "episode": 12,
           "airingAt": 1774369740
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 184470,
+    "idMal": 61092,
+    "title": {
+      "romaji": "Himitsu no AiPri: Ring-hen",
+      "english": null,
+      "native": "ひみつのアイプリ リング編",
+      "userPreferred": "Himitsu no AiPri: Ring-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184470-m2izEvBeO49C.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184470-m2izEvBeO49C.jpg",
+      "color": "#f15df1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 51,
+          "airingAt": 1774744200
         }
       ]
     },
@@ -3451,10 +3588,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774166400
-        },
         {
           "episode": 12,
           "airingAt": 1774771200
@@ -3656,40 +3789,6 @@
         {
           "episode": 12,
           "airingAt": 1774191600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 186333,
-    "idMal": 60810,
-    "title": {
-      "romaji": "Majutsushi Kunon wa Mieteiru",
-      "english": "Kunon the Sorcerer Can See",
-      "native": "魔術師クノンは見えている",
-      "userPreferred": "Kunon the Sorcerer Can See"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186333-32qDHxLkndpg.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186333-32qDHxLkndpg.png",
-      "color": "#5da1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186333-JN8lx2aNOTg1.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1774184400
         }
       ]
     },
@@ -4066,7 +4165,7 @@
       "color": "#f1ae5d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4758,10 +4857,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774164600
-        },
         {
           "episode": 12,
           "airingAt": 1774769400
@@ -7868,6 +7963,85 @@
         {
           "episode": 1,
           "airingAt": 1774278000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206914,
+    "idMal": 63375,
+    "title": {
+      "romaji": "Nippon Sangoku",
+      "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
+      "native": "日本三國",
+      "userPreferred": "NIPPON SANGOKU: The Three Nations of the Crimson Sun"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-45avCPrNz1co.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-45avCPrNz1co.jpg",
+      "color": "#fec90d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775390400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775995200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776600000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777204800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777809600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778414400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779019200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779624000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780228800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780833600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781438400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782043200
         }
       ]
     },
