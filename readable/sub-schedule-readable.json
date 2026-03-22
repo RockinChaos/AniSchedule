@@ -1119,10 +1119,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 365,
-          "airingAt": 1774144800
-        },
-        {
           "episode": 366,
           "airingAt": 1774317600
         },
@@ -1217,6 +1213,10 @@
         {
           "episode": 389,
           "airingAt": 1781402400
+        },
+        {
+          "episode": 390,
+          "airingAt": 1781575200
         }
       ]
     },
@@ -1451,7 +1451,7 @@
         },
         {
           "episode": 22,
-          "airingAt": 1775313900
+          "airingAt": 1774710600
         }
       ]
     },
@@ -2334,10 +2334,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 47,
-          "airingAt": 1774137600
-        },
         {
           "episode": 48,
           "airingAt": 1774742400
@@ -3306,39 +3302,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 184470,
-    "idMal": 61092,
-    "title": {
-      "romaji": "Himitsu no AiPri: Ring-hen",
-      "english": null,
-      "native": "ひみつのアイプリ リング編",
-      "userPreferred": "Himitsu no AiPri: Ring-hen"
-    },
-    "format": "TV",
-    "genres": [
-      "Music",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184470-m2izEvBeO49C.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184470-m2izEvBeO49C.jpg",
-      "color": "#f15df1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 50,
-          "airingAt": 1774139400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 184492,
     "idMal": 60310,
     "title": {
@@ -3596,10 +3559,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 51,
-          "airingAt": 1774135680
-        },
         {
           "episode": 52,
           "airingAt": 1774740480
@@ -4265,10 +4224,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1774137600
-        },
         {
           "episode": 24,
           "airingAt": 1774742400
@@ -5662,10 +5617,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1774139400
-        },
-        {
           "episode": 24,
           "airingAt": 1774744200
         }
@@ -5699,10 +5650,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 34,
-          "airingAt": 1774144800
-        },
         {
           "episode": 35,
           "airingAt": 1774749600
@@ -6321,10 +6268,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1774141200
-        },
         {
           "episode": 25,
           "airingAt": 1774746000
@@ -6997,10 +6940,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1774135800
-        },
-        {
           "episode": 9,
           "airingAt": 1774740600
         },
@@ -7095,6 +7034,10 @@
         {
           "episode": 32,
           "airingAt": 1788651000
+        },
+        {
+          "episode": 33,
+          "airingAt": 1789255800
         }
       ]
     },
@@ -7720,10 +7663,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1774144800
-        },
-        {
           "episode": 14,
           "airingAt": 1774749600
         },
@@ -7777,6 +7716,135 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 206523,
+    "idMal": null,
+    "title": {
+      "romaji": "Onegai AiPri",
+      "english": null,
+      "native": "おねがいアイプリ",
+      "userPreferred": "Onegai AiPri"
+    },
+    "format": "TV",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-hGjOCtgrwf5q.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206523-hGjOCtgrwf5q.jpg",
+      "color": "#436bff"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775349000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775953800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776558600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777163400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777768200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778373000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778977800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779582600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780187400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780792200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781397000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782001800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782606600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783211400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783816200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784421000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1785025800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785630600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786235400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786840200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787445000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1788049800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788654600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789259400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1789864200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
