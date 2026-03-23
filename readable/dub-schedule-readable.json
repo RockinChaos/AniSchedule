@@ -712,7 +712,8 @@
     "delayedFrom": "2026-02-07T15:45:00Z",
     "delayedUntil": "2026-02-28T15:45:00Z",
     "episodeDate": "2026-03-28T15:45:00Z",
-    "episodeNumber": 21,
+    "episodeNumber": 22,
+    "subtractedEpisodeNumber": 21,
     "episodes": 22,
     "lengthMin": 25,
     "mediaTypes": [
@@ -753,6 +754,10 @@
           "nodes": [
             {
               "episode": 21,
+              "airingAt": "2026-03-28T15:45:00Z"
+            },
+            {
+              "episode": 22,
               "airingAt": "2026-03-28T15:45:00Z"
             }
           ]
