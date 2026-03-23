@@ -17,7 +17,7 @@
     "duration": 24,
     "episode": {
       "aired": 9,
-      "airedAt": "2026-03-22T14:15:00Z",
+      "airedAt": "2026-03-22T15:15:00Z",
       "addedAt": "2026-03-22T14:15:26Z"
     }
   },
@@ -28,8 +28,19 @@
     "duration": 24,
     "episode": {
       "aired": 9,
-      "airedAt": "2026-03-22T13:30:00Z",
+      "airedAt": "2026-03-22T14:30:00Z",
       "addedAt": "2026-03-22T13:30:00Z"
+    }
+  },
+  {
+    "id": 183660,
+    "idMal": 60223,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 11,
+      "airedAt": "2026-03-22T09:00:00Z",
+      "addedAt": "2026-03-22T08:00:11Z"
     }
   },
   {
@@ -41,17 +52,6 @@
       "aired": 10,
       "airedAt": "2026-03-22T08:30:00Z",
       "addedAt": "2026-03-23T00:04:25Z"
-    }
-  },
-  {
-    "id": 183660,
-    "idMal": 60223,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 11,
-      "airedAt": "2026-03-22T08:00:00Z",
-      "addedAt": "2026-03-22T08:00:11Z"
     }
   },
   {
