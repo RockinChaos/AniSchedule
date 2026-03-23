@@ -893,10 +893,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1774288800
-        },
-        {
           "episode": 5,
           "airingAt": 1774893600
         },
@@ -1219,6 +1215,89 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 147105,
+    "idMal": 51553,
+    "title": {
+      "romaji": "Tongari Boushi no Atelier",
+      "english": "Witch Hat Atelier",
+      "native": "とんがり帽子のアトリエ",
+      "userPreferred": "Witch Hat Atelier"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775484000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776088800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776693600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777298400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777903200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778508000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779112800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779717600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780322400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780927200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781532000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782136800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782741600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -1812,10 +1891,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1774274400
-        },
-        {
           "episode": 13,
           "airingAt": 1774879200
         }
@@ -2348,10 +2423,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176370-rTxiCqbzG0DQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774276200
-        },
         {
           "episode": 12,
           "airingAt": 1774881000
@@ -2891,7 +2962,7 @@
       "color": "#f15086"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4629,36 +4700,82 @@
     "zeroEpisode": false
   },
   {
-    "id": 189565,
-    "idMal": 61359,
+    "id": 189987,
+    "idMal": 61425,
     "title": {
-      "romaji": "Osananajimi to wa Love Comedy ni Naranai",
-      "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
-      "native": "幼馴染とはラブコメにならない",
-      "userPreferred": "You Can't Be In a Rom-Com with Your Childhood Friends!"
+      "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+      "english": null,
+      "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+      "userPreferred": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
     },
     "format": "TV",
     "genres": [
       "Comedy",
-      "Romance"
+      "Romance",
+      "Slice of Life"
     ],
-    "duration": 24,
+    "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189565-OHhadYSsd0Bg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189565-OHhadYSsd0Bg.jpg",
-      "color": "#e4ae78"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189987-CkTDPfD7vu2Y.jpg",
+      "color": "#e4c950"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189565-40afF0Vg7Lt8.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1775485440
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776090240
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776695040
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777299840
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777904640
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778509440
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779114240
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779719040
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780323840
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780928640
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781533440
+        },
+        {
           "episode": 12,
-          "airingAt": 1774278000
+          "airingAt": 1782138240
         }
       ]
     },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6132,6 +6249,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 197754,
+    "idMal": 62331,
+    "title": {
+      "romaji": "LIAR GAME",
+      "english": "LIAR GAME",
+      "native": "LIAR GAME",
+      "userPreferred": "LIAR GAME"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Psychological"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197754-Q5KqcUhIdypp.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775487600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 197824,
     "idMal": 62146,
     "title": {
@@ -6443,7 +6594,7 @@
       "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
       "userPreferred": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
     },
-    "format": null,
+    "format": "TV",
     "genres": [
       "Action",
       "Comedy",
@@ -8348,37 +8499,6 @@
         {
           "episode": 25,
           "airingAt": 1789864200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 206889,
-    "idMal": 63411,
-    "title": {
-      "romaji": "Fukufuku no Chizu",
-      "english": null,
-      "native": "ふくふくの地図",
-      "userPreferred": "Fukufuku no Chizu"
-    },
-    "format": "SPECIAL",
-    "genres": [],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206889-tFp183WYntKw.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206889-tFp183WYntKw.jpg",
-      "color": "#e48650"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774278000
         }
       ]
     },
