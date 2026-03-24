@@ -2017,9 +2017,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-mykW503vsoNe.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-mykW503vsoNe.jpg",
-      "color": "#e4d635"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-PLbDqJsQupYW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-PLbDqJsQupYW.jpg",
+      "color": "#f1e450"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5492,6 +5492,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 195268,
+    "idMal": 61931,
+    "title": {
+      "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+      "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+      "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
+      "userPreferred": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195268-HkEv0z9iTCJK.jpg",
+      "color": "#e4c928"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775566800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776171600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776776400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777381200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777986000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778590800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779195600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779800400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780405200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781010000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781614800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782219600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 195322,
     "idMal": 61942,
     "title": {
@@ -8384,9 +8463,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-hGjOCtgrwf5q.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206523-hGjOCtgrwf5q.jpg",
-      "color": "#436bff"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206523-2IaJCk4R7i63.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206523-2IaJCk4R7i63.jpg",
+      "color": "#0035ff"
     },
     "isAdult": false,
     "bannerImage": null,
