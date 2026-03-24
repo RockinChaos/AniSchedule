@@ -1426,6 +1426,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 158036,
+    "idMal": 53732,
+    "title": {
+      "romaji": "Hidarikiki no Eren",
+      "english": "Eren the Southpaw",
+      "native": "左ききのエレン",
+      "userPreferred": "Eren the Southpaw"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx158036-KfXv0BFBUsWl.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx158036-KfXv0BFBUsWl.jpg",
+      "color": "#e4bb28"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/158036-gWgQ6wMNsqW7.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775574000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 158871,
     "idMal": 53876,
     "title": {
@@ -2001,13 +2034,91 @@
     "zeroEpisode": false
   },
   {
+    "id": 169580,
+    "idMal": 56734,
+    "title": {
+      "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "english": "I Made Friends with the Second Prettiest Girl in My Class",
+      "native": "クラスで２番目に可愛い女の子と友だちになった",
+      "userPreferred": "I Made Friends with the Second Prettiest Girl in My Class"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169580-nXxpmqu6UVux.jpg",
+      "color": "#f1bb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775572200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776177000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776781800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777386600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777991400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778596200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779201000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779805800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780410600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781015400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781620200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782225000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 170019,
     "idMal": 56876,
     "title": {
       "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-      "english": null,
+      "english": "The Angel Next Door Spoils Me Rotten 2",
       "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
-      "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
+      "userPreferred": "The Angel Next Door Spoils Me Rotten 2"
     },
     "format": "TV",
     "genres": [
@@ -2119,9 +2230,9 @@
     "idMal": 57466,
     "title": {
       "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-      "english": null,
+      "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
       "native": "本好きの下剋上 領主の養女",
-      "userPreferred": "Honzuki no Gekokujou: Ryoushu no Youjo"
+      "userPreferred": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
     },
     "format": "TV",
     "genres": [
@@ -2562,10 +2673,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774364400
-        },
         {
           "episode": 13,
           "airingAt": 1774969200
@@ -3603,73 +3710,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 183661,
-    "idMal": 60226,
-    "title": {
-      "romaji": "Isekai no Sata wa Shachiku Shidai",
-      "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
-      "native": "異世界の沙汰は社畜次第",
-      "userPreferred": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 25,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183661-3muPFi4LtHmK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183661-3muPFi4LtHmK.jpg",
-      "color": "#c9e478"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183661-goNHY3WDK3j3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774360800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 183984,
-    "idMal": 60255,
-    "title": {
-      "romaji": "Arne no Jikenbo",
-      "english": "The Case Book of Arne",
-      "native": "アルネの事件簿",
-      "userPreferred": "The Case Book of Arne"
-    },
-    "format": "TV",
-    "genres": [
-      "Mystery"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183984-uq5scAXrhEdx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183984-uq5scAXrhEdx.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183984-98y2n8KEQfpZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774369740
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 184470,
     "idMal": 61092,
     "title": {
@@ -4108,6 +4148,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 186744,
+    "idMal": 61013,
+    "title": {
+      "romaji": "Replica Datte, Koi wo Suru.",
+      "english": "Even a Replica Can Fall in Love",
+      "native": "レプリカだって、恋をする",
+      "userPreferred": "Even a Replica Can Fall in Love"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186744-nFH4y2slUrO4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186744-nFH4y2slUrO4.jpg",
+      "color": "#f1f1c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775572200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776177000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776781800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777386600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777991400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778596200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779201000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779805800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780410600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781015400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781620200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782225000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 187062,
     "idMal": 61084,
     "title": {
@@ -4368,39 +4487,6 @@
         {
           "episode": 12,
           "airingAt": 1774701000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 187942,
-    "idMal": 61211,
-    "title": {
-      "romaji": "Mayonaka Heart Tune",
-      "english": "Tune In to the Midnight Heart",
-      "native": "真夜中ハートチューン",
-      "userPreferred": "Tune In to the Midnight Heart"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187942-c2cZvunJGfiE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187942-c2cZvunJGfiE.jpg",
-      "color": "#f1ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187942-tUpZo1VxashN.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774360800
         }
       ]
     },
@@ -4700,9 +4786,9 @@
     "idMal": 61425,
     "title": {
       "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
-      "english": null,
+      "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
       "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-      "userPreferred": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
+      "userPreferred": "The Klutzy Class Monitor and the Girl with the Short Skirt"
     },
     "format": "TV",
     "genres": [
@@ -4779,9 +4865,9 @@
     "idMal": 61443,
     "title": {
       "romaji": "Shunkashuutou Daikousha: Haru no Mai",
-      "english": null,
+      "english": "Agents of the Four Seasons: Dance of Spring",
       "native": "春夏秋冬代行者 春の舞",
-      "userPreferred": "Shunkashuutou Daikousha: Haru no Mai"
+      "userPreferred": "Agents of the Four Seasons: Dance of Spring"
     },
     "format": "TV",
     "genres": [
@@ -4891,9 +4977,9 @@
     "idMal": 61501,
     "title": {
       "romaji": "Kanan-sama wa Akumade Choroi",
-      "english": null,
+      "english": "Mistress Kanan is Devilishly Easy",
       "native": "カナン様はあくまでチョロい",
-      "userPreferred": "Kanan-sama wa Akumade Choroi"
+      "userPreferred": "Mistress Kanan is Devilishly Easy"
     },
     "format": "TV",
     "genres": [
@@ -5146,9 +5232,9 @@
     "idMal": 61687,
     "title": {
       "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-      "english": null,
+      "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
       "native": "自称悪役令嬢な婚約者の観察記録。",
-      "userPreferred": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
+      "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
     },
     "format": "TV",
     "genres": [
@@ -5383,40 +5469,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 194318,
-    "idMal": 61830,
-    "title": {
-      "romaji": "Yoroi Shinden Samurai Troopers",
-      "english": "Yoroi-Shinden Samurai Troopers",
-      "native": "鎧真伝サムライトルーパー",
-      "userPreferred": "Yoroi-Shinden Samurai Troopers"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194318-V3STmm4wutVQ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194318-V3STmm4wutVQ.jpg",
-      "color": "#e4781a"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774362600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5699,10 +5751,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1774360800
-        },
-        {
           "episode": 13,
           "airingAt": 1774965600
         }
@@ -5960,9 +6008,9 @@
     "idMal": 62068,
     "title": {
       "romaji": "Snowball Earth",
-      "english": null,
+      "english": "SNOWBALL EARTH",
       "native": "スノウボールアース",
-      "userPreferred": "Snowball Earth"
+      "userPreferred": "SNOWBALL EARTH"
     },
     "format": "TV",
     "genres": [
@@ -6437,9 +6485,9 @@
     "idMal": 62342,
     "title": {
       "romaji": "Maid-san wa Taberu dake",
-      "english": null,
+      "english": "The Food Diary of Miss Maid",
       "native": "メイドさんは食べるだけ",
-      "userPreferred": "Maid-san wa Taberu dake"
+      "userPreferred": "The Food Diary of Miss Maid"
     },
     "format": "ONA",
     "genres": [
@@ -6665,9 +6713,9 @@
     "idMal": 62512,
     "title": {
       "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-      "english": null,
+      "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
       "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
-      "userPreferred": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+      "userPreferred": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
     },
     "format": "TV",
     "genres": [
@@ -6920,6 +6968,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 199547,
+    "idMal": 62601,
+    "title": {
+      "romaji": "MARRIAGETOXIN",
+      "english": "MARRIAGETOXIN",
+      "native": "マリッジトキシン",
+      "userPreferred": "MARRIAGETOXIN"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199547-LAaG3cmKCGhr.jpg",
+      "color": "#1ae4f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775570400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776175200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776780000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777384800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777989600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778594400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779199200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779804000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780408800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781013600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781618400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782223200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 200556,
     "idMal": 62804,
     "title": {
@@ -6957,9 +7085,9 @@
     "idMal": 62825,
     "title": {
       "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-      "english": null,
+      "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
       "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-      "userPreferred": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?"
+      "userPreferred": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!"
     },
     "format": "ONA",
     "genres": [
@@ -7073,9 +7201,9 @@
     "idMal": null,
     "title": {
       "romaji": "Ghost Concert: missing Songs",
-      "english": null,
+      "english": "GHOST CONCERT : missing Songs",
       "native": "ゴーストコンサート: missing Songs",
-      "userPreferred": "Ghost Concert: missing Songs"
+      "userPreferred": "GHOST CONCERT : missing Songs"
     },
     "format": "TV",
     "genres": [
@@ -7699,6 +7827,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 202985,
+    "idMal": 63014,
+    "title": {
+      "romaji": "Tadaima, Ojamasaremasu!",
+      "english": null,
+      "native": "ただいま、おじゃまされます！",
+      "userPreferred": "Tadaima, Ojamasaremasu!"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202985-WsJv1knJoRFL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202985-WsJv1knJoRFL.jpg",
+      "color": "#e48650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775579340
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776184140
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776788940
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777393740
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777998540
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778603340
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779208140
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779812940
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780417740
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781022540
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781627340
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782232140
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8715,6 +8921,84 @@
         {
           "episode": 1,
           "airingAt": 1774537200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206951,
+    "idMal": 63376,
+    "title": {
+      "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "english": null,
+      "native": "女神「異世界転生先は何になりたいですか」 俺「勇者の肋骨で」",
+      "userPreferred": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\""
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206951-qiHcrw7pwzuq.jpg",
+      "color": "#5dc9f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775581140
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776185940
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776790740
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777395540
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778000340
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778605140
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779209940
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779814740
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780419540
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781024340
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781629140
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782233940
         }
       ]
     },
