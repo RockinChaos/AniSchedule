@@ -3454,75 +3454,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 182587,
-    "idMal": 60058,
-    "title": {
-      "romaji": "[Oshi no Ko] 3rd Season",
-      "english": "【OSHI NO KO】Season 3",
-      "native": "【推しの子】第3期",
-      "userPreferred": "【OSHI NO KO】Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Psychological",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182587-fsU8LOjmd7oj.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182587-fsU8LOjmd7oj.jpg",
-      "color": "#e45df1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182587-SLNmuinewbUF.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1774447200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 182771,
-    "idMal": 60071,
-    "title": {
-      "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
-      "english": "A Gentle Noble's Vacation Recommendation",
-      "native": "穏やか貴族の休暇のすすめ。",
-      "userPreferred": "A Gentle Noble's Vacation Recommendation"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182771-KVq712ii32fJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182771-KVq712ii32fJ.jpg",
-      "color": "#f1d6c9"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182771-93HQnmbLFYbE.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774450800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 183231,
     "idMal": null,
     "title": {
@@ -5150,45 +5081,6 @@
         {
           "episode": 12,
           "airingAt": 1774539000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 191967,
-    "idMal": 61608,
-    "title": {
-      "romaji": "Jigoku Sensei Nube (2025) Part 2",
-      "english": "Hell Teacher: Jigoku Sensei Nube (2025) Part 2",
-      "native": "地獄先生ぬ～べ～ (2025) 第2クール",
-      "userPreferred": "Hell Teacher: Jigoku Sensei Nube (2025) Part 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191967-fLWqssc0gPI4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191967-fLWqssc0gPI4.jpg",
-      "color": "#e4ae43"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774449960
-        },
-        {
-          "episode": 13,
-          "airingAt": 1775054760
         }
       ]
     },
@@ -7115,6 +7007,84 @@
         {
           "episode": 12,
           "airingAt": 1782223200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 199588,
+    "idMal": 62604,
+    "title": {
+      "romaji": "Otaku ni Yasashii Gal wa Inai!?",
+      "english": "Gals Can't Be Kind to Otaku!?",
+      "native": "オタクに優しいギャルはいない!?",
+      "userPreferred": "Gals Can't Be Kind to Otaku!?"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-fYJalfS0gkSH.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199588-fYJalfS0gkSH.jpg",
+      "color": "#f1c9a1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775659500
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776264300
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776869100
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777473900
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778078700
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778683500
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779288300
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779893100
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780497900
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781102700
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781707500
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782312300
         }
       ]
     },
