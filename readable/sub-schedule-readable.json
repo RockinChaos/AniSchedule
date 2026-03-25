@@ -939,10 +939,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 154,
-          "airingAt": 1774404000
-        },
-        {
           "episode": 155,
           "airingAt": 1775008800
         },
@@ -1859,41 +1855,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 166437,
-    "idMal": 61626,
-    "title": {
-      "romaji": "Soushen Ji",
-      "english": null,
-      "native": "搜神记",
-      "userPreferred": "Soushen Ji"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166437-JPRcijBCDv28.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166437-JPRcijBCDv28.jpg",
-      "color": "#e4bb50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774400400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 166521,
     "idMal": 55772,
     "title": {
@@ -2708,7 +2669,7 @@
       "nodes": [
         {
           "episode": 13,
-          "airingAt": 1774450800
+          "airingAt": 1774537200
         }
       ]
     },
@@ -2912,7 +2873,7 @@
       "Comedy",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-WQ153lF3pDH6.jpg",
@@ -5333,10 +5294,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 39,
-          "airingAt": 1774389960
-        },
-        {
           "episode": 40,
           "airingAt": 1774994760
         },
@@ -7198,7 +7155,7 @@
   },
   {
     "id": 201090,
-    "idMal": null,
+    "idMal": 62852,
     "title": {
       "romaji": "Ghost Concert: missing Songs",
       "english": "GHOST CONCERT : missing Songs",
@@ -8365,10 +8322,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1774393200
-        },
-        {
           "episode": 13,
           "airingAt": 1774998000
         },
@@ -8440,10 +8393,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1774400040
-        },
         {
           "episode": 11,
           "airingAt": 1775004840
@@ -8999,6 +8948,85 @@
         {
           "episode": 12,
           "airingAt": 1782233940
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 207675,
+    "idMal": 63469,
+    "title": {
+      "romaji": "Hyakki Yakou Shou",
+      "english": null,
+      "native": "百鬼夜行抄",
+      "userPreferred": "Hyakki Yakou Shou"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207675-h3TZK82jG5aD.png",
+      "color": "#e4a15d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775566500
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776171300
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776776100
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777380900
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777985700
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778590500
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779195300
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779800100
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780404900
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781009700
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781614500
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782219300
         }
       ]
     },
