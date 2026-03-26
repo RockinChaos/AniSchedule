@@ -2279,40 +2279,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 172463,
-    "idMal": 57658,
-    "title": {
-      "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
-      "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
-      "native": "呪術廻戦 死滅回游 前編",
-      "userPreferred": "JUJUTSU KAISEN Season 3: The Culling Game Part 1"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx172463-LnXqHzt74SJL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx172463-LnXqHzt74SJL.jpg",
-      "color": "#5093d6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172463-3J2o3qQZadFJ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774538760
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 173172,
     "idMal": 57779,
     "title": {
@@ -2395,43 +2361,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 176276,
-    "idMal": 58505,
-    "title": {
-      "romaji": "Mato Seihei no Slave 2",
-      "english": "Chained Soldier Season 2",
-      "native": "魔都精兵のスレイブ2",
-      "userPreferred": "Chained Soldier Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Ecchi",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176276-rtF8mYd2OWw2.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176276-rtF8mYd2OWw2.png",
-      "color": "#f1505d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176276-ES97CHqKSrLg.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774533600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 176370,
     "idMal": 58524,
     "title": {
@@ -2495,6 +2424,164 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 177501,
+    "idMal": 58820,
+    "title": {
+      "romaji": "Awajima Hyakkei",
+      "english": "A Hundred Scenes of AWAJIMA",
+      "native": "淡島百景",
+      "userPreferred": "A Hundred Scenes of AWAJIMA"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-lLkxUFVZ8uAj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177501-lLkxUFVZ8uAj.jpg",
+      "color": "#e4c9a1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775753100
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776357900
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776962700
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777567500
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778172300
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778777100
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779381900
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779986700
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780591500
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781196300
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781801100
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782405900
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 177508,
+    "idMal": 58832,
+    "title": {
+      "romaji": "Kujima Utaeba Ie Hororo",
+      "english": "Kujima: Why Sing, When You Can Warble?",
+      "native": "クジマ歌えば家ほろろ",
+      "userPreferred": "Kujima: Why Sing, When You Can Warble?"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177508-Q3eSW8XyqNgB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177508-Q3eSW8XyqNgB.png",
+      "color": "#f1c950"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775745000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776349800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776954600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777559400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778164200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778769000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779373800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779978600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780583400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781188200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781793000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782397800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2602,39 +2689,6 @@
         {
           "episode": 13,
           "airingAt": 1774969200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 178005,
-    "idMal": 59047,
-    "title": {
-      "romaji": "Tamon-kun Ima Docchi!?",
-      "english": "Tamon's B-Side",
-      "native": "多聞くん今どっち！？",
-      "userPreferred": "Tamon's B-Side"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178005-pCEReATswrup.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178005-pCEReATswrup.jpg",
-      "color": "#f15078"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178005-X4Tr7p0sCQbx.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1774537200
         }
       ]
     },
@@ -3576,42 +3630,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 183270,
-    "idMal": 60151,
-    "title": {
-      "romaji": "Eris no Seihai",
-      "english": "The Holy Grail of Eris",
-      "native": "エリスの聖杯",
-      "userPreferred": "The Holy Grail of Eris"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Mystery",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183270-CmZikKu34WPd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183270-CmZikKu34WPd.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183270-LO0vGZ0mCJgW.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774536960
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 183660,
     "idMal": 60223,
     "title": {
@@ -3841,40 +3859,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 185039,
-    "idMal": 60395,
-    "title": {
-      "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-      "english": "The Invisible Man and His Soon-to-Be Wife",
-      "native": "透明男と人間女～そのうち夫婦になるふたり～",
-      "userPreferred": "The Invisible Man and His Soon-to-Be Wife"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185039-rVofxrbEyaL9.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185039-rVofxrbEyaL9.jpg",
-      "color": "#f1d6bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185039-Lh6EIwvvwGaL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774535400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185262,
     "idMal": 60460,
     "title": {
@@ -3967,38 +3951,6 @@
         {
           "episode": 51,
           "airingAt": 1774736160
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 185753,
-    "idMal": 60602,
-    "title": {
-      "romaji": "MF Ghost 3rd Season",
-      "english": "MF GHOST Season 3",
-      "native": "MFゴースト 3rd Season",
-      "userPreferred": "MF GHOST Season 3"
-    },
-    "format": "ONA",
-    "genres": [
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
-      "color": "#35aee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1774535400
         }
       ]
     },
@@ -4326,39 +4278,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 187375,
-    "idMal": 61156,
-    "title": {
-      "romaji": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de",
-      "english": null,
-      "native": "アイドルマスター ミリオンライブ！～いつか、真ん中で～",
-      "userPreferred": "THE IDOLM@STER Million Live!: Itsuka, Mannaka de"
-    },
-    "format": "OVA",
-    "genres": [
-      "Music"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187375-0Vquhap6D5zX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187375-0Vquhap6D5zX.jpg",
-      "color": "#f1d643"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4759,39 +4678,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 189137,
-    "idMal": 61325,
-    "title": {
-      "romaji": "Douse, Koishite Shimaunda. Season 2",
-      "english": "Anyway, I'm Falling in Love with You. Season 2",
-      "native": "どうせ、恋してしまうんだ。Season 2",
-      "userPreferred": "Anyway, I'm Falling in Love with You. Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189137-cCXaEiX0bJb4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189137-cCXaEiX0bJb4.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774542480
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 189258,
     "idMal": 61333,
     "title": {
@@ -4982,39 +4868,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 190668,
-    "idMal": 61492,
-    "title": {
-      "romaji": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai",
-      "english": null,
-      "native": "えんとつ町のプペル 〜約束の時計台〜",
-      "userPreferred": "Entotsu-machi no Poupelle: Yakusoku no Tokei-dai"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190668-8r3mK40eIm3E.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190668-8r3mK40eIm3E.png",
-      "color": "#e4bb5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 190704,
     "idMal": 61501,
     "title": {
@@ -5092,42 +4945,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 191718,
-    "idMal": 61587,
-    "title": {
-      "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-      "english": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
-      "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
-      "userPreferred": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy",
-      "Horror"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191718-FeR6bnlkqF0J.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191718-FeR6bnlkqF0J.png",
-      "color": "#28bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191718-PjYwTxKsdQva.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774539000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5617,38 +5434,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 195360,
-    "idMal": 62339,
-    "title": {
-      "romaji": "Honey Blonde 2",
-      "english": null,
-      "native": "ハニーブロンド2",
-      "userPreferred": "Honey Blonde 2"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195360-PAlYR0UnuGdV.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195360-PAlYR0UnuGdV.png",
-      "color": "#938628"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1774537200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -6480,6 +6265,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 198369,
+    "idMal": 62387,
+    "title": {
+      "romaji": "Meitantei Conan: Highway no Datenshi",
+      "english": null,
+      "native": "名探偵コナン ハイウェイの堕天使",
+      "userPreferred": "Meitantei Conan: Highway no Datenshi"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mystery"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198369-SCQoqNEk325p.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198369-SCQoqNEk325p.jpg",
+      "color": "#e4ae35"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198369-MmvnBvHzuB3D.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775746800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 198374,
     "idMal": 62432,
     "title": {
@@ -6787,70 +6605,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 199162,
-    "idMal": 62578,
-    "title": {
-      "romaji": "Cool de M",
-      "english": null,
-      "native": "クール de M",
-      "userPreferred": "Cool de M"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199162-8ZpNn7vPn2rY.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199162-8ZpNn7vPn2rY.jpg",
-      "color": "#aed6f1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199164,
-    "idMal": 62577,
-    "title": {
-      "romaji": "Seihou Shouka Saint Lime VN: VeasTube Eroero Haishin Edition♪",
-      "english": null,
-      "native": "聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～",
-      "userPreferred": "Seihou Shouka Saint Lime VN: VeasTube Eroero Haishin Edition♪"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199164-kQ2sVvNXU392.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199164-kQ2sVvNXU392.jpg",
-      "color": "#e4ae50"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1774537200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -8314,73 +8068,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 204463,
-    "idMal": 63158,
-    "title": {
-      "romaji": "Hebi to Kumo",
-      "english": null,
-      "native": "蛇と蜘蛛",
-      "userPreferred": "Hebi to Kumo"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204463-2QQfFwEZL77K.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204463-2QQfFwEZL77K.png",
-      "color": "#f1d6bb"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 204560,
-    "idMal": 63232,
-    "title": {
-      "romaji": "Phantom Alchemia: Sylvia no Dokidoki Sakusei Toshi Keikaku",
-      "english": null,
-      "native": "ファントム・アルケミア ～シルヴィアのドキドキ搾精都市計画～",
-      "userPreferred": "Phantom Alchemia: Sylvia no Dokidoki Sakusei Toshi Keikaku"
-    },
-    "format": "OVA",
-    "genres": [
-      "Fantasy",
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204560-p9A5TzVb3mB1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204560-p9A5TzVb3mB1.png",
-      "color": "#e45d86"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 204656,
     "idMal": 63151,
     "title": {
@@ -8646,6 +8333,43 @@
     "zeroEpisode": false
   },
   {
+    "id": 206004,
+    "idMal": 63345,
+    "title": {
+      "romaji": "Love wa Gal kara Hajimaru Unmei",
+      "english": null,
+      "native": "ラブはギャルから始まる運命",
+      "userPreferred": "Love wa Gal kara Hajimaru Unmei"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206004-gwD6l2pmSvCr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206004-gwD6l2pmSvCr.png",
+      "color": null
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775746800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1780585200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 206523,
     "idMal": null,
     "title": {
@@ -8854,72 +8578,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 206915,
-    "idMal": null,
-    "title": {
-      "romaji": "Kegareboshi Murasaki",
-      "english": null,
-      "native": "ケガレボシ 紫",
-      "userPreferred": "Kegareboshi Murasaki"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206915-e41ZMPyvF3RA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206915-e41ZMPyvF3RA.png",
-      "color": "#f1785d"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 206916,
-    "idMal": null,
-    "title": {
-      "romaji": "Kegareboshi Kuro",
-      "english": null,
-      "native": "ケガレボシ 黒",
-      "userPreferred": "Kegareboshi Kuro"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206916-fXU6ZIYPO4Q5.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206916-fXU6ZIYPO4Q5.png",
-      "color": "#f150a1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1774537200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 206951,
     "idMal": 63376,
     "title": {
@@ -9070,6 +8728,40 @@
         {
           "episode": 12,
           "airingAt": 1782219300
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 209312,
+    "idMal": null,
+    "title": {
+      "romaji": "Girls und Panzer: Ribbon no Musha Pilot-ban",
+      "english": null,
+      "native": "ガールズ＆パンツァー リボンの武者 パイロット版",
+      "userPreferred": "Girls und Panzer: Ribbon no Musha Pilot-ban"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209312-ZQGohKvgqGP6.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209312-ZQGohKvgqGP6.png",
+      "color": "#d61a28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775746800
         }
       ]
     },
