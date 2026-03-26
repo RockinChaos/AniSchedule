@@ -1960,41 +1960,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 167152,
-    "idMal": 56009,
-    "title": {
-      "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
-      "english": "Sentenced to Be a Hero",
-      "native": "勇者刑に処す　懲罰勇者9004隊刑務記録",
-      "userPreferred": "Sentenced to Be a Hero"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 25,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx167152-u0cBZkqDowHP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx167152-u0cBZkqDowHP.jpg",
-      "color": "#f1935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/167152-6QxZG8Dmf1EL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774531800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 169580,
     "idMal": 56734,
     "title": {
@@ -3454,6 +3419,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 182483,
+    "idMal": 60028,
+    "title": {
+      "romaji": "Hime Kishi wa Barbaroi no Yome",
+      "english": "The Warrior Princess and the Barbaric King",
+      "native": "姫騎士は蛮族の嫁",
+      "userPreferred": "The Warrior Princess and the Barbaric King"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182483-La7chs6htDWr.jpg",
+      "color": "#50bbf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775737800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776342600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776947400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777552200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778157000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778761800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779366600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779971400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780576200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781181000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781785800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782390600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 183231,
     "idMal": null,
     "title": {
@@ -4181,10 +4225,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1774530000
-        },
-        {
           "episode": 26,
           "airingAt": 1775134800
         },
@@ -4279,6 +4319,10 @@
         {
           "episode": 49,
           "airingAt": 1789045200
+        },
+        {
+          "episode": 50,
+          "airingAt": 1789650000
         }
       ]
     },
@@ -5416,10 +5460,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 26,
-          "airingAt": 1774522800
-        },
-        {
           "episode": 27,
           "airingAt": 1775127600
         },
@@ -5968,46 +6008,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 196227,
-    "idMal": 62083,
-    "title": {
-      "romaji": "TOMICA & TOM",
-      "english": null,
-      "native": "トミカとトム",
-      "userPreferred": "TOMICA & TOM"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196227-B9kbcrGihskA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196227-B9kbcrGihskA.png",
-      "color": "#e47828"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1776555000
-        },
-        {
-          "episode": 8,
-          "airingAt": 1778974200
-        },
-        {
-          "episode": 9,
-          "airingAt": 1781998200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -8088,10 +8088,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1774522800
-        },
-        {
           "episode": 23,
           "airingAt": 1775127600
         },
@@ -8451,42 +8447,6 @@
         {
           "episode": 23,
           "airingAt": 1781046000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 204698,
-    "idMal": 63216,
-    "title": {
-      "romaji": "GelPiyo",
-      "english": null,
-      "native": "ゲルぴよ",
-      "userPreferred": "GelPiyo"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 4,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204698-6v7aAq92mKFl.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204698-6v7aAq92mKFl.png",
-      "color": "#f1c95d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1775004840
-        },
-        {
-          "episode": 12,
-          "airingAt": 1775609640
         }
       ]
     },
@@ -9143,91 +9103,91 @@
       "nodes": [
         {
           "episode": 2,
-          "airingAt": 1775079000
+          "airingAt": 1775122200
         },
         {
           "episode": 3,
-          "airingAt": 1775683800
+          "airingAt": 1775727000
         },
         {
           "episode": 4,
-          "airingAt": 1776288600
+          "airingAt": 1776331800
         },
         {
           "episode": 5,
-          "airingAt": 1776893400
+          "airingAt": 1776936600
         },
         {
           "episode": 6,
-          "airingAt": 1777498200
+          "airingAt": 1777541400
         },
         {
           "episode": 7,
-          "airingAt": 1778103000
+          "airingAt": 1778146200
         },
         {
           "episode": 8,
-          "airingAt": 1778707800
+          "airingAt": 1778751000
         },
         {
           "episode": 9,
-          "airingAt": 1779312600
+          "airingAt": 1779355800
         },
         {
           "episode": 10,
-          "airingAt": 1779917400
+          "airingAt": 1779960600
         },
         {
           "episode": 11,
-          "airingAt": 1780522200
+          "airingAt": 1780565400
         },
         {
           "episode": 12,
-          "airingAt": 1781127000
+          "airingAt": 1781170200
         },
         {
           "episode": 13,
-          "airingAt": 1781731800
+          "airingAt": 1781775000
         },
         {
           "episode": 14,
-          "airingAt": 1782336600
+          "airingAt": 1782379800
         },
         {
           "episode": 15,
-          "airingAt": 1782941400
+          "airingAt": 1782984600
         },
         {
           "episode": 16,
-          "airingAt": 1783546200
+          "airingAt": 1783589400
         },
         {
           "episode": 17,
-          "airingAt": 1784151000
+          "airingAt": 1784194200
         },
         {
           "episode": 18,
-          "airingAt": 1784755800
+          "airingAt": 1784799000
         },
         {
           "episode": 19,
-          "airingAt": 1785360600
+          "airingAt": 1785403800
         },
         {
           "episode": 20,
-          "airingAt": 1785965400
+          "airingAt": 1786008600
         },
         {
           "episode": 21,
-          "airingAt": 1786570200
+          "airingAt": 1786613400
         },
         {
           "episode": 22,
-          "airingAt": 1787175000
+          "airingAt": 1787218200
         },
         {
           "episode": 23,
-          "airingAt": 1787779800
+          "airingAt": 1787823000
         }
       ]
     },
