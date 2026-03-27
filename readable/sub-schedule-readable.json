@@ -1747,10 +1747,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 122,
-          "airingAt": 1774603500
-        },
-        {
           "episode": 123,
           "airingAt": 1775208300
         },
@@ -6228,36 +6224,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 198117,
-    "idMal": 62378,
-    "title": {
-      "romaji": "GANGLION",
-      "english": null,
-      "native": "ガングリオン",
-      "userPreferred": "GANGLION"
-    },
-    "format": "TV_SHORT",
-    "genres": [],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198117-ms0mzmuyOw8n.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198117-ms0mzmuyOw8n.png",
-      "color": "#e45d50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1774617720
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
