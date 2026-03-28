@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1195,
-          "airingAt": 1774688400
-        },
-        {
           "episode": 1196,
           "airingAt": 1775293200
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1219,
           "airingAt": 1789203600
+        },
+        {
+          "episode": 1220,
+          "airingAt": 1789808400
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1328,
-          "airingAt": 1774683000
-        },
         {
           "episode": 1329,
           "airingAt": 1775287800
@@ -387,6 +383,10 @@
         {
           "episode": 1352,
           "airingAt": 1789198200
+        },
+        {
+          "episode": 1353,
+          "airingAt": 1789803000
         }
       ]
     },
@@ -676,10 +676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 908,
-          "airingAt": 1774684800
-        },
-        {
           "episode": 909,
           "airingAt": 1775289600
         },
@@ -774,6 +770,10 @@
         {
           "episode": 932,
           "airingAt": 1789200000
+        },
+        {
+          "episode": 933,
+          "airingAt": 1789804800
         }
       ]
     },
@@ -3860,6 +3860,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 185211,
+    "idMal": 60444,
+    "title": {
+      "romaji": "Yowa Yowa Sensei",
+      "english": "Yowayowa Sensei",
+      "native": "よわよわ先生",
+      "userPreferred": "Yowayowa Sensei"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185211-ewfgT5Cn99k0.jpg",
+      "color": "#f1bbae"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775910600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776515400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1777120200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777725000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778329800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778934600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779539400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1780144200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780749000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781353800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781958600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782563400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 185646,
     "idMal": 60534,
     "title": {
@@ -4360,40 +4439,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187941,
-    "idMal": 61207,
-    "title": {
-      "romaji": "Tensei Shitara Dragon no Tamago Datta",
-      "english": "Reincarnated as a Dragon Hatchling",
-      "native": "転生したらドラゴンの卵だった",
-      "userPreferred": "Reincarnated as a Dragon Hatchling"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187941-ykmc8WRedPpw.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-ykmc8WRedPpw.jpg",
-      "color": "#f1930d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187941-wdkhGnf4LUH0.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774701000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 187989,
     "idMal": 61217,
     "title": {
@@ -4721,38 +4766,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 189258,
-    "idMal": 61333,
-    "title": {
-      "romaji": "Ao no Miburo: Serizawa Ansatsu-hen",
-      "english": "Blue Miburo Season 2",
-      "native": "青のミブロ 芹沢暗殺編",
-      "userPreferred": "Blue Miburo Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189258-qhtrra5ebBm6.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189258-qhtrra5ebBm6.jpg",
-      "color": "#50bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1774686600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
