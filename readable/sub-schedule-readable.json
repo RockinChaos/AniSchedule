@@ -978,10 +978,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 146,
-          "airingAt": 1774663200
-        },
-        {
           "episode": 147,
           "airingAt": 1775268000
         },
@@ -1096,10 +1092,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 209,
-          "airingAt": 1774650600
-        },
         {
           "episode": 210,
           "airingAt": 1775255400
@@ -7824,39 +7816,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 203148,
-    "idMal": 63106,
-    "title": {
-      "romaji": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu",
-      "english": null,
-      "native": "ほっぺちゃん ～サン王国と黒ほっぺ団の秘密～",
-      "userPreferred": "Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203148-fMhz9uyA6HEK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203148-fMhz9uyA6HEK.jpg",
-      "color": "#1a93d6"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774641600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 203296,
     "idMal": 62649,
     "title": {
@@ -7882,10 +7841,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1774652400
-        },
         {
           "episode": 11,
           "airingAt": 1775257200
@@ -9096,12 +9051,12 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209940-uWstQYIJ34kC.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209940-uWstQYIJ34kC.png",
-      "color": "#d6bb1a"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209940-wV4VrfO2c5dE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209940-wV4VrfO2c5dE.jpg",
+      "color": "#f1c900"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209940-5otPJXyKJkbf.jpg",
     "airingSchedule": {
       "nodes": [
         {
