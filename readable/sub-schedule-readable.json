@@ -418,10 +418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2825,
-          "airingAt": 1774776600
-        },
-        {
           "episode": 2826,
           "airingAt": 1775381400
         },
@@ -516,6 +512,10 @@
         {
           "episode": 2849,
           "airingAt": 1789291800
+        },
+        {
+          "episode": 2850,
+          "airingAt": 1789896600
         }
       ]
     },
@@ -805,10 +805,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 359,
-          "airingAt": 1774774800
-        },
         {
           "episode": 360,
           "airingAt": 1775379600
@@ -2827,7 +2823,39 @@
       "nodes": [
         {
           "episode": 4,
-          "airingAt": 1775365200
+          "airingAt": 1775361600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1775966400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1776571200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1777176000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1777780800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1778385600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1778990400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1779595200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1780200000
         }
       ]
     },
@@ -3325,6 +3353,42 @@
     "zeroEpisode": false
   },
   {
+    "id": 182300,
+    "idMal": 59983,
+    "title": {
+      "romaji": "Tsue to Tsurugi no Wistoria Season 2",
+      "english": "Wistoria: Wand and Sword Season 2",
+      "native": "杖と剣のウィストリア Season2",
+      "userPreferred": "Wistoria: Wand and Sword Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182300-IYkq5KrkQq1V.jpg",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775979000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 182483,
     "idMal": 60028,
     "title": {
@@ -3397,6 +3461,85 @@
         {
           "episode": 12,
           "airingAt": 1782390600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 182578,
+    "idMal": 60055,
+    "title": {
+      "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "english": null,
+      "native": "夜桜さんちの大作戦 第2期",
+      "userPreferred": "Yozakura-san Chi no Daisakusen 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182578-Te8W0EwesgrS.jpg",
+      "color": "#50d6e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775980800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776585600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1777190400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777795200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778400000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1779004800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779609600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1780214400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780819200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781424000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1782028800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782633600
         }
       ]
     },
@@ -3479,40 +3622,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 183660,
-    "idMal": 60223,
-    "title": {
-      "romaji": "Kaya-chan wa Kowakunai",
-      "english": "Kaya-chan Isn't Scary",
-      "native": "カヤちゃんはコワくない",
-      "userPreferred": "Kaya-chan Isn't Scary"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183660-B6o9cMfSfScX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183660-B6o9cMfSfScX.jpg",
-      "color": "#f15d35"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183660-RmcBY27wn8A4.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774773000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -3643,41 +3752,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 184951,
-    "idMal": 60371,
-    "title": {
-      "romaji": "Seihantai na Kimi to Boku",
-      "english": "You and I Are Polar Opposites",
-      "native": "正反対な君と僕",
-      "userPreferred": "You and I Are Polar Opposites"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184951-s8Lg2muPBhdX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184951-s8Lg2muPBhdX.jpg",
-      "color": "#f1ae28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184951-Rx1mZZfKa9IU.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774771200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 185211,
     "idMal": 60444,
     "title": {
@@ -3754,6 +3828,134 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 185646,
+    "idMal": 60534,
+    "title": {
+      "romaji": "Koupen-chan",
+      "english": null,
+      "native": "コウペンちゃん",
+      "userPreferred": "Koupen-chan"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185646-2eGmsnaSHiLC.jpg",
+      "color": "#aed643"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 53,
+          "airingAt": 1775343600
+        },
+        {
+          "episode": 54,
+          "airingAt": 1775948400
+        },
+        {
+          "episode": 55,
+          "airingAt": 1776553200
+        },
+        {
+          "episode": 56,
+          "airingAt": 1777158000
+        },
+        {
+          "episode": 57,
+          "airingAt": 1777762800
+        },
+        {
+          "episode": 58,
+          "airingAt": 1778367600
+        },
+        {
+          "episode": 59,
+          "airingAt": 1778972400
+        },
+        {
+          "episode": 60,
+          "airingAt": 1779577200
+        },
+        {
+          "episode": 61,
+          "airingAt": 1780182000
+        },
+        {
+          "episode": 62,
+          "airingAt": 1780786800
+        },
+        {
+          "episode": 63,
+          "airingAt": 1781391600
+        },
+        {
+          "episode": 64,
+          "airingAt": 1781996400
+        },
+        {
+          "episode": 65,
+          "airingAt": 1782601200
+        },
+        {
+          "episode": 66,
+          "airingAt": 1783206000
+        },
+        {
+          "episode": 67,
+          "airingAt": 1783810800
+        },
+        {
+          "episode": 68,
+          "airingAt": 1784415600
+        },
+        {
+          "episode": 69,
+          "airingAt": 1785020400
+        },
+        {
+          "episode": 70,
+          "airingAt": 1785625200
+        },
+        {
+          "episode": 71,
+          "airingAt": 1786230000
+        },
+        {
+          "episode": 72,
+          "airingAt": 1786834800
+        },
+        {
+          "episode": 73,
+          "airingAt": 1787439600
+        },
+        {
+          "episode": 74,
+          "airingAt": 1788044400
+        },
+        {
+          "episode": 75,
+          "airingAt": 1788649200
+        },
+        {
+          "episode": 76,
+          "airingAt": 1789254000
+        },
+        {
+          "episode": 77,
+          "airingAt": 1789858800
+        }
+      ]
+    },
     "zeroEpisode": false
   },
   {
@@ -4689,39 +4891,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 192507,
-    "idMal": 61663,
-    "title": {
-      "romaji": "Uruwashi no Yoi no Tsuki",
-      "english": "In the Clear Moonlit Dusk",
-      "native": "うるわしの宵の月",
-      "userPreferred": "In the Clear Moonlit Dusk"
-    },
-    "format": "TV",
-    "genres": [
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192507-SCmImUlUnpAD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192507-SCmImUlUnpAD.jpg",
-      "color": "#5086e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192507-nv0NJmhQYTgz.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1774769400
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
