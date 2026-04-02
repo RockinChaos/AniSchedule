@@ -1921,9 +1921,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-PuiHMD1lpUJv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-PuiHMD1lpUJv.png",
-      "color": "#e4d65d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-bAzV59Mh9piA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-bAzV59Mh9piA.jpg",
+      "color": "#e4d635"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -2723,10 +2723,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775143800
-        },
-        {
           "episode": 2,
           "airingAt": 1775748600
         },
@@ -2757,10 +2753,25 @@
         {
           "episode": 9,
           "airingAt": 1779982200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780587000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781191800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781796600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782401400
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2941,10 +2952,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775143560
-        },
-        {
           "episode": 2,
           "airingAt": 1775748360
         },
@@ -2990,7 +2997,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3754,10 +3760,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775141760
-        },
-        {
           "episode": 2,
           "airingAt": 1775746560
         },
@@ -3803,7 +3805,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5183,40 +5184,6 @@
         {
           "episode": 12,
           "airingAt": 1782219600
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 195333,
-    "idMal": 61943,
-    "title": {
-      "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
-      "english": "Haibara's Teenage New Game+",
-      "native": "灰原くんの強くて青春ニューゲーム",
-      "userPreferred": "Haibara's Teenage New Game+"
-    },
-    "format": "TV",
-    "genres": [
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195333-KUIF1eqOdVdd.png",
-      "color": "#1aa1ff"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775147280
         }
       ]
     },
@@ -7169,10 +7136,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775149080
-        },
-        {
           "episode": 2,
           "airingAt": 1775753880
         },
@@ -7218,7 +7181,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8404,113 +8366,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 205054,
-    "idMal": null,
-    "title": {
-      "romaji": "Tensei Akujo no Kuro Rekishi OVA",
-      "english": null,
-      "native": "転生悪女の黒歴史 OVA",
-      "userPreferred": "Tensei Akujo no Kuro Rekishi OVA"
-    },
-    "format": "OVA",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205054-yDlMfYNpj3M1.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205054-yDlMfYNpj3M1.jpg",
-      "color": "#fff143"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775142000
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 205676,
-    "idMal": 63275,
-    "title": {
-      "romaji": "Black Jack Yanen",
-      "english": null,
-      "native": "ブラックジャックやねん",
-      "userPreferred": "Black Jack Yanen"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 2,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205676-VlzcdwHYdJCe.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205676-VlzcdwHYdJCe.png",
-      "color": "#f15d93"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1775685600
-        },
-        {
-          "episode": 15,
-          "airingAt": 1776290400
-        },
-        {
-          "episode": 16,
-          "airingAt": 1776895200
-        },
-        {
-          "episode": 17,
-          "airingAt": 1777500000
-        },
-        {
-          "episode": 18,
-          "airingAt": 1778104800
-        },
-        {
-          "episode": 19,
-          "airingAt": 1778709600
-        },
-        {
-          "episode": 20,
-          "airingAt": 1779314400
-        },
-        {
-          "episode": 21,
-          "airingAt": 1779919200
-        },
-        {
-          "episode": 22,
-          "airingAt": 1780524000
-        },
-        {
-          "episode": 23,
-          "airingAt": 1781128800
-        },
-        {
-          "episode": 24,
-          "airingAt": 1781733600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 205772,
     "idMal": 63276,
     "title": {
@@ -9672,10 +9527,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775148600
-        },
-        {
           "episode": 2,
           "airingAt": 1775753400
         },
@@ -9721,7 +9572,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
