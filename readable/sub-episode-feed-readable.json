@@ -25,7 +25,7 @@
     "id": 202381,
     "idMal": 62964,
     "format": "TV",
-    "duration": 25,
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T16:58:00Z",
@@ -36,7 +36,7 @@
     "id": 209940,
     "idMal": 63709,
     "format": "TV",
-    "duration": 25,
+    "duration": 23,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T16:50:00Z",
@@ -47,7 +47,7 @@
     "id": 195333,
     "idMal": 61943,
     "format": "TV",
-    "duration": 25,
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T16:28:00Z",
@@ -55,10 +55,21 @@
     }
   },
   {
+    "id": 210234,
+    "idMal": 63304,
+    "format": "TV_SHORT",
+    "duration": 5,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-02T16:00:00Z",
+      "addedAt": "2026-04-03T03:19:04Z"
+    }
+  },
+  {
     "id": 179950,
     "idMal": 59443,
     "format": "TV",
-    "duration": 25,
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T15:30:00Z",
@@ -69,7 +80,7 @@
     "id": 181284,
     "idMal": 59835,
     "format": "TV",
-    "duration": 25,
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T15:26:00Z",
@@ -90,7 +101,7 @@
     "id": 186497,
     "idMal": 60852,
     "format": "TV",
-    "duration": 25,
+    "duration": 26,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T14:56:00Z",
@@ -112,7 +123,7 @@
     "id": 199221,
     "idMal": 62568,
     "format": "TV",
-    "duration": 25,
+    "duration": 24,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-02T13:00:00Z",
@@ -192,17 +203,6 @@
     "duration": 24,
     "episode": {
       "aired": 4,
-      "airedAt": "2026-04-01T15:00:00Z",
-      "addedAt": "2026-04-01T15:00:21Z"
-    }
-  },
-  {
-    "id": 200769,
-    "idMal": 62825,
-    "format": "ONA",
-    "duration": 24,
-    "episode": {
-      "aired": 1,
       "airedAt": "2026-04-01T15:00:00Z",
       "addedAt": "2026-04-01T15:00:21Z"
     }
@@ -348,6 +348,17 @@
       "aired": 40,
       "airedAt": "2026-03-31T22:06:00Z",
       "addedAt": "2026-03-31T22:06:19Z"
+    }
+  },
+  {
+    "id": 200769,
+    "idMal": 62825,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-03-31T15:00:00Z",
+      "addedAt": "2026-04-01T15:00:21Z"
     }
   },
   {

@@ -546,10 +546,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 650,
-          "airingAt": 1775167800
-        },
-        {
           "episode": 651,
           "airingAt": 1775772600
         },
@@ -644,6 +640,10 @@
         {
           "episode": 674,
           "airingAt": 1789683000
+        },
+        {
+          "episode": 675,
+          "airingAt": 1790287800
         }
       ]
     },
@@ -1035,10 +1035,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 331,
-          "airingAt": 1775169600
-        },
-        {
           "episode": 332,
           "airingAt": 1775515200
         },
@@ -1199,9 +1195,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-QrKDkM4yqp7f.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-QrKDkM4yqp7f.jpg",
-      "color": null
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-rwOX8qyUy8gV.jpg",
+      "color": "#0d8693"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
@@ -1921,9 +1917,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-bAzV59Mh9piA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-bAzV59Mh9piA.jpg",
-      "color": "#e4d635"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-djbN0b934MhE.jpg",
+      "color": "#e4d628"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -2711,7 +2707,7 @@
       "Action",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
@@ -2930,9 +2926,9 @@
     "idMal": 59835,
     "title": {
       "romaji": "Kirio Fanclub",
-      "english": null,
+      "english": "Kirio Fan Club",
       "native": "霧尾ファンクラブ",
-      "userPreferred": "Kirio Fanclub"
+      "userPreferred": "Kirio Fan Club"
     },
     "format": "TV",
     "genres": [
@@ -2940,7 +2936,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181284-JJafhd5gDT53.jpg",
@@ -3748,7 +3744,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 26,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
@@ -4913,8 +4909,8 @@
     "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-FxQ1HysOYsLF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-FxQ1HysOYsLF.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-M7t2ymBDHqyW.jpg",
       "color": "#e49335"
     },
     "isAdult": false,
@@ -5188,6 +5184,79 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 195333,
+    "idMal": 61943,
+    "title": {
+      "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
+      "english": "Haibara's Teenage New Game+",
+      "native": "灰原くんの強くて青春ニューゲーム",
+      "userPreferred": "Haibara's Teenage New Game+"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195333-KUIF1eqOdVdd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195333-KUIF1eqOdVdd.png",
+      "color": "#1aa1ff"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1775752080
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776356880
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776961680
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777566480
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778171280
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778776080
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779380880
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779985680
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780590480
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781195280
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781800080
+        }
+      ]
+    },
     "zeroEpisode": false
   },
   {
@@ -5924,6 +5993,98 @@
         {
           "episode": 1,
           "airingAt": 1775487600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1776092400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776697200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777302000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777906800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778511600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779116400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779721200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780326000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780930800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781535600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782140400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782745200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783350000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783954800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784559600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1785164400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785769200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786374000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786978800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787583600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1788188400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788793200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789398000
         }
       ]
     },
@@ -5944,9 +6105,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-Fclt06L5Ht2r.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197824-Fclt06L5Ht2r.jpg",
-      "color": "#f1e45d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197824-k9Uyef8g49hB.png",
+      "color": "#ae7835"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
@@ -6505,7 +6666,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
@@ -7124,7 +7285,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202381-bxgyUXGtGtZj.jpg",
@@ -9515,7 +9676,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209940-wV4VrfO2c5dE.jpg",
@@ -9679,6 +9840,80 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 210234,
+    "idMal": 63304,
+    "title": {
+      "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
+      "english": null,
+      "native": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~",
+      "userPreferred": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210234-MZaMjdbBzEHz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210234-MZaMjdbBzEHz.jpg",
+      "color": "#e4505d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1775750400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776355200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776960000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777564800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778169600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778774400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779379200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779984000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780588800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781193600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781798400
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
