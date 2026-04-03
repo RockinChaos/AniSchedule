@@ -1891,17 +1891,18 @@
     "title": "Snowball Earth",
     "route": "snowball-earth",
     "native": "スノウボールアース",
-    "delayedFrom": "0001-01-01T14:40:00Z",
-    "delayedUntil": "0001-01-01T14:40:00Z",
-    "episodeDate": "2026-04-03T14:40:00Z",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-03T14:30:00Z",
     "episodeNumber": 1,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196144,
@@ -1930,8 +1931,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-03T14:40:00Z"
+              "episode": 2,
+              "airingAt": "2026-04-10T14:30:00Z"
             }
           ]
         },
@@ -1988,8 +1989,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-04-03T15:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-04-10T15:00:00Z"
             }
           ]
         },
