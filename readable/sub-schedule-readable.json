@@ -1914,7 +1914,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
@@ -1925,10 +1925,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775223000
-        },
         {
           "episode": 2,
           "airingAt": 1775827800
@@ -1975,7 +1971,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2555,41 +2550,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 179062,
-    "idMal": 59229,
-    "title": {
-      "romaji": "Enen no Shouboutai: San no Shou Part 2",
-      "english": "Fire Force Season 3 Part 2",
-      "native": "炎炎ノ消防隊 参ノ章 第2クール",
-      "userPreferred": "Fire Force Season 3 Part 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
-      "color": "#febb28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1775235180
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 179813,
     "idMal": 59393,
     "title": {
@@ -3011,7 +2971,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
@@ -3022,10 +2982,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775224800
-        },
         {
           "episode": 2,
           "airingAt": 1775829600
@@ -3120,7 +3076,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4709,14 +4664,14 @@
       "native": "自称悪役令嬢な婚約者の観察記録。",
       "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Comedy",
       "Fantasy",
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
@@ -4728,56 +4683,51 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775480400
-        },
-        {
           "episode": 2,
-          "airingAt": 1776085200
+          "airingAt": 1775826000
         },
         {
           "episode": 3,
-          "airingAt": 1776690000
+          "airingAt": 1776430800
         },
         {
           "episode": 4,
-          "airingAt": 1777294800
+          "airingAt": 1777035600
         },
         {
           "episode": 5,
-          "airingAt": 1777899600
+          "airingAt": 1777640400
         },
         {
           "episode": 6,
-          "airingAt": 1778504400
+          "airingAt": 1778245200
         },
         {
           "episode": 7,
-          "airingAt": 1779109200
+          "airingAt": 1778850000
         },
         {
           "episode": 8,
-          "airingAt": 1779714000
+          "airingAt": 1779454800
         },
         {
           "episode": 9,
-          "airingAt": 1780318800
+          "airingAt": 1780059600
         },
         {
           "episode": 10,
-          "airingAt": 1780923600
+          "airingAt": 1780664400
         },
         {
           "episode": 11,
-          "airingAt": 1781528400
+          "airingAt": 1781269200
         },
         {
           "episode": 12,
-          "airingAt": 1782133200
+          "airingAt": 1781874000
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5551,6 +5501,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 196029,
+    "idMal": 62050,
+    "title": {
+      "romaji": "Kami no Niwatsuki Kusunoki-tei ",
+      "english": "Kusunoki's Garden of Gods",
+      "native": "神の庭付き楠木邸",
+      "userPreferred": "Kusunoki's Garden of Gods"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196029-4ML0UHngkZhn.jpg",
+      "color": "#e45043"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1775320200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1775925000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776529800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777134600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777739400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778344200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778949000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779553800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780158600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780763400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781368200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781973000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 196144,
     "idMal": 62068,
     "title": {
@@ -5565,7 +5594,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196144-UqVOcMjThkqa.jpg",
@@ -5576,10 +5605,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775226600
-        },
         {
           "episode": 2,
           "airingAt": 1775831400
@@ -5623,10 +5648,13 @@
         {
           "episode": 12,
           "airingAt": 1781879400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782484200
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8429,9 +8457,9 @@
     "idMal": 63130,
     "title": {
       "romaji": "Boku no Hero Academia No. 170+1: More",
-      "english": "My Hero Academia Special Episode “More”",
+      "english": "My Hero Academia More",
       "native": "僕のヒーローアカデミア No. 170+1 「More」",
-      "userPreferred": "My Hero Academia Special Episode “More”"
+      "userPreferred": "My Hero Academia More"
     },
     "format": "SPECIAL",
     "genres": [
@@ -8441,9 +8469,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-1in4XnaKX9n0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204356-1in4XnaKX9n0.jpg",
-      "color": "#f1e428"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-7DZzU5jQEV5n.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204356-7DZzU5jQEV5n.jpg",
+      "color": "#28a1e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8760,9 +8788,9 @@
     "idMal": 63310,
     "title": {
       "romaji": "Ingoku Danchi",
-      "english": null,
+      "english": "Ingoku Danchi:Deviant's Apartment Complex",
       "native": "インゴクダンチ",
-      "userPreferred": "Ingoku Danchi"
+      "userPreferred": "Ingoku Danchi:Deviant's Apartment Complex"
     },
     "format": "TV_SHORT",
     "genres": [
@@ -8781,51 +8809,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1775837400
+          "airingAt": 1775405400
         },
         {
           "episode": 2,
-          "airingAt": 1776442200
+          "airingAt": 1776010200
         },
         {
           "episode": 3,
-          "airingAt": 1777047000
+          "airingAt": 1776615000
         },
         {
           "episode": 4,
-          "airingAt": 1777651800
+          "airingAt": 1777219800
         },
         {
           "episode": 5,
-          "airingAt": 1778256600
+          "airingAt": 1777824600
         },
         {
           "episode": 6,
-          "airingAt": 1778861400
+          "airingAt": 1778429400
         },
         {
           "episode": 7,
-          "airingAt": 1779466200
+          "airingAt": 1779034200
         },
         {
           "episode": 8,
-          "airingAt": 1780071000
+          "airingAt": 1779639000
         },
         {
           "episode": 9,
-          "airingAt": 1780675800
+          "airingAt": 1780243800
         },
         {
           "episode": 10,
-          "airingAt": 1781280600
+          "airingAt": 1780848600
         },
         {
           "episode": 11,
-          "airingAt": 1781885400
+          "airingAt": 1781453400
         },
         {
           "episode": 12,
-          "airingAt": 1782490200
+          "airingAt": 1782058200
         }
       ]
     },
@@ -9161,7 +9189,7 @@
     "title": {
       "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
       "english": "My Ribdiculous Reincarnation",
-      "native": "女神「異世界転生先は何になりたいですか」 俺「勇者の肋骨で」",
+      "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」",
       "userPreferred": "My Ribdiculous Reincarnation"
     },
     "format": "TV",
