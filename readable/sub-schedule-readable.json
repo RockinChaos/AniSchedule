@@ -966,10 +966,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 147,
-          "airingAt": 1775268000
-        },
-        {
           "episode": 148,
           "airingAt": 1775872800
         },
@@ -1072,10 +1068,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 210,
-          "airingAt": 1775255400
-        },
         {
           "episode": 211,
           "airingAt": 1775860200
@@ -3298,10 +3290,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775262360
-        },
-        {
           "episode": 2,
           "airingAt": 1775867160
         },
@@ -3347,7 +3335,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5373,7 +5360,7 @@
     "idMal": 62048,
     "title": {
       "romaji": "MAO",
-      "english": null,
+      "english": "MAO",
       "native": "MAO",
       "userPreferred": "MAO"
     },
@@ -5387,12 +5374,12 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-kawFEw6XhYMh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-kawFEw6XhYMh.jpg",
-      "color": "#e4935d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-R3YNjunufpYh.jpg",
+      "color": "#f1935d"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6442,10 +6429,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775262600
-        },
-        {
           "episode": 2,
           "airingAt": 1775867400
         },
@@ -6491,7 +6474,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8002,10 +7984,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1775257200
-        },
         {
           "episode": 12,
           "airingAt": 1775862000
