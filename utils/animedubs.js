@@ -1,5 +1,7 @@
 import { writable } from 'simple-store-svelte'
 
+const verifiedDubs = [183231]
+
 /**
  * MAL (MyAnimeList) Dubs (Mal-Dubs)
  * Dub information is returned as MyAnimeList ids.
@@ -13,7 +15,7 @@ class MALDubs {
     }
 
     isDubMedia(entry) {
-        if (this.dubLists.value?.dubbed && entry?.media?.media?.idMal) return this.dubLists.value.dubbed.includes(entry?.media?.media.idMal) || this.dubLists.value.incomplete.includes(entry?.media?.media.idMal)
+        if (this.dubLists.value?.dubbed && (entry?.media?.media?.idMal || (entry?.media?.media?.id && verifiedDubs.includes(entry?.media?.media.id)))) return this.dubLists.value.dubbed.includes(entry?.media?.media.idMal) || this.dubLists.value.incomplete.includes(entry?.media?.media.idMal) || verifiedDubs.includes(entry?.media?.media.id)
         throw new Error(`Detected the route ${entry?.route} is missing resolved media, how did we get here!? The entry: ${JSON.stringify(entry)}`) // absolutely DO NOT continue if we can't verify.
     }
 
