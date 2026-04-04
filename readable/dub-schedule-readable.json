@@ -1829,6 +1829,59 @@
     "addedAt": "2026-01-19T15:30:00Z"
   },
   {
+    "title": "Rilakkuma: Goyururi Yume no Tabi",
+    "route": "rilakkuma",
+    "native": "リラックマ ～ごゆるり夢の旅～",
+    "delayedFrom": "0001-01-01T01:00:00Z",
+    "delayedUntil": "0001-01-01T01:00:00Z",
+    "episodeDate": "2026-04-04T01:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 183231,
+        "idMal": null,
+        "title": {
+          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "english": "RILAKKUMA",
+          "native": "リラックマ ～ごゆるり夢の旅～",
+          "userPreferred": "RILAKKUMA"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183231-nqc56OPthHii.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183231-nqc56OPthHii.jpg",
+          "color": "#43d6e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-11T01:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-04T05:22:02Z"
+  },
+  {
     "title": "Seihantai na Kimi to Boku",
     "route": "seihantai-na-kimi-to-boku",
     "romaji": "Seihantai na Kimi to Boku",
