@@ -443,8 +443,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-04-04T15:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-11T15:00:00Z"
             }
           ]
         },
@@ -1836,6 +1836,7 @@
     "delayedUntil": "0001-01-01T01:00:00Z",
     "episodeDate": "2026-04-04T01:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 1,
     "mediaTypes": [
       {
         "name": "TV Short",
@@ -2276,8 +2277,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-04-04T15:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-11T15:00:00Z"
             }
           ]
         },
