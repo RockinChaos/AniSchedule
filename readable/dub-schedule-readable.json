@@ -1429,6 +1429,64 @@
     "addedAt": "2026-04-02T15:30:00Z"
   },
   {
+    "title": "Mairimashita! Iruma-kun 4",
+    "route": "mairimashita-iruma-kun-4",
+    "romaji": "Mairimashita! Iruma-kun 4",
+    "english": "Welcome to Demon School! Iruma-kun 4",
+    "native": "魔入りました！入間くん 第4シリーズ",
+    "delayedFrom": "0001-01-01T10:25:00Z",
+    "delayedUntil": "0001-01-01T10:25:00Z",
+    "episodeDate": "2026-04-04T10:25:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 184492,
+        "idMal": 60310,
+        "title": {
+          "romaji": "Mairimashita! Iruma-kun 4",
+          "english": "Welcome to Demon School! Iruma-kun Season 4",
+          "native": "魔入りました！入間くん 第4シリーズ",
+          "userPreferred": "Welcome to Demon School! Iruma-kun Season 4"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184492-KUVFGieuMaOx.jpg",
+          "color": "#f1bb28"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-11T10:25:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-04T17:22:08Z"
+  },
+  {
     "title": "Mato Seihei no Slave 2nd Season",
     "route": "mato-seihei-no-slave-2nd-season",
     "romaji": "Mato Seihei no Slave 2nd Season",
@@ -2472,6 +2530,8 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-04-04T16:00:00Z",
     "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2496,7 +2556,7 @@
           "Comedy",
           "Fantasy"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
