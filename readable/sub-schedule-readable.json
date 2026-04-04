@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1196,
-          "airingAt": 1775293200
-        },
-        {
           "episode": 1197,
           "airingAt": 1775898000
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1220,
           "airingAt": 1789808400
+        },
+        {
+          "episode": 1221,
+          "airingAt": 1790413200
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1329,
-          "airingAt": 1775287800
-        },
         {
           "episode": 1330,
           "airingAt": 1775892600
@@ -387,6 +383,10 @@
         {
           "episode": 1353,
           "airingAt": 1789803000
+        },
+        {
+          "episode": 1354,
+          "airingAt": 1790407800
         }
       ]
     },
@@ -676,10 +676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 909,
-          "airingAt": 1775289600
-        },
-        {
           "episode": 910,
           "airingAt": 1775894400
         },
@@ -774,6 +770,10 @@
         {
           "episode": 933,
           "airingAt": 1789804800
+        },
+        {
+          "episode": 934,
+          "airingAt": 1790409600
         }
       ]
     },
@@ -1992,10 +1992,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775291400
-        },
-        {
           "episode": 2,
           "airingAt": 1775896200
         },
@@ -2089,7 +2085,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2468,10 +2463,10 @@
     "id": 178749,
     "idMal": 59176,
     "title": {
-      "romaji": "Mahou no Shimai Lulutto Lilly",
+      "romaji": "Mahou no Shimai LuluttoLilly",
       "english": null,
       "native": "魔法の姉妹ルルットリリィ",
-      "userPreferred": "Mahou no Shimai Lulutto Lilly"
+      "userPreferred": "Mahou no Shimai LuluttoLilly"
     },
     "format": "TV",
     "genres": [
@@ -3278,7 +3273,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 1,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx183231-nqc56OPthHii.jpg",
@@ -3363,10 +3358,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184492-JsZazzn4Acqf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775294760
-        },
         {
           "episode": 2,
           "airingAt": 1775899560
@@ -3461,7 +3452,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9921,6 +9911,79 @@
         {
           "episode": 12,
           "airingAt": 1781798400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 210375,
+    "idMal": 63433,
+    "title": {
+      "romaji": "Daikenja Riddle no Jikan Gyakko",
+      "english": null,
+      "native": "大賢者リドルの時間逆行",
+      "userPreferred": "Daikenja Riddle no Jikan Gyakko"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": 5,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210375-Nfj4cciZ35un.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210375-Nfj4cciZ35un.jpg",
+      "color": "#4378e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1775652900
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776257700
+        },
+        {
+          "episode": 4,
+          "airingAt": 1776862500
+        },
+        {
+          "episode": 5,
+          "airingAt": 1777467300
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778072100
+        },
+        {
+          "episode": 7,
+          "airingAt": 1778676900
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779281700
+        },
+        {
+          "episode": 9,
+          "airingAt": 1779886500
+        },
+        {
+          "episode": 10,
+          "airingAt": 1780491300
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781096100
+        },
+        {
+          "episode": 12,
+          "airingAt": 1781700900
         }
       ]
     },

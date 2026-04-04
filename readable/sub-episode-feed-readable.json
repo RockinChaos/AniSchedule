@@ -79,7 +79,7 @@
   {
     "id": 183231,
     "format": "TV_SHORT",
-    "duration": 5,
+    "duration": 1,
     "episode": {
       "aired": 1,
       "airedAt": "2026-04-04T00:26:00Z",
@@ -468,6 +468,17 @@
       "aired": 1,
       "airedAt": "2026-04-01T13:00:00Z",
       "addedAt": "2026-04-01T13:00:22Z"
+    }
+  },
+  {
+    "id": 210375,
+    "idMal": 63433,
+    "format": "TV_SHORT",
+    "duration": 5,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-01T12:55:00Z",
+      "addedAt": "2026-04-04T13:14:27Z"
     }
   },
   {
