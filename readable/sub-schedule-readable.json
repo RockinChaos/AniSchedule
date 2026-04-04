@@ -1980,7 +1980,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
@@ -3347,7 +3347,7 @@
       "Fantasy",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184492-KUVFGieuMaOx.jpg",
@@ -4497,10 +4497,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775314800
-        },
-        {
           "episode": 3,
           "airingAt": 1775919600
         },
@@ -4568,7 +4564,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
@@ -4579,10 +4575,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775318400
-        },
         {
           "episode": 2,
           "airingAt": 1775923200
@@ -4629,7 +4621,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5202,7 +5193,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
@@ -5213,10 +5204,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775313000
-        },
         {
           "episode": 2,
           "airingAt": 1775917800
@@ -5260,10 +5247,57 @@
         {
           "episode": 12,
           "airingAt": 1781965800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782570600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783175400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783780200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784385000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784989800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785594600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786199400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786804200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787409000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1788013800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788618600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789223400
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5361,7 +5395,7 @@
       "Romance",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
@@ -5372,10 +5406,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775313960
-        },
         {
           "episode": 2,
           "airingAt": 1775918760
@@ -5471,10 +5501,13 @@
         {
           "episode": 25,
           "airingAt": 1789829160
+        },
+        {
+          "episode": 26,
+          "airingAt": 1790433960
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5492,7 +5525,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196029-4ML0UHngkZhn.jpg",
@@ -5503,10 +5536,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775320200
-        },
         {
           "episode": 2,
           "airingAt": 1775925000
@@ -5553,7 +5582,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5781,7 +5809,7 @@
     "genres": [
       "Drama"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
@@ -5792,10 +5820,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775313000
-        },
         {
           "episode": 2,
           "airingAt": 1775917800
@@ -5842,7 +5866,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6359,42 +6382,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198374,
-    "idMal": 62432,
-    "title": {
-      "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-      "english": "A Misanthrope Teaches a Class for Demi-Humans",
-      "native": "人外教室の人間嫌い教師",
-      "userPreferred": "A Misanthrope Teaches a Class for Demi-Humans"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198374-ROZU3qJGX4uS.jpg",
-      "color": "#4386ff"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1775314800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198411,
     "idMal": 62495,
     "title": {
@@ -6403,11 +6390,11 @@
       "native": "ねずみくんのチョッキ (TV)",
       "userPreferred": "Nezumi-kun no Chokki (TV)"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 5,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
@@ -6911,10 +6898,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775309400
-        },
-        {
           "episode": 3,
           "airingAt": 1775914200
         },
@@ -7202,7 +7185,7 @@
       "Psychological",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
@@ -7213,10 +7196,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775316600
-        },
         {
           "episode": 2,
           "airingAt": 1775921400
@@ -7267,7 +7246,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8162,10 +8140,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 25,
-          "airingAt": 1775314800
-        },
         {
           "episode": 26,
           "airingAt": 1775919600
