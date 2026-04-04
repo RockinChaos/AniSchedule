@@ -1302,8 +1302,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-04-04T15:30:00Z"
+              "episode": 12,
+              "airingAt": "2026-04-11T15:30:00Z"
             }
           ]
         },
@@ -2478,7 +2478,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 195600,
@@ -2508,8 +2508,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-04T16:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-04-11T16:00:00Z"
             }
           ]
         },
