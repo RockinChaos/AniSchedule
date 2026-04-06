@@ -2174,6 +2174,65 @@
     "addedAt": "2026-03-18T16:00:00Z"
   },
   {
+    "title": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+    "route": "tensei-shitara-slime-datta-ken-movie-2",
+    "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+    "english": "That Time I Got Reincarnated as a Slime: Tears of the Blue Sea",
+    "native": "劇場版 転生したらスライムだった件 蒼海の涙編",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-05-01T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 104,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182206,
+        "idMal": 59971,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
+          "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
+          "native": "劇場版 転生したらスライムだった件 蒼海の涙編",
+          "userPreferred": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182206-LcitQfDLsdnC.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
+          "color": "#35a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-01T04:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-01T04:00:00Z"
+  },
+  {
     "title": "Tongari Boushi no Atelier",
     "route": "tongari-boushi-no-atelier",
     "romaji": "Tongari Boushi no Atelier",
@@ -2202,7 +2261,7 @@
           "native": "とんがり帽子のアトリエ",
           "userPreferred": "Witch Hat Atelier"
         },
-        "format": "TV",
+        "format": "ONA",
         "genres": [
           "Adventure",
           "Drama",
