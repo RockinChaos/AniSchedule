@@ -7,8 +7,8 @@
     "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい",
     "delayedFrom": "2026-01-29T16:00:00Z",
     "delayedUntil": "2026-02-05T16:00:00Z",
-    "episodeDate": "2026-04-02T16:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-09T16:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -65,8 +65,8 @@
     "native": "【推しの子】第3期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-01T14:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-08T14:00:00Z",
+    "episodeNumber": 2,
     "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -124,8 +124,8 @@
     "native": "29歳独身中堅冒険者の日常",
     "delayedFrom": "2026-01-28T13:00:00Z",
     "delayedUntil": "2026-02-04T13:00:00Z",
-    "episodeDate": "2026-04-01T13:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-08T13:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -182,8 +182,8 @@
     "native": "悪役令嬢は隣国の王太子に溺愛される",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-04-05T14:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-12T14:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -343,70 +343,13 @@
     "addedAt": "2026-04-16T07:00:00Z"
   },
   {
-    "title": "Darwin Jihen",
-    "route": "darwin-jihen",
-    "romaji": "Darwin Jihen",
-    "english": "The Darwin Incident",
-    "native": "ダーウィン事変",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-03-31T15:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 177679,
-        "idMal": 58886,
-        "title": {
-          "romaji": "Darwin Jihen",
-          "english": "The Darwin Incident",
-          "native": "ダーウィン事変",
-          "userPreferred": "The Darwin Incident"
-        },
-        "format": "TV",
-        "genres": [
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177679-BgsgE0fQk3qN.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177679-BgsgE0fQk3qN.jpg",
-          "color": "#1a436b"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177679-9prv8e9LblMw.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-03-31T15:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-06T15:30:00Z"
-  },
-  {
     "title": "Dead Account",
     "route": "dead-account",
     "native": "デッドアカウント",
     "delayedFrom": "2026-01-31T15:00:00Z",
     "delayedUntil": "2026-02-07T15:00:00Z",
-    "episodeDate": "2026-04-04T15:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-11T15:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -534,9 +477,8 @@
     "native": "ドロヘドロ 2期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-01T14:00:00Z",
-    "episodeNumber": 3,
-    "subtractedEpisodeNumber": 1,
+    "episodeDate": "2026-04-08T14:00:00Z",
+    "episodeNumber": 4,
     "episodes": 11,
     "lengthMin": 26,
     "mediaTypes": [
@@ -577,27 +519,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-01T14:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2026-04-01T14:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2026-04-01T14:00:00Z"
-            },
-            {
               "episode": 4,
-              "airingAt": "2026-04-08T14:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2026-04-08T14:00:00Z"
-            },
-            {
-              "episode": 6,
               "airingAt": "2026-04-08T14:00:00Z"
             }
           ]
@@ -616,8 +538,8 @@
     "native": "どうせ、恋してしまうんだ。2nd Season",
     "delayedFrom": "2026-01-29T17:00:00Z",
     "delayedUntil": "2026-02-05T17:00:00Z",
-    "episodeDate": "2026-04-02T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-09T17:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -671,8 +593,8 @@
     "native": "Dr.STONE SCIENCE FUTURE 第3クール",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-02T14:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-09T14:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -780,65 +702,6 @@
     "addedAt": "2025-09-20T20:17:06Z"
   },
   {
-    "title": "Enen no Shouboutai: San no Shou Part 2",
-    "route": "enen-no-shouboutai-san-no-shou-part-2",
-    "romaji": "Enen no Shouboutai: San no Shou Part 2",
-    "english": "Fire Force 3rd Season Part 2",
-    "native": "炎炎ノ消防隊 参ノ章",
-    "delayedFrom": "0001-01-01T17:30:00Z",
-    "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2026-04-03T17:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179062,
-        "idMal": 59229,
-        "title": {
-          "romaji": "Enen no Shouboutai: San no Shou Part 2",
-          "english": "Fire Force Season 3 Part 2",
-          "native": "炎炎ノ消防隊 参ノ章 第2クール",
-          "userPreferred": "Fire Force Season 3 Part 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Drama",
-          "Sci-Fi",
-          "Supernatural"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179062-pbzYE1miZq61.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
-          "color": "#febb28"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-04-03T17:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-09T17:30:00Z"
-  },
-  {
     "title": "Ganbare! Nakamura-kun!!",
     "route": "ganbare-nakamura-kun",
     "romaji": "Ganbare! Nakamura-kun!!",
@@ -846,9 +709,8 @@
     "native": "ガンバレ！中村くん!!",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-01T17:00:00Z",
-    "episodeNumber": 2,
-    "subtractedEpisodeNumber": 1,
+    "episodeDate": "2026-04-08T17:00:00Z",
+    "episodeNumber": 3,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -886,14 +748,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-01T17:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2026-04-01T17:00:00Z"
-            },
-            {
               "episode": 3,
               "airingAt": "2026-04-08T17:00:00Z"
             }
@@ -906,63 +760,6 @@
     "addedAt": "2026-04-01T17:00:00Z"
   },
   {
-    "title": "Gnosia",
-    "route": "gnosia",
-    "native": "グノーシア",
-    "delayedFrom": "2026-03-14T15:30:00Z",
-    "delayedUntil": "2026-03-21T15:30:00Z",
-    "episodeDate": "2026-04-04T15:30:00Z",
-    "episodeNumber": 21,
-    "episodes": 21,
-    "lengthMin": 25,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185116,
-        "idMal": 60427,
-        "title": {
-          "romaji": "Gnosia",
-          "english": "GNOSIA",
-          "native": "グノーシア",
-          "userPreferred": "GNOSIA"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Mystery",
-          "Sci-Fi",
-          "Thriller"
-        ],
-        "duration": 25,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185116-DIFRjiMgz1IS.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185116-DIFRjiMgz1IS.jpg",
-          "color": "#43aee4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185116-eQ55D57Wj1oJ.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 21,
-              "airingAt": "2026-04-04T15:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-11-01T16:30:00Z"
-  },
-  {
     "title": "Golden Kamuy: Saishuushou",
     "route": "golden-kamuy-saishuu-shou",
     "romaji": "Golden Kamuy: Saishuushou",
@@ -970,8 +767,8 @@
     "native": "ゴールデンカムイ 最終章",
     "delayedFrom": "2026-02-02T14:30:00Z",
     "delayedUntil": "2026-02-09T14:30:00Z",
-    "episodeDate": "2026-03-30T14:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-06T14:30:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1028,8 +825,8 @@
     "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-01T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-04-08T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1202,8 +999,8 @@
     "native": "地獄楽 第二期",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2026-04-05T15:15:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-12T15:15:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1261,8 +1058,8 @@
     "native": "人外教室の人間嫌い教師",
     "delayedFrom": "2026-01-31T15:30:00Z",
     "delayedUntil": "2026-02-07T15:30:00Z",
-    "episodeDate": "2026-04-04T15:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-11T15:30:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1321,8 +1118,8 @@
     "native": "呪術廻戦 死滅回游 前編",
     "delayedFrom": "2026-03-05T15:30:00Z",
     "delayedUntil": "2026-03-12T15:30:00Z",
-    "episodeDate": "2026-04-02T15:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-09T15:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1379,9 +1176,9 @@
     "native": "氷の城壁",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-04-02T15:30:00Z",
-    "episodeNumber": 1,
-    "lengthMin": 23,
+    "episodeDate": "2026-04-09T15:30:00Z",
+    "episodeNumber": 2,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1436,8 +1233,8 @@
     "native": "魔入りました！入間くん 第4シリーズ",
     "delayedFrom": "0001-01-01T10:25:00Z",
     "delayedUntil": "0001-01-01T10:25:00Z",
-    "episodeDate": "2026-04-04T10:25:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-11T10:25:00Z",
+    "episodeNumber": 2,
     "episodes": 24,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1494,8 +1291,8 @@
     "native": "魔都精兵のスレイブ 第２期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-01T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-04-08T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1555,8 +1352,8 @@
     "native": "真夜中ハートチューン",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-03-31T14:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-07T14:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1605,70 +1402,13 @@
     "addedAt": "2026-01-20T14:00:00Z"
   },
   {
-    "title": "Medalist 2nd Season",
-    "route": "medalist-2nd-season",
-    "native": "メダリスト 第2期",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-03-31T07:00:00Z",
-    "episodeNumber": 7,
-    "episodes": 9,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 189275,
-        "idMal": 61335,
-        "title": {
-          "romaji": "Medalist 2nd Season",
-          "english": "Medalist Season 2",
-          "native": "メダリスト 第2期",
-          "userPreferred": "Medalist Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sports"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-          "color": "#50a1e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2026-04-07T07:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-03-31T15:59:21Z"
-  },
-  {
     "title": "MF Ghost 3rd Season",
     "route": "mf-ghost-3rd-season",
     "native": "MFゴースト 3rd Season",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-04-02T14:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-09T14:30:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1723,8 +1463,8 @@
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2026-04-05T12:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-12T12:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1781,8 +1521,8 @@
     "native": "ニワトリ・ファイター",
     "delayedFrom": "0001-01-01T04:00:00Z",
     "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-04-05T04:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-04-12T04:00:00Z",
+    "episodeNumber": 5,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1839,8 +1579,8 @@
     "native": "幼馴染とはラブコメにならない",
     "delayedFrom": "2026-02-02T15:30:00Z",
     "delayedUntil": "2026-02-09T15:30:00Z",
-    "episodeDate": "2026-03-30T15:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-06T15:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1894,8 +1634,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-04-04T01:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-11T01:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -1950,8 +1690,8 @@
     "native": "正反対な君と僕",
     "delayedFrom": "2026-03-29T08:30:00Z",
     "delayedUntil": "2026-04-05T08:30:00Z",
-    "episodeDate": "2026-04-05T08:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-12T08:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2007,8 +1747,8 @@
     "native": "スノウボールアース",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-04-03T15:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-10T15:30:00Z",
+    "episodeNumber": 2,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2065,8 +1805,8 @@
     "native": "葬送のフリーレン 第2期",
     "delayedFrom": "2026-03-06T15:00:00Z",
     "delayedUntil": "2026-03-13T15:00:00Z",
-    "episodeDate": "2026-04-03T15:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-04-10T15:00:00Z",
+    "episodeNumber": 10,
     "episodes": 10,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2123,8 +1863,8 @@
     "native": "転生したらドラゴンの卵だった",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-01T17:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-08T17:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2295,69 +2035,12 @@
     "addedAt": "2026-04-06T14:00:00Z"
   },
   {
-    "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-    "route": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
-    "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-    "english": "Tojima Wants to Be a Kamen Rider",
-    "native": "東島丹三郎は仮面ライダーになりたい",
-    "delayedFrom": "2025-12-27T17:00:00Z",
-    "delayedUntil": "2026-01-10T17:00:00Z",
-    "episodeDate": "2026-04-04T17:00:00Z",
-    "episodeNumber": 24,
-    "episodes": 24,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187464,
-        "idMal": 61159,
-        "title": {
-          "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
-          "english": "Tojima Wants to Be a Kamen Rider",
-          "native": "東島丹三郎は仮面ライダーになりたい",
-          "userPreferred": "Tojima Wants to Be a Kamen Rider"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187464-NJtK3VC54vPm.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187464-NJtK3VC54vPm.jpg",
-          "color": "#e4bb43"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187464-JRW0ASx02H83.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 24,
-              "airingAt": "2026-04-04T17:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-10-18T18:11:16Z"
-  },
-  {
     "title": "TRIGUN STARGAZE",
     "route": "trigun-stampede-kanketsu-hen",
     "delayedFrom": "2026-01-31T15:00:00Z",
     "delayedUntil": "2026-02-07T15:00:00Z",
-    "episodeDate": "2026-04-04T15:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-11T15:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2415,8 +2098,8 @@
     "native": "うるわしの宵の月",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-04-05T08:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-12T08:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2472,8 +2155,8 @@
     "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
     "delayedFrom": "2026-03-16T14:00:00Z",
     "delayedUntil": "2026-03-30T14:00:00Z",
-    "episodeDate": "2026-03-30T14:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-06T14:00:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2531,8 +2214,8 @@
     "native": "仙王的日常生活 第五季",
     "delayedFrom": "0001-01-01T21:30:00Z",
     "delayedUntil": "0001-01-01T21:30:00Z",
-    "episodeDate": "2026-04-04T21:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-04-11T21:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 18,
     "mediaTypes": [
@@ -2589,8 +2272,8 @@
     "native": "黄泉のツガイ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-04-04T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-11T16:00:00Z",
+    "episodeNumber": 2,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2707,7 +2390,7 @@
     "delayedText": "Delayed",
     "delayedFrom": "2026-03-26T14:00:00Z",
     "delayedUntil": "2026-04-16T14:00:00Z",
-    "episodeDate": "2026-04-02T14:00:00Z",
+    "episodeDate": "2026-04-09T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 25,
@@ -2756,63 +2439,5 @@
     },
     "verified": true,
     "addedAt": "2026-01-03T15:11:44Z"
-  },
-  {
-    "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
-    "route": "yuusha-party-wo-oidasareta-kiyoubinbou",
-    "romaji": "Yuusha Party wo Oidasareta Kiyoubinbou",
-    "english": "Jack-of-All-Trades, Party of None",
-    "native": "勇者パーティを追い出された器用貧乏",
-    "delayedFrom": "2026-01-28T15:00:00Z",
-    "delayedUntil": "2026-02-04T15:00:00Z",
-    "episodeDate": "2026-04-01T15:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 187264,
-        "idMal": 61128,
-        "title": {
-          "romaji": "Yuusha Party wo Oidasareta Kiyou Binbou",
-          "english": "Jack-of-All-Trades, Party of None",
-          "native": "勇者パーティを追い出された器用貧乏",
-          "userPreferred": "Jack-of-All-Trades, Party of None"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187264-aOUNQvTriPkX.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187264-aOUNQvTriPkX.jpg",
-          "color": "#e49350"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-04-01T15:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-14T15:00:00Z"
   }
 ]
