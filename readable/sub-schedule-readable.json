@@ -1186,7 +1186,7 @@
       "native": "とんがり帽子のアトリエ",
       "userPreferred": "Witch Hat Atelier"
     },
-    "format": "TV",
+    "format": "ONA",
     "genres": [
       "Adventure",
       "Drama",
@@ -1209,51 +1209,51 @@
         },
         {
           "episode": 2,
-          "airingAt": 1776088800
+          "airingAt": 1775484060
         },
         {
           "episode": 3,
-          "airingAt": 1776693600
+          "airingAt": 1776088800
         },
         {
           "episode": 4,
-          "airingAt": 1777298400
+          "airingAt": 1776693600
         },
         {
           "episode": 5,
-          "airingAt": 1777903200
+          "airingAt": 1777298400
         },
         {
           "episode": 6,
-          "airingAt": 1778508000
+          "airingAt": 1777903200
         },
         {
           "episode": 7,
-          "airingAt": 1779112800
+          "airingAt": 1778508000
         },
         {
           "episode": 8,
-          "airingAt": 1779717600
+          "airingAt": 1779112800
         },
         {
           "episode": 9,
-          "airingAt": 1780322400
+          "airingAt": 1779717600
         },
         {
           "episode": 10,
-          "airingAt": 1780927200
+          "airingAt": 1780322400
         },
         {
           "episode": 11,
-          "airingAt": 1781532000
+          "airingAt": 1780927200
         },
         {
           "episode": 12,
-          "airingAt": 1782136800
+          "airingAt": 1781532000
         },
         {
           "episode": 13,
-          "airingAt": 1782741600
+          "airingAt": 1782136800
         }
       ]
     },
@@ -2343,7 +2343,7 @@
       "color": "#1aa1e4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177634-bU4CFWC8Q4dt.jpg",
     "airingSchedule": {
       "nodes": [
         {
