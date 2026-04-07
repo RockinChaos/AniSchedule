@@ -1686,6 +1686,67 @@
     "addedAt": "2026-01-19T15:30:00Z"
   },
   {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+    "route": "re-zero-kara-hajimeru-isekai-seikatsu-4",
+    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+    "english": "Re:Zero - Starting Life in Another World 4",
+    "native": "Re:ゼロから始める異世界生活 4",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-04-08T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 19,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 189046,
+        "idMal": 61316,
+        "title": {
+          "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+          "english": "Re:ZERO -Starting Life in Another World- Season 4",
+          "native": "Re:ゼロから始める異世界生活 4th season",
+          "userPreferred": "Re:ZERO -Starting Life in Another World- Season 4"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Psychological",
+          "Romance"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189046-yaHWtS5FII46.jpg",
+          "color": "#e49350"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-08T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-08T14:00:00Z"
+  },
+  {
     "title": "Rilakkuma: Goyururi Yume no Tabi",
     "route": "rilakkuma",
     "native": "リラックマ ～ごゆるり夢の旅～",
