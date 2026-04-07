@@ -1035,10 +1035,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 332,
-          "airingAt": 1775515200
-        },
-        {
           "episode": 333,
           "airingAt": 1775774400
         }
@@ -1273,10 +1269,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 370,
-          "airingAt": 1775527200
-        },
-        {
           "episode": 371,
           "airingAt": 1775959200
         },
@@ -1371,6 +1363,10 @@
         {
           "episode": 394,
           "airingAt": 1782784800
+        },
+        {
+          "episode": 395,
+          "airingAt": 1783216800
         }
       ]
     },
@@ -3789,6 +3785,10 @@
         {
           "episode": 12,
           "airingAt": 1782225000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782829800
         }
       ]
     },
@@ -7834,38 +7834,6 @@
         {
           "episode": 12,
           "airingAt": 1775862000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 203472,
-    "idMal": 63200,
-    "title": {
-      "romaji": "Himitsu Kessha Taka no Tsume XX",
-      "english": null,
-      "native": "秘密結社 鷹の爪XX（ダブルエックス）",
-      "userPreferred": "Himitsu Kessha Taka no Tsume XX"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 5,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203472-MJDpus1DWo3Z.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203472-MJDpus1DWo3Z.png",
-      "color": "#f1ae00"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1775512800
         }
       ]
     },
