@@ -2828,10 +2828,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1775655000
-        },
-        {
           "episode": 6,
           "airingAt": 1776259800
         },
@@ -4223,38 +4219,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 188529,
-    "idMal": 61254,
-    "title": {
-      "romaji": "Ugoku! Neko Mukashi Banashi",
-      "english": "Cat Tales",
-      "native": "うごく！ねこむかしばなし",
-      "userPreferred": "Cat Tales"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 3,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188529-6o9byjahRpEx.jpg",
-      "color": "#e46b5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1775646000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 189046,
     "idMal": 61316,
     "title": {
@@ -4283,10 +4247,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775653200
-        },
         {
           "episode": 2,
           "airingAt": 1776258000
@@ -4361,7 +4321,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6421,10 +6380,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775653200
-        },
-        {
           "episode": 3,
           "airingAt": 1776258000
         },
@@ -6494,10 +6449,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775653200
-        },
-        {
           "episode": 2,
           "airingAt": 1776258000
         },
@@ -6543,7 +6494,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7223,7 +7173,7 @@
   },
   {
     "id": 202386,
-    "idMal": null,
+    "idMal": 62933,
     "title": {
       "romaji": "Shou 3 Ashibe QQ Goma-chan",
       "english": null,
@@ -9705,10 +9655,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775652900
-        },
         {
           "episode": 3,
           "airingAt": 1776257700
