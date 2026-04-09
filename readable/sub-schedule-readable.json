@@ -2204,10 +2204,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775753100
-        },
-        {
           "episode": 2,
           "airingAt": 1776357900
         },
@@ -2253,7 +2249,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2282,10 +2277,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775745000
-        },
         {
           "episode": 2,
           "airingAt": 1776349800
@@ -2332,7 +2323,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2673,10 +2663,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775748600
-        },
-        {
           "episode": 3,
           "airingAt": 1776353400
         },
@@ -2893,10 +2879,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775748360
-        },
         {
           "episode": 3,
           "airingAt": 1776353160
@@ -3682,10 +3664,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775746560
-        },
-        {
           "episode": 3,
           "airingAt": 1776351360
         },
@@ -4090,38 +4068,6 @@
         {
           "episode": 24,
           "airingAt": 1782575760
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 188034,
-    "idMal": 61227,
-    "title": {
-      "romaji": "Girls und Panzer: Motto Love Love Sakusen desu!",
-      "english": null,
-      "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！",
-      "userPreferred": "Girls und Panzer: Motto Love Love Sakusen desu!"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 72,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188034-hlwafdUZhjwD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188034-hlwafdUZhjwD.png",
-      "color": "#d6ae78"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1775746800
         }
       ]
     },
@@ -4866,6 +4812,122 @@
     "zeroEpisode": false
   },
   {
+    "id": 194389,
+    "idMal": 62005,
+    "title": {
+      "romaji": "Koala Enikki",
+      "english": "Koala's Diary",
+      "native": "コアラ絵日記",
+      "userPreferred": "Koala's Diary"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194389-DAbj4TOj5GB9.png",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 29,
+          "airingAt": 1776337200
+        },
+        {
+          "episode": 30,
+          "airingAt": 1776942000
+        },
+        {
+          "episode": 31,
+          "airingAt": 1777546800
+        },
+        {
+          "episode": 32,
+          "airingAt": 1778151600
+        },
+        {
+          "episode": 33,
+          "airingAt": 1778756400
+        },
+        {
+          "episode": 34,
+          "airingAt": 1779361200
+        },
+        {
+          "episode": 35,
+          "airingAt": 1779966000
+        },
+        {
+          "episode": 36,
+          "airingAt": 1780570800
+        },
+        {
+          "episode": 37,
+          "airingAt": 1781175600
+        },
+        {
+          "episode": 38,
+          "airingAt": 1781780400
+        },
+        {
+          "episode": 39,
+          "airingAt": 1782385200
+        },
+        {
+          "episode": 40,
+          "airingAt": 1782990000
+        },
+        {
+          "episode": 41,
+          "airingAt": 1783594800
+        },
+        {
+          "episode": 42,
+          "airingAt": 1784199600
+        },
+        {
+          "episode": 43,
+          "airingAt": 1784804400
+        },
+        {
+          "episode": 44,
+          "airingAt": 1785409200
+        },
+        {
+          "episode": 45,
+          "airingAt": 1786014000
+        },
+        {
+          "episode": 46,
+          "airingAt": 1786618800
+        },
+        {
+          "episode": 47,
+          "airingAt": 1787223600
+        },
+        {
+          "episode": 48,
+          "airingAt": 1787828400
+        },
+        {
+          "episode": 49,
+          "airingAt": 1788433200
+        },
+        {
+          "episode": 50,
+          "airingAt": 1789038000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 194393,
     "idMal": 61839,
     "title": {
@@ -5042,10 +5104,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775752080
-        },
         {
           "episode": 3,
           "airingAt": 1776356880
@@ -6033,7 +6091,10 @@
       "userPreferred": "Farming Life in Another World 2"
     },
     "format": "TV",
-    "genres": [],
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
     "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
@@ -6237,39 +6298,6 @@
         {
           "episode": 12,
           "airingAt": 1782568800
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 198369,
-    "idMal": 62387,
-    "title": {
-      "romaji": "Meitantei Conan: Highway no Datenshi",
-      "english": null,
-      "native": "名探偵コナン ハイウェイの堕天使",
-      "userPreferred": "Meitantei Conan: Highway no Datenshi"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Mystery"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198369-SCQoqNEk325p.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198369-SCQoqNEk325p.jpg",
-      "color": "#e4ae35"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198369-MmvnBvHzuB3D.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775746800
         }
       ]
     },
@@ -7105,10 +7133,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775753880
-        },
         {
           "episode": 3,
           "airingAt": 1776358680
@@ -8452,16 +8476,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775746800
-        },
-        {
           "episode": 2,
           "airingAt": 1780585200
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9176,40 +9195,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 209312,
-    "idMal": null,
-    "title": {
-      "romaji": "Girls und Panzer: Ribbon no Musha Pilot-ban",
-      "english": null,
-      "native": "ガールズ＆パンツァー リボンの武者 パイロット版",
-      "userPreferred": "Girls und Panzer: Ribbon no Musha Pilot-ban"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209312-ZQGohKvgqGP6.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209312-ZQGohKvgqGP6.png",
-      "color": "#d61a28"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1775746800
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 209541,
     "idMal": 63773,
     "title": {
@@ -9375,10 +9360,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209940-5otPJXyKJkbf.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775753400
-        },
         {
           "episode": 3,
           "airingAt": 1776358200
@@ -9556,10 +9537,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775750400
-        },
         {
           "episode": 3,
           "airingAt": 1776355200
