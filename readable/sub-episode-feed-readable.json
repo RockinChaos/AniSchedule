@@ -1,5 +1,37 @@
 [
   {
+    "id": 188034,
+    "idMal": 61227,
+    "format": "MOVIE",
+    "duration": 72,
+    "episode": {
+      "aired": 4,
+      "airedAt": "2026-04-09T15:00:00Z",
+      "addedAt": "2026-04-09T15:00:03Z"
+    }
+  },
+  {
+    "id": 198369,
+    "idMal": 62387,
+    "format": "MOVIE",
+    "duration": 90,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-09T15:00:00Z",
+      "addedAt": "2026-04-09T15:00:04Z"
+    }
+  },
+  {
+    "id": 209312,
+    "format": "SPECIAL",
+    "duration": 45,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-04-09T15:00:00Z",
+      "addedAt": "2026-04-09T15:00:04Z"
+    }
+  },
+  {
     "id": 186497,
     "idMal": 60852,
     "format": "TV",
