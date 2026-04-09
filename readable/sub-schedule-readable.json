@@ -3127,10 +3127,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775737800
-        },
-        {
           "episode": 2,
           "airingAt": 1776342600
         },
@@ -3176,7 +3172,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3260,7 +3255,7 @@
   },
   {
     "id": 183231,
-    "idMal": null,
+    "idMal": 60153,
     "title": {
       "romaji": "Rilakkuma: Goyururi Yume no Tabi",
       "english": "RILAKKUMA",
@@ -3838,10 +3833,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 27,
-          "airingAt": 1775739600
-        },
-        {
           "episode": 28,
           "airingAt": 1776344400
         },
@@ -3936,6 +3927,10 @@
         {
           "episode": 51,
           "airingAt": 1790254800
+        },
+        {
+          "episode": 52,
+          "airingAt": 1790859600
         }
       ]
     },
@@ -4865,38 +4860,6 @@
         {
           "episode": 2,
           "airingAt": 1776351600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 194389,
-    "idMal": 62005,
-    "title": {
-      "romaji": "Koala Enikki",
-      "english": "Koala's Diary",
-      "native": "コアラ絵日記",
-      "userPreferred": "Koala's Diary"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194389-DAbj4TOj5GB9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194389-DAbj4TOj5GB9.png",
-      "color": "#e47843"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 28,
-          "airingAt": 1775732400
         }
       ]
     },
@@ -6207,9 +6170,9 @@
     "idMal": 62391,
     "title": {
       "romaji": "Kill Ao",
-      "english": null,
+      "english": "KILL BLUE",
       "native": "キルアオ",
-      "userPreferred": "Kill Ao"
+      "userPreferred": "KILL BLUE"
     },
     "format": "TV",
     "genres": [
@@ -6555,10 +6518,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775739600
-        },
         {
           "episode": 3,
           "airingAt": 1776344400
@@ -7847,10 +7806,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1775732400
-        },
         {
           "episode": 25,
           "airingAt": 1776337200
@@ -9280,10 +9235,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1775727000
-        },
-        {
           "episode": 4,
           "airingAt": 1776331800
         },
@@ -9717,6 +9668,108 @@
         {
           "episode": 12,
           "airingAt": 1781700900
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 210687,
+    "idMal": 63830,
+    "title": {
+      "romaji": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season",
+      "english": null,
+      "native": "Re:ゼロから始める休憩時間(ブレイクタイム) 4th Season",
+      "userPreferred": "Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 3,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210687-H54G1bTwCBpV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210687-H54G1bTwCBpV.jpg",
+      "color": "#a1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1776259800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1776864600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777469400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778074200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1778679000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779283800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1779888600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780493400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781098200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1781703000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782307800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782912600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783517400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1784122200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784727000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1785331800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785936600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786541400
         }
       ]
     },
