@@ -632,8 +632,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-09T14:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-04-16T14:00:00Z"
             }
           ]
         },
@@ -1444,8 +1444,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-04-09T14:30:00Z"
+              "episode": 13,
+              "airingAt": "2026-04-16T14:30:00Z"
             }
           ]
         },
@@ -1765,7 +1765,7 @@
     "media": {
       "media": {
         "id": 183231,
-        "idMal": null,
+        "idMal": 60153,
         "title": {
           "romaji": "Rilakkuma: Goyururi Yume no Tabi",
           "english": "RILAKKUMA",
@@ -2510,9 +2510,8 @@
     "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
     "english": "Sentenced to Be a Hero",
     "native": "勇者刑に処す懲罰勇者9004隊刑務記録",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-03-26T14:00:00Z",
-    "delayedUntil": "2026-04-16T14:00:00Z",
+    "delayedUntil": "2026-04-09T14:00:00Z",
     "episodeDate": "2026-04-09T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -2553,7 +2552,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-04-16T14:00:00Z"
+              "airingAt": "2026-04-09T14:00:00Z"
             }
           ]
         },
