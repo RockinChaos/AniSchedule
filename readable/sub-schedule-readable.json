@@ -546,10 +546,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 651,
-          "airingAt": 1775772600
-        },
-        {
           "episode": 652,
           "airingAt": 1776377400
         },
@@ -644,6 +640,10 @@
         {
           "episode": 675,
           "airingAt": 1790287800
+        },
+        {
+          "episode": 676,
+          "airingAt": 1790892600
         }
       ]
     },
@@ -1000,39 +1000,6 @@
         {
           "episode": 156,
           "airingAt": 1780711200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 333,
-          "airingAt": 1775774400
         }
       ]
     },
@@ -2192,7 +2159,7 @@
       "Music",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-lLkxUFVZ8uAj.jpg",
@@ -2266,7 +2233,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177508-Q3eSW8XyqNgB.png",
@@ -3097,7 +3064,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
@@ -3652,7 +3619,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": 26,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
