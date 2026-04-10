@@ -1006,6 +1006,135 @@
     "zeroEpisode": false
   },
   {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 334,
+          "airingAt": 1776120000
+        },
+        {
+          "episode": 335,
+          "airingAt": 1776379200
+        },
+        {
+          "episode": 336,
+          "airingAt": 1776724800
+        },
+        {
+          "episode": 337,
+          "airingAt": 1776984000
+        },
+        {
+          "episode": 338,
+          "airingAt": 1777329600
+        },
+        {
+          "episode": 339,
+          "airingAt": 1779403200
+        },
+        {
+          "episode": 340,
+          "airingAt": 1780008000
+        },
+        {
+          "episode": 341,
+          "airingAt": 1780612800
+        },
+        {
+          "episode": 342,
+          "airingAt": 1781217600
+        },
+        {
+          "episode": 343,
+          "airingAt": 1781822400
+        },
+        {
+          "episode": 344,
+          "airingAt": 1782427200
+        },
+        {
+          "episode": 345,
+          "airingAt": 1783032000
+        },
+        {
+          "episode": 346,
+          "airingAt": 1783636800
+        },
+        {
+          "episode": 347,
+          "airingAt": 1784241600
+        },
+        {
+          "episode": 348,
+          "airingAt": 1784846400
+        },
+        {
+          "episode": 349,
+          "airingAt": 1785451200
+        },
+        {
+          "episode": 350,
+          "airingAt": 1786056000
+        },
+        {
+          "episode": 351,
+          "airingAt": 1786660800
+        },
+        {
+          "episode": 352,
+          "airingAt": 1787265600
+        },
+        {
+          "episode": 353,
+          "airingAt": 1787870400
+        },
+        {
+          "episode": 354,
+          "airingAt": 1788475200
+        },
+        {
+          "episode": 355,
+          "airingAt": 1789080000
+        },
+        {
+          "episode": 356,
+          "airingAt": 1789684800
+        },
+        {
+          "episode": 357,
+          "airingAt": 1790289600
+        },
+        {
+          "episode": 358,
+          "airingAt": 1790894400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 142274,
     "idMal": 50418,
     "title": {
@@ -1751,14 +1880,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775836800
-        },
-        {
-          "episode": 2,
-          "airingAt": 1775838600
-        },
-        {
           "episode": 3,
           "airingAt": 1776441600
         },
@@ -1808,7 +1929,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2914,10 +3034,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775829600
-        },
-        {
           "episode": 3,
           "airingAt": 1776434400
         },
@@ -3904,10 +4020,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775833200
-        },
-        {
           "episode": 2,
           "airingAt": 1776438000
         },
@@ -3953,7 +4065,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5540,10 +5651,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775831400
-        },
         {
           "episode": 3,
           "airingAt": 1776436200
@@ -7290,10 +7397,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775831400
-        },
-        {
           "episode": 2,
           "airingAt": 1776436200
         },
@@ -7387,7 +7490,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
