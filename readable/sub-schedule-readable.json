@@ -4071,10 +4071,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1775922960
-        },
-        {
           "episode": 14,
           "airingAt": 1776527760
         },
@@ -4450,10 +4446,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1775919600
-        },
-        {
           "episode": 4,
           "airingAt": 1776524400
         },
@@ -4528,10 +4520,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775923200
-        },
         {
           "episode": 3,
           "airingAt": 1776528000
@@ -5221,10 +5209,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775917800
-        },
-        {
           "episode": 3,
           "airingAt": 1776522600
         },
@@ -5343,10 +5327,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775926800
-        },
-        {
           "episode": 2,
           "airingAt": 1776531600
         },
@@ -5392,7 +5372,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5422,10 +5401,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775918760
-        },
         {
           "episode": 3,
           "airingAt": 1776523560
@@ -5552,10 +5527,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775925000
-        },
         {
           "episode": 3,
           "airingAt": 1776529800
@@ -5828,10 +5799,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775917800
-        },
         {
           "episode": 3,
           "airingAt": 1776522600
@@ -6293,10 +6260,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775916000
-        },
-        {
           "episode": 2,
           "airingAt": 1776520800
         },
@@ -6342,7 +6305,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6803,10 +6765,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1775914200
-        },
-        {
           "episode": 4,
           "airingAt": 1776519000
         },
@@ -7093,10 +7051,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775921400
-        },
         {
           "episode": 3,
           "airingAt": 1776526200
@@ -7884,40 +7838,6 @@
         {
           "episode": 38,
           "airingAt": 1784199600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 203953,
-    "idMal": null,
-    "title": {
-      "romaji": "Mu Shen Ji 3",
-      "english": null,
-      "native": "牧神记3",
-      "userPreferred": "Mu Shen Ji 3"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 20,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203953-0o0WnauWOeQO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203953-0o0WnauWOeQO.jpg",
-      "color": "#e45d5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1775919600
         }
       ]
     },
