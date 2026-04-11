@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1197,
-          "airingAt": 1775898000
-        },
-        {
           "episode": 1198,
           "airingAt": 1776502800
         },
@@ -257,6 +253,10 @@
         {
           "episode": 1221,
           "airingAt": 1790413200
+        },
+        {
+          "episode": 1222,
+          "airingAt": 1791018000
         }
       ]
     },
@@ -288,10 +288,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/966-J5CwLLTBs4OO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1330,
-          "airingAt": 1775892600
-        },
         {
           "episode": 1331,
           "airingAt": 1776497400
@@ -387,6 +383,10 @@
         {
           "episode": 1354,
           "airingAt": 1790407800
+        },
+        {
+          "episode": 1355,
+          "airingAt": 1791012600
         }
       ]
     },
@@ -676,10 +676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 910,
-          "airingAt": 1775894400
-        },
-        {
           "episode": 911,
           "airingAt": 1776499200
         },
@@ -774,6 +770,10 @@
         {
           "episode": 934,
           "airingAt": 1790409600
+        },
+        {
+          "episode": 935,
+          "airingAt": 1791014400
         }
       ]
     },
@@ -2092,10 +2092,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775896200
-        },
-        {
           "episode": 3,
           "airingAt": 1776501000
         },
@@ -3402,10 +3398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775899560
-        },
-        {
           "episode": 3,
           "airingAt": 1776504360
         },
@@ -3524,10 +3516,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775910600
-        },
-        {
           "episode": 2,
           "airingAt": 1776515400
         },
@@ -3573,7 +3561,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
