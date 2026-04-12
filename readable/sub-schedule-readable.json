@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1157,
-          "airingAt": 1776003360
-        },
-        {
           "episode": 1158,
           "airingAt": 1776608160
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1181,
           "airingAt": 1790518560
+        },
+        {
+          "episode": 1182,
+          "airingAt": 1791123360
         }
       ]
     },
@@ -2552,10 +2552,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178749-55kXPhUDKYvQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776000600
-        },
         {
           "episode": 3,
           "airingAt": 1776605400
@@ -5882,10 +5878,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1776004200
-        },
-        {
           "episode": 2,
           "airingAt": 1776609000
         },
@@ -5979,7 +5971,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6877,10 +6868,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776007800
-        },
-        {
           "episode": 3,
           "airingAt": 1776612600
         },
@@ -7435,6 +7422,7 @@
     "genres": [
       "Comedy",
       "Drama",
+      "Ecchi",
       "Romance",
       "Supernatural"
     ],
@@ -7449,10 +7437,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776009600
-        },
         {
           "episode": 3,
           "airingAt": 1776614400
@@ -8003,10 +7987,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776009900
-        },
-        {
           "episode": 3,
           "airingAt": 1776614700
         },
@@ -8426,10 +8406,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776010200
-        },
         {
           "episode": 3,
           "airingAt": 1776615000
@@ -9330,9 +9306,9 @@
     "duration": 16,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209981-v42fOo3wZe4C.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209981-v42fOo3wZe4C.png",
-      "color": "#e4a1c9"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209981-rXlkRNX1unMb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209981-rXlkRNX1unMb.png",
+      "color": "#e4aeae"
     },
     "isAdult": true,
     "bannerImage": null,
@@ -9367,9 +9343,9 @@
     "duration": 16,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209982-veYLNh17wzgC.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209982-veYLNh17wzgC.png",
-      "color": "#f1a186"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209982-4qVPmKV8LmXS.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209982-4qVPmKV8LmXS.png",
+      "color": "#d6866b"
     },
     "isAdult": true,
     "bannerImage": null,
