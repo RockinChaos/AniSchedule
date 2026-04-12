@@ -418,10 +418,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2827,
-          "airingAt": 1775986200
-        },
-        {
           "episode": 2828,
           "airingAt": 1776591000
         },
@@ -516,6 +512,10 @@
         {
           "episode": 2851,
           "airingAt": 1790501400
+        },
+        {
+          "episode": 2852,
+          "airingAt": 1791106200
         }
       ]
     },
@@ -805,10 +805,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 361,
-          "airingAt": 1775984400
-        },
         {
           "episode": 362,
           "airingAt": 1776589200
@@ -2421,10 +2417,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1775982600
-        },
-        {
           "episode": 3,
           "airingAt": 1776587400
         },
@@ -3137,12 +3129,51 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775979000
+          "episode": 2,
+          "airingAt": 1776583800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1777188600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1777793400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778398200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1779003000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779607800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1780212600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1780817400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781422200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1782027000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782631800
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3246,10 +3277,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1775980800
-        },
-        {
           "episode": 2,
           "airingAt": 1776585600
         },
@@ -3295,7 +3322,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5296,7 +5322,7 @@
     "id": 195734,
     "idMal": 62018,
     "title": {
-      "romaji": "Ichijouma Mankitsu Gurashi!",
+      "romaji": "Ichijouma Mankitsu-gurashi!",
       "english": "Ichijyoma Mankitsu Gurashi!",
       "native": "一畳間まんきつ暮らし！",
       "userPreferred": "Ichijyoma Mankitsu Gurashi!"
@@ -6174,10 +6200,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197868-wBmzwZ3Ay4bD.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1775998800
-        },
         {
           "episode": 4,
           "airingAt": 1776603600
@@ -8643,10 +8665,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1775995200
-        },
         {
           "episode": 3,
           "airingAt": 1776600000
