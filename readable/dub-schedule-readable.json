@@ -1484,6 +1484,63 @@
     "addedAt": "2026-01-20T14:00:00Z"
   },
   {
+    "title": "Meikyuu no Shiori",
+    "route": "meikyuu-no-shiori",
+    "romaji": "Meikyuu no Shiori",
+    "english": "LABYRiNTH",
+    "native": "迷宮のしおり",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-05-10T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 115,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 195384,
+        "idMal": 61964,
+        "title": {
+          "romaji": "Meikyuu no Shiori",
+          "english": "LABYRINTH",
+          "native": "迷宮のしおり",
+          "userPreferred": "LABYRINTH"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Horror",
+          "Sci-Fi"
+        ],
+        "duration": 125,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195384-mi810JewTu08.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195384-mi810JewTu08.jpg",
+          "color": "#e4ae5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-10T04:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-10T04:00:00Z"
+  },
+  {
     "title": "MF Ghost 3rd Season",
     "route": "mf-ghost-3rd-season",
     "native": "MFゴースト 3rd Season",
