@@ -1469,10 +1469,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776178800
-        },
-        {
           "episode": 3,
           "airingAt": 1776783600
         },
@@ -1936,10 +1932,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776177000
-        },
         {
           "episode": 3,
           "airingAt": 1776781800
@@ -3798,10 +3790,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776177000
-        },
-        {
           "episode": 3,
           "airingAt": 1776781800
         },
@@ -4976,7 +4964,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
@@ -7671,10 +7659,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776184140
-        },
-        {
           "episode": 3,
           "airingAt": 1776788940
         },
@@ -8097,10 +8081,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1776178800
-        },
         {
           "episode": 16,
           "airingAt": 1776812400
@@ -8670,7 +8650,7 @@
       "Action",
       "Comedy"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png",
@@ -8754,10 +8734,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776185940
-        },
         {
           "episode": 3,
           "airingAt": 1776790740
