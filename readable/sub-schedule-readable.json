@@ -1019,10 +1019,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 334,
-          "airingAt": 1776120000
-        },
-        {
           "episode": 335,
           "airingAt": 1776379200
         },
@@ -1117,6 +1113,10 @@
         {
           "episode": 358,
           "airingAt": 1783377600
+        },
+        {
+          "episode": 359,
+          "airingAt": 1783636800
         }
       ]
     },
@@ -1341,10 +1341,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 372,
-          "airingAt": 1776132000
-        },
-        {
           "episode": 373,
           "airingAt": 1776564000
         },
@@ -1439,6 +1435,10 @@
         {
           "episode": 396,
           "airingAt": 1783389600
+        },
+        {
+          "episode": 397,
+          "airingAt": 1783821600
         }
       ]
     },
@@ -3105,7 +3105,7 @@
       "Drama",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
@@ -3514,7 +3514,7 @@
       "Ecchi",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
@@ -5317,7 +5317,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195734-submxAA36thQ.jpg",
@@ -5854,7 +5854,7 @@
     "genres": [
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
@@ -6229,7 +6229,7 @@
       "Action",
       "Comedy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
