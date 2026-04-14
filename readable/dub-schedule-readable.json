@@ -628,6 +628,63 @@
     "addedAt": "2026-01-07T04:03:03Z"
   },
   {
+    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "route": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
+    "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+    "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
+    "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-04-15T14:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 198939,
+        "idMal": 62512,
+        "title": {
+          "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+          "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+          "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
+          "userPreferred": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198939-95aqzBr0Lzcv.jpg",
+          "color": "#e49328"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-15T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-15T14:00:00Z"
+  },
+  {
     "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
     "route": "jingai-kyoushitsu-no-ningengirai-kyoushi",
     "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
@@ -919,6 +976,63 @@
     },
     "verified": true,
     "addedAt": "2026-03-11T16:00:00Z"
+  },
+  {
+    "title": "Medalist 2nd Season",
+    "route": "medalist-2nd-season",
+    "native": "メダリスト 第2期",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-04-13T07:00:00Z",
+    "episodeNumber": 8,
+    "episodes": 9,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189275,
+        "idMal": 61335,
+        "title": {
+          "romaji": "Medalist 2nd Season",
+          "english": "Medalist Season 2",
+          "native": "メダリスト 第2期",
+          "userPreferred": "Medalist Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological",
+          "Sports"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 9,
+              "airingAt": "2026-04-20T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-14T21:42:19Z"
   },
   {
     "title": "Meikyuu no Shiori",
@@ -1783,6 +1897,76 @@
     },
     "verified": false,
     "addedAt": "2026-04-04T16:00:00Z"
+  },
+  {
+    "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4",
+    "route": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season",
+    "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4",
+    "english": "Classroom of the Elite 4",
+    "native": "ようこそ実力至上主義の教室へ 4th Season",
+    "delayedFrom": "0001-01-01T12:30:00Z",
+    "delayedUntil": "0001-01-01T12:30:00Z",
+    "episodeDate": "2026-04-15T12:30:00Z",
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 16,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 180745,
+        "idMal": 59708,
+        "title": {
+          "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+          "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+          "native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
+          "userPreferred": "Classroom of the Elite 4th Season: Second Year, First Semester"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180745-OEZaBeEdWozn.png",
+          "color": "#aec9e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-15T12:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-04-15T12:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-04-15T12:30:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-04-15T12:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-15T12:30:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
