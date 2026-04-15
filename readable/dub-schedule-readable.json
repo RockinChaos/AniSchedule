@@ -1917,7 +1917,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 180745,
@@ -1959,6 +1959,22 @@
             {
               "episode": 4,
               "airingAt": "2026-04-15T12:30:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-04-22T12:30:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-04-22T12:30:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-04-22T12:30:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-04-22T12:30:00Z"
             }
           ]
         },
