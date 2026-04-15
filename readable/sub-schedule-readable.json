@@ -2189,10 +2189,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1776261600
-        },
-        {
           "episode": 6,
           "airingAt": 1776866400
         },
@@ -2771,10 +2767,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1776267000
-        },
         {
           "episode": 5,
           "airingAt": 1776871800
@@ -4562,7 +4554,7 @@
       "color": "#5da1e4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -4738,10 +4730,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776263400
-        },
         {
           "episode": 4,
           "airingAt": 1776868200
@@ -6622,10 +6610,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776264300
-        },
-        {
           "episode": 3,
           "airingAt": 1776869100
         },
@@ -6904,10 +6888,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776265200
-        },
         {
           "episode": 4,
           "airingAt": 1776870000
@@ -8098,11 +8078,11 @@
       "native": "キャンディーカリエス",
       "userPreferred": "Candy Caries"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205772-kb2YOaXFfPAB.png",
@@ -8113,10 +8093,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1776264960
-        },
         {
           "episode": 2,
           "airingAt": 1776869760
@@ -8163,7 +8139,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8908,9 +8883,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208352-E1rq91MSsQ6a.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208352-E1rq91MSsQ6a.jpg",
-      "color": "#e4d650"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208352-KUuXI4sVbtYV.jpg",
+      "color": "#e4d65d"
     },
     "isAdult": false,
     "bannerImage": null,
