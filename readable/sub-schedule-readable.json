@@ -1708,6 +1708,78 @@
     "zeroEpisode": false
   },
   {
+    "id": 163793,
+    "idMal": null,
+    "title": {
+      "romaji": "Cheongchun Blossom",
+      "english": null,
+      "native": "청춘블라썸",
+      "userPreferred": "Cheongchun Blossom"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163793-dOI9QEcIrgBS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163793-dOI9QEcIrgBS.jpg",
+      "color": "#e45d93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1776845700
+        },
+        {
+          "episode": 3,
+          "airingAt": 1777450500
+        },
+        {
+          "episode": 4,
+          "airingAt": 1778055300
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778660100
+        },
+        {
+          "episode": 6,
+          "airingAt": 1779264900
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779869700
+        },
+        {
+          "episode": 8,
+          "airingAt": 1780474500
+        },
+        {
+          "episode": 9,
+          "airingAt": 1781079300
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781684100
+        },
+        {
+          "episode": 11,
+          "airingAt": 1782288900
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782893700
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 165159,
     "idMal": 56566,
     "title": {
@@ -2247,10 +2319,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1776357900
-        },
-        {
           "episode": 3,
           "airingAt": 1776962700
         },
@@ -2320,10 +2388,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776349800
-        },
         {
           "episode": 3,
           "airingAt": 1776954600
@@ -2431,38 +2495,6 @@
         {
           "episode": 12,
           "airingAt": 1782030600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 178445,
-    "idMal": 61599,
-    "title": {
-      "romaji": "Boku no Risou no Isekai Seikatsu",
-      "english": null,
-      "native": "ボクの理想の異世界生活",
-      "userPreferred": "Boku no Risou no Isekai Seikatsu"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 16,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178445-Vx7wQLiwH664.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178445-Vx7wQLiwH664.png",
-      "color": "#86bbe4"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1776351600
         }
       ]
     },
@@ -2694,10 +2726,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1776353400
-        },
-        {
           "episode": 4,
           "airingAt": 1776958200
         },
@@ -2902,10 +2930,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776353160
-        },
         {
           "episode": 4,
           "airingAt": 1776957960
@@ -3699,10 +3723,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776351360
-        },
         {
           "episode": 4,
           "airingAt": 1776956160
@@ -4666,10 +4686,10 @@
     "id": 194167,
     "idMal": 61806,
     "title": {
-      "romaji": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party",
+      "romaji": "Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party",
       "english": null,
       "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
-      "userPreferred": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party"
+      "userPreferred": "Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party"
     },
     "format": "MOVIE",
     "genres": [
@@ -4757,38 +4777,6 @@
         {
           "episode": 12,
           "airingAt": 1781706600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 194353,
-    "idMal": 62316,
-    "title": {
-      "romaji": "Choro Mesu Days",
-      "english": null,
-      "native": "ちょろ・めす・でいず",
-      "userPreferred": "Choro Mesu Days"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194353-DYQodQxpFuXD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194353-DYQodQxpFuXD.png",
-      "color": "#e4c9a1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776351600
         }
       ]
     },
@@ -5074,10 +5062,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776356880
-        },
         {
           "episode": 4,
           "airingAt": 1776961680
@@ -7018,10 +7002,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1776358680
-        },
-        {
           "episode": 4,
           "airingAt": 1776963480
         },
@@ -8216,16 +8196,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1776351600
-        },
-        {
           "episode": 2,
           "airingAt": 1779375600
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9078,10 +9053,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1776358200
-        },
-        {
           "episode": 4,
           "airingAt": 1776963000
         },
@@ -9254,10 +9225,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776355200
-        },
         {
           "episode": 4,
           "airingAt": 1776960000
