@@ -119,15 +119,17 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2026-04-16T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 7,
+    "subtractedEpisodeNumber": 1,
     "episodes": 7,
+    "lengthMin": 30,
     "mediaTypes": [
       {
         "name": "ONA",
         "route": "ona"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 208352,
@@ -157,6 +159,30 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-04-16T07:00:00Z"
+            },
+            {
+              "episode": 7,
               "airingAt": "2026-04-16T07:00:00Z"
             }
           ]
