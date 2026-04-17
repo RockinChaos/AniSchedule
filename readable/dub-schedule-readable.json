@@ -771,6 +771,65 @@
     "addedAt": "2026-01-24T15:30:00Z"
   },
   {
+    "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+    "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+    "native": "自称悪役令嬢な婚約者の観察記録。",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-04-17T13:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 192808,
+        "idMal": 61687,
+        "title": {
+          "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
+          "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
+          "native": "自称悪役令嬢な婚約者の観察記録。",
+          "userPreferred": "An Observation Log of My Fiancée Who Calls Herself a Villainess"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-17T13:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
     "title": "Kill Ao",
     "route": "kill-ao",
     "romaji": "Kill Ao",
@@ -1747,6 +1806,64 @@
     },
     "verified": false,
     "addedAt": "2026-05-01T04:00:00Z"
+  },
+  {
+    "title": "Tensei shitara Slime Datta Ken 4th Season",
+    "route": "tensei-shitara-slime-datta-ken-4th-season",
+    "romaji": "Tensei shitara Slime Datta Ken 4th Season",
+    "english": "That Time I Got Reincarnated as a Slime 4th Season",
+    "native": "転生したらスライムだった件 第4期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-04-17T15:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182205,
+        "idMal": 59970,
+        "title": {
+          "romaji": "Tensei Shitara Slime Datta Ken 4th Season",
+          "english": "That Time I Got Reincarnated as a Slime Season 4",
+          "native": "転生したらスライムだった件 第4期",
+          "userPreferred": "That Time I Got Reincarnated as a Slime Season 4"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182205-q2AeO1owuQbO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182205-q2AeO1owuQbO.jpg",
+          "color": "#1abbd6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-17T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-17T15:00:00Z"
   },
   {
     "title": "Tongari Boushi no Atelier",
