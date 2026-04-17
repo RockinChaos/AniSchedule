@@ -597,6 +597,63 @@
     "addedAt": "2026-04-10T16:00:00Z"
   },
   {
+    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+    "route": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
+    "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
+    "english": "Ascendance of a Bookworm Part 4",
+    "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
+    "delayedFrom": "0001-01-01T09:30:00Z",
+    "delayedUntil": "0001-01-01T09:30:00Z",
+    "episodeDate": "2026-04-18T09:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 171110,
+        "idMal": 57466,
+        "title": {
+          "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+          "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+          "native": "本好きの下剋上 領主の養女",
+          "userPreferred": "Ascendance of a Bookworm: Adopted Daughter of an Archduke"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171110-7zOdInS6DQNL.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-18T09:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-18T09:30:00Z"
+  },
+  {
     "title": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
     "route": "ichigo-aika-zatsu-de-namaiki-na-imouto-to-warikirenai-ani",
     "romaji": "Ichigo Aika: Zatsu de Namaiki na Imouto to Warikirenai Ani",
@@ -828,6 +885,65 @@
     },
     "verified": false,
     "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
+    "title": "Kanan-sama wa Akumade Choroi",
+    "route": "kanan-sama-wa-akumade-choroi",
+    "romaji": "Kanan-sama wa Akumade Choroi",
+    "english": "Mistress Kanan is Devilishly Easy",
+    "native": "カナン様はあくまでチョロい",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-04-18T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190704,
+        "idMal": 61501,
+        "title": {
+          "romaji": "Kanan-sama wa Akumade Choroi",
+          "english": "Mistress Kanan is Devilishly Easy",
+          "native": "カナン様はあくまでチョロい",
+          "userPreferred": "Mistress Kanan is Devilishly Easy"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190704-Ts1VvkrNdnCZ.jpg",
+          "color": "#3586ff"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-18T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-18T16:00:00Z"
   },
   {
     "title": "Kill Ao",
