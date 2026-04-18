@@ -1114,7 +1114,7 @@
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-04-04T17:22:08Z"
   },
   {
@@ -1739,8 +1739,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-18T16:30:00Z"
+              "episode": 3,
+              "airingAt": "2026-04-25T16:30:00Z"
             }
           ]
         },
