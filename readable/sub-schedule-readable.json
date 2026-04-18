@@ -954,10 +954,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 149,
-          "airingAt": 1776477600
-        },
-        {
           "episode": 150,
           "airingAt": 1777082400
         },
@@ -1145,10 +1141,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 212,
-          "airingAt": 1776465000
-        },
-        {
           "episode": 213,
           "airingAt": 1777069800
         },
@@ -1309,6 +1301,41 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 153466,
+    "idMal": 63967,
+    "title": {
+      "romaji": "Pan Long",
+      "english": null,
+      "native": "盘龙",
+      "userPreferred": "Pan Long"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153466-2QUDx7gJWIB3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153466-2QUDx7gJWIB3.jpg",
+      "color": "#5093e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1777474800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -2525,9 +2552,9 @@
     "idMal": 59176,
     "title": {
       "romaji": "Mahou no Shimai LuluttoLilly",
-      "english": null,
+      "english": "Magical Sisters LuluttoLilly",
       "native": "魔法の姉妹ルルットリリィ",
-      "userPreferred": "Mahou no Shimai LuluttoLilly"
+      "userPreferred": "Magical Sisters LuluttoLilly"
     },
     "format": "TV",
     "genres": [
@@ -3313,10 +3340,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776471960
-        },
         {
           "episode": 4,
           "airingAt": 1777076760
@@ -6253,10 +6276,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1776472200
-        },
-        {
           "episode": 4,
           "airingAt": 1777077000
         },
@@ -8702,9 +8721,9 @@
     "idMal": 63469,
     "title": {
       "romaji": "Hyakki Yakou Shou",
-      "english": null,
+      "english": "Hyakki Yakoushou",
       "native": "百鬼夜行抄",
-      "userPreferred": "Hyakki Yakou Shou"
+      "userPreferred": "Hyakki Yakoushou"
     },
     "format": "TV_SHORT",
     "genres": [
@@ -8712,7 +8731,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png",
