@@ -1060,6 +1060,60 @@
     "addedAt": "2026-04-02T15:30:00Z"
   },
   {
+    "title": "LIAR GAME",
+    "route": "liar-game",
+    "native": "ライアーゲーム",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-04-20T16:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 197754,
+        "idMal": 62331,
+        "title": {
+          "romaji": "LIAR GAME",
+          "english": "LIAR GAME",
+          "native": "LIAR GAME",
+          "userPreferred": "LIAR GAME"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Psychological"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197754-Q5KqcUhIdypp.png",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-20T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-20T16:00:00Z"
+  },
+  {
     "title": "Mairimashita! Iruma-kun 4",
     "route": "mairimashita-iruma-kun-4",
     "romaji": "Mairimashita! Iruma-kun 4",
