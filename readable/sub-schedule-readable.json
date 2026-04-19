@@ -414,10 +414,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2828,
-          "airingAt": 1776591000
-        },
-        {
           "episode": 2829,
           "airingAt": 1777195800
         },
@@ -512,6 +508,10 @@
         {
           "episode": 2852,
           "airingAt": 1791106200
+        },
+        {
+          "episode": 2853,
+          "airingAt": 1791711000
         }
       ]
     },
@@ -801,10 +801,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 362,
-          "airingAt": 1776589200
-        },
         {
           "episode": 363,
           "airingAt": 1777194000
@@ -2464,10 +2460,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1776587400
-        },
-        {
           "episode": 4,
           "airingAt": 1777192200
         },
@@ -3255,10 +3247,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1776585600
-        },
         {
           "episode": 3,
           "airingAt": 1777190400
@@ -6075,10 +6063,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1776603600
-        },
-        {
           "episode": 5,
           "airingAt": 1777208400
         },
@@ -7672,7 +7656,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 2,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204269-fTR4iyVjTHiC.png",
@@ -8450,10 +8434,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1776600000
-        },
         {
           "episode": 4,
           "airingAt": 1777204800
