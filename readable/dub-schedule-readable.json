@@ -1222,6 +1222,62 @@
     "addedAt": "2026-04-04T17:22:08Z"
   },
   {
+    "title": "MARRIAGETOXIN",
+    "route": "marriagetoxin",
+    "native": "マリッジトキシン",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-21T14:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 199547,
+        "idMal": 62601,
+        "title": {
+          "romaji": "MARRIAGETOXIN",
+          "english": "MARRIAGETOXIN",
+          "native": "マリッジトキシン",
+          "userPreferred": "MARRIAGETOXIN"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Drama",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199547-LAaG3cmKCGhr.jpg",
+          "color": "#1ae4f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-21T14:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-21T14:30:00Z"
+  },
+  {
     "title": "Mato Seihei no Slave 2nd Season",
     "route": "mato-seihei-no-slave-2nd-season",
     "romaji": "Mato Seihei no Slave 2nd Season",
