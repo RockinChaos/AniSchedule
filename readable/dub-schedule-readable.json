@@ -1529,7 +1529,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 189987,
@@ -1558,8 +1558,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-20T15:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-04-27T15:00:00Z"
             }
           ]
         },
@@ -2078,15 +2078,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-04-20T14:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-04-27T14:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-04-06T14:00:00Z"
   },
   {
