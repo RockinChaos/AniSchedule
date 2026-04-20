@@ -57,6 +57,64 @@
     "addedAt": "2026-04-01T16:52:53Z"
   },
   {
+    "title": "Akane-banashi",
+    "route": "akane-banashi",
+    "native": "あかね噺",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-05-17T07:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196935,
+        "idMal": 62164,
+        "title": {
+          "romaji": "Akane-banashi",
+          "english": "Akane-banashi",
+          "native": "あかね噺",
+          "userPreferred": "Akane-banashi"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196935-RnLWBsEvNp8M.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196935-RnLWBsEvNp8M.jpg",
+          "color": "#e4785d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-17T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-05-17T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-17T07:00:00Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedText": "Break",
@@ -192,6 +250,80 @@
     },
     "verified": false,
     "addedAt": "2026-04-16T07:00:00Z"
+  },
+  {
+    "title": "Digimon BeatBreak",
+    "route": "digimon-beatbreak",
+    "native": "デジモンビートブレイク",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T02:00:00Z",
+    "delayedUntil": "0001-01-01T02:00:00Z",
+    "episodeDate": "2026-05-17T02:00:00Z",
+    "episodeNumber": 25,
+    "subtractedEpisodeNumber": 21,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188388,
+        "idMal": 61269,
+        "title": {
+          "romaji": "DIGIMON BEATBREAK",
+          "english": "DIGIMON BEATBREAK",
+          "native": "DIGIMON BEATBREAK",
+          "userPreferred": "DIGIMON BEATBREAK"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
+          "color": "#fec928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 21,
+              "airingAt": "2026-05-17T02:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-05-17T02:00:00Z"
+            },
+            {
+              "episode": 23,
+              "airingAt": "2026-05-17T02:00:00Z"
+            },
+            {
+              "episode": 24,
+              "airingAt": "2026-05-17T02:00:00Z"
+            },
+            {
+              "episode": 25,
+              "airingAt": "2026-05-17T02:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-20T01:49:21Z"
   },
   {
     "title": "Dorohedoro 2nd Season",
@@ -946,6 +1078,65 @@
     "addedAt": "2026-04-18T16:00:00Z"
   },
   {
+    "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+    "route": "kidou-senshi-gundam-senkou-no-hathaway-sun-son-of-bright-tenative-title",
+    "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+    "english": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
+    "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-05-15T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 108,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 113971,
+        "idMal": 38716,
+        "title": {
+          "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+          "english": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+          "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "userPreferred": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": 108,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113971-y2wxyDYUqiHz.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-y2wxyDYUqiHz.png",
+          "color": "#35a1ae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-15T04:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-15T04:00:00Z"
+  },
+  {
     "title": "Kill Ao",
     "route": "kill-ao",
     "romaji": "Kill Ao",
@@ -1112,6 +1303,64 @@
     },
     "verified": false,
     "addedAt": "2026-04-20T16:00:00Z"
+  },
+  {
+    "title": "Luo Xiaohei Zhan Ji 2",
+    "route": "luo-xiaohei-zhan-ji-2",
+    "romaji": "Luo Xiaohei Zhan Ji 2",
+    "english": "The Legend of Hei 2",
+    "native": "罗小黑战记 2",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2026-05-12T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 119,
+    "mediaTypes": [
+      {
+        "name": "Movie (Chinese)",
+        "route": "movie-chinese"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 166475,
+        "idMal": 61952,
+        "title": {
+          "romaji": "Luo Xiaohei Zhan Ji 2",
+          "english": "The Legend of Hei 2",
+          "native": "罗小黑战记 2",
+          "userPreferred": "The Legend of Hei 2"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 120,
+        "seasonYear": null,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166475-wkJyPnAqIA9G.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166475-wkJyPnAqIA9G.jpg",
+          "color": "#e4ae50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166475-nAU6FAClLvhG.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-12T19:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-12T19:00:00Z"
   },
   {
     "title": "Mairimashita! Iruma-kun 4",
@@ -1572,6 +1821,63 @@
     },
     "verified": false,
     "addedAt": "2026-04-07T02:45:23Z"
+  },
+  {
+    "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+    "route": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+    "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+    "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+    "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-04-20T15:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 189987,
+        "idMal": 61425,
+        "title": {
+          "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+          "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+          "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
+          "userPreferred": "The Klutzy Class Monitor and the Girl with the Short Skirt"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189987-CkTDPfD7vu2Y.jpg",
+          "color": "#e4c950"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-20T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-20T15:00:00Z"
   },
   {
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
