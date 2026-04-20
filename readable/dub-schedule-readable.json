@@ -5,8 +5,8 @@
     "native": "【推しの子】第3期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-15T14:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-22T14:00:00Z",
+    "episodeNumber": 4,
     "episodes": 11,
     "lengthMin": 24,
     "mediaTypes": [
@@ -171,87 +171,6 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
-    "title": "Dandelion",
-    "route": "dandelion",
-    "native": "だんでらいおん",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-04-16T07:00:00Z",
-    "episodeNumber": 7,
-    "subtractedEpisodeNumber": 1,
-    "episodes": 7,
-    "lengthMin": 30,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 208352,
-        "idMal": 63572,
-        "title": {
-          "romaji": "Dandelion",
-          "english": "Dandelion",
-          "native": "だんでらいおん",
-          "userPreferred": "Dandelion"
-        },
-        "format": "ONA",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Supernatural"
-        ],
-        "duration": 29,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208352-KUuXI4sVbtYV.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208352-KUuXI4sVbtYV.jpg",
-          "color": "#e4d65d"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-04-16T07:00:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2026-04-16T07:00:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2026-04-16T07:00:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2026-04-16T07:00:00Z"
-            },
-            {
-              "episode": 5,
-              "airingAt": "2026-04-16T07:00:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2026-04-16T07:00:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2026-04-16T07:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-04-16T07:00:00Z"
-  },
-  {
     "title": "Digimon BeatBreak",
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
@@ -331,8 +250,8 @@
     "native": "ドロヘドロ 2期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-15T14:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-04-22T14:00:00Z",
+    "episodeNumber": 6,
     "episodes": 11,
     "lengthMin": 26,
     "mediaTypes": [
@@ -390,8 +309,8 @@
     "native": "Dr.STONE SCIENCE FUTURE 第3クール",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-16T14:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-23T14:00:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -507,8 +426,8 @@
     "native": "ガンバレ！中村くん!!",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-15T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-04-22T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -558,64 +477,6 @@
     "addedAt": "2026-04-01T17:00:00Z"
   },
   {
-    "title": "Golden Kamuy: Saishuushou",
-    "route": "golden-kamuy-saishuu-shou",
-    "romaji": "Golden Kamuy: Saishuushou",
-    "english": "Golden Kamuy Final Season",
-    "native": "ゴールデンカムイ 最終章",
-    "delayedFrom": "2026-02-02T14:30:00Z",
-    "delayedUntil": "2026-02-09T14:30:00Z",
-    "episodeDate": "2026-04-13T14:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 166521,
-        "idMal": 55772,
-        "title": {
-          "romaji": "Golden Kamuy: Saishuushou",
-          "english": "Golden Kamuy Final Season",
-          "native": "ゴールデンカムイ 最終章",
-          "userPreferred": "Golden Kamuy Final Season"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b166521-yvCHzltGGU2X.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b166521-yvCHzltGGU2X.jpg",
-          "color": "#ff8643"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166521-iFDMb3DoBnKt.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-04-13T14:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-19T14:30:00Z"
-  },
-  {
     "title": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
     "route": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
@@ -623,8 +484,8 @@
     "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-15T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-04-22T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -679,8 +540,8 @@
     "native": "北斗の拳 -FIST OF THE NORTH STAR-",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-04-17T16:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-24T16:00:00Z",
+    "episodeNumber": 4,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -736,8 +597,8 @@
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
     "delayedFrom": "0001-01-01T09:30:00Z",
     "delayedUntil": "0001-01-01T09:30:00Z",
-    "episodeDate": "2026-04-18T09:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-25T09:30:00Z",
+    "episodeNumber": 2,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -850,8 +711,8 @@
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-15T14:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-22T14:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -900,66 +761,6 @@
     "addedAt": "2026-04-15T14:00:00Z"
   },
   {
-    "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-    "route": "jingai-kyoushitsu-no-ningengirai-kyoushi",
-    "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-    "english": "A Misanthrope Teaches a Class for Demi-Humans",
-    "native": "人外教室の人間嫌い教師",
-    "delayedFrom": "2026-01-31T15:30:00Z",
-    "delayedUntil": "2026-02-07T15:30:00Z",
-    "episodeDate": "2026-04-18T15:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 198374,
-        "idMal": 62432,
-        "title": {
-          "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
-          "english": "A Misanthrope Teaches a Class for Demi-Humans",
-          "native": "人外教室の人間嫌い教師",
-          "userPreferred": "A Misanthrope Teaches a Class for Demi-Humans"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Fantasy",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198374-ROZU3qJGX4uS.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198374-ROZU3qJGX4uS.jpg",
-          "color": "#4386ff"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198374-cnzGgIW2KzHr.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-04-18T15:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-24T15:30:00Z"
-  },
-  {
     "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "route": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
@@ -967,8 +768,8 @@
     "native": "自称悪役令嬢な婚約者の観察記録。",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-04-17T13:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-24T13:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1026,8 +827,8 @@
     "native": "カナン様はあくまでチョロい",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-04-18T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-25T16:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1144,8 +945,8 @@
     "native": "キルアオ",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-04-18T14:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-04-25T14:30:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1201,8 +1002,8 @@
     "native": "氷の城壁",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-04-16T15:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-23T15:30:00Z",
+    "episodeNumber": 4,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1370,8 +1171,8 @@
     "native": "魔入りました！入間くん 第4シリーズ",
     "delayedFrom": "0001-01-01T10:25:00Z",
     "delayedUntil": "0001-01-01T10:25:00Z",
-    "episodeDate": "2026-04-18T10:25:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-25T10:25:00Z",
+    "episodeNumber": 4,
     "episodes": 24,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1428,8 +1229,8 @@
     "native": "魔都精兵のスレイブ 第２期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-15T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-04-22T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1480,63 +1281,6 @@
     },
     "verified": true,
     "addedAt": "2026-03-11T16:00:00Z"
-  },
-  {
-    "title": "Medalist 2nd Season",
-    "route": "medalist-2nd-season",
-    "native": "メダリスト 第2期",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-04-13T07:00:00Z",
-    "episodeNumber": 8,
-    "episodes": 9,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 189275,
-        "idMal": 61335,
-        "title": {
-          "romaji": "Medalist 2nd Season",
-          "english": "Medalist Season 2",
-          "native": "メダリスト 第2期",
-          "userPreferred": "Medalist Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Psychological",
-          "Sports"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189275-eHsK0lNnFfXH.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189275-eHsK0lNnFfXH.jpg",
-          "color": "#50a1e4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189275-WreT2tChg3a0.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-04-20T07:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-04-14T21:42:19Z"
   },
   {
     "title": "Meikyuu no Shiori",
@@ -1596,60 +1340,6 @@
     "addedAt": "2026-05-10T04:00:00Z"
   },
   {
-    "title": "MF Ghost 3rd Season",
-    "route": "mf-ghost-3rd-season",
-    "native": "MFゴースト 3rd Season",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-04-16T14:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 185753,
-        "idMal": 60602,
-        "title": {
-          "romaji": "MF Ghost 3rd Season",
-          "english": "MF GHOST Season 3",
-          "native": "MFゴースト 3rd Season",
-          "userPreferred": "MF GHOST Season 3"
-        },
-        "format": "ONA",
-        "genres": [
-          "Sports"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185753-fKim5yXjaE9I.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185753-fKim5yXjaE9I.png",
-          "color": "#1aaef1"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-04-16T14:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-23T00:59:19Z"
-  },
-  {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
     "romaji": "Nippon Sangoku",
@@ -1657,8 +1347,8 @@
     "native": "日本三國",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2026-04-19T12:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-26T12:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1715,8 +1405,8 @@
     "native": "ニワトリ・ファイター",
     "delayedFrom": "0001-01-01T04:00:00Z",
     "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-04-19T04:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-04-26T04:00:00Z",
+    "episodeNumber": 7,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1773,8 +1463,8 @@
     "native": "大きい女の子は好きですか？",
     "delayedFrom": "0001-01-01T16:05:00Z",
     "delayedUntil": "0001-01-01T16:05:00Z",
-    "episodeDate": "2026-04-19T16:05:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-26T16:05:00Z",
+    "episodeNumber": 4,
     "lengthMin": 5,
     "mediaTypes": [
       {
@@ -1887,8 +1577,8 @@
     "native": "Re:ゼロから始める異世界生活 4",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-15T14:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-04-22T14:00:00Z",
+    "episodeNumber": 3,
     "episodes": 19,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1946,8 +1636,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-04-18T01:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-25T01:00:00Z",
+    "episodeNumber": 4,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -2002,8 +1692,8 @@
     "native": "最強の王様、二度目の人生は何をする? Season 2",
     "delayedFrom": "0001-01-01T16:15:00Z",
     "delayedUntil": "0001-01-01T16:15:00Z",
-    "episodeDate": "2026-04-15T16:15:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-22T16:15:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 22,
     "mediaTypes": [
@@ -2060,8 +1750,8 @@
     "native": "春夏秋冬代行者 春の舞",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-04-18T16:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-04-25T16:30:00Z",
+    "episodeNumber": 3,
     "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2116,8 +1806,8 @@
     "native": "スノウボールアース",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-04-17T15:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-24T15:30:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2174,8 +1864,8 @@
     "native": "転生したらドラゴンの卵だった",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-04-15T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-04-22T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2291,8 +1981,8 @@
     "native": "転生したらスライムだった件 第4期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-04-17T15:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-04-24T15:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2349,8 +2039,8 @@
     "native": "とんがり帽子のアトリエ",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-04-13T14:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-20T14:00:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2400,65 +2090,6 @@
     "addedAt": "2026-04-06T14:00:00Z"
   },
   {
-    "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
-    "route": "vigilante-boku-no-hero-academia-illegals-2nd-season",
-    "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
-    "english": "My Hero Academia: Vigilantes 2nd Season",
-    "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
-    "delayedFrom": "2026-03-16T14:00:00Z",
-    "delayedUntil": "2026-03-30T14:00:00Z",
-    "episodeDate": "2026-04-13T14:00:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 195322,
-        "idMal": 61942,
-        "title": {
-          "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
-          "english": "My Hero Academia: Vigilantes Season 2",
-          "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期",
-          "userPreferred": "My Hero Academia: Vigilantes Season 2"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195322-hqBf19mBtM5K.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195322-hqBf19mBtM5K.jpg",
-          "color": "#e4bb5d"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195322-LBvpKyDllb8T.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-04-13T14:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-01-05T19:46:08Z"
-  },
-  {
     "title": "Yomi no Tsugai",
     "route": "yomi-no-tsugai",
     "romaji": "Yomi no Tsugai",
@@ -2466,8 +2097,8 @@
     "native": "黄泉のツガイ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-04-18T16:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-04-25T16:00:00Z",
+    "episodeNumber": 4,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2525,9 +2156,8 @@
     "native": "ようこそ実力至上主義の教室へ 4th Season",
     "delayedFrom": "0001-01-01T12:30:00Z",
     "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2026-04-15T12:30:00Z",
-    "episodeNumber": 4,
-    "subtractedEpisodeNumber": 1,
+    "episodeDate": "2026-04-22T12:30:00Z",
+    "episodeNumber": 5,
     "episodes": 16,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2564,35 +2194,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-15T12:30:00Z"
-            },
-            {
-              "episode": 2,
-              "airingAt": "2026-04-15T12:30:00Z"
-            },
-            {
-              "episode": 3,
-              "airingAt": "2026-04-15T12:30:00Z"
-            },
-            {
-              "episode": 4,
-              "airingAt": "2026-04-15T12:30:00Z"
-            },
-            {
               "episode": 5,
-              "airingAt": "2026-04-22T12:30:00Z"
-            },
-            {
-              "episode": 6,
-              "airingAt": "2026-04-22T12:30:00Z"
-            },
-            {
-              "episode": 7,
-              "airingAt": "2026-04-22T12:30:00Z"
-            },
-            {
-              "episode": 8,
               "airingAt": "2026-04-22T12:30:00Z"
             }
           ]
