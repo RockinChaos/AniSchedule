@@ -822,6 +822,63 @@
     "addedAt": "2026-04-18T16:00:00Z"
   },
   {
+    "title": "Kanojo, Okarishimasu 5",
+    "route": "kanojo-okarishimasu-5",
+    "romaji": "Kanojo, Okarishimasu 5",
+    "english": " Rent-a-Girlfriend 5",
+    "native": "彼女、お借りします 第5期",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-04-22T13:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 199029,
+        "idMal": 62485,
+        "title": {
+          "romaji": "Kanojo, Okarishimasu 5th Season",
+          "english": "Rent-a-Girlfriend Season 5",
+          "native": "彼女、お借りします 第5期",
+          "userPreferred": "Rent-a-Girlfriend Season 5"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199029-8eMkhHlD62Ik.png",
+          "color": "#5dd6f1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-04-29T13:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-22T18:59:09Z"
+  },
+  {
     "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
     "route": "kidou-senshi-gundam-senkou-no-hathaway-sun-son-of-bright-tenative-title",
     "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
