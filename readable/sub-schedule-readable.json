@@ -9373,5 +9373,38 @@
     },
     "unaired": true,
     "zeroEpisode": false
+  },
+  {
+    "id": 211301,
+    "idMal": null,
+    "title": {
+      "romaji": "Kaze no Anthem",
+      "english": null,
+      "native": "風のアンセム",
+      "userPreferred": "Kaze no Anthem"
+    },
+    "format": "MUSIC",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211301-6xzR9MKzFSRj.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211301-6xzR9MKzFSRj.png",
+      "color": "#6b351a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1777024920
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
