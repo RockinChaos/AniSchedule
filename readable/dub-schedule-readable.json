@@ -705,6 +705,63 @@
     "addedAt": "2026-04-18T09:30:00Z"
   },
   {
+    "title": "Isekai Nonbiri Nouka 2",
+    "route": "isekai-nonbiri-nouka-2",
+    "romaji": "Isekai Nonbiri Nouka 2",
+    "english": "Farming Life in Another World 2",
+    "native": "異世界のんびり農家2",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-05-01T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 197824,
+        "idMal": 62146,
+        "title": {
+          "romaji": "Isekai Nonbiri Nouka 2",
+          "english": "Farming Life in Another World 2",
+          "native": "異世界のんびり農家２",
+          "userPreferred": "Farming Life in Another World 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197824-k9Uyef8g49hB.png",
+          "color": "#ae7835"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-01T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-01T14:00:00Z"
+  },
+  {
     "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "route": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
@@ -819,6 +876,64 @@
     },
     "verified": false,
     "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
+    "title": "Kami no Shizuku",
+    "route": "kami-no-shizuku",
+    "romaji": "Kami no Shizuku",
+    "english": "The Drops of God",
+    "native": "神の雫",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-04-24T15:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 202508,
+        "idMal": 62981,
+        "title": {
+          "romaji": "Kami no Shizuku",
+          "english": "The Drops of God",
+          "native": "神の雫",
+          "userPreferred": "The Drops of God"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202508-dk6LEyevJYUY.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202508-dk6LEyevJYUY.jpg",
+          "color": "#e44386"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-24T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-24T15:30:00Z"
   },
   {
     "title": "Kanan-sama wa Akumade Choroi",
