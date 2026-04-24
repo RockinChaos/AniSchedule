@@ -636,15 +636,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-04-24T16:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-05-01T16:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-04-10T16:00:00Z"
   },
   {
@@ -866,8 +866,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-24T13:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-05-01T13:00:00Z"
             }
           ]
         },
@@ -895,7 +895,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 202508,
@@ -924,8 +924,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-24T15:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-05-01T15:30:00Z"
             }
           ]
         },
@@ -2132,8 +2132,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-04-24T15:30:00Z"
+              "episode": 5,
+              "airingAt": "2026-05-01T15:30:00Z"
             }
           ]
         },
@@ -2307,8 +2307,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-04-24T15:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-05-01T15:00:00Z"
             }
           ]
         },
