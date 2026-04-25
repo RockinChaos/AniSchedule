@@ -2378,6 +2378,64 @@
     "addedAt": "2026-04-06T14:00:00Z"
   },
   {
+    "title": "Tsue to Tsurugi no Wistoria 2nd Season",
+    "route": "tsue-to-tsurugi-no-wistoria-2nd-season",
+    "romaji": "Tsue to Tsurugi no Wistoria 2nd Season",
+    "english": "Wistoria: Wand and Sword 2nd Season",
+    "native": "杖と剣のウィストリア 第2期",
+    "delayedFrom": "0001-01-01T08:30:00Z",
+    "delayedUntil": "0001-01-01T08:30:00Z",
+    "episodeDate": "2026-04-26T08:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182300,
+        "idMal": 59983,
+        "title": {
+          "romaji": "Tsue to Tsurugi no Wistoria Season 2",
+          "english": "Wistoria: Wand and Sword Season 2",
+          "native": "杖と剣のウィストリア Season2",
+          "userPreferred": "Wistoria: Wand and Sword Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182300-IYkq5KrkQq1V.jpg",
+          "color": "#e4a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-26T08:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-26T08:30:00Z"
+  },
+  {
     "title": "Yomi no Tsugai",
     "route": "yomi-no-tsugai",
     "romaji": "Yomi no Tsugai",
