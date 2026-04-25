@@ -1116,8 +1116,8 @@
     "romaji": "Kill Ao",
     "english": "Kill Blue",
     "native": "キルアオ",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
+    "delayedFrom": "2026-04-25T14:30:00Z",
+    "delayedUntil": "2032-01-01T14:30:00Z",
     "episodeDate": "2026-04-25T14:30:00Z",
     "episodeNumber": 3,
     "episodes": 12,
@@ -1128,6 +1128,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -1156,8 +1157,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-05-02T14:30:00Z"
+              "episode": 3,
+              "airingAt": "2032-01-01T14:30:00Z"
             }
           ]
         },
