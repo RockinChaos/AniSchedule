@@ -2394,7 +2394,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 182300,
@@ -2424,8 +2424,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-04-26T08:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-05-03T08:30:00Z"
             }
           ]
         },
