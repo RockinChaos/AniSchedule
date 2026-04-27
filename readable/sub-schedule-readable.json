@@ -2185,6 +2185,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 176636,
+    "idMal": 58773,
+    "title": {
+      "romaji": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu! ",
+      "english": null,
+      "native": "新劇場版 ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+      "userPreferred": "Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu! "
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176636-zPyFoYfFYZLo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176636-zPyFoYfFYZLo.jpg",
+      "color": "#e4ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782399600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 177501,
     "idMal": 58820,
     "title": {
@@ -4036,10 +4070,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1777299840
-        },
-        {
           "episode": 5,
           "airingAt": 1777904640
         },
@@ -5520,10 +5550,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777302000
-        },
         {
           "episode": 5,
           "airingAt": 1777906800
