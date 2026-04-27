@@ -57,6 +57,63 @@
     "addedAt": "2026-04-01T16:52:53Z"
   },
   {
+    "title": "Aishiteru Game wo Owarasetai",
+    "route": "aishiteru-game-wo-owarasetai",
+    "romaji": "Aishiteru Game wo Owarasetai",
+    "english": "I Want to End This Love Game",
+    "native": "愛してるゲームを終わらせたい",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-04-28T14:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 194393,
+        "idMal": 61839,
+        "title": {
+          "romaji": "Aishiteru Game wo Owarasetai",
+          "english": "I Want to End this Love Game",
+          "native": "愛してるゲームを終わらせたい",
+          "userPreferred": "I Want to End this Love Game"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194393-0H9yYABu6y0i.jpg",
+          "color": "#43aef1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-04-28T14:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-04-28T14:30:00Z"
+  },
+  {
     "title": "Akane-banashi",
     "route": "akane-banashi",
     "native": "あかね噺",
