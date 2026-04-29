@@ -7,7 +7,7 @@ on:
 
 jobs:
   resolve-dub-schedules-and-upload:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
