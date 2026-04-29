@@ -2111,10 +2111,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1777471200
-        },
-        {
           "episode": 8,
           "airingAt": 1778076000
         },
@@ -2700,10 +2696,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1777465800
-        },
         {
           "episode": 9,
           "airingAt": 1778070600
@@ -3885,10 +3877,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 29,
-          "airingAt": 1777460400
-        },
-        {
           "episode": 30,
           "airingAt": 1778065200
         }
@@ -3925,10 +3913,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777467600
-        },
         {
           "episode": 5,
           "airingAt": 1778072400
@@ -5243,9 +5227,9 @@
     "idMal": 62155,
     "title": {
       "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
-      "english": null,
+      "english": "I Want You To Show Me Your Panties With a Disgusted Face Returns",
       "native": "嫌な顔されながらおパンツ見せてもらいたいR（リターンズ）",
-      "userPreferred": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns"
+      "userPreferred": "I Want You To Show Me Your Panties With a Disgusted Face Returns"
     },
     "format": "ONA",
     "genres": [
@@ -5845,10 +5829,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777467600
-        },
-        {
           "episode": 6,
           "airingAt": 1778072400
         },
@@ -5905,10 +5885,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777467600
-        },
         {
           "episode": 5,
           "airingAt": 1778072400
@@ -7978,7 +7954,7 @@
       "color": "#5dc9f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8608,10 +8584,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777467300
-        },
-        {
           "episode": 6,
           "airingAt": 1778072100
         },
@@ -8669,10 +8641,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777469400
-        },
         {
           "episode": 5,
           "airingAt": 1778074200
@@ -8969,6 +8937,43 @@
         {
           "episode": 1,
           "airingAt": 1777626000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 211557,
+    "idMal": null,
+    "title": {
+      "romaji": "Furachi",
+      "english": null,
+      "native": "フラチ",
+      "userPreferred": "Furachi"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211557-LKdbC6B6rXHB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211557-LKdbC6B6rXHB.png",
+      "color": "#e4bba1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782399600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1782399600
         }
       ]
     },
