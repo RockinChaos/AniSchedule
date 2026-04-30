@@ -772,6 +772,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 113555,
+    "idMal": 59889,
+    "title": {
+      "romaji": "Kidou Keisatsu Patlabor EZY",
+      "english": null,
+      "native": "機動警察パトレイバー EZY",
+      "userPreferred": "Kidou Keisatsu Patlabor EZY"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mecha"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113555-2V56Q1SZ3zpU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113555-2V56Q1SZ3zpU.jpg",
+      "color": "#2878e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/113555-gpgLF3e5jMhQ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1778770800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 118123,
     "idMal": 44042,
     "title": {
@@ -2160,10 +2193,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1777567500
-        },
-        {
           "episode": 5,
           "airingAt": 1778172300
         },
@@ -2225,10 +2254,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777559400
-        },
         {
           "episode": 5,
           "airingAt": 1778164200
@@ -2535,10 +2560,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777563000
-        },
-        {
           "episode": 6,
           "airingAt": 1778167800
         },
@@ -2719,10 +2740,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777562760
-        },
         {
           "episode": 6,
           "airingAt": 1778167560
@@ -3452,10 +3469,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777560960
-        },
         {
           "episode": 6,
           "airingAt": 1778165760
@@ -4593,10 +4606,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777566480
-        },
         {
           "episode": 6,
           "airingAt": 1778171280
@@ -6364,10 +6373,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777568280
-        },
         {
           "episode": 6,
           "airingAt": 1778173080
@@ -8233,10 +8238,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777567800
-        },
-        {
           "episode": 6,
           "airingAt": 1778172600
         },
@@ -8401,10 +8402,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777564800
-        },
         {
           "episode": 6,
           "airingAt": 1778169600
