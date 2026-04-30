@@ -2960,10 +2960,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1777552200
-        },
-        {
           "episode": 5,
           "airingAt": 1778157000
         },
@@ -3583,10 +3579,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 30,
-          "airingAt": 1777554000
-        },
         {
           "episode": 31,
           "airingAt": 1778158800
@@ -4369,10 +4361,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 31,
-          "airingAt": 1777546800
-        },
         {
           "episode": 32,
           "airingAt": 1778151600
@@ -5192,7 +5180,7 @@
     "genres": [
       "Ecchi"
     ],
-    "duration": null,
+    "duration": 4,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196840-9l084Fis4fYF.png",
@@ -5203,10 +5191,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1777554000
-        },
         {
           "episode": 2,
           "airingAt": 1778158800
@@ -5229,7 +5213,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5905,10 +5888,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777554000
-        },
         {
           "episode": 6,
           "airingAt": 1778158800
@@ -6979,10 +6958,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 27,
-          "airingAt": 1777546800
-        },
         {
           "episode": 28,
           "airingAt": 1778151600
@@ -8128,10 +8103,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1777541400
-        },
         {
           "episode": 7,
           "airingAt": 1778146200
