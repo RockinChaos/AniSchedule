@@ -893,6 +893,135 @@
     "zeroEpisode": false
   },
   {
+    "id": 140842,
+    "idMal": 50250,
+    "title": {
+      "romaji": "Chiikawa",
+      "english": "Chiikawa",
+      "native": "ちいかわ",
+      "userPreferred": "Chiikawa"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 2,
+    "seasonYear": 2022,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
+      "color": "#e4d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 339,
+          "airingAt": 1777588800
+        },
+        {
+          "episode": 340,
+          "airingAt": 1777934400
+        },
+        {
+          "episode": 341,
+          "airingAt": 1778193600
+        },
+        {
+          "episode": 342,
+          "airingAt": 1778539200
+        },
+        {
+          "episode": 343,
+          "airingAt": 1778798400
+        },
+        {
+          "episode": 344,
+          "airingAt": 1779144000
+        },
+        {
+          "episode": 345,
+          "airingAt": 1779403200
+        },
+        {
+          "episode": 346,
+          "airingAt": 1779748800
+        },
+        {
+          "episode": 347,
+          "airingAt": 1780008000
+        },
+        {
+          "episode": 348,
+          "airingAt": 1780353600
+        },
+        {
+          "episode": 349,
+          "airingAt": 1780612800
+        },
+        {
+          "episode": 350,
+          "airingAt": 1780958400
+        },
+        {
+          "episode": 351,
+          "airingAt": 1781217600
+        },
+        {
+          "episode": 352,
+          "airingAt": 1781563200
+        },
+        {
+          "episode": 353,
+          "airingAt": 1781822400
+        },
+        {
+          "episode": 354,
+          "airingAt": 1782168000
+        },
+        {
+          "episode": 355,
+          "airingAt": 1782427200
+        },
+        {
+          "episode": 356,
+          "airingAt": 1782772800
+        },
+        {
+          "episode": 357,
+          "airingAt": 1783032000
+        },
+        {
+          "episode": 358,
+          "airingAt": 1783377600
+        },
+        {
+          "episode": 359,
+          "airingAt": 1783636800
+        },
+        {
+          "episode": 360,
+          "airingAt": 1783982400
+        },
+        {
+          "episode": 361,
+          "airingAt": 1784241600
+        },
+        {
+          "episode": 362,
+          "airingAt": 1784587200
+        },
+        {
+          "episode": 363,
+          "airingAt": 1784846400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 142274,
     "idMal": 50418,
     "title": {
@@ -1424,6 +1553,70 @@
         {
           "episode": 8,
           "airingAt": 1783609200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 163793,
+    "idMal": 63964,
+    "title": {
+      "romaji": "Cheongchun Blossom: Uriui Bom",
+      "english": null,
+      "native": "청춘블라썸 : 우리의 봄",
+      "userPreferred": "Cheongchun Blossom: Uriui Bom"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163793-dOI9QEcIrgBS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx163793-dOI9QEcIrgBS.jpg",
+      "color": "#e45d93"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1778055300
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778660100
+        },
+        {
+          "episode": 6,
+          "airingAt": 1779264900
+        },
+        {
+          "episode": 7,
+          "airingAt": 1779869700
+        },
+        {
+          "episode": 8,
+          "airingAt": 1780474500
+        },
+        {
+          "episode": 9,
+          "airingAt": 1781079300
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781684100
+        },
+        {
+          "episode": 11,
+          "airingAt": 1782288900
+        },
+        {
+          "episode": 12,
+          "airingAt": 1782893700
         }
       ]
     },
@@ -8418,6 +8611,211 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 211181,
+    "idMal": null,
+    "title": {
+      "romaji": "Mu Shen Ji 4",
+      "english": null,
+      "native": "牧神记4",
+      "userPreferred": "Mu Shen Ji 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211181-93dehu3v5xHE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211181-93dehu3v5xHE.png",
+      "color": "#d6ae6b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1777734000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1778338800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1778943600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1779548400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1780153200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1780758000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1781362800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1781967600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1782572400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1783177200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1783782000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1784386800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1784991600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1785596400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1786201200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1786806000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1787410800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1788015600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1788620400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1789225200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1789830000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1790434800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1791039600
+        },
+        {
+          "episode": 26,
+          "airingAt": 1791644400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 211270,
+    "idMal": 63788,
+    "title": {
+      "romaji": "Fei Ren Zai 3 Part 2",
+      "english": null,
+      "native": "非人哉 第三季 第二部分",
+      "userPreferred": "Fei Ren Zai 3 Part 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": 7,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211270-JL9g9jogYvl2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211270-JL9g9jogYvl2.png",
+      "color": "#e4a15d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1777950000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1778554800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1779159600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1779764400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1780369200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1780974000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1781578800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1782183600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1782788400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1783393200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1783998000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1784602800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
