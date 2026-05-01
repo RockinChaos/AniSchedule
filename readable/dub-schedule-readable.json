@@ -228,6 +228,62 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "Boku no Hero Academia: More",
+    "route": "boku-no-hero-academia-more",
+    "romaji": "Boku no Hero Academia: More",
+    "english": "My Hero Academia: More",
+    "native": "僕のヒーローアカデミア More",
+    "delayedFrom": "0001-01-01T09:30:00Z",
+    "delayedUntil": "0001-01-01T09:30:00Z",
+    "episodeDate": "2026-05-02T09:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 204356,
+        "idMal": 63130,
+        "title": {
+          "romaji": "Boku no Hero Academia No. 170+1: More",
+          "english": "My Hero Academia More",
+          "native": "僕のヒーローアカデミア No. 170+1 「More」",
+          "userPreferred": "My Hero Academia More"
+        },
+        "format": "SPECIAL",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-7DZzU5jQEV5n.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204356-7DZzU5jQEV5n.jpg",
+          "color": "#28a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-02T09:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-02T09:30:00Z"
+  },
+  {
     "title": "Digimon BeatBreak",
     "route": "digimon-beatbreak",
     "native": "デジモンビートブレイク",
@@ -590,6 +646,64 @@
     },
     "verified": true,
     "addedAt": "2026-03-04T17:00:00Z"
+  },
+  {
+    "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
+    "route": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+    "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
+    "english": "The Most Heretical Last Boss Queen: From Villainess to Savior 2nd Season",
+    "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-05-20T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 195268,
+        "idMal": 61931,
+        "title": {
+          "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+          "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+          "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
+          "userPreferred": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195268-HkEv0z9iTCJK.jpg",
+          "color": "#e4c928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-20T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-20T17:00:00Z"
   },
   {
     "title": "Himekishi wa Barbaroi no Yome",
@@ -1233,9 +1347,9 @@
     "english": "Kill Blue",
     "native": "キルアオ",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-04-25T14:30:00Z",
-    "delayedUntil": "2026-05-09T14:30:00Z",
-    "episodeDate": "2026-05-02T14:30:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-05-01T07:00:00Z",
     "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
@@ -1273,8 +1387,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-05-09T14:30:00Z"
+              "episode": 4,
+              "airingAt": "2026-05-08T07:00:00Z"
             }
           ]
         },
@@ -1686,6 +1800,62 @@
     "addedAt": "2026-05-10T04:00:00Z"
   },
   {
+    "title": "NEEDY GIRL OVERDOSE",
+    "route": "needy-girl-overdose",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-05-02T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 202102,
+        "idMal": 62913,
+        "title": {
+          "romaji": "NEEDY GIRL OVERDOSE",
+          "english": "NEEDY GIRL OVERDOSE",
+          "native": "NEEDY GIRL OVERDOSE",
+          "userPreferred": "NEEDY GIRL OVERDOSE"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Psychological",
+          "Slice of Life"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202102-7qDmTI7eT5xF.png",
+          "color": "#c950f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-02T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-02T17:00:00Z"
+  },
+  {
     "title": "Nippon Sangoku",
     "route": "nippon-sangoku",
     "romaji": "Nippon Sangoku",
@@ -1977,6 +2147,63 @@
     },
     "verified": true,
     "addedAt": "2026-04-08T14:00:00Z"
+  },
+  {
+    "title": "Reincarnation no Kaben",
+    "route": "reincarnation-no-kaben",
+    "romaji": "Reincarnation no Kaben",
+    "english": "Petals of Reincarnation",
+    "native": "リィンカーネーションの花弁",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-05-13T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 179950,
+        "idMal": 59443,
+        "title": {
+          "romaji": "Reincarnation no Kaben",
+          "english": "Petals of Reincarnation",
+          "native": "リィンカーネーションの花弁",
+          "userPreferred": "Petals of Reincarnation"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179950-g95odyBfYEbU.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179950-g95odyBfYEbU.jpg",
+          "color": "#0d8686"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-13T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-13T17:00:00Z"
   },
   {
     "title": "Rilakkuma: Goyururi Yume no Tabi",
