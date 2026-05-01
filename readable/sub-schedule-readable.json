@@ -538,10 +538,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 654,
-          "airingAt": 1777587000
-        },
-        {
           "episode": 655,
           "airingAt": 1778191800
         },
@@ -636,6 +632,10 @@
         {
           "episode": 678,
           "airingAt": 1792102200
+        },
+        {
+          "episode": 679,
+          "airingAt": 1792707000
         }
       ]
     },
@@ -951,10 +951,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 339,
-          "airingAt": 1777588800
-        },
-        {
           "episode": 340,
           "airingAt": 1777934400
         },
@@ -1049,6 +1045,10 @@
         {
           "episode": 363,
           "airingAt": 1784846400
+        },
+        {
+          "episode": 364,
+          "airingAt": 1785192000
         }
       ]
     },
@@ -4375,79 +4375,79 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 32,
+          "episode": 31,
           "airingAt": 1778151600
         },
         {
-          "episode": 33,
+          "episode": 32,
           "airingAt": 1778756400
         },
         {
-          "episode": 34,
+          "episode": 33,
           "airingAt": 1779361200
         },
         {
-          "episode": 35,
+          "episode": 34,
           "airingAt": 1779966000
         },
         {
-          "episode": 36,
+          "episode": 35,
           "airingAt": 1780570800
         },
         {
-          "episode": 37,
+          "episode": 36,
           "airingAt": 1781175600
         },
         {
-          "episode": 38,
+          "episode": 37,
           "airingAt": 1781780400
         },
         {
-          "episode": 39,
+          "episode": 38,
           "airingAt": 1782385200
         },
         {
-          "episode": 40,
+          "episode": 39,
           "airingAt": 1782990000
         },
         {
-          "episode": 41,
+          "episode": 40,
           "airingAt": 1783594800
         },
         {
-          "episode": 42,
+          "episode": 41,
           "airingAt": 1784199600
         },
         {
-          "episode": 43,
+          "episode": 42,
           "airingAt": 1784804400
         },
         {
-          "episode": 44,
+          "episode": 43,
           "airingAt": 1785409200
         },
         {
-          "episode": 45,
+          "episode": 44,
           "airingAt": 1786014000
         },
         {
-          "episode": 46,
+          "episode": 45,
           "airingAt": 1786618800
         },
         {
-          "episode": 47,
+          "episode": 46,
           "airingAt": 1787223600
         },
         {
-          "episode": 48,
+          "episode": 47,
           "airingAt": 1787828400
         },
         {
-          "episode": 49,
+          "episode": 48,
           "airingAt": 1788433200
         },
         {
-          "episode": 50,
+          "episode": 49,
           "airingAt": 1789038000
         }
       ]
