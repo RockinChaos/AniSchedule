@@ -1804,10 +1804,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1777651200
-        },
-        {
           "episode": 7,
           "airingAt": 1778256000
         },
@@ -2793,83 +2789,83 @@
       "nodes": [
         {
           "episode": 5,
-          "airingAt": 1777644000
-        },
-        {
-          "episode": 6,
           "airingAt": 1778248800
         },
         {
-          "episode": 7,
+          "episode": 6,
           "airingAt": 1778853600
         },
         {
-          "episode": 8,
+          "episode": 7,
           "airingAt": 1779458400
         },
         {
-          "episode": 9,
+          "episode": 8,
           "airingAt": 1780063200
         },
         {
-          "episode": 10,
+          "episode": 9,
           "airingAt": 1780668000
         },
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1781272800
         },
         {
-          "episode": 12,
+          "episode": 11,
           "airingAt": 1781877600
         },
         {
-          "episode": 13,
+          "episode": 12,
           "airingAt": 1782482400
         },
         {
-          "episode": 14,
+          "episode": 13,
           "airingAt": 1783087200
         },
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1783692000
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1784296800
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1784901600
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1785506400
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1786111200
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1786716000
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1787320800
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1787925600
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1788530400
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1789135200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789740000
         }
       ]
     },
@@ -3702,10 +3698,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-EbWPynNeX5VY.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777647600
-        },
         {
           "episode": 5,
           "airingAt": 1778252400
@@ -5010,10 +5002,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777645800
-        },
         {
           "episode": 6,
           "airingAt": 1778250600
@@ -6532,10 +6520,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777645800
-        },
         {
           "episode": 5,
           "airingAt": 1778250600
@@ -8776,7 +8760,7 @@
   },
   {
     "id": 211557,
-    "idMal": null,
+    "idMal": 64070,
     "title": {
       "romaji": "Furachi",
       "english": null,
