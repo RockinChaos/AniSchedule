@@ -2728,8 +2728,9 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-05-02T16:00:00Z",
+    "delayedUntil": "2026-05-09T16:00:00Z",
     "episodeDate": "2026-05-02T16:00:00Z",
     "episodeNumber": 5,
     "episodes": 24,
@@ -2770,7 +2771,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2026-05-09T16:00:00Z"
             }
           ]
