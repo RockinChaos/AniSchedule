@@ -244,7 +244,7 @@
         "route": "special"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 204356,
@@ -864,15 +864,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-05-02T09:30:00Z"
+              "episode": 4,
+              "airingAt": "2026-05-09T09:30:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-04-18T09:30:00Z"
   },
   {
