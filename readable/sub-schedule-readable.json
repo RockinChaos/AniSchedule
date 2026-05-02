@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1200,
-          "airingAt": 1777712400
-        },
-        {
           "episode": 1201,
           "airingAt": 1778317200
         },
@@ -668,10 +664,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 913,
-          "airingAt": 1777708800
-        },
-        {
           "episode": 914,
           "airingAt": 1778313600
         },
@@ -766,6 +758,10 @@
         {
           "episode": 937,
           "airingAt": 1792224000
+        },
+        {
+          "episode": 938,
+          "airingAt": 1792828800
         }
       ]
     },
@@ -3142,10 +3138,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777713960
-        },
-        {
           "episode": 6,
           "airingAt": 1778318760
         },
@@ -3251,10 +3243,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777725000
-        },
         {
           "episode": 5,
           "airingAt": 1778329800
@@ -6080,10 +6068,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1777728600
-        },
-        {
           "episode": 7,
           "airingAt": 1778333400
         },
@@ -7190,40 +7174,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 204356,
-    "idMal": 63130,
-    "title": {
-      "romaji": "Boku no Hero Academia No. 170+1: More",
-      "english": "My Hero Academia More",
-      "native": "僕のヒーローアカデミア No. 170+1 「More」",
-      "userPreferred": "My Hero Academia More"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204356-7DZzU5jQEV5n.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204356-7DZzU5jQEV5n.jpg",
-      "color": "#28a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1777710600
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
