@@ -1245,10 +1245,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 377,
-          "airingAt": 1777773600
-        },
-        {
           "episode": 378,
           "airingAt": 1777946400
         },
@@ -1343,6 +1339,10 @@
         {
           "episode": 401,
           "airingAt": 1785031200
+        },
+        {
+          "episode": 402,
+          "airingAt": 1785204000
         }
       ]
     },
@@ -2450,10 +2450,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1777780800
-        },
-        {
           "episode": 9,
           "airingAt": 1778385600
         },
@@ -3304,10 +3300,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 57,
-          "airingAt": 1777762800
-        },
-        {
           "episode": 58,
           "airingAt": 1778367600
         },
@@ -3402,6 +3394,10 @@
         {
           "episode": 81,
           "airingAt": 1792278000
+        },
+        {
+          "episode": 82,
+          "airingAt": 1792882800
         }
       ]
     },
@@ -3769,41 +3765,6 @@
         {
           "episode": 24,
           "airingAt": 1782575760
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 188388,
-    "idMal": 61269,
-    "title": {
-      "romaji": "DIGIMON BEATBREAK",
-      "english": "DIGIMON BEATBREAK",
-      "native": "DIGIMON BEATBREAK",
-      "userPreferred": "DIGIMON BEATBREAK"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-      "color": "#fec928"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 29,
-          "airingAt": 1777766400
         }
       ]
     },
@@ -5047,10 +5008,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 40,
-          "airingAt": 1777773600
-        },
         {
           "episode": 41,
           "airingAt": 1778378400
@@ -6370,10 +6327,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1777759200
-        },
-        {
           "episode": 5,
           "airingAt": 1778364000
         },
@@ -6709,10 +6662,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1777764600
-        },
-        {
           "episode": 15,
           "airingAt": 1778369400
         },
@@ -6807,6 +6756,10 @@
         {
           "episode": 38,
           "airingAt": 1792279800
+        },
+        {
+          "episode": 39,
+          "airingAt": 1792884600
         }
       ]
     },
@@ -6971,10 +6924,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1777759200
-        },
-        {
           "episode": 5,
           "airingAt": 1778364000
         },
@@ -7069,6 +7018,10 @@
         {
           "episode": 28,
           "airingAt": 1792274400
+        },
+        {
+          "episode": 29,
+          "airingAt": 1792879200
         }
       ]
     },
@@ -7312,10 +7265,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 19,
-          "airingAt": 1777773600
-        },
-        {
           "episode": 20,
           "airingAt": 1778378400
         },
@@ -7496,10 +7445,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777768200
-        },
-        {
           "episode": 6,
           "airingAt": 1778373000
         },
@@ -7594,6 +7539,10 @@
         {
           "episode": 29,
           "airingAt": 1792283400
+        },
+        {
+          "episode": 30,
+          "airingAt": 1792888200
         }
       ]
     },
@@ -7718,10 +7667,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1777759200
-        },
         {
           "episode": 5,
           "airingAt": 1778364000
