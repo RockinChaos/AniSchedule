@@ -884,9 +884,9 @@
     "romaji": "Isekai Nonbiri Nouka 2",
     "english": "Farming Life in Another World 2",
     "native": "異世界のんびり農家2",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-05-08T14:00:00Z",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-05-06T17:00:00Z",
     "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
@@ -925,7 +925,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-05-08T14:00:00Z"
+              "airingAt": "2026-05-06T17:00:00Z"
             }
           ]
         },
@@ -2555,8 +2555,9 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
+    "delayedText": "Delayed",
     "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-09T16:00:00Z",
+    "delayedUntil": "2026-05-16T16:00:00Z",
     "episodeDate": "2026-05-09T16:00:00Z",
     "episodeNumber": 5,
     "episodes": 24,
@@ -2598,7 +2599,7 @@
           "nodes": [
             {
               "episode": 5,
-              "airingAt": "2026-05-09T16:00:00Z"
+              "airingAt": "2026-05-16T16:00:00Z"
             }
           ]
         },
