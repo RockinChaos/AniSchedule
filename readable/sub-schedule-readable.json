@@ -1365,10 +1365,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777993200
-        },
-        {
           "episode": 6,
           "airingAt": 1778598000
         },
@@ -1844,10 +1840,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777991400
-        },
         {
           "episode": 6,
           "airingAt": 1778596200
@@ -3463,10 +3455,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1777991400
-        },
         {
           "episode": 6,
           "airingAt": 1778596200
@@ -6798,10 +6786,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1777998540
-        },
-        {
           "episode": 6,
           "airingAt": 1778603340
         },
@@ -7724,10 +7708,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1778000340
-        },
-        {
           "episode": 6,
           "airingAt": 1778605140
         },
@@ -8567,48 +8547,44 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1778554800
-        },
-        {
           "episode": 3,
-          "airingAt": 1779159600
+          "airingAt": 1778558400
         },
         {
           "episode": 4,
-          "airingAt": 1779764400
+          "airingAt": 1779163200
         },
         {
           "episode": 5,
-          "airingAt": 1780369200
+          "airingAt": 1779768000
         },
         {
           "episode": 6,
-          "airingAt": 1780974000
+          "airingAt": 1780372800
         },
         {
           "episode": 7,
-          "airingAt": 1781578800
+          "airingAt": 1780977600
         },
         {
           "episode": 8,
-          "airingAt": 1782183600
+          "airingAt": 1781582400
         },
         {
           "episode": 9,
-          "airingAt": 1782788400
+          "airingAt": 1782187200
         },
         {
           "episode": 10,
-          "airingAt": 1783393200
+          "airingAt": 1782792000
         },
         {
           "episode": 11,
-          "airingAt": 1783998000
+          "airingAt": 1783396800
         },
         {
           "episode": 12,
-          "airingAt": 1784602800
+          "airingAt": 1784001600
         }
       ]
     },
