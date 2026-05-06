@@ -2318,6 +2318,63 @@
     "addedAt": "2026-04-03T14:40:00Z"
   },
   {
+    "title": "Tamon-kun Ima Docchi!?",
+    "route": "tamon-kun-ima-docchi",
+    "romaji": "Tamon-kun Ima Docchi!?",
+    "english": "Tamon's B-Side",
+    "native": "多聞くん今どっち!?",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-05-07T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178005,
+        "idMal": 59047,
+        "title": {
+          "romaji": "Tamon-kun Ima Docchi!?",
+          "english": "Tamon's B-Side",
+          "native": "多聞くん今どっち！？",
+          "userPreferred": "Tamon's B-Side"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178005-pCEReATswrup.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178005-pCEReATswrup.jpg",
+          "color": "#e4436b"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178005-X4Tr7p0sCQbx.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-07T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-07T16:00:00Z"
+  },
+  {
     "title": "Tensei shitara Dragon no Tamago datta",
     "route": "tensei-shitara-dragon-no-tamago-datta",
     "romaji": "Tensei Shitara Dragon no Tamago Datta",
