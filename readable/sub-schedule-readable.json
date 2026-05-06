@@ -2065,10 +2065,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1778076000
-        },
-        {
           "episode": 9,
           "airingAt": 1778680800
         },
@@ -2622,10 +2618,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1778070600
-        },
         {
           "episode": 10,
           "airingAt": 1778675400
@@ -3826,8 +3818,84 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 30,
-          "airingAt": 1778065200
+          "episode": 31,
+          "airingAt": 1778670000
+        },
+        {
+          "episode": 32,
+          "airingAt": 1779274800
+        },
+        {
+          "episode": 33,
+          "airingAt": 1779879600
+        },
+        {
+          "episode": 34,
+          "airingAt": 1780484400
+        },
+        {
+          "episode": 35,
+          "airingAt": 1781089200
+        },
+        {
+          "episode": 36,
+          "airingAt": 1781694000
+        },
+        {
+          "episode": 37,
+          "airingAt": 1782298800
+        },
+        {
+          "episode": 38,
+          "airingAt": 1782903600
+        },
+        {
+          "episode": 39,
+          "airingAt": 1783508400
+        },
+        {
+          "episode": 40,
+          "airingAt": 1784113200
+        },
+        {
+          "episode": 41,
+          "airingAt": 1784718000
+        },
+        {
+          "episode": 42,
+          "airingAt": 1785322800
+        },
+        {
+          "episode": 43,
+          "airingAt": 1785927600
+        },
+        {
+          "episode": 44,
+          "airingAt": 1786532400
+        },
+        {
+          "episode": 45,
+          "airingAt": 1787137200
+        },
+        {
+          "episode": 46,
+          "airingAt": 1787742000
+        },
+        {
+          "episode": 47,
+          "airingAt": 1788346800
+        },
+        {
+          "episode": 48,
+          "airingAt": 1788951600
+        },
+        {
+          "episode": 49,
+          "airingAt": 1789556400
+        },
+        {
+          "episode": 50,
+          "airingAt": 1790161200
         }
       ]
     },
@@ -3862,10 +3930,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1778072400
-        },
         {
           "episode": 6,
           "airingAt": 1778677200
@@ -4281,10 +4345,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1778077800
-        },
         {
           "episode": 7,
           "airingAt": 1778682600
@@ -5681,10 +5741,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1778072400
-        },
-        {
           "episode": 7,
           "airingAt": 1778677200
         },
@@ -5737,10 +5793,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1778072400
-        },
         {
           "episode": 6,
           "airingAt": 1778677200
@@ -7150,6 +7202,60 @@
     "zeroEpisode": false
   },
   {
+    "id": 205290,
+    "idMal": 62728,
+    "title": {
+      "romaji": "Jian Lai 2",
+      "english": "Sword of Coming 2nd Season",
+      "native": "剑来 第二季",
+      "userPreferred": "Sword of Coming 2nd Season"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 31,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b205290-oc3SbEom5g7U.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b205290-oc3SbEom5g7U.png",
+      "color": "#c99350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 22,
+          "airingAt": 1778148000
+        },
+        {
+          "episode": 23,
+          "airingAt": 1778752800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1779357600
+        },
+        {
+          "episode": 25,
+          "airingAt": 1779962400
+        },
+        {
+          "episode": 26,
+          "airingAt": 1780567200
+        },
+        {
+          "episode": 27,
+          "airingAt": 1781172000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 205772,
     "idMal": 63276,
     "title": {
@@ -8265,10 +8371,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1778072100
-        },
-        {
           "episode": 7,
           "airingAt": 1778676900
         },
@@ -8322,10 +8424,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1778074200
-        },
         {
           "episode": 6,
           "airingAt": 1778679000
