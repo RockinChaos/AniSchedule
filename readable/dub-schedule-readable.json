@@ -406,8 +406,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-07T14:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-05-14T14:00:00Z"
             }
           ]
         },
@@ -2323,9 +2323,9 @@
     "romaji": "Tamon-kun Ima Docchi!?",
     "english": "Tamon's B-Side",
     "native": "多聞くん今どっち!?",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-05-07T16:00:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-05-07T15:00:00Z",
     "episodeNumber": 1,
     "episodes": 13,
     "lengthMin": 23,
@@ -2335,7 +2335,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 178005,
@@ -2363,8 +2363,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-05-07T16:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-05-14T15:00:00Z"
             }
           ]
         },
