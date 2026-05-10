@@ -268,6 +268,29 @@ function ensureDirectoryExists(filePath) {
 }
 
 /**
+ * Checks the fetched series count against the saved schedule to detect API degradation.
+ * Exits the process if the count drops below 40% of the saved schedule (critical),
+ * or returns a warning string if below 75% (warning). Returns null if all is well.
+ *
+ * @param {Array} lists The fetched timetable entries to validate.
+ * @param {Array} currentSchedule The saved schedule to compare against.
+ * @returns {string|null} A warning message, or null if the count is acceptable.
+ */
+export function checkThreshold(lists, currentSchedule) {
+    const criticalThreshold = Math.floor(currentSchedule.length * .40)
+    const warnThreshold = Math.floor(currentSchedule.length * .75)
+    if (currentSchedule.length > 0 && lists.length < criticalThreshold) {
+        console.error(`CRITICAL: Timetable fetch returned only ${lists.length} series but the saved schedule has ${currentSchedule.length} (min expected: ${criticalThreshold}). AniList or the AnimeSchedule API may be degraded. Aborting to prevent cascade data loss.`)
+        process.exit(1)
+    } else if (currentSchedule.length > 0 && lists.length < warnThreshold) {
+        const warning = `WARNING: Timetable fetch returned only ${lists.length} series but the saved schedule has ${currentSchedule.length} (expected at least ${warnThreshold}). AniList or the AnimeSchedule API may be partially degraded.`
+        console.error(warning)
+        return warning
+    }
+    return null
+}
+
+/**
  * Corrects zero episode series by adjusting episode numbers and updating feeds
  * @param {string} type - Dub or Sub.
  * @param {Array} mediaList - List of media to check and correct

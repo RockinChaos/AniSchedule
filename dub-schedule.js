@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes, checkThreshold } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -154,6 +154,8 @@ export async function fetchDubSchedule() {
             }
             return true
         })
+        const timetablesWarning = checkThreshold(timetables, currentSchedule)
+        if (timetablesWarning) changes.push(timetablesWarning)
 
         for (const entry of currentSchedule) { // need to re-add indefinitely delayed series to timetables, or correctly remove un-verified episodes.
             const existingInAiring = timetables.findIndex((airingItem) => airingItem.route === entry.route)
@@ -221,6 +223,8 @@ export async function fetchDubSchedule() {
         }
         airingLists.value = timetables.filter(item => !item.airType || item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title)) // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
         console.log(`Successfully retrieved ${airingLists.value.length} airing series...`)
+        const airingWarning = checkThreshold(airingLists.value, currentSchedule)
+        if (airingWarning) changes.push(airingWarning)
     } else {
         console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!')
         process.exit(1)
