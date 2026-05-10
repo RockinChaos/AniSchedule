@@ -8,7 +8,7 @@ on:
 jobs:
   resolve-dub-schedules-and-upload:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 4
 
     steps:
     - name: Checkout repository
@@ -31,14 +31,17 @@ jobs:
 
     - name: Install dependencies
       run: npm ci
+      timeout-minutes: 1
 
     - name: Run Node.js script
       env:  # Pass the secret as an environment variable
         ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
         ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
       run: node index.js update-dubs
+      timeout-minutes: 2
 
     - name: Commit and push JSON files
+      timeout-minutes: 1
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -52,10 +55,32 @@ jobs:
         
         title="(Dub) Updated Airing Schedule"
         if [ -f changes.txt ] && [ -s changes.txt ]; then
-        git commit -m "$title" -m "$(cat changes.txt)" || exit 0
+          contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
+          contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
+          contains_delayed=$(grep -qi "delayed" changes.txt && echo true || echo false)
+          contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
+          contains_modified=$(grep -q "Modified" changes.txt && echo true || echo false)
+          schedule_changed=$(git diff --cached --name-only | grep -q "dub-schedule.json" && echo true || echo false)
+
+          actions=""
+          [ "$contains_added" == "true" ] && actions="${actions:+$actions/}Added"
+          [ "$contains_missing" == "true" ] && actions="${actions:+$actions/}Missing"
+          [ "$contains_removed" == "true" ] && actions="${actions:+$actions/}Removed"
+          [ "$contains_delayed" == "true" ] && actions="${actions:+$actions/}Delayed"
+          [ "$contains_modified" == "true" ] && actions="${actions:+$actions/}Modified"
+
+          title_parts=""
+          [ "$schedule_changed" == "true" ] && title_parts="Updated Airing Schedule"
+          [ -n "$actions" ] && title_parts="${title_parts:+$title_parts | }$actions Episode(s)"
+          [ -n "$title_parts" ] && title="(Dub) $title_parts" || title="(Dub) Updated Airing Schedule"
+
+          git commit -m "$title" -m "$(cat changes.txt)" || exit 0
         else
-        git commit -m "$title" || exit 0
+          git commit -m "$title" || exit 0
         fi
         
-        git pull --rebase
-        git push
+        for i in 1 2 3; do
+          git pull --rebase && git push && break
+          echo "Push attempt $i failed, retrying in 5s..."
+          sleep 5
+        done

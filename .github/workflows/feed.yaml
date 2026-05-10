@@ -22,73 +22,74 @@ jobs:
       - name: Start 24-hour loop
         env:  # Pass the secret as an environment variable
           ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
+        shell: bash
         run: |
-          end_time=$(( $(date +%s) + 84600 )) # 23 hours * 3600 + 30 minutes * 60
+          end_time=$(( $(date +%s) + 84600 )) # Run for 23.5 hours, leaving buffer before the next daily trigger
           while [ $(date +%s) -lt $end_time ]; do
             echo "Checking for newly released episodes"
           
             # Pull latest changes
-            git pull
+            git pull --rebase
           
             # Run the feed update script
-            node index.js update-all-feeds
+            timeout 120s node index.js update-all-feeds
           
             # Stage, commit, and push any JSON changes
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'
-          
-            title="Added New Episode(s)"
-            if [ -f changes.txt ]; then
-            contains_dub=$(grep -q "(Dub)" changes.txt && echo true || echo false)
-            contains_sub=$(grep -q "(Sub)" changes.txt && echo true || echo false)
-            contains_hentai=$(grep -q "(Hentai)" changes.txt && echo true || echo false)
-            contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
-            contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
-            contains_delayed=$(grep -q "Delayed" changes.txt && echo true || grep -q "delayed" changes.txt && echo true || echo false)
-            contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
-            contains_modified=$(grep -q "Modified" changes.txt && echo true || echo false)
 
-            if [ "$contains_added" == "true" ] && [ "$contains_removed" == "true" ]; then
-              if [ "contains_missing" == "true" ]; then
-              title="(Added/Removed) Missing Episode(s)"
-              else
-              title="(Added/Removed) Episode(s)"
+            title="Updated Episode(s)"
+            if [ -f changes.txt ] && [ -s changes.txt ]; then
+              contains_dub=$(grep -q "(Dub)" changes.txt && echo true || echo false)
+              contains_sub=$(grep -q "(Sub)" changes.txt && echo true || echo false)
+              contains_hentai=$(grep -q "(Hentai)" changes.txt && echo true || echo false)
+              contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
+              contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
+              contains_delayed=$(grep -qi "delayed" changes.txt && echo true || echo false)
+              contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
+              contains_modified=$(grep -q "Modified" changes.txt && echo true || echo false)
+
+              # Build type prefix (Dub/Sub/Hentai)
+              type_prefix=""
+              if [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+                type_prefix="(Dub/Sub/Hentai)"
+              elif [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ]; then
+                type_prefix="(Dub/Sub)"
+              elif [ "$contains_dub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+                type_prefix="(Dub/Hentai)"
+              elif [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+                type_prefix="(Sub/Hentai)"
+              elif [ "$contains_dub" == "true" ]; then
+                type_prefix="(Dub)"
+              elif [ "$contains_sub" == "true" ]; then
+                type_prefix="(Sub)"
+              elif [ "$contains_hentai" == "true" ]; then
+                type_prefix="(Hentai)"
               fi
-            elif [ "$contains_removed" == "true" ] && [ "$contains_delayed" == "true" ]; then
-            title="Removed Episode(s) (Delayed)"
-            elif [ "$contains_removed" == "true" ]; then
-            title="Removed Episode(s) (Correction)"
-            elif [ "$contains_missing" == "true" ]; then
-            title="Added Missing Episode(s)"
-            elif [ "contains_modified" == "true" ]; then
-            title="Modified Episode(s)"
-            fi
-          
-            if [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            title="(Dub/Sub/Hentai) $title"
-            elif [ "$contains_dub" == "true" ] && [ "$contains_sub" == "true" ]; then
-            title="(Dub/Sub) $title"
-            elif [ "$contains_dub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            title="(Dub/Hentai) $title"
-            elif [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            title="(Sub/Hentai) $title"
-            elif [ "$contains_dub" == "true" ]; then
-            title="(Dub) $title"
-            elif [ "$contains_sub" == "true" ]; then
-            title="(Sub) $title"
-            elif [ "$contains_hentai" == "true" ]; then
-            title="(Hentai) $title"
-            fi
-          
-            git commit -m "$title" -m "$(cat changes.txt)" || true
+
+              # Build action suffix from all present actions
+              actions=""
+              [ "$contains_added" == "true" ] && actions="${actions:+$actions/}Added"
+              [ "$contains_missing" == "true" ] && actions="${actions:+$actions/}Missing"
+              [ "$contains_removed" == "true" ] && actions="${actions:+$actions/}Removed"
+              [ "$contains_delayed" == "true" ] && actions="${actions:+$actions/}Delayed"
+              [ "$contains_modified" == "true" ] && actions="${actions:+$actions/}Modified"
+
+              [ -n "$actions" ] && title="$actions Episode(s)"
+              [ -n "$type_prefix" ] && title="$type_prefix $title"
+
+              git commit -m "$title" -m "$(cat changes.txt)" || true
             else
-            git commit -m "$title" || true
+              git commit -m "$title" || true
             fi
-          
-            git push || true
-          
+
+            for i in 1 2 3; do
+              git pull --rebase && git push && break
+              echo "Push attempt $i failed, retrying in 5s..."
+              sleep 5
+            done
+
             echo "Sleeping for 30 seconds..."
             sleep 30
           done
-        shell: bash
