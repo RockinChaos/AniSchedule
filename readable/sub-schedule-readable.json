@@ -3116,7 +3116,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "duration": 1,
+    "duration": 2,
     "seasonYear": 2025,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
@@ -5162,10 +5162,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1778511600
-        },
         {
           "episode": 7,
           "airingAt": 1779116400
