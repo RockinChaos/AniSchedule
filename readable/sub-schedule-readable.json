@@ -1711,10 +1711,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1778860800
-        },
-        {
           "episode": 9,
           "airingAt": 1779465600
         },
@@ -2701,6 +2697,7 @@
     "format": "TV",
     "genres": [
       "Comedy",
+      "Ecchi",
       "Fantasy",
       "Romance"
     ],
@@ -3385,10 +3382,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187869-EbWPynNeX5VY.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1778857200
-        },
         {
           "episode": 7,
           "airingAt": 1779462000
@@ -4662,10 +4655,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196144-oWeLz0DOjhYV.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1778855400
-        },
         {
           "episode": 8,
           "airingAt": 1779460200
@@ -6012,10 +6001,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202508-K276v0truxE0.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1778855400
-        },
         {
           "episode": 7,
           "airingAt": 1779460200
@@ -7808,9 +7793,9 @@
     "idMal": 63304,
     "title": {
       "romaji": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru",
-      "english": null,
+      "english": "Monster Eater",
       "native": "魔物喰らいの冒険者 ~俺だけ魔物を喰らって強くなる~",
-      "userPreferred": "Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru"
+      "userPreferred": "Monster Eater"
     },
     "format": "TV_SHORT",
     "genres": [
