@@ -752,8 +752,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-05-15T16:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-05-22T16:00:00Z"
             }
           ]
         },
@@ -1100,8 +1100,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-05-15T15:30:00Z"
+              "episode": 5,
+              "airingAt": "2026-05-22T15:30:00Z"
             }
           ]
         },
@@ -1285,6 +1285,64 @@
     },
     "verified": false,
     "addedAt": "2026-05-15T04:00:00Z"
+  },
+  {
+    "title": "Kill Ao",
+    "route": "kill-ao",
+    "romaji": "Kill Ao",
+    "english": "Kill Blue",
+    "native": "キルアオ",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-05-15T07:00:00Z",
+    "episodeNumber": 5,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 198113,
+        "idMal": 62391,
+        "title": {
+          "romaji": "Kill Ao",
+          "english": "KILL BLUE",
+          "native": "キルアオ",
+          "userPreferred": "KILL BLUE"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
+          "color": "#50aefe"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 6,
+              "airingAt": "2026-05-22T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-15T17:46:05Z"
   },
   {
     "title": "Koori no Jouheki",
@@ -2251,8 +2309,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-05-15T15:30:00Z"
+              "episode": 8,
+              "airingAt": "2026-05-22T15:30:00Z"
             }
           ]
         },
