@@ -129,7 +129,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196935,
@@ -162,6 +162,10 @@
             {
               "episode": 2,
               "airingAt": "2026-05-16T16:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-05-23T16:00:00Z"
             }
           ]
         },
@@ -1159,8 +1163,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-16T16:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-05-23T16:00:00Z"
             }
           ]
         },
@@ -1733,15 +1737,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-05-16T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-05-23T17:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-05-02T17:00:00Z"
   },
   {
@@ -2253,8 +2257,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-16T16:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-05-23T16:30:00Z"
             }
           ]
         },
@@ -2659,8 +2663,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-05-16T16:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-05-23T16:00:00Z"
             }
           ]
         },
