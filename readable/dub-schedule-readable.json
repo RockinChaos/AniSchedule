@@ -561,7 +561,7 @@
         "id": 185262,
         "idMal": 60460,
         "title": {
-          "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
+          "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru",
           "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
           "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～",
           "userPreferred": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing"
@@ -773,8 +773,9 @@
     "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
     "english": "Ascendance of a Bookworm Part 4",
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "0001-01-01T09:30:00Z",
-    "delayedUntil": "0001-01-01T09:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-05-16T09:30:00Z",
+    "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-05-16T09:30:00Z",
     "episodeNumber": 5,
     "lengthMin": 23,
@@ -813,7 +814,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2026-05-23T09:30:00Z"
             }
           ]
