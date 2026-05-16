@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1202,
-          "airingAt": 1778922000
-        },
-        {
           "episode": 1203,
           "airingAt": 1779526800
         },
@@ -1859,10 +1855,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1778920200
-        },
-        {
           "episode": 7,
           "airingAt": 1779525000
         },
@@ -2866,10 +2858,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1778923560
-        },
-        {
           "episode": 8,
           "airingAt": 1779528360
         },
@@ -2967,10 +2955,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1778934600
-        },
         {
           "episode": 7,
           "airingAt": 1779539400
@@ -8168,6 +8152,41 @@
         {
           "episode": 2,
           "airingAt": 1782399600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 212309,
+    "idMal": 64181,
+    "title": {
+      "romaji": "Transformers: Wild King W",
+      "english": null,
+      "native": "トランスフォーマー ワイルドキングW",
+      "userPreferred": "Transformers: Wild King W"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212309-gDqt6qz1RPEL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212309-gDqt6qz1RPEL.png",
+      "color": "#3593e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1779238800
         }
       ]
     },
