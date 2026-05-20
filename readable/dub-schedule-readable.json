@@ -529,6 +529,65 @@
     "addedAt": "2026-04-01T17:00:00Z"
   },
   {
+    "title": "Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Yuki",
+    "route": "ginga-tokkyuu-milky-subway-movie-kakueki-teisha-gekijou-yuki",
+    "romaji": "Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Yuki",
+    "english": "Milky☆Subway: The Galactic Limited Express Movie",
+    "native": "劇場 銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-06-01T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 46,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 204949,
+        "idMal": 62518,
+        "title": {
+          "romaji": "Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki",
+          "english": "Milky☆Subway: The Galactic Limited Express – the Movie",
+          "native": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
+          "userPreferred": "Milky☆Subway: The Galactic Limited Express – the Movie"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Adventure",
+          "Comedy",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 46,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204949-aLHdk5zHtnXv.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204949-aLHdk5zHtnXv.jpg",
+          "color": "#1a6b50"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-01T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-01T07:00:00Z"
+  },
+  {
     "title": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
     "route": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "romaji": "Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru",
@@ -1104,6 +1163,64 @@
     },
     "verified": true,
     "addedAt": "2026-04-17T13:00:00Z"
+  },
+  {
+    "title": "Kairyuu to Yuubinyasan",
+    "route": "kairyuu-to-yuubinyasan",
+    "romaji": "Kairyuu to Yuubinyasan",
+    "english": "Dragonite and the Special Delivery",
+    "native": "カイリューとゆうびんやさん",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-05-19T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 14,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 186559,
+        "idMal": 60946,
+        "title": {
+          "romaji": "Kairyuu to Yuubinya-san",
+          "english": null,
+          "native": "カイリューとゆうびんやさん",
+          "userPreferred": "Kairyuu to Yuubinya-san"
+        },
+        "format": "ONA",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 14,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186559-yoHyJ6ROfrxT.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186559-yoHyJ6ROfrxT.jpg",
+          "color": "#50bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186559-ykFMsI4zGZ0k.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-05-19T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-20T23:08:09Z"
   },
   {
     "title": "Kami no Shizuku",
