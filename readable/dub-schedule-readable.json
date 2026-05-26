@@ -696,6 +696,7 @@
     "delayedUntil": "2026-05-23T09:30:00Z",
     "episodeDate": "2026-05-30T09:30:00Z",
     "episodeNumber": 6,
+    "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1333,7 +1334,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-05-28T15:30:00Z",
     "episodeNumber": 9,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1423,8 +1424,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-25T16:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-01T16:00:00Z"
             }
           ]
         },
@@ -1733,6 +1734,7 @@
     "delayedUntil": "0001-01-01T04:00:00Z",
     "episodeDate": "2026-05-31T04:00:00Z",
     "episodeNumber": 12,
+    "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1886,8 +1888,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-05-25T15:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-06-01T15:00:00Z"
             }
           ]
         },
@@ -1908,7 +1910,7 @@
     "episodeDate": "2026-05-27T14:00:00Z",
     "episodeNumber": 8,
     "episodes": 19,
-    "lengthMin": 25,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2461,8 +2463,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-05-25T14:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-06-01T14:00:00Z"
             }
           ]
         },
