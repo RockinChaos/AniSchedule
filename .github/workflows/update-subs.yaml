@@ -34,8 +34,6 @@ jobs:
       timeout-minutes: 1
 
     - name: Run Node.js script
-      env:  # Pass the secret as an environment variable
-        ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
       run: node index.js update-subs
       timeout-minutes: 4
 

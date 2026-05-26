@@ -36,7 +36,6 @@ jobs:
     - name: Run Node.js script
       env:  # Pass the secret as an environment variable
         ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
-        ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
       run: node index.js update-dubs
       timeout-minutes: 2
 

@@ -129,8 +129,6 @@ function getDistanceFromTitle (media, name) {
 
 class AnilistClient {
 
-    ACCESS_TOKEN = process.env.ANILIST_TOKEN
-
     limiter = new Bottleneck({
         reservoir: 90,
         reservoirRefreshAmount: 90,
@@ -427,7 +425,6 @@ class AnilistClient {
                 }
             })
         }
-        //if (this.ACCESS_TOKEN) options.headers.Authorization = this.ACCESS_TOKEN
         return this.handleRequest(options)
     }
 
