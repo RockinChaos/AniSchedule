@@ -25,18 +25,25 @@ jobs:
         shell: bash
         run: |
           end_time=$(( $(date +%s) + 84600 )) # Run for 23.5 hours, leaving buffer before the next daily trigger
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           while [ $(date +%s) -lt $end_time ]; do
             echo "Checking for newly released episodes"
           
+            # Clean up any leftover rebase state
+            if [ -d "$(git rev-parse --git-dir)/rebase-merge" ] || [ -d "$(git rev-parse --git-dir)/rebase-apply" ]; then
+              echo "Cleaning up stuck rebase..."
+              git rebase --abort
+            fi
+          
             # Pull latest changes
-            git pull --rebase
+            git fetch origin
+            git reset --hard origin/master
           
             # Run the feed update script
             timeout 120s node index.js update-all-feeds
           
             # Stage, commit, and push any JSON changes
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
             git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'
 
             title="Updated Episode(s)"
@@ -84,11 +91,7 @@ jobs:
               git commit -m "$title" || true
             fi
 
-            for i in 1 2 3; do
-              git pull --rebase && git push && break
-              echo "Push attempt $i failed, retrying in 5s..."
-              sleep 5
-            done
+            git pull --rebase && git push || echo "Push failed, will retry on next run"
 
             echo "Sleeping for 30 seconds..."
             sleep 30
