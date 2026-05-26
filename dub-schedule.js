@@ -248,8 +248,10 @@ export async function fetchDubSchedule() {
         }
     })
 
+    const normalize = (str) => (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '') // stupid fix because AniList search has doesn't even work with its own provided titles anymore...
+
     // Resolve routes as titles
-    const parseObjs = await AnimeResolver.findAndCacheTitle(airing.map(item => item.romaji || item.route))
+    const parseObjs = await AnimeResolver.findAndCacheTitle(airing.map(item => normalize(item.romaji || item.route)))
 
     for (const parseObj of parseObjs) {
         const media = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObj)]
@@ -261,7 +263,7 @@ export async function fetchDubSchedule() {
         if (!media || verification) { // Resolve failed routes
             console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
             item = airing.find(i => exactMatch(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'])) || airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], threshold))
-            const altTitles = [item.romaji, item.english, item.title, item.native].filter(Boolean)
+            const altTitles = [normalize(item.romaji), normalize(item.english), normalize(item.title), normalize(item.native)].filter(Boolean)
             const fallbackTitles = await AnimeResolver.findAndCacheTitle(altTitles)
             let attempt = 0
             for (const parseObjAlt of fallbackTitles) {
