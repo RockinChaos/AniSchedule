@@ -427,7 +427,7 @@ class AnilistClient {
                 }
             })
         }
-        if (this.ACCESS_TOKEN) options.headers.Authorization = this.ACCESS_TOKEN
+        //if (this.ACCESS_TOKEN) options.headers.Authorization = this.ACCESS_TOKEN
         return this.handleRequest(options)
     }
 
