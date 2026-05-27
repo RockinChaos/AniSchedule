@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes, checkThreshold } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, isSameUTCDay, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes, checkThreshold } from './utils/util.js'
 import path from 'path'
 
 // query animeschedule for the proper timetables //
@@ -507,6 +507,7 @@ export async function updateDubFeed(optSchedule) {
     schedule.forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
             const foundEpisode = (episode.id === entry.media?.media?.id) && (((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate)))
+            if (foundEpisode && isSameUTCDay(episode.episode.airedAt, entry.episodeDate)) return true // same day and it has already aired, keep it and modify the time later.
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
                 console.log(`Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date.`)

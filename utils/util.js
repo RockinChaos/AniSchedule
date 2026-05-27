@@ -35,6 +35,17 @@ export function dayTimeMatch(date1, date2) {
 }
 
 /**
+ * @param {string|Date} dateA
+ * @param {string|Date} dateB
+ * @returns {boolean} Whether the two dates fall on the same UTC day
+ */
+export function isSameUTCDay(dateA, dateB) {
+    const a = new Date(dateA)
+    const b = new Date(dateB)
+    return a.getUTCFullYear() === b.getUTCFullYear() && a.getUTCMonth() === b.getUTCMonth() && a.getUTCDate() === b.getUTCDate()
+}
+
+/**
  * @param {String} date1 The first date to compare
  * @param {String} date2 The second date to compare
  * @returns {number} The number of weeks difference between the two dates rounded to the nearest integer.
