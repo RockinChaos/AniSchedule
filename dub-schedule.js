@@ -522,7 +522,7 @@ export async function updateDubFeed(optSchedule) {
         const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media?.media?.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
         if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) && (!entry.subtractedEpisodeNumber || (entry.subtractedEpisodeNumber > 1 && !((entry.episodeNumber - entry.subtractedEpisodeNumber) >= 6)))) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
-            mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)  // Sort by episode number in descending order
+            mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired) // Sort by episode number in descending order
             const isInDSTTransition = isDSTTransitionMonth()
             if (((entry.episodeNumber < 4 && !isInDSTTransition) || (!isInDSTTransition && daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) <= 8)) && ((entry.delayedFrom !== entry.episodeDate && entry.delayedUntil !== entry.episodeDate && (latestEpisodeInFeed.episode.aired > 1 || daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) > 5) && daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) < 120) || daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.delayedFrom)) >= 7)) {
                 console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
@@ -545,6 +545,12 @@ export async function updateDubFeed(optSchedule) {
                         usePredict = past(new Date(predictDate), 0, true) === past(new Date(zeroIndexDate), 0, true)
                     }
                     const newAiredAt = past(new Date(zeroIndexDate), (!usePredict || index !== 0 ? correctedDate : 0), true)
+
+                    // Prevents cascading time corrections when only the latest episode has changed and is only a time adjustment.
+                    if (index !== 0) {
+                        const diffHours = Math.abs(new Date(newAiredAt).getTime() - new Date(prevDate).getTime()) / (1000 * 60 * 60)
+                        if (diffHours > 0 && diffHours <= 2) return
+                    }
                     if (episode.episode.airedAt !== newAiredAt) {
                         episode.episode.airedAt = newAiredAt
                         changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt}`)
