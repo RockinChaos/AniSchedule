@@ -2140,10 +2140,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1779975000
-        },
-        {
           "episode": 9,
           "airingAt": 1780579800
         },
@@ -2287,43 +2283,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 179874,
-    "idMal": 61202,
-    "title": {
-      "romaji": "Mononoke: Hebigami",
-      "english": null,
-      "native": "モノノ怪 蛇神",
-      "userPreferred": "Mononoke: Hebigami"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Fantasy",
-      "Horror",
-      "Mystery",
-      "Psychological",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179874-JXaQoBDuaYlq.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179874-JXaQoBDuaYlq.jpg",
-      "color": "#e4c943"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179874-0ImYSGAc7kcX.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 179950,
     "idMal": 59443,
     "title": {
@@ -2348,10 +2307,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179950-j8dYIqYi8KLC.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1779982200
-        },
         {
           "episode": 10,
           "airingAt": 1780587000
@@ -2441,19 +2396,19 @@
       "nodes": [
         {
           "episode": 13,
-          "airingAt": 1780576200
+          "airingAt": 1780486200
         },
         {
           "episode": 14,
-          "airingAt": 1781181000
+          "airingAt": 1781091000
         },
         {
           "episode": 15,
-          "airingAt": 1781785800
+          "airingAt": 1781695800
         },
         {
           "episode": 16,
-          "airingAt": 1782390600
+          "airingAt": 1782300600
         }
       ]
     },
@@ -2485,10 +2440,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1779981960
-        },
         {
           "episode": 10,
           "airingAt": 1780586760
@@ -2682,10 +2633,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1779971400
-        },
         {
           "episode": 9,
           "airingAt": 1780576200
@@ -3100,10 +3047,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1779980160
-        },
-        {
           "episode": 10,
           "airingAt": 1780584960
         },
@@ -3194,10 +3137,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 34,
-          "airingAt": 1779973200
-        },
         {
           "episode": 35,
           "airingAt": 1780578000
@@ -3910,10 +3849,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 34,
-          "airingAt": 1779966000
-        },
-        {
           "episode": 35,
           "airingAt": 1780570800
         },
@@ -4528,38 +4463,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 196722,
-    "idMal": 62315,
-    "title": {
-      "romaji": "Reika wa Karei na Boku no Joou THE ANIMATION",
-      "english": null,
-      "native": "レイカは華麗な僕の女王 THE ANIMATION",
-      "userPreferred": "Reika wa Karei na Boku no Joou THE ANIMATION"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196722-mpsggThw5jFv.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196722-mpsggThw5jFv.png",
-      "color": "#5093e4"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 196840,
     "idMal": 62155,
     "title": {
@@ -4583,10 +4486,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1779973200
-        },
         {
           "episode": 6,
           "airingAt": 1780578000
@@ -5125,10 +5024,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1779973200
-        },
-        {
           "episode": 10,
           "airingAt": 1780578000
         },
@@ -5282,38 +5177,6 @@
         {
           "episode": 12,
           "airingAt": 1781361000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 200930,
-    "idMal": 63159,
-    "title": {
-      "romaji": "Anal Mania Otaku to Ananie Daisuki na Ojou-sama: Kiseki no Matching",
-      "english": null,
-      "native": "アナルマニアオタクとアナニー大好きなお嬢様～奇跡のマッチング～",
-      "userPreferred": "Anal Mania Otaku to Ananie Daisuki na Ojou-sama: Kiseki no Matching"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200930-LilV7nMGiVKm.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200930-LilV7nMGiVKm.png",
-      "color": "#e4bba1"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1779980400
         }
       ]
     },
@@ -5748,70 +5611,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 202893,
-    "idMal": 63027,
-    "title": {
-      "romaji": "L'amour fou de l'automate",
-      "english": null,
-      "native": "L'amour fou de l'automate",
-      "userPreferred": "L'amour fou de l'automate"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202893-z1PqTjt3fvEm.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202893-z1PqTjt3fvEm.png",
-      "color": "#50aee4"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 202894,
-    "idMal": 63026,
-    "title": {
-      "romaji": "Kenki Virgo",
-      "english": null,
-      "native": "剣鬼バルゴ",
-      "userPreferred": "Kenki Virgo"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202894-vv6EPa1MKCmD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202894-vv6EPa1MKCmD.png",
-      "color": "#e45035"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 202957,
     "idMal": 63042,
     "title": {
@@ -6010,10 +5809,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 31,
-          "airingAt": 1779966000
-        },
         {
           "episode": 32,
           "airingAt": 1780570800
@@ -6975,49 +6770,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1779980400
-        },
-        {
           "episode": 2,
           "airingAt": 1787842800
         }
       ]
     },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 208361,
-    "idMal": 63657,
-    "title": {
-      "romaji": "Seishidouin no Oshigoto The Animation",
-      "english": null,
-      "native": "性指導員のお仕事 The Animation",
-      "userPreferred": "Seishidouin no Oshigoto The Animation"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208361-4uMcLF44TJmM.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208361-4uMcLF44TJmM.png",
-      "color": "#d69378"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7213,80 +6970,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 209981,
-    "idMal": 63846,
-    "title": {
-      "romaji": "Heart Mark Oome.",
-      "english": null,
-      "native": "はーとまーく多め。",
-      "userPreferred": "Heart Mark Oome."
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 16,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209981-rXlkRNX1unMb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209981-rXlkRNX1unMb.png",
-      "color": "#e4aeae"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1779980400
-        },
-        {
-          "episode": 2,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 209982,
-    "idMal": 63810,
-    "title": {
-      "romaji": "Paihame Kazoku",
-      "english": null,
-      "native": "パイハメ家族",
-      "userPreferred": "Paihame Kazoku"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 16,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209982-4qVPmKV8LmXS.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209982-4qVPmKV8LmXS.png",
-      "color": "#d6866b"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1779980400
-        },
-        {
-          "episode": 2,
-          "airingAt": 1779980400
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
