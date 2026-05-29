@@ -1274,8 +1274,8 @@
     "english": "Kill Blue",
     "native": "キルアオ",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
+    "delayedFrom": "2026-05-29T07:00:00Z",
+    "delayedUntil": "2026-06-05T07:00:00Z",
     "episodeDate": "2026-05-29T07:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -1314,7 +1314,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2026-06-05T07:00:00Z"
             }
           ]
@@ -2508,8 +2508,9 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-15T15:00:00Z",
-    "delayedUntil": "2026-05-22T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-05-29T15:00:00Z",
+    "delayedUntil": "2026-06-05T15:00:00Z",
     "episodeDate": "2026-05-29T15:00:00Z",
     "episodeNumber": 6,
     "lengthMin": 24,
@@ -2549,7 +2550,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-06-05T15:00:00Z"
             }
           ]
