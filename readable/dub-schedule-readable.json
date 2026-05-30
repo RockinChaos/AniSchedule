@@ -751,8 +751,9 @@
     "romaji": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 4",
     "english": "Ascendance of a Bookworm Part 4",
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
-    "delayedFrom": "2026-05-16T09:30:00Z",
-    "delayedUntil": "2026-05-23T09:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-05-30T09:30:00Z",
+    "delayedUntil": "2026-06-06T09:30:00Z",
     "episodeDate": "2026-05-30T09:30:00Z",
     "episodeNumber": 6,
     "episodes": 24,
@@ -792,7 +793,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-06-06T09:30:00Z"
             }
           ]
