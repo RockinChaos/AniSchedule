@@ -283,6 +283,80 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "Digimon BeatBreak",
+    "route": "digimon-beatbreak",
+    "native": "デジモンビートブレイク",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T02:00:00Z",
+    "delayedUntil": "0001-01-01T02:00:00Z",
+    "episodeDate": "2026-05-31T02:00:00Z",
+    "episodeNumber": 25,
+    "subtractedEpisodeNumber": 21,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188388,
+        "idMal": 61269,
+        "title": {
+          "romaji": "DIGIMON BEATBREAK",
+          "english": "DIGIMON BEATBREAK",
+          "native": "DIGIMON BEATBREAK",
+          "userPreferred": "DIGIMON BEATBREAK"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
+          "color": "#fec928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 21,
+              "airingAt": "2026-05-31T02:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-05-31T02:00:00Z"
+            },
+            {
+              "episode": 23,
+              "airingAt": "2026-05-31T02:00:00Z"
+            },
+            {
+              "episode": 24,
+              "airingAt": "2026-05-31T02:00:00Z"
+            },
+            {
+              "episode": 25,
+              "airingAt": "2026-05-31T02:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-05-30T23:05:22Z"
+  },
+  {
     "title": "Dorohedoro 2nd Season",
     "route": "dorohedoro-zoku-hen",
     "native": "ドロヘドロ 2期",
