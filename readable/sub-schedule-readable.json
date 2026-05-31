@@ -1263,10 +1263,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 385,
-          "airingAt": 1780192800
-        },
-        {
           "episode": 386,
           "airingAt": 1780365600
         },
@@ -1361,6 +1357,10 @@
         {
           "episode": 409,
           "airingAt": 1787450400
+        },
+        {
+          "episode": 410,
+          "airingAt": 1787623200
         }
       ]
     },
@@ -2156,10 +2156,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1780216200
-        },
-        {
           "episode": 10,
           "airingAt": 1780821000
         },
@@ -2214,41 +2210,6 @@
         {
           "episode": 12,
           "airingAt": 1782048600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 179813,
-    "idMal": 59393,
-    "title": {
-      "romaji": "Niwatori Fighter",
-      "english": "Rooster Fighter",
-      "native": "ニワトリ・ファイター",
-      "userPreferred": "Niwatori Fighter"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Supernatural"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179813-cLHpUPV1IiEm.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179813-cLHpUPV1IiEm.jpg",
-      "color": "#e45d43"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179813-RZI6o4qilPyH.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1780200000
         }
       ]
     },
@@ -2551,10 +2512,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1780212600
-        },
-        {
           "episode": 9,
           "airingAt": 1780817400
         },
@@ -2647,10 +2604,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1780214400
-        },
         {
           "episode": 9,
           "airingAt": 1780819200
@@ -2873,10 +2826,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 61,
-          "airingAt": 1780182000
-        },
-        {
           "episode": 62,
           "airingAt": 1780786800
         },
@@ -2971,6 +2920,10 @@
         {
           "episode": 85,
           "airingAt": 1794697200
+        },
+        {
+          "episode": 86,
+          "airingAt": 1795302000
         }
       ]
     },
@@ -3290,10 +3243,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 33,
-          "airingAt": 1780185600
-        },
         {
           "episode": 34,
           "airingAt": 1780790400
@@ -4335,10 +4284,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 44,
-          "airingAt": 1780192800
-        },
-        {
           "episode": 45,
           "airingAt": 1780797600
         },
@@ -5289,10 +5234,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1780178400
-        },
-        {
           "episode": 9,
           "airingAt": 1780783200
         },
@@ -5520,10 +5461,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1780183800
-        },
-        {
           "episode": 19,
           "airingAt": 1780788600
         },
@@ -5618,6 +5555,10 @@
         {
           "episode": 42,
           "airingAt": 1794699000
+        },
+        {
+          "episode": 43,
+          "airingAt": 1795303800
         }
       ]
     },
@@ -5750,10 +5691,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1780178400
-        },
-        {
           "episode": 9,
           "airingAt": 1780783200
         },
@@ -5848,6 +5785,10 @@
         {
           "episode": 32,
           "airingAt": 1794693600
+        },
+        {
+          "episode": 33,
+          "airingAt": 1795298400
         }
       ]
     },
@@ -6129,10 +6070,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1780192800
-        },
-        {
           "episode": 24,
           "airingAt": 1780797600
         },
@@ -6249,10 +6186,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1780187400
-        },
-        {
           "episode": 10,
           "airingAt": 1780792200
         },
@@ -6347,6 +6280,10 @@
         {
           "episode": 33,
           "airingAt": 1794702600
+        },
+        {
+          "episode": 34,
+          "airingAt": 1795307400
         }
       ]
     },
@@ -6455,10 +6392,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1780178400
-        },
         {
           "episode": 9,
           "airingAt": 1780783200
