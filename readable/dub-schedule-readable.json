@@ -614,9 +614,9 @@
     "romaji": "Ginga Tokkyuu Milky☆Subway Movie: Kakueki Teisha Gekijou Yuki",
     "english": "Milky☆Subway: The Galactic Limited Express Movie",
     "native": "劇場 銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-06-01T07:00:00Z",
+    "delayedFrom": "0001-01-01T13:30:00Z",
+    "delayedUntil": "0001-01-01T13:30:00Z",
+    "episodeDate": "2026-05-31T13:30:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 46,
@@ -626,7 +626,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 204949,
@@ -657,7 +657,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-06-01T07:00:00Z"
+              "airingAt": "2026-05-31T13:30:00Z"
             }
           ]
         },
@@ -1405,7 +1405,7 @@
           "color": "#50aefe"
         },
         "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
         "airingSchedule": {
           "nodes": [
             {
@@ -2888,6 +2888,64 @@
     },
     "verified": true,
     "addedAt": "2026-04-15T12:30:00Z"
+  },
+  {
+    "title": "Yowa Yowa Sensei",
+    "route": "yowayowa-sensei",
+    "romaji": "Yowa Yowa Sensei",
+    "english": "Yowayowa Teacher",
+    "native": "よわよわ先生",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-06-24T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 185211,
+        "idMal": 60444,
+        "title": {
+          "romaji": "Yowa Yowa Sensei",
+          "english": "Yowayowa Sensei",
+          "native": "よわよわ先生",
+          "userPreferred": "Yowa Yowa Sensei"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185211-ewfgT5Cn99k0.jpg",
+          "color": "#f1bbae"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-24T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-24T17:00:00Z"
   },
   {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
