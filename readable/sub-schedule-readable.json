@@ -825,10 +825,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 143,
-          "airingAt": 1780279200
-        },
-        {
           "episode": 144,
           "airingAt": 1780884000
         },
@@ -923,6 +919,10 @@
         {
           "episode": 167,
           "airingAt": 1794794400
+        },
+        {
+          "episode": 168,
+          "airingAt": 1795399200
         }
       ]
     },
@@ -4675,7 +4675,7 @@
       "color": "#50aefe"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-c74ASz5mP87W.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
     "airingSchedule": {
       "nodes": [
         {
