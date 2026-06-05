@@ -456,6 +456,118 @@
     "addedAt": "2026-04-01T17:00:00Z"
   },
   {
+    "title": "Given Movie",
+    "route": "given-movie",
+    "native": "映画 ギヴン",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2026-06-05T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 59,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 111734,
+        "idMal": 40421,
+        "title": {
+          "romaji": "Given Movie",
+          "english": "Given The Movie",
+          "native": "映画 ギヴン",
+          "userPreferred": "Given Movie"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ],
+        "duration": 60,
+        "seasonYear": 2020,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx111734-82sWJBotlzE8.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx111734-82sWJBotlzE8.png",
+          "color": "#28a1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/111734-e9qFEmADPAzs.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-05T00:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-05T09:48:51Z"
+  },
+  {
+    "title": "Given: Hiiragi mix",
+    "route": "given-zoku-hen",
+    "native": "映画 ギヴン 続編アニメ",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2026-06-05T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 70,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 162987,
+        "idMal": 54791,
+        "title": {
+          "romaji": "Given: Hiiragi mix",
+          "english": "given The Movie: Hiiragi Mix",
+          "native": "ギヴン 柊mix",
+          "userPreferred": "Given: Hiiragi mix"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Music",
+          "Romance"
+        ],
+        "duration": 70,
+        "seasonYear": 2024,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162987-gRFCJagC9bm2.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx162987-gRFCJagC9bm2.jpg",
+          "color": "#c98650"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162987-c4X86HS2UYnP.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-05T00:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-05T09:48:51Z"
+  },
+  {
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
     "route": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
@@ -976,6 +1088,64 @@
     "addedAt": "2026-04-17T13:00:00Z"
   },
   {
+    "title": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu",
+    "route": "jujutsu-kaisen-kaigyoku-gyokusetsu",
+    "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu",
+    "english": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+    "native": "劇場版総集編 呪術廻戦 懐玉・玉折",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2026-06-05T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 111,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 192809,
+        "idMal": 59654,
+        "title": {
+          "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu",
+          "english": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+          "native": "呪術廻戦 懐玉・玉折",
+          "userPreferred": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Drama",
+          "Supernatural"
+        ],
+        "duration": 111,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192809-wRlqABGsx2Qs.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192809-wRlqABGsx2Qs.jpg",
+          "color": "#43a1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192809-GYqoYK9Sfhkk.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-05T00:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-05T09:48:51Z"
+  },
+  {
     "title": "Kami no Shizuku",
     "route": "kami-no-shizuku",
     "romaji": "Kami no Shizuku",
@@ -1195,8 +1365,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-06-05T07:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-06-12T07:00:00Z"
             }
           ]
         },
