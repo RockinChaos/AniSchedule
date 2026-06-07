@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1165,
-          "airingAt": 1780841760
-        },
-        {
           "episode": 1166,
           "airingAt": 1781446560
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1189,
           "airingAt": 1795356960
+        },
+        {
+          "episode": 1190,
+          "airingAt": 1795961760
         }
       ]
     },
@@ -1698,7 +1698,7 @@
     "genres": [
       "Romance"
     ],
-    "duration": 24,
+    "duration": 15,
     "seasonYear": null,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163793-dOI9QEcIrgBS.jpg",
@@ -4273,10 +4273,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1780842600
-        },
-        {
           "episode": 10,
           "airingAt": 1781447400
         },
@@ -4851,10 +4847,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1780846200
-        },
-        {
           "episode": 11,
           "airingAt": 1781451000
         },
@@ -5163,42 +5155,6 @@
         {
           "episode": 24,
           "airingAt": 1789741800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 202523,
-    "idMal": 62983,
-    "title": {
-      "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
-      "english": "Marika's Love Meter Malfunction",
-      "native": "茉莉花ちゃんの好感度はぶっ壊れている",
-      "userPreferred": "Marika-chan no Koukando wa Bukkowareteiru"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Ecchi",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 6,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202523-NHeyiypiPnGP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202523-NHeyiypiPnGP.jpg",
-      "color": "#e44378"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1780848000
         }
       ]
     },
@@ -5582,10 +5538,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1780848300
-        },
-        {
           "episode": 11,
           "airingAt": 1781453100
         },
@@ -5850,10 +5802,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1780848600
-        },
         {
           "episode": 11,
           "airingAt": 1781453400
