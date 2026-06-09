@@ -921,6 +921,54 @@
     "zeroEpisode": false
   },
   {
+    "id": 137664,
+    "idMal": null,
+    "title": {
+      "romaji": "Cheng Huang Lu",
+      "english": null,
+      "native": "城隍录",
+      "userPreferred": "Cheng Huang Lu"
+    },
+    "format": "ONA",
+    "genres": [
+      "Supernatural"
+    ],
+    "duration": 13,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137664-9MB4bb4ASiIN.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137664-9MB4bb4ASiIN.png",
+      "color": "#d65de4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1781575200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1782180000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1782784800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1783389600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1783994400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 137683,
     "idMal": 51836,
     "title": {
@@ -6675,10 +6723,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1780977600
-        },
         {
           "episode": 8,
           "airingAt": 1781582400
