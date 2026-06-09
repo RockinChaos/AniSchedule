@@ -227,6 +227,106 @@
     "addedAt": "2026-06-03T01:00:00Z"
   },
   {
+    "title": "BAKI-DOU: The Invincible Samurai Part 2",
+    "route": "baki-dou-part-2",
+    "native": "刃牙道 第2クール",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-06-18T07:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 210032,
+        "idMal": 63833,
+        "title": {
+          "romaji": "BAKI-DOU Part 2",
+          "english": "BAKI-DOU: The Invincible Samurai Part 2",
+          "native": "刃牙道 第2クール",
+          "userPreferred": "BAKI-DOU Part 2"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Sports"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210032-6Oht6oWrgeMS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210032-6Oht6oWrgeMS.jpg",
+          "color": "#e4ae5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-06-18T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-06-18T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-18T07:00:00Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedText": "Break",
