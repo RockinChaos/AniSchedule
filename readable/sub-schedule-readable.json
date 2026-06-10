@@ -3616,10 +3616,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 50,
-          "airingAt": 1781042760
-        },
-        {
           "episode": 51,
           "airingAt": 1781647560
         },
@@ -5581,38 +5577,6 @@
         {
           "episode": 2,
           "airingAt": 1785423600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 204656,
-    "idMal": 63151,
-    "title": {
-      "romaji": "mofusand",
-      "english": null,
-      "native": "mofusand ",
-      "userPreferred": "mofusand"
-    },
-    "format": "ONA",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204656-KXjxVB4bBhl8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b204656-KXjxVB4bBhl8.jpg",
-      "color": "#c9e443"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 23,
-          "airingAt": 1781046000
         }
       ]
     },
