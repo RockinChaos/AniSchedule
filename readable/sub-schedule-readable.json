@@ -2347,10 +2347,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781105400
-        },
-        {
           "episode": 13,
           "airingAt": 1781710200
         }
@@ -2383,10 +2379,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1781094600
-        },
         {
           "episode": 15,
           "airingAt": 1781699400
@@ -3287,10 +3279,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 35,
-          "airingAt": 1781089200
-        },
-        {
           "episode": 36,
           "airingAt": 1781694000
         },
@@ -3383,10 +3371,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1781096400
-        },
         {
           "episode": 11,
           "airingAt": 1781701200
@@ -3547,6 +3531,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 192800,
+    "idMal": 61686,
+    "title": {
+      "romaji": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!",
+      "english": "Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!",
+      "native": "ヒロイン？聖女？いいえ、オールワークスメイドです（誇）！",
+      "userPreferred": "Heroine? Seijo? Iie, All Works Maid desu (Ko)!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192800-r8zlO0VY0jJP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192800-r8zlO0VY0jJP.jpg",
+      "color": "#f1e4ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782307800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1782912600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1783517400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784122200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1784727000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1785331800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1785936600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1786541400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787146200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1787751000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1788355800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1788960600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 192808,
     "idMal": 61687,
     "title": {
@@ -3648,10 +3710,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781101800
-        },
         {
           "episode": 12,
           "airingAt": 1781706600
@@ -4642,10 +4700,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1781096400
-        },
-        {
           "episode": 11,
           "airingAt": 1781701200
         },
@@ -4769,10 +4823,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1781102700
-        },
-        {
           "episode": 11,
           "airingAt": 1781707500
         },
@@ -4887,10 +4937,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201817-I5zjpJCelDjB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781103600
-        },
         {
           "episode": 12,
           "airingAt": 1781708400
@@ -5635,10 +5681,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1781103360
-        },
         {
           "episode": 10,
           "airingAt": 1781708160
@@ -6437,10 +6479,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781096100
-        },
-        {
           "episode": 12,
           "airingAt": 1781700900
         }
@@ -6474,10 +6512,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1781098200
-        },
         {
           "episode": 11,
           "airingAt": 1781703000
