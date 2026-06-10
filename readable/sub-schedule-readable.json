@@ -1750,10 +1750,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1781079300
-        },
-        {
           "episode": 9,
           "airingAt": 1781684100
         },
@@ -3141,7 +3137,6 @@
     },
     "format": "TV",
     "genres": [
-      "Comedy",
       "Romance",
       "Slice of Life"
     ],
