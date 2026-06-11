@@ -748,6 +748,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 112936,
+    "idMal": 40658,
+    "title": {
+      "romaji": "Enjo Kouhai",
+      "english": null,
+      "native": "○○交配",
+      "userPreferred": "Enjo Kouhai"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 17,
+    "seasonYear": 2020,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112936-MOPqLdKu7dgJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112936-MOPqLdKu7dgJ.jpg",
+      "color": "#c98650"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 11,
+          "airingAt": 1782399600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 118123,
     "idMal": 44042,
     "title": {
@@ -1714,10 +1746,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1781190000
-        },
-        {
           "episode": 8,
           "airingAt": 1783609200
         }
@@ -2192,10 +2220,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1781184600
-        },
-        {
           "episode": 11,
           "airingAt": 1781789400
         },
@@ -2305,10 +2329,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781191800
-        },
-        {
           "episode": 12,
           "airingAt": 1781796600
         },
@@ -2417,10 +2437,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181284-BthvQRasKf46.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781191560
-        },
         {
           "episode": 12,
           "airingAt": 1781796360
@@ -2590,10 +2606,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1781181000
-        },
         {
           "episode": 11,
           "airingAt": 1781785800
@@ -2968,10 +2980,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781189760
-        },
-        {
           "episode": 12,
           "airingAt": 1781794560
         }
@@ -3046,10 +3054,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 36,
-          "airingAt": 1781182800
-        },
         {
           "episode": 37,
           "airingAt": 1781787600
@@ -3742,10 +3746,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 36,
-          "airingAt": 1781175600
-        },
         {
           "episode": 37,
           "airingAt": 1781780400
@@ -4739,10 +4739,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781182800
-        },
-        {
           "episode": 12,
           "airingAt": 1781787600
         },
@@ -5397,10 +5393,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 33,
-          "airingAt": 1781175600
-        },
-        {
           "episode": 34,
           "airingAt": 1781780400
         },
@@ -5914,6 +5906,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 206682,
+    "idMal": 63356,
+    "title": {
+      "romaji": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi",
+      "english": null,
+      "native": "それいけ！アンパンマン　パンタンと約束の星",
+      "userPreferred": "Soreike! Anpanman: Pantan to Yakusoku no Hoshi"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206682-CV51UmTvQJ84.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206682-CV51UmTvQJ84.png",
+      "color": "#1a436b"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782399600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 206840,
     "idMal": 63520,
     "title": {
@@ -6100,6 +6126,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 208044,
+    "idMal": 63508,
+    "title": {
+      "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+      "english": null,
+      "native": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
+      "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208044-jweYvjbGKnCo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208044-jweYvjbGKnCo.png",
+      "color": "#5dbbf1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782399600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783004400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1783609200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784214000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1784818800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1785423600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786028400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1786633200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787238000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1787842800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1788447600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789052400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 208264,
     "idMal": null,
     "title": {
@@ -6156,16 +6261,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1781190000
-        },
-        {
           "episode": 2,
           "airingAt": 1783609200
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
