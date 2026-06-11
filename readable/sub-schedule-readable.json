@@ -5624,40 +5624,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 205290,
-    "idMal": 62728,
-    "title": {
-      "romaji": "Jian Lai 2",
-      "english": "Sword of Coming 2nd Season",
-      "native": "剑来 第二季",
-      "userPreferred": "Jian Lai 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 31,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b205290-oc3SbEom5g7U.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b205290-oc3SbEom5g7U.png",
-      "color": "#c99350"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 27,
-          "airingAt": 1781172000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 205772,
     "idMal": 63276,
     "title": {
@@ -6227,10 +6193,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1781170200
-        },
         {
           "episode": 13,
           "airingAt": 1781775000
