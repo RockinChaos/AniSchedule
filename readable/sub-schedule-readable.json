@@ -2178,10 +2178,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1781196300
-        },
-        {
           "episode": 11,
           "airingAt": 1781801100
         },
@@ -2965,6 +2961,7 @@
     "format": "TV",
     "genres": [
       "Comedy",
+      "Drama",
       "Romance",
       "Slice of Life"
     ],
@@ -3906,10 +3903,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781195280
-        },
         {
           "episode": 12,
           "airingAt": 1781800080
@@ -5010,10 +5003,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781197080
-        },
         {
           "episode": 12,
           "airingAt": 1781801880
@@ -6399,10 +6388,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781196600
-        },
-        {
           "episode": 12,
           "airingAt": 1781801400
         }
@@ -6503,10 +6488,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781193600
-        },
         {
           "episode": 12,
           "airingAt": 1781798400
