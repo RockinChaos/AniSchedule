@@ -514,10 +514,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 660,
-          "airingAt": 1781215800
-        },
-        {
           "episode": 661,
           "airingAt": 1781820600
         },
@@ -612,6 +608,10 @@
         {
           "episode": 684,
           "airingAt": 1795731000
+        },
+        {
+          "episode": 685,
+          "airingAt": 1796335800
         }
       ]
     },
@@ -1157,10 +1157,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 351,
-          "airingAt": 1781217600
-        },
-        {
           "episode": 352,
           "airingAt": 1781563200
         },
@@ -1255,6 +1251,10 @@
         {
           "episode": 375,
           "airingAt": 1788475200
+        },
+        {
+          "episode": 376,
+          "airingAt": 1788820800
         }
       ]
     },
@@ -2258,6 +2258,40 @@
         {
           "episode": 12,
           "airingAt": 1782030600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 177880,
+    "idMal": 58996,
+    "title": {
+      "romaji": "Osomatsu-san 4th Season",
+      "english": "Mr. Osomatsu 4th season",
+      "native": "おそ松さん 第4期",
+      "userPreferred": "Osomatsu-san 4th Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-54MNSycPEMFA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177880-54MNSycPEMFA.jpg",
+      "color": "#93d61a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177880-yxSlkbBHz1Wx.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1781310600
         }
       ]
     },
@@ -5768,7 +5802,7 @@
   },
   {
     "id": 206523,
-    "idMal": null,
+    "idMal": 63352,
     "title": {
       "romaji": "Onegai AiPri",
       "english": null,
