@@ -2238,6 +2238,10 @@
         {
           "episode": 12,
           "airingAt": 1782030600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782635400
         }
       ]
     },
@@ -3149,10 +3153,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 22,
-          "airingAt": 1781366160
-        },
-        {
           "episode": 23,
           "airingAt": 1781970960
         },
@@ -3437,10 +3437,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781362800
-        },
-        {
           "episode": 13,
           "airingAt": 1781967600
         },
@@ -3479,10 +3475,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781366400
-        },
         {
           "episode": 12,
           "airingAt": 1781971200
@@ -3896,10 +3888,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781361000
-        },
-        {
           "episode": 12,
           "airingAt": 1781965800
         },
@@ -3982,10 +3970,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1781370000
-        },
-        {
           "episode": 11,
           "airingAt": 1781974800
         },
@@ -4024,10 +4008,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781361960
-        },
         {
           "episode": 12,
           "airingAt": 1781966760
@@ -4118,10 +4098,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196029-7awWJNlMM0BQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781368200
-        },
         {
           "episode": 12,
           "airingAt": 1781973000
@@ -4250,10 +4226,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196935-tl3sNMXDMfaQ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781361000
-        },
         {
           "episode": 12,
           "airingAt": 1781965800
@@ -4530,10 +4502,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1781359200
-        },
-        {
           "episode": 11,
           "airingAt": 1781964000
         },
@@ -4772,41 +4740,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 200769,
-    "idMal": 62825,
-    "title": {
-      "romaji": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
-      "english": "The strongest job is apparently not a hero or a sage, but an appraiser (provisional)!",
-      "native": "最強の職業は勇者でも賢者でもなく鑑定士（仮）らしいですよ？",
-      "userPreferred": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200769-8WkFkoFxc2fw.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200769-8WkFkoFxc2fw.jpg",
-      "color": "#5dbbf1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1781361000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 201090,
     "idMal": 62852,
     "title": {
@@ -4909,10 +4842,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781364600
-        },
         {
           "episode": 12,
           "airingAt": 1781969400
@@ -6565,10 +6494,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1781362800
-        },
         {
           "episode": 10,
           "airingAt": 1781967600
