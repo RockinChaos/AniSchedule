@@ -257,10 +257,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1339,
-          "airingAt": 1781335800
-        },
-        {
           "episode": 1340,
           "airingAt": 1781940600
         },
@@ -355,6 +351,10 @@
         {
           "episode": 1363,
           "airingAt": 1795851000
+        },
+        {
+          "episode": 1364,
+          "airingAt": 1796455800
         }
       ]
     },
@@ -644,10 +644,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 919,
-          "airingAt": 1781337600
-        },
-        {
           "episode": 920,
           "airingAt": 1781942400
         },
@@ -742,6 +738,10 @@
         {
           "episode": 943,
           "airingAt": 1795852800
+        },
+        {
+          "episode": 944,
+          "airingAt": 1796457600
         }
       ]
     },
@@ -2041,10 +2041,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1781339400
-        },
         {
           "episode": 11,
           "airingAt": 1781944200
