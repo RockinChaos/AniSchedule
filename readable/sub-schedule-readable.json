@@ -1028,10 +1028,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 157,
-          "airingAt": 1781316000
-        },
-        {
           "episode": 158,
           "airingAt": 1781920800
         },
@@ -1126,6 +1122,10 @@
         {
           "episode": 181,
           "airingAt": 1795831200
+        },
+        {
+          "episode": 182,
+          "airingAt": 1796436000
         }
       ]
     },
@@ -1286,10 +1286,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 220,
-          "airingAt": 1781303400
-        },
         {
           "episode": 221,
           "airingAt": 1781908200
@@ -2256,40 +2252,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 177880,
-    "idMal": 58996,
-    "title": {
-      "romaji": "Osomatsu-san 4th Season",
-      "english": "Mr. Osomatsu 4th season",
-      "native": "おそ松さん 第4期",
-      "userPreferred": "Osomatsu-san 4th Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177880-54MNSycPEMFA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177880-54MNSycPEMFA.jpg",
-      "color": "#93d61a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177880-yxSlkbBHz1Wx.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1781310600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 178749,
     "idMal": 59176,
     "title": {
@@ -2703,10 +2665,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781310360
-        },
         {
           "episode": 12,
           "airingAt": 1781915160
@@ -4627,10 +4585,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781310600
-        },
         {
           "episode": 12,
           "airingAt": 1781915400
