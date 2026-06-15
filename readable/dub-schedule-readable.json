@@ -1250,6 +1250,63 @@
     "addedAt": "2026-04-22T18:59:09Z"
   },
   {
+    "title": "Katainaka no Ossan, Kensei ni Naru 2nd Season",
+    "route": "katainaka-no-ossan-kensei-ni-naru-2nd-season",
+    "romaji": "Katainaka no Ossan, Kensei ni Naru 2nd Season",
+    "english": "From Old Country Bumpkin to Master Swordsman 2nd Season",
+    "native": "片田舎のおっさん、剣聖になる 第二期",
+    "delayedFrom": "0001-01-01T15:15:00Z",
+    "delayedUntil": "0001-01-01T15:15:00Z",
+    "episodeDate": "2026-07-08T15:15:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 194829,
+        "idMal": 61897,
+        "title": {
+          "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+          "english": "From Old Country Bumpkin to Master Swordsman Season 2",
+          "native": "片田舎のおっさん、剣聖になるII",
+          "userPreferred": "Katainaka no Ossan, Kensei ni Naru II"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-aBGjk68756e4.jpg",
+          "color": "#78bbd6"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-08T15:15:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-08T15:15:00Z"
+  },
+  {
     "title": "Kill Ao",
     "route": "kill-ao",
     "romaji": "Kill Ao",
