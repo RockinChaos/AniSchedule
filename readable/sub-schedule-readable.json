@@ -969,10 +969,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1781575200
-        },
-        {
           "episode": 3,
           "airingAt": 1782180000
         },
@@ -1149,10 +1145,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 352,
-          "airingAt": 1781563200
-        },
-        {
           "episode": 353,
           "airingAt": 1781822400
         },
@@ -1247,6 +1239,10 @@
         {
           "episode": 376,
           "airingAt": 1788820800
+        },
+        {
+          "episode": 377,
+          "airingAt": 1789080000
         }
       ]
     },
@@ -1399,10 +1395,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 390,
-          "airingAt": 1781575200
-        },
-        {
           "episode": 391,
           "airingAt": 1782007200
         },
@@ -1497,6 +1489,10 @@
         {
           "episode": 414,
           "airingAt": 1788832800
+        },
+        {
+          "episode": 415,
+          "airingAt": 1789264800
         }
       ]
     },
@@ -3276,6 +3272,75 @@
     "zeroEpisode": false
   },
   {
+    "id": 188753,
+    "idMal": 61297,
+    "title": {
+      "romaji": "Gekkan! Nanmono Anime",
+      "english": null,
+      "native": "げっかん！なんものアニメ",
+      "userPreferred": "Gekkan! Nanmono Anime"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188753-Rkuiizca4QFD.png",
+      "color": "#f1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188753-njd1uzJV3jp3.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1782788400
+        },
+        {
+          "episode": 16,
+          "airingAt": 1785466800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1788145200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1790737200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1793415600
+        },
+        {
+          "episode": 20,
+          "airingAt": 1796007600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1798686000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1801364400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1803783600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1806462000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 189046,
     "idMal": 61316,
     "title": {
@@ -3291,7 +3356,8 @@
       "Drama",
       "Fantasy",
       "Psychological",
-      "Romance"
+      "Romance",
+      "Thriller"
     ],
     "duration": 24,
     "seasonYear": 2026,
@@ -6485,10 +6551,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1781582400
-        },
-        {
           "episode": 9,
           "airingAt": 1782187200
         },
@@ -6606,10 +6668,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1781575200
-        },
-        {
           "episode": 3,
           "airingAt": 1782180000
         },
@@ -6704,6 +6762,10 @@
         {
           "episode": 26,
           "airingAt": 1796090400
+        },
+        {
+          "episode": 27,
+          "airingAt": 1796695200
         }
       ]
     },
