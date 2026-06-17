@@ -2289,40 +2289,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 180228,
-    "idMal": 59551,
-    "title": {
-      "romaji": "Ganbare! Nakamura-kun!!",
-      "english": "Go For It, Nakamura-kun!!",
-      "native": "ガンバレ！中村くん！！",
-      "userPreferred": "Ganbare! Nakamura-kun!!"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180228-MuZ7adbGiYVj.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180228-MuZ7adbGiYVj.jpg",
-      "color": "#f15086"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180228-WAvqro5AamHj.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1781710200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 180745,
     "idMal": 59708,
     "title": {
@@ -3630,6 +3596,40 @@
         {
           "episode": 52,
           "airingAt": 1782252360
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 194317,
+    "idMal": 61831,
+    "title": {
+      "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+      "english": "The Beginning After the End Season 2",
+      "native": "最強の王様、二度目の人生は 何をする? 第2期",
+      "userPreferred": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 23,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-M7t2ymBDHqyW.jpg",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1782311400
         }
       ]
     },
@@ -5969,7 +5969,7 @@
     "idMal": 63508,
     "title": {
       "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
-      "english": null,
+      "english": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "native": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
       "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
     },
@@ -6178,6 +6178,86 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 209669,
+    "idMal": 63780,
+    "title": {
+      "romaji": "Hanazakari no Kimitachi e 2nd Season",
+      "english": "Hana-Kimi Season 2",
+      "native": "花ざかりの君たちへ 第2期",
+      "userPreferred": "Hanazakari no Kimitachi e 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209669-7GlPe2ra5f1i.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209669-7GlPe2ra5f1i.jpg",
+      "color": "#436be4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782919800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783524600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784129400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784734200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785339000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1785943800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786548600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787153400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787758200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788363000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1788967800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789572600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
