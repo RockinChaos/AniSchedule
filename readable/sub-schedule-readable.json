@@ -1754,10 +1754,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1781684100
-        },
-        {
           "episode": 10,
           "airingAt": 1782288900
         },
@@ -3982,10 +3978,6 @@
         {
           "episode": 11,
           "airingAt": 1781974800
-        },
-        {
-          "episode": 12,
-          "airingAt": 1782579600
         }
       ]
     },
@@ -4581,6 +4573,10 @@
         {
           "episode": 12,
           "airingAt": 1781915400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1782520200
         }
       ]
     },
@@ -6805,6 +6801,52 @@
         {
           "episode": 27,
           "airingAt": 1796695200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213297,
+    "idMal": 63149,
+    "title": {
+      "romaji": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi",
+      "english": "Eclipse of Illusion SP: The Miasma War",
+      "native": "云深不知梦 特别篇：逐冥之役",
+      "userPreferred": "Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 22,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213297-hmYPfAXgQQDp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213297-hmYPfAXgQQDp.jpg",
+      "color": "#bbd6f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1782266400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1782871200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1783476000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1784080800
         }
       ]
     },
