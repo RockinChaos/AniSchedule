@@ -6209,10 +6209,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1781775000
-        },
-        {
           "episode": 14,
           "airingAt": 1782379800
         },
@@ -6399,40 +6395,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 210032,
-    "idMal": 63833,
-    "title": {
-      "romaji": "BAKI-DOU Part 2",
-      "english": "BAKI-DOU: The Invincible Samurai Part 2",
-      "native": "刃牙道 第2クール",
-      "userPreferred": "BAKI-DOU Part 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Sports"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210032-6Oht6oWrgeMS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210032-6Oht6oWrgeMS.jpg",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1781766000
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
