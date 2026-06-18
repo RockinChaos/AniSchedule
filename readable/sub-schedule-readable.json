@@ -744,6 +744,42 @@
     "zeroEpisode": false
   },
   {
+    "id": 21828,
+    "idMal": 32587,
+    "title": {
+      "romaji": "Shoujo Ramune",
+      "english": null,
+      "native": "小女ラムネ",
+      "userPreferred": "Shoujo Ramune"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 19,
+    "seasonYear": 2016,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21828-3KDKm3Zu2DyX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21828-3KDKm3Zu2DyX.jpg",
+      "color": "#50c9f1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21828-GXL6divKjKiN.png",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1783004400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1788447600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 112936,
     "idMal": 40658,
     "title": {
@@ -2172,10 +2208,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781789400
-        },
-        {
           "episode": 12,
           "airingAt": 1782394200
         }
@@ -2508,10 +2540,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781785800
-        },
         {
           "episode": 12,
           "airingAt": 1782390600
@@ -2867,8 +2895,12 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781794560
+          "episode": 13,
+          "airingAt": 1782399360
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783004160
         }
       ]
     },
@@ -2937,10 +2969,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1781787600
-        },
         {
           "episode": 38,
           "airingAt": 1782392400
@@ -3659,10 +3687,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1781780400
-        },
         {
           "episode": 38,
           "airingAt": 1782385200
@@ -4543,6 +4567,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 198044,
+    "idMal": 64053,
+    "title": {
+      "romaji": "Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni",
+      "english": null,
+      "native": "蹂躙王国 エルフ王国は巨大苗床に",
+      "userPreferred": "Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni"
+    },
+    "format": "OVA",
+    "genres": [
+      "Fantasy",
+      "Hentai"
+    ],
+    "duration": 30,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198044-0zDaRzQa1fk9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198044-0zDaRzQa1fk9.png",
+      "color": "#e48643"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198044-yMoNFMNlXj75.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783004400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 198113,
     "idMal": 62391,
     "title": {
@@ -4577,6 +4635,95 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 198376,
+    "idMal": 62430,
+    "title": {
+      "romaji": "BanG Dream! Yume∞Mita",
+      "english": null,
+      "native": "バンドリ！ ゆめ∞みた",
+      "userPreferred": "BanG Dream! Yume∞Mita"
+    },
+    "format": "TV",
+    "genres": [
+      "Music"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-hFnAdwIcedY5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198376-hFnAdwIcedY5.png",
+      "color": "#35c9ff"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783000800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783002600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1783004400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1783605600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1784210400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1784815200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1785420000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1786024800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1786629600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1787234400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1787839200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1788444000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1789048800
+        },
+        {
+          "episode": 14,
+          "airingAt": 1789653600
+        },
+        {
+          "episode": 15,
+          "airingAt": 1790258400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4710,10 +4857,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781787600
-        },
-        {
           "episode": 13,
           "airingAt": 1782392400
         }
@@ -4829,6 +4972,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 201667,
+    "idMal": 62883,
+    "title": {
+      "romaji": "Bungou Stray Dogs Wan! 2",
+      "english": "Bungo Stray Dogs WAN! 2",
+      "native": "文豪ストレイドッグス わん！２",
+      "userPreferred": "Bungou Stray Dogs Wan! 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-5VIyzugCtcKs.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201667-5VIyzugCtcKs.jpg",
+      "color": "#e45d5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782996000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783600800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784205600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784810400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785415200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786020000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786624800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787229600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787834400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788439200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789044000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789648800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5076,6 +5298,39 @@
     "zeroEpisode": false
   },
   {
+    "id": 202896,
+    "idMal": null,
+    "title": {
+      "romaji": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
+      "english": null,
+      "native": "チートアイテム管理局のお仕事EX 散々ヤラれた後だし、どうせ全部忘れるから、被害者つまみ食いしてもいいよね",
+      "userPreferred": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne"
+    },
+    "format": "ONA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202896-bqOOG4UCuTTi.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202896-bqOOG4UCuTTi.png",
+      "color": "#a1bbe4"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783004400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 202957,
     "idMal": 63042,
     "title": {
@@ -5263,10 +5518,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 34,
-          "airingAt": 1781780400
-        },
-        {
           "episode": 35,
           "airingAt": 1782385200
         },
@@ -5284,6 +5535,89 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203880,
+    "idMal": 63082,
+    "title": {
+      "romaji": "Reiwa no Dara-san",
+      "english": "Dara-san of Reiwa",
+      "native": "令和のダラさん",
+      "userPreferred": "Reiwa no Dara-san"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203880-lnruKftb27Nr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203880-lnruKftb27Nr.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782995400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783600200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784205000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784809800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785414600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786019400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786624200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787229000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787833800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788438600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789043400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789648200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790253000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6492,35 +6826,35 @@
       "nodes": [
         {
           "episode": 12,
-          "airingAt": 1782307800
+          "airingAt": 1786541400
         },
         {
           "episode": 13,
-          "airingAt": 1782912600
+          "airingAt": 1787146200
         },
         {
           "episode": 14,
-          "airingAt": 1783517400
+          "airingAt": 1787751000
         },
         {
           "episode": 15,
-          "airingAt": 1784122200
+          "airingAt": 1788355800
         },
         {
           "episode": 16,
-          "airingAt": 1784727000
+          "airingAt": 1788960600
         },
         {
           "episode": 17,
-          "airingAt": 1785331800
+          "airingAt": 1789565400
         },
         {
           "episode": 18,
-          "airingAt": 1785936600
+          "airingAt": 1790170200
         },
         {
           "episode": 19,
-          "airingAt": 1786541400
+          "airingAt": 1790775000
         }
       ]
     },
