@@ -1942,10 +1942,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1781884800
-        },
-        {
           "episode": 14,
           "airingAt": 1782489600
         }
@@ -1981,39 +1977,6 @@
         {
           "episode": 12,
           "airingAt": 1782225000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 170019,
-    "idMal": 56876,
-    "title": {
-      "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-      "english": "The Angel Next Door Spoils Me Rotten2",
-      "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
-      "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-djbN0b934MhE.jpg",
-      "color": "#e4d628"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-r07RiVV5d8rT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1781875800
         }
       ]
     },
@@ -2494,10 +2457,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781877600
-        },
         {
           "episode": 12,
           "airingAt": 1782482400
@@ -3025,6 +2984,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 186863,
+    "idMal": 61048,
+    "title": {
+      "romaji": "Neko to Ryuu",
+      "english": "The Cat and the Dragon",
+      "native": "猫と竜",
+      "userPreferred": "Neko to Ryuu"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186863-AO4efoB8HuzA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186863-AO4efoB8HuzA.png",
+      "color": "#e4e45d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186863-hRsC2yxvILTx.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1782561600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783166400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1783771200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784376000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1784980800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1785585600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786190400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1786795200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787400000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788004800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1788609600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789214400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 187166,
     "idMal": 61107,
     "title": {
@@ -3139,10 +3176,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781881200
-        },
-        {
           "episode": 12,
           "airingAt": 1782486000
         }
@@ -3235,6 +3268,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 188525,
+    "idMal": 61280,
+    "title": {
+      "romaji": "Kore Kaite Shine",
+      "english": null,
+      "native": "これ描いて死ね",
+      "userPreferred": "Kore Kaite Shine"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188525-TBVfJaCZrcfg.jpg",
+      "color": "#f1bb0d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783089000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783693800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784298600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784903400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785508200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786113000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786717800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787322600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787927400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788532200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789137000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789741800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3639,41 +3750,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 192808,
-    "idMal": 61687,
-    "title": {
-      "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
-      "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
-      "native": "自称悪役令嬢な婚約者の観察記録。",
-      "userPreferred": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku."
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx192808-tfrX4Gn2Y1Ye.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx192808-tfrX4Gn2Y1Ye.jpg",
-      "color": "#5da1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192808-iaS1GnOo5l3G.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1781874000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -4159,15 +4235,93 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781879400
-        },
-        {
           "episode": 13,
           "airingAt": 1782484200
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 196218,
+    "idMal": 62078,
+    "title": {
+      "romaji": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama",
+      "english": null,
+      "native": "領民0人スタートの辺境領主様",
+      "userPreferred": "Ryoumin 0-Nin Start no Henkyou Ryoushu-sama"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196218-UsdTTCrwpDIN.jpg",
+      "color": "#febb50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196218-lX0y9T76KQkC.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783085400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783690200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784295000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784899800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785504600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786109400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786714200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787319000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787923800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788528600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789133400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789738200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4821,6 +4975,7 @@
     "format": "TV",
     "genres": [
       "Action",
+      "Adventure",
       "Comedy",
       "Fantasy"
     ],
@@ -4981,6 +5136,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199748,
+    "idMal": 62617,
+    "title": {
+      "romaji": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita.",
+      "english": "I Became a Legend After My 10 Year-Long Last Stand",
+      "native": "ここは俺に任せて先に行けと言ってから１０年がたったら伝説になっていた。",
+      "userPreferred": "Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita."
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199748-PAFk9pGSUmFL.png",
+      "color": "#5dd6f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783085400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783690200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784295000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784899800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785504600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786109400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786714200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787319000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787923800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788528600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789133400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789738200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5251,10 +5485,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781879400
-        },
-        {
           "episode": 12,
           "airingAt": 1782484200
         },
@@ -5503,6 +5733,133 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203490,
+    "idMal": 63061,
+    "title": {
+      "romaji": "Uchi no Otouto-domo ga Sumimasen",
+      "english": "Sorry About My Little Brothers",
+      "native": "うちの弟どもがすみません",
+      "userPreferred": "Uchi no Otouto-domo ga Sumimasen"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-D6GOKA0OWblB.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203490-D6GOKA0OWblB.jpg",
+      "color": "#fef150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783090800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783695600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784300400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784905200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785510000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786114800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786719600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787324400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787929200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788534000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789138800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789743600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790348400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1790953200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1791558000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1792162800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1792767600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1793372400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1793977200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1794582000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1795186800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1795791600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1796396400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1797001200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6511,6 +6868,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 207674,
+    "idMal": 63468,
+    "title": {
+      "romaji": "Ushiro no Shoumen Kamui-san",
+      "english": null,
+      "native": "うしろの正面カムイさん",
+      "userPreferred": "Ushiro no Shoumen Kamui-san"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207674-BT8lFAwH1WrL.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783096200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783701000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784305800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784910600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785515400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786120200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786725000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787329800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787934600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788539400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789144200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789749000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 207675,
     "idMal": 63469,
     "title": {
@@ -6863,6 +7299,85 @@
         {
           "episode": 1,
           "airingAt": 1782399600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 209983,
+    "idMal": 63817,
+    "title": {
+      "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+      "english": null,
+      "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+      "userPreferred": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-goWdl95cx0cG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209983-goWdl95cx0cG.jpg",
+      "color": "#50d6f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783094400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783699200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784304000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784908800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785513600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786118400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786723200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787328000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787932800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788537600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789142400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789747200
         }
       ]
     },
