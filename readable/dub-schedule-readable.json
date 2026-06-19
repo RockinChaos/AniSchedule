@@ -1306,6 +1306,64 @@
     "addedAt": "2026-06-10T17:00:00Z"
   },
   {
+    "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "route": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
+    "romaji": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+    "english": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
+    "native": "小林さんちのメイドラゴン さみしがりやの竜",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2026-06-19T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 105,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 181839,
+        "idMal": 59897,
+        "title": {
+          "romaji": "Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu",
+          "english": "Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved",
+          "native": "小林さんちのメイドラゴン さみしがりやの竜",
+          "userPreferred": "Kobayashi-san Chi no Maidragon: Samishigariya no Ryuu"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Drama",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 105,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181839-pgM02tCNM2ae.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx181839-pgM02tCNM2ae.png",
+          "color": "#50a1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181839-tDghyRmyK2KH.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-06-19T00:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-06-19T05:47:16Z"
+  },
+  {
     "title": "Koori no Jouheki",
     "route": "koori-no-jouheki",
     "romaji": "Koori no Jouheki",
