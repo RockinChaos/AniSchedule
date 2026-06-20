@@ -253,10 +253,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1340,
-          "airingAt": 1781940600
-        },
-        {
           "episode": 1341,
           "airingAt": 1782545400
         },
@@ -351,6 +347,10 @@
         {
           "episode": 1364,
           "airingAt": 1796455800
+        },
+        {
+          "episode": 1365,
+          "airingAt": 1797060600
         }
       ]
     },
@@ -640,10 +640,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 920,
-          "airingAt": 1781942400
-        },
-        {
           "episode": 921,
           "airingAt": 1782547200
         },
@@ -738,6 +734,10 @@
         {
           "episode": 944,
           "airingAt": 1796457600
+        },
+        {
+          "episode": 945,
+          "airingAt": 1797062400
         }
       ]
     },
@@ -2005,10 +2005,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781944200
-        },
-        {
           "episode": 12,
           "airingAt": 1782549000
         },
@@ -2616,6 +2612,83 @@
         {
           "episode": 12,
           "airingAt": 1782633600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 183231,
+    "idMal": 60153,
+    "title": {
+      "romaji": "Rilakkuma",
+      "english": "RILAKKUMA",
+      "native": "リラックマ",
+      "userPreferred": "Rilakkuma"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b183231-z7SgjmXZBcoX.png",
+      "color": "#28c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1782519960
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783124760
+        },
+        {
+          "episode": 15,
+          "airingAt": 1783729560
+        },
+        {
+          "episode": 16,
+          "airingAt": 1784334360
+        },
+        {
+          "episode": 17,
+          "airingAt": 1784939160
+        },
+        {
+          "episode": 18,
+          "airingAt": 1785543960
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786148760
+        },
+        {
+          "episode": 20,
+          "airingAt": 1786753560
+        },
+        {
+          "episode": 21,
+          "airingAt": 1787358360
+        },
+        {
+          "episode": 22,
+          "airingAt": 1787963160
+        },
+        {
+          "episode": 23,
+          "airingAt": 1788567960
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789172760
         }
       ]
     },
