@@ -678,6 +678,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-06-19T16:00:00Z",
     "episodeNumber": 13,
+    "episodes": 14,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2019,10 +2020,10 @@
         "id": 183231,
         "idMal": 60153,
         "title": {
-          "romaji": "Rilakkuma: Goyururi Yume no Tabi",
+          "romaji": "Rilakkuma",
           "english": "RILAKKUMA",
-          "native": "リラックマ ～ごゆるり夢の旅～",
-          "userPreferred": "Rilakkuma: Goyururi Yume no Tabi"
+          "native": "リラックマ",
+          "userPreferred": "Rilakkuma"
         },
         "format": "TV_SHORT",
         "genres": [
@@ -2041,8 +2042,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-06-20T01:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-06-27T01:00:00Z"
             }
           ]
         },
