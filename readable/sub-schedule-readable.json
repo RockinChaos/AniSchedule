@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1204,
-          "airingAt": 1781946000
-        },
-        {
           "episode": 1205,
           "airingAt": 1782550800
         },
@@ -2721,10 +2717,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781947560
-        },
-        {
           "episode": 13,
           "airingAt": 1782552360
         },
@@ -2803,15 +2795,91 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1781958600
-        },
-        {
           "episode": 12,
           "airingAt": 1782563400
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 185542,
+    "idMal": 60522,
+    "title": {
+      "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+      "english": "Skeleton Knight in Another World Season 2",
+      "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
+      "userPreferred": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185542-6a9LCWlLHa0T.jpg",
+      "color": "#286bbb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783164600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783947600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784552400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785157200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785762000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786366800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786971600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787576400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788181200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788786000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789390800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789995600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3184,6 +3252,87 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 187538,
+    "idMal": 61169,
+    "title": {
+      "romaji": "BLACK TORCH",
+      "english": "BLACK TORCH",
+      "native": "BLACK TORCH",
+      "userPreferred": "BLACK TORCH"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-aZb5NOsCAV8l.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187538-aZb5NOsCAV8l.jpg",
+      "color": "#505dfe"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783170000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783774800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784379600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784984400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785589200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786194000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786798800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787403600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788008400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788613200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789218000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789822800
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3673,6 +3822,83 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 190569,
+    "idMal": 61483,
+    "title": {
+      "romaji": "Tenmaku no Jaadugar",
+      "english": "Jaadugar: A Witch in Mongolia",
+      "native": "天幕のジャードゥーガル",
+      "userPreferred": "Tenmaku no Jaadugar"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-xkFjq9u9IeSr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-xkFjq9u9IeSr.jpg",
+      "color": "#50a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783173600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783175400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1783780200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784385000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1784989800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1785594600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786199400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1786804200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787409000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788013800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1788618600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789223400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4862,10 +5088,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1781964000
-        },
         {
           "episode": 12,
           "airingAt": 1782568800
@@ -6422,40 +6644,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 205905,
-    "idMal": 62340,
-    "title": {
-      "romaji": "Guangyin Zhi Wai",
-      "english": "Beyond Time's Gaze",
-      "native": "光阴之外",
-      "userPreferred": "Guangyin Zhi Wai"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205905-lbDVh7foIfjt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205905-lbDVh7foIfjt.jpg",
-      "color": "#50a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1782007200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 206166,
     "idMal": 63310,
     "title": {
@@ -6485,6 +6673,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 206249,
+    "idMal": 63324,
+    "title": {
+      "romaji": "Iwamoto-senpai no Suisen",
+      "english": null,
+      "native": "岩元先輩ノ推薦",
+      "userPreferred": "Iwamoto-senpai no Suisen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206249-1AUSry416wGz.png",
+      "color": "#fed650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783171800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783776600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784381400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784986200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785591000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786195800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786800600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787405400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788010200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788615000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789219800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789824600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8015,6 +8281,136 @@
         {
           "episode": 6,
           "airingAt": 1784080800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213356,
+    "idMal": 64398,
+    "title": {
+      "romaji": "Guangyin Zhi Wai 2",
+      "english": "Beyond Time's Gaze 2",
+      "native": "光阴之外2",
+      "userPreferred": "Guangyin Zhi Wai 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213356-nYFTX2yeMBd5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213356-nYFTX2yeMBd5.jpg",
+      "color": "#f19335"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1782554400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1783159200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1783764000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1784368800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1784973600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1785578400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1786183200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1786788000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1787392800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1787997600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1788602400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1789207200
+        },
+        {
+          "episode": 14,
+          "airingAt": 1789812000
+        },
+        {
+          "episode": 15,
+          "airingAt": 1790416800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1791021600
+        },
+        {
+          "episode": 17,
+          "airingAt": 1791626400
+        },
+        {
+          "episode": 18,
+          "airingAt": 1792231200
+        },
+        {
+          "episode": 19,
+          "airingAt": 1792836000
+        },
+        {
+          "episode": 20,
+          "airingAt": 1793440800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1794045600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1794650400
+        },
+        {
+          "episode": 23,
+          "airingAt": 1795255200
+        },
+        {
+          "episode": 24,
+          "airingAt": 1795860000
+        },
+        {
+          "episode": 25,
+          "airingAt": 1796464800
+        },
+        {
+          "episode": 26,
+          "airingAt": 1797069600
         }
       ]
     },
