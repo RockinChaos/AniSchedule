@@ -1052,10 +1052,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 158,
-          "airingAt": 1781920800
-        },
-        {
           "episode": 159,
           "airingAt": 1782525600
         },
@@ -1150,6 +1146,10 @@
         {
           "episode": 182,
           "airingAt": 1796436000
+        },
+        {
+          "episode": 183,
+          "airingAt": 1797040800
         }
       ]
     },
@@ -1310,10 +1310,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 221,
-          "airingAt": 1781908200
-        },
         {
           "episode": 222,
           "airingAt": 1782513000
@@ -1598,103 +1594,103 @@
       "nodes": [
         {
           "episode": 142,
-          "airingAt": 1782467700
-        },
-        {
-          "episode": 143,
           "airingAt": 1783072500
         },
         {
-          "episode": 144,
+          "episode": 143,
           "airingAt": 1783677300
         },
         {
-          "episode": 145,
+          "episode": 144,
           "airingAt": 1784282100
         },
         {
-          "episode": 146,
+          "episode": 145,
           "airingAt": 1784886900
         },
         {
-          "episode": 147,
+          "episode": 146,
           "airingAt": 1785491700
         },
         {
-          "episode": 148,
+          "episode": 147,
           "airingAt": 1786096500
         },
         {
-          "episode": 149,
+          "episode": 148,
           "airingAt": 1786701300
         },
         {
-          "episode": 150,
+          "episode": 149,
           "airingAt": 1787306100
         },
         {
-          "episode": 151,
+          "episode": 150,
           "airingAt": 1787910900
         },
         {
-          "episode": 152,
+          "episode": 151,
           "airingAt": 1788515700
         },
         {
-          "episode": 153,
+          "episode": 152,
           "airingAt": 1789120500
         },
         {
-          "episode": 154,
+          "episode": 153,
           "airingAt": 1789725300
         },
         {
-          "episode": 155,
+          "episode": 154,
           "airingAt": 1790330100
         },
         {
-          "episode": 156,
+          "episode": 155,
           "airingAt": 1790934900
         },
         {
-          "episode": 157,
+          "episode": 156,
           "airingAt": 1791539700
         },
         {
-          "episode": 158,
+          "episode": 157,
           "airingAt": 1792144500
         },
         {
-          "episode": 159,
+          "episode": 158,
           "airingAt": 1792749300
         },
         {
-          "episode": 160,
+          "episode": 159,
           "airingAt": 1793354100
         },
         {
-          "episode": 161,
+          "episode": 160,
           "airingAt": 1793958900
         },
         {
-          "episode": 162,
+          "episode": 161,
           "airingAt": 1794563700
         },
         {
-          "episode": 163,
+          "episode": 162,
           "airingAt": 1795168500
         },
         {
-          "episode": 164,
+          "episode": 163,
           "airingAt": 1795773300
         },
         {
-          "episode": 165,
+          "episode": 164,
           "airingAt": 1796378100
         },
         {
-          "episode": 166,
+          "episode": 165,
           "airingAt": 1796982900
+        },
+        {
+          "episode": 166,
+          "airingAt": 1797587700
         }
       ]
     },
@@ -2620,39 +2616,6 @@
         {
           "episode": 12,
           "airingAt": 1782633600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 183231,
-    "idMal": 60153,
-    "title": {
-      "romaji": "Rilakkuma: Goyururi Yume no Tabi",
-      "english": "RILAKKUMA",
-      "native": "リラックマ ～ごゆるり夢の旅～",
-      "userPreferred": "Rilakkuma: Goyururi Yume no Tabi"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b183231-z7SgjmXZBcoX.png",
-      "color": "#28c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1781915160
         }
       ]
     },
@@ -4952,10 +4915,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1781915400
-        },
-        {
           "episode": 13,
           "airingAt": 1782520200
         }
@@ -5061,6 +5020,47 @@
         {
           "episode": 13,
           "airingAt": 1782392400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199448,
+    "idMal": 62276,
+    "title": {
+      "romaji": "Guimi Zhi Zhu Specials",
+      "english": "Lord of Mysteries Specials",
+      "native": "诡秘之主 特别篇",
+      "userPreferred": "Guimi Zhi Zhu Specials"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199448-BuqzEdkuPSEm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199448-BuqzEdkuPSEm.png",
+      "color": "#e4a143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1782525600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1782612000
         }
       ]
     },
@@ -7654,6 +7654,83 @@
         {
           "episode": 2,
           "airingAt": 1782399600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 212308,
+    "idMal": null,
+    "title": {
+      "romaji": "Pan no Akachan (TV)",
+      "english": null,
+      "native": "パンの赤ちゃん",
+      "userPreferred": "Pan no Akachan (TV)"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212308-HUdh20Djd7cm.jpg",
+      "color": "#1abbd6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783121400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783726200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784331000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784935800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785540600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786145400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786750200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787355000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787959800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788564600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789169400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789774200
         }
       ]
     },
