@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1167,
-          "airingAt": 1782051360
-        },
-        {
           "episode": 1168,
           "airingAt": 1782656160
         },
@@ -126,6 +122,10 @@
         {
           "episode": 1191,
           "airingAt": 1796566560
+        },
+        {
+          "episode": 1192,
+          "airingAt": 1797171360
         }
       ]
     },
@@ -1982,6 +1982,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 169080,
+    "idMal": 56613,
+    "title": {
+      "romaji": "Azur Lane: Bisoku Zenshin! Ni!!",
+      "english": "Anime AzurLane: Slow Ahead! Season 2",
+      "native": "アズールレーン びそくぜんしんっ！にっ！！",
+      "userPreferred": "Azur Lane: Bisoku Zenshin! Ni!!"
+    },
+    "format": "TV",
+    "genres": [
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169080-el4sMLlqMxeI.png",
+      "color": "#fefe28"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169080-HcBclO97a4SE.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783267200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783872000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784476800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785081600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785686400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786291200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786896000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787500800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788105600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788710400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789315200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789920000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 169228,
     "idMal": 56646,
     "title": {
@@ -2262,6 +2340,164 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 177637,
+    "idMal": 58878,
+    "title": {
+      "romaji": "Sayonara Lara",
+      "english": "Goodbye, Lara",
+      "native": "さよなら ララ",
+      "userPreferred": "Sayonara Lara"
+    },
+    "format": "TV",
+    "genres": [
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177637-8onaQWqKW1C3.jpg",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783265400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783870200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784475000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785079800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785684600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786289400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786894200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787499000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788103800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788708600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789313400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789918200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 178789,
+    "idMal": 59193,
+    "title": {
+      "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+      "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+      "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+      "userPreferred": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Ecchi",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-Gam1EpzXlrUv.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-Gam1EpzXlrUv.png",
+      "color": "#35bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783263600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783868400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784473200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785078000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785682800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786287600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786892400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787497200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788102000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788706800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789311600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789916400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4967,10 +5203,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1782052200
-        },
-        {
           "episode": 12,
           "airingAt": 1782657000
         },
@@ -5024,6 +5256,37 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 197178,
+    "idMal": 62233,
+    "title": {
+      "romaji": "ONE PIECE HEROINES",
+      "english": null,
+      "native": "ONE PIECE HEROINES",
+      "userPreferred": "ONE PIECE HEROINES"
+    },
+    "format": "SPECIAL",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197178-Ui8PY9HQbNgu.jpg",
+      "color": "#e45d86"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197178-kVx0Zt3P0MvD.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783260900
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5938,44 +6201,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 201090,
-    "idMal": 62852,
-    "title": {
-      "romaji": "Ghost Concert: missing Songs",
-      "english": "GHOST CONCERT : missing Songs",
-      "native": "ゴーストコンサート: missing Songs",
-      "userPreferred": "Ghost Concert: missing Songs"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Music",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201090-HzQKUjjvde32.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201090-HzQKUjjvde32.jpg",
-      "color": "#e4ae50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201090-YIO0HtbUiCwC.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782055800
-        },
-        {
-          "episode": 13,
-          "airingAt": 1782660600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -6990,40 +7215,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 204319,
-    "idMal": 63248,
-    "title": {
-      "romaji": "Ookii Onnanoko wa Suki desu ka?",
-      "english": "Do You Like Big Girls?",
-      "native": "大きい女の子は好きですか？",
-      "userPreferred": "Ookii Onnanoko wa Suki desu ka?"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Ecchi",
-      "Romance",
-      "Sports"
-    ],
-    "duration": 4,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204319-qhw2yBXBUgJT.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204319-qhw2yBXBUgJT.png",
-      "color": "#e4bb35"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782057900
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 204466,
     "idMal": 63150,
     "title": {
@@ -7214,38 +7405,6 @@
         {
           "episode": 24,
           "airingAt": 1790175360
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 206166,
-    "idMal": 63310,
-    "title": {
-      "romaji": "Ingoku Danchi",
-      "english": "Ingoku Danchi:Deviant's Apartment Complex",
-      "native": "インゴクダンチ",
-      "userPreferred": "Ingoku Danchi"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Ecchi"
-    ],
-    "duration": 3,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206166-xTJ9h6RmMCKR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206166-xTJ9h6RmMCKR.jpg",
-      "color": "#281a6b"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782058200
         }
       ]
     },
