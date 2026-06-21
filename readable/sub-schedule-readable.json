@@ -776,6 +776,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 103303,
+    "idMal": 62856,
+    "title": {
+      "romaji": "Nijuuseiki Denki Mokuroku: Eureka・Evrika",
+      "english": "Sparks of Tomorrow",
+      "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+      "userPreferred": "Nijuuseiki Denki Mokuroku: Eureka・Evrika"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-ORmCjr9wDgbM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-ORmCjr9wDgbM.jpg",
+      "color": "#f1bb50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783260000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783864800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784469600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785074400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785679200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786284000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786888800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787493600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788098400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788703200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789308000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789912800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 112936,
     "idMal": 40658,
     "title": {
@@ -2187,38 +2265,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 178749,
-    "idMal": 59176,
-    "title": {
-      "romaji": "Mahou no Shimai LuluttoLilly",
-      "english": "Magical Sisters LuluttoLilly",
-      "native": "魔法の姉妹ルルットリリィ",
-      "userPreferred": "Mahou no Shimai LuluttoLilly"
-    },
-    "format": "TV",
-    "genres": [
-      "Mahou Shoujo"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-c0tx9p13PVJy.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178749-c0tx9p13PVJy.png",
-      "color": "#435de4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178749-55kXPhUDKYvQ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782048600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 179950,
     "idMal": 59443,
     "title": {
@@ -3582,15 +3628,15 @@
       "nodes": [
         {
           "episode": 37,
-          "airingAt": 1782604800
-        },
-        {
-          "episode": 38,
           "airingAt": 1783209600
         },
         {
-          "episode": 39,
+          "episode": 38,
           "airingAt": 1783814400
+        },
+        {
+          "episode": 39,
+          "airingAt": 1784419200
         }
       ]
     },
@@ -5257,9 +5303,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-hFnAdwIcedY5.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198376-hFnAdwIcedY5.png",
-      "color": "#35c9ff"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-sc5qcFv0RSH9.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198376-sc5qcFv0RSH9.jpg",
+      "color": "#a1f150"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5324,6 +5370,85 @@
         {
           "episode": 15,
           "airingAt": 1790258400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 198409,
+    "idMal": 62435,
+    "title": {
+      "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+      "english": "The World's Strongest Rearguard",
+      "native": "世界最強の後衛 ～迷宮国の新人探索者～",
+      "userPreferred": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198409-EiWJXfYnvfu4.png",
+      "color": "#0dbbfe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783256400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783861200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784466000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785070800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785675600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786280400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786885200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787490000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788094800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788699600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789304400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789909200
         }
       ]
     },
@@ -5730,6 +5855,85 @@
         {
           "episode": 12,
           "airingAt": 1789846200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 200637,
+    "idMal": 62811,
+    "title": {
+      "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+      "english": null,
+      "native": "君のことが大大大大大好きな100人の彼女 第3期",
+      "userPreferred": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-eWk93doU70he.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200637-eWk93doU70he.png",
+      "color": "#e4a1bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783258200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783863000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784467800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785072600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785677400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786282200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786887000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787491800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788096600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788701400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789306200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789911000
         }
       ]
     },
@@ -7391,40 +7595,6 @@
         {
           "episode": 2,
           "airingAt": 1782399600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 206914,
-    "idMal": 63375,
-    "title": {
-      "romaji": "Nippon Sangoku",
-      "english": "NIPPON SANGOKU: The Three Nations of the Crimson Sun",
-      "native": "日本三國",
-      "userPreferred": "Nippon Sangoku"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206914-SHKX08LarRzB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206914-SHKX08LarRzB.jpg",
-      "color": "#35c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206914-owssGq2CGhRZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782043200
         }
       ]
     },
