@@ -378,10 +378,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2837,
-          "airingAt": 1782034200
-        },
-        {
           "episode": 2838,
           "airingAt": 1782639000
         },
@@ -476,6 +472,10 @@
         {
           "episode": 2861,
           "airingAt": 1796549400
+        },
+        {
+          "episode": 2862,
+          "airingAt": 1797154200
         }
       ]
     },
@@ -833,10 +833,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 371,
-          "airingAt": 1782032400
-        },
         {
           "episode": 372,
           "airingAt": 1782637200
@@ -2183,10 +2179,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782030600
-        },
-        {
           "episode": 13,
           "airingAt": 1782635400
         }
@@ -2529,10 +2521,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1782027000
-        },
-        {
           "episode": 12,
           "airingAt": 1782631800
         }
@@ -2601,10 +2589,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1782028800
-        },
         {
           "episode": 12,
           "airingAt": 1782633600
@@ -6596,6 +6580,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 204060,
+    "idMal": 63100,
+    "title": {
+      "romaji": "Tetsunabe no Jan!",
+      "english": null,
+      "native": "鉄鍋のジャン！",
+      "userPreferred": "Tetsunabe no Jan!"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-Xsx0T6ORmI3H.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204060-Xsx0T6ORmI3H.jpg",
+      "color": "#e4a143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783240200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783845000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784449800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785054600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785659400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786264200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786869000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787473800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788078600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788683400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789288200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789893000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 204269,
     "idMal": 63125,
     "title": {
@@ -8101,6 +8163,86 @@
         {
           "episode": 12,
           "airingAt": 1789747200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 210031,
+    "idMal": 63832,
+    "title": {
+      "romaji": "Seihantai na Kimi to Boku 2nd Season",
+      "english": "You and I Are Polar Opposites Season 2",
+      "native": "正反対な君と僕 第2期",
+      "userPreferred": "Seihantai na Kimi to Boku 2nd Season"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
+      "color": "#fe5093"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783238400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783843200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784448000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785052800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785657600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786262400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786867200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787472000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788076800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788681600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789286400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789891200
         }
       ]
     },
