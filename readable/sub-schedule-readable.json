@@ -1438,40 +1438,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 147105,
-    "idMal": 51553,
-    "title": {
-      "romaji": "Tongari Boushi no Atelier",
-      "english": "Witch Hat Atelier",
-      "native": "とんがり帽子のアトリエ",
-      "userPreferred": "Tongari Boushi no Atelier"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx147105-rwOX8qyUy8gV.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx147105-rwOX8qyUy8gV.jpg",
-      "color": "#0d8693"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/147105-fTjmRrILFixZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782136800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 155723,
     "idMal": null,
     "title": {
@@ -2124,6 +2090,165 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 169582,
+    "idMal": 56736,
+    "title": {
+      "romaji": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
+      "english": "The Insipid Prince's Furtive Grab for the Throne",
+      "native": "最強出涸らし皇子の暗躍帝位争い 無能を演じるSSランク皇子は皇位継承戦を影から支配する",
+      "userPreferred": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169582-quL8VMg45fcu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169582-quL8VMg45fcu.png",
+      "color": "#f1e4c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783339020
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783943820
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784548620
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785153420
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785758220
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786363020
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786967820
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787572620
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788177420
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788782220
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789387020
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789991820
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 169583,
+    "idMal": 56735,
+    "title": {
+      "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+      "english": "Oh Boy, Was I Wrong About Her",
+      "native": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件",
+      "userPreferred": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169583-4L6ceRR9GALt.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169583-4L6ceRR9GALt.png",
+      "color": "#86f1d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783348200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783953000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784557800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785162600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785767400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786372200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786977000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787581800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788186600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788791400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789396200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790001000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4176,40 +4301,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 189987,
-    "idMal": 61425,
-    "title": {
-      "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
-      "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-      "userPreferred": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189987-CkTDPfD7vu2Y.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189987-CkTDPfD7vu2Y.jpg",
-      "color": "#e4c950"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189987-0UGf5F7zWNvv.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782138240
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 190143,
     "idMal": 61443,
     "title": {
@@ -4769,6 +4860,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 195833,
+    "idMal": 62031,
+    "title": {
+      "romaji": "Honoo no Toukyuujyo Dodge Danko",
+      "english": null,
+      "native": "炎の闘球女 ドッジ弾子",
+      "userPreferred": "Honoo no Toukyuujyo Dodge Danko"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-QAX1YLWYn1VX.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195833-QAX1YLWYn1VX.png",
+      "color": "#e48628"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195833-DlR4ToMXP3if.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783346400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783951200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784556000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785160800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785765600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786370400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786975200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787580000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788184800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788789600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789394400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789999200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5395,10 +5564,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782140400
-        },
-        {
           "episode": 13,
           "airingAt": 1782745200
         },
@@ -5445,39 +5610,6 @@
         {
           "episode": 24,
           "airingAt": 1789398000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 197824,
-    "idMal": 62146,
-    "title": {
-      "romaji": "Isekai Nonbiri Nouka 2",
-      "english": "Farming Life in Another World 2",
-      "native": "異世界のんびり農家２",
-      "userPreferred": "Isekai Nonbiri Nouka 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197824-k9Uyef8g49hB.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197824-k9Uyef8g49hB.png",
-      "color": "#ae7835"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197824-rS7XjJQ0CZs2.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782135000
         }
       ]
     },
@@ -5819,6 +5951,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 199111,
+    "idMal": 62542,
+    "title": {
+      "romaji": "Grand Blue Season 3",
+      "english": null,
+      "native": "ぐらんぶる Season 3",
+      "userPreferred": "Grand Blue Season 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199111-gBSuBG61ElcW.jpg",
+      "color": "#5daed6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783350000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783954800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784559600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785164400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785769200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786374000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786978800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787583600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788188400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788793200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789398000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790002800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 199221,
     "idMal": 62568,
     "title": {
@@ -5851,6 +6062,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199408,
+    "idMal": 62289,
+    "title": {
+      "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+      "english": null,
+      "native": "ブチ切れ令嬢は報復を誓いました。　～魔導書の力で祖国を叩き潰します～",
+      "userPreferred": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199408-ocRWG4pRWl8f.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199408-ocRWG4pRWl8f.png",
+      "color": "#f1ae35"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783344600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783949400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784554200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785159000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785763800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786368600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786973400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787578200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788183000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788787800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789392600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789997400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6393,6 +6682,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 202269,
+    "idMal": 62936,
+    "title": {
+      "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+      "english": "Love Unseen Beneath the Clear Night Sky",
+      "native": "透明な夜に駆ける君と、目に見えない恋をした。",
+      "userPreferred": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita."
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202269-7KNj8s2fSsJJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202269-7KNj8s2fSsJJ.jpg",
+      "color": "#5da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783339200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783944000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784548800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785153600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785758400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786363200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786968000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787572800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788177600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788782400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789387200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789992000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7327,6 +7694,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 205116,
+    "idMal": 63219,
+    "title": {
+      "romaji": "Aware! Meisaku-kun (2026)",
+      "english": null,
+      "native": "あはれ！名作くん (2026)",
+      "userPreferred": "Aware! Meisaku-kun (2026)"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205116-160t0jWDkIdK.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205116-160t0jWDkIdK.png",
+      "color": "#ffc91a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783266300
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783871100
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784475900
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785080700
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785685500
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786290300
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786895100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787499900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788104700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788709500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789314300
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789919100
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 205772,
     "idMal": 63276,
     "title": {
@@ -8235,6 +8679,86 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 209504,
+    "idMal": 63752,
+    "title": {
+      "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
+      "english": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
+      "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+      "userPreferred": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-RLYuYoXhyu8b.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209504-RLYuYoXhyu8b.png",
+      "color": "#bbe40d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783346400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783951200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784556000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785160800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785765600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786370400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786975200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787580000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788184800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788789600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789394400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789999200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
