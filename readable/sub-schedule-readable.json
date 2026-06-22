@@ -947,10 +947,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 146,
-          "airingAt": 1782093600
-        },
-        {
           "episode": 147,
           "airingAt": 1782698400
         },
@@ -1045,6 +1041,10 @@
         {
           "episode": 170,
           "airingAt": 1796608800
+        },
+        {
+          "episode": 171,
+          "airingAt": 1797213600
         }
       ]
     },
@@ -4259,8 +4259,8 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-xkFjq9u9IeSr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-xkFjq9u9IeSr.jpg",
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
       "color": "#50a1e4"
     },
     "isAdult": false,
@@ -6299,9 +6299,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-5VIyzugCtcKs.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201667-5VIyzugCtcKs.jpg",
-      "color": "#e45d5d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201667-oqaW97DQ7HUj.jpg",
+      "color": "#e46b5d"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
