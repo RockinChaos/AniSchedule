@@ -2694,6 +2694,108 @@
     "addedAt": "2026-06-24T17:00:00Z"
   },
   {
+    "title": "Yozakura-san Chi no Daisakusen 2nd Season",
+    "route": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+    "english": "Mission: Yozakura Family 2nd Season",
+    "native": "夜桜さんちの大作戦 第2期",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-07-15T07:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182578,
+        "idMal": 60055,
+        "title": {
+          "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+          "english": "Mission: Yozakura Family Season 2",
+          "native": "夜桜さんちの大作戦 第2期",
+          "userPreferred": "Yozakura-san Chi no Daisakusen 2nd Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Romance"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182578-Te8W0EwesgrS.jpg",
+          "color": "#50d6e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-07-15T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-07-15T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-15T07:00:00Z"
+  },
+  {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
     "route": "yu-gi-oh-go-rush",
     "native": "遊☆戯☆王ゴーラッシュ!!",
