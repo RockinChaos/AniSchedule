@@ -1211,8 +1211,9 @@
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-06-22T16:00:00Z",
+    "delayedUntil": "2026-06-29T16:00:00Z",
     "episodeDate": "2026-06-22T16:00:00Z",
     "episodeNumber": 10,
     "lengthMin": 23,
@@ -1250,7 +1251,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2026-06-29T16:00:00Z"
             }
           ]
@@ -1438,8 +1439,9 @@
     "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
     "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
     "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-06-22T15:00:00Z",
+    "delayedUntil": "2026-06-29T15:00:00Z",
     "episodeDate": "2026-06-22T15:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -1479,7 +1481,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 10,
               "airingAt": "2026-06-29T15:00:00Z"
             }
           ]
