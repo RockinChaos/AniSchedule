@@ -920,6 +920,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 128757,
+    "idMal": 46488,
+    "title": {
+      "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+      "english": "Young Ladies Don't Play Fighting Games",
+      "native": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+      "userPreferred": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128757-Iqc6hTjEYIz4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx128757-Iqc6hTjEYIz4.png",
+      "color": "#436bff"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783423800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784028600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784633400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785238200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785843000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786447800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787052600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787657400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788262200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788867000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789471800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790076600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 137653,
     "idMal": 55809,
     "title": {
@@ -2056,39 +2133,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 169580,
-    "idMal": 56734,
-    "title": {
-      "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
-      "english": "I Made Friends with the Second Prettiest Girl in My Class",
-      "native": "クラスで２番目に可愛い女の子と友だちになった",
-      "userPreferred": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169580-nXxpmqu6UVux.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169580-nXxpmqu6UVux.jpg",
-      "color": "#f1bb50"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169580-RUdWWw0j74HH.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782225000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 169582,
     "idMal": 56736,
     "title": {
@@ -2535,6 +2579,85 @@
         {
           "episode": 12,
           "airingAt": 1789918200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 177699,
+    "idMal": 58929,
+    "title": {
+      "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+      "english": "THE GHOST IN THE SHELL",
+      "native": "攻殻機動隊 THE GHOST IN THE SHELL",
+      "userPreferred": "Koukaku Kidoutai: THE GHOST IN THE SHELL"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177699-hnzc1CS5ZSM2.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177699-5kDbvDBhtSE3.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783432800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784037600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784642400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785247200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785852000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786456800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787061600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787666400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788271200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788876000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789480800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790085600
         }
       ]
     },
@@ -3628,10 +3751,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782225000
-        },
-        {
           "episode": 13,
           "airingAt": 1782829800
         }
@@ -3804,6 +3923,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 187260,
+    "idMal": 61126,
+    "title": {
+      "romaji": "Kimi ga Shinu made Koi wo Shitai",
+      "english": "I Want to Love You Till Your Dying Day",
+      "native": "きみが死ぬまで恋をしたい",
+      "userPreferred": "Kimi ga Shinu made Koi wo Shitai"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187260-WW5RBa5NINRP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187260-WW5RBa5NINRP.jpg",
+      "color": "#e4ae35"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187260-HMkLPy3ZvzW1.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783427400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784032200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784637000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785241800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785846600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786451400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787056200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787661000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788265800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788870600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789475400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790080200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4733,46 +4931,8 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1782223200
-        },
-        {
           "episode": 12,
           "airingAt": 1782828000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 195268,
-    "idMal": 61931,
-    "title": {
-      "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
-      "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
-      "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
-      "userPreferred": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195268-HkEv0z9iTCJK.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195268-HkEv0z9iTCJK.jpg",
-      "color": "#e4c928"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195268-dsEz7gM76ykF.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782219600
         }
       ]
     },
@@ -6206,10 +6366,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782223200
-        },
         {
           "episode": 13,
           "airingAt": 1782828000
@@ -8423,40 +8579,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 207675,
-    "idMal": 63469,
-    "title": {
-      "romaji": "Hyakki Yakou Shou",
-      "english": "Hyakki Yakoushou",
-      "native": "百鬼夜行抄",
-      "userPreferred": "Hyakki Yakou Shou"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Supernatural"
-    ],
-    "duration": 4,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207675-h3TZK82jG5aD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207675-h3TZK82jG5aD.png",
-      "color": "#e4a15d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782219300
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 208044,
     "idMal": 63508,
     "title": {
@@ -8900,6 +9022,85 @@
         {
           "episode": 12,
           "airingAt": 1789572600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 209800,
+    "idMal": 63047,
+    "title": {
+      "romaji": "Yoroi Shinden Samurai Troopers Part 2",
+      "english": "Yoroi-Shinden Samurai Troopers Cour 2",
+      "native": "鎧真伝サムライトルーパー 第2クール",
+      "userPreferred": "Yoroi Shinden Samurai Troopers Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209800-v3TIdNz1AV0X.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209800-v3TIdNz1AV0X.jpg",
+      "color": "#e4a143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783434600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784039400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784644200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785249000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785853800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786458600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787063400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787668200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788273000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788877800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789482600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790087400
         }
       ]
     },
