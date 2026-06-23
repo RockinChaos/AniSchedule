@@ -1664,10 +1664,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782226800
-        },
-        {
           "episode": 13,
           "airingAt": 1782831600
         }
@@ -6039,6 +6035,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 198709,
+    "idMal": 62476,
+    "title": {
+      "romaji": "Tefuda ga Oume no Victoria",
+      "english": "Victoria of Many Faces",
+      "native": "手札が多めのビクトリア",
+      "userPreferred": "Tefuda ga Oume no Victoria"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-KnZCqdH7fu3F.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198709-KnZCqdH7fu3F.png",
+      "color": "#35a10d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783436400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784041200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784646000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785250800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786460400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787065200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787670000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788274800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788879600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789484400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790089200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 198939,
     "idMal": 62512,
     "title": {
@@ -7240,39 +7316,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 202985,
-    "idMal": 63014,
-    "title": {
-      "romaji": "Tadaima, Ojamasaremasu!",
-      "english": "Pardon the Intrusion, I'm Home!",
-      "native": "ただいま、おじゃまされます！",
-      "userPreferred": "Tadaima, Ojamasaremasu!"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202985-lyp5TYpTnqSg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202985-lyp5TYpTnqSg.jpg",
-      "color": "#e4935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202985-CJxaDe1kJTyp.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782232140
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 203490,
     "idMal": 63061,
     "title": {
@@ -8389,39 +8432,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 206951,
-    "idMal": 63376,
-    "title": {
-      "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
-      "english": "My Ribdiculous Reincarnation",
-      "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」",
-      "userPreferred": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\""
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206951-qiHcrw7pwzuq.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206951-qiHcrw7pwzuq.jpg",
-      "color": "#5dc9f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206951-P1BNNpbqN4zG.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782233940
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 207141,
     "idMal": 63403,
     "title": {
@@ -8572,6 +8582,87 @@
         {
           "episode": 12,
           "airingAt": 1789749000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 207809,
+    "idMal": 63489,
+    "title": {
+      "romaji": "Sora wa Akai Kawa no Hotori",
+      "english": null,
+      "native": "天は赤い河のほとり",
+      "userPreferred": "Sora wa Akai Kawa no Hotori"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207809-cpS7CAyjN7iP.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207809-cpS7CAyjN7iP.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783442100
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784046900
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784651700
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785256500
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785861300
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786466100
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787070900
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787675700
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788280500
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788885300
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789490100
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790094900
         }
       ]
     },
