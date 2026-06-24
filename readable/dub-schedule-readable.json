@@ -442,8 +442,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-06-24T17:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-07-01T17:00:00Z"
             }
           ]
         },
@@ -731,8 +731,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-06-24T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-07-01T17:00:00Z"
             }
           ]
         },
@@ -748,8 +748,9 @@
     "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
     "english": "Reborn as a Vending Machine, I Now Wander the Dungeon 3rd Season",
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-06-24T14:00:00Z",
+    "delayedUntil": "2026-07-01T14:00:00Z",
     "episodeDate": "2026-06-24T14:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
@@ -790,7 +791,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2026-07-01T14:00:00Z"
             }
           ]
@@ -1195,15 +1196,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-06-24T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-01T17:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-06-10T17:00:00Z"
   },
   {
@@ -1658,8 +1659,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-06-24T17:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-07-01T17:00:00Z"
             }
           ]
         },
@@ -2321,7 +2322,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185211,
@@ -2350,8 +2351,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-06-24T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-01T17:00:00Z"
             }
           ]
         },
