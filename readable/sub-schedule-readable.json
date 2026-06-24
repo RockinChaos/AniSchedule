@@ -880,6 +880,10 @@
         {
           "episode": 11,
           "airingAt": 1782399600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790262000
         }
       ]
     },
@@ -990,6 +994,84 @@
         {
           "episode": 12,
           "airingAt": 1790076600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 135865,
+    "idMal": 49233,
+    "title": {
+      "romaji": "Youjo Senki II",
+      "english": "Saga of Tanya the Evil Season 2",
+      "native": "幼女戦記Ⅱ",
+      "userPreferred": "Youjo Senki II"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135865-T7XIPMAbqcxN.png",
+      "color": "#e46b28"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783513800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784118600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784723400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785328200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785933000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786537800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787142600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787747400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788352200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788957000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789561800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790166600
         }
       ]
     },
@@ -2904,39 +2986,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 180745,
-    "idMal": 59708,
-    "title": {
-      "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
-      "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
-      "native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期",
-      "userPreferred": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Psychological"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180745-OEZaBeEdWozn.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180745-OEZaBeEdWozn.png",
-      "color": "#aec9e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180745-Iicz1F6Kuj4e.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1782304200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 182205,
     "idMal": 59970,
     "title": {
@@ -4300,10 +4349,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 37,
-          "airingAt": 1782298800
-        },
-        {
           "episode": 38,
           "airingAt": 1782903600
         },
@@ -4631,10 +4676,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1782307800
-        },
-        {
           "episode": 2,
           "airingAt": 1782912600
         },
@@ -4680,7 +4721,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6086,71 +6126,82 @@
     "zeroEpisode": false
   },
   {
-    "id": 198939,
-    "idMal": 62512,
+    "id": 198946,
+    "idMal": 62513,
     "title": {
-      "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
-      "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
-      "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season",
-      "userPreferred": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+      "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+      "english": "Clevatess Season 2",
+      "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+      "userPreferred": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
     },
     "format": "TV",
     "genres": [
       "Action",
-      "Adventure",
-      "Comedy",
+      "Drama",
       "Fantasy"
     ],
-    "duration": 24,
+    "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198939-95aqzBr0Lzcv.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198939-95aqzBr0Lzcv.jpg",
-      "color": "#e49328"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198946-IGXmbqBEYRYD.jpg",
+      "color": "#f1bb5d"
     },
     "isAdult": false,
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782306000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199029,
-    "idMal": 62485,
-    "title": {
-      "romaji": "Kanojo, Okarishimasu 5th Season",
-      "english": "Rent-a-Girlfriend Season 5",
-      "native": "彼女、お借りします 第5期",
-      "userPreferred": "Kanojo, Okarishimasu 5th Season"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199029-8eMkhHlD62Ik.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199029-8eMkhHlD62Ik.png",
-      "color": "#5dd6f1"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
+          "episode": 1,
+          "airingAt": 1783515600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784120400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784725200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785330000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785934800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786539600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787144400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787749200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788354000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788958800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789563600
+        },
         {
           "episode": 12,
-          "airingAt": 1782306000
+          "airingAt": 1790168400
         }
       ]
     },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9196,6 +9247,10 @@
         {
           "episode": 1,
           "airingAt": 1782399600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1790262000
         }
       ]
     },
@@ -9737,6 +9792,40 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 212309,
+    "idMal": 64181,
+    "title": {
+      "romaji": "Transformers: Wild King W",
+      "english": null,
+      "native": "トランスフォーマー ワイルドキングW",
+      "userPreferred": "Transformers: Wild King W"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "duration": 4,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212309-gDqt6qz1RPEL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212309-gDqt6qz1RPEL.png",
+      "color": "#3593e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1784077200
+        }
+      ]
+    },
     "zeroEpisode": false
   },
   {
