@@ -854,6 +854,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 108992,
+    "idMal": 63802,
+    "title": {
+      "romaji": "Mebius Dust",
+      "english": "MEBIUS DUST",
+      "native": "メビウス・ダスト",
+      "userPreferred": "Mebius Dust"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-12A18HaisXXA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108992-12A18HaisXXA.png",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783607400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784212200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784817000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785421800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1786026600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786631400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787236200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787841000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788445800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1789050600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789655400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790260200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 112936,
     "idMal": 40658,
     "title": {
@@ -2604,40 +2682,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 177508,
-    "idMal": 58832,
-    "title": {
-      "romaji": "Kujima Utaeba Ie Hororo",
-      "english": "Kujima: Why Sing, When You Can Warble?",
-      "native": "クジマ歌えば家ほろろ",
-      "userPreferred": "Kujima Utaeba Ie Hororo"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177508-Ajz9UrU5SsQ0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177508-Ajz9UrU5SsQ0.jpg",
-      "color": "#e4ae1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177508-AAws5SPLJL2S.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782394200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 177634,
     "idMal": 58877,
     "title": {
@@ -3178,41 +3222,6 @@
         {
           "episode": 12,
           "airingAt": 1782631800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 182483,
-    "idMal": 60028,
-    "title": {
-      "romaji": "Hime Kishi wa Barbaroi no Yome",
-      "english": "The Warrior Princess and the Barbaric King",
-      "native": "姫騎士は蛮族の嫁",
-      "userPreferred": "Hime Kishi wa Barbaroi no Yome"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182483-La7chs6htDWr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182483-La7chs6htDWr.jpg",
-      "color": "#50bbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182483-Nzix9ntq3CVj.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782390600
         }
       ]
     },
@@ -4065,10 +4074,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 38,
-          "airingAt": 1782392400
-        },
         {
           "episode": 39,
           "airingAt": 1782997200
@@ -4981,10 +4986,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 38,
-          "airingAt": 1782385200
-        },
         {
           "episode": 39,
           "airingAt": 1782990000
@@ -6519,41 +6520,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 199221,
-    "idMal": 62568,
-    "title": {
-      "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
-      "english": "Dr. STONE SCIENCE FUTURE Cour 3",
-      "native": "Dr.STONE SCIENCE FUTURE 3クール",
-      "userPreferred": "Dr. STONE: SCIENCE FUTURE Part 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199221-TReDQMNhslHu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199221-TReDQMNhslHu.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782392400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 199408,
     "idMal": 62289,
     "title": {
@@ -7691,10 +7657,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 35,
-          "airingAt": 1782385200
-        },
         {
           "episode": 36,
           "airingAt": 1782990000
@@ -9294,10 +9256,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1782379800
-        },
         {
           "episode": 15,
           "airingAt": 1782984600
