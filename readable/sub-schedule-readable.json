@@ -1884,6 +1884,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 159309,
+    "idMal": 54000,
+    "title": {
+      "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+      "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+      "native": "乙女ゲー世界はモブに厳しい世界です2",
+      "userPreferred": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mecha",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159309-wRfh9O1odrDJ.jpg",
+      "color": "#e4c986"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783521000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784125800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784730600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785335400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785940200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786545000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787149800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787754600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788359400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788964200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789569000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790173800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 160701,
     "idMal": 54353,
     "title": {
@@ -3247,6 +3327,81 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 184356,
+    "idMal": 63316,
+    "title": {
+      "romaji": "Dogul Wang",
+      "english": "Tomb Raider King",
+      "native": "도굴왕",
+      "userPreferred": "Dogul Wang"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184356-SlFIstXUXJYP.png",
+      "color": "#5d93e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783527300
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784132100
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784736900
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785341700
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785946500
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786551300
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787156100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787760900
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788365700
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788970500
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789575300
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4803,40 +4958,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 194317,
-    "idMal": 61831,
-    "title": {
-      "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
-      "english": "The Beginning After the End Season 2",
-      "native": "最強の王様、二度目の人生は 何をする? 第2期",
-      "userPreferred": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194317-M7t2ymBDHqyW.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-M7t2ymBDHqyW.jpg",
-      "color": "#e49335"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782311400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 194389,
     "idMal": 62005,
     "title": {
@@ -4943,6 +5064,42 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 194829,
+    "idMal": 61897,
+    "title": {
+      "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+      "english": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "native": "片田舎のおっさん、剣聖になるII",
+      "userPreferred": "Katainaka no Ossan, Kensei ni Naru II"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-aBGjk68756e4.jpg",
+      "color": "#78bbd6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783521900
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5454,6 +5611,84 @@
         {
           "episode": 12,
           "airingAt": 1789477200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 196356,
+    "idMal": 62102,
+    "title": {
+      "romaji": "Ibitte Konai Gibo to Gishi",
+      "english": null,
+      "native": "いびってこない義母と義姉",
+      "userPreferred": "Ibitte Konai Gibo to Gishi"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196356-2TNt2b9tu0jm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196356-2TNt2b9tu0jm.jpg",
+      "color": "#93f1c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783521000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784125800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784730600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785335400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785940200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786545000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787149800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787754600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788359400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788964200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789569000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790173800
         }
       ]
     },
@@ -6467,39 +6702,6 @@
         {
           "episode": 13,
           "airingAt": 1782828000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199588,
-    "idMal": 62604,
-    "title": {
-      "romaji": "Otaku ni Yasashii Gal wa Inai!?",
-      "english": "Gals Can't Be Kind to Otaku!?",
-      "native": "オタクに優しいギャルはいない!?",
-      "userPreferred": "Otaku ni Yasashii Gal wa Inai!?"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199588-M2vtWicvqNbU.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199588-M2vtWicvqNbU.jpg",
-      "color": "#e4c9a1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199588-I4HoR4YjnpqD.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782312300
         }
       ]
     },
@@ -7609,9 +7811,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-Xsx0T6ORmI3H.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204060-Xsx0T6ORmI3H.jpg",
-      "color": "#e4a143"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-bKhovD8jAlW8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204060-bKhovD8jAlW8.jpg",
+      "color": "#f1931a"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -8011,10 +8213,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1782312960
-        },
         {
           "episode": 12,
           "airingAt": 1782917760
@@ -8525,6 +8723,85 @@
         {
           "episode": 12,
           "airingAt": 1789659000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 207254,
+    "idMal": null,
+    "title": {
+      "romaji": "Thunder 3",
+      "english": "Thunder 3",
+      "native": "サンダー３",
+      "userPreferred": "Thunder 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207254-StcuNpmZTDCL.jpg",
+      "color": "#1a93e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783525440
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784130240
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784735040
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785339840
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785944640
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786549440
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787154240
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787759040
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788363840
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788968640
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789573440
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790178240
         }
       ]
     },
@@ -10161,6 +10438,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213484,
+    "idMal": 62957,
+    "title": {
+      "romaji": "Bai Ri Cheng Wang",
+      "english": "Crowned in a Hundred Days",
+      "native": "百日成王",
+      "userPreferred": "Bai Ri Cheng Wang"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213484-FIyYH43ASHgB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213484-FIyYH43ASHgB.png",
+      "color": "#1a86f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783051200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1783656000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784260800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784865600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785470400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786075200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786680000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787284800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787889600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788494400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789099200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789704000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   }
 ]
