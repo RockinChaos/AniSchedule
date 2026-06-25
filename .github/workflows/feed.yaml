@@ -2,13 +2,13 @@ name: Update Feeds
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run once a day to start the 24-hour loop
+    - cron: '0 0 * * *'  # Run once a day to start the feed update loop
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
   update-feeds-and-upload:
     runs-on: self-hosted-primary
-    timeout-minutes: 1440
+    timeout-minutes: 1200
 
     steps:
       - name: Checkout repository
@@ -19,12 +19,12 @@ jobs:
         with:
           node-version: '18'
 
-      - name: Start 24-hour loop
+      - name: Start Feed Update Loop
         env:  # Pass the secret as an environment variable
           ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
         shell: bash
         run: |
-          end_time=$(( $(date +%s) + 84600 )) # Run for 23.5 hours, leaving buffer before the next daily trigger
+          end_time=$(( $(date +%s) + 71100 )) # Run for 19h 45m, allows 15 minute buffer before timeout.
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           while [ $(date +%s) -lt $end_time ]; do
@@ -37,8 +37,7 @@ jobs:
             fi
           
             # Pull latest changes
-            git fetch origin
-            git reset --hard origin/master
+            git pull --rebase
           
             # Run the feed update script
             timeout 120s node index.js update-all-feeds
