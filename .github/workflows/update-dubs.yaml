@@ -12,15 +12,15 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v7
 
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v6
       with:
-        node-version: '18'
+        node-version: '24'
 
     - name: Cache Node.js modules
-      uses: actions/cache@v3
+      uses: actions/cache@v6
       with:
         path: |
           node_modules
@@ -36,7 +36,7 @@ jobs:
     - name: Run Node.js script
       env:  # Pass the secret as an environment variable
         ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
-      run: node index.js update-dubs
+      run: npm run update-dubs
       timeout-minutes: 2
 
     - name: Commit and push JSON files

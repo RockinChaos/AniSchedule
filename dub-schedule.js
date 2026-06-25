@@ -58,7 +58,6 @@ export async function fetchDubSchedule() {
     const changes = []
 
     const { writeFile } = await import('node:fs/promises')
-    const { writable } =  await import('simple-store-svelte')
     const { exactMatch, matchKeys } = await import('./utils/anime.js')
     const { anilistClient } = await import('./utils/anilist.js')
     const { malDubs } = await import('./utils/animedubs.js')
@@ -72,7 +71,7 @@ export async function fetchDubSchedule() {
 
     // Fetch airing lists //
 
-    let airingLists = writable([])
+    let airingLists = []
     let updatedEpisodes = false
     const currentSchedule = loadJSON(path.join('./raw/dub-schedule.json'))
     const exactSchedule = structuredClone(currentSchedule)
@@ -87,8 +86,8 @@ export async function fetchDubSchedule() {
         console.log(`Fetching dub timetables for Year ${year}, Week ${week}...`)
         const fetchedData = await fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN})
         if (fetchedData) {
-            const newEntries = fetchedData.filter((item) => !airingLists.value.some((existing) => existing.route === item.route))
-            airingLists.update((lists) => [...lists, ...newEntries])
+            const newEntries = fetchedData.filter((item) => !airingLists.some((existing) => existing.route === item.route))
+            airingLists = [...airingLists, ...newEntries]
         }
         await delay(500)
 
@@ -125,9 +124,9 @@ export async function fetchDubSchedule() {
         console.log(`Changes detected in the custom dubs lists.... saved!`)
         saveJSON(path.join(`./custom/custom-dubs.json`), customDubs, true)
     }
-    airingLists.update((lists) => [...lists, ...customDubs])
+    airingLists = [...airingLists, ...customDubs]
 
-    let timetables = await airingLists.value
+    let timetables = airingLists
     if (timetables) {
         timetables = timetables.filter((entry) => {
             const delayedText = entry.delayedText?.toLowerCase()
@@ -221,9 +220,9 @@ export async function fetchDubSchedule() {
                 }
             }
         }
-        airingLists.value = timetables.filter(item => !item.airType || item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title)) // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
-        console.log(`Successfully retrieved ${airingLists.value.length} airing series...`)
-        const airingWarning = checkThreshold(airingLists.value, currentSchedule)
+        airingLists = timetables.filter(item => !item.airType || item.airType === 'dub').sort((a, b) => a.title.localeCompare(b.title)) // Need to filter to ensure only dubs are fetched, the api sometimes includes raw airType...
+        console.log(`Successfully retrieved ${airingLists.length} airing series...`)
+        const airingWarning = checkThreshold(airingLists, currentSchedule)
         if (airingWarning) changes.push(airingWarning)
     } else {
         console.error('Error: Failed to fetch the dub airing schedule, it cannot be null!')
@@ -235,7 +234,7 @@ export async function fetchDubSchedule() {
 
     // resolve airing lists //
 
-    const airing = await airingLists.value
+    const airing = airingLists
     const mediaID = /(?:https?:\/\/)?(?:www\.)?(?:myanimelist\.net\/anime\/|anilist\.co\/anime\/)(\d+)/
     const titles = []
     const order = []
@@ -419,9 +418,9 @@ export async function fetchDubSchedule() {
     })
 
     if (combinedResults) {
-        if (combinedResults.length !== airingLists.value.length) {
-            changes.push(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
-            console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.value.length} dub titles in the timetables, less than what is expected!`)
+        if (combinedResults.length !== airingLists.length) {
+            changes.push(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.length} dub titles in the timetables, less than what is expected!`)
+            console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.length} dub titles in the timetables, less than what is expected!`)
         }
         const existingDubbedFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
         combinedResults = await correctZeroEpisodes('Dub', combinedResults, exactSchedule, existingDubbedFeed, changes)

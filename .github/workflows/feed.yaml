@@ -12,12 +12,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
       - name: Set up Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: '18'
+          node-version: '24'
 
       - name: Start Feed Update Loop
         env:  # Pass the secret as an environment variable
@@ -40,7 +40,7 @@ jobs:
             git pull --rebase
           
             # Run the feed update script
-            timeout 120s node index.js update-all-feeds
+            timeout 120s npm run update-feeds
           
             # Stage, commit, and push any JSON changes
             git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'

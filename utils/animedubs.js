@@ -1,5 +1,3 @@
-import { writable } from 'simple-store-svelte'
-
 const verifiedDubs = [183231]
 
 /**
@@ -7,15 +5,14 @@ const verifiedDubs = [183231]
  * Dub information is returned as MyAnimeList ids.
  */
 class MALDubs {
-    /** @type {import('simple-store-svelte').Writable<ReturnType<MALDubs['getDubs']>>} */
-     dubLists = writable()
+    dubLists = null
 
     constructor() {
         this.getMALDubs()
     }
 
     isDubMedia(entry) {
-        if (this.dubLists.value?.dubbed && (entry?.media?.media?.idMal || (entry?.media?.media?.id && verifiedDubs.includes(entry?.media?.media.id)))) return this.dubLists.value.dubbed.includes(entry?.media?.media.idMal) || this.dubLists.value.incomplete.includes(entry?.media?.media.idMal) || verifiedDubs.includes(entry?.media?.media.id)
+        if (this.dubLists?.dubbed && (entry?.media?.media?.idMal || (entry?.media?.media?.id && verifiedDubs.includes(entry?.media?.media.id)))) return this.dubLists.dubbed.includes(entry?.media?.media.idMal) || this.dubLists.incomplete.includes(entry?.media?.media.idMal) || verifiedDubs.includes(entry?.media?.media.id)
         throw new Error(`Detected the route ${entry?.route} is missing resolved media, how did we get here!? The entry: ${JSON.stringify(entry)}`) // absolutely DO NOT continue if we can't verify.
     }
 
@@ -44,7 +41,7 @@ class MALDubs {
                 this.printError(res)
             }
         }
-        this.dubLists.value = await json
+        this.dubLists = json
         return json
     }
 
