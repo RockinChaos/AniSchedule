@@ -501,8 +501,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-25T12:30:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-02T12:30:00Z"
             }
           ]
         },
@@ -1217,6 +1217,7 @@
     "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-06-25T15:30:00Z",
     "episodeNumber": 13,
+    "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1254,8 +1255,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-06-25T15:30:00Z"
+              "episode": 14,
+              "airingAt": "2026-07-02T15:30:00Z"
             }
           ]
         },
@@ -1942,8 +1943,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-06-25T15:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-07-02T15:00:00Z"
             }
           ]
         },
