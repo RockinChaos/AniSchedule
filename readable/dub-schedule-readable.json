@@ -1960,10 +1960,12 @@
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
     "english": "That Time I Got Reincarnated as a Slime 4th Season",
     "native": "転生したらスライムだった件 第4期",
-    "delayedFrom": "2026-05-29T15:00:00Z",
-    "delayedUntil": "2026-06-05T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-06-26T15:00:00Z",
+    "delayedUntil": "2026-07-03T15:00:00Z",
     "episodeDate": "2026-06-26T15:00:00Z",
     "episodeNumber": 10,
+    "subtractedEpisodeNumber": 9,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2001,7 +2003,11 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 9,
+              "airingAt": "2026-07-03T15:00:00Z"
+            },
+            {
+              "episode": 10,
               "airingAt": "2026-07-03T15:00:00Z"
             }
           ]
