@@ -1965,7 +1965,6 @@
     "delayedUntil": "2026-07-03T15:00:00Z",
     "episodeDate": "2026-06-26T15:00:00Z",
     "episodeNumber": 10,
-    "subtractedEpisodeNumber": 9,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2002,10 +2001,6 @@
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182205-fRUoKv6f2JAq.jpg",
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 9,
-              "airingAt": "2026-07-03T15:00:00Z"
-            },
             {
               "episode": 10,
               "airingAt": "2026-07-03T15:00:00Z"
