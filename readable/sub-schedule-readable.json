@@ -2967,10 +2967,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782482400
-        },
-        {
           "episode": 13,
           "airingAt": 1783087200
         },
@@ -8948,6 +8944,38 @@
         {
           "episode": 2,
           "airingAt": 1787842800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 208361,
+    "idMal": 63657,
+    "title": {
+      "romaji": "Seishidouin no Oshigoto The Animation",
+      "english": null,
+      "native": "性指導員のお仕事 The Animation",
+      "userPreferred": "Seishidouin no Oshigoto The Animation"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208361-4uMcLF44TJmM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208361-4uMcLF44TJmM.png",
+      "color": "#d69378"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1789657200
         }
       ]
     },
