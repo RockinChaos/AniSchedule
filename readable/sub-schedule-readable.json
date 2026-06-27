@@ -249,10 +249,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1341,
-          "airingAt": 1782545400
-        },
-        {
           "episode": 1342,
           "airingAt": 1783150200
         },
@@ -347,6 +343,10 @@
         {
           "episode": 1365,
           "airingAt": 1797060600
+        },
+        {
+          "episode": 1366,
+          "airingAt": 1797665400
         }
       ]
     },
@@ -636,10 +636,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 921,
-          "airingAt": 1782547200
-        },
-        {
           "episode": 922,
           "airingAt": 1783152000
         },
@@ -734,6 +730,10 @@
         {
           "episode": 945,
           "airingAt": 1797062400
+        },
+        {
+          "episode": 946,
+          "airingAt": 1797667200
         }
       ]
     },
@@ -1319,10 +1319,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 159,
-          "airingAt": 1782525600
-        },
-        {
           "episode": 160,
           "airingAt": 1783130400
         },
@@ -1417,6 +1413,10 @@
         {
           "episode": 183,
           "airingAt": 1797040800
+        },
+        {
+          "episode": 184,
+          "airingAt": 1797645600
         }
       ]
     },
@@ -1577,10 +1577,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 222,
-          "airingAt": 1782513000
-        },
         {
           "episode": 223,
           "airingAt": 1783117800
@@ -2455,10 +2451,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1782549000
-        },
-        {
           "episode": 13,
           "airingAt": 1783153800
         },
@@ -3156,10 +3148,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782519960
-        },
         {
           "episode": 14,
           "airingAt": 1783124760
@@ -6128,38 +6116,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198411,
-    "idMal": 62495,
-    "title": {
-      "romaji": "Nezumi-kun no Chokki (TV)",
-      "english": null,
-      "native": "ねずみくんのチョッキ (TV)",
-      "userPreferred": "Nezumi-kun no Chokki (TV)"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Fantasy"
-    ],
-    "duration": 5,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198411-FuPLk3KBEoFH.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198411-FuPLk3KBEoFH.png",
-      "color": "#c95050"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782520200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198709,
     "idMal": 62476,
     "title": {
@@ -6178,9 +6134,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-KnZCqdH7fu3F.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198709-KnZCqdH7fu3F.png",
-      "color": "#35a10d"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198709-3PFLvU6eqPvf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198709-3PFLvU6eqPvf.jpg",
+      "color": "#5da1e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -6504,10 +6460,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1782525600
-        },
         {
           "episode": 3,
           "airingAt": 1782612000
