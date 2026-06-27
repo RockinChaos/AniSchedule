@@ -4102,42 +4102,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 187989,
-    "idMal": 61217,
-    "title": {
-      "romaji": "Yuusha no Kuzu",
-      "english": "Scum of the Brave",
-      "native": "勇者のクズ",
-      "userPreferred": "Yuusha no Kuzu"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187989-IjVYJxi0bEcr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-IjVYJxi0bEcr.jpg",
-      "color": "#d6a178"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187989-ouxLKb1rZgKw.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1782575760
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 188388,
     "idMal": 61269,
     "title": {
@@ -4468,40 +4432,6 @@
         {
           "episode": 19,
           "airingAt": 1790773200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 190143,
-    "idMal": 61443,
-    "title": {
-      "romaji": "Shunkashuutou Daikousha: Haru no Mai",
-      "english": "Agents of the Four Seasons: Dance of Spring",
-      "native": "春夏秋冬代行者 春の舞",
-      "userPreferred": "Shunkashuutou Daikousha: Haru no Mai"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190143-IqqbkMAF0GOo.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190143-IqqbkMAF0GOo.jpg",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190143-0Ffw9Tb9Sjdo.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1782572400
         }
       ]
     },
@@ -5062,10 +4992,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782571560
-        },
         {
           "episode": 14,
           "airingAt": 1783176360
@@ -5868,39 +5794,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198113,
-    "idMal": 62391,
-    "title": {
-      "romaji": "Kill Ao",
-      "english": "KILL BLUE",
-      "native": "キルアオ",
-      "userPreferred": "Kill Ao"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
-      "color": "#50aefe"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782568800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 198376,
     "idMal": 62430,
     "title": {
@@ -6221,6 +6114,85 @@
         {
           "episode": 12,
           "airingAt": 1790168400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 199066,
+    "idMal": 62535,
+    "title": {
+      "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+      "english": "Hanaori-san Still Wants to Fight in the Next Life",
+      "native": "花織さんは転生しても喧嘩がしたい",
+      "userPreferred": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-o0aQNC5lcxFr.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199066-o0aQNC5lcxFr.jpg",
+      "color": "#43bbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783789200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784394000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784998800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785603600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1786208400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786813200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787418000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1788022800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788627600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1789232400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789837200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790442000
         }
       ]
     },
@@ -6848,41 +6820,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 202102,
-    "idMal": 62913,
-    "title": {
-      "romaji": "NEEDY GIRL OVERDOSE",
-      "english": "NEEDY GIRL OVERDOSE",
-      "native": "NEEDY GIRL OVERDOSE",
-      "userPreferred": "NEEDY GIRL OVERDOSE"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Psychological",
-      "Slice of Life"
-    ],
-    "duration": 25,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202102-7qDmTI7eT5xF.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202102-7qDmTI7eT5xF.png",
-      "color": "#c950f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202102-RBgWbaATyuDt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782574200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -9672,10 +9609,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1782572400
-        },
         {
           "episode": 12,
           "airingAt": 1783177200
