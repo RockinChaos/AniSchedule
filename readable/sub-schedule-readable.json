@@ -159,10 +159,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1205,
-          "airingAt": 1782550800
-        },
-        {
           "episode": 1206,
           "airingAt": 1783155600
         },
@@ -2452,51 +2448,51 @@
       "nodes": [
         {
           "episode": 13,
-          "airingAt": 1783153800
-        },
-        {
-          "episode": 14,
           "airingAt": 1783758600
         },
         {
-          "episode": 15,
+          "episode": 14,
           "airingAt": 1784363400
         },
         {
-          "episode": 16,
+          "episode": 15,
           "airingAt": 1784968200
         },
         {
-          "episode": 17,
+          "episode": 16,
           "airingAt": 1785573000
         },
         {
-          "episode": 18,
+          "episode": 17,
           "airingAt": 1786177800
         },
         {
-          "episode": 19,
+          "episode": 18,
           "airingAt": 1786782600
         },
         {
-          "episode": 20,
+          "episode": 19,
           "airingAt": 1787387400
         },
         {
-          "episode": 21,
+          "episode": 20,
           "airingAt": 1787992200
         },
         {
-          "episode": 22,
+          "episode": 21,
           "airingAt": 1788597000
         },
         {
-          "episode": 23,
+          "episode": 22,
           "airingAt": 1789201800
         },
         {
-          "episode": 24,
+          "episode": 23,
           "airingAt": 1789806600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1790411400
         }
       ]
     },
@@ -3298,10 +3294,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1782552360
-        },
-        {
           "episode": 14,
           "airingAt": 1783157160
         },
@@ -3344,40 +3336,6 @@
         {
           "episode": 24,
           "airingAt": 1789205160
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 185211,
-    "idMal": 60444,
-    "title": {
-      "romaji": "Yowa Yowa Sensei",
-      "english": "Yowayowa Sensei",
-      "native": "よわよわ先生",
-      "userPreferred": "Yowa Yowa Sensei"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185211-ewfgT5Cn99k0.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185211-ewfgT5Cn99k0.jpg",
-      "color": "#f1bbae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185211-2wkjFD6tz7l3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782563400
         }
       ]
     },
@@ -3851,10 +3809,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1782561600
-        },
-        {
           "episode": 2,
           "airingAt": 1783166400
         },
@@ -3900,7 +3854,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -10205,10 +10158,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1782554400
-        },
-        {
           "episode": 3,
           "airingAt": 1783159200
         },
@@ -10303,6 +10252,10 @@
         {
           "episode": 26,
           "airingAt": 1797069600
+        },
+        {
+          "episode": 27,
+          "airingAt": 1797674400
         }
       ]
     },
