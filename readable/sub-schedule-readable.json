@@ -374,10 +374,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2838,
-          "airingAt": 1782639000
-        },
-        {
           "episode": 2839,
           "airingAt": 1783243800
         },
@@ -472,6 +468,10 @@
         {
           "episode": 2862,
           "airingAt": 1797154200
+        },
+        {
+          "episode": 2863,
+          "airingAt": 1797759000
         }
       ]
     },
@@ -925,40 +925,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 118123,
-    "idMal": 44042,
-    "title": {
-      "romaji": "Holo no Graffiti",
-      "english": null,
-      "native": "ホロのぐらふぃてぃ",
-      "userPreferred": "Holo no Graffiti"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "duration": 2,
-    "seasonYear": 2019,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png",
-      "color": "#e4ae5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 372,
-          "airingAt": 1782637200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -4443,6 +4409,43 @@
     "zeroEpisode": false
   },
   {
+    "id": 193883,
+    "idMal": 61765,
+    "title": {
+      "romaji": "Chibi Godzilla no Gyakushuu 3",
+      "english": "Chibi Godzilla Raids Again Season 3",
+      "native": "ちびゴジラの逆襲(第3期)",
+      "userPreferred": "Chibi Godzilla no Gyakushuu 3"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 3,
+    "seasonYear": 2025,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx193883-Im5tNHwtfAmz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193883-Im5tNHwtfAmz.jpg",
+      "color": "#f1ae43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 47,
+          "airingAt": 1783461960
+        },
+        {
+          "episode": 48,
+          "airingAt": 1784671560
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 194219,
     "idMal": 61814,
     "title": {
@@ -5144,7 +5147,7 @@
     "idMal": 62080,
     "title": {
       "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "english": "The Oblivous Saint Can't Contain Her Power",
+      "english": "The Oblivious Saint Can't Contain Her Power",
       "native": "無自覚聖女は今日も無意識に力を垂れ流す",
       "userPreferred": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu"
     },
