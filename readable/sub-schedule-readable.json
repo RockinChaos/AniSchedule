@@ -28,104 +28,104 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1168,
-          "airingAt": 1782656160
-        },
-        {
           "episode": 1169,
-          "airingAt": 1783260960
-        },
-        {
-          "episode": 1170,
           "airingAt": 1783865760
         },
         {
-          "episode": 1171,
+          "episode": 1170,
           "airingAt": 1784470560
         },
         {
-          "episode": 1172,
+          "episode": 1171,
           "airingAt": 1785075360
         },
         {
-          "episode": 1173,
+          "episode": 1172,
           "airingAt": 1785680160
         },
         {
-          "episode": 1174,
+          "episode": 1173,
           "airingAt": 1786284960
         },
         {
-          "episode": 1175,
+          "episode": 1174,
           "airingAt": 1786889760
         },
         {
-          "episode": 1176,
+          "episode": 1175,
           "airingAt": 1787494560
         },
         {
-          "episode": 1177,
+          "episode": 1176,
           "airingAt": 1788099360
         },
         {
-          "episode": 1178,
+          "episode": 1177,
           "airingAt": 1788704160
         },
         {
-          "episode": 1179,
+          "episode": 1178,
           "airingAt": 1789308960
         },
         {
-          "episode": 1180,
+          "episode": 1179,
           "airingAt": 1789913760
         },
         {
-          "episode": 1181,
+          "episode": 1180,
           "airingAt": 1790518560
         },
         {
-          "episode": 1182,
+          "episode": 1181,
           "airingAt": 1791123360
         },
         {
-          "episode": 1183,
+          "episode": 1182,
           "airingAt": 1791728160
         },
         {
-          "episode": 1184,
+          "episode": 1183,
           "airingAt": 1792332960
         },
         {
-          "episode": 1185,
+          "episode": 1184,
           "airingAt": 1792937760
         },
         {
-          "episode": 1186,
+          "episode": 1185,
           "airingAt": 1793542560
         },
         {
-          "episode": 1187,
+          "episode": 1186,
           "airingAt": 1794147360
         },
         {
-          "episode": 1188,
+          "episode": 1187,
           "airingAt": 1794752160
         },
         {
-          "episode": 1189,
+          "episode": 1188,
           "airingAt": 1795356960
         },
         {
-          "episode": 1190,
+          "episode": 1189,
           "airingAt": 1795961760
         },
         {
-          "episode": 1191,
+          "episode": 1190,
           "airingAt": 1796566560
         },
         {
-          "episode": 1192,
+          "episode": 1191,
           "airingAt": 1797171360
+        },
+        {
+          "episode": 1192,
+          "airingAt": 1797776160
+        },
+        {
+          "episode": 1193,
+          "airingAt": 1798380960
         }
       ]
     },
@@ -160,58 +160,54 @@
       "nodes": [
         {
           "episode": 1206,
-          "airingAt": 1783155600
-        },
-        {
-          "episode": 1207,
           "airingAt": 1783760400
         },
         {
-          "episode": 1208,
+          "episode": 1207,
           "airingAt": 1784365200
         },
         {
-          "episode": 1209,
+          "episode": 1208,
           "airingAt": 1784970000
         },
         {
-          "episode": 1210,
+          "episode": 1209,
           "airingAt": 1785574800
         },
         {
-          "episode": 1211,
+          "episode": 1210,
           "airingAt": 1786179600
         },
         {
-          "episode": 1212,
+          "episode": 1211,
           "airingAt": 1786784400
         },
         {
-          "episode": 1213,
+          "episode": 1212,
           "airingAt": 1787389200
         },
         {
-          "episode": 1214,
+          "episode": 1213,
           "airingAt": 1787994000
         },
         {
-          "episode": 1215,
+          "episode": 1214,
           "airingAt": 1788598800
         },
         {
-          "episode": 1216,
+          "episode": 1215,
           "airingAt": 1789203600
         },
         {
-          "episode": 1217,
+          "episode": 1216,
           "airingAt": 1789808400
         },
         {
-          "episode": 1218,
+          "episode": 1217,
           "airingAt": 1790413200
         },
         {
-          "episode": 1219,
+          "episode": 1218,
           "airingAt": 1791018000
         }
       ]
@@ -3923,6 +3919,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 188139,
+    "idMal": 61240,
+    "title": {
+      "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+      "english": "Though I Am an Inept Villainess",
+      "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~",
+      "userPreferred": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-5QWn8R7yvjY4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188139-5QWn8R7yvjY4.png",
+      "color": "#0d78fe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783867560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784472360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1785077160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785681960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1786286760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786891560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787496360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1788101160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788705960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1789310760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789915560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790520360
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 188388,
     "idMal": 61269,
     "title": {
@@ -5369,10 +5443,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782657000
-        },
         {
           "episode": 13,
           "airingAt": 1783261800
@@ -8166,6 +8236,87 @@
         {
           "episode": 38,
           "airingAt": 1797726600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 206950,
+    "idMal": 63383,
+    "title": {
+      "romaji": "Kumarba Season 3",
+      "english": null,
+      "native": "クマーバシーズン3",
+      "userPreferred": "Kumarba Season 3"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "duration": 3,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206950-pNm7O5inBKBX.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206950-pNm7O5inBKBX.png",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1783202400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1783807200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1784412000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1785016800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1785621600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1786226400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1786831200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1787436000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1788040800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1788645600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1789250400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1789855200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1790460000
         }
       ]
     },
