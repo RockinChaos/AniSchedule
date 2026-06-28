@@ -2455,38 +2455,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 177634,
-    "idMal": 58877,
-    "title": {
-      "romaji": "Diamond no Ace act II: Second Season",
-      "english": "Ace of the Diamond act II -Second Season-",
-      "native": "ダイヤのA actII -Second Season-",
-      "userPreferred": "Diamond no Ace act II: Second Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177634-jYdKdbPOwWhR.png",
-      "color": "#1aa1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177634-bU4CFWC8Q4dt.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782635400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 177637,
     "idMal": 58878,
     "title": {
@@ -2923,75 +2891,6 @@
         {
           "episode": 24,
           "airingAt": 1789740000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 182300,
-    "idMal": 59983,
-    "title": {
-      "romaji": "Tsue to Tsurugi no Wistoria Season 2",
-      "english": "Wistoria: Wand and Sword Season 2",
-      "native": "杖と剣のウィストリア Season2",
-      "userPreferred": "Tsue to Tsurugi no Wistoria Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182300-IYkq5KrkQq1V.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182300-IYkq5KrkQq1V.jpg",
-      "color": "#e4a150"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182300-d1znfWKzn1bT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782631800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 182578,
-    "idMal": 60055,
-    "title": {
-      "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
-      "english": "Mission: Yozakura Family Season 2",
-      "native": "夜桜さんちの大作戦 第2期",
-      "userPreferred": "Yozakura-san Chi no Daisakusen 2nd Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182578-Te8W0EwesgrS.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182578-Te8W0EwesgrS.jpg",
-      "color": "#50d6e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182578-p3J3Cs24qe9J.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782633600
         }
       ]
     },
