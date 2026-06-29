@@ -1330,6 +1330,61 @@
     "addedAt": "2026-05-02T17:00:00Z"
   },
   {
+    "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
+    "route": "nijuuseiki-denki-mokuroku",
+    "romaji": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
+    "english": "Sparks of Tomorrow",
+    "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-07-05T14:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 103303,
+        "idMal": 62856,
+        "title": {
+          "romaji": "Nijusseiki Denki Mokuroku: Eureka・Evrika",
+          "english": "Sparks of Tomorrow",
+          "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+          "userPreferred": "Nijusseiki Denki Mokuroku: Eureka・Evrika"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Romance"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-ORmCjr9wDgbM.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-ORmCjr9wDgbM.jpg",
+          "color": "#f1bb50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-05T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-05T14:00:00Z"
+  },
+  {
     "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
     "route": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
     "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
