@@ -924,6 +924,136 @@
     "zeroEpisode": false
   },
   {
+    "id": 118123,
+    "idMal": 44042,
+    "title": {
+      "romaji": "Holo no Graffiti",
+      "english": null,
+      "native": "ホロのぐらふぃてぃ",
+      "userPreferred": "Holo no Graffiti"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2019,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118123-xqn5fYsjKXJU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx118123-xqn5fYsjKXJU.png",
+      "color": "#e4ae5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/118123-BvHyzWd850nZ.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 373,
+          "airingAt": 1783242000
+        },
+        {
+          "episode": 374,
+          "airingAt": 1783846800
+        },
+        {
+          "episode": 375,
+          "airingAt": 1784451600
+        },
+        {
+          "episode": 376,
+          "airingAt": 1785056400
+        },
+        {
+          "episode": 377,
+          "airingAt": 1785661200
+        },
+        {
+          "episode": 378,
+          "airingAt": 1786266000
+        },
+        {
+          "episode": 379,
+          "airingAt": 1786870800
+        },
+        {
+          "episode": 380,
+          "airingAt": 1787475600
+        },
+        {
+          "episode": 381,
+          "airingAt": 1788080400
+        },
+        {
+          "episode": 382,
+          "airingAt": 1788685200
+        },
+        {
+          "episode": 383,
+          "airingAt": 1789290000
+        },
+        {
+          "episode": 384,
+          "airingAt": 1789894800
+        },
+        {
+          "episode": 385,
+          "airingAt": 1790499600
+        },
+        {
+          "episode": 386,
+          "airingAt": 1791104400
+        },
+        {
+          "episode": 387,
+          "airingAt": 1791709200
+        },
+        {
+          "episode": 388,
+          "airingAt": 1792314000
+        },
+        {
+          "episode": 389,
+          "airingAt": 1792918800
+        },
+        {
+          "episode": 390,
+          "airingAt": 1793523600
+        },
+        {
+          "episode": 391,
+          "airingAt": 1794128400
+        },
+        {
+          "episode": 392,
+          "airingAt": 1794733200
+        },
+        {
+          "episode": 393,
+          "airingAt": 1795338000
+        },
+        {
+          "episode": 394,
+          "airingAt": 1795942800
+        },
+        {
+          "episode": 395,
+          "airingAt": 1796547600
+        },
+        {
+          "episode": 396,
+          "airingAt": 1797152400
+        },
+        {
+          "episode": 397,
+          "airingAt": 1797757200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 128757,
     "idMal": 46488,
     "title": {
@@ -5632,10 +5762,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1782745200
-        },
-        {
           "episode": 14,
           "airingAt": 1783350000
         },
@@ -8061,10 +8187,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1782738000
-        },
-        {
           "episode": 2,
           "airingAt": 1783342800
         },
@@ -8110,7 +8232,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
