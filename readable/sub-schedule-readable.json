@@ -1364,10 +1364,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1782784800
-        },
-        {
           "episode": 5,
           "airingAt": 1783389600
         },
@@ -1536,10 +1532,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 356,
-          "airingAt": 1782772800
-        },
-        {
           "episode": 357,
           "airingAt": 1783032000
         },
@@ -1634,6 +1626,10 @@
         {
           "episode": 380,
           "airingAt": 1790030400
+        },
+        {
+          "episode": 381,
+          "airingAt": 1790289600
         }
       ]
     },
@@ -1710,10 +1706,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 394,
-          "airingAt": 1782784800
-        },
         {
           "episode": 395,
           "airingAt": 1783216800
@@ -1809,6 +1801,10 @@
         {
           "episode": 418,
           "airingAt": 1790042400
+        },
+        {
+          "episode": 419,
+          "airingAt": 1790474400
         }
       ]
     },
@@ -4322,75 +4318,6 @@
         {
           "episode": 50,
           "airingAt": 1790161200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 188753,
-    "idMal": 61297,
-    "title": {
-      "romaji": "Gekkan! Nanmono Anime",
-      "english": null,
-      "native": "げっかん！なんものアニメ",
-      "userPreferred": "Gekkan! Nanmono Anime"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 1,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188753-Rkuiizca4QFD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188753-Rkuiizca4QFD.png",
-      "color": "#f1e4c9"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188753-njd1uzJV3jp3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 15,
-          "airingAt": 1782788400
-        },
-        {
-          "episode": 16,
-          "airingAt": 1785466800
-        },
-        {
-          "episode": 17,
-          "airingAt": 1788145200
-        },
-        {
-          "episode": 18,
-          "airingAt": 1790737200
-        },
-        {
-          "episode": 19,
-          "airingAt": 1793415600
-        },
-        {
-          "episode": 20,
-          "airingAt": 1796007600
-        },
-        {
-          "episode": 21,
-          "airingAt": 1798686000
-        },
-        {
-          "episode": 22,
-          "airingAt": 1801364400
-        },
-        {
-          "episode": 23,
-          "airingAt": 1803783600
-        },
-        {
-          "episode": 24,
-          "airingAt": 1806462000
         }
       ]
     },
@@ -9469,7 +9396,7 @@
       "Mystery",
       "Thriller"
     ],
-    "duration": null,
+    "duration": 89,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg",
@@ -9592,7 +9519,7 @@
       "color": "#fe5093"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -10046,10 +9973,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1782784800
-        },
-        {
           "episode": 5,
           "airingAt": 1783389600
         },
@@ -10144,6 +10067,10 @@
         {
           "episode": 28,
           "airingAt": 1797300000
+        },
+        {
+          "episode": 29,
+          "airingAt": 1797904800
         }
       ]
     },
@@ -10446,6 +10373,68 @@
         {
           "episode": 25,
           "airingAt": 1789444800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 213703,
+    "idMal": 62948,
+    "title": {
+      "romaji": "Jiaonang Jihua: Qiji",
+      "english": null,
+      "native": "胶囊计划 奇迹",
+      "userPreferred": "Jiaonang Jihua: Qiji"
+    },
+    "format": "ONA",
+    "genres": [
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213703-ghO1AqW0bdaN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213703-ghO1AqW0bdaN.jpg",
+      "color": "#f1bb0d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1783479600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784084400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784689200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785294000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785898800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786503600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787108400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787713200
         }
       ]
     },
