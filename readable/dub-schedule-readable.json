@@ -281,6 +281,64 @@
     "addedAt": "2026-07-04T14:00:00Z"
   },
   {
+    "title": "Boku no Kokoro no Yabai Yatsu Movie",
+    "route": "boku-no-kokoro-no-yabai-yatsu-movie",
+    "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+    "english": "The Dangers in My Heart: The Movie",
+    "native": "僕の心のヤバイやつ 劇場版",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-07-14T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 102,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182317,
+        "idMal": 59985,
+        "title": {
+          "romaji": "Boku no Kokoro no Yabai Yatsu Movie",
+          "english": "The Dangers in My Heart: The Movie",
+          "native": "劇場版 僕の心のヤバイやつ",
+          "userPreferred": "Boku no Kokoro no Yabai Yatsu Movie"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 102,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182317-zzpOnAECrM2o.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182317-zzpOnAECrM2o.png",
+          "color": "#ae5de4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182317-zrOrc3AapwmI.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-14T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-14T17:00:00Z"
+  },
+  {
     "title": "Dungeons & Television",
     "route": "dungeons-and-television",
     "romaji": "Dungeons & Television",
