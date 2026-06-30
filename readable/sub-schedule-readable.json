@@ -4728,39 +4728,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 194393,
-    "idMal": 61839,
-    "title": {
-      "romaji": "Aishiteru Game wo Owarasetai",
-      "english": "I Want to End this Love Game",
-      "native": "愛してるゲームを終わらせたい",
-      "userPreferred": "Aishiteru Game wo Owarasetai"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194393-0H9yYABu6y0i.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194393-0H9yYABu6y0i.jpg",
-      "color": "#43aef1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194393-FmUDMgF0apUJ.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1782828000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 194829,
     "idMal": 61897,
     "title": {
@@ -5300,10 +5267,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1782824400
-        },
-        {
           "episode": 2,
           "airingAt": 1783429200
         },
@@ -5349,7 +5312,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6331,41 +6293,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 199547,
-    "idMal": 62601,
-    "title": {
-      "romaji": "MARRIAGETOXIN",
-      "english": "MARRIAGETOXIN",
-      "native": "マリッジトキシン",
-      "userPreferred": "MARRIAGETOXIN"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199547-LAaG3cmKCGhr.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199547-LAaG3cmKCGhr.jpg",
-      "color": "#1ae4f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199547-7230SVo56b42.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1782828000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
