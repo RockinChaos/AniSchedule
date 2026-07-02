@@ -2827,7 +2827,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 26,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
@@ -2933,6 +2933,10 @@
         {
           "episode": 24,
           "airingAt": 1796916360
+        },
+        {
+          "episode": 25,
+          "airingAt": 1797521160
         }
       ]
     },
