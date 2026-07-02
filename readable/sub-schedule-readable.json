@@ -3912,10 +3912,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 39,
-          "airingAt": 1782997200
-        },
-        {
           "episode": 40,
           "airingAt": 1783602000
         },
@@ -4758,10 +4754,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 39,
-          "airingAt": 1782990000
-        },
         {
           "episode": 40,
           "airingAt": 1783594800
@@ -6754,10 +6746,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1782996000
-        },
-        {
           "episode": 2,
           "airingAt": 1783600800
         },
@@ -6803,7 +6791,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7421,10 +7408,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 36,
-          "airingAt": 1782990000
-        },
-        {
           "episode": 37,
           "airingAt": 1783594800
         },
@@ -7462,10 +7445,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1782995400
-        },
         {
           "episode": 2,
           "airingAt": 1783600200
@@ -7516,7 +7495,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9382,10 +9360,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1782984600
-        },
-        {
           "episode": 16,
           "airingAt": 1783589400
         },
@@ -10953,7 +10927,7 @@
   },
   {
     "id": 213686,
-    "idMal": null,
+    "idMal": 64529,
     "title": {
       "romaji": "NTR Kishi",
       "english": null,
@@ -11048,7 +11022,7 @@
   },
   {
     "id": 213732,
-    "idMal": null,
+    "idMal": 64530,
     "title": {
       "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara THE ANIMATION",
       "english": null,
@@ -11089,7 +11063,7 @@
   },
   {
     "id": 213733,
-    "idMal": null,
+    "idMal": 64531,
     "title": {
       "romaji": "Kanojo Saimin",
       "english": null,
