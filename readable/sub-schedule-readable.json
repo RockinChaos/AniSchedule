@@ -732,42 +732,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 21828,
-    "idMal": 32587,
-    "title": {
-      "romaji": "Shoujo Ramune",
-      "english": null,
-      "native": "小女ラムネ",
-      "userPreferred": "Shoujo Ramune"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 19,
-    "seasonYear": 2016,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21828-3KDKm3Zu2DyX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21828-3KDKm3Zu2DyX.jpg",
-      "color": "#50c9f1"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21828-GXL6divKjKiN.png",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1783004400
-        },
-        {
-          "episode": 8,
-          "airingAt": 1788447600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 103303,
     "idMal": 62856,
     "title": {
@@ -2762,50 +2726,54 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1783263600
+          "airingAt": 1783162800
         },
         {
           "episode": 2,
-          "airingAt": 1783868400
+          "airingAt": 1783164600
         },
         {
           "episode": 3,
-          "airingAt": 1784473200
+          "airingAt": 1783868400
         },
         {
           "episode": 4,
-          "airingAt": 1785078000
+          "airingAt": 1784473200
         },
         {
           "episode": 5,
-          "airingAt": 1785682800
+          "airingAt": 1785078000
         },
         {
           "episode": 6,
-          "airingAt": 1786287600
+          "airingAt": 1785682800
         },
         {
           "episode": 7,
-          "airingAt": 1786892400
+          "airingAt": 1786287600
         },
         {
           "episode": 8,
-          "airingAt": 1787497200
+          "airingAt": 1786892400
         },
         {
           "episode": 9,
-          "airingAt": 1788102000
+          "airingAt": 1787497200
         },
         {
           "episode": 10,
-          "airingAt": 1788706800
+          "airingAt": 1788102000
         },
         {
           "episode": 11,
-          "airingAt": 1789311600
+          "airingAt": 1788706800
         },
         {
           "episode": 12,
+          "airingAt": 1789311600
+        },
+        {
+          "episode": 13,
           "airingAt": 1789916400
         }
       ]
@@ -2827,7 +2795,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": 26,
+    "duration": null,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
@@ -2838,10 +2806,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783005960
-        },
         {
           "episode": 2,
           "airingAt": 1783610760
@@ -2937,10 +2901,13 @@
         {
           "episode": 25,
           "airingAt": 1797521160
+        },
+        {
+          "episode": 26,
+          "airingAt": 1798125960
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3776,41 +3743,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 186497,
-    "idMal": 60852,
-    "title": {
-      "romaji": "Koori no Jouheki",
-      "english": "The Ramparts of Ice",
-      "native": "氷の城壁",
-      "userPreferred": "Koori no Jouheki"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186497-uwPrNPphXvjP.jpg",
-      "color": "#e49343"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1783004160
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -4817,9 +4749,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-aBGjk68756e4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-aBGjk68756e4.jpg",
-      "color": "#78bbd6"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-bZKwhfo60EuF.jpg",
+      "color": "#aed6e4"
     },
     "isAdult": false,
     "bannerImage": null,
@@ -5808,40 +5740,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 198044,
-    "idMal": 64053,
-    "title": {
-      "romaji": "Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni",
-      "english": null,
-      "native": "蹂躙王国 エルフ王国は巨大苗床に",
-      "userPreferred": "Juurin Oukoku: Elf Oukoku wa Kyodai Naedoko ni"
-    },
-    "format": "OVA",
-    "genres": [
-      "Fantasy",
-      "Hentai"
-    ],
-    "duration": 30,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198044-0zDaRzQa1fk9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198044-0zDaRzQa1fk9.png",
-      "color": "#e48643"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198044-yMoNFMNlXj75.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783004400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 198376,
     "idMal": 62430,
     "title": {
@@ -5865,18 +5763,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198376-1b4DxjIUwMIY.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783000800
-        },
-        {
-          "episode": 2,
-          "airingAt": 1783002600
-        },
-        {
-          "episode": 3,
-          "airingAt": 1783004400
-        },
         {
           "episode": 4,
           "airingAt": 1783605600
@@ -5927,7 +5813,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7094,39 +6979,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 202896,
-    "idMal": null,
-    "title": {
-      "romaji": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne",
-      "english": null,
-      "native": "チートアイテム管理局のお仕事EX 散々ヤラれた後だし、どうせ全部忘れるから、被害者つまみ食いしてもいいよね",
-      "userPreferred": "Cheat Item Kanrikyoku no Oshigoto EX Sanzan Yarareta Ato Dashi Douse Zenbu Wasureru kara Higaisha Tsumamigui Shitemo Ii yo ne"
-    },
-    "format": "ONA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202896-bqOOG4UCuTTi.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202896-bqOOG4UCuTTi.png",
-      "color": "#a1bbe4"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783004400
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 202957,
     "idMal": 63042,
     "title": {
@@ -7380,43 +7232,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 203710,
-    "idMal": 60591,
-    "title": {
-      "romaji": "Wei Miao Rensheng",
-      "english": "Reborn as a Cat",
-      "native": "为喵人生",
-      "userPreferred": "Wei Miao Rensheng"
-    },
-    "format": "ONA",
-    "genres": [
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 10,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203710-HbV1yqxtBCaE.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203710-HbV1yqxtBCaE.jpg",
-      "color": "#5dc9e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1783594800
-        },
-        {
-          "episode": 38,
-          "airingAt": 1784199600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -7730,10 +7545,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783009680
-        },
-        {
           "episode": 2,
           "airingAt": 1783614480
         },
@@ -7779,7 +7590,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8510,10 +8320,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783006200
-        },
-        {
           "episode": 2,
           "airingAt": 1783611000
         },
@@ -8559,7 +8365,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8827,10 +8632,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1783004400
-        },
         {
           "episode": 3,
           "airingAt": 1783609200
@@ -9423,48 +9224,48 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1783524600
-        },
-        {
           "episode": 3,
-          "airingAt": 1784129400
+          "airingAt": 1783526400
         },
         {
           "episode": 4,
-          "airingAt": 1784734200
+          "airingAt": 1784131200
         },
         {
           "episode": 5,
-          "airingAt": 1785339000
+          "airingAt": 1784736000
         },
         {
           "episode": 6,
-          "airingAt": 1785943800
+          "airingAt": 1785340800
         },
         {
           "episode": 7,
-          "airingAt": 1786548600
+          "airingAt": 1785945600
         },
         {
           "episode": 8,
-          "airingAt": 1787153400
+          "airingAt": 1786550400
         },
         {
           "episode": 9,
-          "airingAt": 1787758200
+          "airingAt": 1787155200
         },
         {
           "episode": 10,
-          "airingAt": 1788363000
+          "airingAt": 1787760000
         },
         {
           "episode": 11,
-          "airingAt": 1788967800
+          "airingAt": 1788364800
         },
         {
           "episode": 12,
-          "airingAt": 1789572600
+          "airingAt": 1788969600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1789574400
         }
       ]
     },

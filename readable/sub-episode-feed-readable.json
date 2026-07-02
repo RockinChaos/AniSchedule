@@ -25,7 +25,7 @@
     "id": 180136,
     "idMal": 59741,
     "format": "TV",
-    "duration": 26,
+    "duration": 25,
     "episode": {
       "aired": 1,
       "airedAt": "2026-07-02T15:26:00Z",
@@ -159,8 +159,19 @@
     "format": "ONA",
     "duration": 24,
     "episode": {
+      "aired": 2,
+      "airedAt": "2026-07-01T16:00:00Z",
+      "addedAt": "2026-07-02T19:23:32Z"
+    }
+  },
+  {
+    "id": 209669,
+    "idMal": 63780,
+    "format": "ONA",
+    "duration": 24,
+    "episode": {
       "aired": 1,
-      "airedAt": "2026-07-01T15:30:00Z",
+      "airedAt": "2026-07-01T16:00:00Z",
       "addedAt": "2026-07-01T15:30:11Z"
     }
   },
