@@ -2092,6 +2092,62 @@
     "addedAt": "2026-07-02T07:00:00Z"
   },
   {
+    "title": "Yani Neko",
+    "route": "yani-neko",
+    "romaji": "Yani Neko",
+    "english": "Chainsmoker Cat",
+    "native": "ヤニねこ",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-16T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 207141,
+        "idMal": 63403,
+        "title": {
+          "romaji": "Yani Neko",
+          "english": "Chainsmoker Cat",
+          "native": "ヤニねこ",
+          "userPreferred": "Yani Neko"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207141-h5q5KJPd6vaX.jpg",
+          "color": "#50a1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-16T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-16T16:00:00Z"
+  },
+  {
     "title": "Yomi no Tsugai",
     "route": "yomi-no-tsugai",
     "romaji": "Yomi no Tsugai",
