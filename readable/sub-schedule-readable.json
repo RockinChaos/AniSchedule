@@ -498,10 +498,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 663,
-          "airingAt": 1783030200
-        },
-        {
           "episode": 664,
           "airingAt": 1783635000
         },
@@ -596,6 +592,10 @@
         {
           "episode": 687,
           "airingAt": 1797545400
+        },
+        {
+          "episode": 688,
+          "airingAt": 1798150200
         }
       ]
     },
@@ -1529,10 +1529,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 357,
-          "airingAt": 1783032000
-        },
-        {
           "episode": 358,
           "airingAt": 1783377600
         },
@@ -1627,6 +1623,10 @@
         {
           "episode": 381,
           "airingAt": 1790289600
+        },
+        {
+          "episode": 382,
+          "airingAt": 1790635200
         }
       ]
     },
@@ -5752,7 +5752,7 @@
     "genres": [
       "Music"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-sc5qcFv0RSH9.jpg",
@@ -5802,14 +5802,6 @@
         {
           "episode": 13,
           "airingAt": 1789048800
-        },
-        {
-          "episode": 14,
-          "airingAt": 1789653600
-        },
-        {
-          "episode": 15,
-          "airingAt": 1790258400
         }
       ]
     },
@@ -7533,7 +7525,7 @@
       "Romance",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
@@ -8308,7 +8300,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
@@ -8455,7 +8447,7 @@
       "native": "うしろの正面カムイさん",
       "userPreferred": "Ushiro no Shoumen Kamui-san"
     },
-    "format": "TV",
+    "format": "TV_SHORT",
     "genres": [
       "Comedy",
       "Ecchi",
@@ -10618,25 +10610,9 @@
       "color": "#1a86f1"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213484-zmNnSuAl8WvI.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783051200
-        },
-        {
-          "episode": 2,
-          "airingAt": 1783051260
-        },
-        {
-          "episode": 3,
-          "airingAt": 1783051320
-        },
-        {
-          "episode": 4,
-          "airingAt": 1783051380
-        },
         {
           "episode": 5,
           "airingAt": 1783396800
@@ -10723,7 +10699,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
