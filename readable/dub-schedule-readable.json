@@ -1942,6 +1942,7 @@
         "format": "ONA",
         "genres": [
           "Comedy",
+          "Music",
           "Romance"
         ],
         "duration": 24,
@@ -2154,6 +2155,7 @@
     "episodeDate": "2026-07-16T16:00:00Z",
     "episodeNumber": 1,
     "episodes": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
