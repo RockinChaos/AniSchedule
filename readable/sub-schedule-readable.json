@@ -3008,51 +3008,51 @@
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1783693800
-        },
-        {
-          "episode": 2,
           "airingAt": 1784298600
         },
         {
-          "episode": 3,
+          "episode": 2,
           "airingAt": 1784903400
         },
         {
-          "episode": 4,
+          "episode": 3,
           "airingAt": 1785508200
         },
         {
-          "episode": 5,
+          "episode": 4,
           "airingAt": 1786113000
         },
         {
-          "episode": 6,
+          "episode": 5,
           "airingAt": 1786717800
         },
         {
-          "episode": 7,
+          "episode": 6,
           "airingAt": 1787322600
         },
         {
-          "episode": 8,
+          "episode": 7,
           "airingAt": 1787927400
         },
         {
-          "episode": 9,
+          "episode": 8,
           "airingAt": 1788532200
         },
         {
-          "episode": 10,
+          "episode": 9,
           "airingAt": 1789137000
         },
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1789741800
         },
         {
-          "episode": 12,
+          "episode": 11,
           "airingAt": 1790346600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790951400
         }
       ]
     },
@@ -4198,10 +4198,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783089000
-        },
-        {
           "episode": 2,
           "airingAt": 1783693800
         },
@@ -4247,7 +4243,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6867,10 +6862,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1783089000
-        },
-        {
           "episode": 14,
           "airingAt": 1783693800
         },
@@ -7086,7 +7077,7 @@
     "idMal": 63061,
     "title": {
       "romaji": "Uchi no Otouto-domo ga Sumimasen",
-      "english": "Sorry About My Little Brothers",
+      "english": "Please Excuse My Younger Brothers",
       "native": "うちの弟どもがすみません",
       "userPreferred": "Uchi no Otouto-domo ga Sumimasen"
     },
@@ -7107,10 +7098,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783090800
-        },
         {
           "episode": 2,
           "airingAt": 1783695600
@@ -7205,7 +7192,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8435,7 +8421,7 @@
       "Ecchi",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
@@ -8446,10 +8432,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783096200
-        },
         {
           "episode": 2,
           "airingAt": 1783701000
@@ -8496,7 +8478,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9397,7 +9378,7 @@
     "idMal": 63817,
     "title": {
       "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-      "english": null,
+      "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
       "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
       "userPreferred": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
     },
@@ -9418,10 +9399,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783094400
-        },
         {
           "episode": 2,
           "airingAt": 1783699200
@@ -9468,7 +9445,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -10934,6 +10910,80 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 213831,
+    "idMal": null,
+    "title": {
+      "romaji": "Snack HAZAMA",
+      "english": "Snack Hazama",
+      "native": "スナックはざま-HAZAMA-",
+      "userPreferred": "Snack HAZAMA"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Supernatural"
+    ],
+    "duration": 12,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213831-jrH7JR6feW1q.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213831-jrH7JR6feW1q.png",
+      "color": "#e48628"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1783701720
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784306520
+        },
+        {
+          "episode": 4,
+          "airingAt": 1784911320
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785516120
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786120920
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786725720
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787330520
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787935320
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788540120
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789144920
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789749720
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
