@@ -2,12 +2,12 @@ name: Update Dub Schedules
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '*/15 * * * *'  # Run every 15 minutes
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
   resolve-dub-schedules-and-upload:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     timeout-minutes: 4
 
     steps:

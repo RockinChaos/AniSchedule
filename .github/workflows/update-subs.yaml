@@ -2,7 +2,7 @@ name: Update Sub Schedules
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Run every 6 hours
+    - cron: '0 * * * *'  # Run every hour
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
