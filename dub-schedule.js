@@ -58,10 +58,8 @@ export async function fetchDubSchedule() {
     const changes = []
 
     const { writeFile } = await import('node:fs/promises')
-    const { exactMatch, matchKeys } = await import('./utils/anime.js')
     const { anilistClient } = await import('./utils/anilist.js')
     const { malDubs } = await import('./utils/animedubs.js')
-    const { default: AnimeResolver } = await import('./utils/animeresolver.js')
 
     const BEARER_TOKEN = process.env.ANIMESCHEDULE_TOKEN
     if (!BEARER_TOKEN) {
@@ -236,108 +234,52 @@ export async function fetchDubSchedule() {
 
     const airing = airingLists
     const mediaID = /(?:https?:\/\/)?(?:www\.)?(?:myanimelist\.net\/anime\/|anilist\.co\/anime\/)(\d+)/
-    const titles = []
-    const order = []
+    const order = [] // { route, media }
 
-    airing.forEach((entry) => { // HACK: Stupid fixes for AniList breaking up series into multiple entries.
-        if (entry.route === 'kimetsu-no-yaiba-movie-mugen-jou-hen') { // Demon Slayer: Infinity Castle, this is broken up into three parts instead of nesting.
-            if (entry.episodeNumber === 1) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai'
-            else if (entry.episodeNumber === 2) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 2'
-            else if (entry.episodeNumber === 3) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 3'
+    // airing.forEach((entry) => { // HACK: Stupid fixes for AniList breaking up series into multiple entries.
+    //     if (entry.route === 'kimetsu-no-yaiba-movie-mugen-jou-hen') { // Demon Slayer: Infinity Castle, this is broken up into three parts instead of nesting.
+    //         if (entry.episodeNumber === 1) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai'
+    //         else if (entry.episodeNumber === 2) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 2'
+    //         else if (entry.episodeNumber === 3) entry.romaji = 'Kimetsu no Yaiba: Mugenjou-hen Movie 3'
+    //     }
+    // })
+
+    // Fetch schedule details (which include website links) for every route.
+    const scheduleDetails = await Promise.all(airing.map(entry => fetchAiringSchedule({ type: 'anime', route: entry.route, token: BEARER_TOKEN })))
+
+    const aniListIds = []
+    const malIds = []
+    const idLookup = [] // { route, id, isAniList }
+
+    airing.forEach((entry, index) => {
+        const detail = scheduleDetails[index]
+        const url = detail?.websites?.aniList || detail?.websites?.mal
+        const match = url?.match(mediaID)
+        if (!match) {
+            changes.push(`No AniList/MAL URL found for ${entry.route}, cannot resolve, this is a BIG deal!!`)
+            console.log(`Failed to find an AniList/MAL URL for route ${entry.route}`)
+            return
         }
+        idLookup.push({ route: entry.route, id: match[1], isAniList: !!detail?.websites?.aniList })
+        if (!!detail?.websites?.aniList) aniListIds.push(Number(match[1]))
+        else malIds.push(Number(match[1]))
     })
 
-    const normalize = (str) => (str || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '') // stupid fix because AniList search has doesn't even work with its own provided titles anymore...
+    // Batch resolve every ID in as few requests as possible.
+    const [aniListResults, malResults] = await Promise.all([
+        aniListIds.length ? anilistClient.searchIDS({ id: aniListIds, perPage: aniListIds.length }) : null,
+        malIds.length ? anilistClient.searchIDS({ idMal: malIds, perPage: malIds.length }) : null
+    ])
 
-    // Resolve routes as titles
-    const parseObjs = await AnimeResolver.findAndCacheTitle(airing.map(item => normalize(item.romaji || item.route)))
-
-    for (const parseObj of parseObjs) {
-        const media = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObj)]
-        const threshold = parseObj?.anime_title?.length > 15 ? 0.2 : parseObj?.anime_title?.length > 9 ? 0.15 : 0.1 // play nice with small anime titles
-        const verification = !matchKeys(media, parseObj.anime_title, ['title.userPreferred', 'title.english', 'title.romaji'], threshold)
-        console.log(`Resolving route ${parseObj?.anime_title} as ${media?.title?.userPreferred} which is ${verification ? 'needs verification' : 'verified'}`)
-        let item
-
-        if (!media || verification) { // Resolve failed routes
-            console.log(`Failed to resolve, trying alternative title(s) for ${parseObj?.anime_title}`)
-            item = airing.find(i => exactMatch(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'])) || airing.find(i => matchKeys(i, parseObj?.anime_title, ['route', 'title', 'romaji', 'english', 'native'], threshold))
-            const altTitles = [normalize(item.romaji), normalize(item.english), normalize(item.title), normalize(item.native)].filter(Boolean)
-            const fallbackTitles = await AnimeResolver.findAndCacheTitle(altTitles)
-            let attempt = 0
-            for (const parseObjAlt of fallbackTitles) {
-                attempt++
-                const usedRoutes = new Set(order.map(o => o.route))
-                const mediaAlt = AnimeResolver.animeNameCache[AnimeResolver.getCacheKeyForTitle(parseObjAlt)]
-                const altVerification = !matchKeys(mediaAlt, parseObjAlt.anime_title, ['title.userPreferred', 'title.english', 'title.romaji', 'title.native'], threshold)
-                console.log(`Resolving ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred} which is ${altVerification ? 'needs verification' : 'verified'}`)
-                if (mediaAlt && !altVerification && !usedRoutes.has(item.route)) {
-                    titles.push(parseObjAlt.anime_title)
-                    order.push({route: item.route, title: mediaAlt.title.userPreferred})
-                    console.log(`Resolved alternative title ${parseObjAlt?.anime_title} as ${mediaAlt?.title?.userPreferred}`)
-                    break
-                } else if (attempt === altTitles.length && (!mediaAlt || altVerification)) { // anilist is sometimes just crap at resolving some titles as they use weird uni characters in the name or some titles just have a very similar name and anilist just doesn't check itself...
-                    console.log(`Failed to resolve alternatives title(s), trying to fetch database URL's directly for ${parseObj?.anime_title}`)
-                    let fallback = false
-                    const fallbackRoute = await fetchAiringSchedule({type: 'anime', route: item.route, token: BEARER_TOKEN})
-                    for (const url of [fallbackRoute?.websites?.aniList, fallbackRoute?.websites?.mal].filter(Boolean)) {
-                        if (!url || fallback) continue
-                        const match = url.match(mediaID)
-                        if (match) { // thank god there is at least one url...
-                            console.log(`Found ID ${match[1]} from URL ${url}, attempting to locate media for ${parseObj?.anime_title}`)
-                            const res = await anilistClient.searchIDS({...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] })})
-                            const usedRoutes = new Set(order.map(o => o.route))
-                            const media = !usedRoutes.has(item.route) && res?.data?.Page?.media[0]
-                            if (media) { // yippie the impossible was made possible.
-                                AnimeResolver.cacheAnimeName(media.title.userPreferred, media)
-                                titles.push(media.title.userPreferred)
-                                order.push({route: item.route, title: media.title.userPreferred})
-                                console.log(`Resolved route ${parseObj?.anime_title} from URL ${url} as ${media?.title?.userPreferred}`)
-                                fallback = true
-                            }
-                        }
-                    }
-                    if (!fallback) { // well sucks to be you I guess...
-                        changes.push(`Failed to resolve alternative title(s) ${parseObj?.anime_title}, things will not work as expected, this is a BIG deal!!`)
-                        console.log(`Failed to resolve alternative title(s) ${parseObj?.anime_title}`)
-                    }
-                } else {
-                    console.log(`Failed to resolve alternative title ${parseObjAlt?.anime_title} for ${parseObj?.anime_title}`)
-                }
-            }
+    const resolvedMedia = [ ...(aniListResults?.data?.Page?.media || []), ...(malResults?.data?.Page?.media || []) ]
+    for (const { route, id, isAniList } of idLookup) {
+        const media = resolvedMedia.find(media => isAniList ? String(media.id) === String(id) : String(media.idMal) === String(id))
+        if (media) {
+            order.push({ route, media })
+            console.log(`Resolved route ${route} via ${isAniList ? 'AniList' : 'MAL'} ID ${id} as ${media.title.userPreferred}`)
         } else {
-            const usedRoutes = new Set(order.map(o => o.route))
-            item = airing.find(i => !usedRoutes.has(i.route) && exactMatch(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'])) || airing.find(i => !usedRoutes.has(i.route) && matchKeys(i, parseObj?.anime_title, ['route', 'romaji', 'english', 'title', 'native'], threshold))
-            if (item) {
-                titles.push(parseObj.anime_title)
-                order.push({route: item.route, title: media.title.userPreferred})
-                console.log(`Resolved route ${item.route}: ${parseObj?.anime_title} as ${media?.title?.userPreferred}`)
-            } else { // anilist is sometimes just crap at resolving some titles as they use weird uni characters in the name or some titles just have a very similar name and anilist just doesn't check itself...
-                console.log(`Failed to resolve route ${parseObj?.anime_title}, trying to fetch database URL's directly`)
-                let fallback = false
-                const fallbackRoute = await fetchAiringSchedule({type: 'anime', route: item.route, token: BEARER_TOKEN})
-                for (const url of [fallbackRoute?.websites?.aniList, fallbackRoute?.websites?.mal].filter(Boolean)) {
-                    if (!url || fallback) continue
-                    const match = url.match(mediaID)
-                    if (match) { // thank god there is at least one url...
-                        console.log(`Found ID ${match[1]} from URL ${url}, attempting to locate media for ${parseObj?.anime_title}`)
-                        const res = await anilistClient.searchIDS({...(url.toLowerCase().includes('anilist') ? { id: match[1] } : { idMal: match[1] })})
-                        const usedRoutes = new Set(order.map(o => o.route))
-                        const media = !usedRoutes.has(item.route) && res?.data?.Page?.media[0]
-                        if (media) { // yippie the impossible was made possible.
-                            AnimeResolver.cacheAnimeName(media.title.userPreferred, media)
-                            titles.push(media.title.userPreferred)
-                            order.push({route: item.route, title: media.title.userPreferred})
-                            console.log(`Resolved route ${parseObj?.anime_title} from URL ${url} as ${media?.title?.userPreferred}`)
-                            fallback = true
-                        }
-                    }
-                }
-                if (!fallback) { // well sucks to be you I guess...
-                    changes.push(`Failed to resolve route ${parseObj?.anime_title}, things will not work as expected, this is a BIG deal!!`)
-                    console.log(`Failed to resolve route ${parseObj?.anime_title}`)
-                }
-            }
+            changes.push(`Failed to resolve route ${route} via ID ${id}, things will not work as expected, this is a BIG deal!!`)
+            console.log(`Failed to resolve route ${route} via ID ${id}`)
         }
     }
 
@@ -351,15 +293,10 @@ export async function fetchDubSchedule() {
         entry.unaired = ((entry.episodeNumber <= 1 || (entry.subtractedEpisodeNumber <= 1 && entry.episodeNumber > 1)) && Math.floor(new Date(entry.episodeDate).getTime()) > Math.floor(Date.now()))
     })
 
-    // Resolve found titles
-    const results = await AnimeResolver.resolveFileAnime(titles)
-
-    // Create combined results by mapping the resolved data to airingItems
+    // Create combined results by mapping the resolved media to airingItems
     let combinedResults = airing.map(({ donghua, status, airType, imageVersionRoute, streams, airingStatus, ...airingItem }) => {
         // Find the resolved media match for the current airing item
-        const entry = order.find(o => o.route === airingItem.route)
-        const cachedTitle = AnimeResolver.animeNameCache[order.find(o => o.route === airingItem.route)?.route]?.title?.userPreferred
-        const mediaMatch = results?.find(result => result.media?.title?.userPreferred === cachedTitle) || results?.find(result => result.media?.title?.userPreferred === entry?.title)
+        const resolved = order.find(o => o.route === airingItem.route)
         const numberOfEpisodes = airingItem.subtractedEpisodeNumber ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 1
         const predictedEpisode = airingItem.episodeNumber + ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired ? 0 : ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) && (!airingItem.episodes || (airingItem.episodeNumber < airingItem.episodes)) ? ((airingItem.subtractedEpisodeNumber >= 1 && (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) > 1 ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 0) + 1) : 0))
         const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i)
@@ -367,10 +304,10 @@ export async function fetchDubSchedule() {
 
         return {
             ...airingItem, // Include all original airing list data
-            ...(mediaMatch && {
+            ...(resolved?.media && {
                 media: {
                     media: {
-                        ...stripRelations(mediaMatch.media),
+                        ...stripRelations(resolved.media),
                         airingSchedule: {
                             nodes: range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode).map((ep) => ({
                                 episode: ep,

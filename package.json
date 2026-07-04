@@ -1,6 +1,6 @@
 {
   "name": "anischedule",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "type": "module",
   "description": "A fully automated tool that fetches and organizes schedules and episode feeds for current airing anime, including dubs, subs, and hentai.",
@@ -26,9 +26,6 @@
   },
   "keywords": ["anime", "schedule", "episode-feed", "dub", "sub", "hentai", "automation"],
   "dependencies": {
-    "anitomyscript": "https://codeload.github.com/ThaUnknown/anitomyscript/tar.gz/21a751e60a9efca83adb502212a3298f0e9a31e6",
-    "bottleneck": "^2.19.5",
-    "fuse.js": "^7.4.2",
-    "js-levenshtein": "^1.1.6"
+    "bottleneck": "^2.19.5"
   }
 }

@@ -1,4 +1,3 @@
-import lavenshtein from 'js-levenshtein'
 import Bottleneck from 'bottleneck'
 import { sleep } from './util.js'
 
@@ -50,83 +49,6 @@ airingSchedule(page: 1, perPage: 50, notYetAired: false) {
   }
 }`
 
-const queryComplexObjects = /* js */`
-description(asHtml: false),
-season,
-status,
-episodes,
-averageScore,
-source,
-countryOfOrigin,
-synonyms,
-tags {
-  name,
-  rank
-},
-studios(sort: NAME, isMain: true) {
-  nodes {
-    name
-  }
-},
-stats {
-  scoreDistribution {
-    score,
-    amount
-    }
-},
-nextAiringEpisode {
-  timeUntilAiring,
-  episode
-},
-trailer {
-  id,
-  site
-},
-streamingEpisodes {
-  title,
-  thumbnail
-},
-relations {
-  edges {
-    relationType(version:2),
-    node {
-      id,
-      type,
-      format,
-      seasonYear
-    }
-  }
-},
-studios(sort: NAME, isMain: true) {
-  nodes {
-    name
-  }
-},
-recommendations {
-  edges {
-    node {
-      rating,
-      mediaRecommendation {
-        id
-      }
-    }
-  }
-}`
-
-/**
- * @param {import('./types/al.d.ts').Media & {lavenshtein?: number}} media
- * @param {string} name
- */
-function getDistanceFromTitle (media, name) {
-    if (media) {
-        const titles = Object.values(media.title).filter(v => v).map(title => lavenshtein(title.toLowerCase(), name.toLowerCase()))
-        const synonyms = media.synonyms.filter(v => v).map(title => lavenshtein(title.toLowerCase(), name.toLowerCase()) + 2)
-        const distances = [...titles, ...synonyms]
-        media.lavenshtein = distances.reduce((prev, curr) => prev < curr ? prev : curr)
-        return media
-    }
-}
-
 class AnilistClient {
 
     limiter = new Bottleneck({
@@ -176,22 +98,6 @@ class AnilistClient {
             media(id_not_in: $id_not, idMal_not_in: $idMal_not, idMal_in: $idMal, type: ANIME, search: $search, sort: $sort, onList: $onList, status: $status, status_not: $status_not, season: $season, seasonYear: $year, genre_in: $genre, tag_in: $tag, format: $format, format_not: MUSIC) {
               ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
             }
-          }
-        }`
-        return await this.alRequest(query, variables)
-    }
-
-    /**
-     * Searches for a single media item by ID.
-     * @param {Object} variables - The search parameters.
-     * @returns {Promise<Query<{media: Media[]}>>} - The result of the search, containing a single media item.
-     */
-    async searchIDSingle (variables) {
-        console.log(`Searching for ID: ${variables?.id}`)
-        const query = /* js */` 
-        query($id: Int) { 
-          Media(id: $id, type: ANIME) {
-            ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
           }
         }`
         return await this.alRequest(query, variables)
@@ -340,67 +246,6 @@ class AnilistClient {
             }
           }`
         return await this.alRequest(query, variables)
-    }
-
-    /**
-     * @param {{key: string, title: string, year?: string, isAdult: boolean}[]} flattenedTitles
-     **/
-    async alSearchCompound (flattenedTitles) {
-        console.log(`Searching for ${flattenedTitles?.length} titles via compound search`)
-        if (!flattenedTitles.length) return []
-        // isAdult doesn't need an extra variable, as the title is the same regardless of type, so we re-use the same variable for adult and non-adult requests
-        /** @type {Record<`v${number}`, string>} */
-        const requestVariables = flattenedTitles.reduce((obj, { title, isAdult }, i) => {
-            if (isAdult && i !== 0) return obj
-            obj[`v${i}`] = title
-            return obj
-        }, {})
-
-        const queryVariables = flattenedTitles.reduce((arr, { isAdult }, i) => {
-            if (isAdult && i !== 0) return arr
-            arr.push(`$v${i}: String`)
-            return arr
-        }, []).join(', ')
-        const fragmentQueries = flattenedTitles.map(({ year, isAdult }, i) => /* js */`
-            v${i}: Page(perPage: 10) {
-              media(type: ANIME, search: $v${(isAdult && i !== 0) ? i - 1 : i}, status_in: [NOT_YET_RELEASED, RELEASING, FINISHED], id_not: 209963, isAdult: ${!!isAdult} ${year ? `, seasonYear: ${year}` : ''}) {
-                ...med
-              }
-            }`)
-
-        const query = /* js */`
-            query(${queryVariables}) {
-              ${fragmentQueries}
-            }
-            
-            fragment&nbsp;med&nbsp;on&nbsp;Media {
-              id,
-              title {
-                romaji,
-                english,
-                native
-              },
-              synonyms
-            }`
-
-        /**
-         * @type {import('./types/al.d.ts').Query<Record<string, {media: import('./types/al.d.ts').Media[]}>>}
-         * @returns {Promise<[string, import('./types/al.d.ts').Media][]>}
-         * */
-        const res = await this.alRequest(query, requestVariables)
-
-        /** @type {Record<string, number>} */
-        const searchResults = {}
-        for (const [variableName, { media }] of Object.entries(res.data)) {
-            if (!media.length) continue
-            const titleObject = flattenedTitles[Number(variableName.slice(1))]
-            if (searchResults[titleObject.key]) continue
-            searchResults[titleObject.key] = media.map(media => getDistanceFromTitle(media, titleObject.title)).reduce((prev, curr) => prev.lavenshtein <= curr.lavenshtein ? prev : curr).id
-        }
-
-        const ids = Object.values(searchResults)
-        const search = await this.searchIDS({ id: ids, perPage: 50 })
-        return Object.entries(searchResults).map(([filename, id]) => [filename, search.data.Page.media.find(media => media.id === id)])
     }
 
     /**

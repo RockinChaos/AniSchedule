@@ -4,17 +4,6 @@ import path from 'path'
 export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.())
 
 /**
- * @template T
- * @param {T[]} arr
- * @param {number} n
- */
-export function * chunks (arr, n) {
-    for (let i = 0; i < arr.length; i += n) {
-        yield arr.slice(i, i + n)
-    }
-}
-
-/**
  * @param {Date} episodeDate The date to compare and correct
  * @param {number} weeks The number of weeks past the episodeDate
  * @param {boolean} skip Add the specified number of weeks regardless of the episodeDate having past
@@ -231,11 +220,11 @@ export function crossesDSTBoundary(previousDate, currentDate) {
 
 /**
  * @param {Date} date1 The date to be compared to date2 (or today)
- * @param {Date} date2 The most recent date to be compared (leave empty for today's date).
+ * @param {Date} [date2=new Date()] The most recent date to be compared (leave empty for today's date).
  * @returns {number} The number of days difference between the specified date and today.
  */
-export function daysAgo(date1, date2) {
-    return Math.floor(((date2 || new Date()) - date1) / (1000 * 60 * 60 * 24));
+export function daysAgo(date1, date2 = new Date()) {
+    return Math.floor((date2 - date1) / (1000 * 60 * 60 * 24));
 }
 
 /**
