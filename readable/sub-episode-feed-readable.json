@@ -5,6 +5,28 @@
     "format": "TV",
     "duration": 25,
     "episode": {
+      "aired": 2,
+      "airedAt": "2026-07-04T14:30:00Z",
+      "addedAt": "2026-07-04T14:30:01Z"
+    }
+  },
+  {
+    "id": 195600,
+    "idMal": 62001,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 13,
+      "airedAt": "2026-07-04T14:30:00Z",
+      "addedAt": "2026-07-04T14:30:01Z"
+    }
+  },
+  {
+    "id": 190569,
+    "idMal": 61483,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
       "aired": 1,
       "airedAt": "2026-07-04T14:00:00Z",
       "addedAt": "2026-07-04T14:00:07Z"
