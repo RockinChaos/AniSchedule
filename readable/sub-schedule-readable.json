@@ -4377,10 +4377,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1783175400
-        },
-        {
           "episode": 3,
           "airingAt": 1783780200
         },
@@ -4557,10 +4553,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783179000
-        },
-        {
           "episode": 2,
           "airingAt": 1783783800
         },
@@ -4606,7 +4598,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4741,10 +4732,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1783175400
-        },
         {
           "episode": 14,
           "airingAt": 1783780200
@@ -4899,10 +4886,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1783176360
-        },
-        {
           "episode": 15,
           "airingAt": 1783781160
         },
@@ -4977,10 +4960,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783177200
-        },
-        {
           "episode": 2,
           "airingAt": 1783782000
         },
@@ -5026,7 +5005,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5692,7 +5670,10 @@
     },
     "format": "TV",
     "genres": [
-      "Music"
+      "Comedy",
+      "Drama",
+      "Music",
+      "Slice of Life"
     ],
     "duration": 24,
     "seasonYear": 2026,
@@ -9570,10 +9551,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1783177200
-        },
         {
           "episode": 13,
           "airingAt": 1783782000
