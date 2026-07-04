@@ -2705,7 +2705,7 @@
       "Ecchi",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
@@ -3276,7 +3276,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
@@ -3491,10 +3491,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783180500
-        },
-        {
           "episode": 2,
           "airingAt": 1783785300
         },
@@ -3540,7 +3536,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3655,10 +3650,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783180800
-        },
-        {
           "episode": 2,
           "airingAt": 1783785600
         },
@@ -3708,7 +3699,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3957,7 +3947,7 @@
       "Sci-Fi",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
@@ -4365,7 +4355,7 @@
     "genres": [
       "Drama"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
@@ -4942,7 +4932,7 @@
     "idMal": 62051,
     "title": {
       "romaji": "Grow Up Show: Himawari no Circus-dan",
-      "english": "GROW UP SHOW -Sunflower Circus-",
+      "english": "Grow Up Show",
       "native": "グロウアップショウ ～ひまわりのサーカス団～",
       "userPreferred": "Grow Up Show: Himawari no Circus-dan"
     },
@@ -7817,7 +7807,7 @@
       "Action",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
@@ -8593,10 +8583,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783182600
-        },
-        {
           "episode": 2,
           "airingAt": 1783787400
         },
@@ -8642,7 +8628,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
