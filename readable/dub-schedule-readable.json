@@ -420,7 +420,7 @@
       }
     ],
     "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 185542,
@@ -450,8 +450,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-04T11:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-11T11:30:00Z"
             }
           ]
         },
