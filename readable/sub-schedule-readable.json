@@ -3392,10 +3392,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 66,
-          "airingAt": 1783206000
-        },
-        {
           "episode": 67,
           "airingAt": 1783810800
         },
@@ -3490,6 +3486,10 @@
         {
           "episode": 90,
           "airingAt": 1797721200
+        },
+        {
+          "episode": 91,
+          "airingAt": 1798326000
         }
       ]
     },
@@ -6327,51 +6327,56 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1783236600
+        },
+        {
           "episode": 2,
-          "airingAt": 1783798200
+          "airingAt": 1783841400
         },
         {
           "episode": 3,
-          "airingAt": 1784403000
+          "airingAt": 1784446200
         },
         {
           "episode": 4,
-          "airingAt": 1785007800
+          "airingAt": 1785051000
         },
         {
           "episode": 5,
-          "airingAt": 1785612600
+          "airingAt": 1785655800
         },
         {
           "episode": 6,
-          "airingAt": 1786217400
+          "airingAt": 1786260600
         },
         {
           "episode": 7,
-          "airingAt": 1786822200
+          "airingAt": 1786865400
         },
         {
           "episode": 8,
-          "airingAt": 1787427000
+          "airingAt": 1787470200
         },
         {
           "episode": 9,
-          "airingAt": 1788031800
+          "airingAt": 1788075000
         },
         {
           "episode": 10,
-          "airingAt": 1788636600
+          "airingAt": 1788679800
         },
         {
           "episode": 11,
-          "airingAt": 1789241400
+          "airingAt": 1789284600
         },
         {
           "episode": 12,
-          "airingAt": 1789846200
+          "airingAt": 1789889400
         }
       ]
     },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6918,10 +6923,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1783207800
-        },
-        {
           "episode": 24,
           "airingAt": 1783812600
         },
@@ -7016,6 +7017,10 @@
         {
           "episode": 47,
           "airingAt": 1797723000
+        },
+        {
+          "episode": 48,
+          "airingAt": 1798327800
         }
       ]
     },
@@ -10134,39 +10139,6 @@
         {
           "episode": 1,
           "airingAt": 1789657200
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 213097,
-    "idMal": 64357,
-    "title": {
-      "romaji": "TOMICA & TOM Season 2",
-      "english": null,
-      "native": "トミカとトム シーズン2",
-      "userPreferred": "TOMICA & TOM Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213097-gyDmsm7qyRYV.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213097-gyDmsm7qyRYV.png",
-      "color": "#f1ae35"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783207800
         }
       ]
     },
