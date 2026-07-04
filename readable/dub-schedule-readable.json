@@ -1322,6 +1322,63 @@
     "addedAt": "2026-04-02T15:30:00Z"
   },
   {
+    "title": "Kore Kaite Shine",
+    "route": "kore-kaite-shine",
+    "romaji": "Kore Kaite Shine",
+    "english": "Draw This, Then Die!",
+    "native": "これ描いて死ね",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-07-03T15:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188525,
+        "idMal": 61280,
+        "title": {
+          "romaji": "Kore Kaite Shine",
+          "english": "Draw This, Then Die!",
+          "native": "これ描いて死ね",
+          "userPreferred": "Kore Kaite Shine"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188525-TBVfJaCZrcfg.jpg",
+          "color": "#f1bb0d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-10T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-04T02:34:12Z"
+  },
+  {
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
@@ -1840,8 +1897,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
-              "airingAt": "2026-07-04T01:00:00Z"
+              "episode": 15,
+              "airingAt": "2026-07-11T01:00:00Z"
             }
           ]
         },
