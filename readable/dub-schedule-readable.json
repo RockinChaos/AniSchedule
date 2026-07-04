@@ -101,8 +101,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         },
@@ -262,7 +262,7 @@
           "Sci-Fi",
           "Supernatural"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
@@ -438,7 +438,7 @@
           "Comedy",
           "Fantasy"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185542-6a9LCWlLHa0T.jpg",
@@ -465,7 +465,7 @@
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
-    "english": "Grow Up Show: Sunflower Cirus",
+    "english": "Grow Up Show: Sunflower Circus",
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
@@ -478,14 +478,14 @@
       }
     ],
     "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 196017,
         "idMal": 62051,
         "title": {
           "romaji": "Grow Up Show: Himawari no Circus-dan",
-          "english": "GROW UP SHOW -Sunflower Circus-",
+          "english": "Grow Up Show",
           "native": "グロウアップショウ ～ひまわりのサーカス団～",
           "userPreferred": "Grow Up Show: Himawari no Circus-dan"
         },
@@ -503,8 +503,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         },
@@ -2106,8 +2106,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-07-04T16:30:00Z"
+              "episode": 14,
+              "airingAt": "2026-07-11T16:30:00Z"
             }
           ]
         },
@@ -2463,8 +2463,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-07-04T16:00:00Z"
+              "episode": 13,
+              "airingAt": "2026-07-11T16:00:00Z"
             }
           ]
         },
