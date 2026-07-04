@@ -1400,10 +1400,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 160,
-          "airingAt": 1783130400
-        },
-        {
           "episode": 161,
           "airingAt": 1783735200
         },
@@ -1498,6 +1494,10 @@
         {
           "episode": 184,
           "airingAt": 1797645600
+        },
+        {
+          "episode": 185,
+          "airingAt": 1798250400
         }
       ]
     },
@@ -1658,10 +1658,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 223,
-          "airingAt": 1783117800
-        },
         {
           "episode": 224,
           "airingAt": 1783722600
@@ -1835,99 +1831,99 @@
       "nodes": [
         {
           "episode": 143,
-          "airingAt": 1783677300
-        },
-        {
-          "episode": 144,
           "airingAt": 1784282100
         },
         {
-          "episode": 145,
+          "episode": 144,
           "airingAt": 1784886900
         },
         {
-          "episode": 146,
+          "episode": 145,
           "airingAt": 1785491700
         },
         {
-          "episode": 147,
+          "episode": 146,
           "airingAt": 1786096500
         },
         {
-          "episode": 148,
+          "episode": 147,
           "airingAt": 1786701300
         },
         {
-          "episode": 149,
+          "episode": 148,
           "airingAt": 1787306100
         },
         {
-          "episode": 150,
+          "episode": 149,
           "airingAt": 1787910900
         },
         {
-          "episode": 151,
+          "episode": 150,
           "airingAt": 1788515700
         },
         {
-          "episode": 152,
+          "episode": 151,
           "airingAt": 1789120500
         },
         {
-          "episode": 153,
+          "episode": 152,
           "airingAt": 1789725300
         },
         {
-          "episode": 154,
+          "episode": 153,
           "airingAt": 1790330100
         },
         {
-          "episode": 155,
+          "episode": 154,
           "airingAt": 1790934900
         },
         {
-          "episode": 156,
+          "episode": 155,
           "airingAt": 1791539700
         },
         {
-          "episode": 157,
+          "episode": 156,
           "airingAt": 1792144500
         },
         {
-          "episode": 158,
+          "episode": 157,
           "airingAt": 1792749300
         },
         {
-          "episode": 159,
+          "episode": 158,
           "airingAt": 1793354100
         },
         {
-          "episode": 160,
+          "episode": 159,
           "airingAt": 1793958900
         },
         {
-          "episode": 161,
+          "episode": 160,
           "airingAt": 1794563700
         },
         {
-          "episode": 162,
+          "episode": 161,
           "airingAt": 1795168500
         },
         {
-          "episode": 163,
+          "episode": 162,
           "airingAt": 1795773300
         },
         {
-          "episode": 164,
+          "episode": 163,
           "airingAt": 1796378100
         },
         {
-          "episode": 165,
+          "episode": 164,
           "airingAt": 1796982900
         },
         {
-          "episode": 166,
+          "episode": 165,
           "airingAt": 1797587700
+        },
+        {
+          "episode": 166,
+          "airingAt": 1798192500
         }
       ]
     },
@@ -2791,7 +2787,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
@@ -3084,10 +3080,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1783124760
-        },
         {
           "episode": 15,
           "airingAt": 1783729560
@@ -4186,7 +4178,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg",
@@ -5166,7 +5158,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196218-UsdTTCrwpDIN.jpg",
@@ -6278,7 +6270,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199748-PAFk9pGSUmFL.png",
@@ -6588,7 +6580,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
@@ -7087,7 +7079,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203490-YQXiymUiDQNA.jpg",
@@ -7209,7 +7201,7 @@
       "Horror",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203880-lnruKftb27Nr.png",
@@ -9388,7 +9380,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
@@ -9901,7 +9893,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 2,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg",
@@ -9912,10 +9904,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783121400
-        },
         {
           "episode": 2,
           "airingAt": 1783726200
@@ -9962,7 +9950,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -10984,6 +10971,69 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213847,
+    "idMal": 61546,
+    "title": {
+      "romaji": "Star Wars: Visions - Kyuuninme no Jedi",
+      "english": "Star Wars: Visions Presents - The Ninth Jedi",
+      "native": "Star Wars：ビジョンズ 九人目のジェダイ",
+      "userPreferred": "Star Wars: Visions - Kyuuninme no Jedi"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213847-emdj0kmGX3vv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213847-emdj0kmGX3vv.jpg",
+      "color": "#43e4a1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1785855600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1785855600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   }
 ]
