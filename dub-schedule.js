@@ -283,8 +283,13 @@ export async function fetchDubSchedule() {
         }
     }
 
+    const scheduleDetailsMap = new Map(scheduleDetails.filter(Boolean).map(detail => [detail.route, detail]))
+
     // modify timetables entries for better functionality and fix any offset minutes.
     airing.forEach((entry) => {
+        const detail = scheduleDetailsMap.get(entry.route)
+        if (detail.dubEpisodeOverride.overrideDate) entry.overrideDate = detail.dubEpisodeOverride.overrideDate
+
         const episodeDate = new Date(entry.episodeDate)
         episodeDate.setMinutes(Math.floor((episodeDate.getMinutes() + 1) / 5) * 5, 0)
         entry.episodeDate = past(episodeDate, 0, true)
@@ -461,6 +466,7 @@ export async function updateDubFeed(optSchedule) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
             mediaEpisodes.sort((a, b) => b.episode.aired - a.episode.aired) // Sort by episode number in descending order
             const isInDSTTransition = isDSTTransitionMonth()
+            const isSameDayOverride = entry.overrideDate && entry.episodeNumber > 1 && !entry.subtractedEpisodeNumber && daysAgo(new Date(entry.overrideDate), new Date(entry.episodeDate)) < 1
             if (((entry.episodeNumber < 4 && !isInDSTTransition) || (!isInDSTTransition && daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) <= 8)) && ((entry.delayedFrom !== entry.episodeDate && entry.delayedUntil !== entry.episodeDate && (latestEpisodeInFeed.episode.aired > 1 || daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) > 5) && daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) < 120) || daysAgo(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.delayedFrom)) >= 7)) {
                 console.log(`Modifying existing episodes of ${entry.media.media.title.userPreferred} from the Dubbed Episode Feed due to a correction in the airing date`)
                 const originalAiredAt = mediaEpisodes.map(episode => episode.episode.airedAt)
@@ -471,6 +477,7 @@ export async function updateDubFeed(optSchedule) {
                 let zeroIndexDate
                 mediaEpisodes.forEach((episode, index) => {
                     const prevDate = episode.episode.airedAt
+                    if (isSameDayOverride && index !== 0) return
                     if (ignoreCorrection || isDSTTransitionMonth(prevDate) || crossesDSTBoundary(prevDate, originalAiredAt[index - 1])) {
                         ignoreCorrection = true
                         return
