@@ -757,10 +757,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783260000
-        },
-        {
           "episode": 2,
           "airingAt": 1783864800
         },
@@ -806,7 +802,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5495,37 +5490,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 197178,
-    "idMal": 62233,
-    "title": {
-      "romaji": "ONE PIECE HEROINES",
-      "english": "ONE PIECE HEROINES",
-      "native": "ONE PIECE HEROINES",
-      "userPreferred": "ONE PIECE HEROINES"
-    },
-    "format": "SPECIAL",
-    "genres": [],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197178-Ui8PY9HQbNgu.jpg",
-      "color": "#e45d86"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197178-kVx0Zt3P0MvD.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783260900
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 197715,
     "idMal": 62322,
     "title": {
@@ -5771,10 +5735,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783256400
-        },
-        {
           "episode": 2,
           "airingAt": 1783861200
         },
@@ -5820,7 +5780,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6393,10 +6352,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783258200
-        },
-        {
           "episode": 2,
           "airingAt": 1783863000
         },
@@ -6442,7 +6397,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
