@@ -748,9 +748,9 @@
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-ORmCjr9wDgbM.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-ORmCjr9wDgbM.jpg",
-      "color": "#f1bb50"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-IF43hFJPPv2Y.png",
+      "color": "#fec950"
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
@@ -2237,10 +2237,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783267200
-        },
-        {
           "episode": 2,
           "airingAt": 1783872000
         },
@@ -2286,7 +2282,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8660,10 +8655,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783267200
-        },
-        {
           "episode": 2,
           "airingAt": 1783872000
         },
@@ -8693,7 +8684,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9325,7 +9315,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
@@ -9743,7 +9733,7 @@
   },
   {
     "id": 212308,
-    "idMal": null,
+    "idMal": 64210,
     "title": {
       "romaji": "Pan no Akachan (TV)",
       "english": null,
