@@ -1865,6 +1865,8 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-07-05T14:00:00Z",
     "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 25,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1891,9 +1893,9 @@
         "duration": null,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-ORmCjr9wDgbM.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-ORmCjr9wDgbM.jpg",
-          "color": "#f1bb50"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-IF43hFJPPv2Y.png",
+          "color": "#fec950"
         },
         "isAdult": false,
         "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
@@ -2215,6 +2217,64 @@
     },
     "verified": true,
     "addedAt": "2026-04-15T16:15:00Z"
+  },
+  {
+    "title": "Sayonara Lara",
+    "route": "sayonara-lara",
+    "romaji": "Sayonara Lara",
+    "english": "Goodbye, Lara",
+    "native": "さよならララ",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-07-05T15:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 177637,
+        "idMal": 58878,
+        "title": {
+          "romaji": "Sayonara Lara",
+          "english": "Goodbye, Lara",
+          "native": "さよなら ララ",
+          "userPreferred": "Sayonara Lara"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177637-8onaQWqKW1C3.jpg",
+          "color": "#5daee4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177637-2Ok4Pq0SpvHp.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-12T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-05T23:47:52Z"
   },
   {
     "title": "Shunkashuutou Daikousha: Haru no Mai",
