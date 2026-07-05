@@ -4144,10 +4144,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 37,
-          "airingAt": 1783209600
-        },
-        {
           "episode": 38,
           "airingAt": 1783814400
         },
@@ -7986,10 +7982,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1783211400
-        },
-        {
           "episode": 15,
           "airingAt": 1783816200
         },
@@ -8084,6 +8076,10 @@
         {
           "episode": 38,
           "airingAt": 1797726600
+        },
+        {
+          "episode": 39,
+          "airingAt": 1798331400
         }
       ]
     },
@@ -8854,9 +8850,9 @@
     "duration": 5,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208824-kBd6Aoa7OWRF.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208824-kBd6Aoa7OWRF.png",
-      "color": null
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208824-JeKq65nNiFhA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208824-JeKq65nNiFhA.png",
+      "color": "#d6e41a"
     },
     "isAdult": false,
     "bannerImage": null,
