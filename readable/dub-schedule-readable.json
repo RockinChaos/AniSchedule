@@ -346,6 +346,101 @@
     "addedAt": "2026-07-14T17:00:00Z"
   },
   {
+    "title": "Digimon BeatBreak",
+    "route": "digimon-beatbreak",
+    "native": "デジモンビートブレイク",
+    "delayedText": "Delayed",
+    "delayedFrom": "0001-01-01T03:00:00Z",
+    "delayedUntil": "0001-01-01T03:00:00Z",
+    "episodeDate": "2026-07-05T03:00:00Z",
+    "episodeNumber": 30,
+    "subtractedEpisodeNumber": 26,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-07-05T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 188388,
+        "idMal": 61269,
+        "title": {
+          "romaji": "DIGIMON BEATBREAK",
+          "english": "DIGIMON BEATBREAK",
+          "native": "DIGIMON BEATBREAK",
+          "userPreferred": "DIGIMON BEATBREAK"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
+          "color": "#fec928"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 26,
+              "airingAt": "2026-07-05T03:00:00Z"
+            },
+            {
+              "episode": 27,
+              "airingAt": "2026-07-05T03:00:00Z"
+            },
+            {
+              "episode": 28,
+              "airingAt": "2026-07-05T03:00:00Z"
+            },
+            {
+              "episode": 29,
+              "airingAt": "2026-07-05T03:00:00Z"
+            },
+            {
+              "episode": 30,
+              "airingAt": "2026-07-05T03:00:00Z"
+            },
+            {
+              "episode": 31,
+              "airingAt": "2026-07-12T03:00:00Z"
+            },
+            {
+              "episode": 32,
+              "airingAt": "2026-07-12T03:00:00Z"
+            },
+            {
+              "episode": 33,
+              "airingAt": "2026-07-12T03:00:00Z"
+            },
+            {
+              "episode": 34,
+              "airingAt": "2026-07-12T03:00:00Z"
+            },
+            {
+              "episode": 35,
+              "airingAt": "2026-07-12T03:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-05T05:44:30Z"
+  },
+  {
     "title": "Dungeons & Television",
     "route": "dungeons-and-television",
     "romaji": "Dungeons & Television",
