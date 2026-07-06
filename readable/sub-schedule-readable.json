@@ -5561,10 +5561,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1783350000
-        },
-        {
           "episode": 15,
           "airingAt": 1783954800
         },
@@ -6018,10 +6014,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783350000
-        },
-        {
           "episode": 2,
           "airingAt": 1783954800
         },
@@ -6067,7 +6059,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7573,7 +7564,7 @@
     "genres": [
       "Comedy"
     ],
-    "duration": null,
+    "duration": 3,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205116-160t0jWDkIdK.png",
@@ -8849,7 +8840,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg",
@@ -10814,6 +10805,39 @@
         {
           "episode": 8,
           "airingAt": 1785855600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 213908,
+    "idMal": null,
+    "title": {
+      "romaji": "Rusuban",
+      "english": null,
+      "native": "るすばん",
+      "userPreferred": "Rusuban"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213908-ZBUHQxLVUzSW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213908-ZBUHQxLVUzSW.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213908-t1Jb6ol6FhlA.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1785510000
         }
       ]
     },
