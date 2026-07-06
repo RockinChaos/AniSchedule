@@ -745,7 +745,7 @@
       "Adventure",
       "Romance"
     ],
-    "duration": null,
+    "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
@@ -809,7 +809,7 @@
     "idMal": 63802,
     "title": {
       "romaji": "Mebius Dust",
-      "english": "MEBIUS DUST",
+      "english": "Mebius Dust",
       "native": "メビウス・ダスト",
       "userPreferred": "Mebius Dust"
     },
@@ -1228,10 +1228,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 148,
-          "airingAt": 1783303200
-        },
-        {
           "episode": 149,
           "airingAt": 1783908000
         },
@@ -1326,6 +1322,10 @@
         {
           "episode": 172,
           "airingAt": 1797818400
+        },
+        {
+          "episode": 173,
+          "airingAt": 1798423200
         }
       ]
     },
@@ -2225,7 +2225,7 @@
       "Ecchi",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 9,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
@@ -2568,7 +2568,7 @@
       "Romance",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177637-8onaQWqKW1C3.jpg",
@@ -4535,7 +4535,7 @@
     "title": {
       "romaji": "Oni no Hanayome",
       "english": "The Ogre's Bride",
-      "native": "鬼の花嫁 ",
+      "native": "鬼の花嫁",
       "userPreferred": "Oni no Hanayome"
     },
     "format": "TV",
@@ -4676,7 +4676,7 @@
     "idMal": 61897,
     "title": {
       "romaji": "Katainaka no Ossan, Kensei ni Naru II",
-      "english": "From Old Country Bumpkin to Master Swordsman Season 2",
+      "english": "From Old Country Bumpkin to Master Swordsman II",
       "native": "片田舎のおっさん、剣聖になるII",
       "userPreferred": "Katainaka no Ossan, Kensei ni Naru II"
     },
@@ -4890,7 +4890,7 @@
       "nodes": [
         {
           "episode": 15,
-          "airingAt": 1783781160
+          "airingAt": 1784385960
         },
         {
           "episode": 16,
@@ -5288,7 +5288,7 @@
     "idMal": 62102,
     "title": {
       "romaji": "Ibitte Konai Gibo to Gishi",
-      "english": null,
+      "english": "My Stepmother and Stepsisters Aren’t Wicked",
       "native": "いびってこない義母と義姉",
       "userPreferred": "Ibitte Konai Gibo to Gishi"
     },
@@ -5709,7 +5709,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198409-EiWJXfYnvfu4.png",
@@ -6252,7 +6252,7 @@
       "Horror",
       "Supernatural"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200230-YuzdgbXSgi38.png",
@@ -6326,7 +6326,7 @@
       "Ecchi",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
@@ -6399,7 +6399,7 @@
       "Comedy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201514-BHAeWhSbcBrT.png",
@@ -7167,7 +7167,7 @@
       "Action",
       "Comedy"
     ],
-    "duration": null,
+    "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-bKhovD8jAlW8.jpg",
@@ -7467,7 +7467,7 @@
     "title": {
       "romaji": "mofusand",
       "english": null,
-      "native": "mofusand ",
+      "native": "mofusand",
       "userPreferred": "mofusand"
     },
     "format": "ONA",
