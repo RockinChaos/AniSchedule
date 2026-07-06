@@ -7,8 +7,8 @@
     "native": "愛してるゲームを終わらせたい",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-06-30T14:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-07-07T14:30:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -63,8 +63,8 @@
     "native": "あかね噺",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-04T16:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-07-11T16:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -120,8 +120,8 @@
     "native": "アンドロイドは経験人数に入りますか??",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-07-01T01:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-07-08T01:00:00Z",
+    "episodeNumber": 6,
     "episodes": 8,
     "lengthMin": 5,
     "mediaTypes": [
@@ -234,8 +234,8 @@
     "route": "black-torch",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-07-04T13:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-11T13:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -346,101 +346,6 @@
     "addedAt": "2026-07-14T17:00:00Z"
   },
   {
-    "title": "Digimon BeatBreak",
-    "route": "digimon-beatbreak",
-    "native": "デジモンビートブレイク",
-    "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T03:00:00Z",
-    "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2026-07-05T03:00:00Z",
-    "episodeNumber": 30,
-    "subtractedEpisodeNumber": 26,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-07-05T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188388,
-        "idMal": 61269,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK",
-          "english": "DIGIMON BEATBREAK",
-          "native": "DIGIMON BEATBREAK",
-          "userPreferred": "DIGIMON BEATBREAK"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-          "color": "#fec928"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 26,
-              "airingAt": "2026-07-05T03:00:00Z"
-            },
-            {
-              "episode": 27,
-              "airingAt": "2026-07-05T03:00:00Z"
-            },
-            {
-              "episode": 28,
-              "airingAt": "2026-07-05T03:00:00Z"
-            },
-            {
-              "episode": 29,
-              "airingAt": "2026-07-05T03:00:00Z"
-            },
-            {
-              "episode": 30,
-              "airingAt": "2026-07-05T03:00:00Z"
-            },
-            {
-              "episode": 31,
-              "airingAt": "2026-07-12T03:00:00Z"
-            },
-            {
-              "episode": 32,
-              "airingAt": "2026-07-12T03:00:00Z"
-            },
-            {
-              "episode": 33,
-              "airingAt": "2026-07-12T03:00:00Z"
-            },
-            {
-              "episode": 34,
-              "airingAt": "2026-07-12T03:00:00Z"
-            },
-            {
-              "episode": 35,
-              "airingAt": "2026-07-12T03:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-05T05:44:30Z"
-  },
-  {
     "title": "Dungeons & Television",
     "route": "dungeons-and-television",
     "romaji": "Dungeons & Television",
@@ -507,8 +412,8 @@
     "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
     "delayedFrom": "0001-01-01T11:30:00Z",
     "delayedUntil": "0001-01-01T11:30:00Z",
-    "episodeDate": "2026-07-04T11:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-14T11:30:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -517,7 +422,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "0001-01-01T00:00:00Z",
+    "overrideDate": "2026-07-14T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -549,7 +454,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-07-11T11:30:00Z"
+              "airingAt": "2026-07-14T11:30:00Z"
             }
           ]
         },
@@ -567,8 +472,8 @@
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-04T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-11T16:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -621,8 +526,8 @@
     "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-01T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-07-08T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -678,10 +583,9 @@
     "romaji": "Hime Kishi wa Barbaroi no Yome",
     "english": "The Warrior Princess and the Barbaric King",
     "native": "姫騎士は蛮族の嫁",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-07-02T12:30:00Z",
     "delayedUntil": "2026-07-09T12:30:00Z",
-    "episodeDate": "2026-07-02T12:30:00Z",
+    "episodeDate": "2026-07-09T12:30:00Z",
     "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
@@ -741,8 +645,8 @@
     "native": "本好きの下剋上 ～司書になるためには手段を選んでいられません～ 領主の養女",
     "delayedFrom": "2026-06-27T09:30:00Z",
     "delayedUntil": "2026-07-03T09:30:00Z",
-    "episodeDate": "2026-07-04T09:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-07-11T09:30:00Z",
+    "episodeNumber": 11,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -800,8 +704,8 @@
     "native": "異世界の沙汰は社畜次第",
     "delayedFrom": "0001-01-01T13:30:00Z",
     "delayedUntil": "0001-01-01T13:30:00Z",
-    "episodeDate": "2026-06-30T13:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-07-07T13:30:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 25,
     "mediaTypes": [
@@ -860,8 +764,8 @@
     "native": "異世界のんびり農家2",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-01T17:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-07-08T17:00:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -918,8 +822,8 @@
     "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う3期",
     "delayedFrom": "2026-06-24T14:00:00Z",
     "delayedUntil": "2026-07-01T14:00:00Z",
-    "episodeDate": "2026-07-01T14:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-07-08T14:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -976,10 +880,9 @@
     "romaji": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
     "english": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
     "native": "自称悪役令嬢な婚約者の観察記録。",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-07-03T13:00:00Z",
     "delayedUntil": "2026-07-10T13:00:00Z",
-    "episodeDate": "2026-07-03T13:00:00Z",
+    "episodeDate": "2026-07-10T13:00:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
@@ -1039,8 +942,8 @@
     "native": "株式会社マジルミエ 第2期",
     "delayedFrom": "0001-01-01T17:25:00Z",
     "delayedUntil": "0001-01-01T17:25:00Z",
-    "episodeDate": "2026-07-04T17:25:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-11T17:25:00Z",
+    "episodeNumber": 2,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1098,8 +1001,8 @@
     "native": "神の雫",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-03T15:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-07-10T15:30:00Z",
+    "episodeNumber": 12,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1150,66 +1053,6 @@
     "addedAt": "2026-04-24T15:30:00Z"
   },
   {
-    "title": "Kanan-sama wa Akumade Choroi",
-    "route": "kanan-sama-wa-akumade-choroi",
-    "romaji": "Kanan-sama wa Akumade Choroi",
-    "english": "Mistress Kanan is Devilishly Easy",
-    "native": "カナン様はあくまでチョロい",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-04T16:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 190704,
-        "idMal": 61501,
-        "title": {
-          "romaji": "Kanan-sama wa Akumade Choroi",
-          "english": "Mistress Kanan is Devilishly Easy",
-          "native": "カナン様はあくまでチョロい",
-          "userPreferred": "Kanan-sama wa Akumade Choroi"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Ecchi",
-          "Fantasy",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190704-Ts1VvkrNdnCZ.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190704-Ts1VvkrNdnCZ.jpg",
-          "color": "#3586ff"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190704-bLXpyNFVZbss.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-07-04T16:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-18T16:00:00Z"
-  },
-  {
     "title": "Kanojo, Okarishimasu 5",
     "route": "kanojo-okarishimasu-5",
     "romaji": "Kanojo, Okarishimasu 5",
@@ -1217,8 +1060,8 @@
     "native": "彼女、お借りします 第5期",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-07-01T13:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-07-08T13:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1326,64 +1169,6 @@
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
-    "title": "Kill Ao",
-    "route": "kill-ao",
-    "romaji": "Kill Ao",
-    "english": "Kill Blue",
-    "native": "キルアオ",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-06-30T07:00:00Z",
-    "episodeNumber": 10,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-06-30T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 198113,
-        "idMal": 62391,
-        "title": {
-          "romaji": "Kill Ao",
-          "english": "KILL BLUE",
-          "native": "キルアオ",
-          "userPreferred": "Kill Ao"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Comedy"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198113-NRa47idWSlnx.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198113-NRa47idWSlnx.jpg",
-          "color": "#50aefe"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198113-5hYeMXL2zilW.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 11,
-              "airingAt": "2026-07-07T07:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-06-30T17:52:54Z"
-  },
-  {
     "title": "Kirio Fanclub",
     "route": "kirio-fanclub",
     "romaji": "Kirio Fanclub",
@@ -1391,8 +1176,8 @@
     "native": "霧尾ファンクラブ",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-01T17:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-07-08T17:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1443,66 +1228,6 @@
     "addedAt": "2026-06-10T17:00:00Z"
   },
   {
-    "title": "Koori no Jouheki",
-    "route": "koori-no-jouheki",
-    "romaji": "Koori no Jouheki",
-    "english": "The Ramparts of Ice",
-    "native": "氷の城壁",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-02T15:30:00Z",
-    "episodeNumber": 14,
-    "episodes": 14,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 186497,
-        "idMal": 60852,
-        "title": {
-          "romaji": "Koori no Jouheki",
-          "english": "The Ramparts of Ice",
-          "native": "氷の城壁",
-          "userPreferred": "Koori no Jouheki"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186497-uwPrNPphXvjP.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186497-uwPrNPphXvjP.jpg",
-          "color": "#e49343"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186497-naXtQFMHJaR1.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 14,
-              "airingAt": "2026-07-02T15:30:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-02T15:30:00Z"
-  },
-  {
     "title": "Kore Kaite Shine",
     "route": "kore-kaite-shine",
     "romaji": "Kore Kaite Shine",
@@ -1510,8 +1235,8 @@
     "native": "これ描いて死ね",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-03T15:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-10T15:30:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1623,9 +1348,8 @@
     "native": "ライアーゲーム",
     "delayedFrom": "2026-06-22T16:00:00Z",
     "delayedUntil": "2026-06-29T16:00:00Z",
-    "episodeDate": "2026-06-29T16:00:00Z",
-    "episodeNumber": 11,
-    "subtractedEpisodeNumber": 10,
+    "episodeDate": "2026-07-06T16:00:00Z",
+    "episodeNumber": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1662,14 +1386,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-29T16:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2026-06-29T16:00:00Z"
-            },
-            {
               "episode": 12,
               "airingAt": "2026-07-06T16:00:00Z"
             }
@@ -1689,8 +1405,8 @@
     "native": "魔入りました！入間くん 第4シリーズ",
     "delayedFrom": "0001-01-01T10:25:00Z",
     "delayedUntil": "0001-01-01T10:25:00Z",
-    "episodeDate": "2026-07-04T10:25:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2026-07-11T10:25:00Z",
+    "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1746,8 +1462,8 @@
     "native": "マリッジトキシン",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-06-30T14:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-07-07T14:30:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1803,8 +1519,8 @@
     "route": "needy-girl-overdose",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-04T17:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-07-11T17:00:00Z",
+    "episodeNumber": 11,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1863,8 +1579,8 @@
     "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-07-05T14:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-12T14:00:00Z",
+    "episodeNumber": 2,
     "episodes": 13,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1921,9 +1637,8 @@
     "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話",
     "delayedFrom": "2026-06-22T15:00:00Z",
     "delayedUntil": "2026-06-29T15:00:00Z",
-    "episodeDate": "2026-06-29T15:00:00Z",
-    "episodeNumber": 11,
-    "subtractedEpisodeNumber": 10,
+    "episodeDate": "2026-07-06T15:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1962,14 +1677,6 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-06-29T15:00:00Z"
-            },
-            {
-              "episode": 11,
-              "airingAt": "2026-06-29T15:00:00Z"
-            },
-            {
               "episode": 12,
               "airingAt": "2026-07-06T15:00:00Z"
             }
@@ -1990,7 +1697,7 @@
     "delayedText": "Break",
     "delayedFrom": "2026-06-24T14:00:00Z",
     "delayedUntil": "2026-08-12T14:00:00Z",
-    "episodeDate": "2026-07-01T14:00:00Z",
+    "episodeDate": "2026-07-08T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 19,
     "lengthMin": 23,
@@ -2053,8 +1760,8 @@
     "native": "リィンカーネーションの花弁",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-01T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-07-08T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2109,8 +1816,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-07-04T01:00:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2026-07-11T01:00:00Z",
+    "episodeNumber": 15,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -2164,10 +1871,9 @@
     "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
     "english": "The Beginning After the End 2nd Season",
     "native": "最強の王様、二度目の人生は何をする? Season 2",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-07-01T16:15:00Z",
     "delayedUntil": "2026-07-08T16:15:00Z",
-    "episodeDate": "2026-07-01T16:15:00Z",
+    "episodeDate": "2026-07-08T16:15:00Z",
     "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 22,
@@ -2226,8 +1932,8 @@
     "native": "さよならララ",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-05T15:30:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-07-12T15:30:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2284,8 +1990,8 @@
     "native": "春夏秋冬代行者 春の舞",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-07-04T16:30:00Z",
-    "episodeNumber": 13,
+    "episodeDate": "2026-07-11T16:30:00Z",
+    "episodeNumber": 14,
     "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2343,8 +2049,8 @@
     "native": "多聞くん今どっち!?",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-02T15:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-07-09T15:00:00Z",
+    "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2402,8 +2108,8 @@
     "native": "転生したらスライムだった件 第4期",
     "delayedFrom": "2026-06-26T15:00:00Z",
     "delayedUntil": "2026-07-03T15:00:00Z",
-    "episodeDate": "2026-07-03T15:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-07-10T15:00:00Z",
+    "episodeNumber": 11,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2461,8 +2167,8 @@
     "native": "杖と剣のウィストリア 第2期",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2026-07-05T08:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-07-12T08:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2512,66 +2218,6 @@
     },
     "verified": true,
     "addedAt": "2026-04-26T08:30:00Z"
-  },
-  {
-    "title": "Undead Unluck: Winter-hen",
-    "route": "undead-unluck-special",
-    "romaji": "Undead Unluck: Winter-hen",
-    "english": "Undead Unluck: Winter Arc",
-    "native": "アンデッドアンラック Winter編",
-    "delayedFrom": "0001-01-01T07:00:00Z",
-    "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-07-02T07:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 48,
-    "mediaTypes": [
-      {
-        "name": "Special",
-        "route": "special"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 179930,
-        "idMal": 59435,
-        "title": {
-          "romaji": "Undead Unluck: Winter-hen",
-          "english": "Undead Unluck: Winter Arc",
-          "native": "アンデッドアンラック Winter編",
-          "userPreferred": "Undead Unluck: Winter-hen"
-        },
-        "format": "SPECIAL",
-        "genres": [
-          "Action",
-          "Comedy",
-          "Sci-Fi",
-          "Supernatural"
-        ],
-        "duration": 48,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx179930-xUYfykPhQmGm.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179930-xUYfykPhQmGm.jpg",
-          "color": "#f1c91a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179930-zFY4rcN45RK1.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-07-02T07:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-02T07:00:00Z"
   },
   {
     "title": "Yani Neko",
@@ -2637,10 +2283,11 @@
     "romaji": "Yomi no Tsugai",
     "english": "Daemons of the Shadow Realm",
     "native": "黄泉のツガイ",
-    "delayedFrom": "2026-05-02T16:00:00Z",
-    "delayedUntil": "2026-05-16T16:00:00Z",
-    "episodeDate": "2026-07-04T16:00:00Z",
-    "episodeNumber": 12,
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-11T16:00:00Z",
+    "delayedUntil": "2026-07-18T16:00:00Z",
+    "episodeDate": "2026-07-11T16:00:00Z",
+    "episodeNumber": 13,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2649,7 +2296,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "2026-05-02T00:00:00Z",
+    "overrideDate": "2026-07-11T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -2682,7 +2329,7 @@
           "nodes": [
             {
               "episode": 13,
-              "airingAt": "2026-07-11T16:00:00Z"
+              "airingAt": "2026-07-18T16:00:00Z"
             }
           ]
         },
@@ -2700,8 +2347,8 @@
     "native": "ようこそ実力至上主義の教室へ 4th Season",
     "delayedFrom": "0001-01-01T12:30:00Z",
     "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2026-07-01T12:30:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2026-07-08T12:30:00Z",
+    "episodeNumber": 16,
     "episodes": 16,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2758,8 +2405,8 @@
     "native": "よわよわ先生",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-01T17:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-07-08T17:00:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
