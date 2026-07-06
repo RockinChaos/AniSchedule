@@ -407,17 +407,6 @@
     }
   },
   {
-    "id": 185542,
-    "idMal": 60522,
-    "format": "TV",
-    "duration": 24,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-06-30T11:30:00Z",
-      "addedAt": "2026-07-04T11:30:04Z"
-    }
-  },
-  {
     "id": 198113,
     "idMal": 62391,
     "format": "TV",
@@ -470,6 +459,17 @@
       "aired": 10,
       "airedAt": "2026-06-29T15:00:00Z",
       "addedAt": "2026-06-29T15:00:09Z"
+    }
+  },
+  {
+    "id": 185542,
+    "idMal": 60522,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-06-29T13:00:00Z",
+      "addedAt": "2026-07-04T11:30:04Z"
     }
   },
   {
