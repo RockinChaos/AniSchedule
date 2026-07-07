@@ -5754,10 +5754,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783436400
-        },
-        {
           "episode": 2,
           "airingAt": 1784041200
         },
@@ -5803,7 +5799,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6109,6 +6104,49 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199409,
+    "idMal": 62248,
+    "title": {
+      "romaji": "Yi Nian Yongheng 4",
+      "english": null,
+      "native": "一念永恒 第四季",
+      "userPreferred": "Yi Nian Yongheng 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199409-X1BoggxZulkT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199409-X1BoggxZulkT.jpg",
+      "color": "#e4865d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1784646000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1784646000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784646000
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8366,10 +8404,10 @@
     "id": 208044,
     "idMal": 63508,
     "title": {
-      "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku",
+      "romaji": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku",
       "english": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "native": "落第賢者の学院無双～二度目の転生、Sランクチート魔術師冒険録～",
-      "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku"
+      "userPreferred": "Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku"
     },
     "format": "ONA",
     "genres": [
@@ -9039,10 +9077,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783434600
-        },
-        {
           "episode": 2,
           "airingAt": 1784039400
         },
@@ -9088,7 +9122,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
