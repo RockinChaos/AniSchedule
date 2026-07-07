@@ -7,7 +7,7 @@
 
 ## Features
 
-- **🎬 Dub Schedules:** Fetched every 15 minutes from [AnimeSchedule.net](https://www.animeschedule.net).
+- **🎬 Dub Schedules:** Fetched hourly from [AnimeSchedule.net](https://www.animeschedule.net).
 - **📅 Sub Schedules:** Fetched hourly from [AniList](https://anilist.co).
 - **📜 Episode Feeds:** Logs for dubs, subs, and hentai episodes, continuously updated.
 - **🕒 Update Manifest:** A lightweight JSON file that tracks the last modification time for every schedule and feed, so clients can detect updates without fetching the complete schedules and feeds.
@@ -37,7 +37,7 @@ For programmatic use and integration:
 
 ## Update Frequency
 
-- **⏰ Dub Schedule:** Updated every 15 minutes.
+- **⏰ Dub Schedule:** Updated every hour.
 - **⏳ Sub Schedule:** Updated every hour.
 - **📺 Episode Feeds:** Updated continuously as new episodes air.
 - **🕒 Update Manifest:** Updated automatically whenever any feed or schedule changes.
