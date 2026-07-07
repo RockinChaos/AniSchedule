@@ -1327,38 +1327,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 137664,
-    "idMal": 64375,
-    "title": {
-      "romaji": "Cheng Huang Lu",
-      "english": null,
-      "native": "城隍录",
-      "userPreferred": "Cheng Huang Lu"
-    },
-    "format": "ONA",
-    "genres": [
-      "Supernatural"
-    ],
-    "duration": 13,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137664-9MB4bb4ASiIN.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx137664-9MB4bb4ASiIN.png",
-      "color": "#d65de4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1783994400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 137683,
     "idMal": 51836,
     "title": {
@@ -7156,7 +7124,7 @@
       "color": "#f1931a"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-UZBvHyakBTP6.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -10413,6 +10381,79 @@
         {
           "episode": 25,
           "airingAt": 1789444800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213665,
+    "idMal": 63878,
+    "title": {
+      "romaji": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita",
+      "english": "Saved By the Ice Cold Prince's Embrace",
+      "native": "身代わり令嬢を救ったのは冷酷無慈悲な氷の王子の愛でした",
+      "userPreferred": "Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213665-E6byznDKrKY0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213665-E6byznDKrKY0.png",
+      "color": "#1aaee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1784033700
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784638500
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785243300
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785848100
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786452900
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787057700
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787662500
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788267300
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788872100
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789476900
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790081700
         }
       ]
     },
