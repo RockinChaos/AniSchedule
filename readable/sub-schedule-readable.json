@@ -7156,7 +7156,7 @@
       "color": "#f1931a"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-UZBvHyakBTP6.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -8348,10 +8348,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783442100
-        },
-        {
           "episode": 2,
           "airingAt": 1784046900
         },
@@ -8397,7 +8393,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
