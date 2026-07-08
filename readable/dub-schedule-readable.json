@@ -623,8 +623,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-07-08T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-07-15T17:00:00Z"
             }
           ]
         },
@@ -860,8 +860,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-07-08T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-07-15T17:00:00Z"
             }
           ]
         },
@@ -1185,7 +1185,7 @@
       }
     ],
     "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 194829,
@@ -1215,8 +1215,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-07-08T15:15:00Z"
+              "episode": 2,
+              "airingAt": "2026-07-15T15:15:00Z"
             }
           ]
         },
@@ -1332,8 +1332,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-07-08T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-07-15T17:00:00Z"
             }
           ]
         },
@@ -1918,8 +1918,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-07-08T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-07-15T17:00:00Z"
             }
           ]
         },
@@ -2565,15 +2565,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-07-08T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-15T17:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-06-24T17:00:00Z"
   },
   {
