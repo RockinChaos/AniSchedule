@@ -1890,7 +1890,7 @@
       "Mecha",
       "Romance"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159309-wRfh9O1odrDJ.jpg",
@@ -5721,47 +5721,51 @@
       "nodes": [
         {
           "episode": 2,
-          "airingAt": 1784120400
+          "airingAt": 1784116800
         },
         {
           "episode": 3,
-          "airingAt": 1784725200
+          "airingAt": 1784721600
         },
         {
           "episode": 4,
-          "airingAt": 1785330000
+          "airingAt": 1785326400
         },
         {
           "episode": 5,
-          "airingAt": 1785934800
+          "airingAt": 1785931200
         },
         {
           "episode": 6,
-          "airingAt": 1786539600
+          "airingAt": 1786536000
         },
         {
           "episode": 7,
-          "airingAt": 1787144400
+          "airingAt": 1787140800
         },
         {
           "episode": 8,
-          "airingAt": 1787749200
+          "airingAt": 1787745600
         },
         {
           "episode": 9,
-          "airingAt": 1788354000
+          "airingAt": 1788350400
         },
         {
           "episode": 10,
-          "airingAt": 1788958800
+          "airingAt": 1788955200
         },
         {
           "episode": 11,
-          "airingAt": 1789563600
+          "airingAt": 1789560000
         },
         {
           "episode": 12,
-          "airingAt": 1790168400
+          "airingAt": 1790164800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790769600
         }
       ]
     },
