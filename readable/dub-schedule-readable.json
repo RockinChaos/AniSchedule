@@ -237,7 +237,7 @@
     "delayedUntil": "0001-01-01T13:00:00Z",
     "episodeDate": "2026-07-11T13:00:00Z",
     "episodeNumber": 2,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -349,13 +349,12 @@
   {
     "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
     "route": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou",
-    "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
-    "english": "Clevatess 2nd Season",
     "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
     "episodeDate": "2026-07-08T12:00:00Z",
     "episodeNumber": 1,
+    "episodes": 13,
     "mediaTypes": [
       {
         "name": "TV",
@@ -380,7 +379,7 @@
           "Drama",
           "Fantasy"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
@@ -473,7 +472,7 @@
     "episodeDate": "2026-07-13T13:00:00Z",
     "episodeNumber": 2,
     "episodes": 12,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -532,7 +531,7 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-07-11T16:00:00Z",
     "episodeNumber": 2,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1003,7 +1002,7 @@
     "delayedUntil": "0001-01-01T17:25:00Z",
     "episodeDate": "2026-07-11T17:25:00Z",
     "episodeNumber": 2,
-    "lengthMin": 24,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
