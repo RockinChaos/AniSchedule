@@ -347,6 +347,63 @@
     "addedAt": "2026-07-14T17:00:00Z"
   },
   {
+    "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+    "route": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou",
+    "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+    "english": "Clevatess 2nd Season",
+    "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+    "delayedFrom": "0001-01-01T12:00:00Z",
+    "delayedUntil": "0001-01-01T12:00:00Z",
+    "episodeDate": "2026-07-08T12:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 198946,
+        "idMal": 62513,
+        "title": {
+          "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+          "english": "Clevatess Season 2",
+          "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
+          "userPreferred": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198946-IGXmbqBEYRYD.jpg",
+          "color": "#f1bb5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-08T12:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-08T12:00:00Z"
+  },
+  {
     "title": "Dungeons & Television",
     "route": "dungeons-and-television",
     "romaji": "Dungeons & Television",
@@ -1325,9 +1382,9 @@
         "duration": 23,
         "seasonYear": 2026,
         "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-TBVfJaCZrcfg.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188525-TBVfJaCZrcfg.jpg",
-          "color": "#f1bb0d"
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188525-uWhw4rQcqOyF.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188525-uWhw4rQcqOyF.jpg",
+          "color": "#e48650"
         },
         "isAdult": false,
         "bannerImage": null,
@@ -1380,7 +1437,7 @@
           "Psychological",
           "Sci-Fi"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177699-hnzc1CS5ZSM2.png",
