@@ -1131,7 +1131,7 @@
       "Action",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
@@ -1142,10 +1142,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783513800
-        },
         {
           "episode": 2,
           "airingAt": 1784118600
@@ -1192,7 +1188,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -1907,10 +1902,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783521000
-        },
-        {
           "episode": 2,
           "airingAt": 1784125800
         },
@@ -1956,7 +1947,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4380,10 +4370,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1783517400
-        },
-        {
           "episode": 4,
           "airingAt": 1784122200
         },
@@ -4596,42 +4582,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 194829,
-    "idMal": 61897,
-    "title": {
-      "romaji": "Katainaka no Ossan, Kensei ni Naru II",
-      "english": "From Old Country Bumpkin to Master Swordsman II",
-      "native": "片田舎のおっさん、剣聖になるII",
-      "userPreferred": "Katainaka no Ossan, Kensei ni Naru II"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-bZKwhfo60EuF.jpg",
-      "color": "#aed6e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783521900
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5227,10 +5177,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1783521000
-        },
-        {
           "episode": 2,
           "airingAt": 1784125800
         },
@@ -5276,7 +5222,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5420,10 +5365,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1783522800
-        },
         {
           "episode": 4,
           "airingAt": 1784127600
@@ -5772,7 +5713,7 @@
       "Drama",
       "Fantasy"
     ],
-    "duration": null,
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
@@ -5783,10 +5724,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1783515600
-        },
         {
           "episode": 2,
           "airingAt": 1784120400
@@ -5833,7 +5770,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7614,10 +7550,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1783522560
-        },
         {
           "episode": 14,
           "airingAt": 1784127360
