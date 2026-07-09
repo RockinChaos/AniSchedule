@@ -1,4 +1,4 @@
-const verifiedDubs = [] // [183231]
+const verifiedDubs = [207254] // [183231]
 
 /**
  * MAL (MyAnimeList) Dubs (Mal-Dubs)
