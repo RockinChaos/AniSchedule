@@ -355,6 +355,7 @@
     "episodeDate": "2026-07-08T12:00:00Z",
     "episodeNumber": 1,
     "episodes": 13,
+    "lengthMin": 24,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1178,6 +1179,7 @@
     "delayedUntil": "0001-01-01T15:15:00Z",
     "episodeDate": "2026-07-08T15:15:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -1203,7 +1205,7 @@
           "Comedy",
           "Fantasy"
         ],
-        "duration": null,
+        "duration": 23,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
@@ -2278,6 +2280,63 @@
     },
     "verified": true,
     "addedAt": "2026-04-17T15:00:00Z"
+  },
+  {
+    "title": "Thunder 3",
+    "route": "thunder-3",
+    "english": "Thunder 3",
+    "native": "サンダー3",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-07-08T16:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 207254,
+        "idMal": null,
+        "title": {
+          "romaji": "Thunder 3",
+          "english": "Thunder 3",
+          "native": "サンダー３",
+          "userPreferred": "Thunder 3"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Sci-Fi"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207254-StcuNpmZTDCL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207254-StcuNpmZTDCL.jpg",
+          "color": "#1a93e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-15T16:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-09T03:16:16Z"
   },
   {
     "title": "Tsue to Tsurugi no Wistoria 2nd Season",
