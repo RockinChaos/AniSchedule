@@ -4584,6 +4584,81 @@
     "zeroEpisode": false
   },
   {
+    "id": 194829,
+    "idMal": 61897,
+    "title": {
+      "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+      "english": "From Old Country Bumpkin to Master Swordsman II",
+      "native": "片田舎のおっさん、剣聖になるII",
+      "userPreferred": "Katainaka no Ossan, Kensei ni Naru II"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-bZKwhfo60EuF.jpg",
+      "color": "#aed6e4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1784126760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784731560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785336360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785941160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786545960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787150760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787755560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788360360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788965160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789569960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790174760
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 195600,
     "idMal": 62001,
     "title": {
@@ -10748,6 +10823,79 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 213961,
+    "idMal": null,
+    "title": {
+      "romaji": "Youjo Shenki 2",
+      "english": null,
+      "native": "ようじょしぇんき2",
+      "userPreferred": "Youjo Shenki 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 2,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213961-x2ZvvtkYSTC9.png",
+      "color": "#f1d693"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1784127600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784732400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785337200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785942000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786546800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787151600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787756400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788361200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788966000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789570800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790175600
+        }
+      ]
+    },
     "zeroEpisode": false
   }
 ]
