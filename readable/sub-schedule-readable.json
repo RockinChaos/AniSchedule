@@ -3738,10 +3738,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 40,
-          "airingAt": 1783602000
-        },
-        {
           "episode": 41,
           "airingAt": 1784206800
         },
@@ -4539,10 +4535,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 40,
-          "airingAt": 1783594800
-        },
         {
           "episode": 41,
           "airingAt": 1784199600
@@ -6441,10 +6433,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1783600800
-        },
-        {
           "episode": 3,
           "airingAt": 1784205600
         },
@@ -7052,10 +7040,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1783600200
-        },
         {
           "episode": 3,
           "airingAt": 1784205000
@@ -9887,6 +9871,14 @@
         {
           "episode": 1,
           "airingAt": 1789052400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791471600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1794495600
         }
       ]
     },
@@ -9920,6 +9912,10 @@
         {
           "episode": 1,
           "airingAt": 1789657200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792076400
         }
       ]
     },
@@ -10836,7 +10832,7 @@
       "Fantasy"
     ],
     "duration": 2,
-    "seasonYear": null,
+    "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213961-x2ZvvtkYSTC9.png",
