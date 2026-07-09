@@ -498,10 +498,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 664,
-          "airingAt": 1783635000
-        },
-        {
           "episode": 665,
           "airingAt": 1784239800
         },
@@ -596,6 +592,10 @@
         {
           "episode": 688,
           "airingAt": 1798150200
+        },
+        {
+          "episode": 689,
+          "airingAt": 1798755000
         }
       ]
     },
@@ -10229,6 +10229,79 @@
         {
           "episode": 12,
           "airingAt": 1790081700
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213666,
+    "idMal": 63514,
+    "title": {
+      "romaji": "Perfect Addiction",
+      "english": "Perfect Addiction",
+      "native": "パーフェクトアディクション",
+      "userPreferred": "Perfect Addiction"
+    },
+    "format": "ONA",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "duration": 5,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213666-nnKcumRblZi1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213666-nnKcumRblZi1.jpg",
+      "color": "#e4bba1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1784120400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1784725200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1785330000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785934800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786539600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1787144400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787749200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1788354000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788958800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789563600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790168400
         }
       ]
     },
