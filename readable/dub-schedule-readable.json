@@ -641,10 +641,10 @@
     "romaji": "Hime Kishi wa Barbaroi no Yome",
     "english": "The Warrior Princess and the Barbaric King",
     "native": "姫騎士は蛮族の嫁",
-    "delayedFrom": "2026-07-02T12:30:00Z",
-    "delayedUntil": "2026-07-09T12:30:00Z",
+    "delayedFrom": "0001-01-01T12:30:00Z",
+    "delayedUntil": "0001-01-01T12:30:00Z",
     "episodeDate": "2026-07-09T12:30:00Z",
-    "episodeNumber": 11,
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -653,7 +653,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "2026-07-02T00:00:00Z",
+    "overrideDate": "2026-07-09T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -684,7 +684,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
+              "episode": 12,
               "airingAt": "2026-07-09T12:30:00Z"
             }
           ]
@@ -2210,8 +2210,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-07-09T15:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-07-16T15:00:00Z"
             }
           ]
         },
