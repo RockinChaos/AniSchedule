@@ -458,6 +458,22 @@ export async function updateDubFeed(optSchedule) {
         })
     })
 
+    // Fix episodes incorrectly dated to the current episodes air date due to a short delay, bumping them back a week if the prior week slot is unoccupied.
+    schedule.forEach(entry => {
+        if (entry.subtractedEpisodeNumber) return
+        existingFeed = existingFeed.map(episode => {
+            const foundEpisode = (episode.id === entry.media?.media?.id) && (episode.episode.aired === entry.episodeNumber - 1) && (episode.episode.airedAt === entry.episodeDate) && !existingFeed.some(ep => ep.id === entry.media?.media?.id && ep.episode.aired === entry.episodeNumber - 2 && ep.episode.airedAt === past(new Date(entry.episodeDate), -1, true))
+            if (foundEpisode) {
+                const prevDate = episode.episode.airedAt
+                episode.episode.airedAt = past(new Date(episode.episode.airedAt), -1, true)
+                changes.push(`(Dub) Corrected Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt} (short delay caused date collision with Episode ${entry.episodeNumber})`)
+                console.log(`Corrected Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred}, shared airedAt with Episode ${entry.episodeNumber}, bumped back one week to ${episode.episode.airedAt}`)
+                modifiedEpisodes.push(episode)
+            }
+            return episode
+        })
+    })
+
     const { dstStart, dstEnd } = getDSTStartEndDates()
     // Filter out incorrect episodes and correct dates if necessary
     schedule.forEach(entry => {
