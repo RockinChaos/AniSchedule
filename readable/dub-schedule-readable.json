@@ -1116,8 +1116,8 @@
     "english": "The Drops of God",
     "native": "神の雫",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-07-10T15:30:00Z",
-    "delayedUntil": "2026-07-17T15:30:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
     "episodeDate": "2026-07-10T15:30:00Z",
     "episodeNumber": 12,
     "episodes": 24,
@@ -1158,7 +1158,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 13,
               "airingAt": "2026-07-17T15:30:00Z"
             }
           ]
