@@ -466,8 +466,8 @@ export async function updateDubFeed(optSchedule) {
             if (foundEpisode) {
                 const prevDate = episode.episode.airedAt
                 episode.episode.airedAt = past(new Date(episode.episode.airedAt), -1, true)
-                changes.push(`(Dub) Corrected Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt} (short delay caused date collision with Episode ${entry.episodeNumber})`)
-                console.log(`Corrected Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred}, shared airedAt with Episode ${entry.episodeNumber}, bumped back one week to ${episode.episode.airedAt}`)
+                changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt} (short delay caused date collision with Episode ${entry.episodeNumber})`)
+                console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred}, shared airedAt with Episode ${entry.episodeNumber}, bumped back one week to ${episode.episode.airedAt}`)
                 modifiedEpisodes.push(episode)
             }
             return episode
