@@ -10074,10 +10074,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1783656000
-        },
-        {
           "episode": 7,
           "airingAt": 1784001600
         },
@@ -10469,81 +10465,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 213750,
-    "idMal": 64519,
-    "title": {
-      "romaji": "Bananya At-Home Party",
-      "english": null,
-      "native": "ばなにゃ あっとほーむぱーてぃー",
-      "userPreferred": "Bananya At-Home Party"
-    },
-    "format": "ONA",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213750-5hVyApOz4YXe.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213750-5hVyApOz4YXe.png",
-      "color": "#f1f150"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1784246400
-        },
-        {
-          "episode": 3,
-          "airingAt": 1784851200
-        },
-        {
-          "episode": 4,
-          "airingAt": 1785456000
-        },
-        {
-          "episode": 5,
-          "airingAt": 1786060800
-        },
-        {
-          "episode": 6,
-          "airingAt": 1786665600
-        },
-        {
-          "episode": 7,
-          "airingAt": 1787270400
-        },
-        {
-          "episode": 8,
-          "airingAt": 1787875200
-        },
-        {
-          "episode": 9,
-          "airingAt": 1788480000
-        },
-        {
-          "episode": 10,
-          "airingAt": 1789084800
-        },
-        {
-          "episode": 11,
-          "airingAt": 1789689600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1790294400
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
