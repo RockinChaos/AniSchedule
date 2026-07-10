@@ -2,7 +2,7 @@ name: Update Dub Schedules
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '0 */4 * * *'  # Schedule a run every 4 hours.
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
