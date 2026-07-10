@@ -577,6 +577,63 @@
     "addedAt": "2026-07-04T16:00:00Z"
   },
   {
+    "title": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+    "route": "hanaori-san-wa-tensei-shite-mo-kenka-ga-shitai",
+    "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+    "english": "Hanaori-san Still Wants to Fight in the Next Life",
+    "native": "花織さんは転生しても喧嘩がしたい",
+    "delayedFrom": "0001-01-01T17:30:00Z",
+    "delayedUntil": "0001-01-01T17:30:00Z",
+    "episodeDate": "2026-07-11T17:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 199066,
+        "idMal": 62535,
+        "title": {
+          "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+          "english": "Hanaori-san Still Wants to Fight in the Next Life",
+          "native": "花織さんは転生しても喧嘩がしたい",
+          "userPreferred": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199066-YXDVsguvFZMm.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199066-YXDVsguvFZMm.jpg",
+          "color": "#43bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-11T17:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-11T17:30:00Z"
+  },
+  {
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
     "route": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
@@ -1070,7 +1127,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "0001-01-01T00:00:00Z",
+    "overrideDate": "2026-07-10T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
