@@ -1115,8 +1115,9 @@
     "romaji": "Kami no Shizuku",
     "english": "The Drops of God",
     "native": "神の雫",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-10T15:30:00Z",
+    "delayedUntil": "2026-07-17T15:30:00Z",
     "episodeDate": "2026-07-10T15:30:00Z",
     "episodeNumber": 12,
     "episodes": 24,
@@ -1157,7 +1158,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
+              "episode": 12,
               "airingAt": "2026-07-17T15:30:00Z"
             }
           ]
