@@ -447,7 +447,9 @@ export async function updateDubFeed(optSchedule) {
     // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
     schedule.forEach(entry => {
         existingFeed = existingFeed.filter(episode => {
-            const foundEpisode = (episode.id === entry.media?.media?.id) && (((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate)))
+            const foundEpisode = (episode.id === entry.media?.media?.id) &&
+              (episode.id !== 182205 || episode.episode.aired !== 11)  // TODO: Remove this later
+              && (((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)) && (new Date(episode.episode.airedAt) < new Date(entry.episodeDate)))
             if (foundEpisode && isSameUTCDay(episode.episode.airedAt, entry.episodeDate)) return true // same day and it has already aired, keep it and modify the time later.
             if (foundEpisode) {
                 changes.push(`(Dub) Removed Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} due to a correction in the airing date`)
