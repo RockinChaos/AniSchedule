@@ -21,7 +21,7 @@ jobs:
 
       - name: Start Feed Update Loop
         env:  # Pass the secret as an environment variable
-          ANIMESCHEDULE_TOKEN: ${{secrets.ANIMESCHEDULE_TOKEN}}
+          ANIMESCHEDULE_TOKEN: ${{ secrets.ANIMESCHEDULE_TOKEN }}
         shell: bash
         run: |
           end_time=$(( $(date +%s) + 71100 )) # Run for 19h 45m, allows 15 minute buffer before timeout.
@@ -29,6 +29,26 @@ jobs:
           git config --local user.name "GitHub Action"
           while [ $(date +%s) -lt $end_time ]; do
             echo "Checking for newly released episodes"
+          
+            # Skip cycle if dub or sub schedule workflows are currently running
+            DUB_RUNNING=$(curl -s \
+          -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-dubs.yaml/runs?status=in_progress" \
+            | grep -c '"status": "in_progress"' || true)
+            SUB_RUNNING=$(curl -s \
+          -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-subs.yaml/runs?status=in_progress" \
+            | grep -c '"status": "in_progress"' || true)
+          
+            if [ "$DUB_RUNNING" -gt 0 ] || [ "$SUB_RUNNING" -gt 0 ]; then
+              echo "Schedule workflow is running, skipping cycle and resetting..."
+              sleep 30
+              # Hard reset at start of next cycle to avoid conflict
+              git rebase --abort 2>/dev/null || true
+              git fetch origin
+              git reset --hard origin/master
+              continue
+            fi
           
             # Clean up any leftover rebase state
             if [ -d "$(git rev-parse --git-dir)/rebase-merge" ] || [ -d "$(git rev-parse --git-dir)/rebase-apply" ]; then
