@@ -32,13 +32,13 @@ jobs:
           
             # Skip cycle if dub or sub schedule workflows are currently running
             DUB_RUNNING=$(curl -s \
-          -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-dubs.yaml/runs?status=in_progress" \
-            | grep -c '"status": "in_progress"' || true)
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-dubs.yaml/runs?status=in_progress" \
+              | jq '.total_count // 0')
             SUB_RUNNING=$(curl -s \
-          -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-subs.yaml/runs?status=in_progress" \
-            | grep -c '"status": "in_progress"' || true)
+              -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-subs.yaml/runs?status=in_progress" \
+              | jq '.total_count // 0')
           
             if [ "$DUB_RUNNING" -gt 0 ] || [ "$SUB_RUNNING" -gt 0 ]; then
               echo "Schedule workflow is running, skipping cycle and resetting..."
