@@ -586,6 +586,7 @@
     "delayedUntil": "0001-01-01T17:30:00Z",
     "episodeDate": "2026-07-11T17:30:00Z",
     "episodeNumber": 1,
+    "lengthMin": 25,
     "mediaTypes": [
       {
         "name": "TV",
@@ -761,7 +762,8 @@
     "delayedFrom": "2026-06-27T09:30:00Z",
     "delayedUntil": "2026-07-03T09:30:00Z",
     "episodeDate": "2026-07-11T09:30:00Z",
-    "episodeNumber": 11,
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 11,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -800,7 +802,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 11,
+              "airingAt": "2026-07-11T09:30:00Z"
+            },
+            {
               "episode": 12,
+              "airingAt": "2026-07-11T09:30:00Z"
+            },
+            {
+              "episode": 13,
               "airingAt": "2026-07-18T09:30:00Z"
             }
           ]
