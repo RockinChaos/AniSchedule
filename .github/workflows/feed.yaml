@@ -34,11 +34,11 @@ jobs:
             DUB_RUNNING=$(curl -s \
               -H "Accept: application/vnd.github+json" \
               "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-dubs.yaml/runs?status=in_progress" \
-              | grep -o '"total_count":[0-9]*' | grep -o '[0-9]*$')
+              | grep -o '"total_count":[0-9]*' | grep -o '[0-9]*$' || true)
             SUB_RUNNING=$(curl -s \
               -H "Accept: application/vnd.github+json" \
               "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-subs.yaml/runs?status=in_progress" \
-              | grep -o '"total_count":[0-9]*' | grep -o '[0-9]*$')
+              | grep -o '"total_count":[0-9]*' | grep -o '[0-9]*$' || true)
             
             DUB_RUNNING=${DUB_RUNNING:-0}
             SUB_RUNNING=${SUB_RUNNING:-0}
