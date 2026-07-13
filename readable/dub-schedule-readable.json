@@ -635,6 +635,65 @@
     "addedAt": "2026-07-11T17:30:00Z"
   },
   {
+    "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "route": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
+    "romaji": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
+    "english": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing 2nd Season",
+    "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-08-05T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 209983,
+        "idMal": 63817,
+        "title": {
+          "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+          "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+          "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+          "userPreferred": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209983-sFOcKyqMufxb.jpg",
+          "color": "#0dbbf1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-05T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-05T17:00:00Z"
+  },
+  {
     "title": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
     "route": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. 2nd Season",
@@ -1805,6 +1864,64 @@
     "addedAt": "2026-07-05T23:47:52Z"
   },
   {
+    "title": "Star Wars: Visions Presents - The Ninth Jedi",
+    "route": "star-wars-visions-presents-the-ninth-jedi",
+    "romaji": "Star Wars: Visions Presents - The Ninth Jedi",
+    "english": "Star Wars: Visions Presents - The Ninth Jedi",
+    "native": "Star Wars: Visions Presents - The Ninth Jedi（原題）",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-05T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 8,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 213847,
+        "idMal": 61546,
+        "title": {
+          "romaji": "Star Wars: Visions - Kyuuninme no Jedi",
+          "english": "Star Wars: Visions Presents - The Ninth Jedi",
+          "native": "Star Wars：ビジョンズ 九人目のジェダイ",
+          "userPreferred": "Star Wars: Visions - Kyuuninme no Jedi"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213847-emdj0kmGX3vv.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213847-emdj0kmGX3vv.jpg",
+          "color": "#43e4a1"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-05T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-05T07:00:00Z"
+  },
+  {
     "title": "Super no Ura de Yani Suu Futari",
     "route": "super-no-ura-de-yani-suu-futari",
     "romaji": "Super no Ura de Yani Suu Futari",
@@ -1981,6 +2098,63 @@
     },
     "verified": true,
     "addedAt": "2026-04-17T15:00:00Z"
+  },
+  {
+    "title": "The Ribbon Hero",
+    "route": "the-ribbon-hero",
+    "native": "リボンへーロー",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-08T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 109,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 211308,
+        "idMal": 64012,
+        "title": {
+          "romaji": "THE RIBBON HERO",
+          "english": "THE RIBBON HERO",
+          "native": "THE RIBBON HERO",
+          "userPreferred": "THE RIBBON HERO"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": 109,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b211308-88VZiAPkkXZV.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b211308-88VZiAPkkXZV.jpg",
+          "color": "#f12843"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/211308-4RLMAhvtMh68.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-08T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-08T07:00:00Z"
   },
   {
     "title": "Thunder 3",
