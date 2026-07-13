@@ -1289,7 +1289,8 @@
     "delayedFrom": "2026-07-06T16:00:00Z",
     "delayedUntil": "2026-07-13T16:00:00Z",
     "episodeDate": "2026-07-13T16:00:00Z",
-    "episodeNumber": 12,
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 12,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1326,7 +1327,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 12,
+              "airingAt": "2026-07-13T16:00:00Z"
+            },
+            {
               "episode": 13,
+              "airingAt": "2026-07-13T16:00:00Z"
+            },
+            {
+              "episode": 14,
               "airingAt": "2026-07-20T16:00:00Z"
             }
           ]
@@ -1568,6 +1577,97 @@
     },
     "verified": false,
     "addedAt": "2026-07-05T14:00:00Z"
+  },
+  {
+    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "route": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
+    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+    "english": "The Angel Next Door Spoils Me Rotten",
+    "native": "お隣の天使様にいつの間にか駄目人間にされていた件",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2026-07-15T22:00:00Z",
+    "episodeNumber": 12,
+    "subtractedEpisodeNumber": 4,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-07-15T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 143338,
+        "idMal": 50739,
+        "title": {
+          "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
+          "english": "The Angel Next Door Spoils Me Rotten",
+          "native": "お隣の天使様にいつの間にか駄目人間にされていた件",
+          "userPreferred": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2023,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143338-zhyDVYgEzsm5.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143338-zhyDVYgEzsm5.png",
+          "color": "#c9f1f1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143338-d0AqJzRUQCgk.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 4,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-07-15T22:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-07-15T22:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-13T17:15:24Z"
   },
   {
     "title": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
@@ -1862,6 +1962,66 @@
     },
     "verified": false,
     "addedAt": "2026-07-05T23:47:52Z"
+  },
+  {
+    "title": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach",
+    "route": "shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach",
+    "romaji": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach",
+    "english": "Shiboyugi: Playing Death Games to Put Food on the Table: 44 - Cloudy Beach",
+    "native": "死亡遊戯で飯を食う。44:CLOUDY BEACH",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-07-13T14:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 89,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 209961,
+        "idMal": 63819,
+        "title": {
+          "romaji": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH",
+          "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table 44: CLOUDY BEACH",
+          "native": "死亡遊戯で飯を食う。44:CLOUDY BEACH",
+          "userPreferred": "Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mystery",
+          "Thriller"
+        ],
+        "duration": 89,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209961-EKMAWTp299Kt.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209961-EKMAWTp299Kt.jpg",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-13T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-13T17:15:24Z"
   },
   {
     "title": "Star Wars: Visions Presents - The Ninth Jedi",
