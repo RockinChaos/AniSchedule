@@ -10477,5 +10477,40 @@
       ]
     },
     "zeroEpisode": false
+  },
+  {
+    "id": 214067,
+    "idMal": null,
+    "title": {
+      "romaji": "20001-nen Chikyuu no Tabi",
+      "english": "20001 An Earth Odyssey",
+      "native": "20001年 地球の旅",
+      "userPreferred": "20001-nen Chikyuu no Tabi"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "duration": 8,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214067-695OvCTmT3ZB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214067-695OvCTmT3ZB.png",
+      "color": "#e46b5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1784401200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
