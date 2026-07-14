@@ -635,6 +635,71 @@
     "addedAt": "2026-07-11T17:30:00Z"
   },
   {
+    "title": "Hanazakari no Kimitachi e 2nd Season",
+    "route": "hanazakari-no-kimitachi-e-2nd-season",
+    "romaji": "Hanazakari no Kimitachi e 2nd Season",
+    "english": "Hana-Kimi 2nd Season",
+    "native": "花ざかりの君たちへ 第2期",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-15T16:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-07-15T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 209669,
+        "idMal": 63780,
+        "title": {
+          "romaji": "Hanazakari no Kimitachi e 2nd Season",
+          "english": "Hana-Kimi Season 2",
+          "native": "花ざかりの君たちへ 第2期",
+          "userPreferred": "Hanazakari no Kimitachi e 2nd Season"
+        },
+        "format": "ONA",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209669-7GlPe2ra5f1i.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209669-7GlPe2ra5f1i.jpg",
+          "color": "#436be4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-15T16:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-07-15T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-15T16:00:00Z"
+  },
+  {
     "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
     "route": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-2nd-season",
     "romaji": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season",
