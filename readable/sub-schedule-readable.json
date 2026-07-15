@@ -10512,5 +10512,39 @@
     },
     "unaired": true,
     "zeroEpisode": false
+  },
+  {
+    "id": 214070,
+    "idMal": null,
+    "title": {
+      "romaji": "Sazin no Nakade",
+      "english": "Dust of the Simulacrum",
+      "native": "砂塵ノ中デ",
+      "userPreferred": "Sazin no Nakade"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "duration": 21,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214070-DvLRZXO5xGo6.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214070-DvLRZXO5xGo6.png",
+      "color": "#863528"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1784401200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
