@@ -654,7 +654,7 @@
       }
     ],
     "overrideDate": "2026-07-15T00:00:00Z",
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 209669,
@@ -690,6 +690,10 @@
             {
               "episode": 2,
               "airingAt": "2026-07-15T16:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-07-22T16:00:00Z"
             }
           ]
         },
