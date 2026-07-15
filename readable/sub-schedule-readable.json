@@ -10512,5 +10512,39 @@
     },
     "unaired": true,
     "zeroEpisode": false
+  },
+  {
+    "id": 214068,
+    "idMal": 63739,
+    "title": {
+      "romaji": "Moshi, Korekara Umarerunonara",
+      "english": "Echo",
+      "native": "もし、これから生まれるのなら",
+      "userPreferred": "Moshi, Korekara Umarerunonara"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 20,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214068-SOp3m9rto3eb.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214068-SOp3m9rto3eb.png",
+      "color": "#e4bb86"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1784401200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
