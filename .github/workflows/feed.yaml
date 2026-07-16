@@ -29,42 +29,20 @@ jobs:
           git config --local user.name "GitHub Action"
           while [ $(date +%s) -lt $end_time ]; do
             echo "Checking for newly released episodes"
-          
-            # Skip cycle if dub or sub schedule workflows are currently running
-            DUB_RUNNING=$(curl -s \
-              -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-dubs.yaml/runs?status=in_progress" \
-              | grep -o '"total_count":[0-9]*' | grep -o '[0-9]*$' || true)
-            SUB_RUNNING=$(curl -s \
-              -H "Accept: application/vnd.github+json" \
-              "https://api.github.com/repos/RockinChaos/AniSchedule/actions/workflows/update-subs.yaml/runs?status=in_progress" \
-              | grep -o '"total_count":[0-9]*' | grep -o '[0-9]*$' || true)
-            
-            DUB_RUNNING=${DUB_RUNNING:-0}
-            SUB_RUNNING=${SUB_RUNNING:-0}
-          
-            if [ "$DUB_RUNNING" -gt 0 ] || [ "$SUB_RUNNING" -gt 0 ]; then
-              echo "Schedule workflow is running, skipping cycle and resetting..."
-              sleep 30
-              # Hard reset at start of next cycle to avoid conflict
-              git rebase --abort 2>/dev/null || true
-              git fetch origin
-              git reset --hard origin/master
-              continue
-            fi
-          
-            # Clean up any leftover rebase state
-            if [ -d "$(git rev-parse --git-dir)/rebase-merge" ] || [ -d "$(git rev-parse --git-dir)/rebase-apply" ]; then
-              echo "Cleaning up stuck rebase..."
-              git rebase --abort
-            fi
-          
+
             # Pull latest changes
-            git pull --rebase
-          
+            if ! git pull; then
+                echo "git pull failed, resetting..."
+                git fetch origin
+                git reset --hard origin/master
+                git clean -fd
+                sleep 30
+                continue
+            fi
+
             # Run the feed update script
             timeout 120s npm run update-feeds
-          
+
             # Stage, commit, and push any JSON changes
             git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'
 
@@ -108,12 +86,27 @@ jobs:
               [ -n "$actions" ] && title="$actions Episode(s)"
               [ -n "$type_prefix" ] && title="$type_prefix $title"
 
-              git commit -m "$title" -m "$(cat changes.txt)" || true
+              if git diff --cached --quiet; then
+                  echo "No changes to commit."
+              else
+                  git commit -m "$title" -m "$(cat changes.txt)"
+              fi
             else
-              git commit -m "$title" || true
+              if git diff --cached --quiet; then
+                  echo "No changes to commit."
+              else
+                  git commit -m "$title"
+              fi
             fi
 
-            git pull --rebase && git push || echo "Push failed, will retry on next run"
+            if git push; then
+              echo "Push successful."
+            else
+              echo "Push failed, resetting for next run..."
+              git fetch origin
+              git reset --hard origin/master
+              git clean -fd
+            fi
 
             echo "Sleeping for 30 seconds..."
             sleep 30
