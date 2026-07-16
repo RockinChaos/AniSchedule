@@ -347,6 +347,65 @@
     "addedAt": "2026-07-14T17:00:00Z"
   },
   {
+    "title": "Bungou Stray Dogs Wan! 2",
+    "route": "bungou-stray-dogs-wan-2",
+    "romaji": "Bungou Stray Dogs Wan! 2",
+    "english": "Bungo Stray Dogs Wan! 2",
+    "native": "文豪ストレイドッグスわん！2",
+    "delayedFrom": "0001-01-01T12:40:00Z",
+    "delayedUntil": "0001-01-01T12:40:00Z",
+    "episodeDate": "2026-07-16T12:40:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 12,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 201667,
+        "idMal": 62883,
+        "title": {
+          "romaji": "Bungou Stray Dogs Wan! 2",
+          "english": "Bungo Stray Dogs WAN! 2",
+          "native": "文豪ストレイドッグス わん！２",
+          "userPreferred": "Bungou Stray Dogs Wan! 2"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Comedy",
+          "Slice of Life",
+          "Supernatural"
+        ],
+        "duration": 12,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201667-oqaW97DQ7HUj.jpg",
+          "color": "#e46b5d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-23T12:40:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-16T18:00:20Z"
+  },
+  {
     "title": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
     "route": "clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou",
     "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
@@ -1706,6 +1765,64 @@
     "addedAt": "2026-07-05T14:00:00Z"
   },
   {
+    "title": "Otome Kaiju Caramelise",
+    "route": "otome-kaijuu-caramelise",
+    "romaji": "Otome Kaiju Caramelise",
+    "english": "Kaiju Girl Caramelise",
+    "native": "乙女怪獣キャラメリゼ",
+    "delayedFrom": "0001-01-01T17:30:00Z",
+    "delayedUntil": "0001-01-01T17:30:00Z",
+    "episodeDate": "2026-07-16T17:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 204466,
+        "idMal": 63150,
+        "title": {
+          "romaji": "Otome Kaijuu Caramelise",
+          "english": "KAIJU GIRL CARAMELISE",
+          "native": "乙女怪獣キャラメリゼ",
+          "userPreferred": "Otome Kaijuu Caramelise"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204466-vXMvIs4VOoQd.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204466-vXMvIs4VOoQd.png",
+          "color": "#e45d78"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204466-cpbNGN9qHrGP.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-23T17:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-16T18:00:20Z"
+  },
+  {
     "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
     "route": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken",
     "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken",
@@ -2499,6 +2616,64 @@
     },
     "verified": false,
     "addedAt": "2026-07-09T03:16:16Z"
+  },
+  {
+    "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
+    "route": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
+    "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru",
+    "english": "The Exiled Heavy Knight Knows How to Game the System",
+    "native": "追放された転生重騎士はゲーム知識で無双する",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-16T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 26,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 180136,
+        "idMal": 59741,
+        "title": {
+          "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+          "english": "The Exiled Heavy Knight Knows How to Game the System",
+          "native": "追放された転生重騎士はゲーム知識で無双する",
+          "userPreferred": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180136-gtMTCRlOD4OE.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180136-gtMTCRlOD4OE.jpg",
+          "color": "#50c9fe"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-07-23T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-16T18:00:20Z"
   },
   {
     "title": "Yani Neko",
