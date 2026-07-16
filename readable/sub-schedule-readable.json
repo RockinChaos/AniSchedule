@@ -2623,10 +2623,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1784215560
-        },
-        {
           "episode": 4,
           "airingAt": 1784820360
         },
@@ -4800,10 +4796,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1784213760
-        },
         {
           "episode": 3,
           "airingAt": 1784818560
@@ -7622,39 +7614,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 206819,
-    "idMal": 63366,
-    "title": {
-      "romaji": "Kimi to Hanabi to Yakusoku to",
-      "english": null,
-      "native": "君と花火と約束と",
-      "userPreferred": "Kimi to Hanabi to Yakusoku to"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Romance"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206819-9VJOdSC6yFET.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206819-9VJOdSC6yFET.jpg",
-      "color": "#d6a178"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206819-4oLkAimSr18r.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1784214000
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
     "id": 206950,
     "idMal": 63383,
     "title": {
@@ -7752,10 +7711,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1784215800
-        },
         {
           "episode": 4,
           "airingAt": 1784820600
@@ -8034,10 +7989,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1784214000
-        },
         {
           "episode": 5,
           "airingAt": 1784818800
