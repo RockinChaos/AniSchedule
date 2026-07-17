@@ -1650,6 +1650,66 @@
     "addedAt": "2026-04-21T14:30:00Z"
   },
   {
+    "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
+    "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+    "english": "Mushoku Tensei: Jobless Reincarnation 3",
+    "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-07-18T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 14,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178789,
+        "idMal": 59193,
+        "title": {
+          "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+          "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+          "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
+          "userPreferred": "Mushoku Tensei III: Isekai Ittara Honki Dasu"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Drama",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
+          "color": "#28bbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-18T15:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T15:00:00Z"
+  },
+  {
     "title": "NEEDY GIRL OVERDOSE",
     "route": "needy-girl-overdose",
     "delayedFrom": "0001-01-01T17:00:00Z",
