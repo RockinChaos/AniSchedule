@@ -267,8 +267,8 @@ export async function fetchDubSchedule() {
 
     // Batch resolve every ID in as few requests as possible.
     const [aniListResults, malResults] = await Promise.all([
-        aniListIds.length ? anilistClient.searchIDS({ id: aniListIds, perPage: aniListIds.length }) : null,
-        malIds.length ? anilistClient.searchIDS({ idMal: malIds, perPage: malIds.length }) : null
+        aniListIds.length ? anilistClient.searchAllIDS({ id: aniListIds, perPage: aniListIds.length }) : null,
+        malIds.length ? anilistClient.searchAllIDS({ idMal: malIds, perPage: malIds.length }) : null
     ])
 
     const resolvedMedia = [ ...(aniListResults?.data?.Page?.media || []), ...(malResults?.data?.Page?.media || []) ]
