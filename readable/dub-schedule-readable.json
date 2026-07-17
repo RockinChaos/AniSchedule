@@ -2444,6 +2444,67 @@
     "addedAt": "2026-05-07T16:00:00Z"
   },
   {
+    "title": "Tenmaku no Jaadugar",
+    "route": "tenmaku-no-jaadugar",
+    "romaji": "Tenmaku no Jaadugar",
+    "english": "Jaadugar: A Witch in Mongolia",
+    "native": "天幕のジャードゥーガル",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-07-18T16:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-07-18T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 190569,
+        "idMal": 61483,
+        "title": {
+          "romaji": "Tenmaku no Jaadugar",
+          "english": "Jaadugar: A Witch in Mongolia",
+          "native": "天幕のジャードゥーガル",
+          "userPreferred": "Tenmaku no Jaadugar"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
+          "color": "#50a1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-18T16:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-07-18T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-18T16:00:00Z"
+  },
+  {
     "title": "Tensei shitara Slime Datta Ken 4th Season",
     "route": "tensei-shitara-slime-datta-ken-4th-season",
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
