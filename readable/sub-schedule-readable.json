@@ -3250,10 +3250,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1784390100
-        },
-        {
           "episode": 4,
           "airingAt": 1784994900
         },
@@ -3404,10 +3400,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1784390400
-        },
         {
           "episode": 4,
           "airingAt": 1784995200
@@ -4954,40 +4946,6 @@
         {
           "episode": 12,
           "airingAt": 1789477200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 196223,
-    "idMal": 62079,
-    "title": {
-      "romaji": "Cyborg 009: Nemesis",
-      "english": null,
-      "native": "サイボーグ009 ネメシス",
-      "userPreferred": "Cyborg 009: Nemesis"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "duration": 30,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196223-IGxBuIsascyV.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196223-IGxBuIsascyV.jpg",
-      "color": "#3586ff"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1784390400
         }
       ]
     },
@@ -7959,10 +7917,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1784392200
-        },
         {
           "episode": 4,
           "airingAt": 1784997000
