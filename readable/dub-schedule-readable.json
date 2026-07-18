@@ -886,8 +886,9 @@
     "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
     "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
     "native": "本好きの下剋上 領主の養女",
-    "delayedFrom": "2026-06-27T09:30:00Z",
-    "delayedUntil": "2026-07-03T09:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-07-18T09:30:00Z",
+    "delayedUntil": "2026-07-25T09:30:00Z",
     "episodeDate": "2026-07-18T09:30:00Z",
     "episodeNumber": 13,
     "episodes": 24,
@@ -898,7 +899,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "2026-07-11T00:00:00Z",
+    "overrideDate": "2026-07-18T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -928,7 +929,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 14,
+              "episode": 13,
               "airingAt": "2026-07-25T09:30:00Z"
             }
           ]
@@ -1291,6 +1292,64 @@
     },
     "verified": false,
     "addedAt": "2026-07-16T17:45:21Z"
+  },
+  {
+    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+    "route": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
+    "romaji": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
+    "english": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You 3rd Season",
+    "native": "君のことが大大大大大好きな100人の彼女 第3期",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-07-19T14:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 200637,
+        "idMal": 62811,
+        "title": {
+          "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
+          "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
+          "native": "君のことが大大大大大好きな100人の彼女 第3期",
+          "userPreferred": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Romance"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200637-QLR5uv9SbQ69.jpg",
+          "color": "#f193bb"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-19T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-19T14:00:00Z"
   },
   {
     "title": "Kirio Fanclub",
@@ -1656,7 +1715,7 @@
     "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-18T15:00:00Z",
+    "episodeDate": "2026-07-19T15:00:00Z",
     "episodeNumber": 1,
     "episodes": 14,
     "lengthMin": 23,
@@ -1667,7 +1726,7 @@
       }
     ],
     "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
+    "unaired": true,
     "media": {
       "media": {
         "id": 178789,
@@ -1697,8 +1756,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-07-25T15:00:00Z"
+              "episode": 1,
+              "airingAt": "2026-07-19T15:00:00Z"
             }
           ]
         },
