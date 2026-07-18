@@ -102,8 +102,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-07-18T16:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-07-25T16:00:00Z"
             }
           ]
         },
@@ -624,15 +624,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-07-18T16:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-07-25T16:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-04T16:00:00Z"
   },
   {
@@ -2521,7 +2521,7 @@
       }
     ],
     "overrideDate": "2026-07-18T00:00:00Z",
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 190569,
@@ -2554,6 +2554,10 @@
             {
               "episode": 2,
               "airingAt": "2026-07-18T16:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-07-25T16:00:00Z"
             }
           ]
         },
@@ -2902,8 +2906,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 13,
-              "airingAt": "2026-07-18T16:00:00Z"
+              "episode": 14,
+              "airingAt": "2026-07-25T16:00:00Z"
             }
           ]
         },
