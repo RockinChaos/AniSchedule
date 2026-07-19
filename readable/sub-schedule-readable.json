@@ -1533,6 +1533,65 @@
     "zeroEpisode": false
   },
   {
+    "id": 141953,
+    "idMal": 60568,
+    "title": {
+      "romaji": "Jiyi Guanli Ju",
+      "english": "False Memory",
+      "native": "记忆管理局",
+      "userPreferred": "Jiyi Guanli Ju"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141953-S3RozQSOxzrw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx141953-S3RozQSOxzrw.png",
+      "color": "#d6931a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141953-WCViXlKR8YI6.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1785643200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1785643260
+        },
+        {
+          "episode": 3,
+          "airingAt": 1785643320
+        },
+        {
+          "episode": 4,
+          "airingAt": 1786248000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1786852800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1787457600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1788062400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 142274,
     "idMal": 50418,
     "title": {
