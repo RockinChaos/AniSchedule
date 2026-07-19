@@ -1713,10 +1713,11 @@
     "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "english": "Mushoku Tensei: Jobless Reincarnation 3",
     "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-19T15:00:00Z",
-    "episodeNumber": 1,
+    "delayedFrom": "0001-01-01T11:00:00Z",
+    "delayedUntil": "0001-01-01T11:00:00Z",
+    "episodeDate": "2026-07-19T11:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
     "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1725,7 +1726,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "0001-01-01T00:00:00Z",
+    "overrideDate": "2026-07-19T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -1756,8 +1757,16 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 1,
+              "airingAt": "2026-07-19T11:00:00Z"
+            },
+            {
               "episode": 2,
-              "airingAt": "2026-07-26T15:00:00Z"
+              "airingAt": "2026-07-19T11:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-07-26T11:00:00Z"
             }
           ]
         },
