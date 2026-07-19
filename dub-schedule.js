@@ -612,6 +612,22 @@ export async function updateDubFeed(optSchedule) {
         return !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)
     }).sort((a, b) => b.episode.aired - a.episode.aired)
 
+    // Fix same-day episodes whose time doesn't match the schedule entry corrected time.
+    schedule.forEach(entry => {
+        existingFeed = existingFeed.map(episode => {
+            if (episode.id === entry.media?.media?.id && isSameUTCDay(episode.episode.airedAt, entry.episodeDate) && episode.episode.airedAt !== entry.episodeDate) {
+                const prevDate = episode.episode.airedAt
+                episode.episode.airedAt = fixTime(new Date(prevDate), new Date(entry.episodeDate), true)
+                if (episode.episode.airedAt !== prevDate) {
+                    changes.push(`(Dub) Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} from ${prevDate} to ${episode.episode.airedAt} (same-day time correction)`)
+                    console.log(`Modified Episode ${episode.episode.aired} of ${entry.media.media.title.userPreferred} same-day time from ${prevDate} to ${episode.episode.airedAt}`)
+                    modifiedEpisodes.push(episode)
+                }
+            }
+            return episode
+        })
+    })
+
     const newFeed = Object.values([...newEpisodes.filter(({ id, episode }) => !existingFeed.some(media => media.id === id && media.episode.aired === episode.aired)), ...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
     if (JSON.stringify(newFeed) !== JSON.stringify(exactFeed || {})) { // helps prevent rebase conflicts
         const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
