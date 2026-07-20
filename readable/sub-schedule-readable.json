@@ -4344,7 +4344,7 @@
       "color": "#ff7835"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194219-t8ID9kSIpXxf.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -5555,7 +5555,7 @@
       "color": "#43bbe4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199066-nmAYnI6uChse.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -10164,6 +10164,136 @@
         {
           "episode": 12,
           "airingAt": 1790175600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 214260,
+    "idMal": 61619,
+    "title": {
+      "romaji": "Zeri Feisheng",
+      "english": "A Good Day to Ascend",
+      "native": "择日飞升",
+      "userPreferred": "Zeri Feisheng"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 20,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214260-m2fg5OwduwSt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214260-m2fg5OwduwSt.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1784941200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1785546000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1786150800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1786755600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1787360400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1787965200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1788570000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789174800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789779600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790384400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1790989200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1791594000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1792198800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1792803600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1793408400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1794013200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1794618000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1795222800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1795827600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1796432400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1797037200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1797642000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1798246800
+        },
+        {
+          "episode": 27,
+          "airingAt": 1798851600
+        },
+        {
+          "episode": 28,
+          "airingAt": 1799456400
         }
       ]
     },
