@@ -115,6 +115,157 @@
     "addedAt": "2026-06-03T01:00:00Z"
   },
   {
+    "title": "BANANA FISH",
+    "route": "banana-fish",
+    "native": "バナナフィッシュ",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-12T07:00:00Z",
+    "episodeNumber": 24,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 22,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-08-12T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 100388,
+        "idMal": 36649,
+        "title": {
+          "romaji": "BANANA FISH",
+          "english": "BANANA FISH",
+          "native": "BANANA FISH",
+          "userPreferred": "BANANA FISH"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Psychological",
+          "Thriller"
+        ],
+        "duration": 23,
+        "seasonYear": 2018,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100388-hjkg1AnlJR5z.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100388-hjkg1AnlJR5z.jpg",
+          "color": "#ffd643"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100388-CR4PUEz1Nzsl.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 14,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 15,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 16,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 17,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 18,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 19,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 20,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 21,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 22,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 23,
+              "airingAt": "2026-08-12T07:00:00Z"
+            },
+            {
+              "episode": 24,
+              "airingAt": "2026-08-12T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-12T07:00:00Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedText": "Break",
