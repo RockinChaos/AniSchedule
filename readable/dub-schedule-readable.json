@@ -560,9 +560,9 @@
     "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga Hinamiya Chou Nezumi Torikae Den",
     "english": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
     "native": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-21T15:00:00Z",
+    "delayedFrom": "0001-01-01T15:45:00Z",
+    "delayedUntil": "0001-01-01T15:45:00Z",
+    "episodeDate": "2026-07-26T15:45:00Z",
     "episodeNumber": 1,
     "episodes": 11,
     "lengthMin": 23,
@@ -573,7 +573,7 @@
       }
     ],
     "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
+    "unaired": true,
     "media": {
       "media": {
         "id": 188139,
@@ -601,8 +601,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-07-28T15:00:00Z"
+              "episode": 1,
+              "airingAt": "2026-07-26T15:45:00Z"
             }
           ]
         },
