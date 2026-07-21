@@ -5375,10 +5375,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1784646000
-        },
-        {
           "episode": 4,
           "airingAt": 1785250800
         },
@@ -5691,49 +5687,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 199409,
-    "idMal": 62248,
-    "title": {
-      "romaji": "Yi Nian Yongheng 4",
-      "english": null,
-      "native": "一念永恒 第四季",
-      "userPreferred": "Yi Nian Yongheng 4"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199409-X1BoggxZulkT.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199409-X1BoggxZulkT.jpg",
-      "color": "#e4865d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1784646000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1784646000
-        },
-        {
-          "episode": 3,
-          "airingAt": 1784646000
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -10075,6 +10028,41 @@
         {
           "episode": 1,
           "airingAt": 1785510000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 213958,
+    "idMal": null,
+    "title": {
+      "romaji": "Sarangui Heartsping: Goraeboseok-ui Jeonseol",
+      "english": null,
+      "native": "사랑의 하츄핑: 고래보석의 전설",
+      "userPreferred": "Sarangui Heartsping: Goraeboseok-ui Jeonseol"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213958-dNZEWf0y9ZzD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213958-dNZEWf0y9ZzD.jpg",
+      "color": "#50d6fe"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1785855600
         }
       ]
     },
