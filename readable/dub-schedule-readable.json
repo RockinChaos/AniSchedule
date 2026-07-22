@@ -239,6 +239,66 @@
     "addedAt": "2026-06-03T01:00:00Z"
   },
   {
+    "title": "Ansatsu Kyoushitsu: Minna no Jikan",
+    "route": "ansatsu-kyoushitsu-movie-minna-no-jikan",
+    "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+    "english": "Assassination Classroom: Everyone's Time",
+    "native": "暗殺教室 みんなの時間",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "episodeDate": "2026-07-24T00:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 87,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 198373,
+        "idMal": 62421,
+        "title": {
+          "romaji": "Ansatsu Kyoushitsu: Minna no Jikan",
+          "english": "Assassination Classroom the Movie: Our Time",
+          "native": "暗殺教室 みんなの時間",
+          "userPreferred": "Ansatsu Kyoushitsu: Minna no Jikan"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": 87,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198373-bJ7PYyknp4ln.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198373-bJ7PYyknp4ln.jpg",
+          "color": "#f15d5d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-24T00:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-24T00:00:00Z"
+  },
+  {
     "title": "BANANA FISH",
     "route": "banana-fish",
     "native": "バナナフィッシュ",
@@ -1132,6 +1192,66 @@
     },
     "verified": true,
     "addedAt": "2026-04-18T09:30:00Z"
+  },
+  {
+    "title": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+    "route": "isekai-no-sata-wa-shachiku-shidai-omoi-wo-hasemashita",
+    "romaji": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+    "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter Special",
+    "native": "異世界の沙汰は社畜次第 OVA 「思いを馳せました」",
+    "delayedFrom": "0001-01-01T13:30:00Z",
+    "delayedUntil": "0001-01-01T13:30:00Z",
+    "episodeDate": "2026-07-21T13:30:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 212563,
+        "idMal": 63503,
+        "title": {
+          "romaji": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+          "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander",
+          "native": "異世界の沙汰は社畜次第 思いを馳せました",
+          "userPreferred": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita"
+        },
+        "format": "OVA",
+        "genres": [
+          "Adventure",
+          "Fantasy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212563-8YkPUqUDReu9.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212563-8YkPUqUDReu9.png",
+          "color": "#e45d86"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-07-21T13:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-07-22T17:30:18Z"
   },
   {
     "title": "Kabushiki Gaisha Magi Lumiere 2nd Season",
