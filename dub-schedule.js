@@ -244,8 +244,30 @@ export async function fetchDubSchedule() {
     //     }
     // })
 
+    // Build a map of already-resolved routes from the current schedule
+    const resolvedFromCache = new Map(currentSchedule.filter(entry => entry.route && entry.media?.media?.id).map(entry => [entry.route, entry.media.media]))
+
+    // Fetch schedule details only for routes we don't already have IDs for
+    const uncachedRoutes = airing.filter(entry => !resolvedFromCache.has(entry.route))
+    console.log(`Fetching schedule details for ${uncachedRoutes.length}/${airing.length} routes (${airing.length - uncachedRoutes.length} resolved from cache)`)
+    if (uncachedRoutes.length > 0) console.log(`Uncached routes: ${uncachedRoutes.map(entry => entry.route).join(', ')}`)
+
+    const scheduleDetails = await Promise.all(
+      airing.map(entry => {
+          if (resolvedFromCache.has(entry.route)) {
+              const cached = resolvedFromCache.get(entry.route)
+              const stub = { route: entry.route, dubEpisodeOverride: { overrideDate: entry.overrideDate || null } }
+              if (cached.id) stub.websites = { aniList: `https://anilist.co/anime/${cached.id}` }
+              else if (cached.idMal) stub.websites = { mal: `https://myanimelist.net/anime/${cached.idMal}` }
+              return Promise.resolve(stub)
+          }
+          console.log(`Fetching schedule details for uncached route: ${entry.route}`)
+          return fetchAiringSchedule({ type: 'anime', route: entry.route, token: BEARER_TOKEN })
+      })
+    )
+
     // Fetch schedule details (which include website links) for every route.
-    const scheduleDetails = await Promise.all(airing.map(entry => fetchAiringSchedule({ type: 'anime', route: entry.route, token: BEARER_TOKEN })))
+    // const scheduleDetails = await Promise.all(airing.map(entry => fetchAiringSchedule({ type: 'anime', route: entry.route, token: BEARER_TOKEN })))
 
     const aniListIds = []
     const malIds = []
