@@ -4710,10 +4710,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1784818560
-        },
-        {
           "episode": 4,
           "airingAt": 1785423360
         },
@@ -6152,40 +6148,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 202717,
-    "idMal": 63011,
-    "title": {
-      "romaji": "Chiikawa: Ningyo no Shima no Himitsu",
-      "english": null,
-      "native": "映画ちいかわ 人魚の島のひみつ",
-      "userPreferred": "Chiikawa: Ningyo no Shima no Himitsu"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202717-kHDn7BRiP9CR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202717-kHDn7BRiP9CR.jpg",
-      "color": "#43bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202717-CuvdrT9VX9Gr.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1784818800
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7642,10 +7604,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1784818800
-        },
         {
           "episode": 6,
           "airingAt": 1785423600
