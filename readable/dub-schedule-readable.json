@@ -620,6 +620,60 @@
     "addedAt": "2026-07-04T14:00:00Z"
   },
   {
+    "title": "Boku no Hero Academia: I Am a Hero Too",
+    "route": "boku-no-hero-academia-i-am-a-hero-too",
+    "romaji": "Boku no Hero Academia: I Am a Hero Too",
+    "english": "My Hero Academia: I Am a Hero Too",
+    "native": "僕のヒーローアカデミア I am a hero too",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-08-02T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 211711,
+        "idMal": 64107,
+        "title": {
+          "romaji": "Boku no Hero Academia: I am a hero too",
+          "english": null,
+          "native": "僕のヒーローアカデミア I am a hero too",
+          "userPreferred": "Boku no Hero Academia: I am a hero too"
+        },
+        "format": "SPECIAL",
+        "genres": [],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211711-Oy6R5cmGHLCL.jpg",
+          "color": "#f1d61a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-02T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-02T16:00:00Z"
+  },
+  {
     "title": "Bungou Stray Dogs Wan! 2",
     "route": "bungou-stray-dogs-wan-2",
     "romaji": "Bungou Stray Dogs Wan! 2",
