@@ -248,12 +248,19 @@ export async function fetchDubSchedule() {
     const resolvedFromCache = new Map(currentSchedule.filter(entry => entry.route && entry.media?.media?.id).map(entry => [entry.route, entry.media.media]))
 
     // Fetch schedule details only for routes we don't already have IDs for
-    const uncachedRoutes = airing.filter(entry => !resolvedFromCache.has(entry.route))
+    const uncachedRoutes = airing.filter(entry => !resolvedFromCache.has(entry.route) && !entry.websites)
     console.log(`Fetching schedule details for ${uncachedRoutes.length}/${airing.length} routes (${airing.length - uncachedRoutes.length} resolved from cache)`)
     if (uncachedRoutes.length > 0) console.log(`Uncached routes: ${uncachedRoutes.map(entry => entry.route).join(', ')}`)
 
     const scheduleDetails = await Promise.all(
       airing.map(entry => {
+          if (entry.websites) {
+              return Promise.resolve({
+                  route: entry.route,
+                  websites: entry.websites,
+                  dubEpisodeOverride: { overrideDate: entry.overrideDate || null }
+              })
+          }
           if (resolvedFromCache.has(entry.route)) {
               const cached = resolvedFromCache.get(entry.route)
               const stub = { route: entry.route, dubEpisodeOverride: { overrideDate: entry.overrideDate || null } }
@@ -310,7 +317,7 @@ export async function fetchDubSchedule() {
     // modify timetables entries for better functionality and fix any offset minutes.
     airing.forEach((entry) => {
         const detail = scheduleDetailsMap.get(entry.route)
-        if (detail.dubEpisodeOverride.overrideDate) entry.overrideDate = detail.dubEpisodeOverride.overrideDate
+        if (detail?.dubEpisodeOverride?.overrideDate) entry.overrideDate = detail.dubEpisodeOverride.overrideDate
 
         const episodeDate = new Date(entry.episodeDate)
         episodeDate.setMinutes(Math.floor((episodeDate.getMinutes() + 1) / 5) * 5, 0)
