@@ -876,10 +876,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 376,
-          "airingAt": 1785056400
-        },
-        {
           "episode": 377,
           "airingAt": 1785661200
         },
@@ -6322,10 +6318,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1785054600
-        },
-        {
           "episode": 5,
           "airingAt": 1785659400
         },
@@ -9537,7 +9529,7 @@
   },
   {
     "id": 213831,
-    "idMal": null,
+    "idMal": 64543,
     "title": {
       "romaji": "Snack HAZAMA",
       "english": "Snack Hazama",
