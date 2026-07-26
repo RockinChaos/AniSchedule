@@ -937,7 +937,7 @@
           "Drama",
           "Romance"
         ],
-        "duration": null,
+        "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
           "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
@@ -1048,7 +1048,11 @@
           "userPreferred": "Grow Up Show: Himawari no Circus-dan"
         },
         "format": "TV",
-        "genres": [],
+        "genres": [
+          "Adventure",
+          "Slice of Life",
+          "Sports"
+        ],
         "duration": 24,
         "seasonYear": 2026,
         "coverImage": {
