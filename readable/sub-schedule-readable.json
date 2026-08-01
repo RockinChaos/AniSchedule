@@ -132,73 +132,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 235,
-    "idMal": 235,
-    "title": {
-      "romaji": "Meitantei Conan",
-      "english": "Detective Conan",
-      "native": "名探偵コナン",
-      "userPreferred": "Meitantei Conan"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Mystery",
-      "Psychological"
-    ],
-    "duration": 25,
-    "seasonYear": 1996,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg",
-      "color": "#28a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1210,
-          "airingAt": 1786179600
-        },
-        {
-          "episode": 1211,
-          "airingAt": 1786784400
-        },
-        {
-          "episode": 1212,
-          "airingAt": 1787389200
-        },
-        {
-          "episode": 1213,
-          "airingAt": 1787994000
-        },
-        {
-          "episode": 1214,
-          "airingAt": 1788598800
-        },
-        {
-          "episode": 1215,
-          "airingAt": 1789203600
-        },
-        {
-          "episode": 1216,
-          "airingAt": 1789808400
-        },
-        {
-          "episode": 1217,
-          "airingAt": 1790413200
-        },
-        {
-          "episode": 1218,
-          "airingAt": 1791018000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 966,
     "idMal": 966,
     "title": {
@@ -1873,7 +1806,7 @@
       "color": "#f1e4c9"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169582-D5p5iRI5XqML.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -3871,10 +3804,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1785598200
-        },
-        {
           "episode": 6,
           "airingAt": 1786203000
         },
@@ -4170,10 +4099,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 18,
-          "airingAt": 1785595560
-        },
-        {
           "episode": 19,
           "airingAt": 1786200360
         },
@@ -4235,10 +4160,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1785596400
-        },
         {
           "episode": 6,
           "airingAt": 1786201200
@@ -7846,10 +7767,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 16,
-          "airingAt": 1785596400
-        },
         {
           "episode": 17,
           "airingAt": 1786201200
