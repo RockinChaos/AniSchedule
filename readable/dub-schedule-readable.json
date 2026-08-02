@@ -1691,8 +1691,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-08-02T15:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-08-09T15:00:00Z"
             }
           ]
         },
@@ -2234,7 +2234,8 @@
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
     "episodeDate": "2026-08-05T07:00:00Z",
-    "episodeNumber": 1,
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 1,
     "episodes": 8,
     "mediaTypes": [
       {
@@ -2272,6 +2273,34 @@
           "nodes": [
             {
               "episode": 1,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-05T07:00:00Z"
+            },
+            {
+              "episode": 8,
               "airingAt": "2026-08-05T07:00:00Z"
             }
           ]
