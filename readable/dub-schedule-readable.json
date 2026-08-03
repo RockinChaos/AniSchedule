@@ -1,5 +1,115 @@
 [
   {
+    "title": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+    "route": "arafou-otoko-no-isekai-tsuuhan-seikatsu",
+    "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+    "english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+    "native": "アラフォー男の異世界通販生活",
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2026-08-04T22:00:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-08-04T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 180292,
+        "idMal": 59561,
+        "title": {
+          "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+          "english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+          "native": "アラフォー男の異世界通販生活",
+          "userPreferred": "Arafou Otoko no Isekai Tsuuhan Seikatsu"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Ecchi",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180292-GG0nwYZ5HeN7.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180292-GG0nwYZ5HeN7.jpg",
+          "color": "#f1bb43"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180292-ZTl79DRNancx.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-08-04T22:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-08-04T22:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-04T22:00:00Z"
+  },
+  {
     "title": "BANANA FISH",
     "route": "banana-fish",
     "native": "バナナフィッシュ",
