@@ -1,64 +1,5 @@
 [
   {
-    "title": "Android wa Keiken Ninzuu ni Hairimasu ka?? Special",
-    "route": "android-wa-keiken-ninzuu-ni-hairimasu-ka-special",
-    "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka?? Special",
-    "english": "Does It Count If You Lose Your Innocence to an Android? Special",
-    "native": "アンドロイドは経験人数に入りますか??",
-    "delayedFrom": "0001-01-01T01:00:00Z",
-    "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-07-29T01:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 5,
-    "mediaTypes": [
-      {
-        "name": "Special",
-        "route": "special"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 208517,
-        "idMal": 63330,
-        "title": {
-          "romaji": "Android wa Keiken Ninzuu ni Hairimasu ka??: 5-kakan Tsuzukete......?",
-          "english": "Does it Count if You Lose Your Innocence to an Android?: Five Days Running...?",
-          "native": "アンドロイドは経験人数に入りますか？？ 5日間続けて……？",
-          "userPreferred": "Android wa Keiken Ninzuu ni Hairimasu ka??: 5-kakan Tsuzukete......?"
-        },
-        "format": "ONA",
-        "genres": [
-          "Comedy",
-          "Ecchi",
-          "Romance",
-          "Sci-Fi"
-        ],
-        "duration": 5,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208517-cKokYKZaiCKw.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208517-cKokYKZaiCKw.jpg",
-          "color": "#f1c9a1"
-        },
-        "isAdult": true,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-07-29T01:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-29T01:00:00Z"
-  },
-  {
     "title": "BANANA FISH",
     "route": "banana-fish",
     "native": "バナナフィッシュ",
@@ -270,8 +211,8 @@
     "route": "black-torch",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-08-01T13:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-08T13:00:00Z",
+    "episodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -322,59 +263,6 @@
     "addedAt": "2026-07-04T14:00:00Z"
   },
   {
-    "title": "Boku no Hero Academia: I Am a Hero Too",
-    "route": "boku-no-hero-academia-i-am-a-hero-too",
-    "romaji": "Boku no Hero Academia: I Am a Hero Too",
-    "english": "My Hero Academia: I Am a Hero Too",
-    "native": "僕のヒーローアカデミア I am a hero too",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-02T16:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "mediaTypes": [
-      {
-        "name": "Special",
-        "route": "special"
-      }
-    ],
-    "unaired": true,
-    "media": {
-      "media": {
-        "id": 211711,
-        "idMal": 64107,
-        "title": {
-          "romaji": "Boku no Hero Academia: I am a hero too",
-          "english": null,
-          "native": "僕のヒーローアカデミア I am a hero too",
-          "userPreferred": "Boku no Hero Academia: I am a hero too"
-        },
-        "format": "SPECIAL",
-        "genres": [],
-        "duration": null,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211711-Oy6R5cmGHLCL.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211711-Oy6R5cmGHLCL.jpg",
-          "color": "#f1d61a"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-08-02T16:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-08-02T16:00:00Z"
-  },
-  {
     "title": "Bungou Stray Dogs Wan! 2",
     "route": "bungou-stray-dogs-wan-2",
     "romaji": "Bungou Stray Dogs Wan! 2",
@@ -382,8 +270,8 @@
     "native": "文豪ストレイドッグスわん！2",
     "delayedFrom": "0001-01-01T12:40:00Z",
     "delayedUntil": "0001-01-01T12:40:00Z",
-    "episodeDate": "2026-07-30T12:40:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-06T12:40:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 12,
     "mediaTypes": [
@@ -438,8 +326,8 @@
     "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2026-07-29T12:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-05T12:00:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -496,8 +384,8 @@
     "native": "도굴왕",
     "delayedFrom": "0001-01-01T17:20:00Z",
     "delayedUntil": "0001-01-01T17:20:00Z",
-    "episodeDate": "2026-07-29T17:20:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-08-05T17:20:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -613,8 +501,8 @@
     "native": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
     "delayedFrom": "0001-01-01T15:45:00Z",
     "delayedUntil": "0001-01-01T15:45:00Z",
-    "episodeDate": "2026-08-02T15:45:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-08-09T15:45:00Z",
+    "episodeNumber": 3,
     "episodes": 11,
     "lengthMin": 23,
     "mediaTypes": [
@@ -651,8 +539,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-08-02T15:45:00Z"
+              "episode": 3,
+              "airingAt": "2026-08-09T15:45:00Z"
             }
           ]
         },
@@ -670,8 +558,8 @@
     "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-07-27T13:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-03T13:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -729,8 +617,8 @@
     "native": "グロウアップショウ ～ひまわりのサーカス団～",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-01T16:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-08T16:00:00Z",
+    "episodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -786,8 +674,8 @@
     "native": "花織さんは転生しても喧嘩がしたい",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2026-08-01T17:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-08T17:30:00Z",
+    "episodeNumber": 5,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -843,8 +731,8 @@
     "native": "花ざかりの君たちへ 第2期",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-29T16:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-05T16:00:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -960,8 +848,8 @@
     "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-29T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-08-05T17:00:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1018,8 +906,8 @@
     "native": "本好きの下剋上 領主の養女",
     "delayedFrom": "2026-07-18T09:30:00Z",
     "delayedUntil": "2026-07-25T09:30:00Z",
-    "episodeDate": "2026-08-01T09:30:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2026-08-08T09:30:00Z",
+    "episodeNumber": 15,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1076,8 +964,8 @@
     "native": "株式会社マジルミエ 第2期",
     "delayedFrom": "0001-01-01T17:25:00Z",
     "delayedUntil": "0001-01-01T17:25:00Z",
-    "episodeDate": "2026-08-01T17:25:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-08T17:25:00Z",
+    "episodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1134,8 +1022,8 @@
     "native": "神の雫",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-31T15:30:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2026-08-07T15:30:00Z",
+    "episodeNumber": 16,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1192,8 +1080,8 @@
     "native": "片田舎のおっさん、剣聖になる 第二期",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2026-07-29T15:15:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-05T15:15:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1243,66 +1131,6 @@
     "addedAt": "2026-07-08T15:15:00Z"
   },
   {
-    "title": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
-    "route": "kimetsu-no-yaiba-movie-mugen-jou-hen",
-    "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
-    "english": "Demon Slayer: Infinity Castle - Part 1: Akaza Returns",
-    "native": "劇場版 鬼滅の刃 無限城編 第一章 猗窩座再来",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-28T15:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 155,
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 178788,
-        "idMal": 59192,
-        "title": {
-          "romaji": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
-          "english": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-          "native": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-          "userPreferred": "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Supernatural"
-        ],
-        "duration": 155,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-zm3gtpB9TpRt.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178788-zm3gtpB9TpRt.jpg",
-          "color": "#35bbe4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178788-tSHb5MiaNBNL.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-07-28T15:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-29T08:30:16Z"
-  },
-  {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
     "route": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-3rd-season",
     "romaji": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
@@ -1310,8 +1138,8 @@
     "native": "君のことが大大大大大好きな100人の彼女 第3期",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-08-02T14:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-09T14:00:00Z",
+    "episodeNumber": 4,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1367,8 +1195,8 @@
     "native": "霧尾ファンクラブ",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-29T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-08-05T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1425,8 +1253,8 @@
     "native": "これ描いて死ね",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-31T15:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-07T15:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1482,8 +1310,8 @@
     "native": "攻殻機動隊（仮）",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-07-28T14:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-04T14:30:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1537,8 +1365,8 @@
     "native": "ライアーゲーム",
     "delayedFrom": "2026-07-06T16:00:00Z",
     "delayedUntil": "2026-07-13T16:00:00Z",
-    "episodeDate": "2026-07-27T16:00:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2026-08-03T16:00:00Z",
+    "episodeNumber": 16,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1593,8 +1421,8 @@
     "native": "魔入りました！入間くん 第4シリーズ",
     "delayedFrom": "0001-01-01T10:25:00Z",
     "delayedUntil": "0001-01-01T10:25:00Z",
-    "episodeDate": "2026-08-01T10:25:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2026-08-08T10:25:00Z",
+    "episodeNumber": 19,
     "episodes": 24,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1644,6 +1472,112 @@
     "addedAt": "2026-04-04T17:22:08Z"
   },
   {
+    "title": "MAO",
+    "route": "mao",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-24T07:00:00Z",
+    "episodeNumber": 13,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 26,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-08-24T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 196012,
+        "idMal": 62048,
+        "title": {
+          "romaji": "MAO",
+          "english": "MAO",
+          "native": "MAO",
+          "userPreferred": "MAO"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-R3YNjunufpYh.jpg",
+          "color": "#f1935d"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 6,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 7,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 8,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 9,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 10,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 11,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 12,
+              "airingAt": "2026-08-24T07:00:00Z"
+            },
+            {
+              "episode": 13,
+              "airingAt": "2026-08-24T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-24T07:00:00Z"
+  },
+  {
     "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
     "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
@@ -1651,8 +1585,8 @@
     "native": "無職転生 ～異世界行ったら本気だす～ 第3期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-08-02T15:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-09T15:00:00Z",
+    "episodeNumber": 5,
     "episodes": 14,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1710,8 +1644,8 @@
     "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-08-02T14:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-09T14:00:00Z",
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1767,8 +1701,8 @@
     "native": "乙女怪獣キャラメリゼ",
     "delayedFrom": "0001-01-01T17:30:00Z",
     "delayedUntil": "0001-01-01T17:30:00Z",
-    "episodeDate": "2026-07-30T17:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-06T17:30:00Z",
+    "episodeNumber": 4,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1824,8 +1758,8 @@
     "native": "乙女ゲー世界はモブに厳しい世界です 第2期",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-29T15:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-08-05T15:30:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1884,7 +1818,7 @@
     "delayedText": "Break",
     "delayedFrom": "2026-06-24T14:00:00Z",
     "delayedUntil": "2026-08-12T14:00:00Z",
-    "episodeDate": "2026-07-29T14:00:00Z",
+    "episodeDate": "2026-08-05T14:00:00Z",
     "episodeNumber": 12,
     "episodes": 19,
     "lengthMin": 23,
@@ -1946,8 +1880,8 @@
     "native": "リィンカーネーションの花弁",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-29T17:00:00Z",
-    "episodeNumber": 12,
+    "episodeDate": "2026-08-05T17:00:00Z",
+    "episodeNumber": 13,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2001,8 +1935,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-08-01T01:00:00Z",
-    "episodeNumber": 18,
+    "episodeDate": "2026-08-08T01:00:00Z",
+    "episodeNumber": 19,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -2057,8 +1991,8 @@
     "native": "さよならララ",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-08-02T15:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-08-09T15:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2095,8 +2029,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-08-02T15:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-08-09T15:30:00Z"
             }
           ]
         },
@@ -2174,8 +2108,8 @@
     "native": "正反対な君と僕 第2期",
     "delayedFrom": "0001-01-01T08:30:00Z",
     "delayedUntil": "0001-01-01T08:30:00Z",
-    "episodeDate": "2026-08-02T08:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-09T08:30:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2319,8 +2253,8 @@
     "native": "スーパーの裏でヤニ吸うふたり",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-07-30T15:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-06T15:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2429,64 +2363,6 @@
     "addedAt": "2026-08-19T17:00:00Z"
   },
   {
-    "title": "Tamon-kun Ima Docchi!?",
-    "route": "tamon-kun-ima-docchi",
-    "romaji": "Tamon-kun Ima Docchi!?",
-    "english": "Tamon's B-Side",
-    "native": "多聞くん今どっち!?",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-30T15:00:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 178005,
-        "idMal": 59047,
-        "title": {
-          "romaji": "Tamon-kun Ima Docchi!?",
-          "english": "Tamon's B-Side",
-          "native": "多聞くん今どっち！？",
-          "userPreferred": "Tamon-kun Ima Docchi!?"
-        },
-        "format": "ONA",
-        "genres": [
-          "Comedy",
-          "Music",
-          "Romance"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178005-pCEReATswrup.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178005-pCEReATswrup.jpg",
-          "color": "#e4436b"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178005-X4Tr7p0sCQbx.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-07-30T15:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-05-07T16:00:00Z"
-  },
-  {
     "title": "Tenmaku no Jaadugar",
     "route": "tenmaku-no-jaadugar",
     "romaji": "Tenmaku no Jaadugar",
@@ -2494,8 +2370,8 @@
     "native": "天幕のジャードゥーガル",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-08-01T16:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-08T16:00:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2542,65 +2418,6 @@
     "addedAt": "2026-07-18T16:00:00Z"
   },
   {
-    "title": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-    "route": "tensei-shitara-slime-datta-ken-movie-2",
-    "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-    "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-    "native": "劇場版 転生したらスライムだった件 蒼海の涙編",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "episodeDate": "2026-07-31T00:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 104,
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 182206,
-        "idMal": 59971,
-        "title": {
-          "romaji": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen",
-          "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
-          "native": "劇場版 転生したらスライムだった件 蒼海の涙編",
-          "userPreferred": "Tensei Shitara Slime Datta Ken: Soukai no Namida-hen"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Comedy",
-          "Fantasy"
-        ],
-        "duration": 104,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182206-LcitQfDLsdnC.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-LcitQfDLsdnC.png",
-          "color": "#35a1e4"
-        },
-        "isAdult": false,
-        "bannerImage": null,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-07-31T00:00:00Z"
-            }
-          ]
-        },
-        "zeroEpisode": false
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-07-31T04:30:26Z"
-  },
-  {
     "title": "Tensei shitara Slime Datta Ken 4th Season",
     "route": "tensei-shitara-slime-datta-ken-4th-season",
     "romaji": "Tensei shitara Slime Datta Ken 4th Season",
@@ -2608,8 +2425,8 @@
     "native": "転生したらスライムだった件 第4期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-07-31T15:00:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2026-08-07T15:00:00Z",
+    "episodeNumber": 16,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2721,8 +2538,8 @@
     "native": "サンダー3",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-07-29T16:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-05T16:30:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2778,8 +2595,8 @@
     "native": "追放された転生重騎士はゲーム知識で無双する",
     "delayedFrom": "0001-01-01T18:00:00Z",
     "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2026-07-30T18:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-06T18:00:00Z",
+    "episodeNumber": 4,
     "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2828,6 +2645,61 @@
     "addedAt": "2026-07-16T18:00:20Z"
   },
   {
+    "title": "World Is Dancing",
+    "route": "world-is-dancing",
+    "native": "ワールド イズ ダンシング",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-08-26T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 206521,
+        "idMal": 63347,
+        "title": {
+          "romaji": "World Is Dancing",
+          "english": "The World Is Dancing",
+          "native": "ワールド イズ ダンシング",
+          "userPreferred": "World Is Dancing"
+        },
+        "format": "ONA",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206521-ecJuDgjth84C.png",
+          "color": "#e45d78"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-26T17:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-26T17:00:00Z"
+  },
+  {
     "title": "Yani Neko",
     "route": "yani-neko",
     "romaji": "Yani Neko",
@@ -2835,8 +2707,8 @@
     "native": "ヤニねこ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-07-30T16:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-08-06T16:00:00Z",
+    "episodeNumber": 4,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2892,8 +2764,8 @@
     "native": "黄泉のツガイ",
     "delayedFrom": "2026-07-11T16:00:00Z",
     "delayedUntil": "2026-07-18T16:00:00Z",
-    "episodeDate": "2026-08-01T16:00:00Z",
-    "episodeNumber": 15,
+    "episodeDate": "2026-08-08T16:00:00Z",
+    "episodeNumber": 16,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2952,8 +2824,8 @@
     "native": "よわよわ先生",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-07-29T17:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-08-05T17:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
