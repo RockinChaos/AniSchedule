@@ -4658,10 +4658,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1785855600
-        },
-        {
           "episode": 6,
           "airingAt": 1786460400
         },
@@ -8803,104 +8799,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 213847,
-    "idMal": 61546,
-    "title": {
-      "romaji": "Star Wars: Visions - Kyuuninme no Jedi",
-      "english": "Star Wars: Visions Presents - The Ninth Jedi",
-      "native": "Star Wars：ビジョンズ 九人目のジェダイ",
-      "userPreferred": "Star Wars: Visions - Kyuuninme no Jedi"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213847-wnpCDRo5r1eR.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213847-wnpCDRo5r1eR.jpg",
-      "color": "#5de4ae"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 2,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 3,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 4,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 5,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 6,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 7,
-          "airingAt": 1785855600
-        },
-        {
-          "episode": 8,
-          "airingAt": 1785855600
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 213958,
-    "idMal": null,
-    "title": {
-      "romaji": "Sarangui Heartsping: Goraeboseok-ui Jeonseol",
-      "english": null,
-      "native": "사랑의 하츄핑: 고래보석의 전설",
-      "userPreferred": "Sarangui Heartsping: Goraeboseok-ui Jeonseol"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Adventure",
-      "Fantasy",
-      "Mahou Shoujo"
-    ],
-    "duration": null,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213958-dNZEWf0y9ZzD.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213958-dNZEWf0y9ZzD.jpg",
-      "color": "#50d6fe"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1785855600
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
