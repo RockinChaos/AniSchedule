@@ -1228,8 +1228,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-08-05T15:15:00Z"
+              "episode": 6,
+              "airingAt": "2026-08-12T15:15:00Z"
             }
           ]
         },
@@ -1906,15 +1906,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-08-05T15:30:00Z"
+              "episode": 4,
+              "airingAt": "2026-08-12T15:30:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-07-22T15:30:00Z"
   },
   {
