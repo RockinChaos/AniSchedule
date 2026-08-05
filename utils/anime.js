@@ -92,6 +92,6 @@ export async function getAniMappings(anilistID) {
     })().finally(() => {
         concurrentRequests.delete(`ani-${anilistID}`)
     })
-    concurrentRequests.set(`ani-${anilistID}`, requestPromise)
+    if (concurrentRequests.size < 100) concurrentRequests.set(`ani-${anilistID}`, requestPromise)
     return requestPromise
 }
