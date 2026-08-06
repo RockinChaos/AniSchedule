@@ -418,8 +418,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-08-06T12:40:00Z"
+              "episode": 5,
+              "airingAt": "2026-08-13T12:40:00Z"
             }
           ]
         },
@@ -2336,6 +2336,7 @@
     "episodeNumber": 8,
     "subtractedEpisodeNumber": 1,
     "episodes": 8,
+    "lengthMin": 27,
     "mediaTypes": [
       {
         "name": "ONA",
