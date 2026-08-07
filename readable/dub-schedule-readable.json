@@ -3053,10 +3053,11 @@
     "route": "yu-gi-oh-go-rush",
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedText": "Delayed",
-    "delayedFrom": "2025-08-16T12:00:00Z",
-    "delayedUntil": "2031-01-01T12:00:00Z",
-    "episodeDate": "2025-09-20T12:00:00Z",
-    "episodeNumber": 32,
+    "delayedFrom": "2026-08-16T12:00:00Z",
+    "delayedUntil": "0001-01-01T12:00:00Z",
+    "episodeDate": "2026-08-05T12:00:00Z",
+    "episodeNumber": 67,
+    "subtractedEpisodeNumber": 52,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
@@ -3065,7 +3066,6 @@
         "route": "tv"
       }
     ],
-    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -3095,15 +3095,74 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 32,
-              "airingAt": "2031-01-01T12:00:00Z"
+              "episode": 52,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 53,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 54,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 55,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 56,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 57,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 58,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 59,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 60,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 61,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 62,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 63,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 64,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 65,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 66,
+              "airingAt": "2026-08-05T12:00:00Z"
+            },
+            {
+              "episode": 67,
+              "airingAt": "2026-08-05T12:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "overrideDate": "2025-08-09T00:00:00Z",
     "verified": true,
     "addedAt": "2025-01-14T10:13:35Z"
   }
