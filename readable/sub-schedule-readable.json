@@ -132,6 +132,65 @@
     "zeroEpisode": false
   },
   {
+    "id": 235,
+    "idMal": 235,
+    "title": {
+      "romaji": "Meitantei Conan",
+      "english": "Detective Conan",
+      "native": "名探偵コナン",
+      "userPreferred": "Meitantei Conan"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": 25,
+    "seasonYear": 1996,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg",
+      "color": "#28a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1210,
+          "airingAt": 1787389200
+        },
+        {
+          "episode": 1211,
+          "airingAt": 1787994000
+        },
+        {
+          "episode": 1212,
+          "airingAt": 1788598800
+        },
+        {
+          "episode": 1213,
+          "airingAt": 1789203600
+        },
+        {
+          "episode": 1214,
+          "airingAt": 1789808400
+        },
+        {
+          "episode": 1215,
+          "airingAt": 1790413200
+        },
+        {
+          "episode": 1216,
+          "airingAt": 1791018000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 966,
     "idMal": 966,
     "title": {
