@@ -206,8 +206,10 @@ export async function fetchDubSchedule() {
             } else if ((existingInAiring !== -1) && (weeksDifference(timetables[existingInAiring].delayedFrom, past(new Date(), 0, true)) <= 4) && (new Date(timetables[existingInAiring].delayedFrom) > new Date(timetables[existingInAiring].delayedUntil))) { // highly likely this is an indefinitely delayed series.
                 const isFuture = (daysAgo(new Date(timetables[existingInAiring].delayedFrom)) * -1) > 4
                 if (!entry.delayedIndefinitely || isFuture) {
-                    changes.push(`(Dub) The series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber} has been delayed indefinitely`)
-                    console.log(`The series ${entry.media?.media?.title?.userPreferred} is has a delayedFrom date specified but no delayedUntil date, this is likely an indefinite delay!`)
+                    if (!isFuture) {
+                        changes.push(`(Dub) The series ${entry.media?.media?.title?.userPreferred} Episode ${entry.episodeNumber} has been delayed indefinitely`)
+                        console.log(`The series ${entry.media?.media?.title?.userPreferred} is has a delayedFrom date specified but no delayedUntil date, this is likely an indefinite delay!`)
+                    }
                     timetables[existingInAiring] = {
                         ...timetables[existingInAiring],
                         verified: true,
