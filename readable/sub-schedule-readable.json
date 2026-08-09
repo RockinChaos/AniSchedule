@@ -8718,5 +8718,36 @@
       ]
     },
     "zeroEpisode": false
+  },
+  {
+    "id": 214893,
+    "idMal": null,
+    "title": {
+      "romaji": "Kyapi",
+      "english": null,
+      "native": "きゃぴ",
+      "userPreferred": "Kyapi"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": 3,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214893-WoxSDFCR0xmm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214893-WoxSDFCR0xmm.png",
+      "color": "#e45093"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1786453200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
