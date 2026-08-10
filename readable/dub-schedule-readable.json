@@ -227,6 +227,63 @@
     "addedAt": "2026-07-08T12:00:00Z"
   },
   {
+    "title": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "route": "cocoon-2025",
+    "romaji": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "english": "cocoon -One Summer of Girlhood-",
+    "native": "cocoon ～ある夏の少女たちより～",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-09-04T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 62,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 166527,
+        "idMal": 55779,
+        "title": {
+          "romaji": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+          "english": "cocoon – One Summer of Girlhood",
+          "native": "cocoon ～ある夏の少女たちより～",
+          "userPreferred": "cocoon: Aru Natsu no Shoujo-tachi Yori"
+        },
+        "format": "SPECIAL",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 62,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166527-7Co2vkxgVzT8.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166527-7Co2vkxgVzT8.png",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166527-Q9QuJWib2o1Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-09-04T04:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-09-04T04:00:00Z"
+  },
+  {
     "title": "Dogul Wang",
     "route": "dogul-wang",
     "romaji": "Dogul Wang",
@@ -921,6 +978,66 @@
     },
     "verified": true,
     "addedAt": "2026-07-08T15:15:00Z"
+  },
+  {
+    "title": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+    "route": "kidou-senshi-gundam-senkou-no-hathaway-sun-son-of-bright-tenative-title",
+    "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+    "english": "Mobile Suit Gundam Hathaway: The Sorcery of Nymph Circe",
+    "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-31T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 108,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 113971,
+        "idMal": 38716,
+        "title": {
+          "romaji": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
+          "english": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe",
+          "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
+          "userPreferred": "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Drama",
+          "Mecha",
+          "Sci-Fi"
+        ],
+        "duration": 108,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113971-GIit95PnSGvt.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx113971-GIit95PnSGvt.jpg",
+          "color": "#6b431a"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-31T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-31T07:00:00Z"
   },
   {
     "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 3rd Season",
@@ -2593,7 +2710,6 @@
     "delayedUntil": "0001-01-01T12:00:00Z",
     "episodeDate": "2026-08-12T12:00:00Z",
     "episodeNumber": 68,
-    "subtractedEpisodeNumber": 52,
     "episodes": 151,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2630,70 +2746,6 @@
         "bannerImage": null,
         "airingSchedule": {
           "nodes": [
-            {
-              "episode": 52,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 53,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 54,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 55,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 56,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 57,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 58,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 59,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 60,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 61,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 62,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 63,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 64,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 65,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 66,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
-            {
-              "episode": 67,
-              "airingAt": "2026-08-12T12:00:00Z"
-            },
             {
               "episode": 68,
               "airingAt": "2026-08-12T12:00:00Z"
