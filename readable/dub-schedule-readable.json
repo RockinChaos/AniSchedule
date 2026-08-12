@@ -2708,7 +2708,7 @@
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedText": "Delayed",
     "delayedFrom": "2026-08-16T12:00:00Z",
-    "delayedUntil": "0001-01-01T12:00:00Z",
+    "delayedUntil": "2032-01-01T12:00:00Z",
     "episodeDate": "2026-08-12T12:00:00Z",
     "episodeNumber": 68,
     "episodes": 151,
@@ -2719,6 +2719,7 @@
         "route": "tv"
       }
     ],
+    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -2749,7 +2750,7 @@
           "nodes": [
             {
               "episode": 68,
-              "airingAt": "2026-08-12T12:00:00Z"
+              "airingAt": "2032-01-01T12:00:00Z"
             }
           ]
         },
