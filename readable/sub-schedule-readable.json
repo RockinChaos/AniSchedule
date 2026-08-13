@@ -3981,10 +3981,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1786632960
-        },
-        {
           "episode": 7,
           "airingAt": 1787237760
         },
@@ -5904,6 +5900,65 @@
     "zeroEpisode": false
   },
   {
+    "id": 205068,
+    "idMal": null,
+    "title": {
+      "romaji": "Wollum Jogyonim",
+      "english": "One-Room TA",
+      "native": "원룸 조교님",
+      "userPreferred": "Wollum Jogyonim"
+    },
+    "format": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205068-KPJVtEp9imju.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205068-KPJVtEp9imju.jpg",
+      "color": "#ffd643"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1787842800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1787842800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1788447600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1788447600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1789052400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1789052400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1790521200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 205116,
     "idMal": 63219,
     "title": {
@@ -6536,10 +6591,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/208044-JtlSTlmp5SmP.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1786633200
-        },
         {
           "episode": 9,
           "airingAt": 1787238000
