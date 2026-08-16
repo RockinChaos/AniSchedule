@@ -405,10 +405,9 @@
     "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga Hinamiya Chou Nezumi Torikae Den",
     "english": "Though I Am an Inept Villainess: Tale of the Butterfly-Rat Body Swap in the Maiden Court",
     "native": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
-    "delayedText": "Delayed",
-    "delayedFrom": "2026-08-11T07:00:00Z",
-    "delayedUntil": "2032-01-01T07:00:00Z",
-    "episodeDate": "2026-08-11T07:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-15T07:00:00Z",
     "episodeNumber": 4,
     "episodes": 11,
     "lengthMin": 23,
@@ -418,7 +417,6 @@
         "route": "tv"
       }
     ],
-    "delayedIndefinitely": true,
     "unaired": false,
     "media": {
       "media": {
@@ -447,8 +445,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2032-01-01T07:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-08-22T07:00:00Z"
             }
           ]
         },
@@ -621,8 +619,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-08-15T17:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-08-22T17:30:00Z"
             }
           ]
         },
@@ -854,8 +852,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-15T17:25:00Z"
+              "episode": 8,
+              "airingAt": "2026-08-22T17:25:00Z"
             }
           ]
         },
@@ -1899,8 +1897,8 @@
     "native": "しーくれっとみっしょん~潜入捜査官は絶対に負けない!~",
     "delayedFrom": "0001-01-01T01:00:00Z",
     "delayedUntil": "0001-01-01T01:00:00Z",
-    "episodeDate": "2026-08-16T01:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-08-23T01:00:00Z",
+    "episodeNumber": 5,
     "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
@@ -1940,8 +1938,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-08-16T01:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-08-23T01:00:00Z"
             }
           ]
         },
