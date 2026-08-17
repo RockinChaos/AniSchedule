@@ -1748,10 +1748,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1786967820
-        },
-        {
           "episode": 8,
           "airingAt": 1787572620
         },
@@ -3347,6 +3343,7 @@
     },
     "format": "TV",
     "genres": [
+      "Adventure",
       "Drama"
     ],
     "duration": 23,
@@ -5069,10 +5066,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202269-u0PTTsiKwrVL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1786968000
-        },
         {
           "episode": 8,
           "airingAt": 1787572800
