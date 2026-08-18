@@ -585,17 +585,27 @@ export async function updateDubFeed(optSchedule) {
             const multiHeader =  entry.subtractedEpisodeNumber || (previousWeek && previousWeek.subtractedEpisodeNumber)  //|| (previousWeek && ((previousWeek.episodeNumber !== lastFeedEpisode) || (previousWeek.episodeNumber !== (entry.episodeNumber - 2)))) -- probably don't need this since these cases should never happen.
             episodeType = multiHeader && baseEpisode && (lastFeedEpisode + 1 !== entry.subtractedEpisodeNumber) ? 2 : multiHeader ? 1 : 0
             if (!baseEpisode && latestEpisode > episodeNum) { // fix for when no episodes in the feed but episode(s) have already aired
-                let weeksAgo = -1
-                let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
-                while (new Date(pastDate) >= new Date()) {
-                    weeksAgo--
-                    pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
-                }
-                baseEpisode = {
-                    episode: {
-                        aired: episodeNum,
-                        airedAt: pastDate,
-                        addedAt: past(new Date(), 0, true)
+                if (multiHeader) {
+                    baseEpisode = {
+                        episode: {
+                            aired: episodeNum,
+                            airedAt: entry.episodeDate,
+                            addedAt: past(new Date(), 0, true)
+                        }
+                    }
+                } else {
+                    let weeksAgo = -1
+                    let pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
+                    while (new Date(pastDate) >= new Date()) {
+                        weeksAgo--
+                        pastDate = past(new Date(entry.episodeDate), weeksAgo, true)
+                    }
+                    baseEpisode = {
+                        episode: {
+                            aired: episodeNum,
+                            airedAt: pastDate,
+                            addedAt: past(new Date(), 0, true)
+                        }
                     }
                 }
             }
