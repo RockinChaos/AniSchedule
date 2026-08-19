@@ -912,8 +912,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-08-19T15:15:00Z"
+              "episode": 8,
+              "airingAt": "2026-08-26T15:15:00Z"
             }
           ]
         },
@@ -1711,8 +1711,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-08-19T15:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-08-26T15:30:00Z"
             }
           ]
         },
@@ -2194,6 +2194,7 @@
     "delayedUntil": "2026-08-21T15:00:00Z",
     "episodeDate": "2026-08-21T15:00:00Z",
     "episodeNumber": 17,
+    "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
       {
