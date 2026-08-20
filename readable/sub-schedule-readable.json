@@ -580,6 +580,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 21828,
+    "idMal": 32587,
+    "title": {
+      "romaji": "Shoujo Ramune",
+      "english": null,
+      "native": "小女ラムネ",
+      "userPreferred": "Shoujo Ramune"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 19,
+    "seasonYear": 2016,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21828-3KDKm3Zu2DyX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21828-3KDKm3Zu2DyX.jpg",
+      "color": "#50c9f1"
+    },
+    "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21828-GXL6divKjKiN.png",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 8,
+          "airingAt": 1788447600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 103303,
     "idMal": 62856,
     "title": {
@@ -1852,39 +1884,6 @@
         }
       ]
     },
-    "zeroEpisode": false
-  },
-  {
-    "id": 176373,
-    "idMal": 63973,
-    "title": {
-      "romaji": "Shiranuhi",
-      "english": null,
-      "native": "しらぬひ",
-      "userPreferred": "Shiranuhi"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176373-355WYOUefrCt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176373-355WYOUefrCt.jpg",
-      "color": "#f1e4bb"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1787238000
-        }
-      ]
-    },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -3858,10 +3857,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1787237760
-        },
         {
           "episode": 8,
           "airingAt": 1787842560
@@ -6326,10 +6321,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1787238000
-        },
-        {
           "episode": 10,
           "airingAt": 1787842800
         },
@@ -7119,47 +7110,6 @@
         {
           "episode": 1,
           "airingAt": 1787842800
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 212652,
-    "idMal": null,
-    "title": {
-      "romaji": "Kidou Keisatsu Patlabor EZY File 2",
-      "english": null,
-      "native": "機動警察パトレイバー EZY File 2",
-      "userPreferred": "Kidou Keisatsu Patlabor EZY File 2"
-    },
-    "format": "OVA",
-    "genres": [
-      "Mecha"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212652-ZDAdpsFuFiGB.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212652-ZDAdpsFuFiGB.png",
-      "color": "#78c9e4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1787238000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1787238000
-        },
-        {
-          "episode": 3,
-          "airingAt": 1787238000
         }
       ]
     },
