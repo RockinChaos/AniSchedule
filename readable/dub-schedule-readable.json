@@ -1606,6 +1606,64 @@
     "addedAt": "2026-08-18T03:15:20Z"
   },
   {
+    "title": "Nige Jouzu no Wakagimi 2nd Season",
+    "route": "nige-jouzu-no-wakagimi-2nd-season",
+    "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+    "english": "The Elusive Samurai 2nd Season",
+    "native": "逃げ上手の若君 第二期",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-08-21T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 182616,
+        "idMal": 60059,
+        "title": {
+          "romaji": "Nige Jouzu no Wakagimi 2nd Season",
+          "english": "The Elusive Samurai Season 2",
+          "native": "逃げ上手の若君 第二期",
+          "userPreferred": "Nige Jouzu no Wakagimi 2nd Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-ZOCgArw9cgqI.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182616-ZOCgArw9cgqI.jpg",
+          "color": "#e45050"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-21T16:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-21T16:00:00Z"
+  },
+  {
     "title": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
     "route": "nijuuseiki-denki-mokuroku",
     "romaji": "Nijuuseiki Denki Mokuroku: Eureka Evrika",
