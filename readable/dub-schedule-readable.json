@@ -1551,6 +1551,79 @@
     "addedAt": "2026-08-24T07:00:00Z"
   },
   {
+    "title": "Massugu ni Ikou",
+    "route": "massugu-ni-ikou",
+    "romaji": "Massugu ni Ikou",
+    "english": "Go Forward",
+    "native": "まっすぐにいこう。",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-18T07:00:00Z",
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 4,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-08-18T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 1617,
+        "idMal": 1617,
+        "title": {
+          "romaji": "Massugu ni Ikou",
+          "english": "Go Forward",
+          "native": "まっすぐにいこう。",
+          "userPreferred": "Massugu ni Ikou"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Fantasy",
+          "Slice of Life"
+        ],
+        "duration": 23,
+        "seasonYear": 2003,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/1617-pCkEhZaqt2xx.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/1617-pCkEhZaqt2xx.jpg",
+          "color": "#e4a15d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-18T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-21T07:15:17Z"
+  },
+  {
     "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
     "route": "mushoku-tensei-iii-isekai-ittara-honki-dasu",
     "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
