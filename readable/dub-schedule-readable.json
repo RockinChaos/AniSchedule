@@ -1569,7 +1569,6 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "2026-08-18T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -1622,6 +1621,82 @@
     },
     "verified": false,
     "addedAt": "2026-08-21T07:15:17Z"
+  },
+  {
+    "title": "Massugu ni Ikou (2004)",
+    "route": "massugu-ni-ikou-2004",
+    "romaji": "Massugu ni Ikou (2004)",
+    "english": "Go Forward (2004)",
+    "native": "まっすぐにいこう。 (2004)",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-18T07:00:00Z",
+    "episodeNumber": 5,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 5,
+    "lengthMin": 20,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-08-18T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 3182,
+        "idMal": 3182,
+        "title": {
+          "romaji": "Massugu ni Ikou (2004)",
+          "english": null,
+          "native": "まっすぐにいこう。 (2004)",
+          "userPreferred": "Massugu ni Ikou (2004)"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": 20,
+        "seasonYear": 2004,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/3182-zjTbAj2THPD3.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/3182-zjTbAj2THPD3.jpg",
+          "color": "#f19350"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-08-18T07:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-08-18T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-21T07:17:14Z"
   },
   {
     "title": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
