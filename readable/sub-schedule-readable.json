@@ -2653,8 +2653,8 @@
       "Action",
       "Comedy",
       "Drama",
-      "Fantasy",
-      "Mahou Shoujo"
+      "Mahou Shoujo",
+      "Sci-Fi"
     ],
     "duration": 24,
     "seasonYear": 2026,
@@ -3682,10 +3682,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 21,
-          "airingAt": 1787409960
-        },
-        {
           "episode": 22,
           "airingAt": 1788014760
         },
@@ -3735,10 +3731,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1787410800
-        },
         {
           "episode": 9,
           "airingAt": 1788015600
@@ -6867,10 +6859,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1787410800
-        },
         {
           "episode": 20,
           "airingAt": 1788015600
