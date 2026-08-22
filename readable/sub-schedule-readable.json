@@ -5451,6 +5451,51 @@
     "zeroEpisode": false
   },
   {
+    "id": 204431,
+    "idMal": 63138,
+    "title": {
+      "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+      "english": "Narumi's Week at Work",
+      "native": "怪獣８号 鳴海の平日",
+      "userPreferred": "Kaijuu 8-gou: Narumi no Heijitsu"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204431-5JC0YY6i6ECJ.jpg",
+      "color": "#0daeae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1788606000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1789210800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1789815600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1790420400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 204466,
     "idMal": 63150,
     "title": {
