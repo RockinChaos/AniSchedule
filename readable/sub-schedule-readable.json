@@ -1320,10 +1320,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 409,
-          "airingAt": 1787450400
-        },
-        {
           "episode": 410,
           "airingAt": 1787623200
         },
@@ -1418,6 +1414,10 @@
         {
           "episode": 433,
           "airingAt": 1795917600
+        },
+        {
+          "episode": 434,
+          "airingAt": 1796522400
         }
       ]
     },
@@ -3916,6 +3916,84 @@
         {
           "episode": 12,
           "airingAt": 1790173800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 196613,
+    "idMal": 51039,
+    "title": {
+      "romaji": "Dou Po Cangqiong: Nian Fan 4",
+      "english": null,
+      "native": "斗破苍穹 年番4",
+      "userPreferred": "Dou Po Cangqiong: Nian Fan 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196613-20kz65bVsHl7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196613-20kz65bVsHl7.jpg",
+      "color": "#e4935d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 51,
+          "airingAt": 1788660000
+        },
+        {
+          "episode": 52,
+          "airingAt": 1789264800
+        },
+        {
+          "episode": 53,
+          "airingAt": 1789869600
+        },
+        {
+          "episode": 54,
+          "airingAt": 1790474400
+        },
+        {
+          "episode": 55,
+          "airingAt": 1791079200
+        },
+        {
+          "episode": 56,
+          "airingAt": 1791684000
+        },
+        {
+          "episode": 57,
+          "airingAt": 1792288800
+        },
+        {
+          "episode": 58,
+          "airingAt": 1792893600
+        },
+        {
+          "episode": 59,
+          "airingAt": 1793498400
+        },
+        {
+          "episode": 60,
+          "airingAt": 1794103200
+        },
+        {
+          "episode": 61,
+          "airingAt": 1794708000
+        },
+        {
+          "episode": 62,
+          "airingAt": 1795312800
         }
       ]
     },
