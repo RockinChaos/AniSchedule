@@ -516,6 +516,65 @@
     "addedAt": "2026-07-04T11:30:00Z"
   },
   {
+    "title": "Gintama Movie 3: Yoshiwara Daienjou",
+    "route": "gintama-movie-3-yoshiwara-daienjou",
+    "romaji": "Gintama Movie 3: Yoshiwara Daienjou",
+    "english": "Gintama Movie 3: Yoshiwara in Flames",
+    "native": "新劇場版 銀魂 -吉原大炎上-",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-08-27T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 124,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 197474,
+        "idMal": 62277,
+        "title": {
+          "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
+          "english": "Gintama the Movie 2026: Yoshiwara in Flames",
+          "native": "新劇場版 銀魂 -吉原大炎上-",
+          "userPreferred": "Shin Gintama Movie: Yoshiwara Daienjou"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Sci-Fi"
+        ],
+        "duration": 124,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197474-jTeY1G9gtD8i.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197474-jTeY1G9gtD8i.jpg",
+          "color": "#f1781a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197474-dcJmLSLc3g10.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-08-27T07:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-27T07:00:00Z"
+  },
+  {
     "title": "Grow Up Show: Himawari no Circus-dan",
     "route": "grow-up-show-himawari-no-circus-dan",
     "romaji": "Grow Up Show: Himawari no Sakasu-dan",
@@ -969,8 +1028,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-08-26T15:15:00Z"
+              "episode": 9,
+              "airingAt": "2026-09-02T15:15:00Z"
             }
           ]
         },
@@ -1826,8 +1885,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-08-26T15:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-09-02T15:30:00Z"
             }
           ]
         },
