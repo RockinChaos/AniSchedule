@@ -1957,6 +1957,69 @@
     "addedAt": "2026-08-22T23:00:00Z"
   },
   {
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+    "route": "re-zero-kara-hajimeru-isekai-seikatsu-4",
+    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
+    "english": "Re:Zero - Starting Life in Another World 4",
+    "native": "Re:ゼロから始める異世界生活 4",
+    "delayedFrom": "0001-01-01T14:00:00Z",
+    "delayedUntil": "0001-01-01T14:00:00Z",
+    "episodeDate": "2026-08-26T14:00:00Z",
+    "episodeNumber": 12,
+    "episodes": 19,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-08-26T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189046,
+        "idMal": 61316,
+        "title": {
+          "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+          "english": "Re:ZERO -Starting Life in Another World- Season 4",
+          "native": "Re:ゼロから始める異世界生活 4th season",
+          "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Drama",
+          "Fantasy",
+          "Psychological",
+          "Romance",
+          "Thriller"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189046-yaHWtS5FII46.jpg",
+          "color": "#e49350"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 12,
+              "airingAt": "2026-08-26T14:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-08-26T05:15:17Z"
+  },
+  {
     "title": "Rilakkuma: Goyururi Yume no Tabi",
     "route": "rilakkuma",
     "native": "リラックマ ～ごゆるり夢の旅～",
