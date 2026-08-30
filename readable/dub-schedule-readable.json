@@ -1104,7 +1104,7 @@
     "native": "機動戦士ガンダム 閃光のハサウェイ キルケーの魔女",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-08-31T07:00:00Z",
+    "episodeDate": "2026-08-30T07:00:00Z",
     "episodeNumber": 1,
     "episodes": 1,
     "lengthMin": 108,
@@ -1114,7 +1114,7 @@
         "route": "movie"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 113971,
@@ -1145,7 +1145,7 @@
           "nodes": [
             {
               "episode": 1,
-              "airingAt": "2026-08-31T07:00:00Z"
+              "airingAt": "2026-08-30T07:00:00Z"
             }
           ]
         },
