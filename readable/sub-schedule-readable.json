@@ -2156,10 +2156,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1788181200
-        },
-        {
           "episode": 10,
           "airingAt": 1788786000
         },
@@ -5167,7 +5163,7 @@
       "native": "원룸 조교님",
       "userPreferred": "Wollum Jogyonim"
     },
-    "format": null,
+    "format": "ONA",
     "genres": [
       "Comedy",
       "Romance",
@@ -5357,10 +5353,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1788181200
-        },
         {
           "episode": 11,
           "airingAt": 1788786000
