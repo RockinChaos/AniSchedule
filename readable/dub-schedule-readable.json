@@ -737,8 +737,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-09-02T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-09-09T17:00:00Z"
             }
           ]
         },
@@ -2313,15 +2313,15 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-09-02T17:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-09-09T17:00:00Z"
             }
           ]
         },
         "zeroEpisode": false
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-08-19T17:00:00Z"
   },
   {
@@ -2657,8 +2657,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-09-02T17:00:00Z"
+              "episode": 3,
+              "airingAt": "2026-09-09T17:00:00Z"
             }
           ]
         },
@@ -2787,6 +2787,64 @@
     "addedAt": "2026-04-04T16:00:00Z"
   },
   {
+    "title": "Youjo Senki - Sabaku no Pasta Dai Sakusen",
+    "route": "youjo-senki-sabaku-no-pasta-dai-sakusen",
+    "romaji": "Youjo Senki - Sabaku no Pasta Dai Sakusen",
+    "english": "Saga of Tanya the Evil: Operation Desert Pasta",
+    "native": "幼女戦記砂漠のパスタ大作戦",
+    "delayedFrom": "0001-01-01T15:15:00Z",
+    "delayedUntil": "0001-01-01T15:15:00Z",
+    "episodeDate": "2026-09-02T15:15:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 17,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 135866,
+        "idMal": 49236,
+        "title": {
+          "romaji": "Youjo Senki: Sabaku no Pasta Daisakusen",
+          "english": "Saga of Tanya the Evil: Operation Desert Pasta",
+          "native": "幼女戦記 砂漠のパスタ大作戦",
+          "userPreferred": "Youjo Senki: Sabaku no Pasta Daisakusen"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "duration": 17,
+        "seasonYear": 2021,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135866-Q5qZPscMNLFa.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135866-Q5qZPscMNLFa.png",
+          "color": null
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135866-4YWGxprTPMsC.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-09-02T15:15:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-09-02T17:00:27Z"
+  },
+  {
     "title": "Yowa Yowa Sensei",
     "route": "yowayowa-sensei",
     "romaji": "Yowa Yowa Sensei",
@@ -2833,8 +2891,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-09-02T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-09-09T17:00:00Z"
             }
           ]
         },
