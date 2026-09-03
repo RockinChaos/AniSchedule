@@ -132,6 +132,57 @@
     "zeroEpisode": false
   },
   {
+    "id": 235,
+    "idMal": 235,
+    "title": {
+      "romaji": "Meitantei Conan",
+      "english": "Detective Conan",
+      "native": "名探偵コナン",
+      "userPreferred": "Meitantei Conan"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Mystery",
+      "Psychological"
+    ],
+    "duration": 25,
+    "seasonYear": 1996,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx235-MyYT7K3chBdO.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx235-MyYT7K3chBdO.jpg",
+      "color": "#28a1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/235-MTmiz0uB0fMd.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1212,
+          "airingAt": 1788598800
+        },
+        {
+          "episode": 1213,
+          "airingAt": 1789203600
+        },
+        {
+          "episode": 1214,
+          "airingAt": 1789808400
+        },
+        {
+          "episode": 1215,
+          "airingAt": 1790413200
+        },
+        {
+          "episode": 1216,
+          "airingAt": 1791018000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 966,
     "idMal": 966,
     "title": {
@@ -2762,6 +2813,69 @@
     "zeroEpisode": false
   },
   {
+    "id": 191832,
+    "idMal": 61607,
+    "title": {
+      "romaji": "Shiguang Dailiren III",
+      "english": "Link Click Season 3",
+      "native": "时光代理人 第三季",
+      "userPreferred": "Shiguang Dailiren III"
+    },
+    "format": "ONA",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Supernatural",
+      "Thriller"
+    ],
+    "duration": 21,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191832-bsnCaLNVjzEw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191832-bsnCaLNVjzEw.png",
+      "color": "#d66b1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1788490800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1789095600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1789700400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1790305200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1790910000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1791514800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1792119600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1792724400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 192800,
     "idMal": 61686,
     "title": {
@@ -3810,6 +3924,136 @@
     "zeroEpisode": false
   },
   {
+    "id": 199409,
+    "idMal": 62248,
+    "title": {
+      "romaji": "Yi Nian Yongheng 4",
+      "english": null,
+      "native": "一念永恒 第四季",
+      "userPreferred": "Yi Nian Yongheng 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199409-tZnVTAQ9P6fY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199409-tZnVTAQ9P6fY.png",
+      "color": "#e47843"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1788919200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789524000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1790128800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790733600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1791338400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1791943200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1792548000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1793152800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1793757600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1794362400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1794967200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1795572000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1796176800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1796781600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1797386400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1797991200
+        },
+        {
+          "episode": 26,
+          "airingAt": 1798596000
+        },
+        {
+          "episode": 27,
+          "airingAt": 1799200800
+        },
+        {
+          "episode": 28,
+          "airingAt": 1799805600
+        },
+        {
+          "episode": 29,
+          "airingAt": 1800410400
+        },
+        {
+          "episode": 30,
+          "airingAt": 1801015200
+        },
+        {
+          "episode": 31,
+          "airingAt": 1801620000
+        },
+        {
+          "episode": 32,
+          "airingAt": 1802224800
+        },
+        {
+          "episode": 33,
+          "airingAt": 1802829600
+        },
+        {
+          "episode": 34,
+          "airingAt": 1803434400
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 199748,
     "idMal": 62617,
     "title": {
@@ -4582,6 +4826,51 @@
     "zeroEpisode": false
   },
   {
+    "id": 204431,
+    "idMal": 63138,
+    "title": {
+      "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+      "english": "Narumi's Week at Work",
+      "native": "怪獣８号 鳴海の平日",
+      "userPreferred": "Kaijuu 8-gou: Narumi no Heijitsu"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204431-5JC0YY6i6ECJ.jpg",
+      "color": "#0daeae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1788606000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1789210800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1789815600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1790420400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 204466,
     "idMal": 63150,
     "title": {
@@ -4702,6 +4991,48 @@
         {
           "episode": 50,
           "airingAt": 1797375600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 205068,
+    "idMal": null,
+    "title": {
+      "romaji": "Wollum Jogyonim",
+      "english": "One-Room TA",
+      "native": "원룸 조교님",
+      "userPreferred": "Wollum Jogyonim"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205068-KPJVtEp9imju.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205068-KPJVtEp9imju.jpg",
+      "color": "#ffd643"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 6,
+          "airingAt": 1789052400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1789052400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1790521200
         }
       ]
     },
@@ -6315,6 +6646,60 @@
     "zeroEpisode": false
   },
   {
+    "id": 213486,
+    "idMal": 64461,
+    "title": {
+      "romaji": "You Shou Yan 6th Season",
+      "english": "Fabulous Beasts 6",
+      "native": "有兽焉 第六季",
+      "userPreferred": "You Shou Yan 6th Season"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213486-0hRJQlfdtajf.png",
+      "color": "#43c9f1"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213486-I5RpUqCjdvfR.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 7,
+          "airingAt": 1788919200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1789524000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1790128800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1790733600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1791338400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1791943200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 213665,
     "idMal": 63878,
     "title": {
@@ -6552,6 +6937,120 @@
         {
           "episode": 12,
           "airingAt": 1790175600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 214260,
+    "idMal": 61619,
+    "title": {
+      "romaji": "Zeri Feisheng",
+      "english": "A Good Day to Ascend",
+      "native": "择日飞升",
+      "userPreferred": "Zeri Feisheng"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 20,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214260-m2fg5OwduwSt.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214260-m2fg5OwduwSt.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 10,
+          "airingAt": 1788570000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1789174800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1789779600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790384400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1790989200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1791594000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1792198800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1792803600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1793408400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1794013200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1794618000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1795222800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1795827600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1796432400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1797037200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1797642000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1798246800
+        },
+        {
+          "episode": 27,
+          "airingAt": 1798851600
+        },
+        {
+          "episode": 28,
+          "airingAt": 1799456400
+        },
+        {
+          "episode": 29,
+          "airingAt": 1800061200
+        },
+        {
+          "episode": 30,
+          "airingAt": 1800666000
         }
       ]
     },
