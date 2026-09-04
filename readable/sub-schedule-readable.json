@@ -4968,7 +4968,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "duration": null,
+    "duration": 10,
     "seasonYear": null,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205068-KPJVtEp9imju.jpg",
@@ -4976,7 +4976,7 @@
       "color": "#ffd643"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205068-lBwvN8a7nSzF.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6162,10 +6162,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1788564600
-        },
         {
           "episode": 11,
           "airingAt": 1789169400
