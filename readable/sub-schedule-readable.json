@@ -583,6 +583,7 @@
     "format": "TV",
     "genres": [
       "Adventure",
+      "Comedy",
       "Romance"
     ],
     "duration": 25,
@@ -4510,10 +4511,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 10,
-          "airingAt": 1788534000
-        },
         {
           "episode": 11,
           "airingAt": 1789138800
