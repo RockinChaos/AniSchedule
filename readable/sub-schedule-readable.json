@@ -6856,5 +6856,36 @@
       ]
     },
     "zeroEpisode": false
+  },
+  {
+    "id": 216559,
+    "idMal": null,
+    "title": {
+      "romaji": "Wishing Umbrella",
+      "english": null,
+      "native": "Wishing Umbrella",
+      "userPreferred": "Wishing Umbrella"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b216559-apIMOQYYP9vA.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b216559-apIMOQYYP9vA.png",
+      "color": "#f1d6c9"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1789214400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
   }
 ]
