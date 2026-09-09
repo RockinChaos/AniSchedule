@@ -3729,10 +3729,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1788919200
-        },
-        {
           "episode": 11,
           "airingAt": 1789524000
         },
@@ -3827,6 +3823,10 @@
         {
           "episode": 34,
           "airingAt": 1803434400
+        },
+        {
+          "episode": 35,
+          "airingAt": 1804039200
         }
       ]
     },
@@ -6382,10 +6382,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213486-I5RpUqCjdvfR.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1788919200
-        },
         {
           "episode": 8,
           "airingAt": 1789524000
