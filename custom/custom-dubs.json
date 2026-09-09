@@ -1,5 +1,32 @@
 [
   {
+    "title": "Harem Camp!",
+    "route": "harem-camp",
+    "romaji": "Harem Camp!",
+    "english": "Harem Camp!",
+    "native": "ハーレムきゃんぷっ!",
+    "delayedFrom": "0001-01-01T00:00:00Z",
+    "delayedUntil": "0001-01-01T00:00:00Z",
+    "status": "Upcoming",
+    "episodeDate": "2026-09-17T01:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 8,
+    "lengthMin": 7,
+    "donghua": false,
+    "airType": "dub",
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "websites": {
+      "aniList": "https://anilist.co/anime/153567",
+      "mal": "https://myanimelist.net/anime/52717"
+    },
+    "airingStatus": "unaired"
+  },
+  {
     "title": "Overflow",
     "route": "overflow",
     "romaji": "Overflow",
