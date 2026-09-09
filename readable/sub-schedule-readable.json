@@ -6721,5 +6721,45 @@
     },
     "unaired": true,
     "zeroEpisode": false
+  },
+  {
+    "id": 216625,
+    "idMal": null,
+    "title": {
+      "romaji": "PokéOki SEASON 2",
+      "english": null,
+      "native": "ポケ起き SEASON 2",
+      "userPreferred": "PokéOki SEASON 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216625-RajVFO8Knirx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216625-RajVFO8Knirx.png",
+      "color": "#f1e4ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1789336800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1789941600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1790546400
+        }
+      ]
+    },
+    "zeroEpisode": false
   }
 ]
