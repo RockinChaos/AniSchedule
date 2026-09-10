@@ -1,6 +1,7 @@
 {
   "name": "anischedule",
-  "version": "1.2.0",
+  "version": "1.2.1",
+  "packageManager": "pnpm@10.34.1",
   "main": "index.js",
   "type": "module",
   "description": "A fully automated tool that fetches and organizes schedules and episode feeds for current airing anime, including dubs, subs, and hentai.",

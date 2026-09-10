@@ -14,10 +14,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v7
 
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v6
+
       - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
           node-version: '24'
+          cache: pnpm
+          cache-dependency-path: pnpm-lock.yaml
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        timeout-minutes: 1
 
       - name: Start Feed Update Loop
         env:  # Pass the secret as an environment variable
@@ -41,7 +50,7 @@ jobs:
             fi
 
             # Run the feed update script
-            timeout 120s npm run update-feeds
+            timeout 120s pnpm run update-feeds
 
             # Stage, commit, and push any JSON changes
             git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/dub-episode-feed.json' './readable/dub-episode-feed-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'
