@@ -102,11 +102,20 @@ export async function fetchDubSchedule() {
     if (customDubs?.length) {
         console.log(`Detected ${customDubs?.length} custom dubs, handling...`)
         for (const dub of customDubs) {
-            if (new Date(dub.episodeDate) < new Date()) {
-                console.log(`Custom dub ${dub.route} has passed it episode date ${dub.episodeDate}, updating to reflect the next episodes air date.`)
-                dub.episodeDate = past(new Date(dub.episodeDate), 1, false)
+            const episodeDate = new Date(dub.episodeDate)
+            const delayedUntil = new Date(dub.delayedUntil)
+            const releaseDate = delayedUntil >= episodeDate ? delayedUntil : episodeDate
+            if (!dub.delayedIndefinitely && releaseDate < new Date()) {
+                console.log(`Custom dub ${dub.route} has passed its release date ${releaseDate.toISOString()}, updating to reflect the next episode's air date.`)
+                dub.episodeDate = past(episodeDate, 1, false)
                 dub.episodeNumber = dub.episodeNumber + 1
                 dub.airingStatus = 'aired'
+                if (delayedUntil >= episodeDate) {
+                    dub.delayedFrom = '0001-01-01T00:00:00Z'
+                    dub.delayedUntil = '0001-01-01T00:00:00Z'
+                    delete dub.delayedIndefinitely
+                    delete dub.delayedText
+                }
             }
         }
     }
