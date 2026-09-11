@@ -2961,6 +2961,10 @@
         {
           "episode": 12,
           "airingAt": 1789830000
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790434800
         }
       ]
     },
@@ -6558,6 +6562,79 @@
         {
           "episode": 30,
           "airingAt": 1800666000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 214703,
+    "idMal": 64718,
+    "title": {
+      "romaji": "Ghost Meets Gal!",
+      "english": null,
+      "native": "ごーすと・みーつ・ぎゃる！",
+      "userPreferred": "Ghost Meets Gal!"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 2,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214703-iXoaVH6UkiZd.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214703-iXoaVH6UkiZd.png",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1789167600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1789772400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1790377200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1790982000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1791586800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1792191600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1792796400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1793401200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1794006000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1794610800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1795215600
         }
       ]
     },
