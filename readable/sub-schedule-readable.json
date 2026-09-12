@@ -1852,6 +1852,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 183231,
+    "idMal": 60153,
+    "title": {
+      "romaji": "Rilakkuma",
+      "english": "RILAKKUMA",
+      "native": "リラックマ",
+      "userPreferred": "RILAKKUMA"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b183231-z7SgjmXZBcoX.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b183231-z7SgjmXZBcoX.png",
+      "color": "#28c9e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183231-JFjTqQe3rPCw.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 25,
+          "airingAt": 1789777560
+        },
+        {
+          "episode": 26,
+          "airingAt": 1790382360
+        },
+        {
+          "episode": 27,
+          "airingAt": 1790987160
+        },
+        {
+          "episode": 28,
+          "airingAt": 1791591960
+        },
+        {
+          "episode": 29,
+          "airingAt": 1792196760
+        },
+        {
+          "episode": 30,
+          "airingAt": 1792801560
+        },
+        {
+          "episode": 31,
+          "airingAt": 1793406360
+        },
+        {
+          "episode": 32,
+          "airingAt": 1794011160
+        },
+        {
+          "episode": 33,
+          "airingAt": 1794615960
+        },
+        {
+          "episode": 34,
+          "airingAt": 1795220760
+        },
+        {
+          "episode": 35,
+          "airingAt": 1795825560
+        },
+        {
+          "episode": 36,
+          "airingAt": 1796430360
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 184356,
     "idMal": 63316,
     "title": {
@@ -2122,10 +2199,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1789228500
-        },
-        {
           "episode": 11,
           "airingAt": 1789833300
         },
@@ -2164,16 +2237,12 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1789221600
-        },
-        {
           "episode": 9,
-          "airingAt": 1789826400
+          "airingAt": 1792418400
         },
         {
           "episode": 10,
-          "airingAt": 1790431200
+          "airingAt": 1793023200
         }
       ]
     },
@@ -2207,10 +2276,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789228800
-        },
         {
           "episode": 12,
           "airingAt": 1789833600
@@ -2550,39 +2615,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 190569,
-    "idMal": 61483,
-    "title": {
-      "romaji": "Tenmaku no Jaadugar",
-      "english": "Jaadugar: A Witch in Mongolia",
-      "native": "天幕のジャードゥーガル",
-      "userPreferred": "Jaadugar: A Witch in Mongolia"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Drama"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190569-KnCQLI3Z8hPX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190569-KnCQLI3Z8hPX.jpg",
-      "color": "#50a1e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/190569-fQrApHKs9PIz.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789223400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 191832,
     "idMal": 61607,
     "title": {
@@ -2664,10 +2696,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1789227000
-        },
-        {
           "episode": 12,
           "airingAt": 1789831800
         }
@@ -2743,10 +2771,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1789223400
-        },
-        {
           "episode": 24,
           "airingAt": 1789828200
         }
@@ -2819,10 +2843,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 24,
-          "airingAt": 1789224360
-        },
-        {
           "episode": 25,
           "airingAt": 1789829160
         },
@@ -2860,10 +2880,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789225200
-        },
         {
           "episode": 12,
           "airingAt": 1789830000
@@ -3382,10 +3398,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1789232400
-        },
-        {
           "episode": 11,
           "airingAt": 1789837200
         },
@@ -3737,10 +3749,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201514-8dAOB0Xw124G.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789234680
-        },
         {
           "episode": 12,
           "airingAt": 1789839480
@@ -5030,10 +5038,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1789230600
-        },
-        {
           "episode": 12,
           "airingAt": 1789835400
         }
@@ -5518,10 +5522,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 22,
-          "airingAt": 1789225200
-        },
         {
           "episode": 23,
           "airingAt": 1789830000
