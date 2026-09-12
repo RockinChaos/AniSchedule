@@ -1061,6 +1061,72 @@
     "addedAt": "2026-07-04T18:53:28Z"
   },
   {
+    "title": "Kaijuu 8-gou: Narumi no Heijitsu",
+    "route": "kaijuu-8-gou-narumi-no-heijitsu",
+    "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+    "english": "Kaiju No. 8: Narumi's Week at Work",
+    "native": "怪獣8号 鳴海の平日",
+    "delayedFrom": "0001-01-01T11:00:00Z",
+    "delayedUntil": "0001-01-01T11:00:00Z",
+    "episodeDate": "2026-09-12T11:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "episodes": 4,
+    "lengthMin": 3,
+    "mediaTypes": [
+      {
+        "name": "ONA",
+        "route": "ona"
+      }
+    ],
+    "overrideDate": "2026-09-12T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 204431,
+        "idMal": 63138,
+        "title": {
+          "romaji": "Kaijuu 8-gou: Narumi no Heijitsu",
+          "english": "Narumi's Week at Work",
+          "native": "怪獣８号 鳴海の平日",
+          "userPreferred": "Narumi's Week at Work"
+        },
+        "format": "SPECIAL",
+        "genres": [
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204431-5JC0YY6i6ECJ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204431-5JC0YY6i6ECJ.jpg",
+          "color": "#0daeae"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-09-12T11:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-09-12T11:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-09-19T11:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-09-12T19:30:26Z"
+  },
+  {
     "title": "Kami no Shizuku",
     "route": "kami-no-shizuku",
     "romaji": "Kami no Shizuku",
