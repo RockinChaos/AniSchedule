@@ -1130,10 +1130,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 415,
-          "airingAt": 1789264800
-        },
-        {
           "episode": 416,
           "airingAt": 1789437600
         },
@@ -1228,6 +1224,10 @@
         {
           "episode": 439,
           "airingAt": 1799546400
+        },
+        {
+          "episode": 440,
+          "airingAt": 1800151200
         }
       ]
     },
@@ -3060,10 +3060,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 52,
-          "airingAt": 1789264800
-        },
         {
           "episode": 53,
           "airingAt": 1789869600
@@ -4959,38 +4955,6 @@
         {
           "episode": 24,
           "airingAt": 1797352500
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 208105,
-    "idMal": 64008,
-    "title": {
-      "romaji": "Yani Neko Mini",
-      "english": null,
-      "native": "ヤニねこ ミニ",
-      "userPreferred": "Yani Neko Mini"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 1,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b208105-pYHSBy6n9naY.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b208105-pYHSBy6n9naY.png",
-      "color": "#865028"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 19,
-          "airingAt": 1789264800
         }
       ]
     },
