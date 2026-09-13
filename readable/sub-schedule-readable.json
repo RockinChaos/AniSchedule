@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1178,
-          "airingAt": 1789308960
-        },
-        {
           "episode": 1179,
           "airingAt": 1789913760
         },
@@ -589,10 +585,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789308000
-        },
         {
           "episode": 12,
           "airingAt": 1789912800
@@ -3161,10 +3153,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1789309800
-        },
-        {
           "episode": 24,
           "airingAt": 1789914600
         }
@@ -5556,6 +5544,86 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 212888,
+    "idMal": 64340,
+    "title": {
+      "romaji": "Temppal: Item no Chikara",
+      "english": "Overgeared",
+      "native": "テムパル～アイテムの力～",
+      "userPreferred": "Overgeared"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212888-NhyvqPt5aIuJ.jpg",
+      "color": "#f19335"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790519400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791124200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1791729000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792333800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1792938600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793543400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794148200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1794753000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795357800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1795962600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796567400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797172200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
