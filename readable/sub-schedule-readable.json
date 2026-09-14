@@ -4552,6 +4552,38 @@
     "zeroEpisode": false
   },
   {
+    "id": 206521,
+    "idMal": 63347,
+    "title": {
+      "romaji": "World Is Dancing",
+      "english": "The World Is Dancing",
+      "native": "ワールド イズ ダンシング",
+      "userPreferred": "The World Is Dancing"
+    },
+    "format": "ONA",
+    "genres": [
+      "Drama"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206521-ecJuDgjth84C.png",
+      "color": "#e45d78"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1789995600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 206523,
     "idMal": 63352,
     "title": {
@@ -5227,6 +5259,10 @@
         {
           "episode": 12,
           "airingAt": 1789747200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1790352000
         }
       ]
     },
@@ -6251,6 +6287,38 @@
         {
           "episode": 12,
           "airingAt": 1789749720
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213861,
+    "idMal": 64537,
+    "title": {
+      "romaji": "Let's Roll, Cinnamoroll! 2",
+      "english": "Let's Roll, Cinnamoroll! 2",
+      "native": "レッツロールシナモロール",
+      "userPreferred": "Let's Roll, Cinnamoroll! 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 4,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213861-PNBuQOrphcbK.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213861-PNBuQOrphcbK.png",
+      "color": "#f1bb43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1789527600
         }
       ]
     },
