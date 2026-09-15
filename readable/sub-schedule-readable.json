@@ -4251,6 +4251,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 204389,
+    "idMal": 63140,
+    "title": {
+      "romaji": "Yasei no Last Boss ga Arawareta! 2nd Season",
+      "english": "A Wild Last Boss Appeared! Season 2",
+      "native": "野生のラスボスが現れた！ 第2期",
+      "userPreferred": "A Wild Last Boss Appeared! Season 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-p0Xsae7Q69JY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204389-p0Xsae7Q69JY.jpg",
+      "color": "#e45093"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790429400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791034200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1791639000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792243800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1792848600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793453400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794058200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1794663000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795267800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1795872600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796477400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797082200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 204431,
     "idMal": 63138,
     "title": {
@@ -4344,10 +4423,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204656-ECYkRJKBxTLj.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 37,
-          "airingAt": 1789513200
-        },
         {
           "episode": 38,
           "airingAt": 1790118000
