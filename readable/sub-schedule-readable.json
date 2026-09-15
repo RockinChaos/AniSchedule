@@ -2978,40 +2978,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 196219,
-    "idMal": 62080,
-    "title": {
-      "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
-      "english": "The Oblivious Saint Can't Contain Her Power",
-      "native": "無自覚聖女は今日も無意識に力を垂れ流す",
-      "userPreferred": "The Oblivious Saint Can't Contain Her Power"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196219-imvC0rbk4VzH.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196219-imvC0rbk4VzH.jpg",
-      "color": "#5daee4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196219-2F64WTRfqRU9.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789477200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 196356,
     "idMal": 62102,
     "title": {
@@ -6117,10 +6083,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789476900
-        },
         {
           "episode": 12,
           "airingAt": 1790081700
