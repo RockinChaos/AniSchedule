@@ -1300,6 +1300,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 159042,
+    "idMal": 53913,
+    "title": {
+      "romaji": "Tensei Shitara Ken Deshita 2nd Season",
+      "english": "Reincarnated as a Sword Season 2",
+      "native": "転生したら剣でした 第2期",
+      "userPreferred": "Reincarnated as a Sword Season 2"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx159042-GGFwlDskc5vR.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx159042-GGFwlDskc5vR.png",
+      "color": "#f19328"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/159042-X0mqyaUFBkms.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790782200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791387000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1791991800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792596600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793201400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793806200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794411000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795015800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795620600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796225400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796830200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797435000
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 159309,
     "idMal": 54000,
     "title": {
@@ -1326,10 +1405,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789569000
-        },
         {
           "episode": 12,
           "airingAt": 1790173800
@@ -2790,10 +2865,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1789569960
-        },
-        {
           "episode": 12,
           "airingAt": 1790174760
         }
@@ -3047,10 +3118,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196356-OUT2nMhW0IdS.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789569000
-        },
         {
           "episode": 12,
           "airingAt": 1790173800
@@ -3408,6 +3475,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199068,
+    "idMal": 62534,
+    "title": {
+      "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+      "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+      "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+      "userPreferred": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-2afNaytl50Ko.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199068-2afNaytl50Ko.png",
+      "color": "#d61a1a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790780400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791385200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1791990000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792594800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793199600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793804400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794409200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795014000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795618800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796223600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796828400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797433200
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -4577,10 +4723,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 23,
-          "airingAt": 1789570560
-        },
-        {
           "episode": 24,
           "airingAt": 1790175360
         }
@@ -4883,10 +5025,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1789573440
-        },
-        {
           "episode": 12,
           "airingAt": 1790178240
         }
@@ -5186,41 +5324,6 @@
         {
           "episode": 29,
           "airingAt": 1791451800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 209669,
-    "idMal": 63780,
-    "title": {
-      "romaji": "Hanazakari no Kimitachi e 2nd Season",
-      "english": "Hana-Kimi Season 2",
-      "native": "花ざかりの君たちへ 第2期",
-      "userPreferred": "Hana-Kimi Season 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209669-7GlPe2ra5f1i.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209669-7GlPe2ra5f1i.jpg",
-      "color": "#436be4"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1789574400
         }
       ]
     },
@@ -6361,10 +6464,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789570800
-        },
         {
           "episode": 12,
           "airingAt": 1790175600
