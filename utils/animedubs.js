@@ -41,8 +41,17 @@ class MALDubs {
                 this.printError(res)
             }
         }
+        if (!this.isValidDubData(json)) {
+            this.printError({ status: 500, message: 'Rejected MAL-Dubs response, failed schema validation.' })
+            return this.dubLists
+        }
         this.dubLists = json
         return json
+    }
+
+    isValidDubData(json) {
+        return !!json && Array.isArray(json.dubbed) && Array.isArray(json.incomplete) &&
+            json.dubbed.every(id => Number.isInteger(id)) && json.incomplete.every(id => Number.isInteger(id))
     }
 
     printError(error) {
