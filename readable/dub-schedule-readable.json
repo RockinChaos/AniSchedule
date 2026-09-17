@@ -180,7 +180,8 @@
     "delayedFrom": "2026-09-10T12:40:00Z",
     "delayedUntil": "2026-09-17T12:40:00Z",
     "episodeDate": "2026-09-17T12:40:00Z",
-    "episodeNumber": 9,
+    "episodeNumber": 10,
+    "subtractedEpisodeNumber": 9,
     "episodes": 12,
     "lengthMin": 12,
     "mediaTypes": [
@@ -218,7 +219,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 9,
+              "airingAt": "2026-09-17T12:40:00Z"
+            },
+            {
               "episode": 10,
+              "airingAt": "2026-09-17T12:40:00Z"
+            },
+            {
+              "episode": 11,
               "airingAt": "2026-09-24T12:40:00Z"
             }
           ]
@@ -1927,7 +1936,8 @@
     "delayedFrom": "2026-09-10T14:30:00Z",
     "delayedUntil": "2026-09-17T14:30:00Z",
     "episodeDate": "2026-09-17T14:30:00Z",
-    "episodeNumber": 7,
+    "episodeNumber": 8,
+    "subtractedEpisodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1964,7 +1974,15 @@
         "airingSchedule": {
           "nodes": [
             {
+              "episode": 7,
+              "airingAt": "2026-09-17T14:30:00Z"
+            },
+            {
               "episode": 8,
+              "airingAt": "2026-09-17T14:30:00Z"
+            },
+            {
+              "episode": 9,
               "airingAt": "2026-09-24T14:30:00Z"
             }
           ]
