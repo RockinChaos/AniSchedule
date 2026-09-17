@@ -3885,40 +3885,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 201667,
-    "idMal": 62883,
-    "title": {
-      "romaji": "Bungou Stray Dogs Wan! 2",
-      "english": "Bungo Stray Dogs WAN! 2",
-      "native": "文豪ストレイドッグス わん！２",
-      "userPreferred": "Bungo Stray Dogs WAN! 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life",
-      "Supernatural"
-    ],
-    "duration": 12,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201667-oqaW97DQ7HUj.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201667-oqaW97DQ7HUj.jpg",
-      "color": "#e46b5d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201667-QYNOqPVSG3vi.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789648800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 202269,
     "idMal": 62936,
     "title": {
@@ -4260,10 +4226,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789648200
-        },
         {
           "episode": 13,
           "airingAt": 1790253000
@@ -4757,6 +4719,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 206401,
+    "idMal": 63337,
+    "title": {
+      "romaji": "FX Senshi Kurumi-chan",
+      "english": "FX Fighter Kurumi-chan",
+      "native": "FX戦士くるみちゃん",
+      "userPreferred": "FX Fighter Kurumi-chan"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-tToJHZcMGrvp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206401-tToJHZcMGrvp.jpg",
+      "color": "#e44378"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790857800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791462600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792067400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792672200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793277000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793881800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794486600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795091400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795696200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796301000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796905800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797510600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
