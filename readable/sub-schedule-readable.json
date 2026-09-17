@@ -6402,6 +6402,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 213805,
+    "idMal": 64534,
+    "title": {
+      "romaji": "Koori no Jouheki 2nd Season",
+      "english": "The Ramparts of Ice Season 2",
+      "native": "氷の城壁 第2期",
+      "userPreferred": "The Ramparts of Ice Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213805-Nokui3uWlIlw.png",
+      "color": "#e4a143"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790823360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791428160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792032960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792637760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793242560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793847360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794452160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795056960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795661760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796266560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796871360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797476160
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 213831,
     "idMal": 64543,
     "title": {
