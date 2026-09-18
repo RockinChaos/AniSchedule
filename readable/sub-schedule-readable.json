@@ -1659,6 +1659,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 178083,
+    "idMal": 59088,
+    "title": {
+      "romaji": "Tokyo Revengers: Santen Sensou-hen",
+      "english": null,
+      "native": "東京リベンジャーズ 三天戦争編",
+      "userPreferred": "Tokyo Revengers: Santen Sensou-hen"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178083-bg7pg6TCHwtG.jpg",
+      "color": "#c99350"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790959980
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791564780
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792169580
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792774380
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793379180
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793983980
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794588780
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795193580
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795798380
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796403180
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797007980
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797612780
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 178789,
     "idMal": 59193,
     "title": {
@@ -5000,40 +5080,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 207674,
-    "idMal": 63468,
-    "title": {
-      "romaji": "Ushiro no Shoumen Kamui-san",
-      "english": "KAMUI ---He's behind you",
-      "native": "うしろの正面カムイさん",
-      "userPreferred": "KAMUI ---He's behind you"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Supernatural"
-    ],
-    "duration": 12,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207674-BT8lFAwH1WrL.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207674-BT8lFAwH1WrL.jpg",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207674-0bYvzXIq7Lq3.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789749000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 207809,
     "idMal": 63489,
     "title": {
@@ -6405,40 +6451,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 213831,
-    "idMal": 64543,
-    "title": {
-      "romaji": "Snack HAZAMA",
-      "english": "Snack Hazama",
-      "native": "スナックはざま-HAZAMA-",
-      "userPreferred": "Snack Hazama"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Supernatural"
-    ],
-    "duration": 12,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213831-jrH7JR6feW1q.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213831-jrH7JR6feW1q.png",
-      "color": "#e48628"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789749720
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
