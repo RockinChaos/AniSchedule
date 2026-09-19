@@ -4785,6 +4785,133 @@
     "zeroEpisode": false
   },
   {
+    "id": 204650,
+    "idMal": 63181,
+    "title": {
+      "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+      "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+      "native": "桃源暗鬼 日光・華厳の滝編",
+      "userPreferred": "TOUGEN ANKI: Nikko Kegon Falls Arc"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204650-nvK5CuG60WGY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204650-nvK5CuG60WGY.jpg",
+      "color": "#5daee4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204650-MpownoVlYv69.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790951400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791556200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792161000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792765800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793370600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793975400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794580200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795185000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795789800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796394600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796999400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797604200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1798209000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798813800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1799418600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1800023400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800628200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1801233000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1801837800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802442600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1803047400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1803652200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1804257000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1804861800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 204656,
     "idMal": 63151,
     "title": {
@@ -4923,39 +5050,6 @@
         {
           "episode": 24,
           "airingAt": 1790175360
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 206249,
-    "idMal": 63324,
-    "title": {
-      "romaji": "Iwamoto-senpai no Suisen",
-      "english": "Recommendations from Iwamoto-Senpai",
-      "native": "岩元先輩ノ推薦",
-      "userPreferred": "Recommendations from Iwamoto-Senpai"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206249-1AUSry416wGz.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206249-1AUSry416wGz.png",
-      "color": "#fed650"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206249-gKJUJDCbMjDT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789824600
         }
       ]
     },
