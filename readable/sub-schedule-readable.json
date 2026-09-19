@@ -5627,6 +5627,82 @@
     "zeroEpisode": false
   },
   {
+    "id": 212308,
+    "idMal": 64210,
+    "title": {
+      "romaji": "Pan no Akachan (TV)",
+      "english": null,
+      "native": "パンの赤ちゃん",
+      "userPreferred": "Pan no Akachan (TV)"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 2,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212308-HUdh20Djd7cm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212308-HUdh20Djd7cm.jpg",
+      "color": "#1abbd6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 13,
+          "airingAt": 1790379000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1790983800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1791588600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1792193400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1792798200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1793403000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1794007800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1794612600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1795217400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1795822200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1796427000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1797031800
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 212575,
     "idMal": 64291,
     "title": {
