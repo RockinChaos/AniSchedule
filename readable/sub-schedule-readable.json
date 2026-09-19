@@ -2462,10 +2462,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1789833300
-        },
-        {
           "episode": 12,
           "airingAt": 1790438100
         }
@@ -2617,10 +2613,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185875-kHVsTIJKPVRJ.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789833600
-        },
         {
           "episode": 13,
           "airingAt": 1790434800
@@ -4443,6 +4435,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 202250,
+    "idMal": 62922,
+    "title": {
+      "romaji": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu",
+      "english": null,
+      "native": "貸した魔力は【リボ払い】で強制徴収",
+      "userPreferred": "Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202250-duq4XpZP8TU3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202250-duq4XpZP8TU3.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791045000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791649800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792254600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792859400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793464200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794069000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794673800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795278600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795883400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796488200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797093000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797697800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 202269,
     "idMal": 62936,
     "title": {
@@ -5725,39 +5796,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 208225,
-    "idMal": 63537,
-    "title": {
-      "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
-      "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
-      "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます",
-      "userPreferred": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration"
-    },
-    "format": "TV",
-    "genres": [
-      "Fantasy",
-      "Romance"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208225-HJbCC0Z4xRp3.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208225-HJbCC0Z4xRp3.jpg",
-      "color": "#e4bb28"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789835400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 208824,
     "idMal": 63641,
     "title": {
@@ -5977,6 +6015,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 209872,
+    "idMal": 63801,
+    "title": {
+      "romaji": "Ranma 1/2 (2024) 3rd Season",
+      "english": "Ranma1/2 (2024) Season 3",
+      "native": "らんま1/2 (2024) 第3期",
+      "userPreferred": "Ranma1/2 (2024) Season 3"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209872-RBeVPqwejHFp.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209872-RBeVPqwejHFp.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791042960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791647760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792252560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792857360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793462160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794066960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794671760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795276560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795881360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796486160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797090960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797695760
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
