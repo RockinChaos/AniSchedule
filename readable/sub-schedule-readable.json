@@ -3329,6 +3329,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 195604,
+    "idMal": 61967,
+    "title": {
+      "romaji": "Black Clover 2nd Season",
+      "english": "Black Clover Season 2",
+      "native": "ブラッククローバー 第2期",
+      "userPreferred": "Black Clover Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-8xUI10lVVhPY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195604-8xUI10lVVhPY.jpg",
+      "color": "#e4c9ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791036000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791640800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792245600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792850400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793455200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794060000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794664800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795269600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795874400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796479200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797084000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797688800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 195833,
     "idMal": 62031,
     "title": {
