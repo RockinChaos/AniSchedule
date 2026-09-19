@@ -2703,39 +2703,82 @@
     "zeroEpisode": false
   },
   {
-    "id": 187538,
-    "idMal": 61169,
+    "id": 187402,
+    "idMal": 61153,
     "title": {
-      "romaji": "BLACK TORCH",
-      "english": "BLACK TORCH",
-      "native": "BLACK TORCH",
-      "userPreferred": "BLACK TORCH"
+      "romaji": "Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu",
+      "english": "A Tale of the Secret Saint",
+      "native": "転生した大聖女は、聖女であることをひた隠す",
+      "userPreferred": "A Tale of the Secret Saint"
     },
     "format": "TV",
     "genres": [
       "Action",
       "Adventure",
-      "Fantasy",
-      "Sci-Fi",
-      "Supernatural"
+      "Fantasy"
     ],
-    "duration": 24,
+    "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187538-fXVXKYUA3VV6.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187538-fXVXKYUA3VV6.jpg",
-      "color": "#435dff"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187402-ReKkLwFmMV3q.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187402-ReKkLwFmMV3q.jpg",
+      "color": "#50bbe4"
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187538-287evzCezNl0.jpg",
+    "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1791032400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791637200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792242000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792846800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793451600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794056400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794661200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795266000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795870800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796475600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797080400
+        },
+        {
           "episode": 12,
-          "airingAt": 1789822800
+          "airingAt": 1797685200
         }
       ]
     },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
