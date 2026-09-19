@@ -3293,42 +3293,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 195600,
-    "idMal": 62001,
-    "title": {
-      "romaji": "Yomi no Tsugai",
-      "english": "Daemons of the Shadow Realm",
-      "native": "黄泉のツガイ",
-      "userPreferred": "Daemons of the Shadow Realm"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195600-moI0UFArtOme.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195600-moI0UFArtOme.jpg",
-      "color": "#e49335"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195600-UxHvDXwzJxlP.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1789828200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 195604,
     "idMal": 61967,
     "title": {
@@ -3863,6 +3827,87 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 199007,
+    "idMal": 62524,
+    "title": {
+      "romaji": "#Zombie Sagashitemasu",
+      "english": "#I'm Looking For a Zombie",
+      "native": "#ゾンビさがしてます",
+      "userPreferred": "#I'm Looking For a Zombie"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199007-qxUDe3KA6AGI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199007-qxUDe3KA6AGI.jpg",
+      "color": "#5d86f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791037800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791642600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792247400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792852200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793457000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794061800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794666600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795271400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795876200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796481000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797085800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797690600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5703,6 +5748,84 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 209562,
+    "idMal": 63764,
+    "title": {
+      "romaji": "Vertex Force",
+      "english": "VERTEX FORCE",
+      "native": "バーテックスフォース",
+      "userPreferred": "VERTEX FORCE"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Mecha"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209562-kQQbTKDuql9p.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209562-kQQbTKDuql9p.jpg",
+      "color": "#e4d650"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791037800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791642600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792247400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792852200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793457000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794061800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794666600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795271400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795876200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796481000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797085800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797690600
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
