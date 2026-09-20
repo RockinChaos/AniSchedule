@@ -5389,10 +5389,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1789864200
-        },
-        {
           "episode": 26,
           "airingAt": 1790469000
         },
@@ -5487,6 +5483,10 @@
         {
           "episode": 49,
           "airingAt": 1804379400
+        },
+        {
+          "episode": 50,
+          "airingAt": 1804984200
         }
       ]
     },
@@ -7531,6 +7531,135 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 216860,
+    "idMal": null,
+    "title": {
+      "romaji": "Punirunes Puni 4",
+      "english": null,
+      "native": "ぷにるんず ぷに４",
+      "userPreferred": "Punirunes Puni 4"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216860-ghfSopHbPVNa.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216860-ghfSopHbPVNa.png",
+      "color": "#5dd6f1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791072960
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791677760
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792282560
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792887360
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793492160
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794096960
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794701760
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795306560
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795911360
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796516160
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797120960
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797725760
+        },
+        {
+          "episode": 13,
+          "airingAt": 1798330560
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798935360
+        },
+        {
+          "episode": 15,
+          "airingAt": 1799540160
+        },
+        {
+          "episode": 16,
+          "airingAt": 1800144960
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800749760
+        },
+        {
+          "episode": 18,
+          "airingAt": 1801354560
+        },
+        {
+          "episode": 19,
+          "airingAt": 1801959360
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802564160
+        },
+        {
+          "episode": 21,
+          "airingAt": 1803168960
+        },
+        {
+          "episode": 22,
+          "airingAt": 1803773760
+        },
+        {
+          "episode": 23,
+          "airingAt": 1804378560
+        },
+        {
+          "episode": 24,
+          "airingAt": 1804983360
+        },
+        {
+          "episode": 25,
+          "airingAt": 1805588160
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
