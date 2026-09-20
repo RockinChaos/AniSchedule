@@ -4443,40 +4443,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 200637,
-    "idMal": 62811,
-    "title": {
-      "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season",
-      "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3",
-      "native": "君のことが大大大大大好きな100人の彼女 第3期",
-      "userPreferred": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200637-QLR5uv9SbQ69.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200637-QLR5uv9SbQ69.jpg",
-      "color": "#f193bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200637-q9mehOFbbCgT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789911000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 202079,
     "idMal": 62907,
     "title": {
@@ -5836,6 +5802,83 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 209032,
+    "idMal": 63667,
+    "title": {
+      "romaji": "Mahou no Shimai LuluttoLilly Part 2",
+      "english": null,
+      "native": "魔法の姉妹ルルットリリィ 第2クール",
+      "userPreferred": "Mahou no Shimai LuluttoLilly Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Mahou Shoujo"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209032-MD8TDzYtFoL0.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209032-MD8TDzYtFoL0.png",
+      "color": "#f150bb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791120600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791725400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792330200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792935000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793539800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794144600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794749400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795354200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795959000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796563800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797168600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797773400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
