@@ -1461,39 +1461,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 169080,
-    "idMal": 56613,
-    "title": {
-      "romaji": "Azur Lane: Bisoku Zenshin! Ni!!",
-      "english": "Anime AzurLane: Slow Ahead! Season 2",
-      "native": "アズールレーン びそくぜんしんっ！にっ！！",
-      "userPreferred": "Anime AzurLane: Slow Ahead! Season 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Ecchi",
-      "Slice of Life"
-    ],
-    "duration": 9,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169080-el4sMLlqMxeI.png",
-      "color": "#fefe28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169080-HcBclO97a4SE.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789920000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 169581,
     "idMal": 56733,
     "title": {
@@ -5762,6 +5729,69 @@
     "zeroEpisode": false
   },
   {
+    "id": 206774,
+    "idMal": 63381,
+    "title": {
+      "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu",
+      "english": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls!",
+      "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
+      "userPreferred": "Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls!"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Ecchi",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206774-s1a2BAAifoUD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206774-s1a2BAAifoUD.png",
+      "color": "#43c9ff"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791129600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791734400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792339200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793548800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794153600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794758400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795964400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1796569200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 207141,
     "idMal": 63403,
     "title": {
@@ -6658,6 +6688,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 211877,
+    "idMal": 64131,
+    "title": {
+      "romaji": "Kanojo no Tomodachi",
+      "english": null,
+      "native": "彼女の友達",
+      "userPreferred": "Kanojo no Tomodachi"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-6mVlsr0mzn0J.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211877-6mVlsr0mzn0J.jpg",
+      "color": "#f1a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791129900
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791734700
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792339500
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792944300
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793549100
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794153900
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794758700
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795363500
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795968300
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796573100
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797177900
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797782700
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7620,6 +7729,39 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 214551,
+    "idMal": null,
+    "title": {
+      "romaji": "Oushun Jogakuen no Danyuu",
+      "english": null,
+      "native": "桜春女学院の男優",
+      "userPreferred": "Oushun Jogakuen no Danyuu"
+    },
+    "format": "ONA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214551-uDaf7UPVxN2v.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214551-uDaf7UPVxN2v.jpg",
+      "color": "#f128a1"
+    },
+    "isAdult": true,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790348400
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
