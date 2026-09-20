@@ -582,10 +582,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1789912800
-        },
-        {
           "episode": 13,
           "airingAt": 1790517600
         }
@@ -3279,6 +3275,131 @@
         {
           "episode": 12,
           "airingAt": 1797694200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 191788,
+    "idMal": 61603,
+    "title": {
+      "romaji": "Aoashi 2nd Season",
+      "english": "Aoashi Season 2",
+      "native": "アオアシ 第2期",
+      "userPreferred": "Aoashi Season 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191788-XC6F24LdX6a4.jpg",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791122400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791727200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792332000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792936800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793541600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794146400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794751200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795356000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795960800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796565600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797170400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797775200
+        },
+        {
+          "episode": 13,
+          "airingAt": 1798380000
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798984800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1799589600
+        },
+        {
+          "episode": 16,
+          "airingAt": 1800194400
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800799200
+        },
+        {
+          "episode": 18,
+          "airingAt": 1801404000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1802008800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802613600
+        },
+        {
+          "episode": 21,
+          "airingAt": 1803218400
+        },
+        {
+          "episode": 22,
+          "airingAt": 1803823200
+        },
+        {
+          "episode": 23,
+          "airingAt": 1804428000
+        },
+        {
+          "episode": 24,
+          "airingAt": 1805032800
         }
       ]
     },
