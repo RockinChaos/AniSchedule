@@ -1823,10 +1823,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 13,
-          "airingAt": 1789916400
-        },
-        {
           "episode": 14,
           "airingAt": 1790506800
         }
@@ -2886,39 +2882,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 188139,
-    "idMal": 61240,
-    "title": {
-      "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
-      "english": "Though I Am an Inept Villainess",
-      "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~",
-      "userPreferred": "Though I Am an Inept Villainess"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188139-1qIJfWxym8FX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188139-1qIJfWxym8FX.jpg",
-      "color": "#0d86fe"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188139-PU5JsGJiiUnR.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 11,
-          "airingAt": 1789915560
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -6124,6 +6087,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 209463,
+    "idMal": 63753,
+    "title": {
+      "romaji": "Kanata Kara",
+      "english": null,
+      "native": "彼方から",
+      "userPreferred": "Kanata Kara"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209463-Yxk2q10RXgg8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209463-Yxk2q10RXgg8.jpg",
+      "color": "#5d6be4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791126000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791730800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792335600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792940400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793545200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794150000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794754800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795359600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795964400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796569200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797174000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797778800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 209504,
     "idMal": 63752,
     "title": {
@@ -7282,38 +7324,6 @@
         {
           "episode": 12,
           "airingAt": 1791943200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 213506,
-    "idMal": 64378,
-    "title": {
-      "romaji": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2",
-      "english": null,
-      "native": "北斗の拳 拳王軍ザコたちの挽歌 第2クール",
-      "userPreferred": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 4,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213506-vr9kwJjMvXV8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213506-vr9kwJjMvXV8.jpg",
-      "color": "#febb50"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789916400
         }
       ]
     },
