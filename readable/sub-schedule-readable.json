@@ -685,10 +685,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 384,
-          "airingAt": 1789894800
-        },
-        {
           "episode": 385,
           "airingAt": 1790499600
         },
@@ -4365,6 +4361,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 200230,
+    "idMal": 62683,
+    "title": {
+      "romaji": "Let's Go Kaikigumi",
+      "english": "Let's go KAIKIGUMI",
+      "native": "レッツゴー怪奇組",
+      "userPreferred": "Let's go KAIKIGUMI"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx200230-YuzdgbXSgi38.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200230-YuzdgbXSgi38.png",
+      "color": "#e45d43"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 12,
+          "airingAt": 1790494200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 200637,
     "idMal": 62811,
     "title": {
@@ -4747,39 +4777,6 @@
         {
           "episode": 13,
           "airingAt": 1790253000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 204060,
-    "idMal": 63100,
-    "title": {
-      "romaji": "Tetsunabe no Jan!",
-      "english": "Iron Wok Jan!",
-      "native": "鉄鍋のジャン！",
-      "userPreferred": "Iron Wok Jan!"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204060-bKhovD8jAlW8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204060-bKhovD8jAlW8.jpg",
-      "color": "#f1931a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204060-3y19sqCToRaN.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789893000
         }
       ]
     },
