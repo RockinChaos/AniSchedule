@@ -829,10 +829,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 159,
-          "airingAt": 1789956000
-        },
-        {
           "episode": 160,
           "airingAt": 1790560800
         },
@@ -7835,6 +7831,132 @@
         {
           "episode": 1,
           "airingAt": 1790348400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 214593,
+    "idMal": null,
+    "title": {
+      "romaji": "Yuusanchi! from Yuuhachi",
+      "english": null,
+      "native": "ゆうさんち！from 遊ハち",
+      "userPreferred": "Yuusanchi! from Yuuhachi"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214593-WZ0HaPSRae2E.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214593-WZ0HaPSRae2E.png",
+      "color": "#f1ae50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791165600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791471600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1791770400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792076400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1792375200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1792681200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1792980000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1793286000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1793584800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1793890800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1794189600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1794495600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1794794400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1795100400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1795399200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1795705200
+        },
+        {
+          "episode": 17,
+          "airingAt": 1796004000
+        },
+        {
+          "episode": 18,
+          "airingAt": 1796310000
+        },
+        {
+          "episode": 19,
+          "airingAt": 1796608800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1796914800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1797213600
+        },
+        {
+          "episode": 22,
+          "airingAt": 1797519600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1797818400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1798124400
         }
       ]
     },
