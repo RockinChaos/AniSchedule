@@ -157,6 +157,38 @@
         {
           "episode": 1215,
           "airingAt": 1791018000
+        },
+        {
+          "episode": 1216,
+          "airingAt": 1791622800
+        },
+        {
+          "episode": 1217,
+          "airingAt": 1792227600
+        },
+        {
+          "episode": 1218,
+          "airingAt": 1792832400
+        },
+        {
+          "episode": 1219,
+          "airingAt": 1793437200
+        },
+        {
+          "episode": 1220,
+          "airingAt": 1794042000
+        },
+        {
+          "episode": 1221,
+          "airingAt": 1794646800
+        },
+        {
+          "episode": 1222,
+          "airingAt": 1795251600
+        },
+        {
+          "episode": 1223,
+          "airingAt": 1795856400
         }
       ]
     },
@@ -8464,6 +8496,42 @@
         {
           "episode": 12,
           "airingAt": 1797596760
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 217126,
+    "idMal": 64913,
+    "title": {
+      "romaji": "Meitantei Conan: 30-Gou Satsujin Jiken",
+      "english": null,
+      "native": "名探偵コナン 30号殺人事件",
+      "userPreferred": "Meitantei Conan: 30-Gou Satsujin Jiken"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "duration": 90,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217126-HRn0NsNpeUBb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217126-HRn0NsNpeUBb.jpg",
+      "color": "#e4505d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790337600
         }
       ]
     },
