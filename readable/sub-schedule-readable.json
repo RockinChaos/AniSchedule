@@ -1410,6 +1410,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 160803,
+    "idMal": 54344,
+    "title": {
+      "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+      "english": null,
+      "native": "魔法少女育成計画 restart",
+      "userPreferred": "Mahou Shoujo Ikusei Keikaku: restart"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Thriller"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx160803-aBWg5M8qdOMX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx160803-aBWg5M8qdOMX.jpg",
+      "color": "#c94378"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791219600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791824400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792429200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793034000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793638800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794243600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794848400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795453200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796058000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796662800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797267600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797872400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 161680,
     "idMal": 55003,
     "title": {
