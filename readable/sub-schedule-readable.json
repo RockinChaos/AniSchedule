@@ -3807,10 +3807,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 25,
-          "airingAt": 1790002800
-        },
-        {
           "episode": 26,
           "airingAt": 1790607600
         }
@@ -4081,40 +4077,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 199111,
-    "idMal": 62542,
-    "title": {
-      "romaji": "Grand Blue Season 3",
-      "english": "Grand Blue Dreaming Season 3",
-      "native": "ぐらんぶる Season 3",
-      "userPreferred": "Grand Blue Dreaming Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199111-gBSuBG61ElcW.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199111-gBSuBG61ElcW.jpg",
-      "color": "#5daed6"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199111-Z8y9awn2Zb6v.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790002800
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
