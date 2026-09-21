@@ -3577,39 +3577,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 195833,
-    "idMal": 62031,
-    "title": {
-      "romaji": "Honoo no Toukyuujyo Dodge Danko",
-      "english": "Flaming Dodgeball Girl Danko",
-      "native": "炎の闘球女 ドッジ弾子",
-      "userPreferred": "Flaming Dodgeball Girl Danko"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195833-h7x6i3NQWROA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195833-h7x6i3NQWROA.jpg",
-      "color": "#f1860d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195833-DlR4ToMXP3if.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789999200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 196012,
     "idMal": 62048,
     "title": {
@@ -4904,6 +4871,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 204011,
+    "idMal": 63098,
+    "title": {
+      "romaji": "PSYЯEN",
+      "english": "PSYREN",
+      "native": "PSYREN -サイレン-",
+      "userPreferred": "PSYREN"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204011-j45RZoqYbdZK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx204011-j45RZoqYbdZK.jpg",
+      "color": "#0dd6e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204011-hBOwte9MzykA.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791208800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791813600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792418400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793023200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793628000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794232800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794837600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795442400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796047200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796652000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797256800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797861600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 204269,
     "idMal": 63125,
     "title": {
@@ -6145,41 +6191,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 209504,
-    "idMal": 63752,
-    "title": {
-      "romaji": "Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita",
-      "english": "The Forsaken Saintess and Her Foodie Roadtrip in Another World",
-      "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
-      "userPreferred": "The Forsaken Saintess and Her Foodie Roadtrip in Another World"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209504-yRxHWxKuNGtg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209504-yRxHWxKuNGtg.jpg",
-      "color": "#bbe40d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1789999200
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
