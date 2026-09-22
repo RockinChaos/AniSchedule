@@ -2616,10 +2616,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 12,
-          "airingAt": 1790080200
-        },
-        {
           "episode": 13,
           "airingAt": 1790685000
         }
@@ -5663,6 +5659,83 @@
         {
           "episode": 8,
           "airingAt": 1796569200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206949,
+    "idMal": 63382,
+    "title": {
+      "romaji": "Kyouran Reijou Nia Liston",
+      "english": "Nia Liston: The Merciless Maiden",
+      "native": "凶乱令嬢ニア・リストン",
+      "userPreferred": "Nia Liston: The Merciless Maiden"
+    },
+    "format": "TV",
+    "genres": [
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206949-4HYI3YuP0eLI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206949-4HYI3YuP0eLI.png",
+      "color": "#f15dbb"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791289560
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791894360
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792499160
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793103960
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793708760
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794313560
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794918360
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795523160
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796127960
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796732760
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797337560
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797942360
         }
       ]
     },
