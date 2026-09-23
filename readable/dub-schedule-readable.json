@@ -2506,8 +2506,9 @@
     "route": "thunder-3",
     "english": "Thunder 3",
     "native": "サンダー3",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-09-23T16:30:00Z",
+    "delayedUntil": "2026-09-30T16:30:00Z",
     "episodeDate": "2026-09-23T16:30:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -2548,7 +2549,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-09-23T16:30:00Z"
+              "airingAt": "2026-09-30T16:30:00Z"
             }
           ]
         },
