@@ -1859,6 +1859,86 @@
     "zeroEpisode": false
   },
   {
+    "id": 178868,
+    "idMal": 59204,
+    "title": {
+      "romaji": "Magic Knight Rayearth (2026)",
+      "english": "Magic Knight Rayearth (2026)",
+      "native": "魔法騎士レイアース (2026)",
+      "userPreferred": "Magic Knight Rayearth (2026)"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Mahou Shoujo",
+      "Mecha"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178868-mfp0HIHNJNAm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178868-mfp0HIHNJNAm.jpg",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791384360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791989160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792593960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793198760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793803560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794408360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795013160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795617960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796222760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796827560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797432360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798037160
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 180136,
     "idMal": 59741,
     "title": {
@@ -3521,41 +3601,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 194829,
-    "idMal": 61897,
-    "title": {
-      "romaji": "Katainaka no Ossan, Kensei ni Naru II",
-      "english": "From Old Country Bumpkin to Master Swordsman II",
-      "native": "片田舎のおっさん、剣聖になるII",
-      "userPreferred": "From Old Country Bumpkin to Master Swordsman II"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 23,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194829-bZKwhfo60EuF.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194829-bZKwhfo60EuF.jpg",
-      "color": "#aed6e4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194829-mAQpjlKYA8c2.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790174760
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -5562,38 +5607,6 @@
         {
           "episode": 50,
           "airingAt": 1797375600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 205772,
-    "idMal": 63276,
-    "title": {
-      "romaji": "Candy Caries",
-      "english": null,
-      "native": "キャンディーカリエス",
-      "userPreferred": "Candy Caries"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy"
-    ],
-    "duration": 3,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205772-kb2YOaXFfPAB.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205772-kb2YOaXFfPAB.png",
-      "color": "#f1930d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205772-fJwBre4r2a53.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1790175360
         }
       ]
     },
@@ -7985,39 +7998,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 213961,
-    "idMal": 64577,
-    "title": {
-      "romaji": "Youjo Shenki 2",
-      "english": null,
-      "native": "ようじょしぇんき2",
-      "userPreferred": "Youjo Shenki 2"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "duration": 2,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213961-x2ZvvtkYSTC9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213961-x2ZvvtkYSTC9.png",
-      "color": "#f1d693"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790175600
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
