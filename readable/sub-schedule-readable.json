@@ -618,71 +618,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 108992,
-    "idMal": 63802,
-    "title": {
-      "romaji": "Mebius Dust",
-      "english": "Mebius Dust",
-      "native": "メビウス・ダスト",
-      "userPreferred": "Mebius Dust"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Supernatural"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108992-skuOsfmLmMd2.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx108992-skuOsfmLmMd2.jpg",
-      "color": "#50bbc9"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/108992-5OIDQkTbM1id.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790260200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 112936,
-    "idMal": 40658,
-    "title": {
-      "romaji": "Enjo Kouhai",
-      "english": null,
-      "native": "○○交配",
-      "userPreferred": "Enjo Kouhai"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 17,
-    "seasonYear": 2020,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx112936-MOPqLdKu7dgJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx112936-MOPqLdKu7dgJ.jpg",
-      "color": "#c98650"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790262000
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 118123,
     "idMal": 44042,
     "title": {
@@ -3906,40 +3841,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 196187,
-    "idMal": 62076,
-    "title": {
-      "romaji": "Super no Ura de Yani Suu Futari",
-      "english": "Smoking Behind the Supermarket with You",
-      "native": "スーパーの裏でヤニ吸うふたり",
-      "userPreferred": "Smoking Behind the Supermarket with You"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Romance",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196187-0dgFi2CPp3xn.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196187-0dgFi2CPp3xn.jpg",
-      "color": "#f1c9bb"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196187-Z9dV6uotmKjM.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790261760
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 196356,
     "idMal": 62102,
     "title": {
@@ -4577,6 +4478,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 199594,
+    "idMal": 62615,
+    "title": {
+      "romaji": "Tetsuryou! meet with Tetsudou Musume",
+      "english": "TETSURYO! Meet With Tetsudou Musume",
+      "native": "てつりょー！meet with 鉄道むすめ",
+      "userPreferred": "TETSURYO! Meet With Tetsudou Musume"
+    },
+    "format": "TV",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-O16SEeK1Bn7L.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199594-O16SEeK1Bn7L.jpg",
+      "color": "#1a78d6"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199594-iw8KRAiBp3sO.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791471600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792076400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792681200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793286000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793890800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794495600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795100400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795705200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796310000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796914800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797519600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798124400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 200230,
     "idMal": 62683,
     "title": {
@@ -4925,32 +4903,33 @@
     "zeroEpisode": false
   },
   {
-    "id": 202429,
-    "idMal": 62973,
+    "id": 202390,
+    "idMal": 39168,
     "title": {
-      "romaji": "Wareware wa Uchuujin",
+      "romaji": "Girls und Panzer: Saishuushou 5",
       "english": null,
-      "native": "我々は宇宙人",
-      "userPreferred": "Wareware wa Uchuujin"
+      "native": "ガールズ＆パンツァー 最終章 第5話",
+      "userPreferred": "Girls und Panzer: Saishuushou 5"
     },
     "format": "MOVIE",
     "genres": [
-      "Drama"
+      "Action",
+      "Sports"
     ],
     "duration": null,
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202429-RwSR4o3WmD04.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202429-RwSR4o3WmD04.jpg",
-      "color": "#e4ae50"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202390-XrdgWaUKxDUg.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202390-XrdgWaUKxDUg.jpg",
+      "color": null
     },
     "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202429-Yrm8F0olxdCF.jpg",
+    "bannerImage": null,
     "airingSchedule": {
       "nodes": [
         {
           "episode": 1,
-          "airingAt": 1790262000
+          "airingAt": 1791471600
         }
       ]
     },
@@ -6112,6 +6091,40 @@
     "zeroEpisode": false
   },
   {
+    "id": 207327,
+    "idMal": 63423,
+    "title": {
+      "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
+      "english": "To You in the Beyond",
+      "native": "どこよりも遠い場所にいる君へ",
+      "userPreferred": "To You in the Beyond"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mystery",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-OSrMbh8DrGE4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207327-OSrMbh8DrGE4.jpg",
+      "color": "#f1d6ae"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791471600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 207329,
     "idMal": 63431,
     "title": {
@@ -6800,38 +6813,6 @@
       ]
     },
     "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 209873,
-    "idMal": null,
-    "title": {
-      "romaji": "Hamehara",
-      "english": null,
-      "native": "ハメハラ",
-      "userPreferred": "Hamehara"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": null,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209873-bKlttpEcD4oL.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209873-bKlttpEcD4oL.png",
-      "color": "#f1bbae"
-    },
-    "isAdult": true,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1790262000
-        }
-      ]
-    },
     "zeroEpisode": false
   },
   {
@@ -7948,16 +7929,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1790262000
-        },
-        {
           "episode": 2,
           "airingAt": 1795705200
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7985,20 +7961,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1790262000
-        },
-        {
-          "episode": 2,
-          "airingAt": 1790262000
-        },
-        {
           "episode": 3,
           "airingAt": 1793286000
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
