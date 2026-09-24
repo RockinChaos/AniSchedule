@@ -2829,10 +2829,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 51,
-          "airingAt": 1790254800
-        },
-        {
           "episode": 52,
           "airingAt": 1790859600
         }
@@ -5131,40 +5127,6 @@
         {
           "episode": 24,
           "airingAt": 1797001200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 203880,
-    "idMal": 63082,
-    "title": {
-      "romaji": "Reiwa no Dara-san",
-      "english": "Dara-san of the Reiwa Era",
-      "native": "令和のダラさん",
-      "userPreferred": "Dara-san of the Reiwa Era"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Supernatural"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx203880-lnruKftb27Nr.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203880-lnruKftb27Nr.png",
-      "color": null
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1790253000
         }
       ]
     },
