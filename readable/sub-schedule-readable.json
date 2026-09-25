@@ -6304,6 +6304,52 @@
     "zeroEpisode": false
   },
   {
+    "id": 208367,
+    "idMal": 64848,
+    "title": {
+      "romaji": "Duel Masters LOST: Danzai no Shounen",
+      "english": null,
+      "native": "Duel Masters LOST ～断罪の少年～",
+      "userPreferred": "Duel Masters LOST: Danzai no Shounen"
+    },
+    "format": "ONA",
+    "genres": [
+      "Adventure",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208367-Z3OsCdeAopH4.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx208367-Z3OsCdeAopH4.png",
+      "color": "#285093"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791547200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792152000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792756800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793361600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 208824,
     "idMal": 63641,
     "title": {
@@ -6839,9 +6885,9 @@
     "id": 210482,
     "idMal": 61469,
     "title": {
-      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE",
+      "romaji": "JoJo no Kimyou na Bouken: Steel Ball Run - 2nd & 3rd STAGE",
       "english": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
-      "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
+      "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd＆3rd STAGE",
       "userPreferred": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE"
     },
     "format": "ONA",
@@ -8798,42 +8844,6 @@
         {
           "episode": 12,
           "airingAt": 1797596760
-        }
-      ]
-    },
-    "unaired": true,
-    "zeroEpisode": false
-  },
-  {
-    "id": 217126,
-    "idMal": 64913,
-    "title": {
-      "romaji": "Meitantei Conan: 30-Gou Satsujin Jiken",
-      "english": null,
-      "native": "名探偵コナン 30号殺人事件",
-      "userPreferred": "Meitantei Conan: 30-Gou Satsujin Jiken"
-    },
-    "format": "SPECIAL",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Mystery"
-    ],
-    "duration": 120,
-    "seasonYear": null,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217126-HRn0NsNpeUBb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217126-HRn0NsNpeUBb.jpg",
-      "color": "#e4505d"
-    },
-    "isAdult": false,
-    "bannerImage": null,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1790337600
         }
       ]
     },
