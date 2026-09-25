@@ -1981,6 +1981,62 @@
     "addedAt": "2026-08-22T23:00:00Z"
   },
   {
+    "title": "OVERGEARED",
+    "route": "overgeared",
+    "native": "テムパル ～アイテムの力～",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-09-27T14:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 212888,
+        "idMal": 64340,
+        "title": {
+          "romaji": "Temppal: Item no Chikara",
+          "english": "Overgeared",
+          "native": "テムパル～アイテムの力～",
+          "userPreferred": "Overgeared"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212888-NhyvqPt5aIuJ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212888-NhyvqPt5aIuJ.jpg",
+          "color": "#f19335"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-09-27T14:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-09-27T14:30:00Z"
+  },
+  {
     "title": "Ranma ½ (2024) 3rd Season",
     "route": "ranma-2024-3rd-season",
     "romaji": "Ranma ½ (2024) 3rd Season",
