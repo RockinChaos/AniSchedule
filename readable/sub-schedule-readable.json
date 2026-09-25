@@ -910,43 +910,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 140842,
-    "idMal": 50250,
-    "title": {
-      "romaji": "Chiikawa",
-      "english": "Chiikawa",
-      "native": "ちいかわ",
-      "userPreferred": "Chiikawa"
-    },
-    "format": "TV_SHORT",
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "duration": 2,
-    "seasonYear": 2022,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-      "color": "#e4d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 382,
-          "airingAt": 1790635200
-        },
-        {
-          "episode": 383,
-          "airingAt": 1798756800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 152677,
     "idMal": 52480,
     "title": {
@@ -1184,54 +1147,50 @@
       "nodes": [
         {
           "episode": 152,
-          "airingAt": 1790934900
-        },
-        {
-          "episode": 153,
           "airingAt": 1791539700
         },
         {
-          "episode": 154,
+          "episode": 153,
           "airingAt": 1792144500
         },
         {
-          "episode": 155,
+          "episode": 154,
           "airingAt": 1792749300
         },
         {
-          "episode": 156,
+          "episode": 155,
           "airingAt": 1793354100
         },
         {
-          "episode": 157,
+          "episode": 156,
           "airingAt": 1793958900
         },
         {
-          "episode": 158,
+          "episode": 157,
           "airingAt": 1794563700
         },
         {
-          "episode": 159,
+          "episode": 158,
           "airingAt": 1795168500
         },
         {
-          "episode": 160,
+          "episode": 159,
           "airingAt": 1795773300
         },
         {
-          "episode": 161,
+          "episode": 160,
           "airingAt": 1796378100
         },
         {
-          "episode": 162,
+          "episode": 161,
           "airingAt": 1796982900
         },
         {
-          "episode": 163,
+          "episode": 162,
           "airingAt": 1797587700
         },
         {
-          "episode": 164,
+          "episode": 163,
           "airingAt": 1798192500
         }
       ]
