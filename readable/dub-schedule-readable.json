@@ -1926,8 +1926,8 @@
     "native": "おーばーふろぉ",
     "delayedFrom": "0001-01-01T23:00:00Z",
     "delayedUntil": "0001-01-01T23:00:00Z",
-    "episodeDate": "2026-09-26T23:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-10-03T23:00:00Z",
+    "episodeNumber": 7,
     "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
@@ -1969,8 +1969,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-09-26T23:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-10-03T23:00:00Z"
             }
           ]
         },
@@ -2853,8 +2853,8 @@
     "english": "Chainsmoker Cat",
     "native": "ヤニねこ",
     "delayedText": "Delayed",
-    "delayedFrom": "2026-09-24T16:00:00Z",
-    "delayedUntil": "2026-10-01T16:00:00Z",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-09-24T16:00:00Z",
     "episodeNumber": 10,
     "episodes": 12,
@@ -2894,7 +2894,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
+              "episode": 11,
               "airingAt": "2026-10-01T16:00:00Z"
             }
           ]
