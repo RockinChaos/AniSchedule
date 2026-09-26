@@ -3670,75 +3670,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 196012,
-    "idMal": 62048,
-    "title": {
-      "romaji": "MAO",
-      "english": "MAO",
-      "native": "MAO",
-      "userPreferred": "MAO"
-    },
-    "format": "TV",
-    "genres": [
-      "Drama",
-      "Mystery",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 25,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-R3YNjunufpYh.jpg",
-      "color": "#f1935d"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1790433960
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 196017,
-    "idMal": 62051,
-    "title": {
-      "romaji": "Grow Up Show: Himawari no Circus-dan",
-      "english": "Grow Up Show",
-      "native": "グロウアップショウ ～ひまわりのサーカス団～",
-      "userPreferred": "Grow Up Show"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Slice of Life",
-      "Sports"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196017-GynDNdbDzqzk.jpg",
-      "color": "#f1ae1a"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1790434800
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 196613,
     "idMal": 51039,
     "title": {
@@ -4896,6 +4827,85 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 203473,
+    "idMal": 63053,
+    "title": {
+      "romaji": "Kyoufu Collector",
+      "english": null,
+      "native": "恐怖コレクター",
+      "userPreferred": "Kyoufu Collector"
+    },
+    "format": "TV",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203473-pzyaqV432Qko.jpg",
+      "color": null
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791643500
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792248300
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792853100
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793457900
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794062700
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794667500
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795272300
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795877100
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796481900
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797086700
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797691500
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798296300
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6938,10 +6948,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 24,
-          "airingAt": 1790434800
-        },
         {
           "episode": 25,
           "airingAt": 1791039600
