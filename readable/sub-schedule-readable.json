@@ -28,10 +28,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1180,
-          "airingAt": 1790518560
-        },
-        {
           "episode": 1181,
           "airingAt": 1791123360
         },
@@ -574,40 +570,6 @@
         {
           "episode": 959,
           "airingAt": 1805529600
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
-    "id": 103303,
-    "idMal": 62856,
-    "title": {
-      "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika",
-      "english": "Sparks of Tomorrow",
-      "native": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-      "userPreferred": "Sparks of Tomorrow"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Romance"
-    ],
-    "duration": 25,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103303-IF43hFJPPv2Y.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx103303-IF43hFJPPv2Y.png",
-      "color": "#fec950"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/103303-K73aVOqkCPqL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1790517600
         }
       ]
     },
@@ -5325,6 +5287,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 205896,
+    "idMal": 63292,
+    "title": {
+      "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "english": null,
+      "native": "信者ゼロの女神サマと始める異世界攻略",
+      "userPreferred": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205896-ElrV8oVAsuax.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205896-ElrV8oVAsuax.jpg",
+      "color": "#5dbbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791729000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792333800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792938600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793543400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794148200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794753000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795357800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795962600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796567400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797172200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797777000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798381800
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 205909,
     "idMal": 63293,
     "title": {
@@ -5665,6 +5705,84 @@
         {
           "episode": 8,
           "airingAt": 1796569200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 206814,
+    "idMal": 63367,
+    "title": {
+      "romaji": "Dragon Ball Super: Beerus",
+      "english": null,
+      "native": "ドラゴンボール超 ビルス",
+      "userPreferred": "Dragon Ball Super: Beerus"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206814-PVVzRbf1IQpe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206814-PVVzRbf1IQpe.jpg",
+      "color": "#e48643"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791728160
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792332960
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792937760
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793542560
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794147360
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794752160
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795356960
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795961760
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796566560
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797171360
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797776160
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798380960
         }
       ]
     },
@@ -7181,10 +7299,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1790519400
-        },
-        {
           "episode": 2,
           "airingAt": 1791124200
         },
@@ -7230,7 +7344,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -8299,6 +8412,135 @@
       ]
     },
     "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 215835,
+    "idMal": 64867,
+    "title": {
+      "romaji": "Umayuru: Full Gate!",
+      "english": null,
+      "native": "うまゆるふるげ〜と!",
+      "userPreferred": "Umayuru: Full Gate!"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx215835-B0seSw93V5qM.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx215835-B0seSw93V5qM.png",
+      "color": "#43aef1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1791120600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1791725400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792330200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1792935000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793539800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794144600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1794749400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795354200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1795959000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796563800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797168600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1797773400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798378200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1798983000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1799587800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800192600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1800797400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1801402200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802007000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1802611800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1803216600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1803821400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1804426200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1805031000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1805635800
+        }
+      ]
+    },
     "zeroEpisode": false
   },
   {
