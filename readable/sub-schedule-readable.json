@@ -1734,41 +1734,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 178789,
-    "idMal": 59193,
-    "title": {
-      "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
-      "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
-      "native": "無職転生Ⅲ ～異世界行ったら本気だす～",
-      "userPreferred": "Mushoku Tensei: Jobless Reincarnation Season 3"
-    },
-    "format": "TV",
-    "genres": [
-      "Adventure",
-      "Drama",
-      "Ecchi",
-      "Fantasy"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178789-hNXjKFzUq7mk.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178789-hNXjKFzUq7mk.jpg",
-      "color": "#28bbe4"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178789-9nHWmoRLlcLu.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1790521200
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 178868,
     "idMal": 59204,
     "title": {
@@ -2350,10 +2315,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1790521200
-        },
-        {
           "episode": 2,
           "airingAt": 1791124200
         },
@@ -2399,7 +2360,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -5938,6 +5898,39 @@
         {
           "episode": 12,
           "airingAt": 1797856200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
+    "id": 207217,
+    "idMal": null,
+    "title": {
+      "romaji": "Koneko no Haitatsuin Uunyan",
+      "english": "Delivery Kitten Unyan",
+      "native": "子猫の配達員うーにゃん",
+      "userPreferred": "Delivery Kitten Unyan"
+    },
+    "format": "ONA",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b207217-eEGWQlzwf8CQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b207217-eEGWQlzwf8CQ.jpg",
+      "color": "#f1a150"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207217-NemulFw4QSc8.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790526000
         }
       ]
     },
