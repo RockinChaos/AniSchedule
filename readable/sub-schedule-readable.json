@@ -7723,6 +7723,83 @@
     "zeroEpisode": false
   },
   {
+    "id": 213658,
+    "idMal": 64505,
+    "title": {
+      "romaji": "Diamond no Ace act II: Second Season Part 2",
+      "english": "Ace of the Diamond act II -Second Season-",
+      "native": "ダイヤのA actⅡ -Second Season- 第2クール",
+      "userPreferred": "Ace of the Diamond act II -Second Season-"
+    },
+    "format": "TV",
+    "genres": [
+      "Sports"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213658-D3BPJaqawLxS.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213658-D3BPJaqawLxS.png",
+      "color": "#1a93d6"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791707400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792312200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792917000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793521800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794126600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794731400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795336200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795941000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796545800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797150600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797755400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798360200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 213686,
     "idMal": 64529,
     "title": {
