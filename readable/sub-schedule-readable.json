@@ -3756,6 +3756,84 @@
     "zeroEpisode": false
   },
   {
+    "id": 199353,
+    "idMal": 60597,
+    "title": {
+      "romaji": "Dawang Raoming 3",
+      "english": null,
+      "native": "大王饶命 第三季",
+      "userPreferred": "Dawang Raoming 3"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": null,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199353-S2jczHjCWHGL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199353-S2jczHjCWHGL.png",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1790992800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791597600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792202400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792807200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793412000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794016800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794621600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795226400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795831200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796436000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797040800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797645600
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 199409,
     "idMal": 62248,
     "title": {
