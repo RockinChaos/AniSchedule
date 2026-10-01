@@ -2406,6 +2406,64 @@
     "addedAt": "2026-07-09T03:16:16Z"
   },
   {
+    "title": "Tokyo Revengers: Santen Sensou-hen",
+    "route": "tokyo-revengers-zoku-hen",
+    "romaji": "Tokyo Revengers: Santen Sensou-hen",
+    "english": "Tokyo Revengers: War of the Three Titans Arc",
+    "native": "東京リベンジャーズ 三天戦争編",
+    "delayedFrom": "0001-01-01T10:00:00Z",
+    "delayedUntil": "0001-01-01T10:00:00Z",
+    "episodeDate": "2026-10-02T10:00:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178083,
+        "idMal": 59088,
+        "title": {
+          "romaji": "Tokyo Revengers: Santen Sensou-hen",
+          "english": null,
+          "native": "東京リベンジャーズ 三天戦争編",
+          "userPreferred": "Tokyo Revengers: Santen Sensou-hen"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Drama",
+          "Romance",
+          "Supernatural"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178083-bg7pg6TCHwtG.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178083-bg7pg6TCHwtG.jpg",
+          "color": "#c99350"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-02T10:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-02T10:00:00Z"
+  },
+  {
     "title": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
     "route": "tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru",
     "romaji": "Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru",
