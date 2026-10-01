@@ -7527,9 +7527,9 @@
     "idMal": 64131,
     "title": {
       "romaji": "Kanojo no Tomodachi",
-      "english": null,
+      "english": "My Girlfriend's Friend",
       "native": "彼女の友達",
-      "userPreferred": "Kanojo no Tomodachi"
+      "userPreferred": "My Girlfriend's Friend"
     },
     "format": "TV_SHORT",
     "genres": [
@@ -8585,51 +8585,56 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1790866560
+        },
+        {
           "episode": 2,
-          "airingAt": 1791428160
+          "airingAt": 1791471360
         },
         {
           "episode": 3,
-          "airingAt": 1792032960
+          "airingAt": 1792076160
         },
         {
           "episode": 4,
-          "airingAt": 1792637760
+          "airingAt": 1792680960
         },
         {
           "episode": 5,
-          "airingAt": 1793242560
+          "airingAt": 1793285760
         },
         {
           "episode": 6,
-          "airingAt": 1793847360
+          "airingAt": 1793890560
         },
         {
           "episode": 7,
-          "airingAt": 1794452160
+          "airingAt": 1794495360
         },
         {
           "episode": 8,
-          "airingAt": 1795056960
+          "airingAt": 1795100160
         },
         {
           "episode": 9,
-          "airingAt": 1795661760
+          "airingAt": 1795704960
         },
         {
           "episode": 10,
-          "airingAt": 1796266560
+          "airingAt": 1796309760
         },
         {
           "episode": 11,
-          "airingAt": 1796871360
+          "airingAt": 1796914560
         },
         {
           "episode": 12,
-          "airingAt": 1797476160
+          "airingAt": 1797519360
         }
       ]
     },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
