@@ -9935,5 +9935,134 @@
     },
     "unaired": true,
     "zeroEpisode": false
+  },
+  {
+    "id": 217624,
+    "idMal": null,
+    "title": {
+      "romaji": "PetitCure: Precure Fairies Season 4",
+      "english": null,
+      "native": "ぷちきゅあ～Precure Fairies～ シーズン4",
+      "userPreferred": "PetitCure: Precure Fairies Season 4"
+    },
+    "format": "ONA",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": 1,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217624-Cwkze5dZ5txL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217624-Cwkze5dZ5txL.jpg",
+      "color": "#d6e4a1"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1791451800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792056600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792661400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793266200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793871000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794475800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795080600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795685400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796290200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796895000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797499800
+        },
+        {
+          "episode": 13,
+          "airingAt": 1798104600
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798709400
+        },
+        {
+          "episode": 15,
+          "airingAt": 1799314200
+        },
+        {
+          "episode": 16,
+          "airingAt": 1799919000
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800523800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1801128600
+        },
+        {
+          "episode": 19,
+          "airingAt": 1801733400
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802338200
+        },
+        {
+          "episode": 21,
+          "airingAt": 1802943000
+        },
+        {
+          "episode": 22,
+          "airingAt": 1803547800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1804152600
+        },
+        {
+          "episode": 24,
+          "airingAt": 1804757400
+        },
+        {
+          "episode": 25,
+          "airingAt": 1805362200
+        },
+        {
+          "episode": 26,
+          "airingAt": 1805967000
+        }
+      ]
+    },
+    "zeroEpisode": false
   }
 ]
