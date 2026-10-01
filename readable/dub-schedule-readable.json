@@ -851,6 +851,64 @@
     "addedAt": "2026-07-19T14:00:00Z"
   },
   {
+    "title": "Koori no Jouheki 2nd Season",
+    "route": "koori-no-jouheki-2nd-season",
+    "romaji": "Koori no Jouheki 2nd Season",
+    "english": "The Ramparts of Ice 2nd Season",
+    "native": "氷の城壁 第2期",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-10-01T15:30:00Z",
+    "episodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 213805,
+        "idMal": 64534,
+        "title": {
+          "romaji": "Koori no Jouheki 2nd Season",
+          "english": "The Ramparts of Ice Season 2",
+          "native": "氷の城壁 第2期",
+          "userPreferred": "The Ramparts of Ice Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Drama",
+          "Romance",
+          "Slice of Life"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213805-Nokui3uWlIlw.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213805-Nokui3uWlIlw.png",
+          "color": "#e4a143"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-01T15:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-01T15:30:00Z"
+  },
+  {
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
