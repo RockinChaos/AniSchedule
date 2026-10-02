@@ -1345,8 +1345,12 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 135,
+          "airingAt": 1791540000
+        },
+        {
           "episode": 136,
-          "airingAt": 1792144800
+          "airingAt": 1792749600
         },
         {
           "episode": 137,
@@ -1467,10 +1471,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1790953200
-        },
         {
           "episode": 3,
           "airingAt": 1791558000
@@ -5116,6 +5116,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 203275,
+    "idMal": 63045,
+    "title": {
+      "romaji": "Demons' Crest",
+      "english": "Devils' Crest",
+      "native": "デモンズ・クレスト",
+      "userPreferred": "Devils' Crest"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203275-YyNHygkzIjMC.jpg",
+      "color": "#0da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793930400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1794535200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1795140000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1795744800
+        },
+        {
+          "episode": 5,
+          "airingAt": 1796349600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1796954400
+        },
+        {
+          "episode": 7,
+          "airingAt": 1797559200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1798164000
+        },
+        {
+          "episode": 9,
+          "airingAt": 1798768800
+        },
+        {
+          "episode": 10,
+          "airingAt": 1799373600
+        },
+        {
+          "episode": 11,
+          "airingAt": 1799978400
+        },
+        {
+          "episode": 12,
+          "airingAt": 1800583200
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 203473,
     "idMal": 63053,
     "title": {
@@ -5220,10 +5299,6 @@
     "bannerImage": null,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1790953200
-        },
         {
           "episode": 14,
           "airingAt": 1791558000
@@ -7058,6 +7133,81 @@
     "zeroEpisode": false
   },
   {
+    "id": 209709,
+    "idMal": 63901,
+    "title": {
+      "romaji": "Sirotan",
+      "english": null,
+      "native": "しろたん",
+      "userPreferred": "Sirotan"
+    },
+    "format": "TV",
+    "genres": [],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209709-Wz8BKL1fm5MC.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209709-Wz8BKL1fm5MC.png",
+      "color": "#5dbbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791012540
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791617340
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792222140
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792826940
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793431740
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794036540
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794641340
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795246140
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795850940
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796455740
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797060540
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797665340
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 209872,
     "idMal": 63801,
     "title": {
@@ -7721,6 +7871,117 @@
         }
       ]
     },
+    "zeroEpisode": false
+  },
+  {
+    "id": 212799,
+    "idMal": 64326,
+    "title": {
+      "romaji": "Marronnier Oukoku no Shichinin no Kishi",
+      "english": "The Seven Knights of the Marronnier Kingdom",
+      "native": "マロニエ王国の七人の騎士",
+      "userPreferred": "The Seven Knights of the Marronnier Kingdom"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212799-n7WDdic7IL1z.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212799-n7WDdic7IL1z.png",
+      "color": "#e46b5d"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791019500
+        },
+        {
+          "episode": 2,
+          "airingAt": 1791624300
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792229100
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792833900
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793438700
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794043500
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794648300
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795253100
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795857900
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796462700
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797067500
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797672300
+        },
+        {
+          "episode": 13,
+          "airingAt": 1798277100
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798881900
+        },
+        {
+          "episode": 15,
+          "airingAt": 1799486700
+        },
+        {
+          "episode": 16,
+          "airingAt": 1800091500
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800696300
+        },
+        {
+          "episode": 18,
+          "airingAt": 1801301100
+        },
+        {
+          "episode": 19,
+          "airingAt": 1801905900
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802510700
+        }
+      ]
+    },
+    "unaired": true,
     "zeroEpisode": false
   },
   {
