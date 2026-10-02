@@ -7520,6 +7520,79 @@
     "zeroEpisode": false
   },
   {
+    "id": 212144,
+    "idMal": 64180,
+    "title": {
+      "romaji": "Kizu darake Seijo yori Houfuku wo Komete Season2",
+      "english": "With Vengeance, Sincerely, Your Broken Saintess Season 2",
+      "native": "傷だらけ聖女より報復をこめて Season2",
+      "userPreferred": "With Vengeance, Sincerely, Your Broken Saintess Season 2"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "duration": 13,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b212144-9qJMcEdy4Xbo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b212144-9qJMcEdy4Xbo.jpg",
+      "color": "#aeaee4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1791471600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792076400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792681200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793286000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793890800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794495600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795100400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795705200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796310000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796914800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797519600
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
     "id": 212308,
     "idMal": 64210,
     "title": {
