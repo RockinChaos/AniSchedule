@@ -2184,39 +2184,6 @@
     "zeroEpisode": false
   },
   {
-    "id": 182616,
-    "idMal": 60059,
-    "title": {
-      "romaji": "Nige Jouzu no Wakagimi 2nd Season",
-      "english": "The Elusive Samurai Season 2",
-      "native": "逃げ上手の若君 第二期",
-      "userPreferred": "The Elusive Samurai Season 2"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx182616-DymJCBpkR4qs.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182616-DymJCBpkR4qs.jpg",
-      "color": "#e45050"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182616-kmIqMEUsLYrO.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1790951400
-        }
-      ]
-    },
-    "zeroEpisode": false
-  },
-  {
     "id": 183231,
     "idMal": 60153,
     "title": {
@@ -5613,10 +5580,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1790951400
-        },
-        {
           "episode": 2,
           "airingAt": 1791556200
         },
@@ -5710,7 +5673,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
