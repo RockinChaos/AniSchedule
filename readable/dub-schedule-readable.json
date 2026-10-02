@@ -2468,9 +2468,9 @@
     "romaji": "Tokyo Revengers: Santen Sensou-hen",
     "english": "Tokyo Revengers: War of the Three Titans Arc",
     "native": "東京リベンジャーズ 三天戦争編",
-    "delayedFrom": "0001-01-01T10:00:00Z",
-    "delayedUntil": "0001-01-01T10:00:00Z",
-    "episodeDate": "2026-10-02T10:00:00Z",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-10-02T07:00:00Z",
     "episodeNumber": 1,
     "mediaTypes": [
       {
@@ -2478,7 +2478,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 178083,
@@ -2508,8 +2508,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-02T10:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-09T07:00:00Z"
             }
           ]
         },
