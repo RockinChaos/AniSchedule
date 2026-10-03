@@ -15,7 +15,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 199007,
@@ -46,8 +46,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-03T15:30:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-10T15:30:00Z"
             }
           ]
         },
@@ -161,8 +161,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-10-03T14:30:00Z"
+              "episode": 7,
+              "airingAt": "2026-10-10T14:30:00Z"
             }
           ]
         },
@@ -1315,13 +1315,14 @@
     "episodeDate": "2026-10-03T15:00:00Z",
     "episodeNumber": 1,
     "episodes": 20,
+    "lengthMin": 25,
     "mediaTypes": [
       {
         "name": "TV",
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 212799,
@@ -1350,8 +1351,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-03T15:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-10T15:00:00Z"
             }
           ]
         },
