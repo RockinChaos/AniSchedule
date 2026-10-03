@@ -1263,7 +1263,6 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "2026-10-03T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -2193,10 +2192,11 @@
     "route": "ranma-2024-3rd-season",
     "romaji": "Ranma ½ (2024) 3rd Season",
     "native": "らんま1/2 第3期",
-    "delayedFrom": "0001-01-01T16:25:00Z",
-    "delayedUntil": "0001-01-01T16:25:00Z",
-    "episodeDate": "2026-10-03T16:25:00Z",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-10-03T17:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -2233,7 +2233,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-10-10T16:25:00Z"
+              "airingAt": "2026-10-10T17:00:00Z"
             }
           ]
         },
