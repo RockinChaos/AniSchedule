@@ -5,10 +5,11 @@
     "romaji": "#Zombie Sagashitemasu",
     "english": "#‌‌​I'm Looking For a Zombie",
     "native": "#ゾンビさがしてます",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-10-03T15:30:00Z",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-03T15:00:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
@@ -47,7 +48,7 @@
           "nodes": [
             {
               "episode": 2,
-              "airingAt": "2026-10-10T15:30:00Z"
+              "airingAt": "2026-10-10T15:00:00Z"
             }
           ]
         },
@@ -2133,7 +2134,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 209872,
@@ -2158,12 +2159,12 @@
           "color": "#e4bb5d"
         },
         "isAdult": false,
-        "bannerImage": null,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209872-Qczb4k9Mw0pq.jpg",
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-03T16:25:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-10T16:25:00Z"
             }
           ]
         },
