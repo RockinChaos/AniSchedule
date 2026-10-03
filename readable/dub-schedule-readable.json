@@ -1246,6 +1246,75 @@
     "addedAt": "2026-04-20T16:00:00Z"
   },
   {
+    "title": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+    "route": "magical-explorer",
+    "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+    "english": "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
+    "native": "マジカル★エクスプロ",
+    "delayedFrom": "0001-01-01T16:30:00Z",
+    "delayedUntil": "0001-01-01T16:30:00Z",
+    "episodeDate": "2026-10-03T16:30:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "2026-10-03T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 169581,
+        "idMal": 56733,
+        "title": {
+          "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
+          "english": "Magical Explorer",
+          "native": "マジカル★エクスプローラー　エロゲの友人キャラに転生したけど、ゲーム知識使って自由に生きる",
+          "userPreferred": "Magical Explorer"
+        },
+        "format": "ONA",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Ecchi",
+          "Fantasy",
+          "Romance"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169581-UlAviVH36Hxi.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx169581-UlAviVH36Hxi.png",
+          "color": "#f1a150"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-03T16:30:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-10-03T16:30:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-10-10T16:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-03T17:15:19Z"
+  },
+  {
     "title": "Marika-chan no Koukando wa Bukkowareteiru",
     "route": "marika-chan-no-koukando-wa-bukkowareteiru",
     "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
