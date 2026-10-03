@@ -672,10 +672,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 173,
-          "airingAt": 1790992800
-        },
-        {
           "episode": 174,
           "airingAt": 1791597600
         },
@@ -4294,10 +4290,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1790992800
-        },
-        {
           "episode": 2,
           "airingAt": 1791597600
         },
@@ -4343,7 +4335,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -9614,9 +9605,9 @@
     "idMal": 63157,
     "title": {
       "romaji": "Keroro Gunsou☆",
-      "english": null,
+      "english": "KERORO☆",
       "native": "ケロロ軍曹☆",
-      "userPreferred": "Keroro Gunsou☆"
+      "userPreferred": "KERORO☆"
     },
     "format": "TV",
     "genres": [
