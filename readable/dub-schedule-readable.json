@@ -3007,8 +3007,8 @@
     "english": "Chainsmoker Cat",
     "native": "ヤニねこ",
     "delayedText": "Delayed",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedFrom": "2026-10-01T16:00:00Z",
+    "delayedUntil": "2026-10-08T16:00:00Z",
     "episodeDate": "2026-10-01T16:00:00Z",
     "episodeNumber": 11,
     "episodes": 12,
@@ -3048,7 +3048,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
+              "episode": 11,
               "airingAt": "2026-10-08T16:00:00Z"
             }
           ]
