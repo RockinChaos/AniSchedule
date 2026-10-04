@@ -60,6 +60,64 @@
     "addedAt": "2026-10-03T15:30:00Z"
   },
   {
+    "title": "Ao no Hako 2nd Season",
+    "route": "ao-no-hako-2nd-season",
+    "romaji": "Ao no Hako 2nd Season",
+    "english": "Blue Box 2nd Season",
+    "native": "アオのハコ 第2期",
+    "delayedFrom": "0001-01-01T08:00:00Z",
+    "delayedUntil": "0001-01-01T08:00:00Z",
+    "episodeDate": "2026-10-04T08:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 189123,
+        "idMal": 61323,
+        "title": {
+          "romaji": "Ao no Hako Season 2",
+          "english": "Blue Box Season 2",
+          "native": "アオのハコ Season２",
+          "userPreferred": "Blue Box Season 2"
+        },
+        "format": "TV",
+        "genres": [
+          "Romance",
+          "Slice of Life",
+          "Sports"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189123-0secXELIhkIW.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189123-0secXELIhkIW.jpg",
+          "color": "#e4ae50"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189123-s2oirY2r1Svy.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-10-11T08:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-04T08:15:20Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedText": "Break",
