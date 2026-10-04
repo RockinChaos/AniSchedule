@@ -10547,5 +10547,77 @@
       ]
     },
     "zeroEpisode": false
+  },
+  {
+    "id": 217787,
+    "idMal": 64211,
+    "title": {
+      "romaji": "Pop Pap Polters",
+      "english": null,
+      "native": "ポップパップポルターズ",
+      "userPreferred": "Pop Pap Polters"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "duration": 3,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b217787-NHLlgGiqy59P.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b217787-NHLlgGiqy59P.jpg",
+      "color": "#d6781a"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1791680400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792285200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792890000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793494800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794099600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794704400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795309200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795914000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796518800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797123600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797728400
+        }
+      ]
+    },
+    "zeroEpisode": false
   }
 ]
