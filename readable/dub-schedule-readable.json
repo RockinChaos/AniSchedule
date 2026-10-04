@@ -2541,6 +2541,61 @@
     "addedAt": "2026-08-19T17:00:00Z"
   },
   {
+    "title": "Tank Chair",
+    "route": "tank-chair",
+    "native": "TANK CHAIR-戦車椅子-",
+    "delayedFrom": "0001-01-01T14:30:00Z",
+    "delayedUntil": "0001-01-01T14:30:00Z",
+    "episodeDate": "2026-10-04T14:30:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 209499,
+        "idMal": 63751,
+        "title": {
+          "romaji": "TANK CHAIR: Sensha Isu",
+          "english": "TANK CHAIR",
+          "native": "TANK CHAIR-戦車椅子-",
+          "userPreferred": "TANK CHAIR"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Sci-Fi"
+        ],
+        "duration": null,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209499-S0sWFrCpft85.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209499-S0sWFrCpft85.jpg",
+          "color": "#e4c95d"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-10-11T14:30:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-04T18:45:21Z"
+  },
+  {
     "title": "Tensei shitara Ken deshita 2",
     "route": "tensei-shitara-ken-deshita-2",
     "romaji": "Tensei Shitara Ken Deshita 2",
