@@ -2735,7 +2735,7 @@
       "color": "#50bbe4"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187402-bRt4OO90jcmt.jpg",
     "airingSchedule": {
       "nodes": [
         {
@@ -6607,7 +6607,7 @@
       "Fantasy",
       "Romance"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx208025-JKvqWNr8rz8l.jpg",
@@ -7511,7 +7511,7 @@
       "Ecchi",
       "Romance"
     ],
-    "duration": null,
+    "duration": 12,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211877-yWQ2r7XmWvG6.jpg",
@@ -10502,6 +10502,80 @@
         {
           "episode": 26,
           "airingAt": 1805967000
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 217782,
+    "idMal": null,
+    "title": {
+      "romaji": "Kanojo no Tomodachi Mini Anime",
+      "english": "My Girlfriend's Friend Mini Anime",
+      "native": "彼女の友達 ミニアニメ",
+      "userPreferred": "My Girlfriend's Friend Mini Anime"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Drama",
+      "Ecchi",
+      "Romance"
+    ],
+    "duration": 12,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217782-DV0vODQ68ZRk.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217782-DV0vODQ68ZRk.png",
+      "color": "#ff9335"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1791735420
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792340220
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792945020
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793549820
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794154620
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794759420
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795364220
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795969020
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796573820
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797178620
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797783420
         }
       ]
     },
