@@ -6144,10 +6144,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791129600
-        },
-        {
           "episode": 2,
           "airingAt": 1791734400
         },
@@ -6177,7 +6173,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6624,10 +6619,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791130800
-        },
-        {
           "episode": 2,
           "airingAt": 1791735600
         },
@@ -6673,7 +6664,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -6874,9 +6864,9 @@
     "idMal": 63751,
     "title": {
       "romaji": "TANK CHAIR: Sensha Isu",
-      "english": null,
+      "english": "TANK CHAIR",
       "native": "TANK CHAIR-戦車椅子-",
-      "userPreferred": "TANK CHAIR: Sensha Isu"
+      "userPreferred": "TANK CHAIR"
     },
     "format": "TV",
     "genres": [
@@ -7533,10 +7523,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791129900
-        },
-        {
           "episode": 2,
           "airingAt": 1791734700
         },
@@ -7582,7 +7568,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
@@ -7863,10 +7848,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791129900
-        },
-        {
           "episode": 2,
           "airingAt": 1791734700
         },
@@ -7896,7 +7877,6 @@
         }
       ]
     },
-    "unaired": true,
     "zeroEpisode": false
   },
   {
