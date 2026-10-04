@@ -1,5 +1,26 @@
 [
   {
+    "id": 206523,
+    "idMal": 63352,
+    "format": "TV",
+    "duration": 25,
+    "episode": {
+      "aired": 27,
+      "airedAt": "2026-10-04T00:30:00Z",
+      "addedAt": "2026-10-04T00:30:17Z"
+    }
+  },
+  {
+    "id": 216860,
+    "format": "TV_SHORT",
+    "duration": 5,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-10-04T00:16:00Z",
+      "addedAt": "2026-10-04T00:30:17Z"
+    }
+  },
+  {
     "id": 202957,
     "idMal": 63042,
     "format": "TV",
