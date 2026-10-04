@@ -76,7 +76,6 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "0001-01-01T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -2471,8 +2470,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 12,
-              "airingAt": "2026-10-04T08:30:00Z"
+              "episode": 13,
+              "airingAt": "2026-10-11T08:30:00Z"
             }
           ]
         },
