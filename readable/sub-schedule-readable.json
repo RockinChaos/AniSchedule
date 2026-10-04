@@ -218,10 +218,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2852,
-          "airingAt": 1791106200
-        },
-        {
           "episode": 2853,
           "airingAt": 1791711000
         },
@@ -316,6 +312,10 @@
         {
           "episode": 2876,
           "airingAt": 1805621400
+        },
+        {
+          "episode": 2877,
+          "airingAt": 1806226200
         }
       ]
     },
@@ -8142,6 +8142,132 @@
         {
           "episode": 42,
           "airingAt": 1805767200
+        }
+      ]
+    },
+    "zeroEpisode": false
+  },
+  {
+    "id": 213298,
+    "idMal": 64430,
+    "title": {
+      "romaji": "Yuruyuru Zukan",
+      "english": null,
+      "native": "ゆるゆる図鑑",
+      "userPreferred": "Yuruyuru Zukan"
+    },
+    "format": "TV_SHORT",
+    "genres": [],
+    "duration": 2,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213298-ymB1Sw0yDZ0Y.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213298-ymB1Sw0yDZ0Y.jpg",
+      "color": "#febb50"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1791669600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792274400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1792879200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1793484000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794088800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794693600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795298400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795903200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796508000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797112800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797717600
+        },
+        {
+          "episode": 13,
+          "airingAt": 1798322400
+        },
+        {
+          "episode": 14,
+          "airingAt": 1798927200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1799532000
+        },
+        {
+          "episode": 16,
+          "airingAt": 1800136800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1800741600
+        },
+        {
+          "episode": 18,
+          "airingAt": 1801346400
+        },
+        {
+          "episode": 19,
+          "airingAt": 1801951200
+        },
+        {
+          "episode": 20,
+          "airingAt": 1802556000
+        },
+        {
+          "episode": 21,
+          "airingAt": 1803160800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1803765600
+        },
+        {
+          "episode": 23,
+          "airingAt": 1804370400
+        },
+        {
+          "episode": 24,
+          "airingAt": 1804975200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1805580000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1806184800
         }
       ]
     },
