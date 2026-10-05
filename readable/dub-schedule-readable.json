@@ -1020,6 +1020,66 @@
     "addedAt": "2026-10-03T17:15:19Z"
   },
   {
+    "title": "Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen",
+    "route": "mahouka-koukou-no-rettousei-movie-yotsuba-keishou-hen",
+    "romaji": "Mahouka Koukou no Rettousei Movie: Yotsuba Keishou-hen",
+    "english": "The Irregular at Magic High School The Movie: Yotsuba Succession Arc",
+    "native": "魔法科高校の劣等生 四葉継承編",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-11-01T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 103,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 178707,
+        "idMal": 59174,
+        "title": {
+          "romaji": "Mahouka Koukou no Rettousei: Yotsuba Keishou-hen",
+          "english": "The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc-",
+          "native": "劇場版 魔法科高校の劣等生 四葉継承編",
+          "userPreferred": "The Irregular at Magic High School THE MOVIE -Yotsuba Succession Arc-"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Romance",
+          "Sci-Fi",
+          "Supernatural"
+        ],
+        "duration": 103,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178707-Ys8zvR7BLECi.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx178707-Ys8zvR7BLECi.jpg",
+          "color": "#5086e4"
+        },
+        "isAdult": false,
+        "bannerImage": null,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-11-01T04:00:00Z"
+            }
+          ]
+        },
+        "zeroEpisode": false
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-11-01T04:00:00Z"
+  },
+  {
     "title": "Marika-chan no Koukando wa Bukkowareteiru",
     "route": "marika-chan-no-koukando-wa-bukkowareteiru",
     "romaji": "Marika-chan no Koukando wa Bukkowareteiru",
