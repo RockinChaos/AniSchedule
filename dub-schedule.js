@@ -461,6 +461,7 @@ export async function updateDubFeed(optSchedule) {
     schedule.filter(entry => {
         return (new Date(entry.delayedUntil) >= new Date(entry.episodeDate)) && (new Date(entry.delayedFrom) <= new Date(entry.episodeDate)) && (new Date(entry.delayedUntil) > new Date())
     }).forEach(entry => {
+        if (entry?.media?.media?.id === 140842) return // skip for now, need to implement multi-day releases.
         existingFeed = existingFeed.filter(episode => {
             const foundEpisode = (episode.id === entry.media?.media?.id && ((entry.subtractedEpisodeNumber && (episode.episode.aired >= entry.subtractedEpisodeNumber) && episode.episode.aired <= entry.episodeNumber) || (episode.episode.aired === entry.episodeNumber)))
             if (foundEpisode) {
@@ -474,6 +475,7 @@ export async function updateDubFeed(optSchedule) {
 
     // Filter out any incorrect episodes that were added but haven't actually released.
     schedule.forEach(entry => {
+        if (entry?.media?.media?.id === 140842) return // skip for now, need to implement multi-day releases.
         existingFeed = existingFeed.filter(episode => {
             const foundEpisode = (episode.id === entry.media?.media?.id) && ((episode.episode.aired > entry.episodeNumber) && ((episode.episode.aired > entry.media.media?.airingSchedule?.nodes[entry.media.media?.airingSchedule?.nodes?.length - 1]?.episode) || (new Date(entry.media.media?.airingSchedule?.nodes[entry.media.media?.airingSchedule?.nodes?.length - 1]?.airingAt) > new Date())))
             if (foundEpisode) {
@@ -487,6 +489,7 @@ export async function updateDubFeed(optSchedule) {
 
     // Filter out any incorrect episodes (last released) based on corrected air dates in the schedule and update all related episodes airing date.
     schedule.forEach(entry => {
+        if (entry?.media?.media?.id === 140842) return // skip for now, need to implement multi-day releases.
         existingFeed = existingFeed.filter(episode => {
             const foundEpisode = (episode.id === entry.media?.media?.id) &&
               (episode.id !== 182205 || episode.episode.aired !== 11)  // TODO: Remove this later
@@ -503,6 +506,7 @@ export async function updateDubFeed(optSchedule) {
 
     // Fix episodes incorrectly dated to the current episodes air date due to a short delay, bumping them back a week if the prior week slot is unoccupied.
     schedule.forEach(entry => {
+        if (entry?.media?.media?.id === 140842) return // skip for now, need to implement multi-day releases.
         if (entry.subtractedEpisodeNumber) return
         existingFeed = existingFeed.map(episode => {
             const foundEpisode = (episode.id === entry.media?.media?.id) && (episode.episode.aired === entry.episodeNumber - 1) && (episode.episode.airedAt === entry.episodeDate) && !existingFeed.some(ep => ep.id === entry.media?.media?.id && ep.episode.aired === entry.episodeNumber - 2 && ep.episode.airedAt === past(new Date(entry.episodeDate), -1, true))
@@ -520,6 +524,7 @@ export async function updateDubFeed(optSchedule) {
     const { dstStart, dstEnd } = getDSTStartEndDates()
     // Filter out incorrect episodes and correct dates if necessary
     schedule.forEach(entry => {
+        if (entry?.media?.media?.id === 140842) return // skip for now, need to implement multi-day releases.
         const latestEpisodeInFeed = existingFeed.filter(episode => episode.id === entry.media?.media?.id).sort((a, b) => b.episode.aired - a.episode.aired)[0]
         if (latestEpisodeInFeed && !dayTimeMatch(new Date(latestEpisodeInFeed.episode.airedAt), new Date(entry.episodeDate)) && !(existingFeed.filter(episode => episode.id === entry.media?.media?.id && isSameUTCDay(episode.episode.airedAt, latestEpisodeInFeed.episode.airedAt)).length > 1 && weeksDifference(latestEpisodeInFeed.episode.airedAt, entry.episodeDate) >= 1) && (!entry.subtractedEpisodeNumber || (entry.subtractedEpisodeNumber > 1 && !((entry.episodeNumber - entry.subtractedEpisodeNumber) >= 6)))) {
             let mediaEpisodes = existingFeed.filter(episode => episode.id === entry.media.media.id)
@@ -580,6 +585,8 @@ export async function updateDubFeed(optSchedule) {
 
     const newEpisodes = (await Promise.all(schedule.map(async (entry) => {
         let newEpisodes = []
+
+        if (entry?.media?.media?.id === 140842) return newEpisodes // skip for now, need to implement multi-day releases.
 
         // handle double-header (multi-header) releases
         const latestEpisode = entry.episodeNumber
