@@ -8766,6 +8766,85 @@
     "zeroEpisode": false
   },
   {
+    "id": 213657,
+    "idMal": 64503,
+    "title": {
+      "romaji": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "english": "Mission: Yozakura Family Season 2 Part 2",
+      "native": "夜桜さんちの大作戦 第2期 第2クール",
+      "userPreferred": "Mission: Yozakura Family Season 2 Part 2"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "duration": null,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213657-ORNXVEBCjXaz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213657-ORNXVEBCjXaz.jpg",
+      "color": "#5dbbe4"
+    },
+    "isAdult": false,
+    "bannerImage": null,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1791705600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1792310400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792915200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793520000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794124800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794729600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795334400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795939200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796544000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797148800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797753600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798358400
+        }
+      ]
+    },
+    "unaired": true,
+    "zeroEpisode": false
+  },
+  {
     "id": 213658,
     "idMal": 64505,
     "title": {
