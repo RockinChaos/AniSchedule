@@ -2744,16 +2744,17 @@
   },
   {
     "id": 187990,
-    "idMal": null,
+    "idMal": 63818,
     "title": {
       "romaji": "Battle Spirits [Re] Zekkai No Ku",
-      "english": null,
+      "english": "Battle Spirits [Re] Zekkai No Ku",
       "native": "Battle Spirits [Re] 絶界の空",
       "userPreferred": "Battle Spirits [Re] Zekkai No Ku"
     },
     "format": "TV",
     "genres": [
-      "Action"
+      "Action",
+      "Fantasy"
     ],
     "duration": null,
     "seasonYear": 2026,
@@ -2763,7 +2764,7 @@
       "color": "#f17835"
     },
     "isAdult": false,
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187990-iDUZ4BGtmEct.jpg",
     "airingSchedule": {
       "nodes": [
         {
