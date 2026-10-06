@@ -243,6 +243,7 @@
         "route": "tv-short"
       }
     ],
+    "airsMultipleDaysPerWeek": true,
     "unaired": false,
     "media": {
       "media": {
@@ -273,59 +274,6 @@
             {
               "episode": 3,
               "airingAt": "2026-10-08T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-10-01T16:30:22Z"
-  },
-  {
-    "title": "Chiikawa",
-    "route": "chiikawa",
-    "native": "ちいかわ",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-11T16:00:00Z",
-    "episodeNumber": 4,
-    "lengthMin": 2,
-    "mediaTypes": [
-      {
-        "name": "TV Short",
-        "route": "tv-short"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 140842,
-        "idMal": 50250,
-        "title": {
-          "romaji": "Chiikawa",
-          "english": "Chiikawa",
-          "native": "ちいかわ",
-          "userPreferred": "Chiikawa"
-        },
-        "format": "TV_SHORT",
-        "genres": [
-          "Comedy",
-          "Slice of Life"
-        ],
-        "duration": 2,
-        "seasonYear": 2022,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140842-T0geOCa3zS0A.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx140842-T0geOCa3zS0A.jpg",
-          "color": "#e4d6ae"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/140842-kXw5xtsCy8QT.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 4,
-              "airingAt": "2026-10-11T16:00:00Z"
             }
           ]
         }
