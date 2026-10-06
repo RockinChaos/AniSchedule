@@ -24,7 +24,7 @@ export function lastAired(nodes) {
  * @returns {Promise<[unknown]|[{title: (string|string|*), thumbnail, length, summary, airingAt: *}]|null>}
  */
 export async function hasZeroEpisode(media, existingMappings) { // really wish they could make fetching zero episodes less painful.
-    if (!media) return null
+    if (!media || media?.id === 21) return null
     const mappings = existingMappings || (await getAniMappings(media.id)) || {}
     const hasZeroEpisode = media.streamingEpisodes?.filter((ep) => { const match = (/Episode (\d+(\.\d+)?) - /).exec(ep.title); return match ? Number.isInteger(parseFloat(match[1])) && Number(parseFloat(match[1])) === 0 : false})
     const zeroAsFirstEpisode = /episode\s*0/i.test(mappings?.episodes?.[1]?.title?.en || mappings?.episodes?.[1]?.title?.jp) // The first episode is titled as Episode 0 so this is likely a Prologue, fixes issues with series like `Fate/stay night: Unlimited Blade Works`
