@@ -70,11 +70,14 @@ export async function fetchSubSchedule() {
     media.forEach((a) => { if (new Date(a.airingSchedule.nodes[0].airingAt).getTime() > (new Date().getTime() / 1000) && !(a.airingSchedule.nodes[0].episode > 1)) a.unaired = true })
     if (media?.length > 0) {
         let existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
-        media = await correctZeroEpisodes('Sub', media, existingSubbedSchedule, existingSubbedFeed, changes)
+        // skip zero episode checks, this causes issues. TODO: Improve accuracy.
+        //media = await correctZeroEpisodes('Sub', media, existingSubbedSchedule, existingSubbedFeed, changes)
         console.log(`Successfully resolved ${media.length} airing, saving...`)
         await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
         await writeFile('./readable/sub-schedule-readable.json', JSON.stringify(media, null, 2))
-        changes.push(...await updateSubFeed(false, await correctZeroEpisodes('Sub', (await anilistClient.searchAllIDS({ id: media.map((entry) => entry.id), aired: true }))?.data?.Page?.media, media, existingSubbedFeed, changes))) // find any missing for the currently scheduled media.
+        // skip zero episode checks, this causes issues. TODO: Improve accuracy.
+        // changes.push(...await updateSubFeed(false, await correctZeroEpisodes('Sub', (await anilistClient.searchAllIDS({ id: media.map((entry) => entry.id), aired: true }))?.data?.Page?.media, media, existingSubbedFeed, changes)))
+        changes.push(...await updateSubFeed(false, (await anilistClient.searchAllIDS({ id: media.map((entry) => entry.id), aired: true }))?.data?.Page?.media)) // find any missing for the currently scheduled media.
         changes.push(...await findMissingEpisodes())
         existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
         const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))

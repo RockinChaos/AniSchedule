@@ -406,7 +406,8 @@ export async function fetchDubSchedule() {
             console.error(`Something is wrong! There are ${combinedResults.length} dub titles resolved and there are ${airingLists.length} dub titles in the timetables, less than what is expected!`)
         }
         const existingDubbedFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
-        combinedResults = await correctZeroEpisodes('Dub', combinedResults, exactSchedule, existingDubbedFeed, changes)
+        // skip zero episode checks, this causes issues. TODO: Improve accuracy.
+        //combinedResults = await correctZeroEpisodes('Dub', combinedResults, exactSchedule, existingDubbedFeed, changes)
         console.log(`Successfully resolved ${combinedResults.length} airing, saving...`)
         await writeFile('./raw/dub-schedule.json', JSON.stringify(combinedResults))
         await writeFile('./readable/dub-schedule-readable.json', JSON.stringify(combinedResults, null, 2))
