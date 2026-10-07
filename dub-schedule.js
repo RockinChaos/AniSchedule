@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, isSameUTCDay, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, correctZeroEpisodes, checkThreshold } from './utils/util.js'
+import { calculateWeeksToFetch, dayTimeMatch, isDSTTransitionMonth, getDSTStartEndDates, crossesDSTBoundary, delay, daysAgo, isSameUTCDay, getCurrentDay, fixTime, getCurrentYearAndWeek, getWeeksInYear, loadJSON, past, saveJSON, weeksDifference, durationMap, mediaTypeMap, omitNullish, correctZeroEpisodes, checkThreshold } from './utils/util.js'
 import path from 'path'
 
 // Only collapse repeated routes within the same fetched week.
@@ -329,7 +329,7 @@ export async function fetchDubSchedule() {
         malIds.length ? anilistClient.searchAllIDS({ idMal: malIds, perPage: malIds.length }) : null
     ])
 
-    const resolvedMedia = [ ...(aniListResults?.data?.Page?.media || []), ...(malResults?.data?.Page?.media || []) ]
+    const resolvedMedia = omitNullish([ ...(aniListResults?.data?.Page?.media || []), ...(malResults?.data?.Page?.media || []) ])
     for (const { route, id, isAniList } of idLookup) {
         const media = resolvedMedia.find(media => isAniList ? String(media.id) === String(id) : String(media.idMal) === String(id))
         if (media) {

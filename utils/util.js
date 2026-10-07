@@ -291,6 +291,20 @@ export function checkThreshold(lists, currentSchedule) {
 }
 
 /**
+ * Remove absent values throughout JSON data while retaining false, zero and empty strings.
+ * @param {any} value The value to be checked and cleaned.
+ * @returns {any} The cleaned value with nullish values removed.
+ */
+export function omitNullish(value) {
+    const present = item => item !== null && item !== undefined && (typeof item !== 'number' || Number.isFinite(item))
+    if (Array.isArray(value)) return value.filter(present).map(omitNullish)
+    if (value && typeof value === 'object') {
+        return Object.fromEntries(Object.entries(value).filter(([, item]) => present(item)).map(([key, item]) => [key, omitNullish(item)]))
+    }
+    return value
+}
+
+/**
  * Corrects zero episode series by adjusting episode numbers and updating feeds
  * @param {string} type - Dub or Sub.
  * @param {Array} mediaList - List of media to check and correct

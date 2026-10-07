@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { past, loadJSON, saveJSON, durationMap, correctZeroEpisodes } from './utils/util.js'
+import { past, loadJSON, saveJSON, omitNullish, durationMap, correctZeroEpisodes } from './utils/util.js'
 import path from 'path'
 
 let updatedSubbedEpisodes = false
@@ -71,7 +71,8 @@ export async function fetchSubSchedule() {
     if (media?.length > 0) {
         let existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
         // skip zero episode checks, this causes issues. TODO: Improve accuracy.
-        //media = await correctZeroEpisodes('Sub', media, existingSubbedSchedule, existingSubbedFeed, changes)
+        //media = omitNullish(await correctZeroEpisodes('Sub', media, existingSubbedSchedule, existingSubbedFeed, changes))
+        media = omitNullish(media)
         console.log(`Successfully resolved ${media.length} airing, saving...`)
         await writeFile('./raw/sub-schedule.json', JSON.stringify(media))
         await writeFile('./readable/sub-schedule-readable.json', JSON.stringify(media, null, 2))
