@@ -374,8 +374,9 @@
     "romaji": "Dogul Wang",
     "english": "Tomb Raider King",
     "native": "도굴왕",
-    "delayedFrom": "0001-01-01T17:20:00Z",
-    "delayedUntil": "0001-01-01T17:20:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-10-07T17:20:00Z",
+    "delayedUntil": "2026-10-14T17:20:00Z",
     "episodeDate": "2026-10-07T17:20:00Z",
     "episodeNumber": 12,
     "episodes": 12,
@@ -414,7 +415,7 @@
           "nodes": [
             {
               "episode": 12,
-              "airingAt": "2026-10-07T17:20:00Z"
+              "airingAt": "2026-10-14T17:20:00Z"
             }
           ]
         }
@@ -830,6 +831,7 @@
     "delayedUntil": "0001-01-01T17:15:00Z",
     "episodeDate": "2026-10-07T17:15:00Z",
     "episodeNumber": 1,
+    "lengthMin": 23,
     "mediaTypes": [
       {
         "name": "TV",
