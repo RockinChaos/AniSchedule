@@ -665,8 +665,8 @@
     "lengthMin": 7,
     "mediaTypes": [
       {
-        "name": "TV",
-        "route": "tv"
+        "name": "TV Short",
+        "route": "tv-short"
       }
     ],
     "unaired": false,
@@ -1282,11 +1282,12 @@
     "delayedUntil": "0001-01-01T16:00:00Z",
     "episodeDate": "2026-10-11T16:00:00Z",
     "episodeNumber": 2,
+    "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
       {
-        "name": "ONA",
-        "route": "ona"
+        "name": "TV Short",
+        "route": "tv-short"
       }
     ],
     "unaired": false,
