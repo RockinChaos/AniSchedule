@@ -19,7 +19,8 @@
 For easy viewing of the schedules and feeds:
 
 - **[Update Manifest (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/last-updated-readable.json)**
-- **[Dub Schedule (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/dub-schedule-readable.json)**
+- **[Dub Schedule v2 (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/v2/dub-schedule-readable.json)**
+- **[Dub Schedule v1 (Readable, deprecated)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/dub-schedule-readable.json)**
 - **[Sub Schedule (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/sub-schedule-readable.json)**
 - **[Dub Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/dub-episode-feed-readable.json)**
 - **[Sub Episode Feed (Readable)](https://github.com/RockinChaos/AniSchedule/blob/master/readable/sub-episode-feed-readable.json)**
@@ -29,7 +30,8 @@ For easy viewing of the schedules and feeds:
 For programmatic use and integration:
 
 - **[Update Manifest (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/last-updated.json)**
-- **[Dub Schedule (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/dub-schedule.json)**
+- **[Dub Schedule v2 (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/v2/dub-schedule.json)**
+- **[Dub Schedule v1 (Raw, deprecated)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/dub-schedule.json)**
 - **[Sub Schedule (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/sub-schedule.json)**
 - **[Dub Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/dub-episode-feed.json)**
 - **[Sub Episode Feed (Raw)](https://github.com/RockinChaos/AniSchedule/blob/master/raw/sub-episode-feed.json)**
@@ -58,4 +60,4 @@ This project is licensed under the GPL-3.0 License. See [LICENSE](https://github
 
 ---
 
-:star: **Star this repo if you find it useful!** :star:
+⭐ **Star this repo if you find it useful!** ⭐

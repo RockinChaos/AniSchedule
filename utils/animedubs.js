@@ -1,4 +1,4 @@
-const verifiedDubs = [207254] // [183231]
+const verifiedDubs = [] // AniList ids.
 
 /**
  * MAL (MyAnimeList) Dubs (Mal-Dubs)
@@ -12,7 +12,7 @@ class MALDubs {
     }
 
     isDubMedia(entry) {
-        if (this.dubLists?.dubbed && (entry?.media?.media?.idMal || (entry?.media?.media?.id && verifiedDubs.includes(entry?.media?.media.id)))) return this.dubLists.dubbed.includes(entry?.media?.media.idMal) || this.dubLists.incomplete.includes(entry?.media?.media.idMal) || verifiedDubs.includes(entry?.media?.media.id)
+        if (this.dubLists?.dubbed && (entry?.media?.idMal || (entry?.media?.id && verifiedDubs.includes(entry?.media.id)))) return this.dubLists.dubbed.includes(entry?.media.idMal) || this.dubLists.incomplete.includes(entry?.media.idMal) || verifiedDubs.includes(entry?.media.id)
         throw new Error(`Detected the route ${entry?.route} is missing resolved media, how did we get here!? The entry: ${JSON.stringify(entry)}`) // absolutely DO NOT continue if we can't verify.
     }
 

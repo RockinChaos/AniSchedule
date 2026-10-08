@@ -16,7 +16,7 @@ if (process.argv.includes('update-sub-feed') || process.argv.includes('update-al
 }
 
 if (process.argv.includes('update-dub-feed') || process.argv.includes('update-all-feeds') || process.argv.includes('update-dubs')) {
-    const dubChanges = await updateDubFeed()
+    const dubChanges = await updateDubFeed(process.argv.includes('update-dubs'))
     changes.push(...dubChanges)
 }
 

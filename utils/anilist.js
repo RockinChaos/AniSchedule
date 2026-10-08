@@ -7,8 +7,7 @@ idMal,
 title {
   romaji,
   english,
-  native,
-  userPreferred
+  native
 },
 format,
 genres,
@@ -20,18 +19,7 @@ coverImage {
   color
 },
 isAdult,
-bannerImage,
-relations {
-  edges {
-    relationType(version:2),
-    node {
-      id,
-      type,
-      format,
-      seasonYear
-    }
-  }
-}`
+bannerImage`
 
 const queryAiringObjects = /* js */`
 airingSchedule(page: 1, perPage: 50, notYetAired: true) {
@@ -56,14 +44,14 @@ class AnilistClient {
     limiter = new Bottleneck({
         reservoir: 90,
         reservoirRefreshAmount: 90,
-        reservoirRefreshInterval: 60 * 1000,
+        reservoirRefreshInterval: 60 * 1_000,
         maxConcurrent: 10,
         minTime: 100
     })
 
     rateLimitPromise = null
 
-    constructor () {
+    constructor() {
         console.log('Initializing Anilist Client')
         this.limiter.on('failed', async (error) => {
             console.log(`AniList Rate Limit: ${error.statusText || error.status}`)
@@ -71,12 +59,12 @@ class AnilistClient {
             if (error.status === 500) return 1
 
             if (!error.statusText) {
-                if (!this.rateLimitPromise) this.rateLimitPromise = sleep(61 * 1000).then(() => {
+                if (!this.rateLimitPromise) this.rateLimitPromise = sleep(61 * 1_000).then(() => {
                     this.rateLimitPromise = null
                 })
-                return 61 * 1000
+                return 61 * 1_000
             }
-            const time = (Number((error.headers.get('retry-after') || 60)) + 1) * 1000
+            const time = (Number((error.headers.get('retry-after') || 60)) + 1) * 1_000
             if (!this.rateLimitPromise) this.rateLimitPromise = sleep(time).then(() => {
                 this.rateLimitPromise = null
             })
@@ -89,7 +77,7 @@ class AnilistClient {
      * @param {Object} variables - The search parameters.
      * @returns {Promise<PagedQuery<{media: Media[]}>>} - The result of the search, containing media data.
      */
-    async search (variables = {}) {
+    async search(variables = {}) {
         console.log(`Searching ${JSON.stringify(variables)}`)
         const query = /* js */` 
         query($page: Int, $perPage: Int, $sort: [MediaSort], $search: String, $onList: Boolean, $status: MediaStatus, $status_not: MediaStatus, $season: MediaSeason, $year: Int, $genre: [String], $tag: [String], $format: MediaFormat, $id_not: [Int], $idMal_not: [Int], $idMal: [Int]) {
@@ -110,7 +98,7 @@ class AnilistClient {
      * @param {Object} variables - The search parameters.
      * @returns {Promise<PagedQuery<{media: Media[]}>>} - The result of the search, containing media data.
      */
-    async searchIDS (variables) {
+    async searchIDS(variables) {
         console.log(`Searching for IDs ${JSON.stringify(variables)}`)
         const query = /* js */` 
             query($id: [Int], $idMal: [Int], $id_not: [Int], $page: Int, $perPage: Int, $status: [MediaStatus], $onList: Boolean, $sort: [MediaSort], $search: String, $season: MediaSeason, $year: Int, $genre: [String], $tag: [String], $format: MediaFormat) { 
@@ -127,7 +115,7 @@ class AnilistClient {
     }
 
     /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
-    async searchAllIDS (variables) {
+    async searchAllIDS(variables) {
         console.log(`Searching for (ALL) IDs ${JSON.stringify(variables)}`)
         let fetchedIDS = []
         let currentPage = 1
@@ -154,7 +142,7 @@ class AnilistClient {
     }
 
     /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
-    async fetchAiringSchedule (variables) {
+    async fetchAiringSchedule(variables) {
         if (!variables.to && variables.from) variables.to = (variables.from + 7 * 24 * 60 * 60)
         console.log(`Fetching airing schedule ${JSON.stringify(variables)}`)
         let fetchedSchedules = []
@@ -181,7 +169,7 @@ class AnilistClient {
         }
     }
 
-    async searchAiringEpisodes (variables = {}) {
+    async searchAiringEpisodes(variables = {}) {
         console.log(`Searching for episodes in the specified time ${JSON.stringify(variables)}`)
         if (!variables.to && variables.from) variables.to = (variables.from + 7 * 24 * 60 * 60)
         const query = /* js */` 
@@ -204,35 +192,8 @@ class AnilistClient {
         return await this.alRequest(query, variables)
     }
 
-    /** returns {import('./al.d.ts').PagedQuery<{media: import('./al.d.ts').Media[]}>} */
-    async fetchEpisodes (variables) {
-        console.log(`Fetching airing schedule ${JSON.stringify(variables)}`)
-        let fetchedSchedules = []
-        let currentPage = 1
-
-        // cycle until all paged episodes are resolved.
-        let failedRes
-        while (true) {
-            const res = await this.episodes({ page: currentPage, perPage: 50, ...variables })
-            if (!res?.data && res?.errors) { failedRes = res }
-            if (res?.data?.Page.airingSchedules) fetchedSchedules = fetchedSchedules.concat(res?.data?.Page.airingSchedules)
-            if (!res?.data?.Page.pageInfo.hasNextPage) break
-            currentPage++
-        }
-        return {
-            data: {
-                Page: {
-                    pageInfo: {
-                        hasNextPage: false
-                    },
-                    airingSchedules: fetchedSchedules
-                }
-            }
-        }
-    }
-
     /** @returns {Promise<import('./al.d.ts').PagedQuery<{ airingSchedules: { airingAt: number, episode: number }[]}>>} */
-    async episodes (variables = {}) {
+    async episodes(variables = {}) {
         console.log(`Getting episodes for ${variables.id}`)
         const query = /* js */` 
           query($page: Int, $perPage: Int, $id: [Int]) {
@@ -254,7 +215,7 @@ class AnilistClient {
      * @param {string} query
      * @param {Record<string, any>} variables
      */
-    alRequest (query, variables) {
+    alRequest(query, variables) {
         /** @type {RequestInit} */
         const options = {
             method: 'POST',

@@ -24,7 +24,8 @@
       "aniList": "https://anilist.co/anime/153567",
       "mal": "https://myanimelist.net/anime/52717"
     },
-    "airingStatus": "aired"
+    "airingStatus": "aired",
+    "unaired": false
   },
   {
     "title": "Overflow",
@@ -51,6 +52,7 @@
       "aniList": "https://anilist.co/anime/113417",
       "mal": "https://myanimelist.net/anime/40746"
     },
-    "airingStatus": "aired"
+    "airingStatus": "aired",
+    "unaired": false
   }
 ]

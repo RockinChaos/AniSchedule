@@ -1,6 +1,6 @@
 // noinspection JSUnresolvedReference,NpmUsedModulesInstalled
 
-import { past, loadJSON, saveJSON, omitNullish, durationMap, correctZeroEpisodes } from './utils/util.js'
+import { past, loadJSON, saveJSON, omitNullish, durationMap } from './utils/util.js'
 import path from 'path'
 
 let updatedSubbedEpisodes = false
@@ -51,7 +51,7 @@ export async function fetchSubSchedule() {
     }
 
     // fetch missing episodes not yet fetched airing in the next two weeks.
-    const currentTime = Math.floor(date.getTime() / 1000)
+    const currentTime = Math.floor(date.getTime() / 1_000)
     const airingSchedule = await anilistClient.fetchAiringSchedule({ from: currentTime, to: (currentTime + 14 * 24 * 60 * 60) })
     airingSchedule.data.Page.airingSchedules.forEach(schedule => {
         if (!results.data.Page.media.some(media => media.id === schedule.media.id)) {
@@ -60,14 +60,11 @@ export async function fetchSubSchedule() {
     })
 
     results.data.Page.media.forEach(media => media?.airingSchedule?.nodes?.sort((a, b) => a.airingAt - b.airingAt || a.episode - b.episode))
-    results.data.Page.media = results.data.Page.media.filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index).map(media => {
-        const { relations, ...cleanMedia } = media
-        return cleanMedia
-    }).sort((a, b) => a.id - b.id)
+    results.data.Page.media = results.data.Page.media.filter((media, index, self) => media.airingSchedule?.nodes?.[0]?.airingAt && self.findIndex(m => m.id === media.id) === index).sort((a, b) => a.id - b.id)
 	//.sort((a, b) => a.airingSchedule.nodes[0].episode - b.airingSchedule.nodes[0].episode).sort((a, b) => a.airingSchedule.nodes[0].airingAt - b.airingSchedule.nodes[0].airingAt) // probably best to retire sorting like this. It will help reduce the number of line changes in a commit, reducing complexity.
 
     let media = results?.data?.Page?.media
-    media.forEach((a) => { if (new Date(a.airingSchedule.nodes[0].airingAt).getTime() > (new Date().getTime() / 1000) && !(a.airingSchedule.nodes[0].episode > 1)) a.unaired = true })
+    media.forEach((a) => { if (new Date(a.airingSchedule.nodes[0].airingAt).getTime() > (new Date().getTime() / 1_000) && !(a.airingSchedule.nodes[0].episode > 1)) a.unaired = true })
     if (media?.length > 0) {
         let existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
         // skip zero episode checks, this causes issues. TODO: Improve accuracy.
@@ -87,8 +84,8 @@ export async function fetchSubSchedule() {
             media.forEach(entry => {
                 (type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).filter(media => media.id === entry.id).forEach(episode => {
                     if ((entry.idMal && (episode.idMal !== entry.idMal && episode.episode.aired !== 0)) || (episode.format !== entry.format) || (episode.duration !== (entry.duration ? entry.duration : durationMap[entry.format]))) {
-                        changes.push(`(${type}) Updated Episode ${episode.episode.aired} for ${entry.title.userPreferred} to correct its idMal, format, and duration.`)
-                        console.log(`(${type}) Updated Episode ${episode.episode.aired} for ${entry.title.userPreferred} to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
+                        changes.push(`(${type}) Updated Episode ${episode.episode.aired} for ${entry.title.english ?? entry.title.romaji ?? entry.title.native} to correct its idMal, format, and duration.`)
+                        console.log(`(${type}) Updated Episode ${episode.episode.aired} for ${entry.title.english ?? entry.title.romaji ?? entry.title.native} to correct its idMal, format, and duration as it was found to be different than the current airing schedule.`)
                         if (entry.idMal && episode.episode.aired !== 0) episode.idMal = entry.idMal
                         episode.format = entry.format
                         episode.duration = entry.duration ? entry.duration : durationMap[entry.format]
@@ -130,11 +127,11 @@ async function findMissingEpisodes() {
     const { anilistClient } = await import('./utils/anilist.js')
     const { getAniMappings } = await import('./utils/anime.js')
     const changes = []
-    const currentTime = Math.floor(new Date().getTime() / 1000)
+    const currentTime = Math.floor(new Date().getTime() / 1_000)
 
     const airingSchedule = await anilistClient.fetchAiringSchedule({ from: (currentTime - 4 * 24 * 60 * 60), to: currentTime })
     const existingSubbedSchedule = loadJSON(path.join('./raw/sub-schedule.json'))
-    const existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
+    let existingSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
     const existingHentaiFeed = loadJSON(path.join('./raw/hentai-episode-feed.json'))
 
     for (const type of ['Sub', 'Hentai']) {
@@ -146,13 +143,13 @@ async function findMissingEpisodes() {
                 if (type !== 'Hentai') { // Only check for Sub, Hentai never has zero episodes
                     if (existingSubbedSchedule?.find(media => media.id === entry.media.id)?.zeroEpisode) {
                         correctedEpisode = entry.episode - 1
-                        console.log(`(Sub) Zero episode series detected for ${entry.media.title.userPreferred}, correcting episode ${entry.episode} -> ${correctedEpisode}`)
+                        console.log(`(Sub) Zero episode series detected for ${entry.media.title.english ?? entry.media.title.romaji ?? entry.media.title.native}, correcting episode ${entry.episode} -> ${correctedEpisode}`)
                     }
                 }
 
                 if ((entry.airingAt <= currentTime) && !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some((ep) => ep.id === entry.media.id && ep.episode.aired === correctedEpisode)) { // episode has aired and is missing from existing feed.
-                    changes.push(`(${type}) Added Missing Episode ${correctedEpisode} for ${entry.media.title.userPreferred}`)
-                    console.log(`(${type}) Adding Missing Episode ${correctedEpisode} for ${entry.media.title.userPreferred} to the episode feed.`)
+                    changes.push(`(${type}) Added Missing Episode ${correctedEpisode} for ${entry.media.title.english ?? entry.media.title.romaji ?? entry.media.title.native}`)
+                    console.log(`(${type}) Adding Missing Episode ${correctedEpisode} for ${entry.media.title.english ?? entry.media.title.romaji ?? entry.media.title.native} to the episode feed.`)
                     const missingEpisode = {
                         id: entry.media.id,
                         ...(entry.media.idMal ? { idMal: entry.media.idMal } : {}),
@@ -160,7 +157,7 @@ async function findMissingEpisodes() {
                         duration: entry.media.duration ? entry.media.duration : durationMap[entry.media.format],
                         episode: {
                             aired: correctedEpisode,
-                            airedAt: past(new Date(entry.airingAt * 1000), 0, false),
+                            airedAt: past(new Date(entry.airingAt * 1_000), 0, false),
                             addedAt: past(new Date(), 0, true)
                         }
                     }
@@ -172,6 +169,7 @@ async function findMissingEpisodes() {
             const newFeed = Object.values([...missingEpisodes.filter(({ id, episode }) => !(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed).some(media => media.id === id && media.episode.aired === episode.aired)), ...(type !== 'Hentai' ? existingSubbedFeed : existingHentaiFeed)].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
             saveJSON(path.join(`./raw/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed.json`), newFeed)
             saveJSON(path.join(`./readable/${type !== 'Hentai' ? 'sub' : 'hentai'}-episode-feed-readable.json`), newFeed, true)
+            if (type === 'Sub') existingSubbedFeed = newFeed
             if (type === 'Hentai') updatedHentaiEpisodes = true
             else updatedSubbedEpisodes = true
             console.log(`Added ${missingEpisodes.length} Missing Episode(s) from the ${type} feed!`)
@@ -196,11 +194,11 @@ async function findMissingEpisodes() {
             const missingEpisodes = []
             for (let ep = highestFeedEpisode + 1; ep < lowestScheduledEpisode; ep++) missingEpisodes.push(ep);
             if (missingEpisodes.length > 0) {
-                console.log(`Found gap for ${entry.title.userPreferred} (ID: ${entry.id}): Missing episodes ${missingEpisodes.join(', ')} between ${highestFeedEpisode} and ${lowestScheduledEpisode}`)
+                console.log(`Found gap for ${entry.title.english ?? entry.title.romaji ?? entry.title.native} (ID: ${entry.id}): Missing episodes ${missingEpisodes.join(', ')} between ${highestFeedEpisode} and ${lowestScheduledEpisode}`)
                 gapEpisodes.push({
                     id: entry.id,
                     idMal: entry.idMal,
-                    title: entry.title.userPreferred,
+                    title: entry.title.english ?? entry.title.romaji ?? entry.title.native,
                     format: entry.format,
                     duration: entry.duration ? entry.duration : durationMap[entry.format],
                     missingEpisodes,
@@ -230,7 +228,7 @@ async function findMissingEpisodes() {
                         const existingDate = new Date(existingEpisodeOnSameDate.episode.airedAt)
                         airdate.setHours(existingDate.getHours(), existingDate.getMinutes(), existingDate.getSeconds())
                     } else {
-                        const scheduledDate = new Date(gap.scheduledTime * 1000)
+                        const scheduledDate = new Date(gap.scheduledTime * 1_000)
                         airdate.setHours(scheduledDate.getHours(), scheduledDate.getMinutes(), scheduledDate.getSeconds())
                     }
                     if (minAirdate && airdate < minAirdate) {
@@ -274,7 +272,7 @@ async function findMissingEpisodes() {
 }
 
 // update sub schedule episode feed //
-export async function updateSubFeed(scheduleUpdate, newSchedule) {
+export async function updateSubFeed(scheduleUpdate = false, newSchedule) {
     const changes = []
     const schedule = newSchedule ? newSchedule : loadJSON(path.join('./raw/sub-schedule.json'))
     const exactSubbedFeed = loadJSON(path.join('./raw/sub-episode-feed.json'))
@@ -291,28 +289,28 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
     schedule.forEach(entry => {
         const hentai = entry.genres?.includes('Hentai')
         entry.airingSchedule?.nodes?.forEach(node => {
-            const scheduledAiringTime = new Date(node.airingAt * 1000)
+            const scheduledAiringTime = new Date(node.airingAt * 1_000)
             const existingEpisodes = [...existingSubbedFeed.filter(media => media.id === entry.id), ...existingHentaiFeed.filter(media => media.id === entry.id)]
 
             // Make any necessary corrections to aired episodes.
             existingEpisodes.forEach(existing => {
                 if (existing.episode?.aired === node.episode) {
-                    if (scheduledAiringTime > new Date()) { // Filter out any existing episode feed entries that matches any delayed episodes
+                    if (scheduledAiringTime.getTime() > Date.now() + 4 * 60 * 1_000) { // Retain buffered releases within four minutes of airing.
                         const feed = hentai ? existingHentaiFeed : existingSubbedFeed
                         const index = feed.findIndex(ep => ep.id === entry.id && ep.episode.aired === node.episode)
                         if (index !== -1) {
                             feed.splice(index, 1)
-                            changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Removed Episode ${node.episode} of ${entry.title.userPreferred} as it has been delayed`)
-                            console.log(`Removed Episode ${node.episode} of ${entry.title.userPreferred} from the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed as it has been delayed!`)
+                            changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Removed Episode ${node.episode} of ${entry.title.english ?? entry.title.romaji ?? entry.title.native} as it has been delayed`)
+                            console.log(`Removed Episode ${node.episode} of ${entry.title.english ?? entry.title.romaji ?? entry.title.native} from the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed as it has been delayed!`)
                             if (hentai) removedHentaiEpisodes.push(existing)
                             else removedEpisodes.push(existing)
                         }
                     } else { // Filter out any existing episode feed entries that matches any delayed episodes
                         const airedAt = new Date(existing.episode.airedAt)
-                        if (Math.abs(airedAt - scheduledAiringTime) > 30 * 1000) {
+                        if (Math.abs(airedAt - scheduledAiringTime) > 30 * 1_000) {
                             existing.episode.airedAt = past(scheduledAiringTime, 0, false)
-                            changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Modified Episode ${node.episode} of ${entry.title.userPreferred} from ${past(airedAt, 0, false)} to ${existing.episode.airedAt}`)
-                            console.log(`Modified Episode ${node.episode} of ${entry.title.userPreferred} from the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed with aired date from ${past(airedAt, 0, false)} to ${existing.episode.airedAt}`)
+                            changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Modified Episode ${node.episode} of ${entry.title.english ?? entry.title.romaji ?? entry.title.native} from ${past(airedAt, 0, false)} to ${existing.episode.airedAt}`)
+                            console.log(`Modified Episode ${node.episode} of ${entry.title.english ?? entry.title.romaji ?? entry.title.native} from the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed with aired date from ${past(airedAt, 0, false)} to ${existing.episode.airedAt}`)
                             if (hentai) modifiedHentaiEpisodes.push(existing)
                             else modifiedEpisodes.push(existing)
                         }
@@ -327,16 +325,16 @@ export async function updateSubFeed(scheduleUpdate, newSchedule) {
                 duration: entry.duration ? entry.duration : durationMap[entry.format],
                 episode: {
                     aired: node.episode,
-                    airedAt: past(new Date(node.airingAt * 1000), 0, false),
+                    airedAt: past(new Date(node.airingAt * 1_000), 0, false),
                     addedAt: past(new Date(), 0, true)
                 }
             }
 
-            if (!existingEpisodes.some(ep => ep.episode.aired === node.episode) && (new Date(node.airingAt * 1000 - (scheduleUpdate ?  5 * 60 * 1000 : 0))) <= new Date()) {
+            if (!existingEpisodes.some(ep => ep.episode.aired === node.episode) && (new Date(node.airingAt * 1_000 - (scheduleUpdate ?  4 * 60 * 1_000 : 0))) <= new Date()) {
                 if (hentai) newHentaiEpisodes.push(newEpisode)
                 else newEpisodes.push(newEpisode)
-                changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred}`)
-                console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.userPreferred} to the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed.`)
+                changes.push(`(${hentai ? 'Hentai' : 'Sub'}) Added${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.english ?? entry.title.romaji ?? entry.title.native}`)
+                console.log(`Adding${newSchedule ? ' Missing' : ''} Episode ${newEpisode.episode.aired} for ${entry.title.english ?? entry.title.romaji ?? entry.title.native} to the ${hentai ? 'Hentai' : 'Subbed'} Episode Feed.`)
             }
         })
     })

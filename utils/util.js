@@ -1,6 +1,10 @@
-import fs from 'fs'
 import path from 'path'
+import fs from 'fs'
 
+/**
+ * @param {number} t Delay in milliseconds.
+ * @return {Promise<void>} Resolves after the delay.
+ */
 export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.())
 
 /**
@@ -10,29 +14,57 @@ export const sleep = t => new Promise(resolve => setTimeout(resolve, t).unref?.(
  * @returns {String} The corrected Date as an ISOString
  */
 export function past(episodeDate, weeks = 0, skip) {
-    if (episodeDate < new Date() || skip) return new Date(episodeDate.getTime() + ((7 * 24 * 60 * 60 * 1000) * weeks)).toISOString().slice(0, -5) + 'Z'
+    if (episodeDate < new Date() || skip) return new Date(episodeDate.getTime() + ((7 * 24 * 60 * 60 * 1_000) * weeks)).toISOString().slice(0, -5) + 'Z'
     return episodeDate.toISOString().slice(0, -5) + 'Z'
 }
 
 /**
- * @param {Date} date1 The first date to compare
- * @param {Date} date2 The second date to compare
- * @returns {boolean} True if the day and time match, (day of the week aka Monday, exact hours and minutes)
+ * @param {string|number|Date|null|undefined} value Any value accepted by the Date constructor.
+ * @return {number|null} Whole seconds since the Unix epoch, or null if the value is missing or invalid.
  */
-export function dayTimeMatch(date1, date2) {
-    return date1.getUTCDay() === date2.getUTCDay() && date1.getUTCHours() === date2.getUTCHours() && date1.getUTCMinutes() === date2.getUTCMinutes()
+export function toSeconds(value) {
+    if (value === null || value === undefined) return null
+    const milliseconds = new Date(value).getTime()
+    return Number.isFinite(milliseconds) ? Math.floor(milliseconds / 1_000) : null
 }
 
 /**
- * @param {string|Date} dateA
- * @param {string|Date} dateB
- * @returns {boolean} Whether the two dates fall on the same UTC day
+ * Estimates the typical time between episodes using the median interval.
+ * @param {Array<{airingAt: number, episode: number}>} nodes Airing entries sorted by episode, with airingAt in seconds.
+ * @return {number} Median seconds per episode, or one week (604800) if no valid intervals exist.
  */
-export function isSameUTCDay(dateA, dateB) {
-    const a = new Date(dateA)
-    const b = new Date(dateB)
-    return a.getUTCFullYear() === b.getUTCFullYear() && a.getUTCMonth() === b.getUTCMonth() && a.getUTCDate() === b.getUTCDate()
+export function cadence(nodes) {
+    const intervals = []
+    for (let index = 1; index < nodes.length; index++) {
+        const current = nodes[index]
+        const previous = nodes[index - 1]
+        const elapsed = current.airingAt - previous.airingAt
+        if (elapsed > 0 && current.episode > previous.episode) intervals.push(elapsed / (current.episode - previous.episode))
+    }
+    if (!intervals.length) return 7 * 24 * 60 * 60
+    intervals.sort((a, b) => a - b)
+    return Math.round(intervals[Math.floor((intervals.length - 1) / 2)])
 }
+
+// /**
+//  * @param {Date} date1 The first date to compare
+//  * @param {Date} date2 The second date to compare
+//  * @returns {boolean} True if the day and time match, (day of the week aka Monday, exact hours and minutes)
+//  */
+// export function dayTimeMatch(date1, date2) {
+//     return date1.getUTCDay() === date2.getUTCDay() && date1.getUTCHours() === date2.getUTCHours() && date1.getUTCMinutes() === date2.getUTCMinutes()
+// }
+
+// /**
+//  * @param {string|Date} dateA
+//  * @param {string|Date} dateB
+//  * @returns {boolean} Whether the two dates fall on the same UTC day
+//  */
+// export function isSameUTCDay(dateA, dateB) {
+//     const a = new Date(dateA)
+//     const b = new Date(dateB)
+//     return a.getUTCFullYear() === b.getUTCFullYear() && a.getUTCMonth() === b.getUTCMonth() && a.getUTCDate() === b.getUTCDate()
+// }
 
 /**
  * @param {String} date1 The first date to compare
@@ -40,7 +72,7 @@ export function isSameUTCDay(dateA, dateB) {
  * @returns {number} The number of weeks difference between the two dates rounded to the nearest integer.
  */
 export function weeksDifference(date1, date2) {
-    return Math.round((new Date(date2) - new Date(date1)) / (1000 * 60 * 60 * 24 * 7))
+    return Math.round((new Date(date2) - new Date(date1)) / (1_000 * 60 * 60 * 24 * 7))
 }
 
 export function delay(ms) {
@@ -81,7 +113,7 @@ export function getCurrentYearAndWeek() {
     const year = target.getFullYear()
 
     const firstThursday = new Date(year, 0, 4)
-    const week = Math.ceil((target - (firstThursday.getTime() - ((firstThursday.getDay() + 6) % 7) * 24 * 60 * 60 * 1000)) / (7 * 24 * 60 * 60 * 1000))
+    const week = Math.ceil((target - (firstThursday.getTime() - ((firstThursday.getDay() + 6) % 7) * 24 * 60 * 60 * 1_000)) / (7 * 24 * 60 * 60 * 1_000))
     const year_weeks = (new Date(year, 11, 31).getDay() === 4 || new Date(year, 0, 1).getDay() === 4) ? 53 : 52
     return { year, week, year_weeks }
 }
@@ -89,7 +121,7 @@ export function getCurrentYearAndWeek() {
 // gets too many weeks, usually returns 53 when its actually 52 weeks in a year.
 /*export function getWeeksInYear(year) {
     const lastDayOfYear = new Date(year, 11, 31)
-    return Math.ceil((Math.floor((lastDayOfYear - new Date(year, 0, 1)) / (24 * 60 * 60 * 1000)) + lastDayOfYear.getDay() + 1) / 7)
+    return Math.ceil((Math.floor((lastDayOfYear - new Date(year, 0, 1)) / (24 * 60 * 60 * 1_000)) + lastDayOfYear.getDay() + 1) / 7)
 }*/
 
 export function getWeeksInYear(year) {
@@ -133,90 +165,90 @@ export function calculateWeeksToFetch() {
     }
 }
 
-/**
- * Determines if the current month is a Daylight Saving Time (DST) transition month.
- *
- * This function checks whether the current month is:
- * - The month when DST **started** (e.g., March in the U.S.).
- * - The month when DST **ended** (e.g., November in the U.S.).
- *
- * @param {string} date Optional date to check if it is in the DST transition month, otherwise fallback to current date.
- * @returns {boolean} `true` if the current month is the start or end month of DST, otherwise `false`.
- */
-export function isDSTTransitionMonth(date = null) {
-    const now = date ? new Date(date) : new Date()
-    const year = now.getFullYear()
-    const standardOffset = Math.max(new Date(year, 0, 1).getTimezoneOffset(), new Date(year, 6, 1).getTimezoneOffset())
-    let dstStartMonth = null
-    let dstEndMonth = null
-    let lastOffset = standardOffset
-    for (let month = 0; month < 12; month++) {
-        for (let day = 1; day <= 31; day++) {
-            const testDate = new Date(year, month, day)
-            if (testDate.getMonth() !== month) break
-            const testOffset = testDate.getTimezoneOffset()
-            if (dstStartMonth === null && testOffset < standardOffset) dstStartMonth = month
-            if (dstStartMonth !== null && dstEndMonth === null && testOffset === standardOffset) dstEndMonth = month
-            lastOffset = testOffset
-        }
-    }
-    return now.getMonth() === dstStartMonth || now.getMonth() === dstEndMonth
-}
+// /**
+//  * Determines if the current month is a Daylight Saving Time (DST) transition month.
+//  *
+//  * This function checks whether the current month is:
+//  * - The month when DST **started** (e.g., March in the U.S.).
+//  * - The month when DST **ended** (e.g., November in the U.S.).
+//  *
+//  * @param {string} date Optional date to check if it is in the DST transition month, otherwise fallback to current date.
+//  * @returns {boolean} `true` if the current month is the start or end month of DST, otherwise `false`.
+//  */
+// export function isDSTTransitionMonth(date = null) {
+//     const now = date ? new Date(date) : new Date()
+//     const year = now.getFullYear()
+//     const standardOffset = Math.max(new Date(year, 0, 1).getTimezoneOffset(), new Date(year, 6, 1).getTimezoneOffset())
+//     let dstStartMonth = null
+//     let dstEndMonth = null
+//     let lastOffset = standardOffset
+//     for (let month = 0; month < 12; month++) {
+//         for (let day = 1; day <= 31; day++) {
+//             const testDate = new Date(year, month, day)
+//             if (testDate.getMonth() !== month) break
+//             const testOffset = testDate.getTimezoneOffset()
+//             if (dstStartMonth === null && testOffset < standardOffset) dstStartMonth = month
+//             if (dstStartMonth !== null && dstEndMonth === null && testOffset === standardOffset) dstEndMonth = month
+//             lastOffset = testOffset
+//         }
+//     }
+//     return now.getMonth() === dstStartMonth || now.getMonth() === dstEndMonth
+// }
 
-/**
- * Determines the start and end dates of Daylight Saving Time (DST) for the current year.
- *
- * DST starts on the second Sunday of March at 2:00 AM (when clocks move forward by 1 hour).
- * DST ends on the first Sunday of November at 2:00 AM (when clocks move back by 1 hour).
- *
- * @returns {{ dstStart: Date | null, dstEnd: Date | null }} An object containing:
- *   - `dstStart`: The exact Date object representing when DST starts, or `null` if not found.
- *   - `dstEnd`: The exact Date object representing when DST ends, or `null` if not found.
- */
-export function getDSTStartEndDates() {
-    const year = new Date().getFullYear()
-    let dstStart = null
-    let dstEnd = null
-    const janOffset = new Date(year, 0, 1).getTimezoneOffset()
-    const julOffset = new Date(year, 6, 1).getTimezoneOffset()
-    const standardOffset = Math.max(janOffset, julOffset)
-    for (let month = 2; month < 3; month++) { // March
-        for (let day = 1; day <= 31; day++) {
-            const testDate = new Date(year, month, day, 2, 0, 0)
-            if (testDate.getMonth() !== month) break
-            if (testDate.getTimezoneOffset() < standardOffset) {
-                dstStart = testDate
-                break
-            }
-        }
-        if (dstStart) break
-    }
-    for (let month = 10; month < 11; month++) { // November
-        for (let day = 1; day <= 7; day++) {
-            const testDate = new Date(year, month, day, 2, 0, 0)
-            if (testDate.getMonth() !== month) break
-            if (testDate.getDay() === 0 && testDate.getTimezoneOffset() === standardOffset) {
-                dstEnd = testDate
-                break
-            }
-        }
-        if (dstEnd) break
-    }
-    if (dstStart && new Date() > dstEnd) dstStart = null
-    return { dstStart, dstEnd }
-}
+// /**
+//  * Determines the start and end dates of Daylight Saving Time (DST) for the current year.
+//  *
+//  * DST starts on the second Sunday of March at 2:00 AM (when clocks move forward by 1 hour).
+//  * DST ends on the first Sunday of November at 2:00 AM (when clocks move back by 1 hour).
+//  *
+//  * @returns {{ dstStart: Date | null, dstEnd: Date | null }} An object containing:
+//  *   - `dstStart`: The exact Date object representing when DST starts, or `null` if not found.
+//  *   - `dstEnd`: The exact Date object representing when DST ends, or `null` if not found.
+//  */
+// export function getDSTStartEndDates() {
+//     const year = new Date().getFullYear()
+//     let dstStart = null
+//     let dstEnd = null
+//     const janOffset = new Date(year, 0, 1).getTimezoneOffset()
+//     const julOffset = new Date(year, 6, 1).getTimezoneOffset()
+//     const standardOffset = Math.max(janOffset, julOffset)
+//     for (let month = 2; month < 3; month++) { // March
+//         for (let day = 1; day <= 31; day++) {
+//             const testDate = new Date(year, month, day, 2, 0, 0)
+//             if (testDate.getMonth() !== month) break
+//             if (testDate.getTimezoneOffset() < standardOffset) {
+//                 dstStart = testDate
+//                 break
+//             }
+//         }
+//         if (dstStart) break
+//     }
+//     for (let month = 10; month < 11; month++) { // November
+//         for (let day = 1; day <= 7; day++) {
+//             const testDate = new Date(year, month, day, 2, 0, 0)
+//             if (testDate.getMonth() !== month) break
+//             if (testDate.getDay() === 0 && testDate.getTimezoneOffset() === standardOffset) {
+//                 dstEnd = testDate
+//                 break
+//             }
+//         }
+//         if (dstEnd) break
+//     }
+//     if (dstStart && new Date() > dstEnd) dstStart = null
+//     return { dstStart, dstEnd }
+// }
 
-/**
- * Checks if two dates fall on opposite sides of a Daylight Saving Time (DST) change.
- *
- * @param {Date} previousDate The earlier date.
- * @param {Date} currentDate The later date.
- * @returns {boolean} True if the timezone offset differs, indicating a DST transition.
- */
-export function crossesDSTBoundary(previousDate, currentDate) {
-    if (!previousDate || !currentDate) return false
-    return new Date(previousDate).getTimezoneOffset() !== new Date(currentDate).getTimezoneOffset()
-}
+// /**
+//  * Checks if two dates fall on opposite sides of a Daylight Saving Time (DST) change.
+//  *
+//  * @param {Date} previousDate The earlier date.
+//  * @param {Date} currentDate The later date.
+//  * @returns {boolean} True if the timezone offset differs, indicating a DST transition.
+//  */
+// export function crossesDSTBoundary(previousDate, currentDate) {
+//     if (!previousDate || !currentDate) return false
+//     return new Date(previousDate).getTimezoneOffset() !== new Date(currentDate).getTimezoneOffset()
+// }
 
 /**
  * @param {Date} date1 The date to be compared to date2 (or today)
@@ -224,22 +256,22 @@ export function crossesDSTBoundary(previousDate, currentDate) {
  * @returns {number} The number of days difference between the specified date and today.
  */
 export function daysAgo(date1, date2 = new Date()) {
-    return Math.floor((date2 - date1) / (1000 * 60 * 60 * 24));
+    return Math.floor((date2 - date1) / (1_000 * 60 * 60 * 24));
 }
-
-/**
- * Monday - 1
- * Tuesday - 2
- * Wednesday - 3
- * Thursday - 4
- * Friday - 5
- * Saturday - 6
- * Sunday - 7
- */
-export function getCurrentDay() {
-    const day = (new Date()).getDay()
-    return day === 0 ? 7 : day
-}
+//
+// /**
+//  * Monday - 1
+//  * Tuesday - 2
+//  * Wednesday - 3
+//  * Thursday - 4
+//  * Friday - 5
+//  * Saturday - 6
+//  * Sunday - 7
+//  */
+// export function getCurrentDay() {
+//     const day = (new Date()).getDay()
+//     return day === 0 ? 7 : day
+// }
 
 export function fixTime(delayedDate, episodeDate, modify) {
     const delayed = new Date(delayedDate)
@@ -258,6 +290,16 @@ export function loadJSON(filePath) {
     } catch (error) {
         return []
     }
+}
+
+/** Remove absent values throughout JSON data while retaining false, zero and empty strings. */
+export function omitNullish(value) {
+    const present = item => item !== null && item !== undefined && (typeof item !== 'number' || Number.isFinite(item))
+    if (Array.isArray(value)) return value.filter(present).map(omitNullish)
+    if (value && typeof value === 'object') {
+        return Object.fromEntries(Object.entries(value).filter(([, item]) => present(item)).map(([key, item]) => [key, omitNullish(item)]))
+    }
+    return value
 }
 
 function ensureDirectoryExists(filePath) {
@@ -290,127 +332,113 @@ export function checkThreshold(lists, currentSchedule) {
     return null
 }
 
-/**
- * Remove absent values throughout JSON data while retaining false, zero and empty strings.
- * @param {any} value The value to be checked and cleaned.
- * @returns {any} The cleaned value with nullish values removed.
- */
-export function omitNullish(value) {
-    const present = item => item !== null && item !== undefined && (typeof item !== 'number' || Number.isFinite(item))
-    if (Array.isArray(value)) return value.filter(present).map(omitNullish)
-    if (value && typeof value === 'object') {
-        return Object.fromEntries(Object.entries(value).filter(([, item]) => present(item)).map(([key, item]) => [key, omitNullish(item)]))
-    }
-    return value
-}
-
-/**
- * Corrects zero episode series by adjusting episode numbers and updating feeds
- * @param {string} type - Dub or Sub.
- * @param {Array} mediaList - List of media to check and correct
- * @param {Array} existingSchedule - Existing schedule to check previous zero episode status
- * @param {Array} existingFeed - Existing feed to be checked and modified.
- * @param {Array} changes - Array to push change messages to
- */
-export async function correctZeroEpisodes(type, mediaList, existingSchedule, existingFeed, changes) {
-    const { hasZeroEpisode, getMediaMaxEp } = await import('./anime.js')
-    for (const _entry of mediaList) {
-        const entry = _entry?.media?.media ?? _entry
-        const foundEntry = existingSchedule?.find(media => (media?.media?.media ?? media).id === entry.id)
-        const existingEntry = foundEntry?.media?.media ?? foundEntry
-        let isZeroEpisode = existingEntry?.zeroEpisode
-        if (isZeroEpisode === undefined) {
-            console.log(`(${type}) Detected series ${entry.title.userPreferred} is missing zeroEpisode result, checking for zero episodes...`)
-            const zeroEpisodeResult = await hasZeroEpisode(entry, null)
-            isZeroEpisode = zeroEpisodeResult !== null && zeroEpisodeResult.length > 0
-            if (!isZeroEpisode && getMediaMaxEp(entry, true) >= 4) entry.zeroEpisode = false
-        }
-        if (isZeroEpisode) {
-            if (!entry.airingSchedule?.nodes?.some(node => node.episode === 0) && entry.airingSchedule?.nodes?.some(node => node.episode >= 1)) {
-                console.log(`(${type}) Zero episode series detected for ${entry.title.userPreferred}, correcting episode numbers...`)
-                if (_entry?.episodeNumber !== undefined) _entry.episodeNumber = _entry.episodeNumber - 1
-                entry.airingSchedule.nodes.forEach(node => {
-                    const oldEpisode = node.episode
-                    node.episode = node.episode - 1
-                    console.log(`(${type}) Correcting ${entry.title.userPreferred} Episode ${oldEpisode} -> ${node.episode}`)
-                })
-            }
-        }
-        if (isZeroEpisode || existingEntry?.zeroEpisode !== null) entry.zeroEpisode = isZeroEpisode ?? existingEntry?.zeroEpisode
-    }
-    let feedChanged = false
-    for (const _entry of mediaList.filter(media => (media?.media?.media ?? media).zeroEpisode)) {
-        const entry = _entry?.media?.media ?? _entry
-        const foundEntry = existingSchedule?.find(media => (media?.media?.media ?? media).id === entry.id)
-        const previousEntry = foundEntry?.media?.media ?? foundEntry
-        if (previousEntry?.zeroEpisode === undefined) {
-            const episodesToCorrect = existingFeed.filter(episode => episode.id === entry.id)
-            if (episodesToCorrect.length > 0) {
-                const hasEpZero = episodesToCorrect.some(episode => episode.episode.aired === 0)
-                if (!hasEpZero && episodesToCorrect.some(ep => ep.episode.aired >= 1)) {
-                    console.log(`(${type}) Correcting existing episodes feed for zero episode series: ${entry.title.userPreferred}`)
-                    episodesToCorrect.forEach(ep => {
-                        if (ep.episode.aired >= 1) {
-                            const oldEpisode = ep.episode.aired
-                            ep.episode.aired = ep.episode.aired - 1
-                            console.log(`(${type}) Corrected episode ${oldEpisode} -> ${ep.episode.aired} for ${entry.title.userPreferred}`)
-                            changes.push(`(${type}) Corrected episode ${oldEpisode} -> ${ep.episode.aired} for ${entry.title.userPreferred}`)
-                        }
-                    })
-                    feedChanged = true
-                }
-            }
-        }
-    }
-    if (feedChanged) {
-        const newFeed = Object.values([...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc; }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
-        saveJSON(path.join(`./raw/${type.toLowerCase()}-episode-feed.json`), newFeed)
-        saveJSON(path.join(`./readable/${type.toLowerCase()}-episode-feed-readable.json`), newFeed, true)
-        const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
-        const updatedAt = past(new Date(), 0, true)
-        if (type === 'Sub') lastUpdated.subbed.episodes = updatedAt
-        else lastUpdated.dubbed.episodes = updatedAt
-        saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
-        saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
-    }
-    return mediaList
-}
+// /**
+//  * Corrects zero episode series by adjusting episode numbers and updating feeds
+//  * @param {string} type - Dub or Sub.
+//  * @param {Array} mediaList - List of media to check and correct
+//  * @param {Array} existingSchedule - Existing schedule to check previous zero episode status
+//  * @param {Array} existingFeed - Existing feed to be checked and modified.
+//  * @param {Array} changes - Array to push change messages to
+//  */
+// export async function correctZeroEpisodes(type, mediaList, existingSchedule, existingFeed, changes) {
+//     const { hasZeroEpisode, getMediaMaxEp } = await import('./anime.js')
+//     for (const _entry of mediaList) {
+//         const entry = _entry?.media?.media ?? _entry
+//         const foundEntry = existingSchedule?.find(media => (media?.media?.media ?? media).id === entry.id)
+//         const existingEntry = foundEntry?.media?.media ?? foundEntry
+//         let isZeroEpisode = existingEntry?.zeroEpisode
+//         if (isZeroEpisode === undefined) {
+//             console.log(`(${type}) Detected series ${entry.title.english ?? entry.title.romaji ?? entry.title.native} is missing zeroEpisode result, checking for zero episodes...`)
+//             const zeroEpisodeResult = await hasZeroEpisode(entry, null)
+//             isZeroEpisode = zeroEpisodeResult !== null && zeroEpisodeResult.length > 0
+//             if (!isZeroEpisode && getMediaMaxEp(entry, true) >= 4) entry.zeroEpisode = false
+//         }
+//         if (isZeroEpisode) {
+//             if (!entry.airingSchedule?.nodes?.some(node => node.episode === 0) && entry.airingSchedule?.nodes?.some(node => node.episode >= 1)) {
+//                 console.log(`(${type}) Zero episode series detected for ${entry.title.english ?? entry.title.romaji ?? entry.title.native}, correcting episode numbers...`)
+//                 if (_entry?.episodeNumber !== undefined) _entry.episodeNumber = _entry.episodeNumber - 1
+//                 entry.airingSchedule.nodes.forEach(node => {
+//                     const oldEpisode = node.episode
+//                     node.episode = node.episode - 1
+//                     console.log(`(${type}) Correcting ${entry.title.english ?? entry.title.romaji ?? entry.title.native} Episode ${oldEpisode} -> ${node.episode}`)
+//                 })
+//             }
+//         }
+//         if (isZeroEpisode || existingEntry?.zeroEpisode !== null) entry.zeroEpisode = isZeroEpisode ?? existingEntry?.zeroEpisode
+//     }
+//     let feedChanged = false
+//     for (const _entry of mediaList.filter(media => (media?.media?.media ?? media).zeroEpisode)) {
+//         const entry = _entry?.media?.media ?? _entry
+//         const foundEntry = existingSchedule?.find(media => (media?.media?.media ?? media).id === entry.id)
+//         const previousEntry = foundEntry?.media?.media ?? foundEntry
+//         if (previousEntry?.zeroEpisode === undefined) {
+//             const episodesToCorrect = existingFeed.filter(episode => episode.id === entry.id)
+//             if (episodesToCorrect.length > 0) {
+//                 const hasEpZero = episodesToCorrect.some(episode => episode.episode.aired === 0)
+//                 if (!hasEpZero && episodesToCorrect.some(ep => ep.episode.aired >= 1)) {
+//                     console.log(`(${type}) Correcting existing episodes feed for zero episode series: ${entry.title.english ?? entry.title.romaji ?? entry.title.native}`)
+//                     episodesToCorrect.forEach(ep => {
+//                         if (ep.episode.aired >= 1) {
+//                             const oldEpisode = ep.episode.aired
+//                             ep.episode.aired = ep.episode.aired - 1
+//                             console.log(`(${type}) Corrected episode ${oldEpisode} -> ${ep.episode.aired} for ${entry.title.english ?? entry.title.romaji ?? entry.title.native}`)
+//                             changes.push(`(${type}) Corrected episode ${oldEpisode} -> ${ep.episode.aired} for ${entry.title.english ?? entry.title.romaji ?? entry.title.native}`)
+//                         }
+//                     })
+//                     feedChanged = true
+//                 }
+//             }
+//         }
+//     }
+//     if (feedChanged) {
+//         const newFeed = Object.values([...existingFeed].reduce((acc, item) => { acc[`${item.id}_${item.episode.airedAt}`] = acc[`${item.id}_${item.episode.airedAt}`] || []; acc[`${item.id}_${item.episode.airedAt}`].push(item); return acc; }, {})).map(group => group.sort((a, b) => b.episode.aired - a.episode.aired)).flat().sort((a, b) => new Date(b.episode.airedAt) - new Date(a.episode.airedAt))
+//         saveJSON(path.join(`./raw/${type.toLowerCase()}-episode-feed.json`), newFeed)
+//         saveJSON(path.join(`./readable/${type.toLowerCase()}-episode-feed-readable.json`), newFeed, true)
+//         const lastUpdated = loadJSON(path.join('./raw/last-updated.json'))
+//         const updatedAt = past(new Date(), 0, true)
+//         if (type === 'Sub') lastUpdated.subbed.episodes = updatedAt
+//         else lastUpdated.dubbed.episodes = updatedAt
+//         saveJSON(path.join(`./raw/last-updated.json`), lastUpdated)
+//         saveJSON(path.join(`./readable/last-updated-readable.json`), lastUpdated, true)
+//     }
+//     return mediaList
+// }
 
 export function saveJSON(filePath, data, prettyPrint = false) {
     ensureDirectoryExists(filePath)
     fs.writeFileSync(filePath, JSON.stringify(data, null, prettyPrint ? 2 : 0))
 }
 
-/**
- * Used to fill in missing/needed info for the episode feed, helping fix issues that can occur when updating the script.
- * @param {String} type The type (key) to fetch and set, e.g. 'format'
- * @param {String} feed The episode feed to modify, either sub, dub, or hentai.
- */
-export async function updateEpisodeFeed(type, feed) {
-    const { anilistClient } = await import('./anilist.js')
-    const episodeFeed = loadJSON(path.join(`./raw/${feed}-episode-feed.json`))
-    const missingTypeIDs = Array.from(new Set(episodeFeed.filter(entry => !entry[type]).map(entry => entry.id)))
-
-    if (missingTypeIDs.length === 0) {
-        console.log(`No missing ${type}(s) detected for ${feed.includes('dub') ? 'Dubbed' : feed.includes('hentai') ? 'Hentai' : 'Subbed'} Episodes.`)
-        return episodeFeed
-    }
-
-    console.log(`Fetching ${type}(s) for IDs: ${missingTypeIDs}`)
-
-    const searchResponse = await anilistClient.searchAllIDS({ id: missingTypeIDs })
-    const updatedFeed = episodeFeed.map(entry => {
-        if (!entry[type]) {
-            const matchedMedia = searchResponse.data.Page.media.find(media => media.id === entry.id)
-            if (matchedMedia) {
-                const { episode, ...rest } = entry
-                return { ...rest, [type]: matchedMedia[type], episode }
-            }
-        }
-        return entry
-    }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
-
-    saveJSON(path.join(`./raw/${feed}-episode-feed.json`), updatedFeed)
-    saveJSON(path.join(`./readable/${feed}-episode-feed-readable.json`), updatedFeed, true)
-    console.log(`${feed.includes('dub') ? 'Dubbed' : feed.includes('hentai') ? 'Hentai' : 'Subbed'} Episode feed successfully updated with missing ${type}(s).`)
-}
+// /**
+//  * Used to fill in missing/needed info for the episode feed, helping fix issues that can occur when updating the script.
+//  * @param {String} type The type (key) to fetch and set, e.g. 'format'
+//  * @param {String} feed The episode feed to modify, either sub, dub, or hentai.
+//  */
+// export async function updateEpisodeFeed(type, feed) {
+//     const { anilistClient } = await import('./anilist.js')
+//     const episodeFeed = loadJSON(path.join(`./raw/${feed}-episode-feed.json`))
+//     const missingTypeIDs = Array.from(new Set(episodeFeed.filter(entry => !entry[type]).map(entry => entry.id)))
+//
+//     if (missingTypeIDs.length === 0) {
+//         console.log(`No missing ${type}(s) detected for ${feed.includes('dub') ? 'Dubbed' : feed.includes('hentai') ? 'Hentai' : 'Subbed'} Episodes.`)
+//         return episodeFeed
+//     }
+//
+//     console.log(`Fetching ${type}(s) for IDs: ${missingTypeIDs}`)
+//
+//     const searchResponse = await anilistClient.searchAllIDS({ id: missingTypeIDs })
+//     const updatedFeed = episodeFeed.map(entry => {
+//         if (!entry[type]) {
+//             const matchedMedia = searchResponse.data.Page.media.find(media => media.id === entry.id)
+//             if (matchedMedia) {
+//                 const { episode, ...rest } = entry
+//                 return { ...rest, [type]: matchedMedia[type], episode }
+//             }
+//         }
+//         return entry
+//     }).sort((a, b) => new Date(b.episode.airedAt).getTime() - new Date(a.episode.airedAt).getTime())
+//
+//     saveJSON(path.join(`./raw/${feed}-episode-feed.json`), updatedFeed)
+//     saveJSON(path.join(`./readable/${feed}-episode-feed-readable.json`), updatedFeed, true)
+//     console.log(`${feed.includes('dub') ? 'Dubbed' : feed.includes('hentai') ? 'Hentai' : 'Subbed'} Episode feed successfully updated with missing ${type}(s).`)
+// }

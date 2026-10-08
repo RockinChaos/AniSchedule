@@ -11,81 +11,81 @@ jobs:
     timeout-minutes: 6
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v7
+      - name: Checkout repository
+        uses: actions/checkout@v7
 
-    - name: Set up pnpm
-      uses: pnpm/action-setup@v6
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v6
 
-    - name: Set up Node.js
-      uses: actions/setup-node@v6
-      with:
-        node-version: '24'
-        cache: pnpm
-        cache-dependency-path: pnpm-lock.yaml
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+          cache: pnpm
+          cache-dependency-path: pnpm-lock.yaml
 
-    - name: Install dependencies
-      run: pnpm install --frozen-lockfile
-      timeout-minutes: 1
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+        timeout-minutes: 1
 
-    - name: Run Node.js script
-      env:  # Pass the secret as an environment variable
-        ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
-      run: pnpm run update-subs
-      timeout-minutes: 4
+      - name: Run Node.js script
+        env:  # Pass the secret as an environment variable
+          ANILIST_TOKEN: ${{secrets.ANILIST_TOKEN}}
+        run: pnpm run update-subs
+        timeout-minutes: 4
 
-    - name: Commit and push JSON files
-      timeout-minutes: 1
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        if [ -f changes.txt ] && [ -s changes.txt ]; then
-          echo "Changes were made to the episode feed(s) in this run... attempting to commit these new changes."
-          git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/sub-schedule.json' './readable/sub-schedule-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'
-        else
-          git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/sub-schedule.json' './readable/sub-schedule-readable.json'
-        fi
-        
-        title="(Sub) Updated Airing Schedule"
-        if [ -f changes.txt ] && [ -s changes.txt ]; then
-          contains_sub=$(grep -q "(Sub)" changes.txt && echo true || echo false)
-          contains_hentai=$(grep -q "(Hentai)" changes.txt && echo true || echo false)
-          contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
-          contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
-          contains_delayed=$(grep -qi "delayed" changes.txt && echo true || echo false)
-          contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
-          contains_modified=$(grep -q "Modified" changes.txt && echo true || echo false)
-          schedule_changed=$(git diff --cached --name-only | grep -q "sub-schedule.json" && echo true || echo false)
-
-          type_prefix=""
-          if [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
-            type_prefix="(Sub/Hentai)"
-          elif [ "$contains_hentai" == "true" ]; then
-            type_prefix="(Hentai)"
+      - name: Commit and push JSON files
+        timeout-minutes: 1
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          if [ -f changes.txt ] && [ -s changes.txt ]; then
+            echo "Changes were made to the episode feed(s) in this run... attempting to commit these new changes."
+            git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/sub-schedule.json' './readable/sub-schedule-readable.json' './raw/sub-episode-feed.json' './readable/sub-episode-feed-readable.json' './raw/hentai-episode-feed.json' './readable/hentai-episode-feed-readable.json'
           else
-            type_prefix="(Sub)"
+            git add './raw/last-updated.json' './readable/last-updated-readable.json' './raw/sub-schedule.json' './readable/sub-schedule-readable.json'
           fi
-
-          actions=""
-          [ "$contains_added" == "true" ] && actions="${actions:+$actions/}Added"
-          [ "$contains_missing" == "true" ] && actions="${actions:+$actions/}Missing"
-          [ "$contains_removed" == "true" ] && actions="${actions:+$actions/}Removed"
-          [ "$contains_delayed" == "true" ] && actions="${actions:+$actions/}Delayed"
-          [ "$contains_modified" == "true" ] && actions="${actions:+$actions/}Modified"
-
-          title_parts=""
-          [ "$schedule_changed" == "true" ] && title_parts="Updated Airing Schedule"
-          [ -n "$actions" ] && title_parts="${title_parts:+$title_parts | }$actions Episode(s)"
-          [ -n "$title_parts" ] && title="$type_prefix $title_parts" || title="$type_prefix Updated Airing Schedule"
-
-          git commit -m "$title" -m "$(cat changes.txt)" || exit 0
-        else
-          git commit -m "$title" || exit 0
-        fi
-        
-        for i in 1 2 3; do
-          git pull --rebase && git push && break
-          echo "Push attempt $i failed, retrying in 5s..."
-          sleep 5
-        done
+          
+          title="(Sub) Updated Airing Schedule"
+          if [ -f changes.txt ] && [ -s changes.txt ]; then
+            contains_sub=$(grep -q "(Sub)" changes.txt && echo true || echo false)
+            contains_hentai=$(grep -q "(Hentai)" changes.txt && echo true || echo false)
+            contains_added=$(grep -q "Added" changes.txt && echo true || echo false)
+            contains_removed=$(grep -q "Removed" changes.txt && echo true || echo false)
+            contains_delayed=$(grep -qi "delayed" changes.txt && echo true || echo false)
+            contains_missing=$(grep -q "Missing" changes.txt && echo true || echo false)
+            contains_modified=$(grep -q "Modified" changes.txt && echo true || echo false)
+            schedule_changed=$(git diff --cached --name-only | grep -q "sub-schedule.json" && echo true || echo false)
+          
+            type_prefix=""
+            if [ "$contains_sub" == "true" ] && [ "$contains_hentai" == "true" ]; then
+              type_prefix="(Sub/Hentai)"
+            elif [ "$contains_hentai" == "true" ]; then
+              type_prefix="(Hentai)"
+            else
+              type_prefix="(Sub)"
+            fi
+          
+            actions=""
+            [ "$contains_added" == "true" ] && actions="${actions:+$actions/}Added"
+            [ "$contains_missing" == "true" ] && actions="${actions:+$actions/}Missing"
+            [ "$contains_removed" == "true" ] && actions="${actions:+$actions/}Removed"
+            [ "$contains_delayed" == "true" ] && actions="${actions:+$actions/}Delayed"
+            [ "$contains_modified" == "true" ] && actions="${actions:+$actions/}Modified"
+          
+            title_parts=""
+            [ "$schedule_changed" == "true" ] && title_parts="Updated Airing Schedule"
+            [ -n "$actions" ] && title_parts="${title_parts:+$title_parts | }$actions Episode(s)"
+            [ -n "$title_parts" ] && title="$type_prefix $title_parts" || title="$type_prefix Updated Airing Schedule"
+          
+            git commit -m "$title" -m "$(cat changes.txt)" || exit 0
+          else
+            git commit -m "$title" || exit 0
+          fi
+          
+          for i in 1 2 3; do
+            git pull --rebase && git push && break
+            echo "Push attempt $i failed, retrying in 5s..."
+            sleep 5
+          done
