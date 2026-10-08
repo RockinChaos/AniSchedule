@@ -10272,5 +10272,82 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 218008,
+    "title": {
+      "romaji": "Chibi Godzilla no Gyakushuu Season 4",
+      "native": "ちびゴジラの逆襲 シーズン4",
+      "userPreferred": "Chibi Godzilla no Gyakushuu Season 4"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "duration": 3,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218008-pDrQDUyfAnm6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b218008-pDrQDUyfAnm6.jpg",
+      "color": "#e4a150"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 15,
+          "airingAt": 1791929100
+        },
+        {
+          "episode": 16,
+          "airingAt": 1793138700
+        },
+        {
+          "episode": 17,
+          "airingAt": 1794348300
+        },
+        {
+          "episode": 18,
+          "airingAt": 1795557900
+        },
+        {
+          "episode": 19,
+          "airingAt": 1796767500
+        },
+        {
+          "episode": 20,
+          "airingAt": 1797977100
+        },
+        {
+          "episode": 21,
+          "airingAt": 1799186700
+        },
+        {
+          "episode": 22,
+          "airingAt": 1800396300
+        },
+        {
+          "episode": 23,
+          "airingAt": 1801605900
+        },
+        {
+          "episode": 24,
+          "airingAt": 1802815500
+        },
+        {
+          "episode": 25,
+          "airingAt": 1804025100
+        },
+        {
+          "episode": 26,
+          "airingAt": 1805234700
+        },
+        {
+          "episode": 27,
+          "airingAt": 1806444300
+        }
+      ]
+    }
   }
 ]
