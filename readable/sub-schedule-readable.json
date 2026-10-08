@@ -4332,10 +4332,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791471600
-        },
-        {
           "episode": 2,
           "airingAt": 1792076400
         },
@@ -4380,8 +4376,7 @@
           "airingAt": 1798124400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 200294,
@@ -4700,35 +4695,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 202390,
-    "idMal": 39168,
-    "title": {
-      "romaji": "Girls und Panzer: Saishuushou 5",
-      "native": "ガールズ＆パンツァー 最終章 第5話",
-      "userPreferred": "Girls und Panzer: Saishuushou 5"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Sports"
-    ],
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b202390-XrdgWaUKxDUg.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b202390-XrdgWaUKxDUg.jpg"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1791471600
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 202957,
@@ -6097,37 +6063,6 @@
     }
   },
   {
-    "id": 207327,
-    "idMal": 63423,
-    "title": {
-      "romaji": "Doko yori mo Tooi Basho ni Iru Kimi e",
-      "english": "To You in the Beyond",
-      "native": "どこよりも遠い場所にいる君へ",
-      "userPreferred": "To You in the Beyond"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Mystery",
-      "Romance"
-    ],
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207327-OSrMbh8DrGE4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207327-OSrMbh8DrGE4.jpg",
-      "color": "#f1d6ae"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1791471600
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 207329,
     "idMal": 63431,
     "title": {
@@ -7293,10 +7228,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1791471600
-        },
-        {
           "episode": 3,
           "airingAt": 1792076400
         },
@@ -7759,10 +7690,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213066-Y3rcsqcukLBm.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1791471600
-        },
         {
           "episode": 3,
           "airingAt": 1794495600
@@ -8589,10 +8516,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1791471360
-        },
-        {
           "episode": 3,
           "airingAt": 1792076160
         },
@@ -8819,10 +8742,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1791471600
-        },
         {
           "episode": 3,
           "airingAt": 1791770400
