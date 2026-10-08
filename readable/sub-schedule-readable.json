@@ -2477,6 +2477,81 @@
     "unaired": true
   },
   {
+    "id": 186822,
+    "idMal": 61035,
+    "title": {
+      "romaji": "Ki ni Natteru Hito ga Otoko ja Nakatta",
+      "english": "The Guy She Was Interested In Wasn't a Guy At All",
+      "native": "気になってる人が男じゃなかった",
+      "userPreferred": "The Guy She Was Interested In Wasn't a Guy At All"
+    },
+    "format": "TV",
+    "genres": [
+      "Music",
+      "Romance"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186822-9zsR5NtOP0yJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186822-9zsR5NtOP0yJ.jpg",
+      "color": "#a1d61a"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799416800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1800021600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800626400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1801231200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801836000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802440800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1803045600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803650400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1804255200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804860000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805464800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1806069600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 187316,
     "idMal": 61140,
     "title": {
