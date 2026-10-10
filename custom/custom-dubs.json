@@ -26,33 +26,5 @@
     },
     "airingStatus": "aired",
     "unaired": false
-  },
-  {
-    "title": "Overflow",
-    "route": "overflow",
-    "romaji": "Overflow",
-    "english": "Overflow",
-    "native": "おーばーふろぉ",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "status": "Ongoing",
-    "episodeDate": "2026-10-10T23:00:00Z",
-    "episodeNumber": 8,
-    "episodes": 8,
-    "lengthMin": 7,
-    "donghua": false,
-    "airType": "dub",
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "websites": {
-      "aniList": "https://anilist.co/anime/113417",
-      "mal": "https://myanimelist.net/anime/40746"
-    },
-    "airingStatus": "aired",
-    "unaired": false
   }
 ]
