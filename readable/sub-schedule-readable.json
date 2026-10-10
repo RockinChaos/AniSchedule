@@ -1365,10 +1365,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1791644400
-        },
-        {
           "episode": 4,
           "airingAt": 1792249200
         },
@@ -3100,10 +3096,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1791646200
-        },
-        {
           "episode": 3,
           "airingAt": 1792251000
         },
@@ -3531,6 +3523,77 @@
     "unaired": true
   },
   {
+    "id": 195571,
+    "idMal": 61999,
+    "title": {
+      "romaji": "Shuiro no Kamen",
+      "english": "The Vermilion Mask",
+      "native": "朱色の仮面"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Drama",
+      "Supernatural"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195571-fvj7u5GI7BRT.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195571-fvj7u5GI7BRT.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1792225800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792830600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793435400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794040200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794645000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795249800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795854600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796459400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797064200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797669000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798273800
+        }
+      ]
+    }
+  },
+  {
     "id": 195604,
     "idMal": 61967,
     "title": {
@@ -3843,10 +3906,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1791642600
-        },
         {
           "episode": 3,
           "airingAt": 1792247400
@@ -4934,10 +4993,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791643500
-        },
-        {
           "episode": 2,
           "airingAt": 1792248300
         },
@@ -4982,8 +5037,7 @@
           "airingAt": 1798296300
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 203490,
@@ -6753,10 +6807,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1791642600
-        },
-        {
           "episode": 3,
           "airingAt": 1792247400
         },
@@ -6989,33 +7039,6 @@
         {
           "episode": 11,
           "airingAt": 1796371200
-        }
-      ]
-    }
-  },
-  {
-    "id": 211181,
-    "title": {
-      "romaji": "Mu Shen Ji 4",
-      "native": "牧神记4"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211181-93dehu3v5xHE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211181-93dehu3v5xHE.png",
-      "color": "#d6ae6b"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1791644400
         }
       ]
     }
