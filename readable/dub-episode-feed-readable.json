@@ -275,17 +275,6 @@
     }
   },
   {
-    "id": 140842,
-    "idMal": 50250,
-    "format": "TV_SHORT",
-    "duration": 2,
-    "episode": {
-      "aired": 2,
-      "airedAt": "2026-10-04T21:00:00Z",
-      "addedAt": "2026-10-05T06:45:30Z"
-    }
-  },
-  {
     "id": 208685,
     "idMal": 63619,
     "format": "ONA",
@@ -305,6 +294,17 @@
       "aired": 1,
       "airedAt": "2026-10-04T16:05:00Z",
       "addedAt": "2026-10-04T16:05:22Z"
+    }
+  },
+  {
+    "id": 140842,
+    "idMal": 50250,
+    "format": "TV_SHORT",
+    "duration": 2,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-10-04T16:00:00Z",
+      "addedAt": "2026-10-05T06:45:30Z"
     }
   },
   {
