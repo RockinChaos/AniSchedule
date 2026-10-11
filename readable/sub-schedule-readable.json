@@ -2213,10 +2213,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1791729000
-        },
-        {
           "episode": 4,
           "airingAt": 1792333800
         },
@@ -4564,10 +4560,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1791729000
-        },
-        {
           "episode": 3,
           "airingAt": 1792333800
         },
@@ -5486,10 +5478,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791729000
-        },
-        {
           "episode": 2,
           "airingAt": 1792333800
         },
@@ -5534,8 +5522,7 @@
           "airingAt": 1798381800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 205909,
@@ -5900,10 +5887,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791728160
-        },
-        {
           "episode": 2,
           "airingAt": 1792332960
         },
@@ -5948,8 +5931,7 @@
           "airingAt": 1798380960
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 206949,
@@ -6565,10 +6547,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1791727200
-        },
-        {
           "episode": 3,
           "airingAt": 1792332000
         },
@@ -6663,6 +6641,10 @@
         {
           "episode": 26,
           "airingAt": 1806242400
+        },
+        {
+          "episode": 27,
+          "airingAt": 1806847200
         }
       ]
     }
@@ -7567,10 +7549,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1791729000
-        },
         {
           "episode": 4,
           "airingAt": 1792333800
