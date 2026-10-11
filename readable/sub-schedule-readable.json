@@ -462,10 +462,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 387,
-          "airingAt": 1791709200
-        },
-        {
           "episode": 388,
           "airingAt": 1792314000
         },
@@ -3153,10 +3149,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1791705600
-        },
         {
           "episode": 3,
           "airingAt": 1792310400
@@ -8260,10 +8252,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1791705600
-        },
-        {
           "episode": 2,
           "airingAt": 1792310400
         },
@@ -8308,8 +8296,7 @@
           "airingAt": 1798358400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 213658,
@@ -8332,10 +8319,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1791707400
-        },
         {
           "episode": 2,
           "airingAt": 1792312200
@@ -8381,8 +8364,7 @@
           "airingAt": 1798360200
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 213686,
