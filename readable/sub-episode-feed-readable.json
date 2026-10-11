@@ -142,17 +142,6 @@
     }
   },
   {
-    "id": 215835,
-    "idMal": 64867,
-    "format": "ONA",
-    "duration": 3,
-    "episode": {
-      "aired": 3,
-      "airedAt": "2026-10-11T13:30:00Z",
-      "addedAt": "2026-10-11T13:30:12Z"
-    }
-  },
-  {
     "id": 202079,
     "idMal": 62907,
     "format": "TV",
@@ -172,6 +161,17 @@
       "aired": 2,
       "airedAt": "2026-10-11T12:30:00Z",
       "addedAt": "2026-10-11T12:30:06Z"
+    }
+  },
+  {
+    "id": 215835,
+    "idMal": 64867,
+    "format": "ONA",
+    "duration": 3,
+    "episode": {
+      "aired": 3,
+      "airedAt": "2026-10-11T12:00:00Z",
+      "addedAt": "2026-10-11T13:30:12Z"
     }
   },
   {
@@ -1344,17 +1344,6 @@
     }
   },
   {
-    "id": 215835,
-    "idMal": 64867,
-    "format": "ONA",
-    "duration": 3,
-    "episode": {
-      "aired": 2,
-      "airedAt": "2026-10-04T13:30:00Z",
-      "addedAt": "2026-10-04T13:30:13Z"
-    }
-  },
-  {
     "id": 202079,
     "idMal": 62907,
     "format": "TV",
@@ -1374,6 +1363,17 @@
       "aired": 1,
       "airedAt": "2026-10-04T12:30:00Z",
       "addedAt": "2026-10-04T12:30:17Z"
+    }
+  },
+  {
+    "id": 215835,
+    "idMal": 64867,
+    "format": "ONA",
+    "duration": 3,
+    "episode": {
+      "aired": 2,
+      "airedAt": "2026-10-04T12:00:00Z",
+      "addedAt": "2026-10-04T13:30:13Z"
     }
   },
   {
@@ -2305,17 +2305,6 @@
     }
   },
   {
-    "id": 215835,
-    "idMal": 64867,
-    "format": "ONA",
-    "duration": 3,
-    "episode": {
-      "aired": 1,
-      "airedAt": "2026-09-27T14:40:00Z",
-      "addedAt": "2026-09-27T14:45:27Z"
-    }
-  },
-  {
     "id": 212888,
     "idMal": 64340,
     "format": "ONA",
@@ -2346,6 +2335,17 @@
       "aired": 13,
       "airedAt": "2026-09-27T14:00:00Z",
       "addedAt": "2026-09-27T14:00:17Z"
+    }
+  },
+  {
+    "id": 215835,
+    "idMal": 64867,
+    "format": "ONA",
+    "duration": 3,
+    "episode": {
+      "aired": 1,
+      "airedAt": "2026-09-27T12:00:00Z",
+      "addedAt": "2026-09-27T14:45:27Z"
     }
   },
   {
