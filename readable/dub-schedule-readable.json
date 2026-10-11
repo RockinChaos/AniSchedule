@@ -2111,6 +2111,60 @@
     "addedAt": "2026-10-04T18:45:21Z"
   },
   {
+    "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+    "route": "tensei-kizoku-kantei-skill-de-nariagaru-3rd-season",
+    "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+    "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World 3rd Season",
+    "native": "転生貴族、鑑定スキルで成り上がる 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-11T15:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 185756,
+        "idMal": 60601,
+        "title": {
+          "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+          "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+          "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185756-xPCl0RyQ7fXD.jpg",
+          "color": "#d6f1c9"
+        },
+        "isAdult": false,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-10-18T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-11T18:00:23Z"
+  },
+  {
     "title": "Tensei shitara Ken deshita 2",
     "route": "tensei-shitara-ken-deshita-2",
     "romaji": "Tensei Shitara Ken Deshita 2",

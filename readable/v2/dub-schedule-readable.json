@@ -806,6 +806,44 @@
     }
   },
   {
+    "id": 185756,
+    "idMal": 60601,
+    "title": {
+      "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+      "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+      "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185756-xPCl0RyQ7fXD.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185756-xPCl0RyQ7fXD.jpg",
+      "color": "#d6f1c9"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1792335600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1792940400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793545200
+        }
+      ]
+    }
+  },
+  {
     "id": 185874,
     "idMal": 60636,
     "title": {
