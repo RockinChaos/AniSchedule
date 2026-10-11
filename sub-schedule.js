@@ -215,7 +215,7 @@ async function findMissingEpisodes() {
         let missingEpisodes = 0
         const currentDate = new Date()
         for (const gap of gapEpisodes) {
-            const aniMappings = await getAniMappings(gap.id)
+            const aniMappings = await getAniMappings({ id: gap.id, idMal: gap.idMal })
             const sortedExistingEpisodes = gap.existingFeedEpisodes.sort((a, b) => b.episode.aired - a.episode.aired)
             const highestExistingEpisode = sortedExistingEpisodes[0]
             const minAirdate = highestExistingEpisode ? new Date(highestExistingEpisode.episode.airedAt) : null

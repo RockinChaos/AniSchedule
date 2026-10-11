@@ -25,7 +25,7 @@ import { sleep } from './util.js'
 //  */
 // export async function hasZeroEpisode(media, existingMappings) { // really wish they could make fetching zero episodes less painful.
 //     if (!media) return null
-//     const mappings = existingMappings || (await getAniMappings(media.id)) || {}
+//     const mappings = existingMappings || (await getAniMappings(media)) || {}
 //     const hasZeroEpisode = media.streamingEpisodes?.filter((ep) => { const match = (/Episode (\d+(\.\d+)?) - /).exec(ep.title); return match ? Number.isInteger(parseFloat(match[1])) && Number(parseFloat(match[1])) === 0 : false})
 //     const zeroAsFirstEpisode = /episode\s*0/i.test(mappings?.episodes?.[1]?.title?.en || mappings?.episodes?.[1]?.title?.jp) // The first episode is titled as Episode 0 so this is likely a Prologue, fixes issues with series like `Fate/stay night: Unlimited Blade Works`
 //     // no clue what fixed Mushoku but this initial part seems to allow 'Episode 0 : Guardian Fits' to properly be mapped to season 2 part 1, ensure when making changes this doesn't appear on season 1 part 1.
@@ -43,11 +43,8 @@ import { sleep } from './util.js'
 const concurrentRequests = new Map()
 let aniRateLimitPromise = null
 const aniLimiter = new Bottleneck({
-    reservoir: 200,
-    reservoirRefreshAmount: 200,
-    reservoirRefreshInterval: 30_000,
-    maxConcurrent: 20,
-    minTime: 10
+    maxConcurrent: 30,
+    minTime: 110
 })
 aniLimiter.on('failed', async (error) => {
     if (error.status === 500) return 1
@@ -59,18 +56,20 @@ aniLimiter.on('failed', async (error) => {
     if (!aniRateLimitPromise) aniRateLimitPromise = sleep(time).then(() => { aniRateLimitPromise = null })
     return time
 })
-export async function getAniMappings(anilistID) {
-    if (!anilistID) return
-    if (concurrentRequests.has(`ani-${anilistID}`)) return concurrentRequests.get(`ani-${anilistID}`)
+export async function getAniMappings(opts) {
+    if (!opts?.id && !opts?.idMal) return
+    const cacheKey = opts.id ? `ani-${opts.id}` : `mal-${opts.idMal}`
+    if (concurrentRequests.has(cacheKey)) return concurrentRequests.get(cacheKey)
     const requestPromise = aniLimiter.wrap(async () => {
         await aniRateLimitPromise
-        let res = {}
+        let res
         try {
-            res = await fetch(`https://api.ani.zip/mappings?anilist_id=${anilistID}`)
+            res = await fetch(`https://api.ani.zip/v1/episodes?${opts.id ? `anilist_id=${opts.id}` : `mal_id=${opts.idMal}`}`)
+            if (res?.status === 404 && opts.id && opts.idMal) res = await fetch(`https://api.ani.zip/v1/episodes?mal_id=${opts.idMal}`)
         } catch (e) {
             if (!res || res.status !== 404) throw e
         }
-        if (!res.ok && (res.status === 429 || res.status === 500)) {
+        if (!res.ok && (res.status === 429 || res.status >= 500)) {
             throw res
         }
         let json = null
@@ -90,8 +89,8 @@ export async function getAniMappings(anilistID) {
         }
         return json
     })().finally(() => {
-        concurrentRequests.delete(`ani-${anilistID}`)
+        concurrentRequests.delete(cacheKey)
     })
-    concurrentRequests.set(`ani-${anilistID}`, requestPromise)
+    concurrentRequests.set(cacheKey, requestPromise)
     return requestPromise
 }
