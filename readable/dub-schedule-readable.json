@@ -2559,6 +2559,62 @@
     "addedAt": "2026-09-09T17:15:20Z"
   },
   {
+    "title": "Youjo Senki Movie",
+    "route": "youjo-senki-movie",
+    "romaji": "Youjo Senki Movie",
+    "english": "Saga of Tanya the Evil: The Movie",
+    "native": "劇場版 幼女戦記",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-12T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 98,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 100878,
+        "idMal": 37055,
+        "title": {
+          "romaji": "Youjo Senki Movie",
+          "english": "Saga of Tanya the Evil - the Movie -",
+          "native": "劇場版 幼女戦記"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Fantasy"
+        ],
+        "duration": 98,
+        "seasonYear": 2019,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100878-npKVJvggmK6a.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100878-npKVJvggmK6a.jpg",
+          "color": "#f1e4c9"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100878-Lslq3VqoNanU.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-12T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-12T21:30:26Z"
+  },
+  {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
     "route": "yu-gi-oh-go-rush",
     "native": "遊☆戯☆王ゴーラッシュ!!",
