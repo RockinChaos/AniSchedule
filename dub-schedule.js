@@ -512,7 +512,7 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
     const feed = new Map()
     const key = (id, episode) => `${id}:${episode}`
     for (const entry of exactFeed) {
-        const id = key(entry.id, entry.episode.aired)
+        const id = key(entry.id ?? entry.idMal, entry.episode.aired)
         if (!feed.has(id)) feed.set(id, structuredClone(entry))
         else changes.push(`(Dub) Removed duplicate Episode ${entry.episode.aired} for media ${entry.id}`)
     }
@@ -620,15 +620,15 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
         }
     }
 
-    // Keep batches together, with their highest episode first, then newest release first.
+    // Keep batches together, with their highest episode first, then newest release and highest media ID first.
     const groups = new Map()
     for (const entry of feed.values()) {
-        const id = `${entry.id}:${entry.episode.airedAt}`
+        const id = `${entry.id ?? entry.idMal}:${entry.episode.airedAt}`
         if (!groups.has(id)) groups.set(id, [])
         groups.get(id).push(entry)
     }
     const result = [...groups.values()].flatMap(group => group.sort((a, b) => b.episode.aired - a.episode.aired))
-        .sort((a, b) => Date.parse(b.episode.airedAt) - Date.parse(a.episode.airedAt))
+        .sort((a, b) => Date.parse(b.episode.airedAt) - Date.parse(a.episode.airedAt) || (b.id ?? b.idMal) - (a.id ?? a.idMal))
         // Preserve the original property order for new, repaired and existing feed entries.
         .map(({ id, idMal, format, duration, episode, ...rest }) => omitNullish({ id, idMal, format, duration, ...rest, episode }))
     const feedChanged = JSON.stringify(result) !== JSON.stringify(exactFeed)
