@@ -1218,6 +1218,7 @@
     "delayedUntil": "0001-01-01T14:00:00Z",
     "episodeDate": "2026-10-18T14:00:00Z",
     "episodeNumber": 3,
+    "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2208,8 +2209,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-10-13T15:30:00Z"
+              "episode": 3,
+              "airingAt": "2026-10-20T15:30:00Z"
             }
           ]
         }
