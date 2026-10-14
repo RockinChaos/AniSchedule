@@ -1663,8 +1663,9 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-10-14T14:00:00Z",
+    "delayedUntil": "2026-10-21T14:00:00Z",
     "episodeDate": "2026-10-14T14:00:00Z",
     "episodeNumber": 19,
     "episodes": 19,
@@ -1675,7 +1676,7 @@
         "route": "tv"
       }
     ],
-    "overrideDate": "2026-08-26T00:00:00Z",
+    "overrideDate": "2026-10-14T00:00:00Z",
     "unaired": false,
     "media": {
       "media": {
@@ -1709,7 +1710,7 @@
           "nodes": [
             {
               "episode": 19,
-              "airingAt": "2026-10-14T14:00:00Z"
+              "airingAt": "2026-10-21T14:00:00Z"
             }
           ]
         }
