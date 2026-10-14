@@ -4191,10 +4191,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1791943200
-        },
-        {
           "episode": 16,
           "airingAt": 1792548000
         },
@@ -4289,6 +4285,10 @@
         {
           "episode": 39,
           "airingAt": 1806458400
+        },
+        {
+          "episode": 40,
+          "airingAt": 1807063200
         }
       ]
     }
@@ -8079,37 +8079,6 @@
     "unaired": true
   },
   {
-    "id": 213486,
-    "idMal": 64461,
-    "title": {
-      "romaji": "You Shou Yan 6th Season",
-      "english": "Fabulous Beasts 6",
-      "native": "有兽焉 第六季"
-    },
-    "format": "ONA",
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "duration": 6,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b213486-0hRJQlfdtajf.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b213486-0hRJQlfdtajf.png",
-      "color": "#43c9f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213486-I5RpUqCjdvfR.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1791943200
-        }
-      ]
-    }
-  },
-  {
     "id": 213657,
     "idMal": 64503,
     "title": {
@@ -8767,10 +8736,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1791943200
-        },
-        {
           "episode": 6,
           "airingAt": 1792548000
         },
@@ -8865,6 +8830,10 @@
         {
           "episode": 29,
           "airingAt": 1806458400
+        },
+        {
+          "episode": 30,
+          "airingAt": 1807063200
         }
       ]
     }
