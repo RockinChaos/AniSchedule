@@ -636,8 +636,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 11,
-              "airingAt": "2026-10-14T17:00:00Z"
+              "episode": 12,
+              "airingAt": "2026-10-21T17:00:00Z"
             }
           ]
         }
@@ -859,8 +859,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-10-14T17:15:00Z"
+              "episode": 3,
+              "airingAt": "2026-10-21T17:15:00Z"
             }
           ]
         }
@@ -1658,67 +1658,6 @@
     "addedAt": "2026-10-03T16:25:00Z"
   },
   {
-    "title": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
-    "route": "re-zero-kara-hajimeru-isekai-seikatsu-4",
-    "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
-    "english": "Re:Zero - Starting Life in Another World 4",
-    "native": "Re:ゼロから始める異世界生活 4",
-    "delayedFrom": "0001-01-01T14:00:00Z",
-    "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-10-14T14:00:00Z",
-    "episodeNumber": 19,
-    "episodes": 19,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-08-26T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 189046,
-        "idMal": 61316,
-        "title": {
-          "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
-          "english": "Re:ZERO -Starting Life in Another World- Season 4",
-          "native": "Re:ゼロから始める異世界生活 4th season"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy",
-          "Psychological",
-          "Romance",
-          "Thriller"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx189046-yaHWtS5FII46.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189046-yaHWtS5FII46.jpg",
-          "color": "#e49350"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189046-MDk2CaVuRWpb.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 19,
-              "airingAt": "2026-10-14T14:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-08-31T07:45:20Z"
-  },
-  {
     "title": "Rilakkuma: Goyururi Yume no Tabi",
     "route": "rilakkuma",
     "native": "リラックマ ～ごゆるり夢の旅～",
@@ -1933,8 +1872,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-10-14T17:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-10-21T17:00:00Z"
             }
           ]
         }
@@ -2436,8 +2375,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
-              "airingAt": "2026-10-14T17:00:00Z"
+              "episode": 9,
+              "airingAt": "2026-10-21T17:00:00Z"
             }
           ]
         }
