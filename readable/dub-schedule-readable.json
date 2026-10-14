@@ -1888,6 +1888,62 @@
     "addedAt": "2026-08-28T18:45:25Z"
   },
   {
+    "title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
+    "route": "shin-tennis-no-oujisama-u-17-world-cup-kesshou-member-ketteisen",
+    "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+    "english": "The Prince of Tennis II U-17 WORLD CUP: The Final Tryouts",
+    "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-10-14T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 13,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 199068,
+        "idMal": 62534,
+        "title": {
+          "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+          "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+          "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Sports"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-2afNaytl50Ko.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199068-2afNaytl50Ko.png",
+          "color": "#d61a1a"
+        },
+        "isAdult": false,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-10-21T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-14T19:15:24Z"
+  },
+  {
     "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
     "route": "suterare-seijo-no-isekai-gohan-tabi-kakure-skill-de-camping-car-wo-shoukan-shimashita",
     "romaji": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
@@ -1995,6 +2051,116 @@
     },
     "verified": false,
     "addedAt": "2026-10-04T18:45:21Z"
+  },
+  {
+    "title": "Tennis no Ouji-sama: Atobe Kara no Okurimono",
+    "route": "tennis-no-ouji-sama-atobe-kara-no-okurimono",
+    "romaji": "Tennis no Ouji-sama: Atobe Kara no Okurimono",
+    "english": "Prince of Tennis: Atobe's Gift",
+    "native": "跡部からの贈り物",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-14T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 30,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 814,
+        "idMal": 814,
+        "title": {
+          "romaji": "Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipuri Matsuri",
+          "native": "テニスの王子様 跡部からの贈り物 ～君に捧げるテニプリ祭り～"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Comedy",
+          "Sports"
+        ],
+        "duration": 30,
+        "seasonYear": 2005,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/814.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/814.jpg",
+          "color": "#f1431a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/814-Djzu5b7dYTne.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-14T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-14T19:15:24Z"
+  },
+  {
+    "title": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
+    "route": "tennis-no-ouji-sama-futari-no-samurai-the-first-game",
+    "romaji": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
+    "english": "The Prince of Tennis: The Two Samurai, The First Game",
+    "native": "劇場版 テニスの王子様 二人のサムライ The First Game",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-14T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 65,
+    "mediaTypes": [
+      {
+        "name": "Movie",
+        "route": "movie"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 815,
+        "idMal": 815,
+        "title": {
+          "romaji": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
+          "native": "劇場版 テニスの王子様 二人のサムライ The First Game"
+        },
+        "format": "MOVIE",
+        "genres": [
+          "Action",
+          "Sports"
+        ],
+        "duration": 65,
+        "seasonYear": 2005,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx815-TLNWfX0jUwWp.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx815-TLNWfX0jUwWp.png",
+          "color": "#d6931a"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/815-bMb1R4dD8nxA.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-14T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-14T19:15:24Z"
   },
   {
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",

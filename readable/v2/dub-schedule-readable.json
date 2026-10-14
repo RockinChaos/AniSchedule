@@ -1341,6 +1341,81 @@
     }
   },
   {
+    "id": 199068,
+    "idMal": 62534,
+    "title": {
+      "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+      "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+      "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sports"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199068-2afNaytl50Ko.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199068-2afNaytl50Ko.png",
+      "color": "#d61a1a"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1792598400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1793203200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1793808000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794412800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1795017600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795622400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1796227200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796832000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797436800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1798041600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798646400
+        },
+        {
+          "episode": 13,
+          "airingAt": 1799251200
+        }
+      ]
+    }
+  },
+  {
     "id": 202523,
     "idMal": 62983,
     "title": {
