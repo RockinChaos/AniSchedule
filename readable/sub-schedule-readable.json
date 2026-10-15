@@ -3671,35 +3671,6 @@
     }
   },
   {
-    "id": 197543,
-    "idMal": 62270,
-    "title": {
-      "romaji": "BanG Dream! Ave Mujica: prima aurora",
-      "native": "BanG Dream! Ave Mujica prima aurora"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Music"
-    ],
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197543-UhIhht4Gku8z.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197543-UhIhht4Gku8z.png",
-      "color": "#4393e4"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1792076400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 198044,
     "idMal": 64053,
     "title": {
@@ -4049,39 +4020,6 @@
     "unaired": true
   },
   {
-    "id": 199340,
-    "idMal": 62582,
-    "title": {
-      "romaji": "Seishun Buta Yarou wa Dear Friend no Yume wo Minai",
-      "english": "Rascal Does Not Dream of a Dear Friend",
-      "native": "青春ブタ野郎はディアフレンドの夢を見ない"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Drama",
-      "Psychological",
-      "Romance",
-      "Supernatural"
-    ],
-    "duration": 118,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199340-YQlmzvmcJzyt.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199340-YQlmzvmcJzyt.jpg",
-      "color": "#5da1f1"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1792076400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 199353,
     "idMal": 60597,
     "title": {
@@ -4352,10 +4290,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199594-iw8KRAiBp3sO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1792076400
-        },
         {
           "episode": 3,
           "airingAt": 1792681200
@@ -7123,10 +7057,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792076400
-        },
-        {
           "episode": 4,
           "airingAt": 1792681200
         },
@@ -7560,34 +7490,6 @@
         {
           "episode": 3,
           "airingAt": 1794495600
-        }
-      ]
-    }
-  },
-  {
-    "id": 213067,
-    "idMal": 64405,
-    "title": {
-      "romaji": "Netorareta Bakunyuu Tsuma-tachi 2",
-      "native": "寝取られた爆乳妻たち2"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213067-KYqjKEUZ6tBM.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213067-KYqjKEUZ6tBM.png",
-      "color": "#f1ae93"
-    },
-    "isAdult": true,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1792076400
         }
       ]
     }
@@ -8326,10 +8228,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792076160
-        },
-        {
           "episode": 4,
           "airingAt": 1792680960
         },
@@ -8544,10 +8442,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1792076400
-        },
         {
           "episode": 5,
           "airingAt": 1792375200
