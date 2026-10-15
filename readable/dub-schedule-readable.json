@@ -926,6 +926,62 @@
     "addedAt": "2026-10-01T15:30:00Z"
   },
   {
+    "title": "Kusuriya no Hitorigoto 3rd Season",
+    "route": "kusuriya-no-hitorigoto-zoku-hen",
+    "romaji": "Kusuriya no Hitorigoto 3rd Season",
+    "english": "The Apothecary Diaries 3rd Season",
+    "native": "薬屋のひとりごと 第3期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-16T15:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 195516,
+        "idMal": 61987,
+        "title": {
+          "romaji": "Kusuriya no Hitorigoto 3rd Season",
+          "english": "The Apothecary Diaries Season 3",
+          "native": "薬屋のひとりごと 第3期"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Mystery"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195516-MJpUZlOberqH.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195516-MJpUZlOberqH.jpg",
+          "color": "#e4a128"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPaQbQXI.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-16T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-16T15:00:00Z"
+  },
+  {
     "title": "LIAR GAME",
     "route": "liar-game",
     "native": "ライアーゲーム",
