@@ -607,10 +607,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1792081800
-        },
-        {
           "episode": 15,
           "airingAt": 1792686600
         },
@@ -1411,10 +1407,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1792083600
-        },
-        {
           "episode": 8,
           "airingAt": 1792688400
         }
@@ -1577,38 +1569,6 @@
         {
           "episode": 8,
           "airingAt": 1795363200
-        }
-      ]
-    }
-  },
-  {
-    "id": 207141,
-    "idMal": 63403,
-    "title": {
-      "romaji": "Yani Neko",
-      "english": "Chainsmoker Cat",
-      "native": "ヤニねこ"
-    },
-    "format": "TV",
-    "genres": [
-      "Comedy",
-      "Ecchi",
-      "Slice of Life"
-    ],
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207141-h5q5KJPd6vaX.jpg",
-      "color": "#50a1f1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1792080000
         }
       ]
     }
