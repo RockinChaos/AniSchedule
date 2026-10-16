@@ -6242,10 +6242,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1792152000
-        },
-        {
           "episode": 3,
           "airingAt": 1792756800
         },
@@ -8519,6 +8515,32 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 214551,
+    "title": {
+      "romaji": "Oushun Jogakuen no Danyuu",
+      "native": "桜春女学院の男優"
+    },
+    "format": "ONA",
+    "genres": [
+      "Hentai"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214551-uDaf7UPVxN2v.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214551-uDaf7UPVxN2v.jpg",
+      "color": "#f128a1"
+    },
+    "isAdult": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1792681200
+        }
+      ]
+    }
   },
   {
     "id": 214593,
