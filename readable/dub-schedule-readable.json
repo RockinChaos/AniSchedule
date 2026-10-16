@@ -169,6 +169,61 @@
     "addedAt": "2025-05-16T17:11:29Z"
   },
   {
+    "title": "Black Clover 2nd Season",
+    "route": "black-clover-2nd-season",
+    "native": "ブラッククローバー 第2期",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-10-17T15:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 195604,
+        "idMal": 61967,
+        "title": {
+          "romaji": "Black Clover 2nd Season",
+          "english": "Black Clover Season 2",
+          "native": "ブラッククローバー 第2期"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Comedy",
+          "Fantasy"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx195604-tSZcfKbVqSEG.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195604-tSZcfKbVqSEG.jpg",
+          "color": "#f1a143"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195604-lQpCzTziSA17.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-17T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-17T15:00:00Z"
+  },
+  {
     "title": "BLEACH: Sennen Kessen-hen - Kashin-tan",
     "route": "bleach-sennen-kessen-hen-kashin-tan",
     "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
@@ -229,8 +284,8 @@
     "native": "ちいかわ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-16T16:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-10-18T16:00:00Z",
+    "episodeNumber": 8,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -266,8 +321,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-10-16T16:00:00Z"
+              "episode": 8,
+              "airingAt": "2026-10-18T16:00:00Z"
             }
           ]
         }
@@ -1426,8 +1481,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 9,
-              "airingAt": "2026-10-16T16:00:00Z"
+              "episode": 10,
+              "airingAt": "2026-10-23T16:00:00Z"
             }
           ]
         }
