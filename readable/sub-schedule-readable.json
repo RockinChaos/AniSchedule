@@ -5521,6 +5521,55 @@
     }
   },
   {
+    "id": 206244,
+    "title": {
+      "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
+      "native": "罗小黑战记 学前篇"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Supernatural"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206244-ke6bcfsL40qY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206244-ke6bcfsL40qY.jpg",
+      "color": "#f1bb50"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793332800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1793937600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1794542400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1795147200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1795752000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1796356800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 206298,
     "idMal": 63326,
     "title": {
