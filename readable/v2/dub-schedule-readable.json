@@ -1154,13 +1154,8 @@
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195516-B5M0cPaQbQXI.jpg",
-    "unaired": true,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1792162800
-        },
         {
           "episode": 2,
           "airingAt": 1792767600
