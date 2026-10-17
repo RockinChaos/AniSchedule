@@ -1508,6 +1508,43 @@
     }
   },
   {
+    "id": 203275,
+    "idMal": 63045,
+    "title": {
+      "romaji": "Demons' Crest",
+      "english": "Devils' Crest",
+      "native": "デモンズ・クレスト"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203275-YyNHygkzIjMC.jpg",
+      "color": "#0da1e4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+    "duration": 25,
+    "unaired": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793890800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1793890800
+        }
+      ]
+    }
+  },
+  {
     "id": 206401,
     "idMal": 63337,
     "title": {

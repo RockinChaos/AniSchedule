@@ -423,6 +423,65 @@
     "addedAt": "2026-10-20T07:00:00Z"
   },
   {
+    "title": "Demons' Crest",
+    "route": "demons-crest",
+    "romaji": "Demons' Crest",
+    "english": "Devils' Crest",
+    "native": "デモンズ・クレスト",
+    "delayedFrom": "0001-01-01T15:00:00Z",
+    "delayedUntil": "0001-01-01T15:00:00Z",
+    "episodeDate": "2026-11-05T15:00:00Z",
+    "episodeNumber": 2,
+    "subtractedEpisodeNumber": 1,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "overrideDate": "0001-01-01T00:00:00Z",
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 203275,
+        "idMal": 63045,
+        "title": {
+          "romaji": "Demons' Crest",
+          "english": "Devils' Crest",
+          "native": "デモンズ・クレスト"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203275-YyNHygkzIjMC.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203275-YyNHygkzIjMC.jpg",
+          "color": "#0da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203275-g8zkD7HCkJCn.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-11-05T15:00:00Z"
+            },
+            {
+              "episode": 2,
+              "airingAt": "2026-11-05T15:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-11-05T15:00:00Z"
+  },
+  {
     "title": "Dogul Wang",
     "route": "dogul-wang",
     "romaji": "Dogul Wang",
