@@ -10269,5 +10269,33 @@
         }
       ]
     }
+  },
+  {
+    "id": 218493,
+    "title": {
+      "romaji": "Wan Sheng Jie: Gubao de Mimi",
+      "native": "万圣街 古堡的秘密"
+    },
+    "format": "SPECIAL",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218493-Yn5zm71TmFol.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx218493-Yn5zm71TmFol.jpg",
+      "color": "#e4bb5d"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793412000
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
