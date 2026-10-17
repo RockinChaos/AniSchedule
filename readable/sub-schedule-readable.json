@@ -1387,10 +1387,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1792249200
-        },
-        {
           "episode": 5,
           "airingAt": 1792854000
         },
@@ -3099,10 +3095,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792251000
-        },
-        {
           "episode": 4,
           "airingAt": 1792855800
         },
@@ -3845,10 +3837,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1792247400
-        },
         {
           "episode": 4,
           "airingAt": 1792852200
@@ -4864,10 +4852,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1792248300
-        },
         {
           "episode": 3,
           "airingAt": 1792853100
@@ -6718,10 +6702,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792247400
-        },
-        {
           "episode": 4,
           "airingAt": 1792852200
         },
@@ -8400,6 +8380,34 @@
         }
       ]
     }
+  },
+  {
+    "id": 213814,
+    "idMal": 64541,
+    "title": {
+      "romaji": "Aikatsu Stars!: Hoshiboshi no Progress",
+      "native": "アイカツスターズ！ ～星々のProgress～"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Music"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213814-x9VFB4jU2TQJ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213814-x9VFB4jU2TQJ.png",
+      "color": "#f1bb5d"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1800543600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 214049,
