@@ -47,8 +47,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-10-17T15:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-10-24T15:00:00Z"
             }
           ]
         }
@@ -184,7 +184,7 @@
       }
     ],
     "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 195604,
@@ -213,8 +213,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-17T15:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-24T15:00:00Z"
             }
           ]
         }
@@ -1369,14 +1369,14 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-10-17T15:00:00Z"
+              "episode": 4,
+              "airingAt": "2026-10-24T15:00:00Z"
             }
           ]
         }
       }
     },
-    "verified": false,
+    "verified": true,
     "addedAt": "2026-10-03T15:00:00Z"
   },
   {
