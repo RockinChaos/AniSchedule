@@ -3755,6 +3755,7 @@
       "Comedy",
       "Romance"
     ],
+    "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
@@ -4685,10 +4686,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202957-B9U0hNv2Dqap.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 38,
-          "airingAt": 1792279800
-        },
         {
           "episode": 39,
           "airingAt": 1792884600
