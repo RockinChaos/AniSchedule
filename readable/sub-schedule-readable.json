@@ -2195,10 +2195,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1792333800
-        },
-        {
           "episode": 5,
           "airingAt": 1792938600
         },
@@ -4237,10 +4233,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792334700
-        },
-        {
           "episode": 4,
           "airingAt": 1792939500
         },
@@ -4439,10 +4431,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200455-rlIXyuk0jHE3.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1792333800
-        },
         {
           "episode": 4,
           "airingAt": 1792938600
@@ -5397,10 +5385,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1792333800
-        },
-        {
           "episode": 3,
           "airingAt": 1792938600
         },
@@ -5838,10 +5822,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1792332960
-        },
         {
           "episode": 3,
           "airingAt": 1792937760
@@ -6399,10 +6379,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792335600
-        },
-        {
           "episode": 4,
           "airingAt": 1792940400
         },
@@ -6464,10 +6440,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1792332000
-        },
         {
           "episode": 4,
           "airingAt": 1792936800
@@ -6563,6 +6535,10 @@
         {
           "episode": 27,
           "airingAt": 1806847200
+        },
+        {
+          "episode": 28,
+          "airingAt": 1807452000
         }
       ]
     }
@@ -6817,6 +6793,59 @@
         }
       ]
     }
+  },
+  {
+    "id": 210157,
+    "idMal": 63851,
+    "title": {
+      "romaji": "Love Live! Hasunosora Jogakuin School Idol Club",
+      "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+    },
+    "format": "TV",
+    "genres": [
+      "Music",
+      "Slice of Life"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210157-imNeWrCSUsez.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210157-imNeWrCSUsez.jpg",
+      "color": "#e4c95d"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799587800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1800192600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800797400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1801402200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1802007000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802611800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1803216600
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 210199,
@@ -7495,10 +7524,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1792333800
-        },
         {
           "episode": 5,
           "airingAt": 1792938600
