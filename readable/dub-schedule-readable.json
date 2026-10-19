@@ -7,8 +7,8 @@
     "native": "#ゾンビさがしてます",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-17T15:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-24T15:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -63,8 +63,8 @@
     "native": "アオアシ 第2期",
     "delayedFrom": "0001-01-01T09:00:00Z",
     "delayedUntil": "0001-01-01T09:00:00Z",
-    "episodeDate": "2026-10-18T09:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-10-25T09:00:00Z",
+    "episodeNumber": 2,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -118,8 +118,8 @@
     "native": "アオのハコ 第2期",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-10-18T08:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-25T08:00:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -173,7 +173,7 @@
     "delayedText": "Break",
     "delayedFrom": "2026-03-14T22:45:00Z",
     "delayedUntil": "2032-01-01T22:45:00Z",
-    "episodeDate": "2026-10-17T22:45:00Z",
+    "episodeDate": "2026-10-24T22:45:00Z",
     "episodeNumber": 101,
     "lengthMin": 23,
     "mediaTypes": [
@@ -227,8 +227,8 @@
     "native": "ブラッククローバー 第2期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-17T15:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-10-24T15:00:00Z",
+    "episodeNumber": 2,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -284,8 +284,8 @@
     "native": "BLEACH 千年血戦篇-禍進譚-",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-10-17T14:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-10-24T14:30:00Z",
+    "episodeNumber": 9,
     "episodes": 10,
     "lengthMin": 24,
     "mediaTypes": [
@@ -337,8 +337,8 @@
     "native": "ちいかわ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-18T16:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-10-20T16:00:00Z",
+    "episodeNumber": 9,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -375,7 +375,7 @@
           "nodes": [
             {
               "episode": 9,
-              "airingAt": "2026-10-25T16:00:00Z"
+              "airingAt": "2026-10-20T16:00:00Z"
             }
           ]
         }
@@ -535,68 +535,13 @@
     "addedAt": "2026-11-05T15:00:00Z"
   },
   {
-    "title": "Dogul Wang",
-    "route": "dogul-wang",
-    "romaji": "Dogul Wang",
-    "english": "Tomb Raider King",
-    "native": "도굴왕",
-    "delayedFrom": "2026-10-07T17:20:00Z",
-    "delayedUntil": "2026-10-14T17:20:00Z",
-    "episodeDate": "2026-10-14T17:20:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-10-07T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 184356,
-        "idMal": 63316,
-        "title": {
-          "romaji": "Dogul Wang",
-          "english": "Tomb Raider King",
-          "native": "도굴왕"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 23,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184356-SlFIstXUXJYP.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx184356-SlFIstXUXJYP.png",
-          "color": "#5d93e4"
-        },
-        "isAdult": false,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-10-14T17:20:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-07-22T18:00:24Z"
-  },
-  {
     "title": "Dungeons & Television",
     "route": "dungeons-and-television",
     "native": "ダンジョン＆テレビジョン",
     "delayedText": "Delayed",
     "delayedFrom": "2025-08-16T12:00:00Z",
     "delayedUntil": "2031-01-01T12:00:00Z",
-    "episodeDate": "2026-10-17T12:00:00Z",
+    "episodeDate": "2026-10-24T12:00:00Z",
     "episodeNumber": 2,
     "lengthMin": 5,
     "mediaTypes": [
@@ -649,8 +594,8 @@
     "native": "FX戦士くるみちゃん",
     "delayedFrom": "0001-01-01T12:30:00Z",
     "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2026-10-15T12:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-22T12:30:00Z",
+    "episodeNumber": 4,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -764,8 +709,8 @@
     "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-10-14T17:00:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-10-21T17:00:00Z",
+    "episodeNumber": 12,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -821,8 +766,8 @@
     "native": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
     "delayedFrom": "0001-01-01T16:05:00Z",
     "delayedUntil": "0001-01-01T16:05:00Z",
-    "episodeDate": "2026-10-18T16:05:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-25T16:05:00Z",
+    "episodeNumber": 4,
     "lengthMin": 7,
     "mediaTypes": [
       {
@@ -868,63 +813,6 @@
     "addedAt": "2026-10-04T04:05:00Z"
   },
   {
-    "title": "Honzuki no Gekokujou: Ryoushu no Youjo",
-    "route": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
-    "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-    "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-    "native": "本好きの下剋上 領主の養女",
-    "delayedFrom": "2026-09-12T09:30:00Z",
-    "delayedUntil": "2026-09-19T09:30:00Z",
-    "episodeDate": "2026-10-17T09:30:00Z",
-    "episodeNumber": 24,
-    "episodes": 24,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-09-12T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 171110,
-        "idMal": 57466,
-        "title": {
-          "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
-          "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-          "native": "本好きの下剋上 領主の養女"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Fantasy",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx171110-7zOdInS6DQNL.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx171110-7zOdInS6DQNL.jpg",
-          "color": "#5daee4"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/171110-lgtmKokpevUM.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 24,
-              "airingAt": "2026-10-17T09:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-18T09:30:00Z"
-  },
-  {
     "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run - 2nd - 3rd STAGE",
     "route": "jojo-no-kimyou-na-bouken-part-7-steel-ball-run-2nd-stage",
     "romaji": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run - 2nd - 3rd STAGE",
@@ -932,8 +820,8 @@
     "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-10-16T08:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-10-23T08:00:00Z",
+    "episodeNumber": 5,
     "episodes": 11,
     "lengthMin": 25,
     "mediaTypes": [
@@ -990,8 +878,8 @@
     "native": "帰還者の魔法は特別です2期",
     "delayedFrom": "0001-01-01T17:15:00Z",
     "delayedUntil": "0001-01-01T17:15:00Z",
-    "episodeDate": "2026-10-14T17:15:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-10-21T17:15:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1045,8 +933,8 @@
     "native": "氷の城壁 第2期",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-10-15T15:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-22T15:30:00Z",
+    "episodeNumber": 4,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1101,8 +989,8 @@
     "native": "薬屋のひとりごと 第3期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-16T15:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-10-23T15:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1150,59 +1038,6 @@
     "addedAt": "2026-10-16T15:00:00Z"
   },
   {
-    "title": "LIAR GAME",
-    "route": "liar-game",
-    "native": "ライアーゲーム",
-    "delayedFrom": "2026-07-06T16:00:00Z",
-    "delayedUntil": "2026-07-13T16:00:00Z",
-    "episodeDate": "2026-10-12T16:00:00Z",
-    "episodeNumber": 26,
-    "episodes": 26,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-07-13T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 197754,
-        "idMal": 62331,
-        "title": {
-          "romaji": "LIAR GAME",
-          "english": "LIAR GAME",
-          "native": "LIAR GAME"
-        },
-        "format": "TV",
-        "genres": [
-          "Drama",
-          "Psychological"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197754-Q5KqcUhIdypp.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197754-Q5KqcUhIdypp.png"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197754-cMWxeRdhYrFW.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 26,
-              "airingAt": "2026-10-12T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-04-20T16:00:00Z"
-  },
-  {
     "title": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
     "route": "magical-explorer",
     "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
@@ -1210,8 +1045,8 @@
     "native": "マジカル★エクスプロ",
     "delayedFrom": "0001-01-01T16:30:00Z",
     "delayedUntil": "0001-01-01T16:30:00Z",
-    "episodeDate": "2026-10-17T16:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-10-24T16:30:00Z",
+    "episodeNumber": 5,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1326,8 +1161,8 @@
     "native": "茉莉花ちゃんの好感度はぶっ壊れている",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-10-15T17:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-10-22T17:00:00Z",
+    "episodeNumber": 8,
     "episodes": 8,
     "lengthMin": 6,
     "mediaTypes": [
@@ -1384,8 +1219,8 @@
     "native": "マロニエ王国の七人の騎士",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-17T15:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-24T15:00:00Z",
+    "episodeNumber": 4,
     "episodes": 20,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1440,8 +1275,8 @@
     "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-10-18T14:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-25T14:00:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1499,8 +1334,8 @@
     "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-18T16:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-25T16:00:00Z",
+    "episodeNumber": 4,
     "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
@@ -1555,8 +1390,8 @@
     "native": "逃げ上手の若君 第二期",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-16T16:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-10-23T16:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1660,124 +1495,13 @@
     "addedAt": "2026-09-28T00:15:21Z"
   },
   {
-    "title": "One Piece: Heroines",
-    "route": "one-piece-heroines",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-13T16:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "Special",
-        "route": "special"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 197178,
-        "idMal": 62233,
-        "title": {
-          "romaji": "ONE PIECE HEROINES",
-          "english": "ONE PIECE HEROINES",
-          "native": "ONE PIECE HEROINES"
-        },
-        "format": "SPECIAL",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Drama",
-          "Fantasy"
-        ],
-        "duration": 23,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx197178-Ui8PY9HQbNgu.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197178-Ui8PY9HQbNgu.jpg",
-          "color": "#e45d86"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/197178-kVx0Zt3P0MvD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-10-13T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-10-13T16:00:00Z"
-  },
-  {
-    "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-    "route": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2nd-season",
-    "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-    "english": "The Angel Next Door Spoils Me Rotten 2nd Season",
-    "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期",
-    "delayedFrom": "2026-09-10T14:30:00Z",
-    "delayedUntil": "2026-09-17T14:30:00Z",
-    "episodeDate": "2026-10-15T14:30:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-09-17T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 170019,
-        "idMal": 56876,
-        "title": {
-          "romaji": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season",
-          "english": "The Angel Next Door Spoils Me Rotten2",
-          "native": "お隣の天使様にいつの間にか駄目人間にされていた件 第2期"
-        },
-        "format": "TV",
-        "genres": [
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170019-djbN0b934MhE.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx170019-djbN0b934MhE.jpg",
-          "color": "#e4d628"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/170019-A0w3tt6rat1N.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-10-15T14:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-08-06T14:30:00Z"
-  },
-  {
     "title": "OVERGEARED",
     "route": "overgeared",
     "native": "テムパル ～アイテムの力～",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-10-18T14:30:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-10-25T14:30:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1888,8 +1612,8 @@
     "native": "らんま1/2 第3期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-10-17T17:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-24T17:00:00Z",
+    "episodeNumber": 4,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1942,10 +1666,9 @@
     "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4",
     "english": "Re:Zero - Starting Life in Another World 4",
     "native": "Re:ゼロから始める異世界生活 4",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-10-14T14:00:00Z",
     "delayedUntil": "2026-10-21T14:00:00Z",
-    "episodeDate": "2026-10-14T14:00:00Z",
+    "episodeDate": "2026-10-21T14:00:00Z",
     "episodeNumber": 19,
     "episodes": 19,
     "lengthMin": 23,
@@ -2004,8 +1727,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "2026-09-26T01:00:00Z",
     "delayedUntil": "2026-10-03T01:00:00Z",
-    "episodeDate": "2026-10-17T01:00:00Z",
-    "episodeNumber": 28,
+    "episodeDate": "2026-10-24T01:00:00Z",
+    "episodeNumber": 29,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -2052,64 +1775,6 @@
     "addedAt": "2026-04-04T05:22:02Z"
   },
   {
-    "title": "Seihantai na Kimi to Boku 2nd Season",
-    "route": "seihantai-na-kimi-to-boku-2nd-season",
-    "romaji": "Seihantai na Kimi to Boku 2nd Season",
-    "english": "You and I Are Polar Opposites 2nd Season",
-    "native": "正反対な君と僕 第2期",
-    "delayedFrom": "2026-10-04T08:30:00Z",
-    "delayedUntil": "2026-10-11T08:30:00Z",
-    "episodeDate": "2026-10-18T08:30:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 24,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-10-11T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 210031,
-        "idMal": 63832,
-        "title": {
-          "romaji": "Seihantai na Kimi to Boku 2nd Season",
-          "english": "You and I Are Polar Opposites Season 2",
-          "native": "正反対な君と僕 第2期"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Drama",
-          "Romance",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx210031-TppgcHZh46LY.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx210031-TppgcHZh46LY.jpg",
-          "color": "#fe5093"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/210031-M4bt0rAmWk5Q.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-10-18T08:30:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-07-19T08:30:00Z"
-  },
-  {
     "title": "Shiguang Dailiren 3",
     "route": "shi-guang-dai-li-ren-3",
     "romaji": "Shiguang Dailiren 3",
@@ -2117,8 +1782,8 @@
     "native": "时光代理人 第三季",
     "delayedFrom": "0001-01-01T03:00:00Z",
     "delayedUntil": "0001-01-01T03:00:00Z",
-    "episodeDate": "2026-10-16T03:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-10-23T03:00:00Z",
+    "episodeNumber": 9,
     "episodes": 24,
     "lengthMin": 21,
     "mediaTypes": [
@@ -2174,8 +1839,8 @@
     "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-14T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-10-21T16:00:00Z",
+    "episodeNumber": 2,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2230,8 +1895,8 @@
     "native": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-10-14T17:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-10-21T17:00:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2285,8 +1950,8 @@
     "native": "TANK CHAIR-戦車椅子-",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-10-18T14:30:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-25T14:30:00Z",
+    "episodeNumber": 4,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -2332,118 +1997,6 @@
     "addedAt": "2026-10-04T18:45:21Z"
   },
   {
-    "title": "Tennis no Ouji-sama: Atobe Kara no Okurimono",
-    "route": "tennis-no-ouji-sama-atobe-kara-no-okurimono",
-    "romaji": "Tennis no Ouji-sama: Atobe Kara no Okurimono",
-    "english": "Prince of Tennis: Atobe's Gift",
-    "native": "跡部からの贈り物",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-14T15:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 30,
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 814,
-        "idMal": 814,
-        "title": {
-          "romaji": "Tennis no Ouji-sama: Atobe Kara no Okurimono - Kimi ni Sasageru Tenipuri Matsuri",
-          "english": "The Prince of Tennis: A Gift from Atobe",
-          "native": "テニスの王子様 跡部からの贈り物 ～君に捧げるテニプリ祭り～"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Comedy",
-          "Sports"
-        ],
-        "duration": 30,
-        "seasonYear": 2005,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/814.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/814.jpg",
-          "color": "#f1431a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/814-Djzu5b7dYTne.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-10-14T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-10-14T19:15:24Z"
-  },
-  {
-    "title": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
-    "route": "tennis-no-ouji-sama-futari-no-samurai-the-first-game",
-    "romaji": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
-    "english": "The Prince of Tennis: The Two Samurai, The First Game",
-    "native": "劇場版 テニスの王子様 二人のサムライ The First Game",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-14T15:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 65,
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 815,
-        "idMal": 815,
-        "title": {
-          "romaji": "Tennis no Ouji-sama: Futari no Samurai - The First Game",
-          "english": "The Prince of Tennis: Two Samurais, The First Game",
-          "native": "劇場版 テニスの王子様 二人のサムライ The First Game"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Action",
-          "Sports"
-        ],
-        "duration": 65,
-        "seasonYear": 2005,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx815-TLNWfX0jUwWp.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx815-TLNWfX0jUwWp.png",
-          "color": "#d6931a"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/815-bMb1R4dD8nxA.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-10-14T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-10-14T19:15:24Z"
-  },
-  {
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
     "route": "tensei-kizoku-kantei-skill-de-nariagaru-3rd-season",
     "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
@@ -2451,8 +2004,8 @@
     "native": "転生貴族、鑑定スキルで成り上がる 第3期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-18T15:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-10-25T15:00:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2562,8 +2115,8 @@
     "native": "東京リベンジャーズ 三天戦争編",
     "delayedFrom": "0001-01-01T07:00:00Z",
     "delayedUntil": "0001-01-01T07:00:00Z",
-    "episodeDate": "2026-10-16T07:00:00Z",
-    "episodeNumber": 3,
+    "episodeDate": "2026-10-23T07:00:00Z",
+    "episodeNumber": 4,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2618,8 +2171,8 @@
     "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-10-13T15:30:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-10-20T15:30:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -2675,8 +2228,8 @@
     "native": "追放された転生重騎士はゲーム知識で無双する",
     "delayedFrom": "2026-09-24T16:30:00Z",
     "delayedUntil": "2026-10-01T16:30:00Z",
-    "episodeDate": "2026-10-15T16:30:00Z",
-    "episodeNumber": 14,
+    "episodeDate": "2026-10-22T16:30:00Z",
+    "episodeNumber": 15,
     "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2730,8 +2283,8 @@
     "native": "うしろの正面カムイさん",
     "delayedFrom": "0001-01-01T01:30:00Z",
     "delayedUntil": "0001-01-01T01:30:00Z",
-    "episodeDate": "2026-10-15T01:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-10-22T01:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 12,
     "mediaTypes": [
@@ -2847,8 +2400,8 @@
     "native": "ワールド イズ ダンシング",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-10-14T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-10-21T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2895,63 +2448,6 @@
     "addedAt": "2026-08-26T17:00:00Z"
   },
   {
-    "title": "Yani Neko",
-    "route": "yani-neko",
-    "romaji": "Yani Neko",
-    "english": "Chainsmoker Cat",
-    "native": "ヤニねこ",
-    "delayedFrom": "2026-10-01T16:00:00Z",
-    "delayedUntil": "2026-10-08T16:00:00Z",
-    "episodeDate": "2026-10-15T16:00:00Z",
-    "episodeNumber": 12,
-    "episodes": 12,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "overrideDate": "2026-10-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 207141,
-        "idMal": 63403,
-        "title": {
-          "romaji": "Yani Neko",
-          "english": "Chainsmoker Cat",
-          "native": "ヤニねこ"
-        },
-        "format": "TV",
-        "genres": [
-          "Comedy",
-          "Ecchi",
-          "Slice of Life"
-        ],
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207141-h5q5KJPd6vaX.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207141-h5q5KJPd6vaX.jpg",
-          "color": "#50a1f1"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207141-MvHAS2YVfJzL.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 12,
-              "airingAt": "2026-10-15T16:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-07-16T16:00:00Z"
-  },
-  {
     "title": "Youjo Senki II",
     "route": "youjo-senki-ii",
     "romaji": "Youjo Senki II",
@@ -2959,8 +2455,8 @@
     "native": "幼女戦記 II",
     "delayedFrom": "0001-01-01T13:30:00Z",
     "delayedUntil": "0001-01-01T13:30:00Z",
-    "episodeDate": "2026-10-14T13:30:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-10-21T13:30:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -3008,69 +2504,13 @@
     "addedAt": "2026-09-09T17:15:20Z"
   },
   {
-    "title": "Youjo Senki Movie",
-    "route": "youjo-senki-movie",
-    "romaji": "Youjo Senki Movie",
-    "english": "Saga of Tanya the Evil: The Movie",
-    "native": "劇場版 幼女戦記",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-10-12T15:00:00Z",
-    "episodeNumber": 1,
-    "episodes": 1,
-    "lengthMin": 98,
-    "mediaTypes": [
-      {
-        "name": "Movie",
-        "route": "movie"
-      }
-    ],
-    "overrideDate": "0001-01-01T00:00:00Z",
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 100878,
-        "idMal": 37055,
-        "title": {
-          "romaji": "Youjo Senki Movie",
-          "english": "Saga of Tanya the Evil - the Movie -",
-          "native": "劇場版 幼女戦記"
-        },
-        "format": "MOVIE",
-        "genres": [
-          "Action",
-          "Fantasy"
-        ],
-        "duration": 98,
-        "seasonYear": 2019,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100878-npKVJvggmK6a.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx100878-npKVJvggmK6a.jpg",
-          "color": "#f1e4c9"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100878-Lslq3VqoNanU.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 1,
-              "airingAt": "2026-10-12T15:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-10-12T21:30:26Z"
-  },
-  {
     "title": "Yu☆Gi☆Oh! Go Rush!!",
     "route": "yu-gi-oh-go-rush",
     "native": "遊☆戯☆王ゴーラッシュ!!",
     "delayedText": "Delayed",
     "delayedFrom": "2026-08-16T12:00:00Z",
     "delayedUntil": "2032-01-01T12:00:00Z",
-    "episodeDate": "2026-10-14T12:00:00Z",
+    "episodeDate": "2026-10-21T12:00:00Z",
     "episodeNumber": 68,
     "episodes": 151,
     "lengthMin": 24,
