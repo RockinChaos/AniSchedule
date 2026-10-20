@@ -1745,6 +1745,62 @@
     "addedAt": "2026-04-04T05:22:02Z"
   },
   {
+    "title": "Sasaki to Pii-chan 2nd Season",
+    "route": "sasaki-to-pii-chan-2nd-season",
+    "romaji": "Sasaki to Pii-chan 2nd Season",
+    "english": "Sasaki and Peeps 2nd Season",
+    "native": "佐々木とピーちゃん 第２期",
+    "delayedFrom": "0001-01-01T13:00:00Z",
+    "delayedUntil": "0001-01-01T13:00:00Z",
+    "episodeDate": "2026-10-21T13:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 176314,
+        "idMal": 58518,
+        "title": {
+          "romaji": "Sasaki to Pii-chan Season 2",
+          "english": "Sasaki and Peeps Season 2",
+          "native": "佐々木とピーちゃん シーズン２"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Fantasy",
+          "Mahou Shoujo"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176314-lpvca6vjmkeO.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx176314-lpvca6vjmkeO.jpg",
+          "color": "#1a78d6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176314-nj2hmqbGQ9HJ.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-21T13:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-21T13:00:00Z"
+  },
+  {
     "title": "Shiguang Dailiren 3",
     "route": "shi-guang-dai-li-ren-3",
     "romaji": "Shiguang Dailiren 3",
