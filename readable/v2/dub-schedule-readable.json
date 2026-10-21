@@ -1,5 +1,47 @@
 [
   {
+    "id": 21,
+    "idMal": 21,
+    "title": {
+      "romaji": "ONE PIECE",
+      "english": "ONE PIECE",
+      "native": "ONE PIECE"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "duration": 24,
+    "seasonYear": 1999,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21-ELSYx3yMPcKM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx21-ELSYx3yMPcKM.jpg",
+      "color": "#e49335"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21-wf37VakJmZqs.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1157,
+          "airingAt": 1793116800
+        },
+        {
+          "episode": 1158,
+          "airingAt": 1793721600
+        },
+        {
+          "episode": 1159,
+          "airingAt": 1794326400
+        }
+      ]
+    }
+  },
+  {
     "id": 135865,
     "idMal": 49233,
     "title": {
@@ -76,7 +118,7 @@
       "nodes": [
         {
           "episode": 10,
-          "airingAt": 1792684800
+          "airingAt": 1792771200
         },
         {
           "episode": 11,
