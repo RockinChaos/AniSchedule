@@ -7096,6 +7096,36 @@
     }
   },
   {
+    "id": 212539,
+    "idMal": 64266,
+    "title": {
+      "romaji": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "native": "タコピーの原罪 -ありがとう、また明日-"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212539-uiod38Ml39AZ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212539-uiod38Ml39AZ.png",
+      "color": "#bbf1ff"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1795705200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 212575,
     "idMal": 64291,
     "title": {
