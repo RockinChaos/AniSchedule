@@ -801,6 +801,61 @@
     "addedAt": "2026-10-04T04:05:00Z"
   },
   {
+    "title": "Hotaru no Yomeiri",
+    "route": "hotaru-no-yomeiri",
+    "romaji": "Hotaru no Yomeiri",
+    "english": "Firefly Wedding",
+    "native": "ホタルの嫁入り",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-10-23T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 205909,
+        "idMal": 63293,
+        "title": {
+          "romaji": "Hotaru no Yomeiri",
+          "english": "Firefly Wedding",
+          "native": "ホタルの嫁入り"
+        },
+        "format": "TV",
+        "genres": [
+          "Drama",
+          "Romance"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205909-DM0fAzNQulod.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205909-DM0fAzNQulod.jpg",
+          "color": "#aebb35"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205909-hGeuFYrdhf9S.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-23T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-23T16:00:00Z"
+  },
+  {
     "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
     "route": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii",
     "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
