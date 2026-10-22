@@ -801,6 +801,59 @@
     "addedAt": "2026-10-04T04:05:00Z"
   },
   {
+    "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "route": "hyouken-no-majutsushi-ga-sekai-wo-suberu-ii",
+    "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+    "english": "The Iceblade Sorcerer Shall Rule the World II",
+    "native": "冰剣の魔術師が世界を統べるII",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-10-22T17:00:00Z",
+    "episodeNumber": 1,
+    "lengthMin": 24,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 212503,
+        "idMal": 64254,
+        "title": {
+          "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+          "english": "The Iceblade Sorcerer Shall Rule the World II",
+          "native": "冰剣の魔術師が世界を統べるⅡ"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Adventure",
+          "Fantasy"
+        ],
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212503-sXBpRZr96c4e.jpg",
+          "color": "#4378e4"
+        },
+        "isAdult": false,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-10-29T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-22T17:15:23Z"
+  },
+  {
     "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run - 2nd - 3rd STAGE",
     "route": "jojo-no-kimyou-na-bouken-part-7-steel-ball-run-2nd-stage",
     "romaji": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run - 2nd - 3rd STAGE",

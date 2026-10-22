@@ -2147,6 +2147,45 @@
     }
   },
   {
+    "id": 212503,
+    "idMal": 64254,
+    "title": {
+      "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "english": "The Iceblade Sorcerer Shall Rule the World II",
+      "native": "冰剣の魔術師が世界を統べるⅡ"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212503-sXBpRZr96c4e.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212503-sXBpRZr96c4e.jpg",
+      "color": "#4378e4"
+    },
+    "isAdult": false,
+    "duration": 24,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 2,
+          "airingAt": 1793293200
+        },
+        {
+          "episode": 3,
+          "airingAt": 1793898000
+        },
+        {
+          "episode": 4,
+          "airingAt": 1794502800
+        }
+      ]
+    }
+  },
+  {
     "id": 212667,
     "idMal": 64298,
     "title": {
