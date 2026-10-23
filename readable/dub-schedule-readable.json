@@ -331,8 +331,8 @@
     "native": "ちいかわ",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-10-23T16:00:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-10-25T16:00:00Z",
+    "episodeNumber": 11,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -367,8 +367,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-10-23T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-10-25T16:00:00Z"
             }
           ]
         }
@@ -818,7 +818,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 205909,
@@ -845,8 +845,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-23T16:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-30T16:00:00Z"
             }
           ]
         }
@@ -1566,8 +1566,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-10-23T16:00:00Z"
+              "episode": 11,
+              "airingAt": "2026-10-30T16:00:00Z"
             }
           ]
         }
