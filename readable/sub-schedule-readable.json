@@ -2264,10 +2264,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1792762200
-        },
-        {
           "episode": 4,
           "airingAt": 1793367000
         },
@@ -9002,6 +8998,77 @@
         {
           "episode": 2,
           "airingAt": 1796310000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 216858,
+    "title": {
+      "romaji": "Haru to Gen: 70-sai, Hajimete Kosodate",
+      "native": "ハルとゲン ～70歳、はじめての子育て～"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Slice of Life"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216858-NzPvwHTaYzID.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216858-NzPvwHTaYzID.png",
+      "color": "#e4bb50"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799067360
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799672160
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800276960
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800881760
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801486560
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802091360
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802696160
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803300960
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803905760
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804510560
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805115360
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805720160
         }
       ]
     },
