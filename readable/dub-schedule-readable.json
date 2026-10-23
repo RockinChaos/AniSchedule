@@ -1130,6 +1130,61 @@
     "addedAt": "2026-10-16T15:00:00Z"
   },
   {
+    "title": "Kyoufu Collector",
+    "route": "kyoufu-collector",
+    "romaji": "Kyoufu Collector",
+    "english": "Horror Collector",
+    "native": "恐怖コレクター",
+    "delayedFrom": "0001-01-01T17:15:00Z",
+    "delayedUntil": "0001-01-01T17:15:00Z",
+    "episodeDate": "2026-10-24T17:15:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 25,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 203473,
+        "idMal": 63053,
+        "title": {
+          "romaji": "Kyoufu Collector",
+          "english": "HORROR COLLECTOR",
+          "native": "恐怖コレクター"
+        },
+        "format": "TV",
+        "genres": [
+          "Horror",
+          "Mystery",
+          "Supernatural"
+        ],
+        "duration": 25,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203473-pzyaqV432Qko.jpg"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-24T17:15:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-24T17:15:00Z"
+  },
+  {
     "title": "Magic Knight Rayearth (2026)",
     "route": "magic-knight-rayearth-shin-anime",
     "native": "魔法騎士レイアース (2026)",

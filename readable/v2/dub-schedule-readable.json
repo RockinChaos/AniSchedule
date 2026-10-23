@@ -1595,6 +1595,82 @@
     }
   },
   {
+    "id": 203473,
+    "idMal": 63053,
+    "title": {
+      "romaji": "Kyoufu Collector",
+      "english": "HORROR COLLECTOR",
+      "native": "恐怖コレクター"
+    },
+    "format": "TV",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "duration": 25,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b203473-pzyaqV432Qko.jpg"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
+    "unaired": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1792862100
+        },
+        {
+          "episode": 2,
+          "airingAt": 1793466900
+        },
+        {
+          "episode": 3,
+          "airingAt": 1794071700
+        },
+        {
+          "episode": 4,
+          "airingAt": 1794676500
+        },
+        {
+          "episode": 5,
+          "airingAt": 1795281300
+        },
+        {
+          "episode": 6,
+          "airingAt": 1795886100
+        },
+        {
+          "episode": 7,
+          "airingAt": 1796490900
+        },
+        {
+          "episode": 8,
+          "airingAt": 1797095700
+        },
+        {
+          "episode": 9,
+          "airingAt": 1797700500
+        },
+        {
+          "episode": 10,
+          "airingAt": 1798305300
+        },
+        {
+          "episode": 11,
+          "airingAt": 1798910100
+        },
+        {
+          "episode": 12,
+          "airingAt": 1799514900
+        }
+      ]
+    }
+  },
+  {
     "id": 204011,
     "idMal": 63098,
     "title": {
