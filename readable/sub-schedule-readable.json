@@ -1897,10 +1897,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 29,
-          "airingAt": 1792801560
-        },
-        {
           "episode": 30,
           "airingAt": 1793406360
         },
@@ -5243,6 +5239,34 @@
     }
   },
   {
+    "id": 206163,
+    "idMal": 63323,
+    "title": {
+      "romaji": "Soukou Kihei Votoms: Haiiro no Hexe",
+      "native": "装甲騎兵ボトムズ 灰色の魔女"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-pDqpH6qyKhmV.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206163-pDqpH6qyKhmV.png"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1795100400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 206244,
     "title": {
       "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
@@ -8466,10 +8490,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1792801800
-        },
-        {
           "episode": 5,
           "airingAt": 1793406600
         },
@@ -8856,10 +8876,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/216557-FdbwnWM2oskW.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1792801800
-        },
         {
           "episode": 5,
           "airingAt": 1793406600
