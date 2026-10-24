@@ -1239,7 +1239,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 203473,
@@ -1266,8 +1266,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-10-24T17:15:00Z"
+              "episode": 2,
+              "airingAt": "2026-10-31T17:15:00Z"
             }
           ]
         }
@@ -1335,8 +1335,9 @@
     "romaji": "Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru",
     "english": "Magical Explorer: Reborn as a Side Character in a Fantasy Dating Sim",
     "native": "マジカル★エクスプロ",
-    "delayedFrom": "0001-01-01T16:30:00Z",
-    "delayedUntil": "0001-01-01T16:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-10-24T16:30:00Z",
+    "delayedUntil": "2026-10-31T16:30:00Z",
     "episodeDate": "2026-10-24T16:30:00Z",
     "episodeNumber": 5,
     "episodes": 13,
@@ -1377,7 +1378,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
+              "episode": 5,
               "airingAt": "2026-10-31T16:30:00Z"
             }
           ]
@@ -1931,8 +1932,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 4,
-              "airingAt": "2026-10-24T17:00:00Z"
+              "episode": 5,
+              "airingAt": "2026-10-31T17:00:00Z"
             }
           ]
         }
