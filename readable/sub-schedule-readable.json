@@ -5365,10 +5365,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 30,
-          "airingAt": 1792888200
-        },
-        {
           "episode": 31,
           "airingAt": 1793493000
         },
@@ -9007,10 +9003,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1792887360
-        },
-        {
           "episode": 5,
           "airingAt": 1793492160
         },
@@ -9177,6 +9169,7 @@
       "color": "#e4aea1"
     },
     "isAdult": true,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/216926-JKxPNnGV89bf.jpg",
     "airingSchedule": {
       "nodes": [
         {
