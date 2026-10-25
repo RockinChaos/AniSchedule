@@ -928,8 +928,13 @@
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 9,
+          "airingAt": 1795444200,
+          "delayed": true
+        },
+        {
           "episode": 10,
-          "airingAt": 1793457000
+          "airingAt": 1796049000
         }
       ]
     }

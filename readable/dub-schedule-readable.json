@@ -277,8 +277,9 @@
     "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
     "english": "BLEACH: Thousand-Year Blood War - The Calamity",
     "native": "BLEACH 千年血戦篇-禍進譚-",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-10-24T14:30:00Z",
+    "delayedUntil": "2026-11-23T14:30:00Z",
     "episodeDate": "2026-10-24T14:30:00Z",
     "episodeNumber": 9,
     "episodes": 10,
@@ -315,8 +316,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 10,
-              "airingAt": "2026-10-31T14:30:00Z"
+              "episode": 9,
+              "airingAt": "2026-11-23T14:30:00Z"
             }
           ]
         }
