@@ -832,10 +832,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 427,
-          "airingAt": 1792893600
-        },
-        {
           "episode": 428,
           "airingAt": 1793066400
         },
@@ -930,6 +926,10 @@
         {
           "episode": 451,
           "airingAt": 1806804000
+        },
+        {
+          "episode": 452,
+          "airingAt": 1807408800
         }
       ]
     }
@@ -3377,10 +3377,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 58,
-          "airingAt": 1792893600
-        },
-        {
           "episode": 59,
           "airingAt": 1793498400
         },
@@ -4368,51 +4364,51 @@
       "nodes": [
         {
           "episode": 40,
-          "airingAt": 1793489400
-        },
-        {
-          "episode": 41,
           "airingAt": 1794094200
         },
         {
-          "episode": 42,
+          "episode": 41,
           "airingAt": 1794699000
         },
         {
-          "episode": 43,
+          "episode": 42,
           "airingAt": 1795303800
         },
         {
-          "episode": 44,
+          "episode": 43,
           "airingAt": 1795908600
         },
         {
-          "episode": 45,
+          "episode": 44,
           "airingAt": 1796513400
         },
         {
-          "episode": 46,
+          "episode": 45,
           "airingAt": 1797118200
         },
         {
-          "episode": 47,
+          "episode": 46,
           "airingAt": 1797723000
         },
         {
-          "episode": 48,
+          "episode": 47,
           "airingAt": 1798327800
         },
         {
-          "episode": 49,
+          "episode": 48,
           "airingAt": 1798932600
         },
         {
-          "episode": 50,
+          "episode": 49,
           "airingAt": 1799537400
         },
         {
-          "episode": 51,
+          "episode": 50,
           "airingAt": 1800142200
+        },
+        {
+          "episode": 51,
+          "airingAt": 1800747000
         }
       ]
     }
