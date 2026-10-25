@@ -2890,16 +2890,45 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1792922400
-        },
-        {
           "episode": 2,
           "airingAt": 1792924200
         },
         {
           "episode": 3,
           "airingAt": 1792926000
+        }
+      ]
+    }
+  },
+  {
+    "id": 190244,
+    "idMal": 63934,
+    "title": {
+      "romaji": "Date A Live F Last Date",
+      "native": "デート・ア・ライブF Last Date"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Ecchi",
+      "Fantasy",
+      "Mecha",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx190244-pxpZRICro9Sv.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190244-pxpZRICro9Sv.jpg",
+      "color": "#0df1a1"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1805986800
         }
       ]
     },
