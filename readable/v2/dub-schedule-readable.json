@@ -1773,13 +1773,8 @@
     },
     "isAdult": false,
     "duration": 23,
-    "unaired": true,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1792938600
-        },
         {
           "episode": 2,
           "airingAt": 1793543400
@@ -2129,10 +2124,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1792938600
-        },
         {
           "episode": 5,
           "airingAt": 1793543400
@@ -2548,10 +2539,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/212888-ZsnNegBCKXQq.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1792938600
-        },
         {
           "episode": 6,
           "airingAt": 1793543400
