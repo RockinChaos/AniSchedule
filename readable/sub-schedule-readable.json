@@ -9877,5 +9877,61 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 218942,
+    "title": {
+      "romaji": "Sylvanian Families: Freya no Colorful Everyday",
+      "native": "シルバニアファミリー フレアのカラフル・エブリデイ"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "duration": 12,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b218942-P2vuXzw9knaY.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b218942-P2vuXzw9knaY.png",
+      "color": "#4386e4"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 5,
+          "airingAt": 1793269140
+        },
+        {
+          "episode": 6,
+          "airingAt": 1793873940
+        },
+        {
+          "episode": 7,
+          "airingAt": 1794478740
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795083540
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795688340
+        },
+        {
+          "episode": 10,
+          "airingAt": 1796293140
+        },
+        {
+          "episode": 11,
+          "airingAt": 1796897940
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797502740
+        }
+      ]
+    }
   }
 ]
