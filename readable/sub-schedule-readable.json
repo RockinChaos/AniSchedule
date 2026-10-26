@@ -9887,5 +9887,36 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 218931,
+    "title": {
+      "romaji": "Sakura Saku Chiru Hanabira",
+      "native": "さくら裂ク 散ル花びら"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218931-m9AdKoWInuM5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx218931-m9AdKoWInuM5.png",
+      "color": "#f1d6c9"
+    },
+    "isAdult": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1798124400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1798124400
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
