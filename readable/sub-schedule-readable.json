@@ -5595,6 +5595,79 @@
     }
   },
   {
+    "id": 207251,
+    "idMal": 63419,
+    "title": {
+      "romaji": "Mairimashita! Iruma-kun: If Episode of Mafia",
+      "native": "魔入りました！入間くん if Episode of 魔フィア"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207251-1opGPW7xVHQ8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx207251-1opGPW7xVHQ8.jpg",
+      "color": "#508628"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799071200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799676000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800280800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800885600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801490400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802095200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802700000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803304800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803909600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804514400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805119200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805724000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 207329,
     "idMal": 63431,
     "title": {
