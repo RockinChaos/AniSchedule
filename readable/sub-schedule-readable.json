@@ -10002,5 +10002,36 @@
         }
       ]
     }
+  },
+  {
+    "id": 219080,
+    "title": {
+      "romaji": "Inaka no Hitozuma-tachi The Animation",
+      "native": "田舎の人妻たち The Animation"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219080-PKzQ2EgMi9c8.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx219080-PKzQ2EgMi9c8.png",
+      "color": "#e4bba1"
+    },
+    "isAdult": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1801148400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1803567600
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
