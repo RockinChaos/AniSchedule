@@ -9974,5 +9974,33 @@
         }
       ]
     }
+  },
+  {
+    "id": 219063,
+    "idMal": 63598,
+    "title": {
+      "romaji": "Girls und Panzer: Motto Love Love Sakusen desu! Mini Anime",
+      "native": "ガールズ＆パンツァー もっとらぶらぶ作戦です！ ミニアニメ"
+    },
+    "format": "OVA",
+    "genres": [
+      "Comedy"
+    ],
+    "duration": 5,
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219063-6IwmvXup3Em5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx219063-6IwmvXup3Em5.png",
+      "color": "#f1bb5d"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 3,
+          "airingAt": 1800975600
+        }
+      ]
+    }
   }
 ]
