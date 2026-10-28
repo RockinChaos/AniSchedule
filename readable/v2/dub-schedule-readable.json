@@ -319,10 +319,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 2,
-          "airingAt": 1793206800
-        },
-        {
           "episode": 3,
           "airingAt": 1793811600
         },
@@ -1908,10 +1904,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 10,
-          "airingAt": 1793206800
-        },
-        {
           "episode": 11,
           "airingAt": 1793811600
         },
@@ -2257,10 +2249,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 11,
-          "airingAt": 1793206800
-        },
-        {
           "episode": 12,
           "airingAt": 1793811600
         }
@@ -2307,38 +2295,6 @@
         {
           "episode": 8,
           "airingAt": 1795280400
-        }
-      ]
-    }
-  },
-  {
-    "id": 209983,
-    "idMal": 63817,
-    "title": {
-      "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
-      "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
-      "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "duration": 25,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx209983-sFOcKyqMufxb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx209983-sFOcKyqMufxb.jpg",
-      "color": "#0dbbf1"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/209983-fJysbFB72IM9.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 13,
-          "airingAt": 1793206800
         }
       ]
     }
