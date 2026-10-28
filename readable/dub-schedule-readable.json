@@ -1656,10 +1656,11 @@
     "route": "psyren",
     "english": "PSYREN",
     "native": "PSYЯEN -サイレン-",
-    "delayedFrom": "0001-01-01T14:30:00Z",
-    "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-10-26T14:30:00Z",
-    "episodeNumber": 2,
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-11-16T14:30:00Z",
+    "delayedUntil": "2026-11-23T14:30:00Z",
+    "episodeDate": "2026-11-16T14:30:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1695,8 +1696,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 3,
-              "airingAt": "2026-11-02T14:30:00Z"
+              "episode": 5,
+              "airingAt": "2026-11-23T14:30:00Z"
             }
           ]
         }
