@@ -3306,39 +3306,6 @@
     }
   },
   {
-    "id": 196750,
-    "idMal": 62328,
-    "title": {
-      "romaji": "Sister Breeder",
-      "native": "シスターブリーダー"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2025,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196750-qwkwqdNMXIwD.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196750-qwkwqdNMXIwD.png",
-      "color": "#bb35e4"
-    },
-    "isAdult": true,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196750-cmc0IEyZbqOj.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1793286000
-        },
-        {
-          "episode": 6,
-          "airingAt": 1793286000
-        }
-      ]
-    }
-  },
-  {
     "id": 198044,
     "idMal": 64053,
     "title": {
@@ -3919,10 +3886,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199594-iw8KRAiBp3sO.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 4,
-          "airingAt": 1793286000
-        },
         {
           "episode": 5,
           "airingAt": 1793890800
@@ -6534,33 +6497,6 @@
     }
   },
   {
-    "id": 211338,
-    "idMal": 64095,
-    "title": {
-      "romaji": "Harem-tou e Youkoso!",
-      "native": "ハーレム島へようこそ！"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx211338-If49uIjNKPgt.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx211338-If49uIjNKPgt.png",
-      "color": "#e4ae50"
-    },
-    "isAdult": true,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 2,
-          "airingAt": 1793286000
-        }
-      ]
-    }
-  },
-  {
     "id": 211778,
     "idMal": 64084,
     "title": {
@@ -6702,10 +6638,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1793286000
-        },
         {
           "episode": 6,
           "airingAt": 1793890800
@@ -7741,34 +7673,6 @@
     }
   },
   {
-    "id": 213732,
-    "idMal": 64530,
-    "title": {
-      "romaji": "Mujikaku na Osananajimi to Kyoumi Honi de Yatte Mitara THE ANIMATION",
-      "native": "無自覚な幼馴染と興味本位でヤってみたら THE ANIMATION"
-    },
-    "format": "OVA",
-    "genres": [
-      "Hentai"
-    ],
-    "duration": 20,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213732-pPypc7kubQJ3.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213732-pPypc7kubQJ3.png",
-      "color": "#d61a43"
-    },
-    "isAdult": true,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1793286000
-        }
-      ]
-    }
-  },
-  {
     "id": 213805,
     "idMal": 64534,
     "title": {
@@ -7793,10 +7697,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1793285760
-        },
         {
           "episode": 6,
           "airingAt": 1793890560
@@ -8026,16 +7926,11 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1793286000
-        },
-        {
           "episode": 2,
           "airingAt": 1798124400
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 214536,
@@ -8098,10 +7993,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1793286000
-        },
         {
           "episode": 9,
           "airingAt": 1793584800
