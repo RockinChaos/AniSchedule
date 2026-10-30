@@ -1016,35 +1016,36 @@
       "nodes": [
         {
           "episode": 5,
-          "airingAt": 1793520000
+          "airingAt": 1794124800,
+          "delayed": true
         },
         {
           "episode": 6,
-          "airingAt": 1794124800
-        },
-        {
-          "episode": 7,
           "airingAt": 1794729600
         },
         {
-          "episode": 8,
+          "episode": 7,
           "airingAt": 1795334400
         },
         {
-          "episode": 9,
+          "episode": 8,
           "airingAt": 1795939200
         },
         {
-          "episode": 10,
+          "episode": 9,
           "airingAt": 1796544000
         },
         {
-          "episode": 11,
+          "episode": 10,
           "airingAt": 1797148800
         },
         {
-          "episode": 12,
+          "episode": 11,
           "airingAt": 1797753600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798358400
         }
       ]
     }
