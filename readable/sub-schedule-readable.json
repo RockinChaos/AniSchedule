@@ -5057,10 +5057,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1,
-          "airingAt": 1793332800
-        },
-        {
           "episode": 2,
           "airingAt": 1793937600
         },
@@ -5081,8 +5077,7 @@
           "airingAt": 1796356800
         }
       ]
-    },
-    "unaired": true
+    }
   },
   {
     "id": 206298,
