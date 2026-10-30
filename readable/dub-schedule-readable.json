@@ -380,6 +380,60 @@
     "addedAt": "2026-10-01T16:30:22Z"
   },
   {
+    "title": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "route": "cocoon-2025",
+    "romaji": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+    "english": "cocoon -One Summer of Girlhood-",
+    "native": "cocoon ～ある夏の少女たちより～",
+    "delayedFrom": "0001-01-01T07:00:00Z",
+    "delayedUntil": "0001-01-01T07:00:00Z",
+    "episodeDate": "2026-10-27T07:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 1,
+    "lengthMin": 62,
+    "mediaTypes": [
+      {
+        "name": "Special",
+        "route": "special"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 166527,
+        "idMal": 55779,
+        "title": {
+          "romaji": "cocoon: Aru Natsu no Shoujo-tachi Yori",
+          "english": "cocoon – One Summer of Girlhood",
+          "native": "cocoon ～ある夏の少女たちより～"
+        },
+        "format": "SPECIAL",
+        "genres": [
+          "Drama"
+        ],
+        "duration": 62,
+        "seasonYear": 2025,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166527-7Co2vkxgVzT8.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx166527-7Co2vkxgVzT8.png",
+          "color": "#5da1e4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166527-Q9QuJWib2o1Q.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-27T07:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-30T08:15:23Z"
+  },
+  {
     "title": "Demons' Crest",
     "route": "demons-crest",
     "romaji": "Demons' Crest",
@@ -867,8 +921,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-10-30T08:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-11-06T08:00:00Z"
             }
           ]
         }
@@ -1868,6 +1922,62 @@
     "addedAt": "2026-10-21T13:00:00Z"
   },
   {
+    "title": "Seitokai ni mo Ana wa Aru!",
+    "route": "seitokai-ni-mo-ana-wa-aru",
+    "romaji": "Seitokai ni mo Ana wa Aru!",
+    "english": "Even the Student Council Has Its Holes!",
+    "native": "生徒会にも穴はある！",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-10-31T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 191656,
+        "idMal": 61578,
+        "title": {
+          "romaji": "Seitokai ni mo Ana wa Aru!",
+          "english": "Even the Student Council Has Its Holes!",
+          "native": "生徒会にも穴はある！"
+        },
+        "format": "TV",
+        "genres": [
+          "Comedy",
+          "Ecchi",
+          "Slice of Life"
+        ],
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191656-xFHtxM8SUTdU.png",
+          "color": "#5dbbe4"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-10-31T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-10-31T17:00:00Z"
+  },
+  {
     "title": "Sekai Saikyou no Majo, Hajimemashita",
     "route": "sekai-saikyou-no-majo-hajimemashita",
     "romaji": "Sekai Saikyou no Majo, Hajimemashita",
@@ -2401,8 +2511,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-10-30T08:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-11-06T08:00:00Z"
             }
           ]
         }
@@ -2420,7 +2530,8 @@
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
     "episodeDate": "2026-10-30T08:00:00Z",
-    "episodeNumber": 3,
+    "episodeNumber": 4,
+    "subtractedEpisodeNumber": 3,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2459,6 +2570,14 @@
             {
               "episode": 3,
               "airingAt": "2026-10-30T08:00:00Z"
+            },
+            {
+              "episode": 4,
+              "airingAt": "2026-10-30T08:00:00Z"
+            },
+            {
+              "episode": 5,
+              "airingAt": "2026-11-06T08:00:00Z"
             }
           ]
         }

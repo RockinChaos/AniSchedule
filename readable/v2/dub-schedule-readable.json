@@ -593,10 +593,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1793347200
-        },
-        {
           "episode": 6,
           "airingAt": 1793952000
         },
@@ -1049,6 +1045,83 @@
         {
           "episode": 12,
           "airingAt": 1797753600
+        }
+      ]
+    }
+  },
+  {
+    "id": 191656,
+    "idMal": 61578,
+    "title": {
+      "romaji": "Seitokai ni mo Ana wa Aru!",
+      "english": "Even the Student Council Has Its Holes!",
+      "native": "生徒会にも穴はある！"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Slice of Life"
+    ],
+    "duration": 24,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191656-xFHtxM8SUTdU.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191656-xFHtxM8SUTdU.png",
+      "color": "#5dbbe4"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191656-JQILdzh3FQxN.jpg",
+    "unaired": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793466000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1794070800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1794675600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1795280400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1795885200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1796490000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1797094800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1797699600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1798304400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1798909200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1799514000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1800118800
         }
       ]
     }
@@ -1654,44 +1727,36 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 3,
-          "airingAt": 1793347200
-        },
-        {
-          "episode": 4,
+          "episode": 5,
           "airingAt": 1793952000
         },
         {
-          "episode": 5,
+          "episode": 6,
           "airingAt": 1794556800
         },
         {
-          "episode": 6,
+          "episode": 7,
           "airingAt": 1795161600
         },
         {
-          "episode": 7,
+          "episode": 8,
           "airingAt": 1795766400
         },
         {
-          "episode": 8,
+          "episode": 9,
           "airingAt": 1796371200
         },
         {
-          "episode": 9,
+          "episode": 10,
           "airingAt": 1796976000
         },
         {
-          "episode": 10,
+          "episode": 11,
           "airingAt": 1797580800
         },
         {
-          "episode": 11,
-          "airingAt": 1798185600
-        },
-        {
           "episode": 12,
-          "airingAt": 1798790400
+          "airingAt": 1798185600
         }
       ]
     }
@@ -2306,10 +2371,6 @@
     "duration": 25,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1793347200
-        },
         {
           "episode": 7,
           "airingAt": 1793952000
