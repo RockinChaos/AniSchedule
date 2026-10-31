@@ -74,10 +74,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 1359,
-          "airingAt": 1793431800
-        },
-        {
           "episode": 1360,
           "airingAt": 1794036600
         },
@@ -172,6 +168,10 @@
         {
           "episode": 1383,
           "airingAt": 1807947000
+        },
+        {
+          "episode": 1384,
+          "airingAt": 1808551800
         }
       ]
     }
@@ -6081,10 +6081,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 5,
-          "airingAt": 1793431740
-        },
-        {
           "episode": 6,
           "airingAt": 1794036540
         },
@@ -9670,6 +9666,33 @@
         {
           "episode": 2,
           "airingAt": 1803567600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 219237,
+    "title": {
+      "romaji": "Pole Princess!!: Croix du Nord",
+      "native": "ポールプリンセス!! -Croix du Nord-"
+    },
+    "format": "MOVIE",
+    "genres": [
+      "Sports"
+    ],
+    "duration": 60,
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219237-2iP7ZQ569DDK.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx219237-2iP7ZQ569DDK.png"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1801148400
         }
       ]
     },
