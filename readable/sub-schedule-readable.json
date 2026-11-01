@@ -9386,6 +9386,67 @@
     "unaired": true
   },
   {
+    "id": 218938,
+    "idMal": 65184,
+    "title": {
+      "romaji": "Hotaru no Yomeiri: Choitashi",
+      "native": "ホタルの嫁入り ちょいたし"
+    },
+    "format": "ONA",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "duration": 1,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx218938-i29Q90gbQcZQ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx218938-i29Q90gbQcZQ.png",
+      "color": "#f1c9c9"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 4,
+          "airingAt": 1793610000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1794214800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1794819600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795424400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1796029200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1796634000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1797238800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797843600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1798448400
+        }
+      ]
+    }
+  },
+  {
     "id": 218942,
     "title": {
       "romaji": "Sylvanian Families: Freya no Colorful Everyday",
