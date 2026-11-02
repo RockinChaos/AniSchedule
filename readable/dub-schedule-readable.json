@@ -5,8 +5,9 @@
     "romaji": "#Zombie Sagashitemasu",
     "english": "#‌‌​I'm Looking For a Zombie",
     "native": "#ゾンビさがしてます",
-    "delayedFrom": "0001-01-01T15:00:00Z",
-    "delayedUntil": "0001-01-01T15:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-11-07T15:00:00Z",
+    "delayedUntil": "2026-11-14T15:00:00Z",
     "episodeDate": "2026-11-07T15:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
@@ -47,7 +48,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-11-07T15:00:00Z"
+              "airingAt": "2026-11-14T15:00:00Z"
             }
           ]
         }
