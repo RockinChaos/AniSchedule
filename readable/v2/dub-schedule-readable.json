@@ -37,6 +37,10 @@
         {
           "episode": 1160,
           "airingAt": 1794931200
+        },
+        {
+          "episode": 1161,
+          "airingAt": 1795536000
         }
       ]
     }
@@ -143,6 +147,18 @@
         {
           "episode": 23,
           "airingAt": 1795366800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1795539600
+        },
+        {
+          "episode": 25,
+          "airingAt": 1795798800
+        },
+        {
+          "episode": 26,
+          "airingAt": 1795971600
         }
       ]
     }
@@ -478,6 +494,10 @@
         {
           "episode": 7,
           "airingAt": 1795022100
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795626900
         }
       ]
     }
@@ -647,6 +667,10 @@
         {
           "episode": 5,
           "airingAt": 1795014900
+        },
+        {
+          "episode": 6,
+          "airingAt": 1795619700
         }
       ]
     }
@@ -783,6 +807,10 @@
         {
           "episode": 33,
           "airingAt": 1795222800
+        },
+        {
+          "episode": 34,
+          "airingAt": 1795827600
         }
       ]
     }
@@ -821,6 +849,10 @@
         {
           "episode": 7,
           "airingAt": 1795363200
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795968000
         }
       ]
     }
@@ -1302,6 +1334,91 @@
         {
           "episode": 6,
           "airingAt": 1795273200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1795878000
+        }
+      ]
+    }
+  },
+  {
+    "id": 196012,
+    "idMal": 62048,
+    "title": {
+      "romaji": "MAO",
+      "english": "MAO",
+      "native": "MAO"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "duration": 25,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196012-R3YNjunufpYh.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196012-R3YNjunufpYh.jpg",
+      "color": "#f1935d"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196012-BbzGv8DuqVah.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 14,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 15,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 17,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 18,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 19,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 20,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 21,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 22,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 23,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 24,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 25,
+          "airingAt": 1795420800
+        },
+        {
+          "episode": 26,
+          "airingAt": 1795420800
         }
       ]
     }
@@ -1499,6 +1616,10 @@
         {
           "episode": 4,
           "airingAt": 1795176000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1795780800
         }
       ]
     }
@@ -1705,6 +1826,10 @@
         {
           "episode": 5,
           "airingAt": 1795361400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1795966200
         }
       ]
     }
@@ -2073,6 +2198,10 @@
         {
           "episode": 7,
           "airingAt": 1794929400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795534200
         }
       ]
     }
@@ -2158,6 +2287,10 @@
         {
           "episode": 8,
           "airingAt": 1795357800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795962600
         }
       ]
     }
@@ -2230,6 +2363,10 @@
         {
           "episode": 8,
           "airingAt": 1795280400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795885200
         }
       ]
     }
@@ -2320,6 +2457,10 @@
         {
           "episode": 5,
           "airingAt": 1795006800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1795611600
         }
       ]
     }
@@ -2359,6 +2500,10 @@
         {
           "episode": 5,
           "airingAt": 1795107600
+        },
+        {
+          "episode": 6,
+          "airingAt": 1795712400
         }
       ]
     }
@@ -2398,6 +2543,10 @@
         {
           "episode": 7,
           "airingAt": 1795363500
+        },
+        {
+          "episode": 8,
+          "airingAt": 1795968300
         }
       ]
     }
@@ -2543,6 +2692,40 @@
     }
   },
   {
+    "id": 213457,
+    "idMal": 64459,
+    "title": {
+      "romaji": "Fool Night",
+      "english": "Fool Night",
+      "native": "フールナイト"
+    },
+    "format": "ONA",
+    "genres": [
+      "Drama",
+      "Psychological",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213457-gN5p1GZjK3zi.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx213457-gN5p1GZjK3zi.jpg",
+      "color": "#93281a"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213457-4m8VEkWwzJEq.jpg",
+    "duration": 25,
+    "unaired": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1795680000
+        }
+      ]
+    }
+  },
+  {
     "id": 213805,
     "idMal": 64534,
     "title": {
@@ -2578,6 +2761,10 @@
         {
           "episode": 8,
           "airingAt": 1795102200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1795707000
         }
       ]
     }
