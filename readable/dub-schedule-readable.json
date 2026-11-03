@@ -332,10 +332,10 @@
     "title": "Chiikawa",
     "route": "chiikawa",
     "native": "ちいかわ",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-06T17:00:00Z",
-    "episodeNumber": 16,
+    "delayedFrom": "0001-01-01T22:00:00Z",
+    "delayedUntil": "0001-01-01T22:00:00Z",
+    "episodeDate": "2026-11-03T22:00:00Z",
+    "episodeNumber": 15,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -370,8 +370,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2026-11-06T17:00:00Z"
+              "episode": 15,
+              "airingAt": "2026-11-03T22:00:00Z"
             }
           ]
         }
@@ -2576,9 +2576,9 @@
     "romaji": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
     "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
     "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-11-03T15:30:00Z",
+    "delayedFrom": "0001-01-01T15:40:00Z",
+    "delayedUntil": "0001-01-01T15:40:00Z",
+    "episodeDate": "2026-11-03T15:40:00Z",
     "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2617,7 +2617,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-11-10T15:30:00Z"
+              "airingAt": "2026-11-10T15:40:00Z"
             }
           ]
         }
