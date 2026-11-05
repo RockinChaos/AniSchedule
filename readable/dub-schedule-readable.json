@@ -166,6 +166,58 @@
     "addedAt": "2026-10-04T08:15:20Z"
   },
   {
+    "title": "Aoki Denshou Welsh & Shedar",
+    "route": "aoki-denshou-welsh-and-shedar",
+    "native": "蒼き伝承 ウェルシュ＆シェダー",
+    "delayedFrom": "0001-01-01T19:00:00Z",
+    "delayedUntil": "0001-01-01T19:00:00Z",
+    "episodeDate": "2026-11-05T19:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 216895,
+        "idMal": 65009,
+        "title": {
+          "romaji": "Aoki Denshou: Welsh & Shedar",
+          "english": "Welsh & Shedar",
+          "native": "蒼き伝承 ウェルシュ&シェーダー"
+        },
+        "format": "TV",
+        "genres": [
+          "Adventure",
+          "Fantasy"
+        ],
+        "duration": 23,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216895-Ofx4FSKFa4CQ.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216895-Ofx4FSKFa4CQ.jpg",
+          "color": "#5d93f1"
+        },
+        "isAdult": false,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-11-05T19:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-11-05T19:00:00Z"
+  },
+  {
     "title": "Beyblade X",
     "route": "beyblade-x",
     "delayedText": "Break",

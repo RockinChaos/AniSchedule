@@ -2701,5 +2701,80 @@
         }
       ]
     }
+  },
+  {
+    "id": 216895,
+    "idMal": 65009,
+    "title": {
+      "romaji": "Aoki Denshou: Welsh & Shedar",
+      "english": "Welsh & Shedar",
+      "native": "蒼き伝承 ウェルシュ&シェーダー"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 23,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx216895-Ofx4FSKFa4CQ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx216895-Ofx4FSKFa4CQ.jpg",
+      "color": "#5d93f1"
+    },
+    "isAdult": false,
+    "unaired": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793905200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1794510000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1795114800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1795719600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1796324400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1796929200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1797534000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1798138800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1798743600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1799348400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1799953200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1800558000
+        }
+      ]
+    }
   }
 ]
