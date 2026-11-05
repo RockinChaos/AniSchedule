@@ -1395,6 +1395,35 @@
     }
   },
   {
+    "id": 177636,
+    "idMal": 58879,
+    "title": {
+      "romaji": "NINJA SKOOLER Pilot Film",
+      "native": "ニンジャ スクーラー パイロットフィルム"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Slice of Life"
+    ],
+    "duration": 30,
+    "seasonYear": 2026,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177636-Xj1qLpDR8Nh7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx177636-Xj1qLpDR8Nh7.jpg"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1793926800
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 178083,
     "idMal": 59088,
     "title": {
