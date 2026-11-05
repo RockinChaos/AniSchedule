@@ -171,8 +171,8 @@
     "native": "蒼き伝承 ウェルシュ＆シェダー",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2026-11-05T19:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-11-06T19:00:00Z",
+    "episodeNumber": 2,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -181,7 +181,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 216895,
@@ -207,8 +207,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-11-05T19:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-11-06T19:00:00Z"
             }
           ]
         }
