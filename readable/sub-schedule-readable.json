@@ -690,10 +690,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 87,
-          "airingAt": 1793959200
-        },
-        {
           "episode": 88,
           "airingAt": 1794564000
         },
@@ -955,10 +951,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 156,
-          "airingAt": 1793958900
-        },
-        {
           "episode": 157,
           "airingAt": 1794563700
         },
@@ -1150,10 +1142,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 139,
-          "airingAt": 1793959200
-        },
         {
           "episode": 140,
           "airingAt": 1794564000
@@ -6676,8 +6664,9 @@
     ],
     "seasonYear": 2027,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212960-8sLSF8Z7Fyyo.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212960-8sLSF8Z7Fyyo.png"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx212960-0gVtxmjlT5s1.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx212960-0gVtxmjlT5s1.jpg",
+      "color": "#f1d6bb"
     },
     "isAdult": true,
     "airingSchedule": {
