@@ -452,7 +452,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 203275,
@@ -485,6 +485,10 @@
             {
               "episode": 2,
               "airingAt": "2026-11-06T12:00:00Z"
+            },
+            {
+              "episode": 3,
+              "airingAt": "2026-11-13T12:00:00Z"
             }
           ]
         }
