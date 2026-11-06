@@ -386,10 +386,10 @@
     "title": "Chiikawa",
     "route": "chiikawa",
     "native": "ちいかわ",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2026-11-06T22:00:00Z",
-    "episodeNumber": 16,
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-11-08T17:00:00Z",
+    "episodeNumber": 17,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -424,8 +424,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 16,
-              "airingAt": "2026-11-06T22:00:00Z"
+              "episode": 17,
+              "airingAt": "2026-11-08T17:00:00Z"
             }
           ]
         }
