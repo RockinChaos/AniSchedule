@@ -873,6 +873,59 @@
     "addedAt": "2026-10-22T17:15:23Z"
   },
   {
+    "title": "Ingoku Danchi",
+    "route": "ingoku-danchi",
+    "romaji": "Ingoku Danchi",
+    "english": "Ingoku Danchi: Deviant's Apartment Complex",
+    "native": "淫獄団地",
+    "delayedFrom": "0001-01-01T04:00:00Z",
+    "delayedUntil": "0001-01-01T04:00:00Z",
+    "episodeDate": "2026-11-12T04:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 3,
+    "mediaTypes": [
+      {
+        "name": "TV Short",
+        "route": "tv-short"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 206166,
+        "idMal": 63310,
+        "title": {
+          "romaji": "Ingoku Danchi",
+          "english": "Ingoku Danchi:Deviant's Apartment Complex",
+          "native": "インゴクダンチ"
+        },
+        "format": "TV_SHORT",
+        "genres": [
+          "Ecchi"
+        ],
+        "duration": 3,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206166-xTJ9h6RmMCKR.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206166-xTJ9h6RmMCKR.jpg",
+          "color": "#281a6b"
+        },
+        "isAdult": true,
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-11-12T04:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-11-12T04:00:00Z"
+  },
+  {
     "title": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run - 2nd - 3rd STAGE",
     "route": "jojo-no-kimyou-na-bouken-part-7-steel-ball-run-2nd-stage",
     "romaji": "JoJo no Kimyou na Bouken Part 7: Steel Ball Run - 2nd - 3rd STAGE",
