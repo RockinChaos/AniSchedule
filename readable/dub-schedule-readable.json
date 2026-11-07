@@ -711,65 +711,6 @@
     "addedAt": "2026-10-01T16:15:20Z"
   },
   {
-    "title": "Harem Camp!",
-    "route": "harem-camp",
-    "romaji": "Harem Camp!",
-    "english": "Harem Camp!",
-    "native": "ハーレムきゃんぷっ!",
-    "delayedFrom": "0001-01-01T00:00:00Z",
-    "delayedUntil": "0001-01-01T00:00:00Z",
-    "episodeDate": "2026-11-07T01:00:00Z",
-    "episodeNumber": 8,
-    "episodes": 8,
-    "lengthMin": 7,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "websites": {
-      "aniList": "https://anilist.co/anime/153567",
-      "mal": "https://myanimelist.net/anime/52717"
-    },
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 153567,
-        "idMal": 52717,
-        "title": {
-          "romaji": "Harem Camp!",
-          "english": "Harem Camp!",
-          "native": "ハーレムきゃんぷっ！"
-        },
-        "format": "ONA",
-        "genres": [
-          "Comedy",
-          "Ecchi",
-          "Slice of Life"
-        ],
-        "duration": 7,
-        "seasonYear": 2022,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx153567-V6GcuDVPbKdW.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx153567-V6GcuDVPbKdW.jpg",
-          "color": "#ffa143"
-        },
-        "isAdult": true,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 8,
-              "airingAt": "2026-11-07T01:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-09-17T01:00:00Z"
-  },
-  {
     "title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
     "route": "hitozukiai-ga-nigate-na-miboujin-no-yukionna-san-to-noroi-no-yubiwa",
     "romaji": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
@@ -1960,8 +1901,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 31,
-              "airingAt": "2026-11-07T01:00:00Z"
+              "episode": 32,
+              "airingAt": "2026-11-14T01:00:00Z"
             }
           ]
         }
