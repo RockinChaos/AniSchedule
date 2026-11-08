@@ -1943,10 +1943,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 6,
-          "airingAt": 1794141000
-        },
-        {
           "episode": 7,
           "airingAt": 1794745800
         },
@@ -3825,6 +3821,132 @@
         {
           "episode": 12,
           "airingAt": 1797697800
+        }
+      ]
+    }
+  },
+  {
+    "id": 202851,
+    "idMal": 63240,
+    "title": {
+      "romaji": "Fanren Xiu Xian Zhuan Di Wu Ji",
+      "native": "凡人修仙传 第五季"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "duration": 20,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202851-iHwg4I1NdfMx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202851-iHwg4I1NdfMx.jpg",
+      "color": "#fe5d50"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/202851-o9JMx6xWGQUT.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 24,
+          "airingAt": 1794625200
+        },
+        {
+          "episode": 25,
+          "airingAt": 1795230000
+        },
+        {
+          "episode": 26,
+          "airingAt": 1795834800
+        },
+        {
+          "episode": 27,
+          "airingAt": 1796439600
+        },
+        {
+          "episode": 28,
+          "airingAt": 1797044400
+        },
+        {
+          "episode": 29,
+          "airingAt": 1797649200
+        },
+        {
+          "episode": 30,
+          "airingAt": 1798254000
+        },
+        {
+          "episode": 31,
+          "airingAt": 1798858800
+        },
+        {
+          "episode": 32,
+          "airingAt": 1799463600
+        },
+        {
+          "episode": 33,
+          "airingAt": 1800068400
+        },
+        {
+          "episode": 34,
+          "airingAt": 1800673200
+        },
+        {
+          "episode": 35,
+          "airingAt": 1801278000
+        },
+        {
+          "episode": 36,
+          "airingAt": 1801882800
+        },
+        {
+          "episode": 37,
+          "airingAt": 1802487600
+        },
+        {
+          "episode": 38,
+          "airingAt": 1803092400
+        },
+        {
+          "episode": 39,
+          "airingAt": 1803697200
+        },
+        {
+          "episode": 40,
+          "airingAt": 1804302000
+        },
+        {
+          "episode": 41,
+          "airingAt": 1804906800
+        },
+        {
+          "episode": 42,
+          "airingAt": 1805511600
+        },
+        {
+          "episode": 43,
+          "airingAt": 1806116400
+        },
+        {
+          "episode": 44,
+          "airingAt": 1806721200
+        },
+        {
+          "episode": 45,
+          "airingAt": 1807326000
+        },
+        {
+          "episode": 46,
+          "airingAt": 1807930800
+        },
+        {
+          "episode": 47,
+          "airingAt": 1808535600
+        },
+        {
+          "episode": 48,
+          "airingAt": 1809140400
         }
       ]
     }
