@@ -505,7 +505,7 @@
     "native": "ドラゴンボール超 ビルス",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-08T16:00:00Z",
+    "episodeDate": "2026-11-12T16:00:00Z",
     "episodeNumber": 1,
     "lengthMin": 23,
     "mediaTypes": [
@@ -514,7 +514,7 @@
         "route": "tv"
       }
     ],
-    "unaired": false,
+    "unaired": true,
     "media": {
       "media": {
         "id": 206814,
@@ -542,8 +542,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 2,
-              "airingAt": "2026-11-15T16:00:00Z"
+              "episode": 1,
+              "airingAt": "2026-11-12T16:00:00Z"
             }
           ]
         }

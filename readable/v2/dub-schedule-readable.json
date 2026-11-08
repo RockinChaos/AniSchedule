@@ -1895,19 +1895,20 @@
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206814-ARuwrZJAGONN.jpg",
+    "unaired": true,
     "airingSchedule": {
       "nodes": [
         {
+          "episode": 1,
+          "airingAt": 1794499200
+        },
+        {
           "episode": 2,
-          "airingAt": 1794758400
+          "airingAt": 1795104000
         },
         {
           "episode": 3,
-          "airingAt": 1795363200
-        },
-        {
-          "episode": 4,
-          "airingAt": 1795968000
+          "airingAt": 1795708800
         }
       ]
     }
