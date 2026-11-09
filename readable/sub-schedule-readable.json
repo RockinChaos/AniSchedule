@@ -8810,9 +8810,9 @@
     ],
     "seasonYear": 2026,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217941-olQB62EBXrqS.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217941-olQB62EBXrqS.png",
-      "color": "#355dbb"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217941-pwtEsWsLRFms.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217941-pwtEsWsLRFms.png",
+      "color": "#e4bba1"
     },
     "isAdult": true,
     "airingSchedule": {
@@ -8820,6 +8820,10 @@
         {
           "episode": 1,
           "airingAt": 1796914800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1802358000
         }
       ]
     },
@@ -9153,10 +9157,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 5,
-          "airingAt": 1794214800
-        },
         {
           "episode": 6,
           "airingAt": 1794819600
