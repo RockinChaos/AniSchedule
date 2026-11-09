@@ -543,57 +543,6 @@
     "addedAt": "2026-11-08T16:00:00Z"
   },
   {
-    "title": "Dungeons & Television",
-    "route": "dungeons-and-television",
-    "native": "ダンジョン＆テレビジョン",
-    "delayedText": "Delayed",
-    "delayedFrom": "2025-08-16T12:00:00Z",
-    "delayedUntil": "2031-01-01T12:00:00Z",
-    "episodeDate": "2026-11-14T12:00:00Z",
-    "episodeNumber": 2,
-    "lengthMin": 5,
-    "mediaTypes": [
-      {
-        "name": "ONA",
-        "route": "ona"
-      }
-    ],
-    "unaired": false,
-    "delayedIndefinitely": true,
-    "media": {
-      "media": {
-        "id": 198560,
-        "idMal": 62238,
-        "title": {
-          "romaji": "Dungeons & Television",
-          "native": "ダンジョン＆テレビジョン"
-        },
-        "format": "ONA",
-        "genres": [
-          "Adventure",
-          "Fantasy"
-        ],
-        "duration": 5,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198560-Sv9fNr4L8hp3.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198560-Sv9fNr4L8hp3.jpg",
-          "color": "#e4ae43"
-        },
-        "isAdult": false,
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 2,
-              "airingAt": "2031-01-01T12:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2025-09-20T20:17:06Z"
-  },
-  {
     "title": "Fool Night",
     "route": "fool-night",
     "native": "フールナイト",
