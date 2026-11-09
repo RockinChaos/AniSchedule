@@ -11,6 +11,7 @@ title {
 },
 format,
 genres,
+episodes,
 duration,
 seasonYear,
 coverImage {
@@ -107,7 +108,6 @@ class AnilistClient {
                   hasNextPage
                 },
                 media(id_in: $id, idMal_in: $idMal, id_not_in: $id_not, type: ANIME, status_in: $status, onList: $onList, search: $search, sort: $sort, season: $season, seasonYear: $year, genre_in: $genre, tag_in: $tag, format: $format) {
-                  episodes,
                   ${queryObjects},${variables?.aired ? queryAiredObjects : queryAiringObjects}
                 }
               }
