@@ -109,7 +109,10 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
 
     const result = []
     for (const { media, explicit, total, zeroOffset, predict } of mediaById.values()) {
-        const nodes = [...explicit.values()].sort((a, b) => a.episode - b.episode)
+        // Explicit timetable rows can continue past the final episode after a series ends.
+        const lastEpisode = Math.min(Number(media.episodes) > 0 ? Number(media.episodes) : Infinity,
+          total > 0 ? total - zeroOffset : Infinity)
+        const nodes = [...explicit.values()].filter(node => node.episode <= lastEpisode).sort((a, b) => a.episode - b.episode)
         if (!nodes.length) continue
         // Locked historical timetables can miss a single episode. Recover only interior gaps
         // whose date is supported by a repeating weekly slot in the fetched entries.
@@ -135,7 +138,7 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
         nodes.push(...missing)
         nodes.sort((a, b) => a.episode - b.episode)
         const latest = nodes[nodes.length - 1]
-        if (predict && total > latest.episode && !nodes.some(node => node.delayedIndefinitely)) {
+        if (predict && total > 0 && lastEpisode > latest.episode && !nodes.some(node => node.delayedIndefinitely)) {
             const step = cadence(nodes)
             // Repeat the latest verified weekly cycle, preserving multi-day slots and batches.
             const weekAgo = nodes.findLast(node => node.airingAt === latest.airingAt - week && !node.delayed)
@@ -144,7 +147,7 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
             const repeatsWeekly = cycleSize > 0 && cycle.length === cycleSize && cycle.every(node =>
                 !node.delayed && nodes.some(previous => previous.episode === node.episode - cycleSize
                   && !previous.delayed && previous.airingAt === node.airingAt - week))
-            for (let episode = latest.episode + 1; episode <= total - zeroOffset; episode++) {
+            for (let episode = latest.episode + 1; episode <= lastEpisode; episode++) {
                 const prior = repeatsWeekly ? nodes.find(node => node.episode === episode - cycleSize) : null
                 nodes.push({ episode, airingAt: prior ? prior.airingAt + week : latest.airingAt + step * (episode - latest.episode) })
             }
@@ -520,8 +523,9 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
     for (const media of schedule) {
         if (!media?.id) continue
         const title = media.title?.english ?? media.title?.romaji ?? String(media.id)
+        const lastEpisode = Number(media.episodes) > 0 ? Number(media.episodes) : Infinity
         const nodes = new Map((media.airingSchedule?.nodes || [])
-          .filter(node => Number.isInteger(node.episode) && node.episode >= 0)
+          .filter(node => Number.isInteger(node.episode) && node.episode >= 0 && node.episode <= lastEpisode)
           .map(node => [node.episode, node]))
         const metadata = entry => omitNullish({
             ...entry,
@@ -599,7 +603,7 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
         // first appearance must not cause its entire earlier history to be invented.
         const firstKnown = Math.min(firstLogged?.episode.aired ?? Infinity, ...nodes.keys())
         const firstEpisode = firstKnown < 4 ? (media.zeroEpisode ? 0 : 1) : firstKnown
-        const latest = Math.max(-1, ...released.map(entry => entry.episode.aired), nodes.size ? Math.min(...nodes.keys()) - 1 : -1)
+        const latest = Math.min(lastEpisode, Math.max(-1, ...released.map(entry => entry.episode.aired), nodes.size ? Math.min(...nodes.keys()) - 1 : -1))
         for (let episode = firstEpisode; episode <= latest; episode++) {
             if (feed.has(key(media.id, episode)) || nodes.has(episode)) continue
             const before = dated.findLast(node => node.episode < episode)
