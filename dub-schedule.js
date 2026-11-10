@@ -6,6 +6,12 @@ import path from 'path'
 const readableDubSchedulePath = './readable/v2/dub-schedule-readable.json'
 const dubSchedulePath = './raw/v2/dub-schedule.json'
 
+// Temporary: frozen API weeks still contain these incorrect dub episodes.
+const currentWeekOnlyDubEpisodes = [
+    { route: 'beyblade-x', id: 165159, episode: 101 },
+    { route: 'yu-gi-oh-go-rush', id: 142842, episode: 68 }
+]
+
 // query animeschedule for the proper timetables //
 async function fetchAiringSchedule(opts) {
     try {
@@ -55,6 +61,8 @@ function delayKey(entry) {
 export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], currentRoutes = resolvedEntries.map(entry => entry.route)) {
     const rowsByRoute = new Map()
     const customRouteSet = new Set(customRoutes)
+    const { startYear, startWeek } = calculateWeeksToFetch()
+    const currentWeekRows = new Set(weeks.filter(week => week.year === startYear && week.week === startWeek).flatMap(week => week.entries || []))
     for (const week of weeks) {
         for (const entry of week.entries || []) {
             if (!entry.route || (entry.airType && entry.airType !== 'dub')) continue
@@ -99,6 +107,7 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
             if (airingAt === null && !delayedIndefinitely) continue
             for (const episode of episodes) {
                 if (episode < 0) continue
+                if (!currentWeekRows.has(row) && currentWeekOnlyDubEpisodes.some(override => override.id === media.id && override.episode === episode)) continue
                 group.explicit.set(episode, delayedIndefinitely
                   ? { episode, delayedIndefinitely: true }
                   : { episode, airingAt, ...(delayed ? { delayed: true } : {}) })
@@ -124,6 +133,7 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
             const before = nodes[index - 1], after = nodes[index]
             if (after.episode - before.episode !== 2 || !singles.includes(before) || !singles.includes(after)) continue
             const episode = before.episode + 1
+            if (currentWeekOnlyDubEpisodes.some(override => override.id === media.id && override.episode === episode)) continue
             const dates = new Set()
             for (const anchor of singles) {
                 const nextWeek = singles.find(node => node.episode > anchor.episode && node.airingAt === anchor.airingAt + week)
@@ -148,6 +158,7 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
                 !node.delayed && nodes.some(previous => previous.episode === node.episode - cycleSize
                   && !previous.delayed && previous.airingAt === node.airingAt - week))
             for (let episode = latest.episode + 1; episode <= lastEpisode; episode++) {
+                if (currentWeekOnlyDubEpisodes.some(override => override.id === media.id && override.episode === episode)) continue
                 const prior = repeatsWeekly ? nodes.find(node => node.episode === episode - cycleSize) : null
                 nodes.push({ episode, airingAt: prior ? prior.airingAt + week : latest.airingAt + step * (episode - latest.episode) })
             }
@@ -210,7 +221,8 @@ async function writeLegacyDubSchedule(airing, order, schedule) {
                     media: {
                         ...resolved.media,
                         airingSchedule: {
-                            nodes: range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode).map((ep) => ({
+                            nodes: range(airingItem.subtractedEpisodeNumber || predictedEpisode, predictedEpisode)
+                              .filter(ep => !currentWeekOnlyDubEpisodes.some(override => override.id === resolved.media.id && override.episode === ep && ep > airingItem.episodeNumber)).map((ep) => ({
                                 episode: ep,
                                 airingAt: past(new Date((new Date(airingItem.delayedUntil) < new Date()) ? airingItem.episodeDate : airingItem.delayedUntil), (airingItem.episodeNumber < ep ? 1 : 0), false)
                             }))
@@ -294,7 +306,10 @@ export async function fetchDubSchedule() {
 
     while (year < endYear || (year === endYear && week <= endWeek)) {
         console.log(`Fetching dub timetables for Year ${year}, Week ${week}...`)
-        const fetchedData = await fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN})
+        let fetchedData = await fetchAiringSchedule({type: 'timetables', year, week, token: BEARER_TOKEN})
+        if (fetchedData && (year !== startYear || week !== startWeek)) {
+            fetchedData = fetchedData.filter(entry => !currentWeekOnlyDubEpisodes.some(override => override.route === entry.route && override.episode === entry.episodeNumber))
+        }
         if (fetchedData) {
             // Keep every fetched week for episode nodes.
             fetchedWeeks.push({ year, week, entries: structuredClone(fetchedData) })
@@ -606,6 +621,7 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
         const latest = Math.min(lastEpisode, Math.max(-1, ...released.map(entry => entry.episode.aired), nodes.size ? Math.min(...nodes.keys()) - 1 : -1))
         for (let episode = firstEpisode; episode <= latest; episode++) {
             if (feed.has(key(media.id, episode)) || nodes.has(episode)) continue
+            if (currentWeekOnlyDubEpisodes.some(override => override.id === media.id && override.episode === episode)) continue
             const before = dated.findLast(node => node.episode < episode)
             const after = dated.find(node => node.episode > episode)
             const anchor = dated.filter(node => !node.delayed && (node.episode - episode) % episodesPerWeek === 0)
