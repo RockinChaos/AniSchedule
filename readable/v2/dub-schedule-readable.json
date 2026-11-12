@@ -1627,13 +1627,8 @@
       "color": "#281a6b"
     },
     "isAdult": true,
-    "unaired": true,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1794456000
-        },
         {
           "episode": 2,
           "airingAt": 1795060800
