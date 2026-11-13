@@ -63,6 +63,8 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
     const customRouteSet = new Set(customRoutes)
     const { startYear, startWeek } = calculateWeeksToFetch()
     const currentWeekRows = new Set(weeks.filter(week => week.year === startYear && week.week === startWeek).flatMap(week => week.entries || []))
+    const predictionRows = new Set(weeks.filter(week => week.year === undefined || week.year > startYear
+      || (week.year === startYear && week.week >= startWeek)).flatMap(week => week.entries || []))
     for (const week of weeks) {
         for (const entry of week.entries || []) {
             if (!entry.route || (entry.airType && entry.airType !== 'dub')) continue
@@ -78,10 +80,11 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
         if (!mediaById.has(media.id)) {
             const format = media.format || mediaTypeMap(entry.mediaTypes?.[0]?.route)
             const duration = media.duration ?? entry.lengthMin ?? durationMap[format]
-            mediaById.set(media.id, { media: { ...media, format, duration }, explicit: new Map(), total: 0, zeroOffset: media.zeroEpisode ? 1 : 0, predict: false })
+            mediaById.set(media.id, { media: { ...media, format, duration }, explicit: new Map(), predictionNodes: new Set(), total: 0, zeroOffset: media.zeroEpisode ? 1 : 0, predict: false, custom: false })
         }
         const group = mediaById.get(media.id)
         if (currentRoutes.includes(entry.route)) group.predict = true
+        if (customRouteSet.has(entry.route)) group.custom = true
         const rows = customRouteSet.has(entry.route) ? [] : [...(rowsByRoute.get(entry.route) || [])]
         const zeroOffset = media.zeroEpisode ? 1 : 0
         if (!rows.length || customRouteSet.has(entry.route)) rows.push(entry)
@@ -108,16 +111,18 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
             for (const episode of episodes) {
                 if (episode < 0) continue
                 if (!currentWeekRows.has(row) && currentWeekOnlyDubEpisodes.some(override => override.id === media.id && override.episode === episode)) continue
-                group.explicit.set(episode, delayedIndefinitely
+                const node = delayedIndefinitely
                   ? { episode, delayedIndefinitely: true }
-                  : { episode, airingAt, ...(delayed ? { delayed: true } : {}) })
+                  : { episode, airingAt, ...(delayed ? { delayed: true } : {}) }
+                group.explicit.set(episode, node)
+                if (predictionRows.has(row)) group.predictionNodes.add(node)
             }
         }
         group.total = Math.max(group.total, Number(rows.findLast(row => Number(row.episodes) > 0)?.episodes) || Number(entry.episodes) || 0)
     }
 
     const result = []
-    for (const { media, explicit, total, zeroOffset, predict } of mediaById.values()) {
+    for (const { media, explicit, predictionNodes, total, zeroOffset, predict, custom } of mediaById.values()) {
         // Explicit timetable rows can continue past the final episode after a series ends.
         const lastEpisode = Math.min(Number(media.episodes) > 0 ? Number(media.episodes) : Infinity,
           total > 0 ? total - zeroOffset : Infinity)
@@ -143,12 +148,15 @@ export function buildDubSchedule(weeks, resolvedEntries, customRoutes = [], curr
                 dates.add(anchor.airingAt + (episode - anchor.episode) / episodesPerWeek * week)
             }
             const [airingAt] = dates
-            if (dates.size === 1 && airingAt > before.airingAt && airingAt < after.airingAt) missing.push({ episode, airingAt })
+            if (dates.size === 1 && airingAt < Date.now() / 1_000 && airingAt > before.airingAt && airingAt < after.airingAt) missing.push({ episode, airingAt })
         }
         nodes.push(...missing)
         nodes.sort((a, b) => a.episode - b.episode)
         const latest = nodes[nodes.length - 1]
-        if (predict && total > 0 && lastEpisode > latest.episode && !nodes.some(node => node.delayedIndefinitely)) {
+        // Frozen history and a single batch cannot confirm that the release cadence continues.
+        const canPredict = predict && (custom || new Set(nodes.filter(node => predictionNodes.has(node) && Number.isFinite(node.airingAt))
+          .map(node => node.airingAt)).size >= 2)
+        if (canPredict && total > 0 && lastEpisode > latest.episode && !nodes.some(node => node.delayedIndefinitely)) {
             const step = cadence(nodes)
             // Repeat the latest verified weekly cycle, preserving multi-day slots and batches.
             const weekAgo = nodes.findLast(node => node.airingAt === latest.airingAt - week && !node.delayed)
@@ -181,7 +189,7 @@ async function writeLegacyDubSchedule(airing, order, schedule) {
     const existingLegacySchedule = loadJSON(path.join('./raw/dub-schedule.json'))
 
     // Each route in airing already comes from its first fetched current/future week.
-    // Only collapse repeated routes for legacy output; the primary schedule keeps every slot.
+    // Only collapse repeated routes for legacy output, the primary schedule keeps every slot.
     function filterWeeklyDubTimetables(timetables, now = new Date()) {
         const selected = new Map()
         for (const entries of Map.groupBy(timetables, entry => entry.route).values()) {
@@ -209,7 +217,9 @@ async function writeLegacyDubSchedule(airing, order, schedule) {
               ? previous.delayedUntil : new Date(new Date().getFullYear() + 6, 0, 1).toISOString()
         }
         const numberOfEpisodes = airingItem.subtractedEpisodeNumber ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 1
-        const predictedEpisode = airingItem.episodeNumber + ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired ? 0
+        const canPredict = schedule.some(media => media.id === resolved?.media?.id
+          && media.airingSchedule.nodes.some(node => node.episode > airingItem.episodeNumber))
+        const predictedEpisode = airingItem.episodeNumber + (!canPredict || ((numberOfEpisodes > 4) && (airingStatus === 'aired') && !airingItem.unaired) ? 0
           : ((new Date(airingItem.episodeDate) < new Date()) && (new Date(airingItem.delayedUntil) < new Date()) && (!airingItem.episodes || (airingItem.episodeNumber < airingItem.episodes))
             ? ((airingItem.subtractedEpisodeNumber >= 1 && (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) > 1 ? (airingItem.episodeNumber - airingItem.subtractedEpisodeNumber) : 0) + 1) : 0))
         const range = (start, end) => Array.from({ length: end - start + 1 }, (_, i) => start + i)
@@ -313,7 +323,7 @@ export async function fetchDubSchedule() {
         if (fetchedData) {
             // Keep every fetched week for episode nodes.
             fetchedWeeks.push({ year, week, entries: structuredClone(fetchedData) })
-            // Prior weeks supply historical nodes; current/future weeks select the current row.
+            // Prior weeks supply historical nodes, current/future weeks select the current row.
             if (year > startYear || (year === startYear && week >= startWeek)) {
                 const newEntries = fetchedData.filter((item) => !airingLists.some((existing) => existing.route === item.route))
                 airingLists = [...airingLists, ...newEntries]
@@ -483,10 +493,11 @@ export async function fetchDubSchedule() {
         ...entry, media: resolvedEntries.find(resolved => resolved.route === entry.route)?.media
     }))
     const correctionSchedule = buildDubSchedule(fetchedWeeks, [...resolvedEntries, ...references], customRoutes, airingLists.map(entry => entry.route))
-    // Re-add indefinitely delayed series omitted from the timetables, using primary nodes.
+    // Omitted titles still need feed reconciliation, only suspended nodes remain on the public schedule.
     for (const media of existingSchedule) {
-        if (!correctionSchedule.some(entry => entry.id === media.id || (media.idMal && entry.idMal === media.idMal)) && media.airingSchedule?.nodes.some(node => node.delayedIndefinitely)
-          && malDubs.isDubMedia({ media })) correctionSchedule.push(omitNullish(media))
+        if (!correctionSchedule.some(entry => entry.id === media.id || (media.idMal && entry.idMal === media.idMal))
+          && malDubs.isDubMedia({ media })) correctionSchedule.push(omitNullish(media.airingSchedule?.nodes.some(node => node.delayedIndefinitely)
+            ? media : { ...media, airingSchedule: { nodes: [] } }))
     }
     const now = Date.now() / 1_000
     const currentIds = new Set(resolvedEntries.filter(entry => airingLists.some(current => current.route === entry.route)).map(entry => entry.media.id))
@@ -495,8 +506,30 @@ export async function fetchDubSchedule() {
     } })).filter(media => media.airingSchedule.nodes.length).sort((a, b) => a.id - b.id)
     const scheduleWarning = checkThreshold(schedule, existingSchedule)
     if (scheduleWarning) changes.push(scheduleWarning)
+    // Explicit episode confirmations are internal to this refresh, excluding predictions and custom dubs.
+    const confirmedEpisodes = new Map()
+    for (const media of correctionSchedule) {
+        const entries = resolvedEntries.filter(entry => entry.media.id === media.id)
+        if (entries.some(entry => customRoutes.includes(entry.route))) continue
+        const confirmed = new Map()
+        for (const entry of entries) {
+            for (const row of fetchedWeeks.flatMap(week => week.entries).filter(row => row.route === entry.route && (!row.airType || row.airType === 'dub'))) {
+                const airingAt = row.delayedIndefinitely ? null : Math.max(toSeconds(row.episodeDate) ?? -Infinity, toSeconds(row.delayedUntil) ?? -Infinity)
+                for (const episode of episodeRange(row)) confirmed.set(episode - (media.zeroEpisode ? 1 : 0), airingAt)
+            }
+        }
+        confirmedEpisodes.set(media.id, confirmed)
+    }
+    const timetableWeeks = fetchedWeeks.map(({ year, week }) => {
+        const start = new Date(Date.UTC(year, 0, 4))
+        start.setUTCDate(start.getUTCDate() - (start.getUTCDay() + 6) % 7 + (week - 1) * 7)
+        return start.getTime() / 1_000
+    })
     // Validate the proposed schedule before writing any feed, custom entry or manifest changes.
-    changes.push(...await updateDubFeed(false, correctionSchedule))
+    changes.push(...await updateDubFeed(false, correctionSchedule, {
+        episodes: confirmedEpisodes, weeks: timetableWeeks,
+        currentWeek: timetableWeeks[fetchedWeeks.findIndex(week => week.year === startYear && week.week === startWeek)]
+    }))
     if (JSON.stringify(customDubs) !== JSON.stringify(exactCustomDubs)) {
         console.log(`Changes detected in the custom dubs lists.... saved!`)
         saveJSON(path.join('./custom/custom-dubs.json'), customDubs, true)
@@ -521,7 +554,7 @@ export async function fetchDubSchedule() {
 }
 
 // update dub schedule episode feed //
-export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
+export async function updateDubFeed(scheduleUpdate = false, newSchedule, timetables) {
     const schedule = newSchedule ?? loadJSON(dubSchedulePath)
     const exactFeed = loadJSON(path.join('./raw/dub-episode-feed.json'))
     const now = Date.now()
@@ -539,8 +572,22 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
         if (!media?.id) continue
         const title = media.title?.english ?? media.title?.romaji ?? String(media.id)
         const lastEpisode = Number(media.episodes) > 0 ? Number(media.episodes) : Infinity
+        const confirmed = timetables?.episodes.get(media.id)
+        const lastConfirmed = Math.max(-1, ...[...(confirmed || [])].filter(([, airingAt]) => Number.isFinite(airingAt) && airingAt <= now / 1_000)
+          .map(([episode]) => episode))
+        // Only trailing, unsupported releases in successfully fetched weeks can be withdrawn.
+        // Without any historical confirmation, limit cleanup to the current week and later.
+        const isWithdrawn = (episode, airingAt) => confirmed && episode > lastConfirmed && !confirmed.has(episode) && Number.isFinite(airingAt)
+          && (lastConfirmed >= 0 || airingAt >= timetables.currentWeek)
+          && timetables.weeks.some(start => airingAt >= start && airingAt < start + 7 * 24 * 60 * 60)
+        for (const [id, entry] of feed) {
+            if (entry.id === media.id && isWithdrawn(entry.episode.aired, toSeconds(entry.episode.airedAt))) {
+                feed.delete(id)
+                changes.push(`(Dub) Removed Episode ${entry.episode.aired} of ${title} as it was removed from the timetables`)
+            }
+        }
         const nodes = new Map((media.airingSchedule?.nodes || [])
-          .filter(node => Number.isInteger(node.episode) && node.episode >= 0 && node.episode <= lastEpisode)
+          .filter(node => Number.isInteger(node.episode) && node.episode >= 0 && node.episode <= lastEpisode && !isWithdrawn(node.episode, node.airingAt))
           .map(node => [node.episode, node]))
         const metadata = entry => omitNullish({
             ...entry,
@@ -630,7 +677,7 @@ export async function updateDubFeed(scheduleUpdate = false, newSchedule) {
               : anchor ? anchor.airingAt + (episode - anchor.episode) / episodesPerWeek * week : null
             // A compressed release gap is a batch, not a date before its preceding episode.
             if (airingAt !== null && before && airingAt < before.airingAt) airingAt = before.airingAt
-            if (airingAt === null || airingAt * 1_000 > now || (after && airingAt > after.airingAt)) continue
+            if (airingAt === null || airingAt * 1_000 > now || (after && airingAt > after.airingAt) || isWithdrawn(episode, airingAt)) continue
             feed.set(key(media.id, episode), metadata({
                 id: media.id,
                 ...(media.idMal ? { idMal: media.idMal } : {}),
