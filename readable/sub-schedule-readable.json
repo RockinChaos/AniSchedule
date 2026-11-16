@@ -1232,6 +1232,78 @@
     }
   },
   {
+    "id": 173334,
+    "idMal": 57821,
+    "title": {
+      "romaji": "Wanpaku! Touken Ranbu",
+      "native": "わんぱく！刀剣乱舞"
+    },
+    "format": "TV_SHORT",
+    "genres": [
+      "Comedy"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173334-rtALPI5XZ0nG.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx173334-rtALPI5XZ0nG.png",
+      "color": "#e46b50"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799196840
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799801640
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800406440
+        },
+        {
+          "episode": 4,
+          "airingAt": 1801011240
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801616040
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802220840
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802825640
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803430440
+        },
+        {
+          "episode": 9,
+          "airingAt": 1804035240
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804640040
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805244840
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805849640
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 176314,
     "idMal": 58518,
     "title": {
