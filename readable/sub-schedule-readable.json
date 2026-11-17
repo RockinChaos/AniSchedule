@@ -3693,6 +3693,7 @@
       "Adventure",
       "Fantasy"
     ],
+    "episodes": 12,
     "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
@@ -5168,6 +5169,7 @@
       "Fantasy",
       "Slice of Life"
     ],
+    "episodes": 12,
     "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
@@ -5194,6 +5196,14 @@
         {
           "episode": 10,
           "airingAt": 1796742000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1797346800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1797951600
         }
       ]
     }
@@ -5362,6 +5372,7 @@
       "Fantasy",
       "Romance"
     ],
+    "episodes": 12,
     "duration": 24,
     "seasonYear": 2026,
     "coverImage": {
