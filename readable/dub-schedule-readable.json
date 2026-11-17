@@ -338,8 +338,8 @@
     "native": "ちいかわ",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-17T17:00:00Z",
-    "episodeNumber": 21,
+    "episodeDate": "2026-11-20T17:00:00Z",
+    "episodeNumber": 22,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -374,8 +374,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 21,
-              "airingAt": "2026-11-17T17:00:00Z"
+              "episode": 22,
+              "airingAt": "2026-11-20T17:00:00Z"
             }
           ]
         }
@@ -995,6 +995,63 @@
     "addedAt": "2026-10-01T15:30:00Z"
   },
   {
+    "title": "Kuroneko to Majo no Kyoushitsu",
+    "route": "kuroneko-to-majo-no-kyoushitsu",
+    "romaji": "Kuroneko to Majo no Kyoushitsu",
+    "english": "The Classroom of a Black Cat and a Witch",
+    "native": "黒猫と魔女の教室",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-11-17T16:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 24,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": false,
+    "media": {
+      "media": {
+        "id": 196974,
+        "idMal": 62171,
+        "title": {
+          "romaji": "Kuroneko to Majo no Kyoushitsu",
+          "english": "The Classroom of the Black Cat and a Witch",
+          "native": "黒猫と魔女の教室"
+        },
+        "format": "TV",
+        "genres": [
+          "Action",
+          "Comedy",
+          "Fantasy"
+        ],
+        "episodes": 24,
+        "duration": 24,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196974-mZk1uyrx0XNx.png",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196974-mZk1uyrx0XNx.png",
+          "color": "#50aef1"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 2,
+              "airingAt": "2026-11-24T16:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-11-17T17:12:02Z"
+  },
+  {
     "title": "Kusuriya no Hitorigoto 3rd Season",
     "route": "kusuriya-no-hitorigoto-zoku-hen",
     "romaji": "Kusuriya no Hitorigoto 3rd Season",
@@ -1595,8 +1652,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1160,
-              "airingAt": "2026-11-17T17:00:00Z"
+              "episode": 1161,
+              "airingAt": "2026-11-24T17:00:00Z"
             }
           ]
         }
