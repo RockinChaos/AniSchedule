@@ -9115,5 +9115,35 @@
       ]
     },
     "unaired": true
+  },
+  {
+    "id": 219986,
+    "idMal": 64448,
+    "title": {
+      "romaji": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan",
+      "native": "斗破苍穹剧场版 双帝之战"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "episodes": 1,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx219986-AJSNzqbspfOY.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx219986-AJSNzqbspfOY.jpg",
+      "color": "#e45d6b"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1795320000
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
