@@ -1067,6 +1067,43 @@
     }
   },
   {
+    "id": 168085,
+    "idMal": 60598,
+    "title": {
+      "romaji": "Dali Si Rizhi 3",
+      "english": "White Cat Legend 3",
+      "native": "大理寺日志 第3季"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx168085-hPOOODUADp7D.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx168085-hPOOODUADp7D.png",
+      "color": "#e4ae50"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 14,
+          "airingAt": 1795273200
+        },
+        {
+          "episode": 15,
+          "airingAt": 1795618800
+        },
+        {
+          "episode": 16,
+          "airingAt": 1795878000
+        }
+      ]
+    }
+  },
+  {
     "id": 169581,
     "idMal": 56733,
     "title": {
