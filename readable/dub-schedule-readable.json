@@ -927,8 +927,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
-              "airingAt": "2026-11-18T17:15:00Z"
+              "episode": 8,
+              "airingAt": "2026-11-25T17:15:00Z"
             }
           ]
         }
@@ -1181,7 +1181,7 @@
         "route": "tv"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 206949,
@@ -1209,8 +1209,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-11-18T17:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-11-25T17:00:00Z"
             }
           ]
         }
@@ -1263,8 +1263,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-11-18T16:30:00Z"
+              "episode": 6,
+              "airingAt": "2026-11-25T16:30:00Z"
             }
           ]
         }
@@ -2152,8 +2152,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 6,
-              "airingAt": "2026-11-18T17:00:00Z"
+              "episode": 7,
+              "airingAt": "2026-11-25T17:00:00Z"
             }
           ]
         }
@@ -2426,8 +2426,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 5,
-              "airingAt": "2026-11-18T17:00:00Z"
+              "episode": 6,
+              "airingAt": "2026-11-25T17:00:00Z"
             }
           ]
         }
