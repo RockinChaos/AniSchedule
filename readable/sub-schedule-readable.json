@@ -605,40 +605,6 @@
     }
   },
   {
-    "id": 143103,
-    "idMal": 50668,
-    "title": {
-      "romaji": "Mahoutsukai no Yoru",
-      "english": "Witch on the Holy Night",
-      "native": "魔法使いの夜"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Action",
-      "Drama",
-      "Fantasy"
-    ],
-    "episodes": 1,
-    "duration": 129,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx143103-vvsaIpZPpIuE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx143103-vvsaIpZPpIuE.png",
-      "color": "#f1d6ae"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/143103-KwDRPfPl4OwL.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1795100400
-        }
-      ]
-    },
-    "unaired": true
-  },
-  {
     "id": 146004,
     "idMal": 51768,
     "title": {
@@ -3493,10 +3459,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 7,
-          "airingAt": 1795100400
-        },
-        {
           "episode": 8,
           "airingAt": 1795705200
         },
@@ -4736,36 +4698,6 @@
         }
       ]
     }
-  },
-  {
-    "id": 206163,
-    "idMal": 63323,
-    "title": {
-      "romaji": "Soukou Kihei Votoms: Haiiro no Hexe",
-      "native": "装甲騎兵ボトムズ 灰色の魔女"
-    },
-    "format": "MOVIE",
-    "genres": [
-      "Mecha",
-      "Sci-Fi"
-    ],
-    "episodes": 1,
-    "duration": 100,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206163-pDqpH6qyKhmV.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206163-pDqpH6qyKhmV.png"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1795100400
-        }
-      ]
-    },
-    "unaired": true
   },
   {
     "id": 206244,
@@ -6125,10 +6057,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1795100400
-        },
-        {
           "episode": 9,
           "airingAt": 1795705200
         },
@@ -7136,10 +7064,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1795100160
-        },
-        {
           "episode": 9,
           "airingAt": 1795704960
         },
@@ -7410,10 +7334,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 14,
-          "airingAt": 1795100400
-        },
         {
           "episode": 15,
           "airingAt": 1795399200
