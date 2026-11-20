@@ -4210,10 +4210,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 4,
-          "airingAt": 1795176000
-        },
-        {
           "episode": 5,
           "airingAt": 1795780800
         },
@@ -4811,6 +4807,80 @@
         }
       ]
     }
+  },
+  {
+    "id": 205430,
+    "idMal": 63256,
+    "title": {
+      "romaji": "Boukensha License wo Hakudatsu Sareta Ossan Dakedo, Manamusume ga Dekita no de Nonbiri Jinsei wo Ouka Suru",
+      "native": "冒険者ライセンスを剥奪されたおっさんだけど、愛娘ができたのでのんびり人生を謳歌する"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205430-RlOn2H0wM7P5.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205430-RlOn2H0wM7P5.jpg",
+      "color": "#d6a178"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799334000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799938800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800543600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1801148400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801753200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802358000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802962800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803567600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1804172400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804777200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805382000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805986800
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 205896,
