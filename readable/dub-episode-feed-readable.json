@@ -11,17 +11,6 @@
     }
   },
   {
-    "id": 205909,
-    "idMal": 63293,
-    "format": "TV",
-    "duration": 23,
-    "episode": {
-      "aired": 5,
-      "airedAt": "2026-11-20T17:00:00Z",
-      "addedAt": "2026-11-20T17:00:00Z"
-    }
-  },
-  {
     "id": 178083,
     "idMal": 59088,
     "format": "TV",
@@ -33,13 +22,24 @@
     }
   },
   {
+    "id": 205909,
+    "idMal": 63293,
+    "format": "TV",
+    "duration": 23,
+    "episode": {
+      "aired": 5,
+      "airedAt": "2026-11-20T16:00:00Z",
+      "addedAt": "2026-11-20T17:00:00Z"
+    }
+  },
+  {
     "id": 195516,
     "idMal": 61987,
     "format": "TV",
     "duration": 24,
     "episode": {
       "aired": 6,
-      "airedAt": "2026-11-20T16:00:00Z",
+      "airedAt": "2026-11-20T15:30:00Z",
       "addedAt": "2026-11-20T16:00:16Z"
     }
   },

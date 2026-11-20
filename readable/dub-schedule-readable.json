@@ -336,10 +336,10 @@
     "title": "Chiikawa",
     "route": "chiikawa",
     "native": "ちいかわ",
-    "delayedFrom": "0001-01-01T22:00:00Z",
-    "delayedUntil": "0001-01-01T22:00:00Z",
-    "episodeDate": "2026-11-20T22:00:00Z",
-    "episodeNumber": 22,
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-11-22T17:00:00Z",
+    "episodeNumber": 23,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -374,8 +374,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 22,
-              "airingAt": "2026-11-20T22:00:00Z"
+              "episode": 23,
+              "airingAt": "2026-11-22T17:00:00Z"
             }
           ]
         }
@@ -664,9 +664,9 @@
     "romaji": "Hotaru no Yomeiri",
     "english": "Firefly Wedding",
     "native": "ホタルの嫁入り",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-20T17:00:00Z",
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-11-20T16:00:00Z",
     "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
@@ -705,7 +705,7 @@
           "nodes": [
             {
               "episode": 6,
-              "airingAt": "2026-11-27T17:00:00Z"
+              "airingAt": "2026-11-27T16:00:00Z"
             }
           ]
         }
@@ -1058,9 +1058,9 @@
     "romaji": "Kusuriya no Hitorigoto 3rd Season",
     "english": "The Apothecary Diaries 3rd Season",
     "native": "薬屋のひとりごと 第3期",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-20T16:00:00Z",
+    "delayedFrom": "0001-01-01T15:30:00Z",
+    "delayedUntil": "0001-01-01T15:30:00Z",
+    "episodeDate": "2026-11-20T15:30:00Z",
     "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
@@ -1099,7 +1099,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2026-11-27T16:00:00Z"
+              "airingAt": "2026-11-27T15:30:00Z"
             }
           ]
         }
