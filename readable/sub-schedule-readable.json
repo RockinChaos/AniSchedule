@@ -3845,6 +3845,80 @@
     }
   },
   {
+    "id": 202503,
+    "idMal": 62978,
+    "title": {
+      "romaji": "Majutsu wo Kiwamete Tabi ni Deta Tensei Elf, Moteamashita Jumyou de Ikeru Densetsu to Naru",
+      "native": "魔術を極めて旅に出た転生エルフ、持て余した寿命で生ける伝説となる"
+    },
+    "format": "ONA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202503-JaapiDgTKFy8.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202503-JaapiDgTKFy8.png",
+      "color": "#d6f1ae"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1798642800
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799247600
+        },
+        {
+          "episode": 3,
+          "airingAt": 1799852400
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800457200
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801062000
+        },
+        {
+          "episode": 6,
+          "airingAt": 1801666800
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802271600
+        },
+        {
+          "episode": 8,
+          "airingAt": 1802876400
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803481200
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804086000
+        },
+        {
+          "episode": 11,
+          "airingAt": 1804690800
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805295600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 202851,
     "idMal": 63240,
     "title": {
