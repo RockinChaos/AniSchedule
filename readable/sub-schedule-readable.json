@@ -1935,6 +1935,7 @@
       "Action",
       "Sci-Fi"
     ],
+    "episodes": 11,
     "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
@@ -1965,10 +1966,6 @@
         {
           "episode": 11,
           "airingAt": 1797600600
-        },
-        {
-          "episode": 12,
-          "airingAt": 1798205400
         }
       ]
     }
@@ -8150,6 +8147,79 @@
         {
           "episode": 2,
           "airingAt": 1795705200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 217008,
+    "idMal": 65053,
+    "title": {
+      "romaji": "Shin Oishinbo",
+      "native": "新 美味しんぼ"
+    },
+    "format": "TV",
+    "genres": [
+      "Drama",
+      "Slice of Life"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx217008-F5nigq5dj2hI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx217008-F5nigq5dj2hI.png",
+      "color": "#a1e4ff"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799082000
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799686800
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800291600
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800896400
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801501200
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802106000
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802710800
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803315600
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803920400
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804525200
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805130000
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805734800
         }
       ]
     },
