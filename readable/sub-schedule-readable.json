@@ -628,10 +628,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 89,
-          "airingAt": 1795168800
-        },
-        {
           "episode": 90,
           "airingAt": 1795773600
         },
@@ -849,10 +845,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 158,
-          "airingAt": 1795168500
-        },
-        {
           "episode": 159,
           "airingAt": 1795773300
         },
@@ -1021,10 +1013,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 141,
-          "airingAt": 1795168800
-        },
         {
           "episode": 142,
           "airingAt": 1795773600
@@ -1234,6 +1222,81 @@
         {
           "episode": 12,
           "airingAt": 1805849640
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 174427,
+    "idMal": 57990,
+    "title": {
+      "romaji": "Zombie no Afureta Sekai de Ore dake ga Osowarenai",
+      "native": "ゾンビのあふれた世界で俺だけが襲われない"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Ecchi",
+      "Supernatural",
+      "Thriller"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx174427-ozv3bFtwB08m.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx174427-ozv3bFtwB08m.jpg",
+      "color": "#e41a43"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1798819200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799424000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800028800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800633600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801238400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1801843200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802448000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803052800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803657600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804262400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1804867200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805472000
         }
       ]
     },
@@ -2700,10 +2763,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194207-6yQitDZ3uOi5.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1795167600
-        },
         {
           "episode": 9,
           "airingAt": 1795772400
@@ -5312,6 +5371,7 @@
       "Mahou Shoujo",
       "Music"
     ],
+    "episodes": 12,
     "duration": 23,
     "seasonYear": 2026,
     "coverImage": {
@@ -7033,6 +7093,7 @@
       "Romance",
       "Slice of Life"
     ],
+    "episodes": 13,
     "duration": 25,
     "seasonYear": 2026,
     "coverImage": {
