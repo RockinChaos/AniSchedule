@@ -1219,10 +1219,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 14,
-          "airingAt": 1795273200
-        },
-        {
           "episode": 15,
           "airingAt": 1795618800
         },
@@ -1261,10 +1257,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169581-cdooqY7Jqy3x.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1795273200
-        },
         {
           "episode": 10,
           "airingAt": 1795878000
@@ -2779,10 +2771,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1795275000
-        },
-        {
           "episode": 9,
           "airingAt": 1795879800
         },
@@ -3211,10 +3199,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1795271400
-        },
         {
           "episode": 8,
           "airingAt": 1795876200
@@ -4325,10 +4309,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1795272300
-        },
         {
           "episode": 8,
           "airingAt": 1795877100
@@ -5970,10 +5950,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 8,
-          "airingAt": 1795271400
-        },
-        {
           "episode": 9,
           "airingAt": 1795876200
         },
@@ -7570,37 +7546,6 @@
         {
           "episode": 2,
           "airingAt": 1798124400
-        }
-      ]
-    }
-  },
-  {
-    "id": 214536,
-    "idMal": 63938,
-    "title": {
-      "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
-      "english": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
-      "native": "カードファイト!! ヴァンガード Divinez 運命星戦編"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "episodes": 3,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx214536-dl2KJdHcKWJl.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx214536-dl2KJdHcKWJl.jpg",
-      "color": "#f14335"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 3,
-          "airingAt": 1795271400
         }
       ]
     }
