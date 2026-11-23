@@ -61,9 +61,9 @@
     "title": "Ao Ashi 2nd Season",
     "route": "ao-ashi-2nd-season",
     "native": "アオアシ 第2期",
-    "delayedFrom": "0001-01-01T10:00:00Z",
-    "delayedUntil": "0001-01-01T10:00:00Z",
-    "episodeDate": "2026-11-29T10:00:00Z",
+    "delayedFrom": "0001-01-01T09:00:00Z",
+    "delayedUntil": "0001-01-01T09:00:00Z",
+    "episodeDate": "2026-11-29T09:00:00Z",
     "episodeNumber": 7,
     "episodes": 24,
     "lengthMin": 24,
@@ -101,7 +101,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2026-11-29T10:00:00Z"
+              "airingAt": "2026-11-29T09:00:00Z"
             }
           ]
         }
@@ -1557,10 +1557,10 @@
     "romaji": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
     "english": "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
     "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedFrom": "2026-11-22T16:00:00Z",
+    "delayedUntil": "2026-11-29T16:00:00Z",
     "episodeDate": "2026-11-29T16:00:00Z",
-    "episodeNumber": 8,
+    "episodeNumber": 7,
     "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
@@ -1597,7 +1597,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2026-11-29T16:00:00Z"
             }
           ]
