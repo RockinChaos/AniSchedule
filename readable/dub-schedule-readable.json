@@ -7,8 +7,8 @@
     "native": "#ゾンビさがしてます",
     "delayedFrom": "2026-11-07T15:00:00Z",
     "delayedUntil": "2026-11-14T15:00:00Z",
-    "episodeDate": "2026-11-21T15:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-28T15:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -63,8 +63,8 @@
     "native": "アオアシ 第2期",
     "delayedFrom": "0001-01-01T10:00:00Z",
     "delayedUntil": "0001-01-01T10:00:00Z",
-    "episodeDate": "2026-11-22T10:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-11-29T10:00:00Z",
+    "episodeNumber": 7,
     "episodes": 24,
     "lengthMin": 24,
     "mediaTypes": [
@@ -118,8 +118,8 @@
     "native": "アオのハコ 第2期",
     "delayedFrom": "2026-11-01T08:00:00Z",
     "delayedUntil": "2026-11-08T08:00:00Z",
-    "episodeDate": "2026-11-22T08:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-29T08:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -174,8 +174,8 @@
     "native": "蒼き伝承 ウェルシュ＆シェダー",
     "delayedFrom": "0001-01-01T19:00:00Z",
     "delayedUntil": "0001-01-01T19:00:00Z",
-    "episodeDate": "2026-11-19T19:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-11-26T19:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -227,8 +227,8 @@
     "native": "ブラッククローバー 第2期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-11-21T15:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-11-28T15:00:00Z",
+    "episodeNumber": 7,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -281,10 +281,9 @@
     "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
     "english": "BLEACH: Thousand-Year Blood War - The Calamity",
     "native": "BLEACH 千年血戦篇-禍進譚-",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-10-24T16:30:00Z",
     "delayedUntil": "2026-11-23T16:30:00Z",
-    "episodeDate": "2026-11-16T16:30:00Z",
+    "episodeDate": "2026-11-23T16:30:00Z",
     "episodeNumber": 9,
     "episodes": 10,
     "lengthMin": 24,
@@ -338,8 +337,8 @@
     "native": "ちいかわ",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-22T17:00:00Z",
-    "episodeNumber": 23,
+    "episodeDate": "2026-11-24T17:00:00Z",
+    "episodeNumber": 24,
     "lengthMin": 2,
     "mediaTypes": [
       {
@@ -375,7 +374,7 @@
           "nodes": [
             {
               "episode": 24,
-              "airingAt": "2026-11-29T17:00:00Z"
+              "airingAt": "2026-11-24T17:00:00Z"
             }
           ]
         }
@@ -393,8 +392,8 @@
     "native": "デモンズ・クレスト",
     "delayedFrom": "0001-01-01T12:00:00Z",
     "delayedUntil": "0001-01-01T12:00:00Z",
-    "episodeDate": "2026-11-20T12:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-11-27T12:00:00Z",
+    "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -440,75 +439,6 @@
     "addedAt": "2026-11-05T15:00:00Z"
   },
   {
-    "title": "Digimon BeatBreak",
-    "route": "digimon-beatbreak",
-    "native": "デジモンビートブレイク",
-    "delayedFrom": "0001-01-01T08:00:00Z",
-    "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-11-21T08:00:00Z",
-    "episodeNumber": 49,
-    "subtractedEpisodeNumber": 46,
-    "episodes": 49,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 188388,
-        "idMal": 61269,
-        "title": {
-          "romaji": "DIGIMON BEATBREAK",
-          "english": "DIGIMON BEATBREAK",
-          "native": "DIGIMON BEATBREAK"
-        },
-        "format": "TV",
-        "genres": [
-          "Action",
-          "Adventure",
-          "Fantasy",
-          "Sci-Fi"
-        ],
-        "episodes": 49,
-        "duration": 24,
-        "seasonYear": 2025,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188388-aXx9fsnvezBf.jpg",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188388-aXx9fsnvezBf.jpg",
-          "color": "#fec928"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/188388-kCSxLPMY2JkD.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 46,
-              "airingAt": "2026-11-21T08:00:00Z"
-            },
-            {
-              "episode": 47,
-              "airingAt": "2026-11-21T08:00:00Z"
-            },
-            {
-              "episode": 48,
-              "airingAt": "2026-11-21T08:00:00Z"
-            },
-            {
-              "episode": 49,
-              "airingAt": "2026-11-21T08:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": false,
-    "addedAt": "2026-11-21T22:30:27Z"
-  },
-  {
     "title": "Dragon Ball Super: Beerus",
     "route": "dragon-ball-super-beerus",
     "romaji": "Dragon Ball Super: Beerus",
@@ -516,8 +446,8 @@
     "native": "ドラゴンボール超 ビルス",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-19T16:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-11-26T16:00:00Z",
+    "episodeNumber": 3,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -625,8 +555,8 @@
     "native": "FX戦士くるみちゃん",
     "delayedFrom": "0001-01-01T12:30:00Z",
     "delayedUntil": "0001-01-01T12:30:00Z",
-    "episodeDate": "2026-11-19T12:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-26T12:30:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -681,8 +611,8 @@
     "native": "人付き合いが苦手な未亡人の雪女さんと呪いの指輪",
     "delayedFrom": "2026-11-01T16:05:00Z",
     "delayedUntil": "2026-11-08T16:05:00Z",
-    "episodeDate": "2026-11-22T16:05:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-29T16:05:00Z",
+    "episodeNumber": 8,
     "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
@@ -735,8 +665,8 @@
     "native": "ホタルの嫁入り",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-20T16:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-27T16:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -791,8 +721,8 @@
     "native": "冰剣の魔術師が世界を統べるII",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-19T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-26T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -846,8 +776,8 @@
     "native": "淫獄団地",
     "delayedFrom": "0001-01-01T04:00:00Z",
     "delayedUntil": "0001-01-01T04:00:00Z",
-    "episodeDate": "2026-11-19T04:00:00Z",
-    "episodeNumber": 2,
+    "episodeDate": "2026-11-26T04:00:00Z",
+    "episodeNumber": 3,
     "episodes": 12,
     "lengthMin": 3,
     "mediaTypes": [
@@ -900,8 +830,8 @@
     "native": "ジョジョの奇妙な冒険 スティール・ボール・ラン 2nd - 3rd STAGE",
     "delayedFrom": "0001-01-01T08:00:00Z",
     "delayedUntil": "0001-01-01T08:00:00Z",
-    "episodeDate": "2026-11-20T08:00:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-11-27T08:00:00Z",
+    "episodeNumber": 10,
     "episodes": 11,
     "lengthMin": 25,
     "mediaTypes": [
@@ -959,8 +889,8 @@
     "native": "帰還者の魔法は特別です2期",
     "delayedFrom": "0001-01-01T17:15:00Z",
     "delayedUntil": "0001-01-01T17:15:00Z",
-    "episodeDate": "2026-11-18T17:15:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-25T17:15:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1014,8 +944,8 @@
     "native": "氷の城壁 第2期",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-11-19T15:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-26T15:30:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1072,8 +1002,8 @@
     "native": "黒猫と魔女の教室",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-17T16:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-11-24T16:00:00Z",
+    "episodeNumber": 2,
     "episodes": 24,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1127,10 +1057,10 @@
     "romaji": "Kusuriya no Hitorigoto 3rd Season",
     "english": "The Apothecary Diaries 3rd Season",
     "native": "薬屋のひとりごと 第3期",
-    "delayedFrom": "0001-01-01T15:30:00Z",
-    "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-11-20T15:30:00Z",
-    "episodeNumber": 6,
+    "delayedFrom": "0001-01-01T16:00:00Z",
+    "delayedUntil": "0001-01-01T16:00:00Z",
+    "episodeDate": "2026-11-27T16:00:00Z",
+    "episodeNumber": 7,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1168,7 +1098,7 @@
           "nodes": [
             {
               "episode": 7,
-              "airingAt": "2026-11-27T15:30:00Z"
+              "airingAt": "2026-11-27T16:00:00Z"
             }
           ]
         }
@@ -1185,8 +1115,8 @@
     "native": "恐怖コレクター",
     "delayedFrom": "0001-01-01T17:15:00Z",
     "delayedUntil": "0001-01-01T17:15:00Z",
-    "episodeDate": "2026-11-21T17:15:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-28T17:15:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1241,8 +1171,8 @@
     "native": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-18T17:00:00Z",
-    "episodeNumber": 1,
+    "episodeDate": "2026-11-25T17:00:00Z",
+    "episodeNumber": 2,
     "episodes": 25,
     "lengthMin": 24,
     "mediaTypes": [
@@ -1295,8 +1225,8 @@
     "native": "魔法騎士レイアース (2026)",
     "delayedFrom": "0001-01-01T15:15:00Z",
     "delayedUntil": "0001-01-01T15:15:00Z",
-    "episodeDate": "2026-11-18T15:15:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-25T15:15:00Z",
+    "episodeNumber": 6,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1351,8 +1281,8 @@
     "native": "マジカル★エクスプロ",
     "delayedFrom": "2026-10-24T16:30:00Z",
     "delayedUntil": "2026-10-31T16:30:00Z",
-    "episodeDate": "2026-11-21T16:30:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-11-28T16:30:00Z",
+    "episodeNumber": 10,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1514,8 +1444,8 @@
     "native": "マロニエ王国の七人の騎士",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-11-21T15:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-28T15:00:00Z",
+    "episodeNumber": 9,
     "episodes": 20,
     "lengthMin": 25,
     "mediaTypes": [
@@ -1570,8 +1500,8 @@
     "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
     "delayedFrom": "0001-01-01T14:00:00Z",
     "delayedUntil": "0001-01-01T14:00:00Z",
-    "episodeDate": "2026-11-22T14:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-29T14:00:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1629,8 +1559,8 @@
     "native": "マウスカーソルで現実を操作できるようになったので、女の子をいっぱいクリックしまーす",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-22T16:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-29T16:00:00Z",
+    "episodeNumber": 8,
     "episodes": 8,
     "lengthMin": 7,
     "mediaTypes": [
@@ -1683,8 +1613,8 @@
     "native": "ワンピース",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-17T17:00:00Z",
-    "episodeNumber": 1160,
+    "episodeDate": "2026-11-24T17:00:00Z",
+    "episodeNumber": 1161,
     "lengthMin": 24,
     "mediaTypes": [
       {
@@ -1738,8 +1668,8 @@
     "native": "テムパル ～アイテムの力～",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-11-22T14:30:00Z",
-    "episodeNumber": 9,
+    "episodeDate": "2026-11-29T14:30:00Z",
+    "episodeNumber": 10,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1793,10 +1723,9 @@
     "route": "psyren",
     "english": "PSYREN",
     "native": "PSYЯEN -サイレン-",
-    "delayedText": "Delayed",
     "delayedFrom": "2026-11-16T15:30:00Z",
     "delayedUntil": "2026-11-23T15:30:00Z",
-    "episodeDate": "2026-11-16T15:30:00Z",
+    "episodeDate": "2026-11-23T15:30:00Z",
     "episodeNumber": 5,
     "lengthMin": 23,
     "mediaTypes": [
@@ -1850,8 +1779,8 @@
     "native": "らんま1/2 第3期",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-21T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-28T17:00:00Z",
+    "episodeNumber": 9,
     "lengthMin": 23,
     "mediaTypes": [
       {
@@ -1903,8 +1832,8 @@
     "native": "リラックマ ～ごゆるり夢の旅～",
     "delayedFrom": "2026-09-26T02:00:00Z",
     "delayedUntil": "2026-10-03T02:00:00Z",
-    "episodeDate": "2026-11-21T02:00:00Z",
-    "episodeNumber": 33,
+    "episodeDate": "2026-11-28T02:00:00Z",
+    "episodeNumber": 34,
     "lengthMin": 1,
     "mediaTypes": [
       {
@@ -1957,8 +1886,8 @@
     "native": "佐々木とピーちゃん 第２期",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-11-18T13:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-25T13:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2072,8 +2001,8 @@
     "native": "生徒会にも穴はある！",
     "delayedFrom": "0001-01-01T18:00:00Z",
     "delayedUntil": "0001-01-01T18:00:00Z",
-    "episodeDate": "2026-11-21T18:00:00Z",
-    "episodeNumber": 4,
+    "episodeDate": "2026-11-28T18:00:00Z",
+    "episodeNumber": 5,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2129,8 +2058,8 @@
     "native": "世界最強の魔女、始めました",
     "delayedFrom": "0001-01-01T13:00:00Z",
     "delayedUntil": "0001-01-01T13:00:00Z",
-    "episodeDate": "2026-11-18T13:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-25T13:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2185,8 +2114,8 @@
     "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
     "delayedFrom": "0001-01-01T16:00:00Z",
     "delayedUntil": "0001-01-01T16:00:00Z",
-    "episodeDate": "2026-11-18T16:00:00Z",
-    "episodeNumber": 6,
+    "episodeDate": "2026-11-25T16:00:00Z",
+    "episodeNumber": 7,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2240,8 +2169,8 @@
     "native": "信者ゼロの女神サマと始める異世界攻略",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-11-22T14:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-29T14:30:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2291,8 +2220,8 @@
     "native": "TANK CHAIR-戦車椅子-",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-11-22T14:30:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-29T14:30:00Z",
+    "episodeNumber": 9,
     "episodes": 12,
     "lengthMin": 24,
     "mediaTypes": [
@@ -2345,8 +2274,8 @@
     "native": "探偵はもう、死んでいる。Season2",
     "delayedFrom": "0001-01-01T13:30:00Z",
     "delayedUntil": "0001-01-01T13:30:00Z",
-    "episodeDate": "2026-11-18T13:30:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-25T13:30:00Z",
+    "episodeNumber": 6,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2402,8 +2331,8 @@
     "native": "転生貴族、鑑定スキルで成り上がる 第3期",
     "delayedFrom": "0001-01-01T15:00:00Z",
     "delayedUntil": "0001-01-01T15:00:00Z",
-    "episodeDate": "2026-11-22T15:00:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-29T15:00:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2457,8 +2386,8 @@
     "native": "転生したら剣でした2",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-18T17:00:00Z",
-    "episodeNumber": 5,
+    "episodeDate": "2026-11-25T17:00:00Z",
+    "episodeNumber": 6,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2514,8 +2443,8 @@
     "native": "東京リベンジャーズ 三天戦争編",
     "delayedFrom": "0001-01-01T17:00:00Z",
     "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-20T17:00:00Z",
-    "episodeNumber": 8,
+    "episodeDate": "2026-11-27T17:00:00Z",
+    "episodeNumber": 9,
     "episodes": 13,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2570,8 +2499,8 @@
     "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
     "delayedFrom": "0001-01-01T15:30:00Z",
     "delayedUntil": "0001-01-01T15:30:00Z",
-    "episodeDate": "2026-11-17T15:30:00Z",
-    "episodeNumber": 7,
+    "episodeDate": "2026-11-24T15:30:00Z",
+    "episodeNumber": 8,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2628,8 +2557,8 @@
     "native": "追放された転生重騎士はゲーム知識で無双する",
     "delayedFrom": "2026-09-24T16:00:00Z",
     "delayedUntil": "2026-10-01T16:00:00Z",
-    "episodeDate": "2026-11-19T16:00:00Z",
-    "episodeNumber": 19,
+    "episodeDate": "2026-11-26T16:00:00Z",
+    "episodeNumber": 20,
     "episodes": 26,
     "lengthMin": 23,
     "mediaTypes": [
@@ -2683,8 +2612,8 @@
     "native": "うしろの正面カムイさん",
     "delayedFrom": "0001-01-01T02:30:00Z",
     "delayedUntil": "0001-01-01T02:30:00Z",
-    "episodeDate": "2026-11-19T02:30:00Z",
-    "episodeNumber": 10,
+    "episodeDate": "2026-11-26T02:30:00Z",
+    "episodeNumber": 11,
     "episodes": 12,
     "lengthMin": 12,
     "mediaTypes": [
@@ -2732,59 +2661,6 @@
     "addedAt": "2026-09-16T16:30:00Z"
   },
   {
-    "title": "World Is Dancing",
-    "route": "world-is-dancing",
-    "native": "ワールド イズ ダンシング",
-    "delayedFrom": "0001-01-01T17:00:00Z",
-    "delayedUntil": "0001-01-01T17:00:00Z",
-    "episodeDate": "2026-11-18T17:00:00Z",
-    "episodeNumber": 13,
-    "episodes": 13,
-    "lengthMin": 23,
-    "mediaTypes": [
-      {
-        "name": "TV",
-        "route": "tv"
-      }
-    ],
-    "unaired": false,
-    "media": {
-      "media": {
-        "id": 206521,
-        "idMal": 63347,
-        "title": {
-          "romaji": "World Is Dancing",
-          "english": "The World Is Dancing",
-          "native": "ワールド イズ ダンシング"
-        },
-        "format": "ONA",
-        "genres": [
-          "Drama"
-        ],
-        "episodes": 13,
-        "duration": 24,
-        "seasonYear": 2026,
-        "coverImage": {
-          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206521-ecJuDgjth84C.png",
-          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx206521-ecJuDgjth84C.png",
-          "color": "#e45d78"
-        },
-        "isAdult": false,
-        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206521-zCIAGsiIkh6G.jpg",
-        "airingSchedule": {
-          "nodes": [
-            {
-              "episode": 13,
-              "airingAt": "2026-11-18T17:00:00Z"
-            }
-          ]
-        }
-      }
-    },
-    "verified": true,
-    "addedAt": "2026-08-26T17:00:00Z"
-  },
-  {
     "title": "Youjo Senki II",
     "route": "youjo-senki-ii",
     "romaji": "Youjo Senki II",
@@ -2792,8 +2668,8 @@
     "native": "幼女戦記 II",
     "delayedFrom": "0001-01-01T14:30:00Z",
     "delayedUntil": "0001-01-01T14:30:00Z",
-    "episodeDate": "2026-11-18T14:30:00Z",
-    "episodeNumber": 11,
+    "episodeDate": "2026-11-25T14:30:00Z",
+    "episodeNumber": 12,
     "episodes": 12,
     "lengthMin": 23,
     "mediaTypes": [
