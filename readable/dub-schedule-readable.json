@@ -2436,6 +2436,60 @@
     "addedAt": "2026-10-21T17:00:00Z"
   },
   {
+    "title": "Tetsuryou! Meet with Tetsudou Musume",
+    "route": "tetsuryou-meet-with-tetsudou-musume",
+    "romaji": "Tetsuryou! Meet with Tetsudou Musume",
+    "english": "TETSURYO! meet with Tetsudou Musume",
+    "native": "てつりょー！meet with 鉄道むすめ",
+    "delayedFrom": "0001-01-01T17:00:00Z",
+    "delayedUntil": "0001-01-01T17:00:00Z",
+    "episodeDate": "2026-12-16T17:00:00Z",
+    "episodeNumber": 1,
+    "episodes": 12,
+    "lengthMin": 23,
+    "mediaTypes": [
+      {
+        "name": "TV",
+        "route": "tv"
+      }
+    ],
+    "unaired": true,
+    "media": {
+      "media": {
+        "id": 199594,
+        "idMal": 62615,
+        "title": {
+          "romaji": "Tetsuryou! meet with Tetsudou Musume",
+          "english": "TETSURYO! Meet With Tetsudou Musume",
+          "native": "てつりょー！meet with 鉄道むすめ"
+        },
+        "format": "TV",
+        "genres": [
+          "Slice of Life"
+        ],
+        "episodes": 12,
+        "seasonYear": 2026,
+        "coverImage": {
+          "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199594-moYKzlfIH03U.jpg",
+          "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199594-moYKzlfIH03U.jpg",
+          "color": "#1a78d6"
+        },
+        "isAdult": false,
+        "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199594-iw8KRAiBp3sO.jpg",
+        "airingSchedule": {
+          "nodes": [
+            {
+              "episode": 1,
+              "airingAt": "2026-12-16T17:00:00Z"
+            }
+          ]
+        }
+      }
+    },
+    "verified": false,
+    "addedAt": "2026-12-16T17:00:00Z"
+  },
+  {
     "title": "Tokyo Revengers: Santen Sensou-hen",
     "route": "tokyo-revengers-zoku-hen",
     "romaji": "Tokyo Revengers: Santen Sensou-hen",
