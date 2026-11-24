@@ -9733,5 +9733,29 @@
         }
       ]
     }
+  },
+  {
+    "id": 220237,
+    "title": {
+      "romaji": "Evergreen",
+      "native": "エバーグリーン"
+    },
+    "format": "MUSIC",
+    "genres": [],
+    "episodes": 1,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b220237-tZymLbI9fNBK.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b220237-tZymLbI9fNBK.jpg"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1796047200
+        }
+      ]
+    },
+    "unaired": true
   }
 ]
