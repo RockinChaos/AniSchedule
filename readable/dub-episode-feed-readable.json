@@ -1,5 +1,27 @@
 [
   {
+    "id": 140842,
+    "idMal": 50250,
+    "format": "TV_SHORT",
+    "duration": 2,
+    "episode": {
+      "aired": 24,
+      "airedAt": "2026-11-24T17:00:00Z",
+      "addedAt": "2026-11-24T17:00:16Z"
+    }
+  },
+  {
+    "id": 21,
+    "idMal": 21,
+    "format": "TV",
+    "duration": 24,
+    "episode": {
+      "aired": 1161,
+      "airedAt": "2026-11-24T17:00:00Z",
+      "addedAt": "2026-11-24T17:00:16Z"
+    }
+  },
+  {
     "id": 196974,
     "idMal": 62171,
     "format": "TV",
