@@ -2122,6 +2122,82 @@
     }
   },
   {
+    "id": 186741,
+    "idMal": 61015,
+    "title": {
+      "romaji": "Himekishi-sama no Himo",
+      "native": "姫騎士様のヒモ"
+    },
+    "format": "TV",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186741-jfAFI71jie1x.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186741-jfAFI71jie1x.jpg",
+      "color": "#f1c9ae"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1798986600
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799591400
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800196200
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800801000
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801405800
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802010600
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802615400
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803220200
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803825000
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804429800
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805034600
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805639400
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 186742,
     "idMal": 61014,
     "title": {
