@@ -8908,6 +8908,10 @@
         {
           "episode": 1,
           "airingAt": 1798124400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1803567600
         }
       ]
     },
@@ -9913,6 +9917,32 @@
         {
           "episode": 1,
           "airingAt": 1796047200
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 220266,
+    "title": {
+      "romaji": "Hitozuma OnaPet Yukino-san Chounaikai Onsen Ryokou Zenra Bus Guide!",
+      "native": "人妻オナペット幸乃さん　町内会温泉旅行全裸バスガイド"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg"
+    },
+    "isAdult": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1803567600
         }
       ]
     },
