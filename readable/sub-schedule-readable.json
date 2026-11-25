@@ -9934,6 +9934,33 @@
     ],
     "seasonYear": 2027,
     "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx220266-XySL4gxlSeSI.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx220266-XySL4gxlSeSI.png",
+      "color": "#43aee4"
+    },
+    "isAdult": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1803567600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 220267,
+    "title": {
+      "romaji": "Nariiki Shimai",
+      "native": "ナリイキ姉妹"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
       "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg"
     },
