@@ -973,10 +973,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 9,
-          "airingAt": 1795620600
-        },
-        {
           "episode": 10,
           "airingAt": 1796225400
         },
@@ -1207,10 +1203,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 15,
-          "airingAt": 1795618800
-        },
-        {
           "episode": 16,
           "airingAt": 1795878000
         }
@@ -1288,10 +1280,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/172192-jibcmb7wdbzk.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1795621500
-        },
         {
           "episode": 9,
           "airingAt": 1796226300
@@ -1577,10 +1565,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178868-l7VyM7j7LRtH.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1795617900
-        },
         {
           "episode": 9,
           "airingAt": 1796222700
@@ -3274,10 +3258,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 9,
-          "airingAt": 1795618800
-        },
         {
           "episode": 10,
           "airingAt": 1796223600
@@ -5031,6 +5011,81 @@
         }
       ]
     }
+  },
+  {
+    "id": 205130,
+    "idMal": 63215,
+    "title": {
+      "romaji": "Historié",
+      "native": "ヒストリエ"
+    },
+    "format": "TV",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Psychological"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx205130-oasZ91IQMhMN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx205130-oasZ91IQMhMN.jpg",
+      "color": "#865000"
+    },
+    "isAdult": false,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/205130-BDtd2yGv1a7O.jpg",
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799425380
+        },
+        {
+          "episode": 2,
+          "airingAt": 1799425380
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800030180
+        },
+        {
+          "episode": 4,
+          "airingAt": 1800634980
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801239780
+        },
+        {
+          "episode": 6,
+          "airingAt": 1801844580
+        },
+        {
+          "episode": 7,
+          "airingAt": 1802449380
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803054180
+        },
+        {
+          "episode": 9,
+          "airingAt": 1803658980
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804263780
+        },
+        {
+          "episode": 11,
+          "airingAt": 1804868580
+        },
+        {
+          "episode": 12,
+          "airingAt": 1805473380
+        }
+      ]
+    },
+    "unaired": true
   },
   {
     "id": 205430,
@@ -7175,10 +7230,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213068-EQba2gbIKAy5.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 8,
-          "airingAt": 1795620600
-        },
         {
           "episode": 9,
           "airingAt": 1796225400
