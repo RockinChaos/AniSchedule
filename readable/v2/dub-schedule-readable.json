@@ -42,38 +42,6 @@
     }
   },
   {
-    "id": 135865,
-    "idMal": 49233,
-    "title": {
-      "romaji": "Youjo Senki II",
-      "english": "Saga of Tanya the Evil Season 2",
-      "native": "幼女戦記Ⅱ"
-    },
-    "format": "TV",
-    "genres": [
-      "Action",
-      "Fantasy"
-    ],
-    "episodes": 12,
-    "duration": 24,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135865-T7XIPMAbqcxN.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx135865-T7XIPMAbqcxN.png",
-      "color": "#e46b28"
-    },
-    "isAdult": false,
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/135865-Ws3e7BhBkFxd.jpg",
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 12,
-          "airingAt": 1795617000
-        }
-      ]
-    }
-  },
-  {
     "id": 140842,
     "idMal": 50250,
     "title": {
@@ -481,10 +449,6 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178868-l7VyM7j7LRtH.jpg",
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 6,
-          "airingAt": 1795619700
-        },
         {
           "episode": 7,
           "airingAt": 1796224500
@@ -1304,10 +1268,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 7,
-          "airingAt": 1795622400
-        },
         {
           "episode": 8,
           "airingAt": 1796227200
