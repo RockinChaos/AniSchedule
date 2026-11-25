@@ -3973,6 +3973,80 @@
     "unaired": true
   },
   {
+    "id": 202564,
+    "idMal": 62989,
+    "title": {
+      "romaji": "Kakunaru Ue wa",
+      "native": "描くなるうえは"
+    },
+    "format": "TV",
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance"
+    ],
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx202564-gueNtbyEJWfm.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx202564-gueNtbyEJWfm.jpg",
+      "color": "#a1c9e4"
+    },
+    "isAdult": false,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1799422200
+        },
+        {
+          "episode": 2,
+          "airingAt": 1800027000
+        },
+        {
+          "episode": 3,
+          "airingAt": 1800631800
+        },
+        {
+          "episode": 4,
+          "airingAt": 1801236600
+        },
+        {
+          "episode": 5,
+          "airingAt": 1801841400
+        },
+        {
+          "episode": 6,
+          "airingAt": 1802446200
+        },
+        {
+          "episode": 7,
+          "airingAt": 1803051000
+        },
+        {
+          "episode": 8,
+          "airingAt": 1803655800
+        },
+        {
+          "episode": 9,
+          "airingAt": 1804260600
+        },
+        {
+          "episode": 10,
+          "airingAt": 1804865400
+        },
+        {
+          "episode": 11,
+          "airingAt": 1805470200
+        },
+        {
+          "episode": 12,
+          "airingAt": 1806075000
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
     "id": 202846,
     "idMal": 62958,
     "title": {
@@ -9961,8 +10035,8 @@
     ],
     "seasonYear": 2027,
     "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg"
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx220267-DCufBYOLtIUP.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx220267-DCufBYOLtIUP.png"
     },
     "isAdult": true,
     "airingSchedule": {
