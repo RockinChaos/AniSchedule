@@ -8306,10 +8306,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 20,
-          "airingAt": 1795658400
-        },
-        {
           "episode": 21,
           "airingAt": 1796176800
         },
@@ -8404,6 +8400,10 @@
         {
           "episode": 44,
           "airingAt": 1802916000
+        },
+        {
+          "episode": 45,
+          "airingAt": 1803434400
         }
       ]
     }
@@ -10124,36 +10124,6 @@
       ]
     },
     "unaired": true
-  },
-  {
-    "id": 220079,
-    "title": {
-      "romaji": "Shixiong A Shixiong Final",
-      "native": "师兄啊师兄 最终季"
-    },
-    "format": "ONA",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "episodes": 26,
-    "duration": 21,
-    "seasonYear": 2026,
-    "coverImage": {
-      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx220079-7TiLWUTeqmW8.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx220079-7TiLWUTeqmW8.jpg",
-      "color": "#5daef1"
-    },
-    "isAdult": false,
-    "airingSchedule": {
-      "nodes": [
-        {
-          "episode": 26,
-          "airingAt": 1795658400
-        }
-      ]
-    }
   },
   {
     "id": 220237,
