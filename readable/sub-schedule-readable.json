@@ -710,10 +710,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 90,
-          "airingAt": 1795773600
-        },
-        {
           "episode": 91,
           "airingAt": 1796378400
         },
@@ -924,10 +920,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 159,
-          "airingAt": 1795773300
-        },
-        {
           "episode": 160,
           "airingAt": 1796378100
         },
@@ -1084,10 +1076,6 @@
     "isAdult": false,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 142,
-          "airingAt": 1795773600
-        },
         {
           "episode": 143,
           "airingAt": 1796378400
@@ -9983,6 +9971,38 @@
         {
           "episode": 1,
           "airingAt": 1803567600
+        }
+      ]
+    },
+    "unaired": true
+  },
+  {
+    "id": 220346,
+    "title": {
+      "romaji": "Otaku Tomodachi to no Sex wa Saikou ni Kimochi Ii",
+      "native": "オタク友達とのセックスは最高に気持ちいい"
+    },
+    "format": "OVA",
+    "genres": [
+      "Hentai"
+    ],
+    "duration": 16,
+    "seasonYear": 2027,
+    "coverImage": {
+      "extraLarge": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx220346-a7z9jhs0mHrW.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx220346-a7z9jhs0mHrW.png",
+      "color": "#e4c9ae"
+    },
+    "isAdult": true,
+    "airingSchedule": {
+      "nodes": [
+        {
+          "episode": 1,
+          "airingAt": 1801148400
+        },
+        {
+          "episode": 2,
+          "airingAt": 1801148400
         }
       ]
     },
