@@ -710,8 +710,9 @@
     "romaji": "Hotaru no Yomeiri",
     "english": "Firefly Wedding",
     "native": "ホタルの嫁入り",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-11-27T16:00:00Z",
+    "delayedUntil": "2026-12-04T16:00:00Z",
     "episodeDate": "2026-11-27T16:00:00Z",
     "episodeNumber": 6,
     "episodes": 12,
@@ -750,7 +751,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 7,
+              "episode": 6,
               "airingAt": "2026-12-04T16:00:00Z"
             }
           ]
@@ -1104,8 +1105,9 @@
     "romaji": "Kusuriya no Hitorigoto 3rd Season",
     "english": "The Apothecary Diaries 3rd Season",
     "native": "薬屋のひとりごと 第3期",
-    "delayedFrom": "0001-01-01T16:00:00Z",
-    "delayedUntil": "0001-01-01T16:00:00Z",
+    "delayedText": "Delayed",
+    "delayedFrom": "2026-11-27T16:00:00Z",
+    "delayedUntil": "2026-12-04T16:00:00Z",
     "episodeDate": "2026-11-27T16:00:00Z",
     "episodeNumber": 7,
     "episodes": 12,
@@ -1144,7 +1146,7 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 8,
+              "episode": 7,
               "airingAt": "2026-12-04T16:00:00Z"
             }
           ]
