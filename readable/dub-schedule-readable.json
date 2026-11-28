@@ -1917,8 +1917,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 34,
-              "airingAt": "2026-11-28T02:00:00Z"
+              "episode": 35,
+              "airingAt": "2026-12-05T02:00:00Z"
             }
           ]
         }
@@ -2002,7 +2002,7 @@
         "route": "tv-short"
       }
     ],
-    "unaired": true,
+    "unaired": false,
     "media": {
       "media": {
         "id": 187331,
@@ -2032,8 +2032,8 @@
         "airingSchedule": {
           "nodes": [
             {
-              "episode": 1,
-              "airingAt": "2026-11-28T02:00:00Z"
+              "episode": 2,
+              "airingAt": "2026-12-05T02:00:00Z"
             }
           ]
         }

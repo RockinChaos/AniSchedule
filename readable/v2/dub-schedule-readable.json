@@ -524,10 +524,6 @@
     "airingSchedule": {
       "nodes": [
         {
-          "episode": 34,
-          "airingAt": 1795831200
-        },
-        {
           "episode": 35,
           "airingAt": 1796436000
         },
@@ -697,13 +693,8 @@
     },
     "isAdult": false,
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187331-jpdoCJXIRXFO.jpg",
-    "unaired": true,
     "airingSchedule": {
       "nodes": [
-        {
-          "episode": 1,
-          "airingAt": 1795831200
-        },
         {
           "episode": 2,
           "airingAt": 1796436000
